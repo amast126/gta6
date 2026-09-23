@@ -1,19 +1,172 @@
 [
-  { "date": "2022-02-04", "title": "Rockstar confirms the next GTA is in development", "text": "In a GTA Online community update, Rockstar said active development on the next entry in the series was well underway.", "status": "official", "src": "gematsu-underway" },
-  { "date": "2022-09-19", "title": "Rockstar confirms a network intrusion and leaked early footage", "text": "Rockstar acknowledged that early development footage of the next GTA had been stolen and posted online, and said work would continue as planned.", "status": "official", "src": "wiki-gta6" },
-  { "date": "2023-11-08", "title": "First trailer announced for early December", "text": "Marking Rockstar's 25th anniversary, Sam Houser said the first trailer for the next Grand Theft Auto would arrive in early December.", "status": "official", "src": "wiki-gta6" },
-  { "date": "2023-12-04", "title": "Trailer 1 released", "text": "Posted a day early after leaking. Revealed the title, Lucia, Vice City and a 2025 window.", "status": "official", "src": "yt-trailer1", "links": ["trailer-1"] },
-  { "date": "2024-05-16", "title": "Take-Two narrows the window to fall 2025", "text": "Take-Two's earnings release said the game was expected in fall 2025.", "status": "official", "src": "wiki-gta6" },
-  { "date": "2025-05-02", "title": "Delayed to May 26, 2026", "text": "Rockstar apologised for the extra wait and said it wanted to deliver at the level of quality players expect.", "status": "official", "src": "rsg-nw-delay-may2026" },
-  { "date": "2025-05-06", "title": "Trailer 2 and full site refresh", "text": "Second trailer, 70 screenshots, and official pages for Jason, Lucia, the supporting cast and Leonida's regions.", "status": "official", "src": "t2-pr-trailer2", "links": ["trailer-2", "jason-duval", "lucia-caminos", "leonida"] },
-  { "date": "2025-11-06", "title": "Delayed to November 19, 2026", "text": "Rockstar moved the launch to Thursday, November 19, 2026, citing the polish players expect and deserve.", "status": "official", "src": "rsg-nw-delay-nov2026", "links": ["platforms-and-date"] },
-  { "date": "2026-06-18", "title": "Cover art and editions revealed; pre-order date set", "text": "Rockstar announced pre-orders would open June 25, unveiled the Ultimate Edition and the Vintage Vice City Pack, and showed the cover art.", "status": "official", "src": "rsg-nw-preorder", "links": ["ultimate-edition", "vintage-vice-city-pack"] },
-  { "date": "2026-06-24", "title": "Take-Two press release on pre-orders", "text": "Confirmed $79.99 Standard and $99.99 Ultimate pricing, storefronts, and November 12 pre-load and physical availability.", "status": "official", "src": "t2-pr-preorders", "links": ["pre-orders"] },
-  { "date": "2026-06-25", "title": "Pre-orders open", "text": "Midnight local time, digital and physical.", "status": "official", "src": "rsg-nw-preorder", "links": ["pre-orders"] },
-  { "date": "2026-08-26", "title": "Rockstar addresses gameplay leaks; Extended Look announced", "text": "Rockstar called the leaked videos heartbreaking for the team and announced a Netflix premiere for the next day.", "status": "official", "src": "rsg-nw-extended-look", "links": ["leaks-policy", "extended-look"] },
-  { "date": "2026-08-27", "title": "'An Extended Look' premieres", "text": "Netflix at 3 p.m. ET, then YouTube and the official site at 9 p.m. ET.", "status": "official", "src": "rsg-nw-extended-look-live", "links": ["extended-look"] },
-  { "date": "2026-08-28", "title": "30 fps at launch confirmed", "text": "Rockstar North's Rob Nelson told a visiting creator the consoles are running the game at 30 fps for now.", "status": "official", "src": "techradar-30fps", "links": ["performance"] },
-  { "date": "2026-09-17", "title": "Grand Theft Auto VI: The Album announced", "text": "34 original tracks with Atlantic Records, out November 19; first six songs released.", "status": "official", "src": "rsg-nw-album", "links": ["the-album"] },
-  { "date": "2026-11-12", "title": "Pre-load and physical availability (upcoming)", "text": "Digital pre-loading starts and physical code-in-box copies become available.", "status": "official", "src": "t2-pr-preorders", "links": ["pre-orders"] },
-  { "date": "2026-11-19", "title": "Launch (upcoming)", "text": "PlayStation 5 and Xbox Series X|S. The Album releases the same day.", "status": "official", "src": "rsg-vi-site", "links": ["platforms-and-date", "the-album"] }
+  {
+    "date": "2022-02-04",
+    "title": "Rockstar confirms the next GTA is in development",
+    "text": "In a GTA Online community update, Rockstar said active development on the next entry in the series was well underway.",
+    "status": "official",
+    "src": "gematsu-underway"
+  },
+  {
+    "date": "2022-09-19",
+    "title": "Rockstar confirms a network intrusion and leaked early footage",
+    "text": "Rockstar acknowledged that early development footage of the next GTA had been stolen and posted online, and said work would continue as planned.",
+    "status": "official",
+    "src": "wiki-gta6"
+  },
+  {
+    "date": "2023-11-08",
+    "title": "First trailer announced for early December",
+    "text": "Marking Rockstar's 25th anniversary, Sam Houser said the first trailer for the next Grand Theft Auto would arrive in early December.",
+    "status": "official",
+    "src": "wiki-gta6"
+  },
+  {
+    "date": "2023-12-04",
+    "title": "Trailer 1 released",
+    "text": "Posted a day early after leaking. Revealed the title, Lucia, Vice City and a 2025 window.",
+    "status": "official",
+    "src": "yt-trailer1",
+    "links": [
+      "trailer-1"
+    ]
+  },
+  {
+    "date": "2024-05-16",
+    "title": "Take-Two narrows the window to fall 2025",
+    "text": "Take-Two's earnings release said the game was expected in fall 2025.",
+    "status": "official",
+    "src": "wiki-gta6"
+  },
+  {
+    "date": "2025-05-02",
+    "title": "Delayed to May 26, 2026",
+    "text": "Rockstar apologised for the extra wait and said it wanted to deliver at the level of quality players expect.",
+    "status": "official",
+    "src": "rsg-nw-delay-may2026"
+  },
+  {
+    "date": "2025-05-06",
+    "title": "Trailer 2 and full site refresh",
+    "text": "Second trailer, 70 screenshots, and official pages for Jason, Lucia, the supporting cast and Leonida's regions.",
+    "status": "official",
+    "src": "t2-pr-trailer2",
+    "links": [
+      "trailer-2",
+      "jason-duval",
+      "lucia-caminos",
+      "leonida"
+    ]
+  },
+  {
+    "date": "2025-11-06",
+    "title": "Delayed to November 19, 2026",
+    "text": "Rockstar moved the launch to Thursday, November 19, 2026, citing the polish players expect and deserve.",
+    "status": "official",
+    "src": "rsg-nw-delay-nov2026",
+    "links": [
+      "platforms-and-date"
+    ]
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Cover art and editions revealed; pre-order date set",
+    "text": "Rockstar set June 25 for pre-orders, unveiled the Ultimate Edition and the Vintage Vice City Pack, and released a cover art reveal video.",
+    "status": "official",
+    "src": "rsg-nw-preorders-begin",
+    "links": [
+      "ultimate-edition",
+      "vintage-vice-city-pack"
+    ]
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Pre-order details and pricing",
+    "text": "A Newswire post and Take-Two press release confirmed $79.99 Standard and $99.99 Ultimate pricing, storefronts, and November 12 pre-load and physical availability.",
+    "status": "official",
+    "src": "t2-pr-preorders",
+    "links": [
+      "pre-orders"
+    ]
+  },
+  {
+    "date": "2026-06-25",
+    "title": "Pre-orders open",
+    "text": "Midnight local time, digital and physical.",
+    "status": "official",
+    "src": "rsg-nw-preorder",
+    "links": [
+      "pre-orders"
+    ]
+  },
+  {
+    "date": "2026-08-06",
+    "title": "'An Extended Look' announced for August 27",
+    "text": "Newswire post and teaser: a Netflix premiere at 3 p.m. ET, then YouTube and the official site at 9 p.m. ET.",
+    "status": "official",
+    "src": "rsg-nw-extended-look",
+    "links": [
+      "extended-look"
+    ]
+  },
+  {
+    "date": "2026-08-26",
+    "title": "Rockstar addresses the gameplay leaks",
+    "text": "The day before the Extended Look premiere, Rockstar called the leaked videos heartbreaking for the team and asked fans to wait for the real thing.",
+    "status": "official",
+    "src": "rsg-x-leaks-statement",
+    "links": [
+      "leaks-policy"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "title": "'An Extended Look' premieres",
+    "text": "Netflix at 3 p.m. ET, then YouTube and the official site at 9 p.m. ET.",
+    "status": "official",
+    "src": "rsg-nw-extended-look-live",
+    "links": [
+      "extended-look"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "title": "30 fps at launch confirmed",
+    "text": "Rockstar North's Rob Nelson told a visiting creator the consoles are running the game at 30 fps for now.",
+    "status": "official",
+    "src": "techradar-30fps",
+    "links": [
+      "performance"
+    ]
+  },
+  {
+    "date": "2026-09-17",
+    "title": "Grand Theft Auto VI: The Album announced",
+    "text": "34 original tracks with Atlantic Records, out November 19; first six songs released.",
+    "status": "official",
+    "src": "rsg-nw-album",
+    "links": [
+      "the-album"
+    ]
+  },
+  {
+    "date": "2026-11-12",
+    "title": "Pre-load and physical availability (upcoming)",
+    "text": "Digital pre-loading starts and physical code-in-box copies become available.",
+    "status": "official",
+    "src": "t2-pr-preorders",
+    "links": [
+      "pre-orders"
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "title": "Launch (upcoming)",
+    "text": "PlayStation 5 and Xbox Series X|S. The Album releases the same day.",
+    "status": "official",
+    "src": "rsg-vi-site",
+    "links": [
+      "platforms-and-date",
+      "the-album"
+    ]
+  }
 ]
