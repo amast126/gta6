@@ -75,6 +75,18 @@ const isoDate = (s) => {
   return isNaN(d) ? nowISO() : d.toISOString();
 };
 const byDateDesc = (a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0);
+// Rockstar often posts the same video several times (Shorts, re-uploads). Keep the earliest upload per title.
+function dedupeVideos(items) {
+  const firstByTitle = new Map();
+  for (const it of items) {
+    if (it.type !== 'video') continue;
+    const key = it.title.toLowerCase().replace(/\s+/g, ' ').trim();
+    const cur = firstByTitle.get(key);
+    if (!cur || it.date < cur.date) firstByTitle.set(key, it);
+  }
+  const keep = new Set([...firstByTitle.values()].map((i) => i.id));
+  return items.filter((it) => it.type !== 'video' || keep.has(it.id));
+}
 function merge(prev = [], fresh = [], cap) {
   const map = new Map();
   for (const p of prev) map.set(p.id, p);
@@ -218,7 +230,9 @@ async function getYouTube() {
   const entries = r.text.split('<entry>').slice(1);
   const videos = entries.map((e) => {
     const videoId = tag(e, 'yt:videoId');
+    const href = attr(e, 'link', 'href');
     return {
+      short: /\/shorts\//.test(href),
       id: 'yt-' + videoId,
       type: 'video',
       videoId,
@@ -229,7 +243,10 @@ async function getYouTube() {
       summary: tag(e, 'media:description').split('\n')[0].slice(0, 240)
     };
   });
-  return { videos: videos.filter((v) => v.videoId && GTA6_RE.test(v.title)), total: videos.length };
+  // Shorts are promo clips; keep only full uploads
+  const full = videos.filter((v) => v.videoId && !v.short && GTA6_RE.test(v.title)).map(({ short, ...v }) => v);
+  const shortIds = new Set(videos.filter((v) => v.short).map((v) => 'yt-' + v.videoId));
+  return { videos: full, total: videos.length, shortIds };
 }
 
 // ---------------------------------------------------------------- Google News
@@ -318,6 +335,7 @@ async function main() {
   };
   const checked = nowISO();
   let officialFresh = [];
+  let shortIds = new Set();
 
   // Newswire
   try {
@@ -332,7 +350,9 @@ async function main() {
 
   // YouTube
   try {
-    const { videos, total } = await getYouTube();
+    const yt = await getYouTube();
+    const { videos, total } = yt;
+    shortIds = yt.shortIds;
     officialFresh.push(...videos);
     out.sources.youtube = { ok: true, count: videos.length, scanned: total, checked };
     log(`YouTube: ${videos.length} GTA VI videos of ${total}`);
@@ -366,8 +386,10 @@ async function main() {
 
   // Official merge + push
   const prevIds = new Set((prev?.official || []).map((i) => i.id));
-  const newOfficial = officialFresh.filter((i) => !prevIds.has(i.id));
-  out.official = merge(out.official, officialFresh, MAX_KEEP.official);
+  officialFresh = dedupeVideos(officialFresh);
+  out.official = dedupeVideos(merge(out.official, officialFresh, MAX_KEEP.official)).filter((i) => !shortIds.has(i.id));
+  const keptIds = new Set(out.official.map((i) => i.id));
+  const newOfficial = officialFresh.filter((i) => !prevIds.has(i.id) && keptIds.has(i.id));
   if (!firstRun && newOfficial.length) {
     log(`New official items: ${newOfficial.map((i) => i.title).join(' | ')}`);
     await notify(newOfficial.sort(byDateDesc));
