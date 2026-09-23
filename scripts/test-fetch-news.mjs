@@ -93,5 +93,18 @@ assert(news.sources.newswire.ok === false, 'newswire marked failed');
 assert(news.official.filter((i) => i.type === 'newswire').length === 2, 'previous newswire posts kept');
 assert(news.sources.youtube.ok === true, 'youtube still ok');
 
+// Run 5: a Short that was saved earlier is purged once the feed marks it as a Short; same-title re-uploads collapse
+const prevNews = JSON.parse(fs.readFileSync(path.join(tmp, 'news.json'), 'utf8'));
+prevNews.official.push({ id: 'yt-SHORT000001', type: 'video', videoId: 'SHORT000001', title: 'Grand Theft Auto VI: An Extended Look — Now Playing', url: 'x', date: '2026-08-28T01:01:30.000Z' });
+fs.writeFileSync(path.join(tmp, 'news.json'), JSON.stringify(prevNews));
+const yt3 = yt2.replace('</feed>', '<entry><id>yt:video:SHORT000001</id><yt:videoId>SHORT000001</yt:videoId><title>Grand Theft Auto VI: An Extended Look — Now Playing</title><link rel="alternate" href="https://www.youtube.com/shorts/SHORT000001"/><published>2026-08-28T01:01:30+00:00</published><media:group><media:description>#GTAVI</media:description></media:group></entry><entry><id>yt:video:DUPE0000001</id><yt:videoId>DUPE0000001</yt:videoId><title>Grand Theft Auto VI: An Extended Look</title><link rel="alternate" href="https://www.youtube.com/watch?v=DUPE0000001"/><published>2026-08-29T01:00:00+00:00</published><media:group><media:description>again</media:description></media:group></entry></feed>');
+fs.writeFileSync(path.join(tmp, 'stub.mjs'), makeStub({ gql, yt: yt3, gn }));
+out = run({ NTFY_TOPIC: 'test-topic' });
+news = JSON.parse(fs.readFileSync(path.join(tmp, 'news.json'), 'utf8'));
+assert(!news.official.some((i) => i.id === 'yt-SHORT000001'), 'short purged');
+assert(!news.official.some((i) => i.id === 'yt-DUPE0000001'), 'later same-title re-upload collapsed');
+assert(news.official.some((i) => i.id === 'yt-tJbzMqJGH4k'), 'original upload kept');
+assert(!/ntfy 200: Grand Theft Auto VI: An Extended Look/.test(out), 'no push for short or duplicate');
+
 console.log('fetch-news tests passed');
 fs.rmSync(tmp, { recursive: true, force: true });
