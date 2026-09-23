@@ -1,0 +1,75 @@
+[
+  {
+    "id": "extended-look",
+    "name": "An Extended Look",
+    "subtitle": "26 minutes of gameplay · Aug 27, 2026",
+    "tags": ["video", "gameplay"],
+    "date": "2026-08-27",
+    "video": "tJbzMqJGH4k",
+    "summary": "Rockstar's first long-form gameplay showcase: about 26 minutes covering both protagonists, missions, activities and the world. It premiered on Netflix in the afternoon and hit YouTube that night.",
+    "facts": [
+      { "text": "Premiered on Netflix at 3 p.m. ET on Thursday, August 27, 2026, then went live on Rockstar's YouTube channel and the GTA VI site at 9 p.m. ET.", "status": "official", "src": "rsg-nw-extended-look" },
+      { "text": "Announced the day before, on August 26, alongside Rockstar's statement on the leaks.", "status": "official", "src": "yt-extended-look-announce" },
+      { "text": "Runs roughly 26 minutes.", "status": "reported", "src": "consequence-extended" },
+      { "text": "Netflix and Twitch reportedly buckled under demand during the premiere.", "status": "reported", "src": "wiki-gta6" },
+      { "text": "Rockstar has not called this 'Trailer 3'; as of September 2026 no third trailer has been announced.", "status": "reported", "src": "beebom-trailer3" }
+    ],
+    "links": ["dual-protagonists", "activities", "combat", "leaks-policy", "trailer-2"]
+  },
+  {
+    "id": "trailer-2",
+    "name": "Trailer 2",
+    "subtitle": "May 6, 2025",
+    "tags": ["video", "trailer"],
+    "date": "2025-05-06",
+    "video": "VQRLujxTm3c",
+    "summary": "The second trailer, released with a full site refresh that introduced the supporting cast and Leonida's regions. Captured entirely in-game on PS5.",
+    "facts": [
+      { "text": "Released May 6, 2025 together with new screenshots and character and location pages on the official site.", "status": "official", "src": "t2-pr-trailer2" },
+      { "text": "Rockstar said it was captured entirely in-game on a PlayStation 5, half gameplay and half cutscenes.", "status": "official", "src": "rsg-x-trailer2-captured" },
+      { "text": "Reported to have reached 475 million views across platforms in 24 hours and won Best Game Trailer at the 2025 Golden Joystick Awards.", "status": "reported", "src": "wiki-gta6" },
+      { "text": "Music reported: The Pointer Sisters, Wang Chung, Zenglen and Tammy Wynette.", "status": "reported", "src": "wiki-gta6" }
+    ],
+    "links": ["trailer-1", "extended-look", "jason-duval", "lucia-caminos", "vice-city"]
+  },
+  {
+    "id": "trailer-1",
+    "name": "Trailer 1",
+    "subtitle": "December 4, 2023",
+    "tags": ["video", "trailer"],
+    "date": "2023-12-04",
+    "video": "QdBZY2fkU-0",
+    "summary": "The reveal: title, Lucia, Vice City and a 2025 window that would later slip twice. Rockstar posted it a day early after it leaked.",
+    "facts": [
+      { "text": "Rockstar published the trailer on the evening of December 4, 2023 (US time), ahead of its planned December 5 debut, after it leaked online.", "status": "reported", "src": "gtawiki-trailers" },
+      { "text": "Set to Tom Petty's 'Love Is a Long Road'.", "status": "reported", "src": "wiki-gta6" },
+      { "text": "Reported to have drawn about 93 million views in its first day, a YouTube record at the time.", "status": "reported", "src": "wiki-gta6" }
+    ],
+    "links": ["trailer-2", "lucia-caminos", "vice-city"]
+  },
+  {
+    "id": "the-album",
+    "name": "Grand Theft Auto VI: The Album",
+    "subtitle": "34 original songs · Nov 19, 2026",
+    "tags": ["music"],
+    "date": "2026-09-17",
+    "summary": "A companion album of 34 new tracks made for the game, released by Atlantic Records on launch day. The first six songs are out now.",
+    "facts": [
+      { "text": "Announced September 17, 2026; releases November 19, 2026 alongside the game, in partnership with Atlantic Records, with pre-saves open on streaming services.", "status": "official", "src": "rsg-nw-album" },
+      { "text": "First six songs released September 17: Yung Lean ft. Future & Metro Boomin ('That's It'), Travis Scott ('RHYNO'), CA7RIEL & Paco Amoroso with PinkPantheress, Fred again.. and Etienne de Crécy ('Sexy Magic'), Morgan Wallen ('Last Thing You Need'), Rauw Alejandro ('Macacoa 2000') and Keith Richards ('Bright Lights, Big City').", "status": "reported", "src": "mbw-album" },
+      { "text": "Sam Houser: music is fundamental to Rockstar and part of everything it does.", "status": "reported", "src": "mbw-album" }
+    ],
+    "links": ["extended-look", "platforms-and-date"]
+  },
+  {
+    "id": "official-site",
+    "name": "Official site and artwork",
+    "subtitle": "rockstargames.com/VI",
+    "tags": ["web"],
+    "summary": "Rockstar's hub for the game: trailers, character and location pages, edition details and downloadable artwork.",
+    "facts": [
+      { "text": "Hosts all trailers, the Extended Look, character and region pages, edition information and a media/artwork download section.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["trailer-1", "trailer-2", "extended-look", "ultimate-edition"]
+  }
+]

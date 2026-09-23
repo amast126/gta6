@@ -1,0 +1,59 @@
+[
+  {
+    "id": "pistols",
+    "name": "Pistols and revolvers",
+    "subtitle": "Sidearms",
+    "tags": ["firearm"],
+    "summary": "Each protagonist has a signature sidearm; the Ultimate Edition adds Vice City-styled revolvers and personalised variants.",
+    "facts": [
+      { "text": "Pistols were among the weapons shown in the Extended Look.", "status": "reported", "src": "svg-extended" },
+      { "text": "Ultimate Edition reportedly includes Hawk & Little Morgan revolvers with Vice City styling and personalised variants of the protagonists' sidearms.", "status": "reported", "src": "gtabase-editions" }
+    ],
+    "links": ["combat", "ultimate-edition"]
+  },
+  {
+    "id": "rifles",
+    "name": "Rifles",
+    "subtitle": "Automatic weapons",
+    "tags": ["firearm"],
+    "summary": "Automatic rifles feature in the firefights shown so far, used from cover and from moving vehicles.",
+    "facts": [
+      { "text": "Automatic rifles were shown alongside pistols and shotguns.", "status": "reported", "src": "svg-extended" }
+    ],
+    "links": ["combat"]
+  },
+  {
+    "id": "shotguns",
+    "name": "Shotguns",
+    "subtitle": "One-handed when it counts",
+    "tags": ["firearm"],
+    "summary": "Shotguns return, with a new trick: they can be fired one-handed while your other hand is busy.",
+    "facts": [
+      { "text": "One-handed shotgun use while holding another item was shown in the Extended Look.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["combat"]
+  },
+  {
+    "id": "melee",
+    "name": "Melee and improvised weapons",
+    "subtitle": "Fists, blades and heels",
+    "tags": ["melee"],
+    "summary": "Hand-to-hand combat has dodges and brutal finishers, and improvised weapons include a stiletto heel.",
+    "facts": [
+      { "text": "Improved dodging and melee finishing moves were shown.", "status": "reported", "src": "consequence-extended" },
+      { "text": "High heels used as a stabbing weapon, and fist-fighting when disarmed, were shown.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["combat"]
+  },
+  {
+    "id": "weapon-patterns",
+    "name": "Weapon patterns and skins",
+    "subtitle": "Cosmetics",
+    "tags": ["cosmetic", "edition"],
+    "summary": "Weapons can carry patterns; the pre-order pack's tropical design is the first one confirmed.",
+    "facts": [
+      { "text": "The Vintage Vice City Pack reportedly includes a tropical weapon pattern (a nod to Tommy Vercetti's palm-tree shirt) that applies to most guns.", "status": "reported", "src": "gtabase-editions" }
+    ],
+    "links": ["vintage-vice-city-pack", "pistols"]
+  }
+]

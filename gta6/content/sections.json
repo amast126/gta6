@@ -1,0 +1,11 @@
+[
+  { "id": "characters", "title": "Characters", "file": "characters.json", "icon": "👤", "blurb": "Jason, Lucia and the people of Leonida" },
+  { "id": "locations", "title": "Locations", "file": "locations.json", "icon": "🌴", "blurb": "Vice City, the Keys, Grassrivers and beyond" },
+  { "id": "mechanics", "title": "Mechanics & Features", "file": "mechanics.json", "icon": "🎮", "blurb": "How the game plays" },
+  { "id": "vehicles", "title": "Vehicles", "file": "vehicles.json", "icon": "🚗", "blurb": "Cars, boats, bikes and edition exclusives" },
+  { "id": "weapons", "title": "Weapons", "file": "weapons.json", "icon": "🔫", "blurb": "Guns, melee and combat" },
+  { "id": "story", "title": "Missions & Story", "file": "story.json", "icon": "🎬", "blurb": "Spoiler-tagged story and mission notes", "spoilers": true },
+  { "id": "media", "title": "Trailers & Media", "file": "media.json", "icon": "📺", "blurb": "Every official trailer and release" },
+  { "id": "release", "title": "Release & Editions", "file": "release.json", "icon": "📦", "blurb": "Dates, platforms, editions, pre-orders" },
+  { "id": "timeline", "title": "Timeline", "file": "timeline.json", "icon": "🗓️", "blurb": "Every official announcement, dated", "kind": "timeline" }
+]

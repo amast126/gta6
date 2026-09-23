@@ -1,0 +1,20 @@
+{
+  "name": "gta6-encyclopedia",
+  "version": "1.0.0",
+  "description": "Leonida Files — personal GTA VI encyclopedia (unofficial fan site)",
+  "scripts": {
+    "build": "./build.sh",
+    "check": "node scripts/check-content.mjs",
+    "news": "node scripts/fetch-news.mjs",
+    "icons": "node scripts/make-icons.mjs"
+  },
+  "dependencies": {
+    "esbuild": "0.28.2",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "playwright": "1.56.0"
+  },
+  "private": true
+}

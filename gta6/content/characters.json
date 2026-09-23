@@ -1,0 +1,106 @@
+[
+  {
+    "id": "jason-duval",
+    "name": "Jason Duval",
+    "subtitle": "Playable protagonist",
+    "tags": ["protagonist", "keys"],
+    "summary": "One of the two playable leads. An Army veteran from a family of grifters who has settled into the Leonida Keys, working for the local drug-running crowd and telling himself an easy life is still possible.",
+    "facts": [
+      { "text": "Grew up around hustlers and crooks; joined the Army to put a rough adolescence behind him, then drifted back into the family trade — running product for the Keys' drug operators.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Rockstar's one-line pitch for him is that he wants an easy life but keeps finding things get harder — the setup for him wanting out.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Lives in a trailer on Brian Heder's property in the Keys, helping with Brian's business in exchange.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Shares the story with Lucia; the player can control both, together or separately, switching between them.", "status": "official", "src": "rsg-nw-extended-look-live" },
+      { "text": "The Extended Look shows him running errands for Boobie Ike, robbing gas stations and working as hired muscle at a corporate party.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["lucia-caminos", "brian-heder", "cal-hampton", "leonida-keys", "dual-protagonists", "criminal-profile"]
+  },
+  {
+    "id": "lucia-caminos",
+    "name": "Lucia Caminos",
+    "subtitle": "Playable protagonist",
+    "tags": ["protagonist", "vice-city"],
+    "summary": "The series' first female lead in a mainline game. Raised to fight by her father, she went to prison protecting her family and comes out determined to only make smart moves — right up until she meets Jason.",
+    "facts": [
+      { "text": "Her father taught her to fight from the time she could walk, and life has kept testing her since; standing up for her family is what put her in the Leonida Penitentiary.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Got out of prison through sheer luck rather than good behaviour, and has resolved to play it smart from here.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Grew up in Liberty City before ending up in Leonida.", "status": "reported", "src": "gamesradar-guide" },
+      { "text": "The first non-optional female protagonist in the series' main entries.", "status": "reported", "src": "wiki-gta6" },
+      { "text": "The Extended Look reportedly opens her side of the story with a prison prologue.", "status": "reported", "src": "gamesradar-extended-live", "spoiler": true }
+    ],
+    "links": ["jason-duval", "vice-city", "dual-protagonists", "relationship-system"]
+  },
+  {
+    "id": "cal-hampton",
+    "name": "Cal Hampton",
+    "subtitle": "Jason's friend",
+    "tags": ["keys", "supporting"],
+    "summary": "A conspiracy-minded friend of Jason's who also works around Brian's operation. Happiest at home, screens up, watching the world fall apart from a safe distance.",
+    "facts": [
+      { "text": "Described by Rockstar as Jason's friend and a fellow associate of Brian Heder.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Feels safest at home behind a computer, convinced the government is listening — and nobody around to tell him he's wrong.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["jason-duval", "brian-heder", "leonida-keys"]
+  },
+  {
+    "id": "boobie-ike",
+    "name": "Boobie Ike",
+    "subtitle": "Vice City businessman",
+    "tags": ["vice-city", "supporting"],
+    "summary": "A Vice City legend who turned street money into a real business empire — property, a strip club and a record label — and still carries himself like the neighbourhood's favourite uncle.",
+    "facts": [
+      { "text": "Built a business empire on the streets of Vice City, spanning real estate, a strip club and a recording studio.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Co-owns Only Raw Records with Dre'Quan Priest.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "In the Extended Look, one mission has Jason collecting from a drug lab on Boobie's behalf when a police raid hits.", "status": "reported", "src": "gamesradar-extended-live", "spoiler": true }
+    ],
+    "links": ["dre-quan-priest", "real-dimez", "vice-city", "jason-duval"]
+  },
+  {
+    "id": "dre-quan-priest",
+    "name": "Dre'Quan Priest",
+    "subtitle": "Only Raw Records",
+    "tags": ["vice-city", "supporting", "music"],
+    "summary": "A hustler with an ear for talent who runs Only Raw Records with Boobie Ike and is betting the label on Real Dimez to get him somewhere bigger.",
+    "facts": [
+      { "text": "Rockstar frames him as a hustler with a knack for spotting talent.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Signed the duo Real Dimez to Only Raw Records and sees the label as his ticket out of small-time hustling.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["boobie-ike", "real-dimez", "vice-city"]
+  },
+  {
+    "id": "real-dimez",
+    "name": "Real Dimez (Bae-Luxe and Roxy)",
+    "subtitle": "Rap duo",
+    "tags": ["vice-city", "supporting", "music"],
+    "summary": "Two friends from high school who rapped, hustled and posted their way to a viral following, then signed with Only Raw Records.",
+    "facts": [
+      { "text": "Bae-Luxe and Roxy have been friends since high school and built their following by rapping, hustling and going viral online.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Signed to Only Raw Records, the label run by Dre'Quan Priest and Boobie Ike.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["dre-quan-priest", "boobie-ike", "vice-city", "social-media"]
+  },
+  {
+    "id": "raul-bautista",
+    "name": "Raul Bautista",
+    "subtitle": "Bank robber",
+    "tags": ["supporting", "heists"],
+    "summary": "A charming, experienced bank robber who is always assembling his next crew — and whose jobs keep getting riskier.",
+    "facts": [
+      { "text": "Rockstar describes him as a seasoned bank robber perpetually on the lookout for a new crew.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Charismatic, but each score he lines up carries more risk than the last.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["jason-duval", "lucia-caminos", "heists-and-robberies"]
+  },
+  {
+    "id": "brian-heder",
+    "name": "Brian Heder",
+    "subtitle": "Drug runner, Jason's landlord",
+    "tags": ["keys", "supporting"],
+    "summary": "An old-school Keys smuggler from the 1980s heyday who lets Jason live on his land in exchange for a hand with the business.",
+    "facts": [
+      { "text": "A classic drug runner from the Keys' glory days; still moving product with help from Jason and Cal.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Lets Jason stay in a trailer on his property in return for help with his operation.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Voiced by Stephen Root, according to press reports.", "status": "reported", "src": "wiki-gta6" }
+    ],
+    "links": ["jason-duval", "cal-hampton", "leonida-keys"]
+  }
+]

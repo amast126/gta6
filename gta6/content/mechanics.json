@@ -1,0 +1,152 @@
+[
+  {
+    "id": "dual-protagonists",
+    "name": "Two protagonists, one story",
+    "subtitle": "Switching between Jason and Lucia",
+    "tags": ["core"],
+    "summary": "You play both leads. They can work a job together, with the game switching between them on the fly, or split up and roam Leonida separately.",
+    "facts": [
+      { "text": "Players can play as Jason and Lucia together or set out on their own with either of them.", "status": "official", "src": "rsg-nw-extended-look-live" },
+      { "text": "When the two are together, switching is near-instant mid-mission; when apart, each can be anywhere in the state and the swap plays out as a bird's-eye transition.", "status": "reported", "src": "svg-extended" },
+      { "text": "Some jobs are reportedly only available to one of the two characters.", "status": "reported", "src": "consequence-extended" }
+    ],
+    "links": ["jason-duval", "lucia-caminos", "relationship-system"]
+  },
+  {
+    "id": "relationship-system",
+    "name": "Relationship system",
+    "subtitle": "Jason and Lucia's bond",
+    "tags": ["core", "story"],
+    "summary": "How the two leads treat each other has a running effect on their relationship. It can strain, but reportedly can't be broken outright.",
+    "facts": [
+      { "text": "Choices affect the relationship between Jason and Lucia, with ups and downs based on what the player does.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "The relationship reportedly cannot be permanently broken regardless of player choices.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "Rockstar's site describes hanging out with the other character as optional, not forced.", "status": "reported", "src": "wiki-gta6" }
+    ],
+    "links": ["dual-protagonists", "criminal-profile", "jason-duval", "lucia-caminos"]
+  },
+  {
+    "id": "criminal-profile",
+    "name": "Criminal Profile",
+    "subtitle": "Reputation system",
+    "tags": ["core", "systems"],
+    "summary": "A running record of how heinous your crimes are, working quietly in the background like Red Dead Redemption 2's honour meter.",
+    "facts": [
+      { "text": "Tracks the severity of the player's crimes and nudges how the world responds, in the style of RDR2's honour system.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "An angel-style icon reportedly appears for kind acts, such as being good to animals.", "status": "reported", "src": "consequence-extended" }
+    ],
+    "links": ["relationship-system", "wanted-system", "npc-awareness"]
+  },
+  {
+    "id": "wanted-system",
+    "name": "Wanted system",
+    "subtitle": "Five stars, smarter cops",
+    "tags": ["core", "systems"],
+    "summary": "The five-star wanted level is back, with a few realism tweaks: stash your gun to stay unnoticed, and swap cars to slip a pursuit.",
+    "facts": [
+      { "text": "The classic five-star wanted system returns largely intact.", "status": "reported", "src": "svg-extended" },
+      { "text": "Concealing weapons keeps NPCs from reacting, and changing vehicles can break police detection.", "status": "reported", "src": "svg-extended" }
+    ],
+    "links": ["criminal-profile", "carjacking", "combat"]
+  },
+  {
+    "id": "carjacking",
+    "name": "Carjacking",
+    "subtitle": "More than one way in",
+    "tags": ["systems", "vehicles"],
+    "summary": "Stealing a parked car now depends on what you carry: a slim jim for a quiet entry or a smashed window for a fast, loud one.",
+    "facts": [
+      { "text": "Multiple carjacking methods were shown — a shim/slim-jim for stealth and window-smashing for speed, tied to tools and progression.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["wanted-system", "cars-and-convertibles"]
+  },
+  {
+    "id": "body-and-fitness",
+    "name": "Body, fitness and fatigue",
+    "subtitle": "Your habits show",
+    "tags": ["systems"],
+    "summary": "Eat too much and you gain weight; hit the gym and fitness climbs; push too hard or skip sleep and it shows on your character's face.",
+    "facts": [
+      { "text": "Both Jason and Lucia can gain or lose weight, and exercise raises fitness.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "Overexertion causes fatigue, and sleep deprivation is reportedly visible on the characters.", "status": "reported", "src": "wiki-gta6" },
+      { "text": "Gym sessions, bench pressing, dining and character customisation (hair, clothes, accessories) were all shown.", "status": "reported", "src": "consequence-extended" }
+    ],
+    "links": ["activities", "jason-duval", "lucia-caminos"]
+  },
+  {
+    "id": "npc-awareness",
+    "name": "NPC awareness",
+    "subtitle": "The world notices you",
+    "tags": ["systems", "world"],
+    "summary": "NPCs react to what you do and remember it. Linger to eavesdrop and they'll call you out; enemies are more dangerous than in past games.",
+    "facts": [
+      { "text": "Rockstar says NPC interaction goes much further than Red Dead Redemption 2, including NPCs objecting when you listen in on them too long.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "Rockstar warned that the player is not the only one capable of violence — enemies pose a bigger threat than before.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "NPCs are reported to remember player actions.", "status": "reported", "src": "gamesradar-guide" }
+    ],
+    "links": ["criminal-profile", "wanted-system"]
+  },
+  {
+    "id": "combat",
+    "name": "Combat and gunplay",
+    "subtitle": "Cover, slow-mo and melee",
+    "tags": ["combat"],
+    "summary": "Third-person cover shooting with a slow-motion focus mechanic carried over from RDR2, leg shots to disable enemies, shooting from car back seats and brutal hand-to-hand finishers.",
+    "facts": [
+      { "text": "Refined cover-based shooting with peek-and-shoot, leg shots to disable, and shooting from a vehicle's rear seat.", "status": "reported", "src": "svg-extended" },
+      { "text": "A slow-motion aiming feature in the RDR2 style, plus improved dodging and melee finishing moves.", "status": "reported", "src": "consequence-extended" },
+      { "text": "Shotguns can be fired one-handed while holding something else; improvised melee (including a stiletto heel) was shown.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["pistols", "rifles", "shotguns", "melee", "wanted-system"]
+  },
+  {
+    "id": "social-media",
+    "name": "In-game social media",
+    "subtitle": "Doomscrolling in Leonida",
+    "tags": ["world"],
+    "summary": "A phone full of parody social apps you can actually scroll, sending up 2020s feeds and livestream culture.",
+    "facts": [
+      { "text": "Players can scroll in-game social platforms; crimes can even be livestreamed.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "A Snapmatic-style app returns, parodying modern short-video apps.", "status": "reported", "src": "wiki-gta6" }
+    ],
+    "links": ["real-dimez", "activities"]
+  },
+  {
+    "id": "activities",
+    "name": "Activities and side content",
+    "subtitle": "More to do than ever",
+    "tags": ["world"],
+    "summary": "Beyond missions: jet skis, scuba, airboats, basketball, boxing, gyms, clubs, racing, skydiving and more, spread across the state.",
+    "facts": [
+      { "text": "The Extended Look showed jet skiing, kayaking, airboating, scooter riding, basketball, diving, gym workouts, swimming, VR, racing, boxing, dirt biking, base jumping, clubbing and dancing.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "Parasailing and weightlifting were also shown.", "status": "reported", "src": "svg-extended" }
+    ],
+    "links": ["body-and-fitness", "mount-kalaga", "grassrivers", "boats-and-watercraft"]
+  },
+  {
+    "id": "heists-and-robberies",
+    "name": "Heists and robberies",
+    "subtitle": "From gas stations to banks",
+    "tags": ["core", "missions"],
+    "summary": "Small-scale stick-ups of convenience stores, gas stations and phone shops sit alongside bigger crew jobs with veteran robbers like Raul.",
+    "facts": [
+      { "text": "Several robbery sequences (convenience store, gas station, phone shop) were shown in the Extended Look.", "status": "reported", "src": "svg-extended" },
+      { "text": "Rockstar's site lists heists among the things players will do.", "status": "reported", "src": "gamesradar-guide" }
+    ],
+    "links": ["raul-bautista", "combat", "wanted-system"]
+  },
+  {
+    "id": "performance",
+    "name": "Performance and tech",
+    "subtitle": "30 fps at launch",
+    "tags": ["tech"],
+    "summary": "Runs at 30 frames per second on PS5 and Xbox Series X|S at launch. A 60 fps mode has not been ruled out, but nothing is confirmed.",
+    "facts": [
+      { "text": "Rockstar North's Rob Nelson said the consoles are currently running the game at 30 fps and that is the performance target for now.", "status": "official", "src": "techradar-30fps" },
+      { "text": "Whether a 60 fps or performance mode arrives at launch or later is undecided; resolution, ray tracing and PS5 Pro specifics are unconfirmed.", "status": "reported", "src": "techradar-30fps" },
+      { "text": "Rockstar says no generative AI was used to make the game, and there are no microtransactions in single-player.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "Main story length is reported at roughly 80 hours.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["platforms-and-date"]
+  }
+]

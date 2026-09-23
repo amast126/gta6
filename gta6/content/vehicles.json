@@ -1,0 +1,73 @@
+[
+  {
+    "id": "cars-and-convertibles",
+    "name": "Cars and convertibles",
+    "subtitle": "Street traffic and getaway rides",
+    "tags": ["land"],
+    "summary": "Sedans, sports cars, vans and drop-tops fill Vice City's streets. Convertible roofs are a real mechanic this time.",
+    "facts": [
+      { "text": "Convertibles with working roof mechanics, plus cars and vans, were shown in the Extended Look.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "Sports-car racing is one of the side activities shown.", "status": "reported", "src": "svg-extended" },
+      { "text": "Trailer 2 was captured in-game on a PlayStation 5, so every vehicle in it is in-engine.", "status": "official", "src": "rsg-x-trailer2-captured" }
+    ],
+    "links": ["carjacking", "vice-city", "vapid-stanier-55", "grotti-cheetah-95"]
+  },
+  {
+    "id": "vapid-stanier-55",
+    "name": "'55 Vapid Stanier",
+    "subtitle": "Vintage Vice City Pack",
+    "tags": ["land", "edition"],
+    "summary": "A classic 1950s sedan that comes with every pre-order, along with a personal garage near Ocean Beach.",
+    "facts": [
+      { "text": "Included in the Vintage Vice City Pack together with the Shore Court garage near Ocean Beach.", "status": "reported", "src": "gtabase-editions" },
+      { "text": "The Vintage Vice City Pack is included with all pre-orders and any purchase before November 20, 2026.", "status": "official", "src": "t2-pr-preorders" }
+    ],
+    "links": ["vintage-vice-city-pack", "vice-city", "cars-and-convertibles"]
+  },
+  {
+    "id": "grotti-cheetah-95",
+    "name": "'95 Grotti Cheetah",
+    "subtitle": "Ultimate Edition",
+    "tags": ["land", "edition"],
+    "summary": "A 1990s supercar exclusive to the Ultimate Edition.",
+    "facts": [
+      { "text": "Listed among the Ultimate Edition's exclusive vehicles.", "status": "reported", "src": "gtabase-editions" },
+      { "text": "Rockstar describes the Ultimate Edition as an exclusive collection of premium vehicles, weapons and apparel threaded through Jason and Lucia's story.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["ultimate-edition", "cars-and-convertibles"]
+  },
+  {
+    "id": "vapid-dominator-buggy-67",
+    "name": "'67 Vapid Dominator Buggy",
+    "subtitle": "Ultimate Edition",
+    "tags": ["land", "edition", "offroad"],
+    "summary": "A 1960s muscle car turned off-road buggy, bundled with the Paradise Garage in the Ultimate Edition.",
+    "facts": [
+      { "text": "Included in the Ultimate Edition with the Paradise Garage.", "status": "reported", "src": "gtabase-editions" }
+    ],
+    "links": ["ultimate-edition", "motorcycles-and-dirt-bikes"]
+  },
+  {
+    "id": "motorcycles-and-dirt-bikes",
+    "name": "Motorcycles, dirt bikes and scooters",
+    "subtitle": "Two wheels",
+    "tags": ["land"],
+    "summary": "Dirt-bike racing in the backcountry, scooters in the city and a biker scene out in Port Gellhorn.",
+    "facts": [
+      { "text": "Dirt biking, dirt-bike racing and scooter riding were shown in the Extended Look.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "Port Gellhorn is home to a biker crowd.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["port-gellhorn", "activities"]
+  },
+  {
+    "id": "boats-and-watercraft",
+    "name": "Boats, jet skis and airboats",
+    "subtitle": "On the water",
+    "tags": ["water"],
+    "summary": "Leonida is mostly coastline and swamp, and the vehicle list shows it: jet skis off Vice City, airboats through Grassrivers, boats through the Keys.",
+    "facts": [
+      { "text": "Jet skiing, kayaking, airboating and boating through the swamps all appear in the Extended Look.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["grassrivers", "leonida-keys", "activities"]
+  }
+]

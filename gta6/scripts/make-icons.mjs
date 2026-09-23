@@ -1,0 +1,62 @@
+// Generates icon-180.png, icon-192.png, icon-512.png from an original SVG (striped sunset, palm silhouette).
+// Run: node scripts/make-icons.mjs   (needs the `sharp` package)
+import fs from 'node:fs';
+import path from 'node:path';
+import { createRequire } from 'node:module';
+
+const require = createRequire(import.meta.url);
+let sharp;
+try {
+  sharp = require('sharp');
+} catch {
+  sharp = require(path.join(process.env.HOME || '', '.npm-global/lib/node_modules/sharp'));
+}
+
+const root = path.resolve(new URL('..', import.meta.url).pathname);
+
+const svg = `
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c0b48"/>
+      <stop offset="0.55" stop-color="#5a1a6e"/>
+      <stop offset="1" stop-color="#b8306a"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe082"/>
+      <stop offset="0.5" stop-color="#ff8a3d"/>
+      <stop offset="1" stop-color="#ff3fa4"/>
+    </linearGradient>
+    <clipPath id="sunclip"><circle cx="256" cy="268" r="150"/></clipPath>
+  </defs>
+  <rect width="512" height="512" rx="110" fill="url(#sky)"/>
+  <g clip-path="url(#sunclip)">
+    <circle cx="256" cy="268" r="150" fill="url(#sun)"/>
+    <rect x="80" y="286" width="352" height="12" fill="#2a0f5e"/>
+    <rect x="80" y="318" width="352" height="16" fill="#2a0f5e"/>
+    <rect x="80" y="356" width="352" height="20" fill="#2a0f5e"/>
+    <rect x="80" y="398" width="352" height="26" fill="#2a0f5e"/>
+  </g>
+  <!-- palm silhouette -->
+  <g fill="#12082a">
+    <path d="M150 470 C165 400 172 340 178 300 L194 300 C190 350 186 410 178 470 Z"/>
+    <path d="M186 300 C150 270 110 262 76 282 C118 270 156 284 186 306 Z"/>
+    <path d="M186 300 C160 258 128 236 92 236 C132 246 162 268 190 300 Z"/>
+    <path d="M186 300 C200 256 232 232 268 236 C236 248 210 272 194 304 Z"/>
+    <path d="M186 300 C218 274 256 268 292 284 C254 276 220 286 194 306 Z"/>
+    <path d="M186 298 C174 258 176 224 190 196 C186 232 190 266 196 298 Z"/>
+    <path d="M362 470 C352 410 348 350 344 300 L330 300 C334 350 336 410 342 470 Z"/>
+    <path d="M336 300 C300 280 262 282 236 302 C266 292 300 292 336 308 Z"/>
+    <path d="M336 300 C348 262 380 240 418 244 C384 254 356 276 344 306 Z"/>
+    <path d="M336 300 C370 280 408 280 438 300 C404 292 370 296 344 308 Z"/>
+    <path d="M336 298 C344 260 340 226 324 200 C332 234 334 268 330 298 Z"/>
+  </g>
+  <rect x="0" y="430" width="512" height="82" fill="#12082a"/>
+  <rect x="0" y="430" width="512" height="6" fill="#2ee6d6" opacity="0.9"/>
+</svg>`;
+
+fs.writeFileSync(path.join(root, 'icon.svg'), svg.trim());
+for (const size of [180, 192, 512]) {
+  await sharp(Buffer.from(svg)).resize(size, size).png().toFile(path.join(root, `icon-${size}.png`));
+  console.log(`icon-${size}.png`);
+}

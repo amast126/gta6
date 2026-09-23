@@ -1,0 +1,87 @@
+[
+  {
+    "id": "leonida",
+    "name": "State of Leonida",
+    "subtitle": "The whole map",
+    "tags": ["state"],
+    "summary": "Rockstar's take on Florida: a full state rather than a single city, stretching from the neon of Vice City through swamps, sugar country, mountains and a faded Gulf-coast beach town.",
+    "facts": [
+      { "text": "GTA VI is set across the state of Leonida, with Vice City as its centrepiece.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Rockstar's site groups the state into named regions: Vice City, the Leonida Keys, Grassrivers, Ambrosia, Mount Kalaga National Park and Port Gellhorn.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "The playable map is reported to be about three times the size of Red Dead Redemption 2's.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "Rockstar has described it as the biggest, most immersive evolution of the series so far.", "status": "official", "src": "t2-pr-preorders" }
+    ],
+    "links": ["vice-city", "leonida-keys", "grassrivers", "ambrosia", "mount-kalaga", "port-gellhorn"]
+  },
+  {
+    "id": "vice-city",
+    "name": "Vice City",
+    "subtitle": "The main city",
+    "tags": ["city", "hub"],
+    "summary": "The Miami-inspired heart of Leonida, where sunshine, celebrity and excess run together and everyone is chasing something. Home turf for Boobie Ike's empire and the place the story keeps returning to.",
+    "facts": [
+      { "text": "The centrepiece of the map, returning for the first time since 2002's Vice City — now set in the present day.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Rockstar sums the city up as sunshine, celebrity and hedonism, a place where everyone wants a piece of the action.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Ocean Beach — the Vintage Vice City Pack's garage sits nearby — and the Bayside area were both shown in official material.", "status": "reported", "src": "gtabase-editions" },
+      { "text": "A Wynwood-style arts district called Stockyard has been reported.", "status": "reported", "src": "wiki-gta6" }
+    ],
+    "links": ["leonida", "boobie-ike", "lucia-caminos", "vintage-vice-city-pack", "real-dimez"]
+  },
+  {
+    "id": "leonida-keys",
+    "name": "Leonida Keys",
+    "subtitle": "Island chain",
+    "tags": ["region", "islands"],
+    "summary": "A laid-back string of islands with a long smuggling tradition. Jason's home, and Brian Heder's turf.",
+    "facts": [
+      { "text": "Modelled on the Florida Keys; where Jason lives and works for local drug runners.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Brian Heder ran product here in the 1980s and still does.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["leonida", "jason-duval", "brian-heder", "cal-hampton", "boats-and-watercraft"]
+  },
+  {
+    "id": "grassrivers",
+    "name": "Grassrivers",
+    "subtitle": "Wetlands",
+    "tags": ["region", "swamp"],
+    "summary": "Leonida's Everglades: sawgrass, airboats, alligators and places nobody goes looking.",
+    "facts": [
+      { "text": "A vast wetland region inspired by the Everglades.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Airboat rides through the swamp featured in the Extended Look.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["leonida", "boats-and-watercraft"]
+  },
+  {
+    "id": "ambrosia",
+    "name": "Ambrosia",
+    "subtitle": "Sugar town",
+    "tags": ["region", "rural"],
+    "summary": "A small inland town built around a sugar refinery, with an old-Florida feel a long way from Vice City's glamour.",
+    "facts": [
+      { "text": "A rural town centred on the Ambrosia Sugar refinery.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["leonida"]
+  },
+  {
+    "id": "mount-kalaga",
+    "name": "Mount Kalaga National Park",
+    "subtitle": "Wilderness",
+    "tags": ["region", "nature"],
+    "summary": "Forested hills and backcountry for hiking, camping and getting into trouble far from the city.",
+    "facts": [
+      { "text": "A national park of wooded hills — Rockstar's site pitches it as Leonida's wilder side.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["leonida", "activities"]
+  },
+  {
+    "id": "port-gellhorn",
+    "name": "Port Gellhorn",
+    "subtitle": "Gulf-coast beach town",
+    "tags": ["region", "town"],
+    "summary": "A once-popular beach town on the Gulf side that has slid into motels, biker bars and trailer parks.",
+    "facts": [
+      { "text": "A faded seaside town with a biker scene, described by Rockstar as past its prime.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["leonida", "motorcycles-and-dirt-bikes"]
+  }
+]

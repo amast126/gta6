@@ -1,0 +1,69 @@
+[
+  {
+    "id": "platforms-and-date",
+    "name": "Release date and platforms",
+    "subtitle": "November 19, 2026 · PS5 and Xbox Series X|S",
+    "tags": ["release"],
+    "summary": "Launches Thursday, November 19, 2026 on PlayStation 5 and Xbox Series X|S. No PC or last-gen version has been announced.",
+    "facts": [
+      { "text": "Rockstar set November 19, 2026 as the launch date in a November 2025 Newswire post, saying the extra months would let it finish the game with the expected level of polish.", "status": "official", "src": "rsg-nw-delay-nov2026" },
+      { "text": "Platforms: PlayStation 5 and Xbox Series X|S.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Previously dated fall 2025, then May 26, 2026 (announced May 2, 2025), before the move to November.", "status": "official", "src": "rsg-nw-delay-may2026" },
+      { "text": "As of September 2026 no Windows/PC release is scheduled; press and Take-Two have both reaffirmed there is no further delay.", "status": "reported", "src": "wiki-gta6" },
+      { "text": "Rockstar's site says the game plays best on PlayStation 5.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["standard-edition", "ultimate-edition", "performance", "pre-orders"]
+  },
+  {
+    "id": "pre-orders",
+    "name": "Pre-orders",
+    "subtitle": "Open since June 25, 2026",
+    "tags": ["release", "editions"],
+    "summary": "Pre-orders opened at midnight local time on June 25, 2026 on PlayStation Store, Microsoft Store, the Rockstar Store and retailers. Pre-loads and physical copies arrive November 12.",
+    "facts": [
+      { "text": "Pre-orders began June 25, 2026 at midnight local time, for both editions.", "status": "official", "src": "rsg-nw-preorder" },
+      { "text": "Available through PlayStation Store, Microsoft Store, the Rockstar Games Store and retailers worldwide.", "status": "official", "src": "t2-pr-preorders" },
+      { "text": "Digital pre-loading begins November 12, 2026; physical copies, which contain a download code, ship from the same date.", "status": "official", "src": "t2-pr-preorders" },
+      { "text": "Take-Two called pre-order demand unprecedented; an analyst estimate put most pre-orders on the Ultimate Edition.", "status": "reported", "src": "wiki-gta6" }
+    ],
+    "links": ["standard-edition", "ultimate-edition", "vintage-vice-city-pack", "platforms-and-date"]
+  },
+  {
+    "id": "standard-edition",
+    "name": "Standard Edition",
+    "subtitle": "$79.99",
+    "tags": ["editions"],
+    "summary": "The base game, digital or physical. The physical box holds a download code rather than a disc.",
+    "facts": [
+      { "text": "Priced at $79.99.", "status": "official", "src": "t2-pr-preorders" },
+      { "text": "The physical version contains only a download code — no disc — reportedly to guard against leaks.", "status": "reported", "src": "gtabase-editions" }
+    ],
+    "links": ["ultimate-edition", "vintage-vice-city-pack", "pre-orders"]
+  },
+  {
+    "id": "ultimate-edition",
+    "name": "Ultimate Edition",
+    "subtitle": "$99.99 · digital",
+    "tags": ["editions"],
+    "summary": "The game plus an exclusive set of vehicles, weapons, outfits, tattoos, shops and garages woven through the single-player story.",
+    "facts": [
+      { "text": "Priced at $99.99; includes exclusive premium vehicles, weapons, apparel and items integrated throughout Jason and Lucia's campaign.", "status": "official", "src": "t2-pr-preorders" },
+      { "text": "Reported contents: '95 Grotti Cheetah, '67 Vapid Dominator Buggy with Paradise Garage, Hawk & Little Morgan revolvers, personalised sidearm variants, exclusive outfits and tattoos, access to shops such as Rideout Customs, Sara's Salon, Stock 305, Electric Fang Tattoo and One-Eyed Willie's, plus the Goodtime Gear collection and a classic-car commission.", "status": "reported", "src": "gtabase-editions" },
+      { "text": "Digital only, according to press guides.", "status": "reported", "src": "gtabase-editions" }
+    ],
+    "links": ["grotti-cheetah-95", "vapid-dominator-buggy-67", "pistols", "standard-edition"]
+  },
+  {
+    "id": "vintage-vice-city-pack",
+    "name": "Vintage Vice City Pack",
+    "subtitle": "Pre-order bonus",
+    "tags": ["editions", "bonus"],
+    "summary": "A throwback bundle for anyone who pre-orders or buys before November 20: a '55 Stanier and garage, retro outfits, a tropical weapon pattern and a month of GTA+ for digital buyers.",
+    "facts": [
+      { "text": "Included with all pre-orders and purchases made before November 20, 2026; digital pre-orders also get one free month of GTA+.", "status": "official", "src": "t2-pr-preorders" },
+      { "text": "Rockstar pitches it as benefits that flash back to when the neon burned brightest.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Reported contents: '55 Vapid Stanier with the Shore Court garage near Ocean Beach (weapon locker and fencing deposit), a pastel linen suit for Jason, a red sequin dress for Lucia, and a tropical weapon pattern.", "status": "reported", "src": "gtabase-editions" }
+    ],
+    "links": ["vapid-stanier-55", "weapon-patterns", "vice-city", "pre-orders"]
+  }
+]

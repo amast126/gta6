@@ -1,0 +1,77 @@
+[
+  {
+    "id": "premise",
+    "name": "The premise",
+    "subtitle": "An easy score goes wrong",
+    "tags": ["story"],
+    "spoiler": false,
+    "summary": "Jason and Lucia take what should be a simple job. It isn't, and it drops them into a criminal conspiracy that stretches across the whole state of Leonida.",
+    "facts": [
+      { "text": "Rockstar's official synopsis: when an easy score goes wrong, the pair find themselves on the darkest side of the sunniest place in America, caught up in a conspiracy spanning the state.", "status": "official", "src": "rsg-vi-site" },
+      { "text": "Press coverage frames the story as a Bonnie-and-Clyde-style crime spree across Leonida.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["jason-duval", "lucia-caminos", "leonida"]
+  },
+  {
+    "id": "prison-prologue",
+    "name": "Lucia's prison prologue",
+    "subtitle": "Where the game may begin",
+    "tags": ["story", "opening"],
+    "spoiler": true,
+    "summary": "The Extended Look suggests the story opens with Lucia inside the Leonida Penitentiary before her release.",
+    "facts": [
+      { "text": "Lucia reportedly serves as the entry point to the story through a prison prologue.", "status": "reported", "src": "gamesradar-extended-live" },
+      { "text": "Her official bio says fighting for her family landed her in the Leonida Penitentiary and luck got her out.", "status": "official", "src": "rsg-vi-site" }
+    ],
+    "links": ["lucia-caminos"]
+  },
+  {
+    "id": "mission-boobie-drug-lab",
+    "name": "Drug-lab pickup for Boobie Ike",
+    "subtitle": "Extended Look mission",
+    "tags": ["mission"],
+    "spoiler": true,
+    "summary": "Jason collects from one of Boobie's labs when the police raid it, turning a pickup into an escape.",
+    "facts": [
+      { "text": "Shown in the Extended Look: a drug-lab pickup for Boobie Ike interrupted by a police raid.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["boobie-ike", "jason-duval", "wanted-system"]
+  },
+  {
+    "id": "mission-gas-station",
+    "name": "Gas station and store robberies",
+    "subtitle": "Extended Look missions",
+    "tags": ["mission"],
+    "spoiler": true,
+    "summary": "Quick stick-ups of gas stations, convenience stores and a phone shop, followed by getaway driving and shaking pursuit.",
+    "facts": [
+      { "text": "Multiple robbery sequences and getaway driving with pursuit evasion were shown.", "status": "reported", "src": "svg-extended" }
+    ],
+    "links": ["heists-and-robberies", "wanted-system", "carjacking"]
+  },
+  {
+    "id": "mission-bodyguard",
+    "name": "Bodyguard at a corporate party",
+    "subtitle": "Extended Look mission",
+    "tags": ["mission"],
+    "spoiler": true,
+    "summary": "An escort job at a corporate event that turns into a firefight.",
+    "facts": [
+      { "text": "A bodyguard escort to a corporate party, interrupted by combat, was shown.", "status": "reported", "src": "gamesradar-extended-live" }
+    ],
+    "links": ["combat", "jason-duval"]
+  },
+  {
+    "id": "leaks-policy",
+    "name": "About the 2026 leaks",
+    "subtitle": "What this site does with them",
+    "tags": ["meta"],
+    "spoiler": false,
+    "summary": "Gameplay footage leaked in August 2026 and Rockstar called it heartbreaking for the team. This encyclopedia records that the leaks happened but does not write up story details that come only from leaked material.",
+    "facts": [
+      { "text": "Rockstar said having gameplay videos leak this way was heartbreaking for the team and not how it intended people to see the game after all this time.", "status": "official", "src": "rsg-x-leaks-statement" },
+      { "text": "Press reported that some leaked material contained story spoilers, including for Lucia's arc.", "status": "reported", "src": "gamespot-leaks" }
+    ],
+    "links": ["extended-look"]
+  }
+]

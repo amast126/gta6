@@ -1,0 +1,127 @@
+{
+ "generated": "2026-09-23T17:45:32.023Z",
+ "note": "Seeded by hand on 2026-09-23. The GitHub Action replaces and extends this on its first run.",
+ "sources": {},
+ "official": [
+  {
+   "id": "nw-7599a881942544",
+   "type": "newswire",
+   "title": "Announcing Grand Theft Auto VI: The Album, Coming November 19",
+   "url": "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19",
+   "date": "2026-09-17T14:00:00.000Z",
+   "image": null,
+   "summary": "34 original tracks with Atlantic Records, releasing alongside the game; first six songs out now.",
+   "tag": "Grand Theft Auto VI",
+   "tags": [
+    "Grand Theft Auto VI"
+   ]
+  },
+  {
+   "id": "yt-tJbzMqJGH4k",
+   "type": "video",
+   "videoId": "tJbzMqJGH4k",
+   "title": "Grand Theft Auto VI: An Extended Look",
+   "url": "https://www.youtube.com/watch?v=tJbzMqJGH4k",
+   "date": "2026-08-28T01:00:00.000Z",
+   "image": "https://i.ytimg.com/vi/tJbzMqJGH4k/hqdefault.jpg",
+   "summary": "About 26 minutes of gameplay."
+  },
+  {
+   "id": "nw-4k138k8okkk483",
+   "type": "newswire",
+   "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
+   "url": "https://www.rockstargames.com/newswire/article/4k138k8okkk483/grand-theft-auto-vi-an-extended-look-now-playing",
+   "date": "2026-08-28T01:00:00.000Z",
+   "image": null,
+   "summary": "The Extended Look is live on YouTube and the GTA VI site.",
+   "tag": "Grand Theft Auto VI",
+   "tags": [
+    "Grand Theft Auto VI"
+   ]
+  },
+  {
+   "id": "yt-qq76pQsI1iw",
+   "type": "video",
+   "videoId": "qq76pQsI1iw",
+   "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
+   "url": "https://www.youtube.com/watch?v=qq76pQsI1iw",
+   "date": "2026-08-26T18:00:00.000Z",
+   "image": "https://i.ytimg.com/vi/qq76pQsI1iw/hqdefault.jpg",
+   "summary": "Premieres on Netflix at 3 p.m. ET, then YouTube at 9 p.m. ET."
+  },
+  {
+   "id": "nw-9k2kaa1o3297k9",
+   "type": "newswire",
+   "title": "Grand Theft Auto VI: An Extended Look",
+   "url": "https://www.rockstargames.com/newswire/article/9k2kaa1o3297k9/grand-theft-auto-vi-an-extended-look",
+   "date": "2026-08-26T18:00:00.000Z",
+   "image": null,
+   "summary": "Premieres on Netflix Thursday, August 27 at 3 p.m. ET; on Rockstar YouTube and the GTA VI site at 9 p.m. ET.",
+   "tag": "Grand Theft Auto VI",
+   "tags": [
+    "Grand Theft Auto VI"
+   ]
+  },
+  {
+   "id": "nw-5171972o3ak5oa",
+   "type": "newswire",
+   "title": "Pre-Order Grand Theft Auto VI on June 25",
+   "url": "https://www.rockstargames.com/newswire/article/5171972o3ak5oa/pre-order-grand-theft-auto-vi-on-june-25",
+   "date": "2026-06-18T14:00:00.000Z",
+   "image": null,
+   "summary": "Pre-orders open at midnight local time on June 25, including the Ultimate Edition and the Vintage Vice City Pack.",
+   "tag": "Grand Theft Auto VI",
+   "tags": [
+    "Grand Theft Auto VI"
+   ]
+  },
+  {
+   "id": "nw-ak3ak31a49a221",
+   "type": "newswire",
+   "title": "Grand Theft Auto VI is Now Set to Launch November 19, 2026",
+   "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
+   "date": "2025-11-06T14:00:00.000Z",
+   "image": null,
+   "summary": "Extra months to finish the game with the expected level of polish.",
+   "tag": "Grand Theft Auto VI",
+   "tags": [
+    "Grand Theft Auto VI"
+   ]
+  },
+  {
+   "id": "yt-VQRLujxTm3c",
+   "type": "video",
+   "videoId": "VQRLujxTm3c",
+   "title": "Grand Theft Auto VI Trailer 2",
+   "url": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+   "date": "2025-05-06T14:00:00.000Z",
+   "image": "https://i.ytimg.com/vi/VQRLujxTm3c/hqdefault.jpg",
+   "summary": "Captured entirely in-game on PlayStation 5."
+  },
+  {
+   "id": "nw-258aa538o412ok",
+   "type": "newswire",
+   "title": "Grand Theft Auto VI is Now Coming May 26, 2026",
+   "url": "https://www.rockstargames.com/newswire/article/258aa538o412ok/grand-theft-auto-vi-is-now-coming-may-26-2026",
+   "date": "2025-05-02T14:00:00.000Z",
+   "image": null,
+   "summary": "Release moved from fall 2025 to May 26, 2026.",
+   "tag": "Grand Theft Auto VI",
+   "tags": [
+    "Grand Theft Auto VI"
+   ]
+  },
+  {
+   "id": "yt-QdBZY2fkU-0",
+   "type": "video",
+   "videoId": "QdBZY2fkU-0",
+   "title": "Grand Theft Auto VI Trailer 1",
+   "url": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+   "date": "2023-12-04T23:00:00.000Z",
+   "image": "https://i.ytimg.com/vi/QdBZY2fkU-0/hqdefault.jpg",
+   "summary": "The reveal trailer."
+  }
+ ],
+ "press": [],
+ "community": []
+}
