@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-23T18:45:00.551Z",
+ "generated": "2026-09-23T18:55:13.424Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 5,
    "scanned": 40,
-   "checked": "2026-09-23T18:45:00.551Z"
+   "checked": "2026-09-23T18:55:13.424Z"
   },
   "youtube": {
    "ok": true,
-   "count": 11,
+   "count": 3,
    "scanned": 15,
-   "checked": "2026-09-23T18:45:00.551Z"
+   "checked": "2026-09-23T18:55:13.424Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-09-23T18:45:00.551Z"
+   "checked": "2026-09-23T18:55:13.424Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-23T18:45:00.551Z"
+   "checked": "2026-09-23T18:55:13.424Z"
   }
  },
  "official": [
@@ -37,66 +37,6 @@
    "tags": [
     "Grand Theft Auto VI"
    ]
-  },
-  {
-   "id": "yt-MJOrsRRa9GM",
-   "type": "video",
-   "videoId": "MJOrsRRa9GM",
-   "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-   "url": "https://www.youtube.com/watch?v=MJOrsRRa9GM",
-   "date": "2026-08-28T01:01:30.000Z",
-   "image": "https://i2.ytimg.com/vi/MJOrsRRa9GM/hqdefault.jpg",
-   "summary": "#GrandTheftAutoVI #GTAVI"
-  },
-  {
-   "id": "yt-53C6gUqRpK4",
-   "type": "video",
-   "videoId": "53C6gUqRpK4",
-   "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-   "url": "https://www.youtube.com/watch?v=53C6gUqRpK4",
-   "date": "2026-08-28T01:01:28.000Z",
-   "image": "https://i2.ytimg.com/vi/53C6gUqRpK4/hqdefault.jpg",
-   "summary": "#GrandTheftAutoVI #GTAVI"
-  },
-  {
-   "id": "yt-mAfR_ybf5WM",
-   "type": "video",
-   "videoId": "mAfR_ybf5WM",
-   "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-   "url": "https://www.youtube.com/watch?v=mAfR_ybf5WM",
-   "date": "2026-08-28T01:01:24.000Z",
-   "image": "https://i2.ytimg.com/vi/mAfR_ybf5WM/hqdefault.jpg",
-   "summary": "#GrandTheftAutoVI #GTAVI"
-  },
-  {
-   "id": "yt-L-9NI3mHZVo",
-   "type": "video",
-   "videoId": "L-9NI3mHZVo",
-   "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-   "url": "https://www.youtube.com/watch?v=L-9NI3mHZVo",
-   "date": "2026-08-28T01:01:21.000Z",
-   "image": "https://i1.ytimg.com/vi/L-9NI3mHZVo/hqdefault.jpg",
-   "summary": "#GrandTheftAutoVI #GTAVI"
-  },
-  {
-   "id": "yt-GVTE_MuInQg",
-   "type": "video",
-   "videoId": "GVTE_MuInQg",
-   "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-   "url": "https://www.youtube.com/watch?v=GVTE_MuInQg",
-   "date": "2026-08-28T01:01:18.000Z",
-   "image": "https://i4.ytimg.com/vi/GVTE_MuInQg/hqdefault.jpg",
-   "summary": "#GrandTheftAutoVI #GTAVI"
-  },
-  {
-   "id": "yt-Xzxv75FjMJk",
-   "type": "video",
-   "videoId": "Xzxv75FjMJk",
-   "title": "Grand Theft Auto VI: An Extended Look — Now Playing",
-   "url": "https://www.youtube.com/watch?v=Xzxv75FjMJk",
-   "date": "2026-08-28T01:01:15.000Z",
-   "image": "https://i1.ytimg.com/vi/Xzxv75FjMJk/hqdefault.jpg",
-   "summary": "#GrandTheftAutoVI #GTAVI"
   },
   {
    "id": "yt-tJbzMqJGH4k",
@@ -120,16 +60,6 @@
    "tags": [
     "Grand Theft Auto VI"
    ]
-  },
-  {
-   "id": "yt-YmzCydc4qOk",
-   "type": "video",
-   "videoId": "YmzCydc4qOk",
-   "title": "Grand Theft Auto VI: An Extended Look Coming August 27",
-   "url": "https://www.youtube.com/watch?v=YmzCydc4qOk",
-   "date": "2026-08-06T12:09:13.000Z",
-   "image": "https://i2.ytimg.com/vi/YmzCydc4qOk/hqdefault.jpg",
-   "summary": "Grand Theft Auto VI: An Extended Look will premiere on Netflix Thursday, August 27 at 3 p.m. ET and will also launch on the official Rockstar Games YouTube channel and the Grand Theft Auto VI site at 9 p.m. ET on August 27."
   },
   {
    "id": "yt-qq76pQsI1iw",
@@ -166,16 +96,6 @@
    "tags": [
     "Grand Theft Auto VI"
    ]
-  },
-  {
-   "id": "yt-INjHGpMRjRA",
-   "type": "video",
-   "videoId": "INjHGpMRjRA",
-   "title": "Grand Theft Auto VI: Official Cover Art Reveal",
-   "url": "https://www.youtube.com/watch?v=INjHGpMRjRA",
-   "date": "2026-06-18T13:04:25.000Z",
-   "image": "https://i2.ytimg.com/vi/INjHGpMRjRA/hqdefault.jpg",
-   "summary": "Pre-orders for Grand Theft Auto VI will officially begin on June 25 on digital storefronts and at other select retailers."
   },
   {
    "id": "yt-EiQEBYDox_k",
@@ -249,6 +169,14 @@
  ],
  "press": [
   {
+   "id": "gn-1e0ouhd",
+   "title": "'Welcome to Vice City' sign in Miami ahead of Grand Theft Auto game",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS1d0VllKWFR0RXFzU3p0clNVYnloMXYyM05UcGQwYXdkczgyUm14aXozY0w4NFA5cDVEbkVaVG1uM2J1VjFvbjhuODM1eVJmVVA4YmVEdjBDMkYxeS16Y3R6QU5pRDU1MnV6ZVB4QlJ2YVpHNHFNb1FhUnBRR3ItNnBfUVloOVdxWDNyX0VxVVZQUllYQkQyNGNEeF9uc1ZHV212MUdzSVctR0Q1SkVHNXFBakJQb0lkTFRoWktyQUt5NjE2Wk9NTXMzYXNHZ1l3cDNiMW93OTRWZw?oc=5",
+   "date": "2026-09-23T18:47:00.000Z",
+   "source": "Gainesville Sun",
+   "summary": "'Welcome to Vice City' sign in Miami ahead of Grand Theft Auto game Gainesville Sun"
+  },
+  {
    "id": "gn-ojaywm",
    "title": "The Hidden Price of GTA 6 Is Paid by Americans, And It Doesn’t Land on Take Two’s Balance Sheet",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVEYxWjBBamhCREstamxtR2hVZThQcHcyNThqVXp6S3pWaXRSVGxlb0o0d2JwNlhKWlR2bzJMakxiRkRpZ0tEeUtXdHo0eE9yUXk2Ylg5WnFiUEJUTnRhT0hKY0RsRGVFS3VYRWdBXzRDTXIzMlVfWTZ3Vlk5LWRPV2JiQkZIZUUtOTlvVFJqVWFVWE1Vc20yYXY3cUgyN1c1bFBQYUZwVEw0ZWdZOS1uYVlKSF9LMU9sQUZPTlo5T3hweVpCX1hEUFNuWkg0ZXpLSkE?oc=5",
@@ -261,8 +189,8 @@
    "title": "When Will GTA 6 Launch on PC?",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9La1pkVVh6clpHSXJnQXN0Q211XzFhemRVWG1oUUhBZkZ5T0xUWUlGNGlqUjFwTjdIUzdnS2gzMjczM3FVcTJGOElfdDFHeU5waVFRMVN5MA?oc=5",
    "date": "2026-09-23T17:48:45.000Z",
-   "source": "win.gg",
-   "summary": "When Will GTA 6 Launch on PC? win.gg"
+   "source": "WIN.GG",
+   "summary": "When Will GTA 6 Launch on PC? WIN.GG"
   },
   {
    "id": "gn-1osqalj",
@@ -301,8 +229,8 @@
    "title": "Rainbow Six Siege boss has a plan to retain players during GTA 6 launch: We will reward those who…",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdUU3U2ZLMk1LaEdjelhJRjJaV21nSGMtRUZHM0NmekdGa0pPNy1EUmVOZGxsc2lQeEpIaXppM1IyTEFNWHlUWGlMRFBYV09pR1gxWkFIZ1BkUVRaVGFnY3dTdFRPZVJpTGtpLTlOd1lxZnU3eUNIMXhsWWJhY3pjdXgyR245WHRlejJHWWtib20xcjM4QXdIV2hPQS1IQkxOREgxMzd1dVRabjlaTVRjaHJ4cWZUcVB0WjUxVjlRbEc4eTdUOGp3Yk0yVnU3ZGdEUnZvSHV6bHRoQXJKZlZTcV8zN1BaSlI5TlZaR1ZWb0dOQXlyWkFWdl9SM09FU0VKdFZzaFdwONIBjAJBVV95cUxOYTdFbnJGZ1hXOWY4Qk1XSFlqaFJ2SmlMd2ZZTTBMYkFxQ1k5ZGkyT2ZwemhvajdFc2NYdzhzaWczdmhpblF1Tjd6RXdLNmdxdGl4UGpiVzlEeEFQMW9PZUR1NTNYUVpwV0VFUHphSzg2dUxkTVZ3S2wwUlVoN0E5eThUdHFYRlp3emZwY0hFOG9vQVJINmI4bTFMbmZTQ28tbzVZWG9wTzFWTWQza014NHByN3ZBbzJsUWljM0FzdHR5RjNnVFgxdGV4SHkzTC1LR09tVGF1Qk5vb2lVeExxNW5tZk15cTN4bGRramgyNzdHdnZMcjV1ZFotdktuZzk3WWNHRlliendHazJ4?oc=5",
    "date": "2026-09-23T16:38:00.000Z",
-   "source": "timesofindia.indiatimes.com",
-   "summary": "Rainbow Six Siege boss has a plan to retain players during GTA 6 launch: We will reward those who… timesofindia.indiatimes.com"
+   "source": "The Times of India",
+   "summary": "Rainbow Six Siege boss has a plan to retain players during GTA 6 launch: We will reward those who… The Times of India"
   },
   {
    "id": "gn-c04rka",
@@ -325,16 +253,16 @@
    "title": "NBA star warns GTA 6 will ruin November sports because players and coaches will be too busy playing to train",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSG1QV19ZN2FFN1cyM2xUN09XZ01fbklyTGlyaDdWWFJ1YmZQT0FKQWVTd1VCNDVpQWh4X0RiYkRWUDVMWkdZLTc1ZWtPejlMZm5SaFlOM3NNcHhrRUE2UlJ4U0JrQjBCSGlXdHMxYnVjOHdOekhiMU1sTk5hLXhuZGZBVUVRcnM4dy1fOXNibWJVcEdDUUM4Sk9OY3BnQ2R6SUdUa1doR1gzU2doejVFMGhPYjRWbUtsckdQZ0E2TFZlWWRMOGVxVDFHZXpTdkFpUUdad1lQY29Oam5ocEZkazIyUklGR25hTzdhcHNucmQ?oc=5",
    "date": "2026-09-23T16:03:28.000Z",
-   "source": "GamesRadar+",
-   "summary": "NBA star warns GTA 6 will ruin November sports because players and coaches will be too busy playing to train GamesRadar+"
+   "source": "gamesradar.com",
+   "summary": "NBA star warns GTA 6 will ruin November sports because players and coaches will be too busy playing to train gamesradar.com"
   },
   {
    "id": "gn-1p669jw",
    "title": "Want time off for 'GTA 6'? Here's how to ask your boss.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uaDBBTTRnZzY3NnhWemZBQXhlZXBhcTdCQ21zR2RkUjdaclRabEVCelA0THltdmFXc3JZNnZpbjBaTHF5bHA2bnQ5NDREZjZqOWV0RXljLS1JR2I4QVR5NDVSRDk2V014eWU1Ty0wbWw?oc=5",
    "date": "2026-09-23T15:27:15.000Z",
-   "source": "mashable.com",
-   "summary": "Want time off for 'GTA 6'? Here's how to ask your boss. mashable.com"
+   "source": "Mashable",
+   "summary": "Want time off for 'GTA 6'? Here's how to ask your boss. Mashable"
   },
   {
    "id": "gn-1rux2bx",
@@ -369,12 +297,20 @@
    "summary": "GTA 6 Will Make Pro Athletes Perform Worse, NBA Star Says GameSpot"
   },
   {
+   "id": "gn-11i80rj",
+   "title": "'GTA 6: The Album' soundtrack will get vinyl and CD release",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPelJ4Qkl2cGNJNWdob29OOW5DSGFxLTl2TjRpNWl3ZEhwQjI4ZlkzYVhydU1mUjZSbjJOZENMdW5ZeUVkMERGakpQWDhQeUtoVUFLUUd3TzdZWlg1X1pyQzE4QkFRM0Q1M2lzUUJEMnJROEtQZ25KbDRXSTQzTUlLWEE3Qm5OcW93aV9Nd2hzYTVaX2tMVFE?oc=5",
+   "date": "2026-09-23T14:32:51.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6: The Album' soundtrack will get vinyl and CD release Mashable"
+  },
+  {
    "id": "gn-13lfn9r",
    "title": "'GTA 6' Ultimate Edition contents: What you get for $100",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdzB4VXF4TlhfcWdlaVVlcUZPOENwdzVWVWVybGtyQXpGSUMydkNhcjFOcmVoVmhKdVJtN18yQXNWMzRVbll1d0R6ZXdjN0ZGQzdEeVdTYmYtSmpBWlRXSHRUZjNUaU15WGZjalNpRHQ5R3ZtNmw0WGlkZDc3VzA1ZDg4RXd0TDZhLXc?oc=5",
    "date": "2026-09-23T14:22:35.000Z",
-   "source": "mashable.com",
-   "summary": "'GTA 6' Ultimate Edition contents: What you get for $100 mashable.com"
+   "source": "Mashable",
+   "summary": "'GTA 6' Ultimate Edition contents: What you get for $100 Mashable"
   },
   {
    "id": "gn-ta5rb2",
@@ -405,16 +341,16 @@
    "title": "‘Grand Theft Auto 6’s launch will distract pro athletes, says NBA star",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcGtDRTlYekgwdzk0WFh2eGVpR2RZSVRFTWNwOGNlcjVwVURGclR2V3ZWQjZwcEgyUUMtMjF1OE9RRDdmRXFBTHZmUHBDVi14TWg2TDVQR2JmbWQxNXg2QnctMFNpNC0wcUhMWVpVQkRsZkMydTl6Q2RhdS1KeTBHRWp2MmVFRUtsbl9lTlJFbklnZnFj?oc=5",
    "date": "2026-09-23T13:03:21.000Z",
-   "source": "nme.com",
-   "summary": "‘Grand Theft Auto 6’s launch will distract pro athletes, says NBA star nme.com"
+   "source": "NME",
+   "summary": "‘Grand Theft Auto 6’s launch will distract pro athletes, says NBA star NME"
   },
   {
    "id": "gn-137o14x",
    "title": "Joshua Mills admits Rainbow Six Siege will treat players like \"kings and queens\" when GTA 6 comes out",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcFYtWGVOLUJjeHlLendxQzJGWDhwcUZoNmg1cWRmVjRUZEd1QlkzWlZWTWpHOE1JT2NDUlBNck5vTFpPN2Mzekd0TjhaQzZJdHNzY2VXaUVrS3lVcUprQjhMeWJOTmQtVHU1SUE1YWY3NXdIUERPSVJLdlE2ME9COWNMY0I0Y0l6eUtXM1Y2YnVtbzVrRlFLSlI0V0x2bDJBakttODlDdGJJOV8zUlJ5VXlBaDRsZTVuUUdhenpn?oc=5",
    "date": "2026-09-23T13:00:00.000Z",
-   "source": "SiegeGG",
-   "summary": "Joshua Mills admits Rainbow Six Siege will treat players like \"kings and queens\" when GTA 6 comes out SiegeGG"
+   "source": "siege.gg",
+   "summary": "Joshua Mills admits Rainbow Six Siege will treat players like \"kings and queens\" when GTA 6 comes out siege.gg"
   },
   {
    "id": "gn-hqezkr",
@@ -501,16 +437,16 @@
    "title": "GTA VI will “ruin” the NBA: Steven Adams’ theory",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSjBqSWNtN1pIQTEwVFJtcnBhekJ4NU1zX0JWMjM3ZjBCQWZKaVdnTU1za0xqb3FscGRMUTd4RDdSQWc4azE4S1pNT3BuN1ZfaUNRcDVodmsxRGU4aTBpRm1jM3hCR1l1Y0VMakFXbHRUY21yS2tlLTM0eGxpOWZTemRuSWZ4SmpYUzZNYjc4TzM?oc=5",
    "date": "2026-09-23T08:51:04.000Z",
-   "source": "Dunkest",
-   "summary": "GTA VI will “ruin” the NBA: Steven Adams’ theory Dunkest"
+   "source": "dunkest.com",
+   "summary": "GTA VI will “ruin” the NBA: Steven Adams’ theory dunkest.com"
   },
   {
    "id": "gn-pxb48i",
    "title": "Rockstar Games spends nearly $1 million on ‘Welcome to Vice City’ sign for GTA 6 marketing: Report",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYTZ5c2ZFUkt4ZjZ3YVpyVXhUMzQzaWNLUGs3Qk9xOTFmZnNDSTN4cENvNjJHZGFRMkN2dUJQc1ozNG1lbVpCemIyb3JGaXV5QTh2RXRYRU4zWXJBdjQ0X1p1OU11ZllPbzFYeGhhR0hoZmNzak9RNHRnczNENkl4c1R2LU9SM192WlMwbFhlRFcxVjQzek1BeDYtUHZ5NUljek5NekE2dmtLV0hCNVJRS3dZb2ZSVWtFV1RialpSS0hKMUV3TTdvaWRtWlM3VHdIdHhwY0xIcWhPTmlmY3pZdnAyMkRwN3ZhM1hxM25Pc1NEWmE4RmNuc2tNWXFWLVhvako1TFQ0eETSAY4CQVVfeXFMTjJYcm9CVUFtZ2o5blA5c0lhTWhnVS00TF9KMlhoU3drMUxDVjVKNWJzOWl0MzNiU1MxNmJiNGM4bmRkRU9CX1E0cW9manBlM2ZrQlBiSmtVN3NRcU94akRWZkViZEgzTDV0a2xPbzM5ZEsyR19WUW9kSEhKSnlid2k1VU9icDFQX0NXeE5TeVVFdjNLX0dQWkhGaDN1a2RSWmtFcTZvWElFUlMybFpGNVcydnlqR1BiQVE3YkVaU1JQUjA2UDlTa2lISGFyZWk0elFoQVB1bEZvdnNiT1Zvd1R5WFl6YWlJU2xEd2w1QkhwV2NVakEwRDBLZ2RJR3pQQkgzSVBvalRSOUdhN2lB?oc=5",
    "date": "2026-09-23T04:57:00.000Z",
-   "source": "timesofindia.indiatimes.com",
-   "summary": "Rockstar Games spends nearly $1 million on ‘Welcome to Vice City’ sign for GTA 6 marketing: Report timesofindia.indiatimes.com"
+   "source": "The Times of India",
+   "summary": "Rockstar Games spends nearly $1 million on ‘Welcome to Vice City’ sign for GTA 6 marketing: Report The Times of India"
   },
   {
    "id": "gn-1wyh41k",
@@ -581,8 +517,8 @@
    "title": "GTA 6's $1 million billboard goes up despite protests from local police as Rockstar's real-life Miami takeover gets underway",
    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxORE54bFRLRDM4UWhaUjAtMmM2V2gzM3VoZEpTc2VBdmZCVkFsbXl1VjRKbDhEekhPUV8zT29PMkh1UWxFWHZJOHR3eXNhZlA3MnYxNUtJQk5BdTJXVlJQOUFfck15VUx1U2pZSGJnalZrMzdBd1d6alZRbVUyemYyVkNYOXlVU1Z5YUJYZHpSSDNEOXZaT19IRlFRaWFWc0NFWkgzS043QTNlcm9kWjlNM285dGV2YkRBd05PZ0MtdnFOYV9ZVDF3Uk9RYVh6NkFleVZIcGs4UmJKMlBwaVk1X1U1M1IwYjZyb0htbDNEM1BXeEQ1MUdyMVdFdklNSi1jRm5VZVhn?oc=5",
    "date": "2026-09-22T21:47:17.000Z",
-   "source": "GamesRadar+",
-   "summary": "GTA 6's $1 million billboard goes up despite protests from local police as Rockstar's real-life Miami takeover gets underway GamesRadar+"
+   "source": "gamesradar.com",
+   "summary": "GTA 6's $1 million billboard goes up despite protests from local police as Rockstar's real-life Miami takeover gets underway gamesradar.com"
   },
   {
    "id": "gn-149o24a",
@@ -597,8 +533,8 @@
    "title": "GTA 6 soundtrack: Travis Scott, other artists share cryptic 'GTA 6' messages on Instagram",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLS3VZbnFYdkZrb3dYckUtcEI5bUdvWkJ5NjdCczhvWkljSTVNSGJEM0txN2lSRldjQ202dzQ1NEVyVWZJOHFNbDc0OFR1ZzdRRXBJeV9IV29zTzktTTJCNTA5c2hMSTNSMHhKNm1hMjE4YXR3T1E?oc=5",
    "date": "2026-09-22T20:44:47.000Z",
-   "source": "mashable.com",
-   "summary": "GTA 6 soundtrack: Travis Scott, other artists share cryptic 'GTA 6' messages on Instagram mashable.com"
+   "source": "Mashable",
+   "summary": "GTA 6 soundtrack: Travis Scott, other artists share cryptic 'GTA 6' messages on Instagram Mashable"
   },
   {
    "id": "gn-11pygmh",
@@ -709,24 +645,8 @@
    "title": "GTA 6 Fans Can Explore Leonida Early With New Interactive Map",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejJTWWNxSERfdUZwSGQwMjYtZGQ5RjdKTmFHaVFRQkJnbTRHR29kYVI2VkNlelRIYUxhOWZackQ4Q0dFb0MyRXhXbWpDS0hzcmp0cGREWHlkbS1LQVFacjlfQXVLcEstZnRNRlhBOEVIMWNhMFFVMnNrek4zWVNBMFdKTFZoS2p6MUFBOHh6SQ?oc=5",
    "date": "2026-09-22T09:01:29.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 Fans Can Explore Leonida Early With New Interactive Map GAMINGbible"
-  },
-  {
-   "id": "gn-1lxhn0q",
-   "title": "Rockstar Reveals What GTA 6 Mods Won't Be Allowed to Do",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0lNSEIxdUdaUG9JZFIzWkRWeERaWi1zLUgzZFhMZFZ4eVFvRklOTkhUbU43VlIyQm9zcGlpOTg5NUlIRXZseTdCYkZKY0RCaXBDUUJZNGJlUF80T1NXNEN5WnJzX0pZb0VTM3VfRjNxTEdCZmxnQVZabEdNU29kV0VRZEI?oc=5",
-   "date": "2026-09-22T08:48:39.000Z",
-   "source": "80 Level",
-   "summary": "Rockstar Reveals What GTA 6 Mods Won't Be Allowed to Do 80 Level"
-  },
-  {
-   "id": "gn-172462p",
-   "title": "‘GTA VI Online’ Reportedly Releases in 2027, Twitch's CEO Says",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSkZ2dlFFdEZPOXBsNWNiaUY1TEx3WGhySlJiTWQweXhqdll3TXdua09Pd0hWNjEyemtBWW96cW9Cd0FScGxGeW0xNDhUemVWMUdZZmx3SDdEQzlWZWNMdkljSGhSeU5hNGRFUDBROS1vRDdseXozYW5KaEhVV2FrbHEwb0tvVDYwMHA2VWJWRUtXY2RJSE41T0d3?oc=5",
-   "date": "2026-09-22T07:34:46.000Z",
-   "source": "Hypebeast",
-   "summary": "‘GTA VI Online’ Reportedly Releases in 2027, Twitch's CEO Says Hypebeast"
+   "source": "gamingbible.com",
+   "summary": "GTA 6 Fans Can Explore Leonida Early With New Interactive Map gamingbible.com"
   }
  ],
  "community": [
