@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-23T21:59:58.960Z",
+ "generated": "2026-09-24T00:22:23.213Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 5,
    "scanned": 40,
-   "checked": "2026-09-23T21:59:58.960Z"
+   "checked": "2026-09-24T00:22:23.213Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-23T21:59:58.960Z"
+   "checked": "2026-09-24T00:22:23.213Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-09-23T21:59:58.960Z"
+   "checked": "2026-09-24T00:22:23.213Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-23T21:59:58.960Z"
+   "checked": "2026-09-24T00:22:23.213Z"
   }
  },
  "official": [
@@ -169,12 +169,60 @@
  ],
  "press": [
   {
+   "id": "gn-m8dlcy",
+   "title": "Fans were able to find out the true scale of the map in Grand Theft Auto VI - it's almost twice as large as in Grand Theft Auto V",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOc0ZaRER1UExzREYzX2M1WFprbklYeEI3NE5FdFFSQ19IMk9rZ2ZadGRmVHVZWUp4X0xVRU1JQkR6MjNWOS1QdUFPOWhEZnBNN0hidWhWZmhHWlotMWdaYzhXMzBxeHMtVzNFWWxuYVRybXJwTXVwNWZuTFlFaEphdHZ0TkRITEpwcHBhRDFKQ0tjRnAtNm5Ub21MbUJtZTVsUjh5RXY0NmdhNldJRG02Zi1IR3RGUFdTX1FRTXVNWFBKdmx6WENTMEUtZGVCNTNtWkZtckxLdm1UNXphOTFzWkRrYklpRnBpa1k1RFZDVmQzMjgxdE53dkwwWdIBgAJBVV95cUxNN182bzdTa21LY002Ukl4ZnVNTmVKNXpYaTNYUEU5QUhSWTVlSzB6NVV1ZUNCZThtTkJvbkJJRWJEWExuUkpOa2RzbWRhN3RpNmpzaHJxSmN6REtKUTIxVXpoMHVLSjRWdDl5RzhzWWhLWGpnVFFFYmxzc2pmZ2ZwMk5sNm5RUUVYLWRmTkg2WGlSY2JIYldpLU9nTVBxNVBwWHpzZzNQLV9Ka25OLTFDRmpqY1pZQVFaSFVGS2ljRklYc2lvWndMUWwzYTQ1bklVMkViTzdxRktnTC1UUE8yS2IzNUR0S2dxX2dUR19YYnVfeHVzbTRrY0R0V2plLXI4?oc=5",
+   "date": "2026-09-23T23:04:25.000Z",
+   "source": "ixbt.games",
+   "summary": "Fans were able to find out the true scale of the map in Grand Theft Auto VI - it's almost twice as large as in Grand Theft Auto V ixbt.games"
+  },
+  {
+   "id": "gn-fivfdk",
+   "title": "Miami puts up 'Welcome to Vice City' sign ahead of GTA VI release",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSXgzZXpBWUlYMng3dWpsaUNCTkh4QzJmdWdLYXBIV1pHdGxoaTZSVEJOMVdsY1JkbzFsZ0JVMzFfbmtxdTdrd182OWo0YXJTTF82N09pSDd2V0Y3TmpqeHFYeTVhNzR2YS1tc3B3NDN1U05ic3NTUXRfd3JueEdUTmJQUjB1ZS1ISGotdHlqS21RbGNWSmgzYXFBd3BYa3JMRzRJSk9DSDFRb2FkSUxydjFRSkZrWWdWd0IxVGVHcno3RDV2cnZxencySXJWWkV2R1RUMGZselNWY0p4SjczX0t5bDZBdUlZNnM1Y21tYm9PTkVoekRYMWNTTThjR29ZdDBsTTZscWNSUDQwYVZlWi1zOFdVVzZrUVlFZElERnlFc2owM3NIcHJna1FBWGo5eHJZZm5rMkl5cGVianhR?oc=5",
+   "date": "2026-09-23T22:42:42.000Z",
+   "source": "cw34.com",
+   "summary": "Miami puts up 'Welcome to Vice City' sign ahead of GTA VI release cw34.com"
+  },
+  {
+   "id": "gn-v6qdux",
+   "title": "Miami puts up 'Welcome to Vice City' sign ahead of GTA VI release",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQbGFabml0N250bEtBRE5OaTY3cUY0dGJfeUZYeGx2RHB3VlNLWUtGTy0ycFBnZmpiQkQzSlMtbXJxaGpiV2ZfMGRrYkJXNFhIYmo3T2pfYlNXVEUwdTRhYmtHSy02Y2o3UWdMNVZ2TWpHeXpZSllOZ3U1S1JDTTFSOUh3Vk8zZUJCMndoSlYtX1Fjc3FfV2Jya2M0Ui1NT0x2SU03dmJDbkxKcmJnbUI4SzMzWXJ2UmZ5c1l6N0xXaWNCdG9oVDRPYjhLc0E1WjJLcjFJSUM0Mi0xUzdYRGNXaUFfbURyTUhpYWppREZoQmVaZjMzbS1yS0VXRjBCb2lmS3JCUmtfU2wxNkNyNC1tUDktS19wZHFpWmh6MWRVbTBIcWdtSkJfZ0o2aGNUYjBjRXQ4OFhtSU5vVk5NcTN5bGtISU9nUVg2Z2x3?oc=5",
+   "date": "2026-09-23T22:36:42.000Z",
+   "source": "WPEC",
+   "summary": "Miami puts up 'Welcome to Vice City' sign ahead of GTA VI release WPEC"
+  },
+  {
+   "id": "gn-gu71tt",
+   "title": "Announcing Grand Theft Auto VI: The Album, Coming November 19",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEtDVTl2aW4zSHBuS2NYcmdrNHBWYTE5YXF4aHlwT0FURDVfUTNyQUVUUFZ6MnJxVnpMMlVnM1JGZDZwS3N6QjZHN0R1QlFoQTU3MTFUbC1KZEhZbUVBR3ZvWFUzMWRIN0pNekZiSTJPakllVHdsdjVVdDl5bjFybkdxV1N0NVFoakhqMFZ5UWk3dVM5bHdFU280WGcybEt4RG16b1VxaFlQRzFmQ2FWSmRfLVgtTlZuUjhCV0FB?oc=5",
+   "date": "2026-09-23T22:08:37.000Z",
+   "source": "Rockstar Games",
+   "summary": "Announcing Grand Theft Auto VI: The Album, Coming November 19 Rockstar Games"
+  },
+  {
+   "id": "gn-f4oi9k",
+   "title": "NBA player predicts American athletes' performances will dip in November while they play GTA",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajJVc01ZX1dHYWlnRVJRcnNBYU4wSmZxVmhrNXNOeDljU2ktWWtUb1htSVJnaU90YW5LSi1BWUptU0hGRFJ5VVNRMDRILWc4NXhTMFJ5NFNudnk1QVFhOW5MQzFEMUhQQ2JCV2VpUVppNjduSElXV0FTcjJySzNZZUcwRkxMVHY4?oc=5",
+   "date": "2026-09-23T21:01:06.000Z",
+   "source": "AOL.com",
+   "summary": "NBA player predicts American athletes' performances will dip in November while they play GTA AOL.com"
+  },
+  {
    "id": "gn-xmgxg5",
    "title": "A new fan video shows GTA 6's Vice City is nearly twice the size of GTA 5's Los Santos",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODlmR3BKWDFkM2w4QnFiR2dsOURvVWFTZW05bnJfWlVfcmJ2bWFtczVyZTBqQkNheUpRdnNjV1JDSXM5V2JBQWtUcEM1bXlhdk92YWY3SFYwcVhRUGtJeExFa0xOd2c4QXVmUkJRdmR5eXRpNkFrVURIdmkta3pIUXVUd1hFNThiamhNOW5BZi1zUFJSUXA1YTMwX3N0WXlPRnNuRHlSeTNoWktmZHdGRFlaYnptYzYtMkgwdEZrVlh6M2llRm1URHltN3FZQQ?oc=5",
    "date": "2026-09-23T20:55:14.000Z",
-   "source": "tweaktown.com",
-   "summary": "A new fan video shows GTA 6's Vice City is nearly twice the size of GTA 5's Los Santos tweaktown.com"
+   "source": "TweakTown",
+   "summary": "A new fan video shows GTA 6's Vice City is nearly twice the size of GTA 5's Los Santos TweakTown"
+  },
+  {
+   "id": "gn-k3lrds",
+   "title": "Hackers Behind Flopped 'GTA 6' Leak Officially Threatening the FBI Now",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2drUGN0YjVDTWZ4VzV2OWgwTEc2SUR4VGVNS24wSU8tMDBwRXAyMmJIRjJCTjNydGRGWnV0R19vV3RLXzZOVkpidGFvelFrSkJoU25Zc2VjQ2c3UW1FTVNVdjFsUmdEN1lWdUNyVEl5Skk2VUo5a1JKeEowYnJNQTJB?oc=5",
+   "date": "2026-09-23T20:35:48.000Z",
+   "source": "Polygon.com",
+   "summary": "Hackers Behind Flopped 'GTA 6' Leak Officially Threatening the FBI Now Polygon.com"
   },
   {
    "id": "gn-4ujdkj",
@@ -193,14 +241,6 @@
    "summary": "Why did Miami-Dade's mayor approve the GTA 6 Vice City sign without a county board vote? Attack of the Fanboy"
   },
   {
-   "id": "gn-gu71tt",
-   "title": "Announcing Grand Theft Auto VI: The Album, Coming November 19",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEtDVTl2aW4zSHBuS2NYcmdrNHBWYTE5YXF4aHlwT0FURDVfUTNyQUVUUFZ6MnJxVnpMMlVnM1JGZDZwS3N6QjZHN0R1QlFoQTU3MTFUbC1KZEhZbUVBR3ZvWFUzMWRIN0pNekZiSTJPakllVHdsdjVVdDl5bjFybkdxV1N0NVFoakhqMFZ5UWk3dVM5bHdFU280WGcybEt4RG16b1VxaFlQRzFmQ2FWSmRfLVgtTlZuUjhCV0FB?oc=5",
-   "date": "2026-09-23T19:15:00.000Z",
-   "source": "Rockstar Games",
-   "summary": "Announcing Grand Theft Auto VI: The Album, Coming November 19 Rockstar Games"
-  },
-  {
    "id": "gn-tbaktd",
    "title": "Game of Thrones Star Kit Harington Isn't a Gamer, But He's Excited for Grand Theft Auto 6",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSFhVQkJzMjJTdldSQ0tTTUNWbWo5Z1dBV2QyWldqaWs3U0tIY3YycEN1UEd4N3Q4R3J4cHZHNnFHWS0yNDRIZmZ4WWcwR2lCYUk1cm1zcjFVVTVtWnRYbjBrTGFxZHo3c2VlTTZYcTNNcnRQdFlBN0xwRWdTMmJaOHdZM1JjY2NwbXlVMWdjc3pVQktaemNSZ3NUbHd1SVZGYVMzXzEtLU13LTJOdE5Lb0xEUk5MYXJuVnNtWnVQTVF1U25wZHJqMFVaMzJrbk5qV1E?oc=5",
@@ -212,7 +252,7 @@
    "id": "gn-np30pc",
    "title": "Rainbow Six Siege Dev On Competing With GTA 6 And Why There Are No Plans For Siege 2",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGZaa1pkSGZyR0dJOWZRbWhwR3BiUUotR2lndUItZXhxQVluNXRHdC1ScDFSbzZ5bFRDU3V3cTEzQTVtM0hRV3RLdEh2UHItVFVMeG9uR3pISWhPNlpWSzJ3QnRKWkduWFJDOHFmdTdkMG1ZbjRWYnpOMzlHZkU5djJiLXZHblJNSi1CejdGbHR0b2QxWk1TdVRvSTBBS25RaWZsSDg4ZUxtclB4WnlFSHdZMUxFV0cwRUtR?oc=5",
-   "date": "2026-09-23T18:58:30.000Z",
+   "date": "2026-09-23T19:00:03.000Z",
    "source": "GameSpot",
    "summary": "Rainbow Six Siege Dev On Competing With GTA 6 And Why There Are No Plans For Siege 2 GameSpot"
   },
@@ -221,8 +261,8 @@
    "title": "'Welcome to Vice City' sign in Miami ahead of Grand Theft Auto game",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdm5SYlVwQ0tHMEQzeUF4MHgzVVpIaThkTElPandWcDZHWTBMcThSMUl4THhwY2JuWDBMNlJtYVlHSndVbnh1QjdiVHFRVE9sR1RfZ1pqTjE1TjdZNThxckNZVEhES050V3ctYjRLQVhNdTNEYUJRWkNreXNyeTd4akZkX1BOV1lKelgyMl9yMWdFUV9FZFZjOWhYeFhBQllNbVhEbmh3UndVVndMN3hTQktZcXZIZzN1MjFaQUlQR2xNTExKVXNzcUsyNkRXbU13VE9UQlJn?oc=5",
    "date": "2026-09-23T18:47:00.000Z",
-   "source": "USA Today",
-   "summary": "'Welcome to Vice City' sign in Miami ahead of Grand Theft Auto game USA Today"
+   "source": "usatoday.com",
+   "summary": "'Welcome to Vice City' sign in Miami ahead of Grand Theft Auto game usatoday.com"
   },
   {
    "id": "gn-1t9gnmf",
@@ -239,6 +279,14 @@
    "date": "2026-09-23T18:18:18.000Z",
    "source": "Barchart.com",
    "summary": "The Hidden Price of GTA 6 Is Paid by Americans, And It Doesn’t Land on Take Two’s Balance Sheet Barchart.com"
+  },
+  {
+   "id": "gn-bh57u2",
+   "title": "Every 'GTA VI: The Album' Artist Revealed So Far",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRmNYZmxUTmFBcy1PVHh5eTZ2UXlMTi1WMzFvckZuOHZJQ0JHay1INW15UnRlWnBoSmo0UXgzYnQzZ094WXJMaXR2bWtKX09aQUtwb2hRSEtMQ3FscVdfd0pMZ1J0ZGRfRl9VZk1iZGx6YUxSR2VOSzYxaDdHYlpVdWJR?oc=5",
+   "date": "2026-09-23T18:15:06.000Z",
+   "source": "Sweety High",
+   "summary": "Every 'GTA VI: The Album' Artist Revealed So Far Sweety High"
   },
   {
    "id": "gn-1bo2rkn",
@@ -258,11 +306,11 @@
   },
   {
    "id": "gn-1osqalj",
-   "title": "Rockstar Games Spends Nearly $1 Million to Put GTA 6 on Miami's Skyline",
+   "title": "Rockstar Games Nails a $975,000 Vice City Sign to Miami for a Year",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPREhnQU9FSWtqZmh5SWVnTDh5NFhJWkhlMWNKWmN2SWdyVFl6WWxQZUhYU20xazI5RE9oUXg2WnBLU005V21ReU1ZOF9JOUxNdEpLelAwR2dlRXhiaWFLVDJlbGJWQ0RPNUhwUG5vbmZkeEhVdnBSSy1leGhIWTNBaWtvOTV6dzh1MHJZd1RaWXBkYUVQRExWUjF2aw?oc=5",
    "date": "2026-09-23T17:32:30.000Z",
    "source": "DesignRush",
-   "summary": "Rockstar Games Spends Nearly $1 Million to Put GTA 6 on Miami's Skyline DesignRush"
+   "summary": "Rockstar Games Nails a $975,000 Vice City Sign to Miami for a Year DesignRush"
   },
   {
    "id": "gn-1mnxn6x",
@@ -289,14 +337,6 @@
    "summary": "Actress resembling Lucia from GTA VI doesn't understand why her account attracts millions of users ixbt.games"
   },
   {
-   "id": "gn-bh57u2",
-   "title": "Every 'GTA VI: The Album' Artist Revealed So Far",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRmNYZmxUTmFBcy1PVHh5eTZ2UXlMTi1WMzFvckZuOHZJQ0JHay1INW15UnRlWnBoSmo0UXgzYnQzZ094WXJMaXR2bWtKX09aQUtwb2hRSEtMQ3FscVdfd0pMZ1J0ZGRfRl9VZk1iZGx6YUxSR2VOSzYxaDdHYlpVdWJR?oc=5",
-   "date": "2026-09-23T16:55:25.000Z",
-   "source": "Sweety High",
-   "summary": "Every 'GTA VI: The Album' Artist Revealed So Far Sweety High"
-  },
-  {
    "id": "gn-xiqt4m",
    "title": "Rainbow Six Siege boss has a plan to retain players during GTA 6 launch: We will reward those who…",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQdUU3U2ZLMk1LaEdjelhJRjJaV21nSGMtRUZHM0NmekdGa0pPNy1EUmVOZGxsc2lQeEpIaXppM1IyTEFNWHlUWGlMRFBYV09pR1gxWkFIZ1BkUVRaVGFnY3dTdFRPZVJpTGtpLTlOd1lxZnU3eUNIMXhsWWJhY3pjdXgyR245WHRlejJHWWtib20xcjM4QXdIV2hPQS1IQkxOREgxMzd1dVRabjlaTVRjaHJ4cWZUcVB0WjUxVjlRbEc4eTdUOGp3Yk0yVnU3ZGdEUnZvSHV6bHRoQXJKZlZTcV8zN1BaSlI5TlZaR1ZWb0dOQXlyWkFWdl9SM09FU0VKdFZzaFdwONIBjAJBVV95cUxOYTdFbnJGZ1hXOWY4Qk1XSFlqaFJ2SmlMd2ZZTTBMYkFxQ1k5ZGkyT2ZwemhvajdFc2NYdzhzaWczdmhpblF1Tjd6RXdLNmdxdGl4UGpiVzlEeEFQMW9PZUR1NTNYUVpwV0VFUHphSzg2dUxkTVZ3S2wwUlVoN0E5eThUdHFYRlp3emZwY0hFOG9vQVJINmI4bTFMbmZTQ28tbzVZWG9wTzFWTWQza014NHByN3ZBbzJsUWljM0FzdHR5RjNnVFgxdGV4SHkzTC1LR09tVGF1Qk5vb2lVeExxNW5tZk15cTN4bGRramgyNzdHdnZMcjV1ZFotdktuZzk3WWNHRlliendHazJ4?oc=5",
@@ -317,8 +357,8 @@
    "title": "The GTA 6 facts even die-hard fans might not know",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kc0dCTFJkWG9ZYk1DTENTU0N2ci02MWt5MkZyMklWZ1dUM3F0LTZHSjFON2xqTUFCQWUtc2xaOWRPVzdibTNScncxdEJ4TzRSRTBWRnZ4UDRjTXZqMjBPNE93?oc=5",
    "date": "2026-09-23T16:24:26.000Z",
-   "source": "Red Bull",
-   "summary": "The GTA 6 facts even die-hard fans might not know Red Bull"
+   "source": "redbull.com",
+   "summary": "The GTA 6 facts even die-hard fans might not know redbull.com"
   },
   {
    "id": "gn-1fwitqf",
@@ -333,16 +373,16 @@
    "title": "NBA star Adams expects sports performance to decline due to the release of GTA 6",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaC1rN0s4OFl0bGdfdVRINS1sOTFlU2FBTGE4aG1TVDhEeWthR0dQa3QwVGZwVzNJYTJudXEyQ3ZnWm9HeHpDR254SHE1WldyX0k3cWVqZmxOcEU2OG9fbW85VEV3S2Q0akMybE9mYWphb2Y4TUFCckFzX1JqMGpxRjFtcjNmYmN5Z2Z5MkhZbHdDMUM1WERXR1prM2FvcUhSR0pZWXR30gGkAUFVX3lxTE1DdWdjSDNaMUVBTEFaNjFQSS1yMEtWVHdVOG04ZzZLWW1wc2I0YmxPWXF2WTlGUnl4YVdjNmhMUGRqVk5UZkJEVURPZ3M0M0tUb0NFVDY2bDFVaU1zQjVGbndNODZqVTBLUkwwZlU2UDQyOEtTSFo0cnlJejMweU0zZFp1V1h0WVF0aVd5Y0FVUFZTOVJtNXlvWjJJMEQwUFpva1Z3?oc=5",
    "date": "2026-09-23T15:13:24.000Z",
-   "source": "unn.ua",
-   "summary": "NBA star Adams expects sports performance to decline due to the release of GTA 6 unn.ua"
+   "source": "Українські Національні Новини (УНН)",
+   "summary": "NBA star Adams expects sports performance to decline due to the release of GTA 6 Українські Національні Новини (УНН)"
   },
   {
    "id": "gn-cmnl57",
    "title": "GTA 6’s $1 Million Billboard Goes Up in Miami Despite Police Protests",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaEtpVGVqNFJQVnptV0lRUXdTY18wY20wUDJPNncyRGpVakFBSXVNNzZrUFFSNDk4V3JoVjNNemlqT2diVHRCMXR1ZngyUGIzOUJoekRxVUxvbmUzSkJ3SmNQNzlDVjAyNWY0T01Tc2UwYzh1RWZ5XzB5VTZsVFV2bW9n?oc=5",
    "date": "2026-09-23T15:10:17.000Z",
-   "source": "The Movie Blog",
-   "summary": "GTA 6’s $1 Million Billboard Goes Up in Miami Despite Police Protests The Movie Blog"
+   "source": "themovieblog.com",
+   "summary": "GTA 6’s $1 Million Billboard Goes Up in Miami Despite Police Protests themovieblog.com"
   },
   {
    "id": "gn-1tbm292",
@@ -497,6 +537,14 @@
    "summary": "Rockstar Games spends nearly $1 million on ‘Welcome to Vice City’ sign for GTA 6 marketing: Report The Times of India"
   },
   {
+   "id": "gn-1wyh41k",
+   "title": "Steven Adams says NBA players' performances will drop in November when GTA 6 is released",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWFQTEQ5RDF2VFF0Y0ViN3FHanBqQ2ZLNkc4TUtub1JUenRYRW5vM2ZyNWJ5M1FqaEJsckZHc25FRFZFUWNLbGJmM2NoRHFsRllrNFcyOG1wSnlsZjQtNjMyTGNGbFkwRVROeHZXak1SSVBHNXhveXNON2k0ckJiSmFTSlh5VnlXdlJ1SnRUQmpRbjltWXdYcEhnQWhXUGN0d2RpN1VQM09nckU4WXc?oc=5",
+   "date": "2026-09-23T04:47:05.000Z",
+   "source": "hitc.com",
+   "summary": "Steven Adams says NBA players' performances will drop in November when GTA 6 is released hitc.com"
+  },
+  {
    "id": "gn-21dlrq",
    "title": "Grand Theft Auto VI marks the end of an era for video game graphics",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZThka3pnZHZ2b0EyYUFWTDR0OTE5SVhBb2I1WVcwbVFFeHFjWW4wQVlSeHZUcUV2cllzWjA1a283YTJRaVZfdUFNRkNhVmtYNUtIRDJMU04yVjJiZVJsSjdBcTNRdVMxRXZPRjU3SjRPbWlJb1A2LWhQQmJxd3V1OWhpc3h6VHFmQWZyT1RWNmpDSmpzRHVBSHNQQWtrNFNIWnl4WHI4SnFQakFkU3RqVFpn?oc=5",
@@ -549,8 +597,8 @@
    "title": "GTA 6 Could Turn November Into a Disaster for Sports Leagues, Predicts NBA Star",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XaXFodVlBV3IzQzBPZ0x3UUpuVFNZUTVnYjFTNG41OXFOLVhCVzgzQS0yM0JZYmVFU2d4NUZGTEZRcDhnWFFJSTY5VXNaTjBZLW5MelpxOUdoWVNWT1U2c3lVUDFCRzF0dGZXYzhoY3VlRDcySXZDN25NRDRWTm8?oc=5",
    "date": "2026-09-22T21:00:30.000Z",
-   "source": "Yahoo Sports",
-   "summary": "GTA 6 Could Turn November Into a Disaster for Sports Leagues, Predicts NBA Star Yahoo Sports"
+   "source": "sports.yahoo.com",
+   "summary": "GTA 6 Could Turn November Into a Disaster for Sports Leagues, Predicts NBA Star sports.yahoo.com"
   },
   {
    "id": "gn-thzrnk",
@@ -599,57 +647,17 @@
    "date": "2026-09-22T16:04:33.000Z",
    "source": "IGN",
    "summary": "'You're Going to Take a Hit': Rainbow Six Siege Director Bracing for GTA 6 Launch Impact, Promises Players Who Stick Around Will Be Served 'Like Kings and Queens' IGN"
-  },
-  {
-   "id": "gn-q4k947",
-   "title": "GTA 6 Is Taking Over Miami, One Airlifted Letter At A Time",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeGVhRkRidnpNTmtxVHc3a3dpc19hVG5sNG9DNS1EZk9GWGVjTDBqZHhPTXlrMEs5NmJPbjJ1enlhUkZNMEF6QmVHYlBmREpuTXdhdklFOW5fb250WlNWSlNLTEdjem1QWGdsY25qSTRuODlUbTBWYlpJRmxFSUVjckdSZU4wLWtzSHI3Uk5CMnZoN2E3MjI4?oc=5",
-   "date": "2026-09-22T14:26:56.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Is Taking Over Miami, One Airlifted Letter At A Time GameSpot"
-  },
-  {
-   "id": "gn-1eb0bk8",
-   "title": "Rockstar, Atlantic Announce 'GTA VI: The Album' f/ Travis Scott",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYmkxZlppQWFwV3REb2tiY3BDUGxLZ2FYOUlpS2NOZGhMNkRzNXJJaU1TRW5aSFhFRDdRQlloYjBFWnV1bjgyTUE4UDExTXZLUUFUUWFIUmN5dTRpWWhmT0szT2ZIRTF5cmNHdUloTVA4QW1nc09PMXBTbllxNF9JSWE4ZS15X0l5RjVRQjk5aC12U0xwbmV3SWZoSUltRVJU?oc=5",
-   "date": "2026-09-22T13:23:30.000Z",
-   "source": "Yahoo",
-   "summary": "Rockstar, Atlantic Announce 'GTA VI: The Album' f/ Travis Scott Yahoo"
-  },
-  {
-   "id": "gn-1prqy8f",
-   "title": "Twitch CEO claims Grand Theft Auto VI Online will arrive “next year”",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcUloMW9hc3JpSFlFZEF0QjNENkpYMHdseGM4X1REMDZpOEhNa0dhd3pMZmdoSUVEWW1Ddi1kX3FCeEtsa0Z4bUZsckhuQnk0S21aNllRSWR5ZXJUTWlsUzdaYU1NaTNxQjVVSzRTS2N2US1aVXlZQmYzd1JGUlFvZjlvamxOSFVHX0gybi1lVXIzN3Y3TW9GSHNhM3FkcFhjaFliMUszd0xCaUFUeEZ0YVJsVkJKMVJO?oc=5",
-   "date": "2026-09-22T11:30:30.000Z",
-   "source": "kitguru.net",
-   "summary": "Twitch CEO claims Grand Theft Auto VI Online will arrive “next year” kitguru.net"
-  },
-  {
-   "id": "gn-1peq9al",
-   "title": "Take-Two Tries to Remove GTA V DLC Footage and Early GTA VI Map from the Internet",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1BJWmdycVV1QmR0Ykx1cEM3S2J0NmZSeFFIZkgzdEkxbmQ3RmQwa000U0YtLV9tR3lVSUxPVUkzT1E4OEpXZVRsVmRUY2NPQXZUdXhqWlkxMWtRVFpRRXZiQm9GY1FLWnZSUi1DVnJ5a2xaS3F5MV9hUEJsVzVKMnRTdFdoY1c2bkM4Smd3TWU2TGxLWWdEM0VFYlZIdlE0ekNfSldJRi1jdXpXSnZUYVpabEhRWUJCa2tKMWhBNzg3djNNcThQTU1oRUNRZ9IB0wFBVV95cUxPajBvdW5vQlRWUTlLTGlOVl9LSWtHc2hNNnZoSVVkM19qNXh2YzBncnRQeEk3dmFQSFpuYklaVVVCdnBOWE05M1Z6V3cxM1VwRHpyU3owZjQtZzY4U0J3amhfTTktNzh2N0RBdWt6MERNc2hBdUxMb0R0UWE2X1p1RklvVFF2NFFMSmF1N2FXVnhZU1F1LW5aTlVnRFZwTnNPYXZidDVuVS1Vbmd0YWF4bTJtdWRjS3Y2TTJSX1gxZnBJakNhUTRrNXhVTXhIc09qc3Vj?oc=5",
-   "date": "2026-09-22T11:29:15.000Z",
-   "source": "ixbt.games",
-   "summary": "Take-Two Tries to Remove GTA V DLC Footage and Early GTA VI Map from the Internet ixbt.games"
-  },
-  {
-   "id": "gn-12hm48f",
-   "title": "Atlantic Records & Rockstar Games Detail ‘Grand Theft Auto VI: The Album’",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0hzN1NMM3ZqQlFPLXJ0SGxXWjVuZ3p3Z0tQNkdPYzYwUURva05CbzFKS2NSV1pHejhvVFR2ZDhOcnhMV1luNnRfSDBXNFlodjlrSnIxajRhRmRwaUxPNEJNaW5KQzAyWkxVb2VqdTgtSENfT2Z3OG1PVHd3QUNjeXFrN0MtXzRIcjBuVlpEUVQ3VEwwRzJ5VQ?oc=5",
-   "date": "2026-09-22T09:16:04.000Z",
-   "source": "V13 Media",
-   "summary": "Atlantic Records & Rockstar Games Detail ‘Grand Theft Auto VI: The Album’ V13 Media"
-  },
-  {
-   "id": "gn-1p1py8c",
-   "title": "GTA 6 Fans Can Explore Leonida Early With New Interactive Map",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOejJTWWNxSERfdUZwSGQwMjYtZGQ5RjdKTmFHaVFRQkJnbTRHR29kYVI2VkNlelRIYUxhOWZackQ4Q0dFb0MyRXhXbWpDS0hzcmp0cGREWHlkbS1LQVFacjlfQXVLcEstZnRNRlhBOEVIMWNhMFFVMnNrek4zWVNBMFdKTFZoS2p6MUFBOHh6SQ?oc=5",
-   "date": "2026-09-22T09:01:29.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 Fans Can Explore Leonida Early With New Interactive Map GAMINGbible"
   }
  ],
  "community": [
+  {
+   "id": "rd-3nfff2",
+   "title": "We’ve had news every Thursday since the extended look. What do we think we could get tomorrow, if anything?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wom1ui/weve_had_news_every_thursday_since_the_extended/",
+   "date": "2026-09-23T23:44:46.000Z",
+   "source": "r/GTA6",
+   "summary": "Thursday 27th August - Extended Look Thursday 3rd September - Controller Announcement Thursday 10th September - Controller Pre-Order Thursday 17th September - Album Announcement & Pre-Order Thursday 2"
+  },
   {
    "id": "rd-1sabu5m",
    "title": "There are less than 80,000 minutes until launch*",
@@ -665,6 +673,22 @@
    "date": "2026-09-23T20:52:22.000Z",
    "source": "r/GTA6",
    "summary": "I posted a Tiktok yesterday (@cheddarrchase) about the Vice City “I” being damaged during installation, one of the workers commented reassuring us that he is fixing the sign WITH proof. this might be "
+  },
+  {
+   "id": "rd-h9uwfi",
+   "title": "The tow truck guy getting jumped by the car owner",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wog7em/the_tow_truck_guy_getting_jumped_by_the_car_owner/",
+   "date": "2026-09-23T19:47:32.000Z",
+   "source": "r/GTA6",
+   "summary": "The guy getting beaten up appears to be the tow truck driver (judging by the clothes he is wearing), while on the right you can see a Pegassi/Lamborghini being towed. So it looks like the owner of the"
+  },
+  {
+   "id": "rd-1y8lf52",
+   "title": "Wind will play a part in the Dynamic Weather System",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wog52v/wind_will_play_a_part_in_the_dynamic_weather/",
+   "date": "2026-09-23T19:45:01.000Z",
+   "source": "r/GTA6",
+   "summary": "As seen in Extended look, you could see the wind swaying the trees and bushes. This means if were near the beach there will be a slight breeze and we will see it, along with Thunderstorms etc it will "
   },
   {
    "id": "rd-q4gpqr",
