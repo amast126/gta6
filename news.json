@@ -1,27 +1,28 @@
 {
- "generated": "2026-09-24T00:22:23.213Z",
+ "generated": "2026-09-24T05:09:23.105Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 5,
    "scanned": 40,
-   "checked": "2026-09-24T00:22:23.213Z"
+   "checked": "2026-09-24T05:09:23.105Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-24T00:22:23.213Z"
+   "checked": "2026-09-24T05:09:23.105Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-09-24T00:22:23.213Z"
+   "checked": "2026-09-24T05:09:23.105Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-24T00:22:23.213Z"
+   "checked": "2026-09-24T05:09:23.105Z"
   }
  },
  "official": [
@@ -169,6 +170,46 @@
  ],
  "press": [
   {
+   "id": "gn-1dvkzqx",
+   "title": "Everyone will play GTA VI: NBA star predicted problems for sports",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWFXQVFTNmJkTWZzaTVFWTVCUDBSOVBlbGVYeGVSMDg5T0piRlVZb2hSS3lyTU5EVVExcWpEbndyVm4yWTdTOW51UjNONWZQb25PX3k0RnVKTXdNQ1QyanZNeUZ5WlBKaTVGV1ZJLTVBNU5IaUtHRkVFbDJuU3BveElpczVwc0VhTmxnMzNiQVNlOWh6Y0l6V08tQXN3Y1BxaVl3TnRaYXZFSmNwZ3FqZFFybDhXeTJo0gG-AUFVX3lxTE5TUWVsTHhHblRhSmlXMjdtZjRRd1FzVk1pLVZidWh4Qi1xS2xpbm9VdF9Yd1M2Zmt4NUEwalJ1TUJQRjBKb1M3TGRaQjlyeWpITHNqM3NWMUVya2xsb01zUUtKVk1VSTVDYUdyQUlNa3lRUVpTbWtiS3ZaeEdIdFdHNVA3eFZVSkRZLTZQdG9fVUNnUUNSWXdWbVhWbFlXUWxLVjRSZ2IyU1FUS2F4RUtZVkM0WGJKS244SllQd3c?oc=5",
+   "date": "2026-09-24T04:22:21.000Z",
+   "source": "ixbt.games",
+   "summary": "Everyone will play GTA VI: NBA star predicted problems for sports ixbt.games"
+  },
+  {
+   "id": "gn-7rmv1a",
+   "title": "Steven Adams predicts GTA 6 could affect sports leagues in November",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlA5Nkx1T2FSNnk1TXZFOWdKOEFJZ1p0WUpLNFpxM1EybDZ4d3FwOE1SYWlZd2JBZjdkMmk5dXA4bWFlZzJheWJmMFNEX3R6MlRrcVNYV3JaVldDaERGZHlCMnNFajRZQXBIcXJCY3hSdUVqUXhDV3c4azlDcjQwUDdzekc1ak4ySVFDZ05lZzgwNGF2OVQ1QzBSQ1FEcHlrWkxFSkNNTdIBrwFBVV95cUxNZHhnVm9wUWtxbTJaT1pyMTBaaGw5UUpJZzZPYlJxMkZWN2p6SWF6OFVvTWRyZnB6X3lKeEd5VWlvMkwydXNiRGw4TlBDU0kwWXJhOTg1Q3hucDVoM1NLM01HajcySEp0TjFEMVJPNGc3d1pUUndza2oteDA4aHlQOEprMXNYZUJBZVFZMG5taGRsbnN1aVVuUUlfNGxoNklRci1TY2MwTUR4U3l4Tmhr?oc=5",
+   "date": "2026-09-24T04:17:30.000Z",
+   "source": "The Express Tribune",
+   "summary": "Steven Adams predicts GTA 6 could affect sports leagues in November The Express Tribune"
+  },
+  {
+   "id": "gn-salk5u",
+   "title": "Rockets' Steven Adams Makes Prediction That Athletes' Performances Will Take Hit When Grand Theft Auto VI Comes Out",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeTdmMnI0RGF3cWpjVGtwYVVER2hVczJJTmRSVUdBM3ZreUtid2tvbEVHUmU1YTZJaFEtNV9Rczc3X3hYNUcyLTBZZVN1Qk9PYjBtLTJBMkZoNnNURng3ZHotNkdGSjF3RmZCRlo4RzE5YkJ5SFJ3QzdsaWJzVmtlU3AzRVZ4T19T?oc=5",
+   "date": "2026-09-24T01:16:00.000Z",
+   "source": "AOL.com",
+   "summary": "Rockets' Steven Adams Makes Prediction That Athletes' Performances Will Take Hit When Grand Theft Auto VI Comes Out AOL.com"
+  },
+  {
+   "id": "gn-xx93t1",
+   "title": "GTA 6 Collector's Edition hopes raised after Rockstar prepares for merch pre-orders",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbV9ZTk55SXBXNU1mMjRGREY4RjdoMEFRWVFKZW1OUTdrYXBKZnprbUhsU2ljZm9hSy14MUl4cGpUbGxQelQzNEFYVXM0TDNKWVlaOEQxamFyVUVqbjZxLVJ4bHAxTUFsUE5jX1ZOUWFPWnM2XzhHSVBNc2loaWR1T1VtZ1NhU3RMRHRRZU1LQ0xMM1JQY21wVUt2NTdCT2M1Z2ZXWklSejFJSS1nQlQyRHJiS3VrcEd3V2w3YS1qSDZud1J5bS1j?oc=5",
+   "date": "2026-09-24T00:57:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "GTA 6 Collector's Edition hopes raised after Rockstar prepares for merch pre-orders Notebookcheck"
+  },
+  {
+   "id": "gn-1c0enr0",
+   "title": "‘GTA 6’ soundtrack – every confirmed song so far",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mVVRxbFUtcHVsb29XcUtDcWV6NmFWVW5sTVhOTktPUlJXUG9CQkR4RTJ4N25SOVQ1OUtyaGZBc05TRFVxNUtIWDk5WnVKa0RzbHhzODhGUXoyYU9relBfYmJfMjIwVXJwV0wwelp6dG5jVHM?oc=5",
+   "date": "2026-09-24T00:26:51.000Z",
+   "source": "NME",
+   "summary": "‘GTA 6’ soundtrack – every confirmed song so far NME"
+  },
+  {
    "id": "gn-m8dlcy",
    "title": "Fans were able to find out the true scale of the map in Grand Theft Auto VI - it's almost twice as large as in Grand Theft Auto V",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOc0ZaRER1UExzREYzX2M1WFprbklYeEI3NE5FdFFSQ19IMk9rZ2ZadGRmVHVZWUp4X0xVRU1JQkR6MjNWOS1QdUFPOWhEZnBNN0hidWhWZmhHWlotMWdaYzhXMzBxeHMtVzNFWWxuYVRybXJwTXVwNWZuTFlFaEphdHZ0TkRITEpwcHBhRDFKQ0tjRnAtNm5Ub21MbUJtZTVsUjh5RXY0NmdhNldJRG02Zi1IR3RGUFdTX1FRTXVNWFBKdmx6WENTMEUtZGVCNTNtWkZtckxLdm1UNXphOTFzWkRrYklpRnBpa1k1RFZDVmQzMjgxdE53dkwwWdIBgAJBVV95cUxNN182bzdTa21LY002Ukl4ZnVNTmVKNXpYaTNYUEU5QUhSWTVlSzB6NVV1ZUNCZThtTkJvbkJJRWJEWExuUkpOa2RzbWRhN3RpNmpzaHJxSmN6REtKUTIxVXpoMHVLSjRWdDl5RzhzWWhLWGpnVFFFYmxzc2pmZ2ZwMk5sNm5RUUVYLWRmTkg2WGlSY2JIYldpLU9nTVBxNVBwWHpzZzNQLV9Ka25OLTFDRmpqY1pZQVFaSFVGS2ljRklYc2lvWndMUWwzYTQ1bklVMkViTzdxRktnTC1UUE8yS2IzNUR0S2dxX2dUR19YYnVfeHVzbTRrY0R0V2plLXI4?oc=5",
@@ -193,12 +234,28 @@
    "summary": "Miami puts up 'Welcome to Vice City' sign ahead of GTA VI release WPEC"
   },
   {
+   "id": "gn-1hk700t",
+   "title": "Miami puts up 'Welcome to Vice City' sign ahead of GTA VI release",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQT2NGU0ZrMllsd0FNUFBkYmFjRTUwblkxOS1XS1dMTWd5YTVQYk5jVlRLVGI2RkdyU0k0X0NEYlZzMGwyYXJxa3N0d1Y0TzlLS3FqTGw3NE8xX3ZISC1QMGFkQWpZNTU0QkhwS2NDSXdEX1ROMXJHTl9CbE5XTmxWZ216djRRdFByaGpaLVhCUmhMbnlNcWM3d0t0ZVM3YVBiU3lyS1RqQVY3OGhRcjJpTTlUd0ppUk9qbmNJR09HT0J6NXgwZXFzQ3duQjNFRm9KRW51RW9tM05UeWN5dFdiRVp1S2tUNlR2TFlVVWhFQmlBaFRjTThFdV9nT0xUbm1ocTRIcUFXcWxyWHoyQTMtbzBrQ0p1U0hlVUFGT0E0ZndVOGRFVnNiXzRZZHl3Ykd0VU8tRmJOUVBib252N0dQTA?oc=5",
+   "date": "2026-09-23T22:35:59.000Z",
+   "source": "WPEC",
+   "summary": "Miami puts up 'Welcome to Vice City' sign ahead of GTA VI release WPEC"
+  },
+  {
    "id": "gn-gu71tt",
    "title": "Announcing Grand Theft Auto VI: The Album, Coming November 19",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEtDVTl2aW4zSHBuS2NYcmdrNHBWYTE5YXF4aHlwT0FURDVfUTNyQUVUUFZ6MnJxVnpMMlVnM1JGZDZwS3N6QjZHN0R1QlFoQTU3MTFUbC1KZEhZbUVBR3ZvWFUzMWRIN0pNekZiSTJPakllVHdsdjVVdDl5bjFybkdxV1N0NVFoakhqMFZ5UWk3dVM5bHdFU280WGcybEt4RG16b1VxaFlQRzFmQ2FWSmRfLVgtTlZuUjhCV0FB?oc=5",
    "date": "2026-09-23T22:08:37.000Z",
    "source": "Rockstar Games",
    "summary": "Announcing Grand Theft Auto VI: The Album, Coming November 19 Rockstar Games"
+  },
+  {
+   "id": "gn-10h9k3m",
+   "title": "GTA 6 Release Date: Nov. 19, 2026 Confirmed, 2 Delays",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VOXdqTGVKWmhSY0ZPb2ZhUUU4T3NXSFpKQ3o4RDc5T2R1MG5NT0ZHRUc0SlNtMnVZLWppdlAwZXAwQlA0OWpkYkZUdFkzYVJMTzNsN25KTW5OV1VEcmNRVHZnMGJEV3hIWlhDTGkydlI2MmFtYUNLLXJuMA?oc=5",
+   "date": "2026-09-23T21:56:04.000Z",
+   "source": "tech-insider.org",
+   "summary": "GTA 6 Release Date: Nov. 19, 2026 Confirmed, 2 Delays tech-insider.org"
   },
   {
    "id": "gn-f4oi9k",
@@ -213,8 +270,8 @@
    "title": "A new fan video shows GTA 6's Vice City is nearly twice the size of GTA 5's Los Santos",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODlmR3BKWDFkM2w4QnFiR2dsOURvVWFTZW05bnJfWlVfcmJ2bWFtczVyZTBqQkNheUpRdnNjV1JDSXM5V2JBQWtUcEM1bXlhdk92YWY3SFYwcVhRUGtJeExFa0xOd2c4QXVmUkJRdmR5eXRpNkFrVURIdmkta3pIUXVUd1hFNThiamhNOW5BZi1zUFJSUXA1YTMwX3N0WXlPRnNuRHlSeTNoWktmZHdGRFlaYnptYzYtMkgwdEZrVlh6M2llRm1URHltN3FZQQ?oc=5",
    "date": "2026-09-23T20:55:14.000Z",
-   "source": "TweakTown",
-   "summary": "A new fan video shows GTA 6's Vice City is nearly twice the size of GTA 5's Los Santos TweakTown"
+   "source": "tweaktown.com",
+   "summary": "A new fan video shows GTA 6's Vice City is nearly twice the size of GTA 5's Los Santos tweaktown.com"
   },
   {
    "id": "gn-k3lrds",
@@ -233,6 +290,14 @@
    "summary": "What Will The GTA VI Map Look Like??? YouTube"
   },
   {
+   "id": "gn-3at176",
+   "title": "NBA player Steven Adams shares hilarious GTA VI theory",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWlPdno1dnlMaXJzTDJwakdaZmtHVlZtT2ZXUjRYN0xMZnE5TDNLTlNTc2x3WkRzWTZKYUVHVkw1dEd5VjZmMllZS1hzZDFEb1AxVDZzYkk1dGcwNmdVdWRYT2p5RkYtMTlvMmFoVVhPV3d4RzZfbHpMMW1HcS1VbTV6Y0FfVTdNUWxCaXhCSDNLalZpMkxmY05tSThjQWRm0gGmAUFVX3lxTE9JN2VWb3JwOVhvWTBGSlVNdkpKVm9RWE9QZHhmR1FyaDdfa2FHLTJnU1NpZHZ3RHM2WEkzVzVyemJtRHhjLU4yVU1RcFFZNloxY3NJRUFnV2NPcmpRQ3FkSUFnWFpHWUVrVlo5NFVLTDhwcmZueGhDV2VGOE1RczB4b3YzRHFSZ0JZdVhsemY0MGVfR1RWUkphS1JVRlBYRDZENEJrUkE?oc=5",
+   "date": "2026-09-23T19:35:00.000Z",
+   "source": "WION",
+   "summary": "NBA player Steven Adams shares hilarious GTA VI theory WION"
+  },
+  {
    "id": "gn-6kbygm",
    "title": "Why did Miami-Dade's mayor approve the GTA 6 Vice City sign without a county board vote?",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ1k0NlRtOU1fV003ck9fSlo1ZTI5Z2tMSHk0Y0M2WDdsSXFDd0oxdGZtOGpDQUNJNUVKYkpyU2pQeXAzakx1c0xRYjh2dzVUTndNTktMU2t2MzgtRXMzSmdzVFBxSXJ0VE9RQkI2M0tpdmlOSHdNMTQ1bEEzTW9Kb0VQMmYzaTluZnhONVV3VVdUbmlCNUFMeWRiRW5EOU1FUHlrRGFmTFhCMVBOZ3lKTE1lNkx1VExDVUUwaGR0NTRuZ2FmTkVBUTFtNU5oaE9JX3oxQWhHTGc1OENfa1lkVlIxLXo5VTNJLV9IbThfRnNIOWFZaVE?oc=5",
@@ -242,11 +307,11 @@
   },
   {
    "id": "gn-tbaktd",
-   "title": "Game of Thrones Star Kit Harington Isn't a Gamer, But He's Excited for Grand Theft Auto 6",
+   "title": "Game of Thrones Star Kit Harington Isn't a Gamer, but He's Excited for Grand Theft Auto 6",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSFhVQkJzMjJTdldSQ0tTTUNWbWo5Z1dBV2QyWldqaWs3U0tIY3YycEN1UEd4N3Q4R3J4cHZHNnFHWS0yNDRIZmZ4WWcwR2lCYUk1cm1zcjFVVTVtWnRYbjBrTGFxZHo3c2VlTTZYcTNNcnRQdFlBN0xwRWdTMmJaOHdZM1JjY2NwbXlVMWdjc3pVQktaemNSZ3NUbHd1SVZGYVMzXzEtLU13LTJOdE5Lb0xEUk5MYXJuVnNtWnVQTVF1U25wZHJqMFVaMzJrbk5qV1E?oc=5",
    "date": "2026-09-23T19:03:19.000Z",
    "source": "IGN Nordic",
-   "summary": "Game of Thrones Star Kit Harington Isn't a Gamer, But He's Excited for Grand Theft Auto 6 IGN Nordic"
+   "summary": "Game of Thrones Star Kit Harington Isn't a Gamer, but He's Excited for Grand Theft Auto 6 IGN Nordic"
   },
   {
    "id": "gn-np30pc",
@@ -261,8 +326,8 @@
    "title": "'Welcome to Vice City' sign in Miami ahead of Grand Theft Auto game",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdm5SYlVwQ0tHMEQzeUF4MHgzVVpIaThkTElPandWcDZHWTBMcThSMUl4THhwY2JuWDBMNlJtYVlHSndVbnh1QjdiVHFRVE9sR1RfZ1pqTjE1TjdZNThxckNZVEhES050V3ctYjRLQVhNdTNEYUJRWkNreXNyeTd4akZkX1BOV1lKelgyMl9yMWdFUV9FZFZjOWhYeFhBQllNbVhEbmh3UndVVndMN3hTQktZcXZIZzN1MjFaQUlQR2xNTExKVXNzcUsyNkRXbU13VE9UQlJn?oc=5",
    "date": "2026-09-23T18:47:00.000Z",
-   "source": "usatoday.com",
-   "summary": "'Welcome to Vice City' sign in Miami ahead of Grand Theft Auto game usatoday.com"
+   "source": "USA Today",
+   "summary": "'Welcome to Vice City' sign in Miami ahead of Grand Theft Auto game USA Today"
   },
   {
    "id": "gn-1t9gnmf",
@@ -317,8 +382,8 @@
    "title": "GTA 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0hUTEh2M2dlUk4wUXZnbUo3ZVp5S2lXOFZQalFobldrUVFiMGI3S3ZybnRPUUh3eEY5YjRTQjQzelFSQ1lqNnBRd3J3RkdaQ2VveUtoanl3dHdURllfUnlRQzRSR3I0d2N0MkZieFBqblZqdzdvZWhGek91WHpqX2E3S2kzSkVpcmFFVjBHRUltVjNKWW5sVERHcURfYk5IZVFTWkRxN1hxb0xaMkdrLWg3S3lpYUxySWtqb2Z3ZmctVWRMMzREbVB3UDE2cGtQZjRBRXVtM0I?oc=5",
    "date": "2026-09-23T17:30:07.000Z",
-   "source": "IGN",
-   "summary": "GTA 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars IGN"
+   "source": "ign.com",
+   "summary": "GTA 6 Shirts Given Away for Free at Tokyo Game Show Are Being Resold Online for Hundreds of Dollars ign.com"
   },
   {
    "id": "gn-1p669jw",
@@ -346,11 +411,11 @@
   },
   {
    "id": "gn-c04rka",
-   "title": "The Giant GTA 6 Sign on the Kaseya Center in Miami is Now Up",
+   "title": "Giant Welcome to Vice City GTA 6 Sign Installed Atop Miami's Kaseya Center",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOXdSemJPSlljWnozR1d1dEJ2TlpVRmRMVk9mc3hfbVgzZm5ZY0NNNFNnWmhtY3ZaS2RfLWJqc3pldWl6UnlMNDllWjV6d1pzU1k1RFZSQ0xVSkd4LXBGU08xSFJid3dOSjRXT0R5bkdRbDhOT3Z5TDA0LTNhMW1CZm45TTN1VTZRV2FzbVFkakdoc28?oc=5",
    "date": "2026-09-23T16:28:13.000Z",
    "source": "GTA BOOM",
-   "summary": "The Giant GTA 6 Sign on the Kaseya Center in Miami is Now Up GTA BOOM"
+   "summary": "Giant Welcome to Vice City GTA 6 Sign Installed Atop Miami's Kaseya Center GTA BOOM"
   },
   {
    "id": "gn-10z5ukp",
@@ -413,8 +478,8 @@
    "title": "‘Grand Theft Auto VI’ marketing brings ‘Welcome to Vice City’ sign to Kaseya Center in downtown Miami",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVjZ1ZGtaemxHSzBVQVQwZ1BzeEJGZkNmdDhvemY1OGxqRFNoUHI3QlBKRk5UVzRRTGNlQUk3a1FaLVBFalVVb0g0SWFFMGFsZ0Q1WmFDMzdOSk9kMW1pRXdQZlZvV0xaMkhKNWk3MWRBZ2huTVFnZ2xZOHBsc1Y4UWhaNXhmbloxVkZ1ZFNFRUN4N2NyLS0zdVhhRWZhN3lwS2ZPQUhDcmdTOUg3dEVpZzVpaG96emxSdE9SVEVMMGN0RW53V3ZCWg?oc=5",
    "date": "2026-09-23T14:13:14.000Z",
-   "source": "wsvn.com",
-   "summary": "‘Grand Theft Auto VI’ marketing brings ‘Welcome to Vice City’ sign to Kaseya Center in downtown Miami wsvn.com"
+   "source": "WSVN",
+   "summary": "‘Grand Theft Auto VI’ marketing brings ‘Welcome to Vice City’ sign to Kaseya Center in downtown Miami WSVN"
   },
   {
    "id": "gn-1fcn1ba",
@@ -461,8 +526,8 @@
    "title": "‘Vice City’ Trademark Abandoned by WWE ahead of GTA 6 launch",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHVVa1JraWZ4cTRuMUw3YWpnc2FJZHkxdnBMaWV4bU9UOV9iMXZDWV9jQXUxd2dsMklNdGRvRTNVYzMySTBZc1dNRTZsc2xKRGpGdkZDVzhSRkZmQ1dBVU1zY285dWd3VTlpdDdYVzZzMk8tdmcweFRjT2Rub2ZDenR5clI0TWtnRXdRdGZXNHc?oc=5",
    "date": "2026-09-23T11:33:39.000Z",
-   "source": "IGN",
-   "summary": "‘Vice City’ Trademark Abandoned by WWE ahead of GTA 6 launch IGN"
+   "source": "ign.com",
+   "summary": "‘Vice City’ Trademark Abandoned by WWE ahead of GTA 6 launch ign.com"
   },
   {
    "id": "gn-1iq95dm",
@@ -509,8 +574,8 @@
    "title": "GTA 6’s Takeover Of Miami Begins With $1M Sign",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53eFk4dXpRb3p0cWZmY1R3Nlk3RE1XcC12a0IwZjE3ZlFtU19iUnpXa2Q2bnJuUmNqYktud1JRVjFHTmR2NmdDT3pLVTNNWV96emlMdkZ5R05UTHRObi1MeF9iejNVTWYxN1B4cDJhdWJEMnJKOC0tRFVCMA?oc=5",
    "date": "2026-09-23T09:05:53.000Z",
-   "source": "RockstarINTEL",
-   "summary": "GTA 6’s Takeover Of Miami Begins With $1M Sign RockstarINTEL"
+   "source": "rockstarintel.com",
+   "summary": "GTA 6’s Takeover Of Miami Begins With $1M Sign rockstarintel.com"
   },
   {
    "id": "gn-1b5gc82",
@@ -565,16 +630,16 @@
    "title": "GTA VI marketing takes over Miami as \"Welcome to Vice City\" sign goes up at Kaseya Center",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjF4VmxnS253VGdZZkJzTWlBOVJFWU0xTmNJdzEzb2x6NzRfeDlvMl83TmpQcmUyZlVER0k1VWhQREpKUVF1X3pHVDN0Tmc5ZjR0Qjk4WTF3RVdiOE15bDVaRWVTUm1IakE1Y0Izc0JacnlVMkZMT0RaS25QOTF6eE9EMWFZYkh4S1dHMnNZN0VqdjZZZzlN?oc=5",
    "date": "2026-09-23T00:48:00.000Z",
-   "source": "CBS News",
-   "summary": "GTA VI marketing takes over Miami as \"Welcome to Vice City\" sign goes up at Kaseya Center CBS News"
+   "source": "cbsnews.com",
+   "summary": "GTA VI marketing takes over Miami as \"Welcome to Vice City\" sign goes up at Kaseya Center cbsnews.com"
   },
   {
    "id": "gn-e5p46g",
    "title": "Miami approves larger GTA 6 promotional banners ahead of game’s release",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmRKZmo2QVo4bXloYjNpTEFTS2ZXdG03QUl4andCeGNyS015NURTVFpvY29pZW5jQU1nY0VrcUN3NEpiU3FEZEN1V3JGYjVkZUdTajhxSWZxakFjeDljNHZmdDZLY0N0cEp5aS1uMGNHcE9FNVlFWE05YmtuNVhPdnFhWjAxbW1JaENLcGtBeGJzUm5TT2VOV0lOalE1dFFEOUVOUmJ5RXVQRGs?oc=5",
    "date": "2026-09-23T00:34:00.000Z",
-   "source": "CBS News",
-   "summary": "Miami approves larger GTA 6 promotional banners ahead of game’s release CBS News"
+   "source": "cbsnews.com",
+   "summary": "Miami approves larger GTA 6 promotional banners ahead of game’s release cbsnews.com"
   },
   {
    "id": "gn-an73n2",
@@ -583,70 +648,6 @@
    "date": "2026-09-22T23:29:15.000Z",
    "source": "Diario AS",
    "summary": "Rockstar brings GTA 6’s Vice City to Miami with a massive “Welcome to Vice City” sign Diario AS"
-  },
-  {
-   "id": "gn-1sx3qml",
-   "title": "Steven Adams Has Hilarious Theory About What ‘GTA 6’ Will Do to the NBA in November",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeEk3WkVPS0ZDelpoUi0tdnl3Nml4N2d0LU90UXlWcWZOaXMwcnBkX3VueU1BSm1IREtwcGtoaXlldmRGV2ZNc24wTVZjWjBsaG41ZjE1YTIzcldKNHBIR05jTE9qajNJZnBxV2Ytc1h6RF9pQ2d5dE5XNkNKOUVtNE5zeGMyUQ?oc=5",
-   "date": "2026-09-22T22:22:20.000Z",
-   "source": "Complex",
-   "summary": "Steven Adams Has Hilarious Theory About What ‘GTA 6’ Will Do to the NBA in November Complex"
-  },
-  {
-   "id": "gn-149o24a",
-   "title": "GTA 6 Could Turn November Into a Disaster for Sports Leagues, Predicts NBA Star",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XaXFodVlBV3IzQzBPZ0x3UUpuVFNZUTVnYjFTNG41OXFOLVhCVzgzQS0yM0JZYmVFU2d4NUZGTEZRcDhnWFFJSTY5VXNaTjBZLW5MelpxOUdoWVNWT1U2c3lVUDFCRzF0dGZXYzhoY3VlRDcySXZDN25NRDRWTm8?oc=5",
-   "date": "2026-09-22T21:00:30.000Z",
-   "source": "sports.yahoo.com",
-   "summary": "GTA 6 Could Turn November Into a Disaster for Sports Leagues, Predicts NBA Star sports.yahoo.com"
-  },
-  {
-   "id": "gn-thzrnk",
-   "title": "Grand Theft Auto VI's Sahara Arena has been compared to Miami's real-life Kaseya Center.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcC1hTGVmc1pXX3JYQzZzcGJnakxvcFBRMWFQM1VQVFNIdVhXcEtjYk0tSTVESk9VOGhZeFNxX1AwU0lscUFDRGF2OS1GYWJwT3BFWGpBcUVOMzZZQ0FMOWFhU18zSzV3RzFRUEpLazVid3VpNEdybS03YzVxZm1Ec2xuNDlMdjNpX0lZX0ExLTNNWThaR05mNTdEMHpYTVcxdC1FbUltdTlOWXJSM0Iw?oc=5",
-   "date": "2026-09-22T18:48:07.000Z",
-   "source": "GameGPU",
-   "summary": "Grand Theft Auto VI's Sahara Arena has been compared to Miami's real-life Kaseya Center. GameGPU"
-  },
-  {
-   "id": "gn-1wu4rb8",
-   "title": "GTA 6 still has no release date on PC, but Take-Two’s CEO sends a message of hope to players: “It is becoming",
-   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNMm83aDZJb0hqYVpsRHpOYThXTTVKWWxrbk82N3VHdzBXWnBRUzlONWZfTHZ3X1BiYUYtZlhmaUt4ckR2TWVrZGQ4MVVSZGx0RDk4ZmN0TTAxMGw1MVZtMUxXZ0xCM2pVTFA4OFhUdmxfMmx6d1Z2b1pWb1FzdjRZcGp2TzdPRnFWLW92SGZhRkdHREhWQVU1enBtRTRUODdDSXgwbU8wWHhPN0tUU2xXQnZzRzU1UnB1TXRQT0JqcG9Hc0hOY21lTlVnMVc3Yk1Sbm0tZmhRWlB4aHFLMXpYdXpMWGJZTmo5OEVZUjl6OGdNb0huSk5uWjNVb1pPaTRuT3Y5LUxMeC1LY1NFN1VucjJxa0tseHlqeGfSAa4CQVVfeXFMTllaWF9SZEEzTncxSWtqRlNrTmsyUk83OTJRRUVNNi14bHptY2YwNXRwSWtZc2JGUzJRb21JTkRGTkdEeUZSOTUzRGFSSEFwQ1FPUEEzbUNibDdxcGxSc2lHQThscTBXRkxfdGVhZFB4NHBRUGJqSmF2VWZFSF9kOHNBamstandWdzZlU1h0aWlDeEROM1dnUmxrSllqakdCRkg5MTlsenBZR2ZOdzd2VlNPZTdkcWtlSUZ5QmJfMmF2X2FnbU5uLVZzRThTQy1fWUh6MGp6SFdvQ1N5NlZjbFkwWTBYTGxHUW50OUxZdkd5ZGNiYnFjUldUelZ3cmo1S2tIQ3dPUFFPTXRlMzZ1cEVvdGR4Z1FyazFWRGlQWVE4RXhkU280LXlYR3c5ZVE?oc=5",
-   "date": "2026-09-22T18:02:53.000Z",
-   "source": "Diario AS",
-   "summary": "GTA 6 still has no release date on PC, but Take-Two’s CEO sends a message of hope to players: “It is becoming Diario AS"
-  },
-  {
-   "id": "gn-f7vdvx",
-   "title": "Steven Adams Jokes Grand Theft Auto VI Will Result in Performance Declines from NBA, NFL Players",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWnEtZ2t3a3BDX3VVQlNOc25Xa0dUMEVMdEk2dkp2UkxPX0wyNFhvcGFnY0h3NEZvMlJQNV9CaEg3d0NqQWx3TVpFcjlfR1VIanhGTGlZRndHUmxZaTB2bDRqdjdXUzVrN3pKTkZEcVpWenZJUGVGZnlYWkpmMU1DRFp2NTM2UzJ6LXJxYWdyWmFjU2pHVVBRNXpKQUFQNzl4LU5hUWZxNWRGd0Yxb1AxeTdVY2ZCM0ZpUTR1Nm1LaFRhNEZNcjZUX2FBUDI?oc=5",
-   "date": "2026-09-22T17:48:01.000Z",
-   "source": "Bleacher Report",
-   "summary": "Steven Adams Jokes Grand Theft Auto VI Will Result in Performance Declines from NBA, NFL Players Bleacher Report"
-  },
-  {
-   "id": "gn-385yqb",
-   "title": "Rockets fan favorite warns GTA VI release could make NBA performance 'plummet'",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZU55OVN2a205Ukcta3JtMXdOUDRWLWIwM29XQ0h5RmFvM19OVDZPNWZRMngzZ0RkSDdVN254NW9JZE5LZk5tekotM2pCbm5EcTdvOEZlQ3d3N254TU9FSnRmZEZpTnBOaVdSTkVIb2RmbnVRZEt3Y0NpdkFYSlF4U2M4bGx4Q05ta3BWaUZBejBXYWVGYXdYYWprd1Q3RGowSW9Wel9FaGJ2VmQwSWpma0RWYmtWb0U?oc=5",
-   "date": "2026-09-22T17:26:00.000Z",
-   "source": "BasketNews.com",
-   "summary": "Rockets fan favorite warns GTA VI release could make NBA performance 'plummet' BasketNews.com"
-  },
-  {
-   "id": "gn-36aqpd",
-   "title": "Rockstar Issues Major Update Before 'GTA 6' Release",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PRTh5LVFaZGw2cW1kOHVBZkFDSkczcTZFLVpCcmpPQUIzV1VBQnhoam1xenJqU1UtSEdnSk5yM0dQQU5sbFFNZHFwcHRSYnpjbG1VV3NDbmNoOEFXSDZLVDRhZTBmdHNwLUdNR2M0TDlITXc?oc=5",
-   "date": "2026-09-22T16:47:43.000Z",
-   "source": "Polygon.com",
-   "summary": "Rockstar Issues Major Update Before 'GTA 6' Release Polygon.com"
-  },
-  {
-   "id": "gn-jyoki7",
-   "title": "'You're Going to Take a Hit': Rainbow Six Siege Director Bracing for GTA 6 Launch Impact, Promises Players Who Stick Around Will Be Served 'Like Kings and Queens'",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTkxodE50N2pORHN4RWlnc0Z3MGtJZHpuR1RsUEFwMTlfdWJxTnZqNjFxZVNEZUlZOEUzcVNKRFExMFlHd2plcWpxSXVHb0JJc3B4Yl9vLXNZb1VJVEh3Qk92UDJTTXBRZTRFbFdNdWh3Z3ZsSDlwVVRUTVhJZmNONFNFS0NVOEYyVEw1TklwcEYwelJmV3dkOWdQcm90NzFzYm1CYmhlaDN2SHF2Wl83d3ZEZmt1YTM1am9SaDVKWmV0UVVTRVdSaldCamsyX0FTejluN1lJX2VPZzMyZEQ0RUF4anZpUVp5WHJLVEVNeGdkNnh2TFZ1TVdEQ2Q5Y2oyUmhCVFJLaGlnS3FORkpTaE5R?oc=5",
-   "date": "2026-09-22T16:04:33.000Z",
-   "source": "IGN",
-   "summary": "'You're Going to Take a Hit': Rainbow Six Siege Director Bracing for GTA 6 Launch Impact, Promises Players Who Stick Around Will Be Served 'Like Kings and Queens' IGN"
   }
  ],
  "community": [
@@ -673,6 +674,14 @@
    "date": "2026-09-23T20:52:22.000Z",
    "source": "r/GTA6",
    "summary": "I posted a Tiktok yesterday (@cheddarrchase) about the Vice City “I” being damaged during installation, one of the workers commented reassuring us that he is fixing the sign WITH proof. this might be "
+  },
+  {
+   "id": "rd-c0zo1i",
+   "title": "RockstarGames decided not to make gta 6 look photorealistic",
+   "url": "https://www.reddit.com/r/GTA6/comments/1woha16/rockstargames_decided_not_to_make_gta_6_look/",
+   "date": "2026-09-23T20:28:11.000Z",
+   "source": "r/GTA6",
+   "summary": "Rob Nelson said. The visual style isn’t really focused on photorealism. It has a strong comic-book look to it, and I think that’s what helps the world age well without falling into the uncanny valley."
   },
   {
    "id": "rd-h9uwfi",
