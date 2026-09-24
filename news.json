@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-24T19:22:52.132Z",
+ "generated": "2026-09-24T22:37:01.600Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-24T19:22:52.132Z"
+   "checked": "2026-09-24T22:37:01.600Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-24T19:22:52.132Z"
+   "checked": "2026-09-24T22:37:01.600Z"
   },
   "googlenews": {
    "ok": true,
-   "count": 100,
-   "checked": "2026-09-24T19:22:52.132Z"
+   "count": 92,
+   "checked": "2026-09-24T22:37:01.600Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-24T19:22:52.132Z"
+   "checked": "2026-09-24T22:37:01.600Z"
   }
  },
  "official": [
@@ -182,9 +182,137 @@
  ],
  "press": [
   {
+   "id": "gn-2uocgq",
+   "title": "Xbox CSO Issues Response To Report About GTA 6 Sales Being 'Heavily Skewed' Towards PS5",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWGNWMFlWRE5IUm05YkhfYS0xbmtfWDJEWVRZMjkyXzZuX001eHVCMnFqMXljYlF2a1E5Y1hFRS11amlPUzBRY0llR05KSUw4UnFUSGJTZkZVVHZpamt3ZUhlT0gwUWthQVYyZmhuWHdIUmcxRXZzMUQyaW5FVHo2V29pbUVfTkpySlZVdUZxOEdVMERKMUNNME9EN2JLUlI1NFphbkhNS2V5TkdkZjdFN1g3UE4zOXd1d3JGdzNjRVg?oc=5",
+   "date": "2026-09-24T22:21:24.000Z",
+   "source": "Pure Xbox",
+   "summary": "Xbox CSO Issues Response To Report About GTA 6 Sales Being 'Heavily Skewed' Towards PS5 Pure Xbox"
+  },
+  {
+   "id": "gn-ke9676",
+   "title": "‘GTA 6 Mobile Competitor’ Gets a Massive Update and a New Map",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdUhWOHVicGh0RG9hdHlTdHBtam9mSzViS25yTVdENlFIUXdUamVTSFA3N29Obzcydm1QaDM4YnFNa0t5MjlPODBNRXVFZDBqM3hGYWFwOGtPanhHbjhzLTliMXc0alA0b2d6V3hZejVuRGR2V0ZPQklValh1MEdOLThLRzJaeEhRX1dv?oc=5",
+   "date": "2026-09-24T22:13:13.000Z",
+   "source": "Insider Gaming",
+   "summary": "‘GTA 6 Mobile Competitor’ Gets a Massive Update and a New Map Insider Gaming"
+  },
+  {
+   "id": "gn-1sg0ng8",
+   "title": "Rockstar leaks GTA 6 map with Collector's Edition pre-order, exposing Leonida locations",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc3p3a2pjY1lHS3VfUFp1QzRHTV9WMmdrTkZHMHhfYlE3MFdvemhCRHR1VHR0cTNYa1JneVM5aXM4QU5QaTZxaHNlUGQ1YW9OM1BRQTkwMFp2OXQ5RDRTd01pLWcwWjh1TEp5Q1JUMWgzTEpNWjdKZjI2UjFaR1VMYTZTS3ZkRWZUV2xMU2tLd2tGWUpiNXotMTE4Rm1RWGd2c21vdHB6cEU5bjBUY0JZOTItd1pQVEJ4U0pkWVd4SFltM1JqSmNvd3VYcw?oc=5",
+   "date": "2026-09-24T22:08:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "Rockstar leaks GTA 6 map with Collector's Edition pre-order, exposing Leonida locations Notebookcheck"
+  },
+  {
+   "id": "gn-p0fkov",
+   "title": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdVFRbjVoN3NGaTF2Vk1xdWxMMjFJdlRHSzJfX21taUc2N0R0d1pUMWs0elRvemg5cGpvdmNMalhfRmxYaVIzb3lVUEl0aXVoY0VuMEEwSWxXdWc3X2pIM2FzSndLaDJENnNYakZnTnRYUW1nT0owMWZzQUduS0ZWckNaRllWOWV3QVVoMF9ZdGdyRm9zZm9NeVFpMFRoWGJuWHJqTg?oc=5",
+   "date": "2026-09-24T22:05:21.000Z",
+   "source": "Push Square",
+   "summary": "GTA 6 Pre-Orders 'Heavily Skewed' Towards PS5, Xbox Exec Responds Push Square"
+  },
+  {
+   "id": "gn-1jm26se",
+   "title": "GTA 6 Collector's Edition is $400 and Includes a Statue",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaEJOazFCbnIzb3RiaFZRNVhRSTB0N0hvcDZUSWdmM3dldFRKWWlCbnctUGtjbUo5eXJ3NzJra3Bsck9naHctbjdGcThybzltU1Y5SFN1TUtiSEdHVFNmcTRGbXdIdW1iRVNsN2FSNW1JZUtYN19oYS1BUTBMR1BURkFRTUw5NXpDVWh1TnVjM3dDa2xDT2c?oc=5",
+   "date": "2026-09-24T21:45:02.000Z",
+   "source": "Resell Calendar",
+   "summary": "GTA 6 Collector's Edition is $400 and Includes a Statue Resell Calendar"
+  },
+  {
+   "id": "gn-15qsj1q",
+   "title": "Rainbow Six Siege Creative Director Addresses GTA 6’s Impact on His Game",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGpEQncyNmJidmdiZDNfa29BblFsQ1MzeWRpZ1VvNF9HYVlncENJVVhvbHBBaUg1aE1QR3dXdnNDVmRYaEV0OE9xVXNOMGhQX0ItUTBIUElEUTMxWXhiNFh0eF9QUlotaDhiRDEwU2N0Y1ZBbXV6b25WTUU2S1hIb0FndWZzNFF4U0Z6Xw?oc=5",
+   "date": "2026-09-24T21:37:44.000Z",
+   "source": "Insider Gaming",
+   "summary": "Rainbow Six Siege Creative Director Addresses GTA 6’s Impact on His Game Insider Gaming"
+  },
+  {
+   "id": "gn-peliyq",
+   "title": "GTA 6 – Jason and Lucia’s Relationship Is Deeper Than You Think",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHpxQzhBT2RQeFlDMmRPcEtONFBJRTM4eGw0OVl2cVRUYnV5ZEdqU2ZQR01PZFRKUEJCdkNzeGJqYUl0SWxDYVpDeW1WbVlQakVkTE1nOFNxR2V5aWdCcFlwVUF3VzBJcmpaaFczYkl4TXZpOU40dC1ua0lPMGtRUTJicERxd3FIeU1kZnlvVzJkTW5ZMW5tRw?oc=5",
+   "date": "2026-09-24T21:00:00.000Z",
+   "source": "GameSpot",
+   "summary": "GTA 6 – Jason and Lucia’s Relationship Is Deeper Than You Think GameSpot"
+  },
+  {
+   "id": "gn-1qg4grt",
+   "title": "Xbox Says Its Share of GTA 6 Preorders Matches Its Share of the Console Market, Following PS5 Dominance Claim",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1FjYWw0V25OSmgtMUJIb2MxUWlmTDJjWGJfcENNOXJPem9obld0MF9ISG1HaGFIblFzV0ZoRmw4UWhuZ0xsMzF5bmR2d2VpSnlQRHR6NDlPZkk2QS1ldTY3aXQ2VTBqaG9KSHp3dlFLclktRzJ0YXRtZTExbEpCcXNZeE04aVlibmdLYlBwMjIxRTFTRnRvZEVBaGx3UmNqLVV4Y2M4Vk1DdUVnN0Nyd2d1X2RFaVJ1OWxjLXZhV0lCZlllU0Q3elJhRzRnUlg1aWxv?oc=5",
+   "date": "2026-09-24T20:55:35.000Z",
+   "source": "IGN",
+   "summary": "Xbox Says Its Share of GTA 6 Preorders Matches Its Share of the Console Market, Following PS5 Dominance Claim IGN"
+  },
+  {
+   "id": "gn-1bonnke",
+   "title": "GTA 6 Collector’s Edition: Price, Preorder and What’s Included",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc3pvVUFyS3lTWnpGeTFFdUktSTNNTVNJdk8yU0x1b3pYdVliaE9nZlJfWjZGZTY3dWRCb3g2endWUVZCVG1iVWtSRmtPUm9aSWtpY3ZqQzBnNjZLMjRxZzVfWms5UlNteFhtdndMcTNYNVctU1p6ZmJWR0FOd21YTHk3TWlGeW1sNlgw?oc=5",
+   "date": "2026-09-24T20:18:55.000Z",
+   "source": "Revista Merca2.0",
+   "summary": "GTA 6 Collector’s Edition: Price, Preorder and What’s Included Revista Merca2.0"
+  },
+  {
+   "id": "gn-fbqkva",
+   "title": "Rockstar Reveals GTA 6 Vice City Collection Box at $399.99, Game Not Included",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON1FuelRTS3RYLWNjZ1ZraHZKV3o0NDUwZHRpZ2NHb1BJZ2Y2RC1BaHhsTGhsY3A5WlJDWldna29GZ3hMTlN4eks0OUpzc0dqSmpIVW1HTXRia01mNDlOVnVWOVFZNjR0bXdyQ1JMSnA3UE5nN05wN3BEMGVqYW9HbHJ5M3BvbWNnVFdDVWR6TS0wcDVLdnpkVWItbzdCTFBTQ1dBc0RCa2JreEtLM1lZd25wLVHSAboBQVVfeXFMT0JoQnpGZ2h3dmQ3WmFqOTNsRWt5bDNQQmVXb25Ddks2QlB0TFR1aTdzVE5ua1prb3hrRks1TjNENnFXUElaSEFxYmtXQWRKc3F2MTlnTmZkdUk1c1V4NGFCb3RET3lUTlpLZUtQTkZudjhyMkNFcVBDZkNxVUhMNl9aSjRfVGt4cVVCaFVKVG9mSWxvZmxwa0xGazcyUk1Ud1lPTDBSQ3VKa21pZGdkTWZORTdXUF9OdmdB?oc=5",
+   "date": "2026-09-24T20:10:26.000Z",
+   "source": "TechPowerUp",
+   "summary": "Rockstar Reveals GTA 6 Vice City Collection Box at $399.99, Game Not Included TechPowerUp"
+  },
+  {
+   "id": "gn-90tqbg",
+   "title": "$400 GTA 6 Collector's Edition Is Missing One Important Item - IGN Daily Fix",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1NvYVZGbTdVSGhPeFc4S2Z1RDU1b1RvNW45b25zTWRUbDBfOGZHQW9kZTVLZjU4RnRrVkpickdrVUJXMDZhYU5STGltc25fUFF6eXhHVTk3bkZDY1FaQjd1akNXRlFMVVdvWmQ0RW5NcjBCVjEtdGJqVDFJTFg0S285Q0xfeklCeHNkbzBybEpRSkRINmo3aElGR3MzaUtnUlNHeHB0Yw?oc=5",
+   "date": "2026-09-24T19:56:04.000Z",
+   "source": "IGN India",
+   "summary": "$400 GTA 6 Collector's Edition Is Missing One Important Item - IGN Daily Fix IGN India"
+  },
+  {
+   "id": "gn-uvcbss",
+   "title": "Rockstar’s GTA 6 Collector’s Edition Includes Plenty, But There’s One Catch",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNDEwSGF5djNiZmxMaFljMDZKNU90QUNNYmFaaXdPTlM3SGNOaGdrTnIwa1lMYkJEa0dKODJSTXBDb1pUajBMaW1Ja2Vwb2lCbUpmd2FHRWxJekdNdUl0N2NGeHU0dW1xbkNZd3hJNnE0NnMybnFFbVZ0RE9zLTFTS0p3?oc=5",
+   "date": "2026-09-24T19:50:09.000Z",
+   "source": "AOL.com",
+   "summary": "Rockstar’s GTA 6 Collector’s Edition Includes Plenty, But There’s One Catch AOL.com"
+  },
+  {
+   "id": "gn-1c4bjmv",
+   "title": "Shimmering Neon-Shift Controllers: Sony Launches Grand Theft Auto VI DualSense Controllers",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45Znd2bnRtcUVVNWVFNmhzei1lc0FlLXNFOTM2NFBPTnJ5WXBMSW8wX2tWYkp5ZlVtZFJkLUhkOUU4bVFfNGptZzdYZWhmYWt2VXlycG53dS11cWdqSy1qUjJDRS1Xa21CM2FrNElOUENvaXd0OUthVQ?oc=5",
+   "date": "2026-09-24T19:45:25.000Z",
+   "source": "Trend Hunter",
+   "summary": "Shimmering Neon-Shift Controllers: Sony Launches Grand Theft Auto VI DualSense Controllers Trend Hunter"
+  },
+  {
+   "id": "gn-1y8l6e5",
+   "title": "Report: GTA 6 Pre-orders “Heavily Skewered Towards PS5,” Ringing “Alarm Bells” for Xbox Platform",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRWtuSWEyZlNyeDVJYlRJdVhlUmViX1JhQVNFamxaWEMxZ002V18zcENKMVQ1QmZJby12NmlPZlV1RFg3djJlMHhDMm41YmllOVlTN0hKY3ROLXNMMUNfWC1EaFZPMmNQX21YVmdMZXJaclVQLVRfWWNrenFuRWJNajhSSTQzTWhYcHM1NHIycFhFZ0YxQ2xXdVQ2MWdJQkwtM0stbg?oc=5",
+   "date": "2026-09-24T19:31:21.000Z",
+   "source": "MP1st",
+   "summary": "Report: GTA 6 Pre-orders “Heavily Skewered Towards PS5,” Ringing “Alarm Bells” for Xbox Platform MP1st"
+  },
+  {
+   "id": "gn-1fu0zg2",
+   "title": "The GTA 6 Collector’s Edition Is Available to Preorder and We’re Tracking Available Stock",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KdEdTMG15b2RUZDFiOEJxc205d2VITjJqdF8xdk40QVU4d2tYTlZpbGs1V2NpWXJUeUVWUzBTQTZScnhJXzRNRjVieGVNZThfRHk2TllLeDEteWREWWFJcGRuUVM4X1lZRTlFal9YRzRtclEz?oc=5",
+   "date": "2026-09-24T19:28:05.000Z",
+   "source": "CNET",
+   "summary": "The GTA 6 Collector’s Edition Is Available to Preorder and We’re Tracking Available Stock CNET"
+  },
+  {
    "id": "gn-1rff66n",
    "title": "Announcing Grand Theft Auto VI: The Album, Coming November 19",
    "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQckVDbU9KNzVVN2VSMV9JTmlMaDJIdDdqdkhhX09YbHlkR0lNLXJwdDZMYk5fMDZOZGtpczRuMnRpVXdjZEIxQVp3WFEtb3U2LTRSV2FtZnB5RkhsbWRMRTZiN1BiQkM2LThzOXpMM0NYWnJVRnJfbzluQ0Z3SUtPbGJaR09rbzlWdTZpaWFkT24ycmVqcGNLYjNxSVc5TGpjbmRFVkFJNll5dHlWTWNUdUV5LV9OX0dFZ3NMYkhYTm9ibjdsZWE4RE15TWxYWWJ3ajVnN01Ebi1mTEpfRlhZYVk1S2hnNXVtemw4OUlsNDJnTFNua0pZRXAzdmlGRXdwR0NxZUNRLWdpa1UxVktTdTByZl9CcVkwQTdEUWN1U2h0cHQ1dVEyVEs4Vk9xYlQ0QjlySVo4cGFncmVHSlh3SzNyQXZmUDhWLVRPMnBQQnVMUlpITHNQZnlKOWNadW1KeURTc3FBbVJuWHVvc1Z5NDZOYw?oc=5",
+   "date": "2026-09-24T19:15:58.000Z",
+   "source": "Rockstar Games",
+   "summary": "Announcing Grand Theft Auto VI: The Album, Coming November 19 Rockstar Games"
+  },
+  {
+   "id": "gn-gu71tt",
+   "title": "Announcing Grand Theft Auto VI: The Album, Coming November 19",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMEtDVTl2aW4zSHBuS2NYcmdrNHBWYTE5YXF4aHlwT0FURDVfUTNyQUVUUFZ6MnJxVnpMMlVnM1JGZDZwS3N6QjZHN0R1QlFoQTU3MTFUbC1KZEhZbUVBR3ZvWFUzMWRIN0pNekZiSTJPakllVHdsdjVVdDl5bjFybkdxV1N0NVFoakhqMFZ5UWk3dVM5bHdFU280WGcybEt4RG16b1VxaFlQRzFmQ2FWSmRfLVgtTlZuUjhCV0FB?oc=5",
    "date": "2026-09-24T19:15:58.000Z",
    "source": "Rockstar Games",
    "summary": "Announcing Grand Theft Auto VI: The Album, Coming November 19 Rockstar Games"
@@ -212,6 +340,22 @@
    "date": "2026-09-24T18:38:00.000Z",
    "source": "Notebookcheck",
    "summary": "GTA 6 pre-orders: Xbox sources say PS5 is dominating Notebookcheck"
+  },
+  {
+   "id": "gn-172qwqx",
+   "title": "GTA 6: Collector's Edition (The Goodtime State – Vice City Collection)",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xNUxub0VOV1JhamVrVFlGNUpURXpIU0h4Tlp5aURGbzZNTEp5eTBJSllDMDRIa0JzRGNwSEVnN0p5dw?oc=5",
+   "date": "2026-09-24T18:33:12.000Z",
+   "source": "YouTube",
+   "summary": "GTA 6: Collector's Edition (The Goodtime State – Vice City Collection) YouTube"
+  },
+  {
+   "id": "gn-hyczlt",
+   "title": "GTA 6 Collector’s Edition costs $400, but doesn’t include the game",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmE1TnV0Q2NnaTVWREtiUVpYMXQzcWZYdzMxWXZDZ2MwTGhEMlBHU19oUzlmS0J5NjBQM3RlY1BsWEM2aWtjVXBYYUlEcU9wT3pwakdDWlgzVXV3X250LUNGM3JPZGVJWGMzTW5yWDVuZ3VBY2RwS2NPLUJSaFNncWlhNXBWRUVVclhNdTYxN0lPUTlJemhGcXh2eEN3ZUF3Z1JkRVN3VzdhYkU0VkE?oc=5",
+   "date": "2026-09-24T18:30:00.000Z",
+   "source": "altchar.com",
+   "summary": "GTA 6 Collector’s Edition costs $400, but doesn’t include the game altchar.com"
   },
   {
    "id": "gn-1ux6zvp",
@@ -251,15 +395,15 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BNG9QeU4tdFk1a04wWVhib0VGcjFPTnRoa0tKN0VkajVmTFl5Nm1JVVRhX2JzZElBc3lLNXVWeF9LMHZHY2dzbEVrUmNWVi1IOTlFWDJtbmlqZmpSZl9zNXF1UUZ1enRoVzBsb2UzRUpBZjM0U1E?oc=5",
    "date": "2026-09-24T18:11:11.000Z",
    "source": "Consequence of Sound",
-   "summary": "Rockstar Unveils $400 Grand Theft Auto VI Collector's Set — But It Doesn't Include the Game Consequence of Sound"
+   "summary": "Rockstar Unveils $400 Grand Theft Auto VI Collector's Set — But It Doesn't Include the Game Consequence of Sound GTA 6 Collector’s Edition Revealed – Price, Items and Pre-Order Details vice.com Pre-Order The Goodtime State – Vice City Colle"
   },
   {
    "id": "gn-zvi41m",
    "title": "Pre-orders open for the $400 GTA 6 Collectors Edition",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWs4R0pxd0Ruck54dUd1cjZfaWM2eU5TcEZXMkdMZGoxRlMydlJQbDh1b3lMXzNUdEswclctc1lVZk9lbEp1dmJIblZ2WVpnZGlZU3VCR0ZTamJwd1RodHZEaExza2Y2cHI5SjE1enptV3BaLURJcWVQM1AxWlktaml2cUNHaE9mYWFBRk00eTlvcnhzT1ZUSA?oc=5",
    "date": "2026-09-24T18:07:50.000Z",
-   "source": "TheSixthAxis",
-   "summary": "Pre-orders open for the $400 GTA 6 Collectors Edition TheSixthAxis"
+   "source": "thesixthaxis.com",
+   "summary": "Pre-orders open for the $400 GTA 6 Collectors Edition thesixthaxis.com"
   },
   {
    "id": "gn-egur89",
@@ -310,6 +454,14 @@
    "summary": "Rockstar unveils $399.99 collector's set for Grand Theft Auto, but won't include new game cbs8.com"
   },
   {
+   "id": "gn-16uids9",
+   "title": "Rockstar unveils $399.99 collector's set for Grand Theft Auto, but won't include new game",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRERXUHJFZmFNNnozSklNY2hfSEpVLUhhS01YOGJacW9xbm5jOTVZbGJVTkJJNjd4X0lacW16UTNiR2FzMERwaWFrNlR2MjVoLWlIWG1QLU9od05fQTVOaFhOaVZkbmtHcXZVTFozclZUeGNFWnFrdGRyaHZiZGlqQlQxZmZZT2RLcWZrb21KS21fRmw3TUxuMkpWQm5RTVdtSU00MmhyVVVyeEl3WlhRcVQ3TlhPeFVYX3F5U29rZ0RPdXN6ZmhnSUI2QlNZeXZ0dDVGSDNteDgta2Rp?oc=5",
+   "date": "2026-09-24T17:39:00.000Z",
+   "source": "13WMAZ",
+   "summary": "Rockstar unveils $399.99 collector's set for Grand Theft Auto, but won't include new game 13WMAZ"
+  },
+  {
    "id": "gn-1khqy3p",
    "title": "Fans found a Leonida Map inside Rockstar’s new GTA 6 Box, but where is the game?",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObVgyalYyamlEVjNmUTF1b0x3RGQyRUg4VEFmY0V1T3o1VWpHT0l4d0JBZnNrTWVMMzRKYTFaN3c2emVaall5UmlBVV9xNHEyU01Nc2pBQ1duQ3B4d3Z1NlMxWGVUR0dpRWo0bDNiREFJM0xRbzJjdXRwWDh6NlVYdmd5T1dLalVZdS1pbkZFSTBTU1NldERZMWgxZWxXb3BjS1AtcF9LSU1qQnRvRE1NS05KVkd0UEtiRHBIdHZSQkxzaVBBdGYtLVBLSEMyRFpVa1RWdUJmZUVQMnBkQ3RoZ0dqajVRRU8t0gHuAUFVX3lxTE9kWVN2SC1LOXRCREROcS1yYktoMTZEYjVqN0ZDYkUwWE1pbHpjVGZwXzhWZVlJNHVrU1JHU1lSX0tGcHNoVV8tQ3JjYnBLaVNnd0FsYUZtY2hkcUlmaFBxeXpPQldBR25XeW1xTDRzT0daUjRDSlpfVzlZWE91dWxQZnFtZWF3R1BGaHBWWnJoOHJ4dzdCaFRDdFFxeW05aWRwanFZNTI5YjBBTGtHT2hYdjRyUUo0TWZsbnptQ20tejloWENDVDV5cVo3dVBSemVLU2lkQTctLU9paVQyM0UwcllNRElvRE85R21EaWc?oc=5",
@@ -334,6 +486,14 @@
    "summary": "GTA VI's $400 Vice City Collection Box Doesn't Include The Game — And Fans Think It's Overpriced GameDaily"
   },
   {
+   "id": "gn-1nt1hu",
+   "title": "GTA VI's $400 Vice City Collection Box Doesn't Include The Game — And Fans Think It's Overpriced",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbWFsUXBxeDhBZFJkdUZsemp0QkZBUTlZaW5Md1k0WjZjX0NYVFVacEZZUW4wZlB5NkUtajR4bmQxRklhSXI0RGszMldNVDBuRFQ0cWdjcldEZ0otRWw1TWFseXhUcDFhV3ZVemswX19UeUN5bGloZkQ2cVBGZmd2MQ?oc=5",
+   "date": "2026-09-24T17:21:30.000Z",
+   "source": "tech.yahoo.com",
+   "summary": "GTA VI's $400 Vice City Collection Box Doesn't Include The Game — And Fans Think It's Overpriced tech.yahoo.com"
+  },
+  {
    "id": "gn-4w8dn0",
    "title": "Rockstar Announces £349.99 “Premium Collector’s Box” For GTA 6",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSFZFZmFGUmV4VnNndE03d0g5ZWVYZDRlWFY0TVkxUmtBVUxpWlZLdmhfb3AxaGVBSWdmZWN6dVhJQUwxdEVYZnJiSWhvV0Y1TE0xb2NObHdlTmVpdndCQlBPSjdFU1lEeHF1ek9hV3pZV1FaQm5wZldITDV5SjZVbXJCRTU3bk5lRWpqdzRFRkpWZkRrWmRvS1cyVzVVUUU?oc=5",
@@ -343,11 +503,11 @@
   },
   {
    "id": "gn-1fk9o43",
-   "title": "GTA 6's $400 Collector's Set Is Causing No Shortage of Outrage Among Fans",
+   "title": "GTA 6 Fans Are Outraged by $400 Collector's Set and Are Comparing It to Red Dead Redemption 2's Version",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWUtDS0NDNFFNOWtYWWVYX2ZxMHZjWV81YzI5MHlFWEVkS3ZHZm5tQ0RFYllDeU90T1FSbVNxc3ZXZEc5NjVWUWFNYnZwSTJTREtHWHNscFdhb1hyc1BsZ0MtVjhjMnlpMXZ4T2k5N0tKMmppakxsNUtNa29jRjVURS00V1ZQdnJiUGhhX1VPNG5tMGpuNXE5Q0RFR2wwUkVDSXpXc0w5ZkdqbzBWaTlXWmVmMXhud1F1ZWtFd2dYa0J5WVF6eXE0aA?oc=5",
    "date": "2026-09-24T17:21:15.000Z",
    "source": "IGN",
-   "summary": "GTA 6's $400 Collector's Set Is Causing No Shortage of Outrage Among Fans IGN"
+   "summary": "GTA 6 Fans Are Outraged by $400 Collector's Set and Are Comparing It to Red Dead Redemption 2's Version IGN"
   },
   {
    "id": "gn-kgqt5c",
@@ -369,17 +529,25 @@
    "id": "gn-1wzs4wo",
    "title": "GTA VI $400 collector's edition unveiled but it does not have the game",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUxlNnljM1dRcTRtWkVpUmo2Y1FNNHJKdGphT1lXQkgxYzNOcURGNktyZy1oem4tdC1QOEx5ZUJLY2VFZFBJZDhTN1F4NEl0aU5YcG43SlVJZnZGdWxRNlRWUV9JcjdocEVBeXZaOW12VzlCS29nVDFjT0liSDRjV1B3anh6SDFVSEY0M0RqTGVUbGllTDNsblVpeC1qUQ?oc=5",
-   "date": "2026-09-24T16:55:05.000Z",
-   "source": "Neowin",
-   "summary": "GTA VI $400 collector's edition unveiled but it does not have the game Neowin"
+   "date": "2026-09-24T16:55:14.000Z",
+   "source": "neowin.net",
+   "summary": "GTA VI $400 collector's edition unveiled but it does not have the game neowin.net"
   },
   {
    "id": "gn-1f8g1jb",
-   "title": "Fans Reacts To GTA 6 ‘s $400 Collector’s Box That Doesn’t Include The Game: ‘We Wanted Jason And Lucia, And We Got An Alligator Instead.’",
+   "title": "Fans React To GTA 6′ s $400 Collector’s Box That Doesn’t Include The Game: ‘We Wanted Jason And Lucia, And We Got An Alligator Instead’",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTWxuSExmb1lwMG5Fd3RhdFQ1QUVPR091bGhPUW5BeF9WU2xmLTlxVXRheDJtN2ZiWTdpTkU5SktLZXZ4V050V2dnbmlYNzJWYzdScXNCSUxwM0kxSHhJYXFrT3ctX3pESXItTmtaOFE5M1hZVlp3ZGozVTJ1SThYSVl1SElZeHh5YzNkQ3JPdU1HNkZYSS1MZnF3Z2JoQ0o0LTRFUm16aW5tLXlZckRCTHBGOEhtSmRYdThHOWROMkM0c2xWTk1iNWVpaHBZbHlWVjJNUW52SHpMdmlNM3FleUJoNW1jeTdIZU1meUVR?oc=5",
    "date": "2026-09-24T16:52:35.000Z",
-   "source": "Kotaku",
-   "summary": "Fans Reacts To GTA 6 ‘s $400 Collector’s Box That Doesn’t Include The Game: ‘We Wanted Jason And Lucia, And We Got An Alligator Instead.’ Kotaku"
+   "source": "kotaku.com",
+   "summary": "Fans React To GTA 6′ s $400 Collector’s Box That Doesn’t Include The Game: ‘We Wanted Jason And Lucia, And We Got An Alligator Instead’ kotaku.com"
+  },
+  {
+   "id": "gn-fe34d",
+   "title": "Grand Theft Auto VI: Vice City Collection Box Available for $399",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV1F6SjlGV2FFZ2xabHNvX1d1b2l4djhodEszNXlGRnZwdnpnT001WjZHNmxOdUFadE5uOG1kX1p6end2ZG5zR19ISEo5aG90SVNyUVB2OFYyQzA0WlZWZXo2S2xiZUx4aXpEYU1UQUc4RXY1Y0diSTc3OXZxanowd3A2LTBHRVFucVRvX3I3TlBvdS1Ea2l1U2hkZVBuUnpJcmRmU0RR?oc=5",
+   "date": "2026-09-24T16:52:10.000Z",
+   "source": "VGChartz",
+   "summary": "Grand Theft Auto VI: Vice City Collection Box Available for $399 VGChartz"
   },
   {
    "id": "gn-190otqf",
@@ -414,20 +582,12 @@
    "summary": "GTA 6 Collector’s Box Officially Revealed and It Doesn’t Include the Game Polygon.com"
   },
   {
-   "id": "gn-fe34d",
-   "title": "Grand Theft Auto VI: Vice City Collection Box Available for $399",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV1F6SjlGV2FFZ2xabHNvX1d1b2l4djhodEszNXlGRnZwdnpnT001WjZHNmxOdUFadE5uOG1kX1p6end2ZG5zR19ISEo5aG90SVNyUVB2OFYyQzA0WlZWZXo2S2xiZUx4aXpEYU1UQUc4RXY1Y0diSTc3OXZxanowd3A2LTBHRVFucVRvX3I3TlBvdS1Ea2l1U2hkZVBuUnpJcmRmU0RR?oc=5",
-   "date": "2026-09-24T16:32:29.000Z",
-   "source": "VGChartz",
-   "summary": "Grand Theft Auto VI: Vice City Collection Box Available for $399 VGChartz"
-  },
-  {
    "id": "gn-12012vv",
    "title": "GTA 6 gets a $400 Collector’s Edition packed with goodies but no game included",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkNTanZScFdkOHFxbHlIYjJ2WTZIYkpVSm5nVVNGRHN4a09sQ2J6MWhDRzczaFpWbC1ZdGJzNVc3T1ZwOG9JTjZCWlZUSnVJakMwbVdoaW1QRmE2WVNSbkdObFM2YkZBV0V0NUxTOW1YRG8xVVFtV1llbGM2S1FnbjhSeERYeVNpeXBhSWJaRWdiMGd1NFRwTUdWdHdYbjJaYTBOaFhOR01CdjZnZy1PV0pBYk5vM3dkZHNMVTVjUdIB0wFBVV95cUxNWk5zS3IwQkx5YXY4NjRvZTZBNVZ1eF9oMHYtT0t6YXUzWjkwaktjUGFpRWpBRk1JdEpMUG1ELUNYdTdweEdGQk1MSWV0eWNyTG00YkI5czYxWjRZVy1mYVVDZ2hHUjhBMTVnSm5VbVhHRTE3bkppbTBUUWVoY09YUkZJejRCNkp6Wk1pa2ZaVDQ3cU9MZGNWSEdhMDhYRUgySzB1NnA2aTBXTHE3MUhfVGNvRlJrbHh1M19Ccmt2QlUtT0RCQXlmX0xkSjFRYmJSdHRn?oc=5",
    "date": "2026-09-24T16:32:11.000Z",
-   "source": "Diario AS",
-   "summary": "GTA 6 gets a $400 Collector’s Edition packed with goodies but no game included Diario AS"
+   "source": "en.as.com",
+   "summary": "GTA 6 gets a $400 Collector’s Edition packed with goodies but no game included en.as.com"
   },
   {
    "id": "gn-k1lsqu",
@@ -500,169 +660,49 @@
    "date": "2026-09-24T15:58:48.000Z",
    "source": "IGN",
    "summary": "GTA 6 Is Getting a $400 Collector's Set Filled With Tons of Merch, but No Game IGN"
-  },
-  {
-   "id": "gn-10dcnp8",
-   "title": "GTA 6’s Collector’s Edition Costs $400 and Doesn’t Even Include the Game",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSERnMEZsZ1BkNW1kQWtYMFI1b2NpLU9DdnREb0twS09xUUZfcDlNSUdVeDRTSWNJR2E2SzJLVmQzX1RJc0xxZklYTkNRQ1lRU2Z5dnFVYmpuNXZGNjFzVnhWZ3l3cFhjZllWX3BkQldDd29kLUlPeWZSeGV4RWx2YkRkVTZZX1Iyc3J0STZFSElIN2FLTlE?oc=5",
-   "date": "2026-09-24T15:50:57.000Z",
-   "source": "MP1st",
-   "summary": "GTA 6’s Collector’s Edition Costs $400 and Doesn’t Even Include the Game MP1st"
-  },
-  {
-   "id": "gn-163jrha",
-   "title": "'Grand Theft Auto VI game sold separately': GTA 6's fabled collector's box is here, but at $399 / £349 it isn't exactly what I was hoping for",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUXRsX2tSbkkzU0dMaF9qZnlLMzF3TW13U3ZUQXRWcUdwUTVRMHlKR0E1ZUxCVUFTYXNpSXM0SWlrSVFRTlFFeWVReTNNd25keDlPODNPdzlGRV9kWUE0QXN3cXRVMjNJUkFRVnFDOVRvdTBQdXFoWXNjTF9TV1V5SlhwSUI?oc=5",
-   "date": "2026-09-24T15:49:57.000Z",
-   "source": "Yahoo Tech",
-   "summary": "'Grand Theft Auto VI game sold separately': GTA 6's fabled collector's box is here, but at $399 / £349 it isn't exactly what I was hoping for Yahoo Tech"
-  },
-  {
-   "id": "gn-8xt93f",
-   "title": "GTA 6 Collector’s Edition Revealed – Price, Items and Pre-Order Details",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVlKSm5fYjY2WldreEJNczZKelo2aTAta0M3cm80Mmc0aWNiSGFfNGF6dTdjMjhzZkl5YlBMamxpQ050UjdyVkY4TGZBOFQ0UzQ5NVhqQ0VnWllJRUtGMkVNRDEza3UyRWRPX0Z5M19uSHpYcFJEdWhwMjFoc2NnUXJRclkyZw?oc=5",
-   "date": "2026-09-24T15:48:36.000Z",
-   "source": "vice.com",
-   "summary": "GTA 6 Collector’s Edition Revealed – Price, Items and Pre-Order Details vice.com"
-  },
-  {
-   "id": "gn-15deemy",
-   "title": "Pre-Order The Goodtime State – Vice City Collection Now While Supplies Last",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaVRpaTZDV0hkeHZnM3ltRTlrNUxrQkx1cjloSk4yWDJxajVmaUtndGFGN0FtN2ZMcTQxX1FYRWFkSU1zdWZiQUtCMFpUU2pnN2x6U01NNU5nX0phbWJ1ZkcwVDVuNmVLYnFQRmFHUWtBc2RYSzVTYklwb0dBd3E3Njk2WVplbjljWl9jZzhtSEM5RGpXU1prbjhkMnc5UmptNDllQk9yNVlsdXJ5SU5XUUc4cWgwdWdBRGRvX21zY1VCekdiY2lZLWh6el81S1ND?oc=5",
-   "date": "2026-09-24T15:48:33.000Z",
-   "source": "Rockstar Games",
-   "summary": "Pre-Order The Goodtime State – Vice City Collection Now While Supplies Last Rockstar Games"
-  },
-  {
-   "id": "gn-ewc70q",
-   "title": "Official Grand Theft Auto VI Vice City Collector’s Box now up for pre-order",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONlozc3M3VWpZQnhYX1NZMkNKSXE2MHN1eGZOeHJPZmxfT1h1SUlwMS1hRms3RjdWYUtkS2o0SFhNck5ERUtiZ3U4NnpQM2tqUFIxa0M1eWVzeUM0UEgzNi16MW9NalU5WEJvdFVlMTJqX0hRdWEtN1Q0amtSam1zTzUwWXB1ekJUZTZ6eW9URERKb21UX1JMX1ZkZHMwSFJ2?oc=5",
-   "date": "2026-09-24T15:47:00.000Z",
-   "source": "9to5Toys",
-   "summary": "Official Grand Theft Auto VI Vice City Collector’s Box now up for pre-order 9to5Toys"
-  },
-  {
-   "id": "gn-ja3bz9",
-   "title": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUlVbDRLMTZ5R1lwQ0Y0Z2Fic3ZlT1lSbi1tNkhYRGRpQ0lkX0xRa3ozUGdOMjNYSnU2ZmVURkJuWlA3RTM1eTAyR25OOE56X2tUbXczSzdXRGdmaUx3VEpRanh0ZDc2ZF9YVnk3Y3BsTE5ZY1BRcE1ESGhnbTRTUWpNLWFDMlJTOFBjVFJKbnZocm1JLUUyNWNpSVBoWGhjN01z?oc=5",
-   "date": "2026-09-24T15:46:49.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 $400 Collector’s Edition Comes With Everything Except The Game GameSpot"
-  },
-  {
-   "id": "gn-16bc81v",
-   "title": "GTA 6 confirms $400 Collector's Box which features 'all the essentials' except the game",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHFoUndwb0VKd0N0T1FEMmdTUW1ncVJUclhRNHFUOF91VGlJNXJIZzd3Y3V5TVpmdkNISGM2TV9jczFVd1h5SzJ0QzJJdTNPZFRqNWhvWFBvbDhDamczZWMtbUctelN3c2F4SXJBNmRWMG5xdjZ3c1dQTndxLXFmZXQxc1VHYktKR3Q1TlBfWTBCc2taNVkw?oc=5",
-   "date": "2026-09-24T15:43:05.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 confirms $400 Collector's Box which features 'all the essentials' except the game GAMINGbible"
-  },
-  {
-   "id": "gn-10tkkwg",
-   "title": "GTA 6 Collector's Edition is coming soon, according to a new leak, as 22 pieces of merchandise unveiled",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzBOTVZCN2RqUE41S0o4c18zYWxXR2hpRGI5QTU3SGlCOUpfeUJjVTVPNHEtclFOWVNJX0dub0U2Y1kwUDNrYXJjSnB4MjhobHFFWk9lcXdtampzSzhPaXdqWFFQcGVXR0dCZEJpNl9jYVF3aHpEdk1VS2o0MUM5ZXRrNF9aSFpDNkE0dXlQY1I1aHp0cFV2XzlETTlpTUwyOV81a0FEYmVYOUlwMDZYU19QcHJ5Y1hmRWZDWXlLc3Y0TnNOQ3JWOVdR?oc=5",
-   "date": "2026-09-24T15:40:10.000Z",
-   "source": "PC Guide",
-   "summary": "GTA 6 Collector's Edition is coming soon, according to a new leak, as 22 pieces of merchandise unveiled PC Guide"
-  },
-  {
-   "id": "gn-l1es7n",
-   "title": "GTA 6 Is Getting a $400 Collector's Set That Doesn't Include the Game",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUl9UdjlKMm1CeGpwNEpvWTM5eHFZcUNyZW5oQ1FRMWNWal9tN0pSSUdRZ3ZCZjFQNWxxdjVfZW9uaENzazdmdWF2NjlpU2pNQ1A3SE90WjRWeEJleEFuaFBfel96azdILUgyRG1UMnBCNEdmbXFDT19VV1BjRFAtQXFLSHNWZWpGdFBMVmpTdUNHZU00TE1DVmgxYmlmY0RqZU1aS0IzcGFzNXJNN25sUUVjS1lYR3cyb1FmNEFJZFQ0RTdX?oc=5",
-   "date": "2026-09-24T15:38:49.000Z",
-   "source": "IGN Pakistan",
-   "summary": "GTA 6 Is Getting a $400 Collector's Set That Doesn't Include the Game IGN Pakistan"
-  },
-  {
-   "id": "gn-z33ihc",
-   "title": "GTA 6 Collector's Box Is $400, Doesn't Include the Game",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUU1xakZOU05QSDdyN1VOZ2tsVzBVX2UxOGZfRVBFOE5jd3VENkxqYXVORFZOY0I2TzlEb2Zkb2trdXdvVDhRb1cwampwRFhSbFFaNl84TzVLdzRVemJ6Y1BUM1NkQ2xZM3JjSDZhTE5OUVg0R0c0WDBnV05OQWY3bW5rQmJ0ZW9jMTZmelpIUDF5TnlUMjNmVFFR?oc=5",
-   "date": "2026-09-24T15:30:00.000Z",
-   "source": "Push Square",
-   "summary": "GTA 6 Collector's Box Is $400, Doesn't Include the Game Push Square"
-  },
-  {
-   "id": "gn-1hgppmd",
-   "title": "GTA 6 $400 Collector’s Edition Doesn’t Include the Game",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnpGRzFSTm5uNmlMVzNQTjJfUW1iQklTMFByR2htSU90Z1dfbjcxRXpaVHd6LWl3bE95YV9maXNtQ05wdG5zNjBOcFN4TFdXN2ZVejNNQjNyTTlqRVpNMm8xUkJ2SlNGZDBDQ0Nhd3ZFVWNGaEVmVFZHR2pBOGRxZFNHS1FxeVk?oc=5",
-   "date": "2026-09-24T15:18:09.000Z",
-   "source": "Insider Gaming",
-   "summary": "GTA 6 $400 Collector’s Edition Doesn’t Include the Game Insider Gaming"
-  },
-  {
-   "id": "gn-11dtk4u",
-   "title": "Rockstar Games is preparing to launch a large-scale line of GTA 6 merchandise.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNVFsX2QwYjFPTnVEaUxUaFE4cFJvR3N6YlBuekVOS0hUZXF5UWdzaEkwZk9kZF9QbUxia2l3VnR6dnVzczFCbmlrZzlwT1ZjbTA4NzRfYnhvRVBmVE5GZFpYTWhCY0YzSS1JNjA4TXl1UlV2RnBZenlHN1NqZ1NGQ3dzRXVMNlNIMkV5LXhFUnV6cDR1cmVFb2dIUVB5TU5sLS0xcFllcw?oc=5",
-   "date": "2026-09-24T14:29:01.000Z",
-   "source": "GameGPU",
-   "summary": "Rockstar Games is preparing to launch a large-scale line of GTA 6 merchandise. GameGPU"
-  },
-  {
-   "id": "gn-h74fvg",
-   "title": "GTA 6 Preorder Bonuses Explained: What You Get And What You Can Safely Skip",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcllDdThGQlVQQ0hWTEcxN1RZWlZMTFo1dGJoRjJFZTQzaHluX3NjRjFoRTA2SS00bUx5NktjMmhldHdXd2M5dmEtRHpBUUdHcTF3ODFsRTlZTGhRLTZmSWxhRnNwYWlhOXJ0OXBaUVFpSVUtNHVhUzNwXzJUaEhaWGxBYw?oc=5",
-   "date": "2026-09-24T14:00:00.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GTA 6 Preorder Bonuses Explained: What You Get And What You Can Safely Skip Yahoo Tech"
-  },
-  {
-   "id": "gn-vx157l",
-   "title": "Datamined GTA 6 Listing Hints at a 24 Pound Vice City Collector's Edition",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZTZhdFlrTWhyQTFTenVYMXdMVDNORFlPMnE2YnZlbGE1SldZRkdaSlRJMGRxdUk3NGNWeXVxY0VlU2VxV1Fpazl2bm05OVZWZWJtRGZpMzlYTF9fdTVwcTdhTzY3bXB2RXdEaDREaDZBdWNXcUNxZE1DN2s1NW90QUNqMzNTTUp4V0Y2SlVZTVRZTm9zZWlpLUVXeC1UNGJxQ0M5ejdvWVVPaDhWUUZv?oc=5",
-   "date": "2026-09-24T13:47:07.000Z",
-   "source": "GTA BOOM",
-   "summary": "Datamined GTA 6 Listing Hints at a 24 Pound Vice City Collector's Edition GTA BOOM"
-  },
-  {
-   "id": "gn-he0j32",
-   "title": "Morgan Wallen GTA 6 Track Passes 6.8 Million Streams as Album Explodes",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmRHbE1nWXM3anJra1NMQUJmVmY3T1cwQUlzUTlPendKZ3Zyb0ZzeUtJMFNiZF9qOE5MT2NwVEROVGliclo2elV0OWtkLWMybVg4WDBnWGJaMFJlMWFnNTFPeEFQdTBreVZ6dnR5VldaQWFKQkkxR3FxVmtlQlBlREFRQUlTY2ZVd3p2VUVBc09ETkJzYWpveGcxYw?oc=5",
-   "date": "2026-09-24T13:11:52.000Z",
-   "source": "GTA BOOM",
-   "summary": "Morgan Wallen GTA 6 Track Passes 6.8 Million Streams as Album Explodes GTA BOOM"
-  },
-  {
-   "id": "gn-wai6w1",
-   "title": "GTA 6 soundtrack: Travis Scott, other artists share cryptic 'GTA 6' messages on Instagram",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLS3VZbnFYdkZrb3dYckUtcEI5bUdvWkJ5NjdCczhvWkljSTVNSGJEM0txN2lSRldjQ202dzQ1NEVyVWZJOHFNbDc0OFR1ZzdRRXBJeV9IV29zTzktTTJCNTA5c2hMSTNSMHhKNm1hMjE4YXR3T1E?oc=5",
-   "date": "2026-09-24T13:09:03.000Z",
-   "source": "Mashable",
-   "summary": "GTA 6 soundtrack: Travis Scott, other artists share cryptic 'GTA 6' messages on Instagram Mashable"
-  },
-  {
-   "id": "gn-vq3a63",
-   "title": "Why Miami-Dade Is Eager to Promote ‘Grand Theft Auto VI’",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONXZnbkt2bUFsWThKa1VVcllSUVVQS2EtamwwSkhKMVRWaEItR2FhN3g1Y0FMOWtMU3hCbUxHOVBMaEVIY2w5RVBqcmlzN0g0OHZDaWlTVFJBd0N2M2dRREVPN29NVE9wbUl5ZGR0OENTTDF3bzhXQW5JVHRtWS1iZQ?oc=5",
-   "date": "2026-09-24T13:07:08.000Z",
-   "source": "The New York Times",
-   "summary": "Why Miami-Dade Is Eager to Promote ‘Grand Theft Auto VI’ The New York Times"
-  },
-  {
-   "id": "gn-6xefum",
-   "title": "Wardogs Dev Says Games Are Too Cheap and Blames GTA 6 for Not Raising Prices",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVmhiNkVOWGhrdVgxYnhrT1RCRkd0TTJlQXNTcjROVkxkMXoxcmJNUjEzdWNqX0Rpd2hzTy1fNFFrMlNVOXIzeXhXSEw5aVRvelpRQUVOTVJmTkRnRGY4T3BXc3plNklaLXFBSnpKNXZzeXZ6a1RyVXY4bnhwN1Q2UkV5Zk9OZG5VUExN?oc=5",
-   "date": "2026-09-24T12:51:41.000Z",
-   "source": "DualShockers",
-   "summary": "Wardogs Dev Says Games Are Too Cheap and Blames GTA 6 for Not Raising Prices DualShockers"
-  },
-  {
-   "id": "gn-1s0jsr6",
-   "title": "Ubisoft is prepared for GTA VI impact on Rainbow Six Siege",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUW9mM2EwbVRKTUFGamhjNjJSZmRnXzM2a1c4M29xdWpMQVZUR3YwdXF1bDJHRnNYM1NHdnBlN3lhSlZkMHVoZXBzczBWQ2ZxNzhNeTljTktqV1ExeFlOWlVuckFHblU4dXlhYjF2NGd0a0o1dzd5SFJHZnhybGF4UkhLQTEtR1cydThUMnYwNzBITkZwRlVnSk1n?oc=5",
-   "date": "2026-09-24T12:25:30.000Z",
-   "source": "Female First",
-   "summary": "Ubisoft is prepared for GTA VI impact on Rainbow Six Siege Female First"
-  },
-  {
-   "id": "gn-8tufar",
-   "title": "A Collector's Edition for GTA VI may be announced soon",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNWNuN0hOdHBPa3NNb0lqc2FVWVQ2Rzg0UXJTeXE2SWprbE1heVZjT3hZZ0taR3BBd3A3TWd5QjRYNmtFbnN0d1ZVcVZUcElfWExyajdpLXdrMkFtbzk2NkE2MHpRMVRtZ1RUaFlDYVc2RGVHZXA3Z1dzTk43QnpPX2gxa1pkQlltZk85YUs1RERacVBPNXJGUXIzUVl3bDItbEdUSGZQdw?oc=5",
-   "date": "2026-09-24T12:19:36.000Z",
-   "source": "Instant Gaming News",
-   "summary": "A Collector's Edition for GTA VI may be announced soon Instant Gaming News"
   }
  ],
  "community": [
+  {
+   "id": "rd-6qsf7x",
+   "title": "Seems like official merch is on the horizon.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wpcydz/seems_like_official_merch_is_on_the_horizon/",
+   "date": "2026-09-24T20:39:15.000Z",
+   "source": "r/GTA6",
+   "summary": "Here is a list of all the official merch that will most likely be dropping next Thursday or somewhere down the line. I personally want the stickers and shirts. submitted by /u/Quick-Ad-3151 [link] [co"
+  },
+  {
+   "id": "rd-1c0zure",
+   "title": "WEEK 4 of painting GTA6 until it comes out. This time I painted I really dig into after watching the extended look for the 10th time",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wpcvmk/week_4_of_painting_gta6_until_it_comes_out_this/",
+   "date": "2026-09-24T20:36:08.000Z",
+   "source": "r/GTA6",
+   "summary": "Hot topic now is the collectors edition which I would buy if I wasn’t disappointed by it….but here you go enjoy my painting. submitted by /u/Goylianos [link] [comments]"
+  },
+  {
+   "id": "rd-q11ar8",
+   "title": "Article of the Day #24: Valentina",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wpblza/article_of_the_day_24_valentina/",
+   "date": "2026-09-24T19:46:52.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/gtawiki [link] [comments]"
+  },
+  {
+   "id": "rd-1cnyq1e",
+   "title": "The Collectors Edition Is An Odd Choice For The Theme",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wpb3rx/the_collectors_edition_is_an_odd_choice_for_the/",
+   "date": "2026-09-24T19:27:17.000Z",
+   "source": "r/GTA6",
+   "summary": "Honestly it’s a very odd choice to make the collectors edition a macca tv show themed!? It would have been way better to keep it the main characters themed submitted by /u/Suspicious-Topic-495 [link] "
+  },
+  {
+   "id": "rd-1yzrvhq",
+   "title": "remember when the GTA V's collecxtors edition was CA$150",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wp9h0t/remember_when_the_gta_vs_collecxtors_edition_was/",
+   "date": "2026-09-24T18:25:02.000Z",
+   "source": "r/GTA6",
+   "summary": "and it included the game and free shipping? submitted by /u/Splatulated [link] [comments]"
+  },
   {
    "id": "rd-1y3om83",
    "title": "Collectors Box FAQ's",
@@ -942,46 +982,6 @@
    "date": "2026-09-23T17:01:33.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/ZamnBoii [link] [comments]"
-  },
-  {
-   "id": "rd-2e5mv8",
-   "title": "Who remembers this day? We made it so far.. 🥲",
-   "url": "https://www.reddit.com/r/GTA6/comments/1woaf7r/who_remembers_this_day_we_made_it_so_far/",
-   "date": "2026-09-23T16:15:21.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/NimrodSr [link] [comments]"
-  },
-  {
-   "id": "rd-34astv",
-   "title": "Would you actually change plans because of GTA 6's social feed?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wo9euj/would_you_actually_change_plans_because_of_gta_6s/",
-   "date": "2026-09-23T15:38:18.000Z",
-   "source": "r/GTA6",
-   "summary": "Lucia can scroll through the feed while Jason's driving. You're already on the way to a mission and something on the feed catches your attention. Would you really change what you were doing just to go"
-  },
-  {
-   "id": "rd-1f0m7dy",
-   "title": "After the Extended Look people were saying Jason seems to have no personality, but at the start of Trailer 2 he was pretty quippy with deadpan humour",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wo90ne/after_the_extended_look_people_were_saying_jason/",
-   "date": "2026-09-23T15:23:31.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
-  },
-  {
-   "id": "rd-xwsyqf",
-   "title": "With the release of “The Album”, I thought it deserved a retro cassette version",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wo3hye/with_the_release_of_the_album_i_thought_it/",
-   "date": "2026-09-23T11:35:27.000Z",
-   "source": "r/GTA6",
-   "summary": "Designed and 3D printed my take on what an old school version of “The Album” would look like. submitted by /u/Lost-Run2680 [link] [comments]"
-  },
-  {
-   "id": "rd-1ry7v2x",
-   "title": "Damn, now the emotions of the NPCs can really be felt!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wo3fko/damn_now_the_emotions_of_the_npcs_can_really_be/",
-   "date": "2026-09-23T11:32:11.000Z",
-   "source": "r/GTA6",
-   "summary": "Look at the expression of the first background NPC. It senses that it's going to be the worst mealtime ever. 🤣 Rockstar is probably the only developer that pays this much attention even to background"
   }
  ]
 }
