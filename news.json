@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-26T17:35:47.991Z",
+ "generated": "2026-09-26T20:35:27.888Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-26T17:35:47.991Z"
+   "checked": "2026-09-26T20:35:27.888Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-26T17:35:47.991Z"
+   "checked": "2026-09-26T20:35:27.888Z"
   },
   "googlenews": {
    "ok": true,
    "count": 92,
-   "checked": "2026-09-26T17:35:47.991Z"
+   "checked": "2026-09-26T20:35:27.888Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-26T17:35:47.991Z"
+   "checked": "2026-09-26T20:35:27.888Z"
   }
  },
  "official": [
@@ -182,6 +182,14 @@
  ],
  "press": [
   {
+   "id": "gn-41je7m",
+   "title": "GTA 6 Heist Gameplay Is Wild",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1JLM0xfUDVETTVqZ19VSkQ1ZVo4LU9KUzBQTm5BdHF5SGpoOWl3SGZ3WEJPb0xqZ0NlU2p5Z3hYWUh4V0FuX2lYV0R6a3VTcjNhX1dxOEFiQlhEOHdHRmVaampraUpjeVdpT3hQOEJtZG1CekhXcWJIRFFabkhxSFV1cTRZeWZaclVn?oc=5",
+   "date": "2026-09-26T18:10:00.000Z",
+   "source": "Yahoo",
+   "summary": "GTA 6 Heist Gameplay Is Wild Yahoo"
+  },
+  {
    "id": "gn-18g80w8",
    "title": "Xbox responds to reports of GTA 6 pre-orders favouring PS5",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHNuOHFHa0V4aEtaM1Btb3pUYzNQcXVUSW0tR05CNkh1LXJwU3Z0VEV0ZFhVT05wdnVaU3VRSEJaS0tNNnZwMlNTSkNRUjBmWVNNQ0ZFRWNKYU9TM2NFbHN2eDhlTzlUMHJjQUhZa0Uzd24xOWN6bGlNVi1qSnZHaVdfNWVpRnNTYnBYcU1tX0MzWFpYVlNJM2RmNA?oc=5",
@@ -230,6 +238,14 @@
    "summary": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA after actor Stephen Root let slip he's in the game GamesRadar+"
   },
   {
+   "id": "gn-11i80rj",
+   "title": "'GTA 6: The Album' soundtrack will get vinyl and CD release",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPelJ4Qkl2cGNJNWdob29OOW5DSGFxLTl2TjRpNWl3ZEhwQjI4ZlkzYVhydU1mUjZSbjJOZENMdW5ZeUVkMERGakpQWDhQeUtoVUFLUUd3TzdZWlg1X1pyQzE4QkFRM0Q1M2lzUUJEMnJROEtQZ25KbDRXSTQzTUlLWEE3Qm5OcW93aV9Nd2hzYTVaX2tMVFE?oc=5",
+   "date": "2026-09-26T14:32:56.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6: The Album' soundtrack will get vinyl and CD release Mashable"
+  },
+  {
    "id": "gn-k74ra",
    "title": "Grand Theft Auto VI Stars As Next Cover Of Game Informer",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NQ0dtaGU0V2tlOFgyWjRYbl85bU9XeUFGQllHUjJUZ2ZjSzZqcmlzUHRQeG94VlVQaGs2cmcybE9zREVKb0xLajhDQ3lPUEdXTDNlS20tR05IZ1VGd05PMHVrM2FkWGV0MkFtc0czYkwxRDJBTmlJ?oc=5",
@@ -242,8 +258,8 @@
    "title": "GTA 6 Collector’s Box Costs US$400 and Doesn’t Include the Game",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pNlItamU0d1BpYlBTZXJHWXVzaUJQOXdTYi1mNER3cHVpcVpBWHdxX2xmcTFQX1Z3YzQwa1BhaVpGVUdTSDc1RjBTMG5zX0pvRFkwclUyUnpTTGRhQm9aQ3J3T25rZmM?oc=5",
    "date": "2026-09-26T14:00:00.000Z",
-   "source": "colombiaone.com",
-   "summary": "GTA 6 Collector’s Box Costs US$400 and Doesn’t Include the Game colombiaone.com"
+   "source": "ColombiaOne.com",
+   "summary": "GTA 6 Collector’s Box Costs US$400 and Doesn’t Include the Game ColombiaOne.com"
   },
   {
    "id": "gn-r5uf05",
@@ -274,8 +290,8 @@
    "title": "These Xbox Players Got GTA 6 For Free The Hard Way",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82X2ZRRm5WVllxbUpFYk9EZ2FfS21aUzhWa0d4NnBFVW5xU09WX2RtVVVBLS1TNWZjLUtsSkVzY19wU1hnMzFqcUZfVzN1YXdhSC1KWS0xNnJOVjNVTnhrZTZ6S3pnaEhENUhla3hDTW8xWjVOT2cxZElIdExYU2c?oc=5",
    "date": "2026-09-26T12:30:00.000Z",
-   "source": "Engadget",
-   "summary": "These Xbox Players Got GTA 6 For Free The Hard Way Engadget"
+   "source": "engadget.com",
+   "summary": "These Xbox Players Got GTA 6 For Free The Hard Way engadget.com"
   },
   {
    "id": "gn-10fk10j",
@@ -306,8 +322,8 @@
    "title": "GTA 6 Pre-Load: November 12 Theory Explained",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVVndtNVZSNU9pdWVZQWhEZVJVSmZUbXZDREU5QXNBQ2dnVEV0SXhpN0xZRVhkZmRPM3NPVTJ2X0VGdXdYMTVDYkRZeDA1ZERiVTBla3F3?oc=5",
    "date": "2026-09-26T09:00:00.000Z",
-   "source": "gameluster.com",
-   "summary": "GTA 6 Pre-Load: November 12 Theory Explained gameluster.com"
+   "source": "GameLuster",
+   "summary": "GTA 6 Pre-Load: November 12 Theory Explained GameLuster"
   },
   {
    "id": "gn-1u0wiwd",
@@ -362,16 +378,16 @@
    "title": "Rockstar's $400 GTA VI Collector's Edition is packed with must-have, totally useless stuff",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbXFlbHV6djJaVGlqaGJweDJJVE5SVFdBOVEyYVlnNF9TdHhjR2tHZVF3Q2ZVUXFYcFhWNmN5NjNVQ0dEX2tSSjA1NExCRzJGVnM3U3BsZUlIdkdiX2gwcGZNbTZzV2U3SUNMcVVCRHVyMTlyazh3T2NDOGZIRTBxYjNnNVdGUkpPRDVWTGZkWGtoRktnblE?oc=5",
    "date": "2026-09-26T05:22:00.000Z",
-   "source": "techspot.com",
-   "summary": "Rockstar's $400 GTA VI Collector's Edition is packed with must-have, totally useless stuff techspot.com"
+   "source": "TechSpot",
+   "summary": "Rockstar's $400 GTA VI Collector's Edition is packed with must-have, totally useless stuff TechSpot"
   },
   {
    "id": "gn-3nimg1",
    "title": "Rockstar drops $400 GTA 6 Collector’s Box: What's inside and where to buy",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGFSdXUxNVBTdVRpenREOGRueWtPUE9QQUIydFhiRjRaTHVTVE1ZRWU5OG5Pd0hCbUE4SDE3R3d6Q0FKSXNLQjlsUHNYMDVPNFNVREtlRVI1SF9Sb0I5QlZiczZRTDRVWUhfVGJ3QkVtbFhacDFLdWZPMVFmdXRfYUJxS2tWYnpNRFFTMUl3?oc=5",
    "date": "2026-09-26T04:23:58.000Z",
-   "source": "mashable.com",
-   "summary": "Rockstar drops $400 GTA 6 Collector’s Box: What's inside and where to buy mashable.com"
+   "source": "Mashable",
+   "summary": "Rockstar drops $400 GTA 6 Collector’s Box: What's inside and where to buy Mashable"
   },
   {
    "id": "gn-3uwols",
@@ -406,14 +422,6 @@
    "summary": "Rockstar readies GTA 6 to ship by release date, adding regional editions that may cut content Notebookcheck"
   },
   {
-   "id": "gn-11i80rj",
-   "title": "'GTA 6: The Album' soundtrack will get vinyl and CD release",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPelJ4Qkl2cGNJNWdob29OOW5DSGFxLTl2TjRpNWl3ZEhwQjI4ZlkzYVhydU1mUjZSbjJOZENMdW5ZeUVkMERGakpQWDhQeUtoVUFLUUd3TzdZWlg1X1pyQzE4QkFRM0Q1M2lzUUJEMnJROEtQZ25KbDRXSTQzTUlLWEE3Qm5OcW93aV9Nd2hzYTVaX2tMVFE?oc=5",
-   "date": "2026-09-26T00:22:43.000Z",
-   "source": "mashable.com",
-   "summary": "'GTA 6: The Album' soundtrack will get vinyl and CD release mashable.com"
-  },
-  {
    "id": "gn-1f9g45r",
    "title": "GTA 6 Takes Over Game Informer’s Next Cover, 14-Page Story Drops Sept 29",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUZzb3dlSERGNFhvMDZYd1FTVHN3Rzh6VzNXOUtaaW1ENWNsNm1YUjZ3aWd4QmlHWE8xaWdxemszbGhRaEtSU05JRU1NX1BGeTdvSjZneFhtblljNlQ4NmpyY3hHRmpSRE0wYmppaEZkRnVILUNlVjRlcncwS18yUFhBUFRhX3J6blQtb2taa0hjY0tmR19DYUdQQjFOUnVaQktKS00zcVdZdw?oc=5",
@@ -434,8 +442,8 @@
    "title": "Is GTA 6 worth the hype after 13 years? Fans prepare for release amidst high expectations",
    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRDRMRGJmcHNsTVlYNU00YmhDOFluMVFPbTRoeURIeDJDTGotUGZ3dm55THBZQWw2RjgwX1RqQjF3QzFvX1F6eTZReUktSFQ2RFV1QnNBMkJFcEFpNEE0S0kwel9lZkpCLUVFVzVkbWdKTU5vZ3lYeHhGSk1vT1lLSWRXUUFZdGJsSDB5WHEzajBZczFta29ERF8xVFpXaUxWZi13VmNwMFdNbngzYS1qSDFFeXR5OWNkR05laUhzQjlzazhzUDJybWtBdzh5alFGYXRNQ0l5SGVLeXFic21lM1RhUGhaVV8wbmNtZS1VOXNzWkRlVnlr0gH8AUFVX3lxTFBIcW4wd0ZFeFRKRm5mVGR1eHVuWGJDV1NKLXVGOUFmN1gxVG1MWDV2U2p1dHNYaFZfa0ZyVC1QbmZobkRZbmRLUlhUVWswVjZSb25hQklVa1NUQjY4TXNnc2ZzRjZSSDFuNEttLUwwQTZrRVNTZlFET05VTGpPdUdva0FRMHpwN2M1TXlVQWNqMHJ0Y244V2lPa2lubHVKMkpzNjYyM2Qza0hjYkJUUk15djdYcGFuMXFzd19oQ19Uak1jdHlaVkhfRmxyRkY0cW9GdTljajl6ZmVwaGUwQXRrZDVOZ1F5WFNxdXZxaXhMMlV6WDhFTkhISnFVZw?oc=5",
    "date": "2026-09-25T23:06:41.000Z",
-   "source": "The Economic Times",
-   "summary": "Is GTA 6 worth the hype after 13 years? Fans prepare for release amidst high expectations The Economic Times"
+   "source": "economictimes.com",
+   "summary": "Is GTA 6 worth the hype after 13 years? Fans prepare for release amidst high expectations economictimes.com"
   },
   {
    "id": "gn-3avrwa",
@@ -450,8 +458,8 @@
    "title": "Rockstar’s $400 GTA 6 Collector’s Box Features Quirky Souvenirs, Skips the Game",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmU5dTBUTDUxcnFnUkxFQmd6cUxjcTV3OEsxeUlxZFdkSnV0N05IMVh6cW12T3dSTzMxd2Fwa0FTV2ZLZ1BObUxpTXRPaTJCWGxQV0pZWTc1bDVUUTdqR0ZsM1FPNXFEdWxTX2JHQmZCVmVJU0VrSldSRC1pUWlPZW4wSVJqQQ?oc=5",
    "date": "2026-09-25T22:43:36.000Z",
-   "source": "freeyork.org",
-   "summary": "Rockstar’s $400 GTA 6 Collector’s Box Features Quirky Souvenirs, Skips the Game freeyork.org"
+   "source": "freeyork",
+   "summary": "Rockstar’s $400 GTA 6 Collector’s Box Features Quirky Souvenirs, Skips the Game freeyork"
   },
   {
    "id": "gn-1lhvbkq",
@@ -652,17 +660,25 @@
    "date": "2026-09-25T16:34:07.000Z",
    "source": "IGN Pakistan",
    "summary": "As Resident Evil Requiem Passes $500m Revenue, Analysis Shows 8.6% Sales Were on Xbox, With Remaining 91% Shared Between PS5 and Steam IGN Pakistan"
-  },
-  {
-   "id": "gn-6ox9qk",
-   "title": "GTA 6 Goodtime State Vice City Collection pre-order announced: Release date and items revealed",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYW9KMXJTTWhQX3h5UXBOS3ZmUURUT2htMTNRNHlma2kzRHVWblJvZ09zT1p1NGxwVUdlOGtUbEd5amFGR3cwYmtvcGs2eVpXeXo5Y1NyS09nNGRWTTZwTjdBVEhXcWp6eFpoWGR4YURjc0ZYNzNpYmlsb3daalZhWUpyUmN6clFUTm9vX0FsME5vX1N4LTlyNmZ1aHhkQ1IxYTFrNl92b0haWFl1clpSTmFOS0MwcVVUd3NpYlduYzFWVkNZMXVuRXExSUZ4b00yMmhZdzhOd2NBTFhvcGVDWExaakhRdng0OThMMFN3WExkQXFjTENOcm9NN01SeGJZUDk40gGIAkFVX3lxTE5RcktEZ21mNGFjQ1JRUWZxdmZyal90WW5ld2xVMGI0QTdfSGV3MHFlS0ZsMTliTHh3a1F4WVl4bkxYX3UtcFA5TGFTRm1BOHJPcHFocG81N1QwRDVCU3plclhSNnhZbTFJVFQ4WmRTSGFOMjlNUjlZNHhmTTR4YzdWS1ZxTmFaRjVxanRhRERoMGN0SHVNczBhaUxQdHllbTZEeHItRnZJMEpWNVlmWTlrT01UbE9IaHFXVGxxOGZYWVZkVkFZUlVhbVJiTGs1dThnWjVrNW1VLWNwMXUzOTFrVE55MVpUUWZZeDF1WnZ2X29TeVhjUW1uZkZKc2hCUVM2dms3bUpHQw?oc=5",
-   "date": "2026-09-25T16:30:00.000Z",
-   "source": "The Times of India",
-   "summary": "GTA 6 Goodtime State Vice City Collection pre-order announced: Release date and items revealed The Times of India"
   }
  ],
  "community": [
+  {
+   "id": "rd-brpu35",
+   "title": "I was looking into GTA VI pre-installation and was wondering what do you think will be \"Extra\" ?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wqwsli/i_was_looking_into_gta_vi_preinstallation_and_was/",
+   "date": "2026-09-26T17:48:19.000Z",
+   "source": "r/GTA6",
+   "summary": "Everything is on the title, we have the story, the content of the ultimate édition (bought it) but extra too submitted by /u/Free_Wafer2002 [link] [comments]"
+  },
+  {
+   "id": "rd-urshiy",
+   "title": "GTA 6 Movie Poster (fan edit by me)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wqu7os/gta_6_movie_poster_fan_edit_by_me/",
+   "date": "2026-09-26T16:03:59.000Z",
+   "source": "r/GTA6",
+   "summary": "I made this cool movie poster. I hope you guys like it. :D submitted by /u/Benjaminterlinked [link] [comments]"
+  },
   {
    "id": "rd-tj6cxo",
    "title": "Article of the Day #26: Vice Beach Police Station",
@@ -966,22 +982,6 @@
    "date": "2026-09-25T04:27:00.000Z",
    "source": "r/GTA6",
    "summary": "&#x200B; J.B Smoove on WCTR in GTAV was unhinged and hilarious. Really hope 6 has a good talk radio I can just sit and laugh too submitted by /u/Thnx4thesocks [link] [comments]"
-  },
-  {
-   "id": "rd-1sxl4xu",
-   "title": "Rockstar just repurposing old shi 😂",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wplfsx/rockstar_just_repurposing_old_shi/",
-   "date": "2026-09-25T03:09:25.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Penisface72828 [link] [comments]"
-  },
-  {
-   "id": "rd-1gminuz",
-   "title": "If these small islands on the map have names does that mean they will have things on them instead of being completely empty?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wpjzk9/if_these_small_islands_on_the_map_have_names_does/",
-   "date": "2026-09-25T01:56:29.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/MTH1138 [link] [comments]"
   }
  ]
 }
