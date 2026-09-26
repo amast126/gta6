@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-26T08:45:43.369Z",
+ "generated": "2026-09-26T13:35:46.254Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-26T08:45:43.369Z"
+   "checked": "2026-09-26T13:35:46.254Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-26T08:45:43.369Z"
+   "checked": "2026-09-26T13:35:46.254Z"
   },
   "googlenews": {
    "ok": true,
-   "count": 100,
-   "checked": "2026-09-26T08:45:43.369Z"
+   "count": 92,
+   "checked": "2026-09-26T13:35:46.254Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-26T08:45:43.369Z"
+   "checked": "2026-09-26T13:35:46.254Z"
   }
  },
  "official": [
@@ -182,6 +182,62 @@
  ],
  "press": [
   {
+   "id": "gn-xt4jzo",
+   "title": "Is GTA 6 Coming To Nintendo Switch 2? Ex-Rockstar Dev Drops Bold Claim",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjVGenNtSTlsbUVuNFdmSURYUDlSRjNieGNZTlZGTG15WkZybTZ1dHVRLVVzNmozSmRhejhrZUNoNEtxLUtXUlp2czJRY19sSldvRG9OQnd5VHgybFVRaEZOZlFMeUlzbE5Bb3dUWEhqSDBhNW5KMXNmWlZKTGJJc2JUQnp1STE3eF9CR0dFQQ?oc=5",
+   "date": "2026-09-26T13:01:00.000Z",
+   "source": "HotHardware",
+   "summary": "Is GTA 6 Coming To Nintendo Switch 2? Ex-Rockstar Dev Drops Bold Claim HotHardware"
+  },
+  {
+   "id": "gn-zci30f",
+   "title": "Manor Lords publisher isn't worried about launching a game on GTA 6's release date - PC players \"looking to steal cars\" might check out its new management sim instead",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQY09KRXR2TFlHOThDQ1FaNkJ1U2dUQWJCcklkUkZ1NHZKSjhGeEZ2WHhoZjVwVmZhdzNOajlNTVBnaTE3czlCX3dDZlFpUXVvaFhlRUlaRzR1UEpaSWFXa0k1LWNVZUt0bHVLWTBMOW90RFc1OVBEbUdVWE52U3JnTDRDV0dkaS1FSEhEUTVPZVFsSUpWelRnUkJCaGdwdVNKWW91SWRxUzZNNDhqcGFfa0VSeHFrU083dy1NYU5HNy1USm9wcHJ5QW9LMkZ2RmdLQjFCek40TVBFNjZfazMtUXJKa3F0NmZOSEN1Wm5feG5xUGEzXzBpVzlIQUdDaEdVUVU2aGRadG1mcjdPWEdGQ214UVpmYTV1bVZzNldIWi0zY3BwRmh2SkkxcjRSWDJ2WUVWYzR3?oc=5",
+   "date": "2026-09-26T12:40:12.000Z",
+   "source": "GamesRadar+",
+   "summary": "Manor Lords publisher isn't worried about launching a game on GTA 6's release date - PC players \"looking to steal cars\" might check out its new management sim instead GamesRadar+"
+  },
+  {
+   "id": "gn-1tdsnff",
+   "title": "These Xbox Players Got GTA 6 For Free The Hard Way",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82X2ZRRm5WVllxbUpFYk9EZ2FfS21aUzhWa0d4NnBFVW5xU09WX2RtVVVBLS1TNWZjLUtsSkVzY19wU1hnMzFqcUZfVzN1YXdhSC1KWS0xNnJOVjNVTnhrZTZ6S3pnaEhENUhla3hDTW8xWjVOT2cxZElIdExYU2c?oc=5",
+   "date": "2026-09-26T12:30:00.000Z",
+   "source": "Engadget",
+   "summary": "These Xbox Players Got GTA 6 For Free The Hard Way Engadget"
+  },
+  {
+   "id": "gn-10fk10j",
+   "title": "GTA 6 Casino: Will Grand Theft Auto VI Have Gambling Features?",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWp0NS1BYjBxTXVMVVdlNWZoTmNSbnlsTVlwRWJxcWhVeFpnb09uUXF2ek43T3Z1QTgyaDJTT04temhKV1NlcmMybEYtU08xY3ViVGlUMGdmNHloY09fV3lmRUFVOXBHWVNfUXJ1Q0phZE93aV9YeXhFM3NQaVZvYzZmeXphVjVORHJ0X1RaVQ?oc=5",
+   "date": "2026-09-26T11:32:40.000Z",
+   "source": "PlayStation Universe",
+   "summary": "GTA 6 Casino: Will Grand Theft Auto VI Have Gambling Features? PlayStation Universe"
+  },
+  {
+   "id": "gn-kh80ah",
+   "title": "GTA VI’s $79.99 Price Ignites Overhyped Debate [2026]",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0S25EY1ZQSW9iNkRpS2tyRlMxRVZVak15S0ZwcXJ2clBxYi1zY2tHWEFnRkd4V01mNHVwbklUR2FPZmVLWHU2REJwSHNPazB5emJFSGRTZFgxdXBLX2dBZG0zU3ZRd2pxMTBneG9B?oc=5",
+   "date": "2026-09-26T09:22:21.000Z",
+   "source": "shattered.io",
+   "summary": "GTA VI’s $79.99 Price Ignites Overhyped Debate [2026] shattered.io"
+  },
+  {
+   "id": "gn-qlbq93",
+   "title": "GTA 6 Only Costs $79.99 to Play, No Matter What That $1,853 Figure Says",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3Q4VXpUa19ieVBPOHFUVEU0TzVTZzNSZGZJVWlPYkxFbFZnenI2aDlBbGxvRGNPWVl2LUVXaFAzV3VWRmdmenN0bWo0V2VHSlhFVkZxNTFoM2FHeEJvU1NVQWRKMnJJMldLSlhtbkhEYXFleFcwYkJ2V205YjBiU215UlZJbkdiSHZERWNoOHplZkFW?oc=5",
+   "date": "2026-09-26T09:15:18.000Z",
+   "source": "gtaboom.com",
+   "summary": "GTA 6 Only Costs $79.99 to Play, No Matter What That $1,853 Figure Says gtaboom.com"
+  },
+  {
+   "id": "gn-9l4h5w",
+   "title": "GTA 6 Pre-Load: November 12 Theory Explained",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVVndtNVZSNU9pdWVZQWhEZVJVSmZUbXZDREU5QXNBQ2dnVEV0SXhpN0xZRVhkZmRPM3NPVTJ2X0VGdXdYMTVDYkRZeDA1ZERiVTBla3F3?oc=5",
+   "date": "2026-09-26T09:00:00.000Z",
+   "source": "GameLuster",
+   "summary": "GTA 6 Pre-Load: November 12 Theory Explained GameLuster"
+  },
+  {
    "id": "gn-1u0wiwd",
    "title": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjJqLUJ6R055TndrTTFmYUU0OVZPRkZxcG9rNXhqOGNVOUZZQVlYaXZmd04ybU5obTZkWjF0c1Z4TFJkYS1UOTRlNEhMallUSmpkblYwSm52Rl81LWp0RTF1S0FldVM4QzVVSVE4QU1KTkdqYldkU1FreHVLMTQyOWVFeHM2MjgxaW5sZkRLQU10QUNfYVpwLVFyQWpSQy0wSHk1QjR1alUyeGdrejg0RkU0VnlJZHlONk5GcXRwN3pKRTQ?oc=5",
@@ -191,11 +247,19 @@
   },
   {
    "id": "gn-1c92vq9",
-   "title": "NBA 2KTV Host Claims Rockstar Emailed Her About a GTA 6 Copy",
+   "title": "NBA 2KTV Host Alexis Morgan Says Rockstar Emailed Her About a GTA 6 Copy",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc3RPNnlaeEZhb3VpN0RIN21fazB1cndqY2R0Wi00QVM2VlZuaEE0VDBhTTJBMkdxaVZPNGVHcXJGSl9ZVEJva2pCZGI3WUlpMDBURjRtR1F3dThja0JFTE9QaGI4d0FXM2lXTDY1d2NPbG4zdDczcUkyZkkyS3JxdV9vaWgySTVFdDEyRjBUd0gxNTBHcFJjbXFkYXZYLW5jMXIw?oc=5",
    "date": "2026-09-26T08:25:02.000Z",
-   "source": "GTA BOOM",
-   "summary": "NBA 2KTV Host Claims Rockstar Emailed Her About a GTA 6 Copy GTA BOOM"
+   "source": "gtaboom.com",
+   "summary": "NBA 2KTV Host Alexis Morgan Says Rockstar Emailed Her About a GTA 6 Copy gtaboom.com"
+  },
+  {
+   "id": "gn-c5t6ie",
+   "title": "Xbox Exec Isn’t Freaking Out Over GTA 6 Presales",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOFBCZXd5UHV2bFBpMy1mZURWZjc0UlRaVzV3Y2t3S0JOeHJMd3ViM2k5dHBxa1JvMVRpZl9EU1ByVkF2aVZZMmZJaTRIWUtSMnJyeENNQnVjUlBQc3ZwQXRTSVVkNE5EOVBHNUZSZ04xVVV6dTlTM2Z0Tlh0d2VQMFlERk5SQmlkRFE?oc=5",
+   "date": "2026-09-26T08:03:55.000Z",
+   "source": "GameSpot",
+   "summary": "Xbox Exec Isn’t Freaking Out Over GTA 6 Presales GameSpot"
   },
   {
    "id": "gn-1tl1k7v",
@@ -230,6 +294,14 @@
    "summary": "New Batch of GTA VI Details Coming - Game Informer Announces Exclusive ixbt.games"
   },
   {
+   "id": "gn-h83ixi",
+   "title": "Rockstar's $400 GTA VI Collector's Edition is packed with must-have, totally useless stuff",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbXFlbHV6djJaVGlqaGJweDJJVE5SVFdBOVEyYVlnNF9TdHhjR2tHZVF3Q2ZVUXFYcFhWNmN5NjNVQ0dEX2tSSjA1NExCRzJGVnM3U3BsZUlIdkdiX2gwcGZNbTZzV2U3SUNMcVVCRHVyMTlyazh3T2NDOGZIRTBxYjNnNVdGUkpPRDVWTGZkWGtoRktnblE?oc=5",
+   "date": "2026-09-26T05:22:00.000Z",
+   "source": "TechSpot",
+   "summary": "Rockstar's $400 GTA VI Collector's Edition is packed with must-have, totally useless stuff TechSpot"
+  },
+  {
    "id": "gn-3nimg1",
    "title": "Rockstar drops $400 GTA 6 Collector’s Box: What's inside and where to buy",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGFSdXUxNVBTdVRpenREOGRueWtPUE9QQUIydFhiRjRaTHVTVE1ZRWU5OG5Pd0hCbUE4SDE3R3d6Q0FKSXNLQjlsUHNYMDVPNFNVREtlRVI1SF9Sb0I5QlZiczZRTDRVWUhfVGJ3QkVtbFhacDFLdWZPMVFmdXRfYUJxS2tWYnpNRFFTMUl3?oc=5",
@@ -246,12 +318,12 @@
    "summary": "GTA 6 on Nintendo Switch 2 \"Doesn't Make Sense\" According to Former Rockstar Dev TechPowerUp"
   },
   {
-   "id": "gn-kh80ah",
-   "title": "GTA VI Overhyped or Overpriced? $79.99 Debate [2026]",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0S25EY1ZQSW9iNkRpS2tyRlMxRVZVak15S0ZwcXJ2clBxYi1zY2tHWEFnRkd4V01mNHVwbklUR2FPZmVLWHU2REJwSHNPazB5emJFSGRTZFgxdXBLX2dBZG0zU3ZRd2pxMTBneG9B?oc=5",
-   "date": "2026-09-26T03:17:33.000Z",
-   "source": "shattered.io",
-   "summary": "GTA VI Overhyped or Overpriced? $79.99 Debate [2026] shattered.io"
+   "id": "gn-bvadqt",
+   "title": "GTA 6 Hype: Wall Street Bets 25 Buys, 0 Holds [2026]",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sZXdnVzl0Zl9kMXAxUzVEWVp3UmhKMXJSS1hRSHhpWTBsTW1HVkhGOFlLV0dfTVBvRmUyZHFaeGxnUnlpZklJUmhua3djR2t3SUZKNzRsYWhUXzhOUE92Z0JEeEF2dDR3VXRybG03bVpNMGZwNzhnV0ZDYXE?oc=5",
+   "date": "2026-09-26T02:47:18.000Z",
+   "source": "tech-insider.org",
+   "summary": "GTA 6 Hype: Wall Street Bets 25 Buys, 0 Holds [2026] tech-insider.org"
   },
   {
    "id": "gn-1r7e95l",
@@ -450,8 +522,8 @@
    "title": "GTA 6 pre-orders are breaking records according to Xbox CSO",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXJEWHZwaEt1LTgzRWt1MEw4Q1c1TDd5Rkp4N090NTE1OGdPTFlMaDFkeXJadG5SWDhXT2hOZW5EcW8wdFpsVEFNQVFRYmItc0dlcnhPMFRTXy1TXzBxc0JuYzhNNUpRTWpkVVByQU9iTFRxTndiOGFzcnpNeE1nOVNsdURtbmIyUWFRaFNaU09ZcW9GODE1MmE3d1dLb01EUzdHUXJCenNqWGlUdk1tRC1TWmh3VFBmUW9TdVFUWFpoVHJUVlp4aWkxQQ?oc=5",
    "date": "2026-09-25T18:05:57.000Z",
-   "source": "kitguru.net",
-   "summary": "GTA 6 pre-orders are breaking records according to Xbox CSO kitguru.net"
+   "source": "KitGuru",
+   "summary": "GTA 6 pre-orders are breaking records according to Xbox CSO KitGuru"
   },
   {
    "id": "gn-58018v",
@@ -588,81 +660,33 @@
    "date": "2026-09-25T16:00:02.000Z",
    "source": "GAMINGbible",
    "summary": "Rockstar's GTA 6 pre-load announcement has clear path ahead of November release GAMINGbible"
-  },
-  {
-   "id": "gn-nd5e6z",
-   "title": "Bringing GTA 6 to Nintendo Switch 2 \"doesn't make sense\" when \"anyone will buy a PS5 to get your game,\" says former Rockstar dev",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQV0o5bks1M3ZJSzliMEw2TU5GZXdWRFE4NkxsQ3hwU3FTLU9QRWNDTXNlUFRsUHMzV0V0ZFdSZ3FrT25DdU1nRUNGN01zYVJWNWpCWjFObFQ5bFlVR1VTYlpKN3lleF82NnF3cnBBTXhma29QTFY1VzVXSzRuTF9SUnZMXzFiRlB6czFvMTZBMDBxS3RqNDZWTnNiNHdNRE5TM291OVlsWDl1TU5MeF9neEd6YnpBYUJpa003dk8tYlhBZzlfencwWFQ1VHdTVkl0SEN2Z0RVdzZXYWsyY0I3UnRVSS1KVkxrNGhWbHNLclpJczRoMkZOaFJ6TzcweWIxTEtV?oc=5",
-   "date": "2026-09-25T15:57:10.000Z",
-   "source": "GamesRadar+",
-   "summary": "Bringing GTA 6 to Nintendo Switch 2 \"doesn't make sense\" when \"anyone will buy a PS5 to get your game,\" says former Rockstar dev GamesRadar+"
-  },
-  {
-   "id": "gn-1ihn9h5",
-   "title": "GTA VI Breaks Xbox Pre-Order Records Despite PS5 Advantage",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUx4VkRoVWhUWVE5VTdtd0hNQzBtOTI2WGdfZ2VMdXZoZGxpVkM5cjNYSG5sMmhQbTBIanFZNVBQV3pPT094d1lUY2k4bkJ3b2pqR3ZIVjhjRmdRWi10ZmtBQkhPdldnTWVXLUd4YzNDVHlkOTJmbWdhcVJpNHI0MzdOTGNpZG8zM1NWZ2c3MEQ0eEwycXpTWi1KREwzVHk2QkZsSmN6R2ZIeDZ6MmZLR09vVWV2SzlTMXJ3bNIBwgFBVV95cUxPZnpxS1UzdHpBX1UxRmJONUUtVnd1ekxob0FMNzdRWXlxWFpSbE1MQ0t5WHFicmZuYlJOVHo5UjRZcVd1Uk1rbnFnQ1RJVE9Qc0ZOMUE3X1Y0NzRMSzhKdzZKbFozVTNmNlJZV3daYWJZTnJGZUZHd2wzM3lvaGNucVlhMGxXZXRJYU5PQUZMN0JxQzNBV2JZVHV4emVlSXo0c1c5Y3pmWFdQVmY0Rko3ZWxMWTRPdkQxcERheUw0R2lWUQ?oc=5",
-   "date": "2026-09-25T15:53:00.000Z",
-   "source": "ixbt.games",
-   "summary": "GTA VI Breaks Xbox Pre-Order Records Despite PS5 Advantage ixbt.games"
-  },
-  {
-   "id": "gn-1kstyj0",
-   "title": "GTA 6 pre-orders are breaking records according to Xbox CSO",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN3RaWm1vN0VvM2Q3TFpmdU9NU0tUdmFzTllmVGpxVnlUUFJqTjJ2MTVHNkZHUEJwMGN1TVU5RlJ1eGwxcmt1WmdGdGhnZ0RaTWVqS2hnVEJQTFhtbU5GR0VSM2tpTnBxR1B1U2RwZEZFUk9zRE8yN3RxbzVLRWxKbGpSdFdablZ1YXJ0dWdUTzdNZkRrMjRXWEV6VlUxVkxsekJMVF9GOVpzZw?oc=5",
-   "date": "2026-09-25T15:30:26.000Z",
-   "source": "KitGuru",
-   "summary": "GTA 6 pre-orders are breaking records according to Xbox CSO KitGuru"
-  },
-  {
-   "id": "gn-1dabwcj",
-   "title": "It won't handle it: Rockstar releasing Grand Theft Auto VI on Switch 2 is simply pointless, says former studio employee",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTkNRUmg4anBFUE9iOUg2NVVlTllCeU1DS0s3RTl2Zk1QaUNURGVUcXhIYzFGc0wyejkxNWtUNHZDbnpkOVptYnQ2UGk3VkJxOFVLUE5XbVplTjJBVlZUYXFrLWZSaTNIb25FOUs0Wi13YVNhZlFLS19uYUF3S1paQWNiQkRvZ09KT0VfS05lUzNRazg1ZXJ6MGZMY05PcUlRMXBmUHJfa3RZaWc4VHRhYjhVQjhOOURxWmNHYzY0MGNoYjlVTFJJTkVPNlQyMmJBaEY2ajFab0dNMkxjVXR1eGMtLVFBOVJ1ZzduRmlXWGUxcUQ50gH6AUFVX3lxTE9yUDZhUU5SMmg3cWpFVnNPOVl0LXJxaS1jNWZrUUdaaE5ZeHM5S3VWQklETWtZMnJ2WmYyRm84MjV0SmxRTnlTRS02YUxFbVNXaWNON0lGMkdnMTJycDRadXpOeW9ZQ1AwR2JOWU5pWjQ3U214bTZuRDF0M0szazFpNzVodEI3UHR1QzRhdGxhUENiRFdFVlJ1OHEwaUlRemNVM25vU0NqS2k2Z3hfT1NFaDdIeFJnaXdrY0xRWUdER3pad1piN1AwY2VNd0xjczBuWG5ySDBvSXR3R2d1c1I2ZUdyMEFtNXNUeF83WU1WTE1XQ3F3OGdKR1E?oc=5",
-   "date": "2026-09-25T15:27:39.000Z",
-   "source": "ixbt.games",
-   "summary": "It won't handle it: Rockstar releasing Grand Theft Auto VI on Switch 2 is simply pointless, says former studio employee ixbt.games"
-  },
-  {
-   "id": "gn-n71yva",
-   "title": "Xbox is \"very happy\" with GTA 6 pre orders so far, says CSO, despite players reportedly favoring the PS5 version",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYzVSYVM1UUcwcEp0aEVyczZ5STFWSDBweVF6N0E4NFZhNkpoajBFVV81QkxWdUFjNzloMUtnN3pqSDgtMkNyLUdwd2l5Umh1NFpPSW1sUTJFUnFoZ3did0tqcC1YV0YwbU0zZ2NVS1lILXRMTjlpbEFGY1VGQWlrU0pfTTVOZm90T3gzeTJIVEhYYS1sakdvMU1VZk9vSU1hWXBmSE9YNlJqaTF6QW1ZUnBrOU8wdHVEa1hvWGtSLWFZcWoxYzRGNTNubVRTVkNxeVEzTg?oc=5",
-   "date": "2026-09-25T15:14:35.000Z",
-   "source": "PC Guide",
-   "summary": "Xbox is \"very happy\" with GTA 6 pre orders so far, says CSO, despite players reportedly favoring the PS5 version PC Guide"
-  },
-  {
-   "id": "gn-3u8540",
-   "title": "GTA 6 Could Run On Your Phone, Says Ex-Rockstar Dev, But Dismisses A Switch 2 Port As Pointless",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xZEljc1V1a0xQX0lwVnppbDN1SmRJWmZWTHBEWkZMbC1lNGtvUWhxQkd1RmNQcERTbnB5dlF4UWdvVU9RUlZ0T2FXNEdfdEl3YVhXQ25EYng1WDlaZzV5Vk9GN1dYaUVYb3BjTFU0aWdEVlR0OTBiVzhB0gF_QVVfeXFMTnN4UWF3Z0hNVGdfZ1ZlVFUxVHlxVW8zTjRuLXp5X3EtV1YxMV9zMUV6ejdjTlkxVnRCdkVkVVRKMTdxb1JYMVVMWFJ4aERaU0thTHNHck5QSm5NdFhISWM4bzJiNmRkUnJPUjVTZ3BnSW1qYVM0bzZhVDlTM3Jubw?oc=5",
-   "date": "2026-09-25T14:49:53.000Z",
-   "source": "Wccftech",
-   "summary": "GTA 6 Could Run On Your Phone, Says Ex-Rockstar Dev, But Dismisses A Switch 2 Port As Pointless Wccftech"
-  },
-  {
-   "id": "gn-1hxd4na",
-   "title": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHBKLV9fVS1KMk1pTFF3eTFLS0NrWlhpUVJNWHJIYkowQWltNU5RV3BRazJTWi01X3ZLLWZPY2Q4VXZmcG40WjBZejA4QXA3aVFhb2V6N25JLU1VUmx6dHNEaXdmclFWS3ZsODNfem1GSGxBWmppUWJZcmhpdzRxb09yT0M5Sm14RXVYUGp5YWJNZXBXYUxvMzJvcldGLTA?oc=5",
-   "date": "2026-09-25T14:45:00.000Z",
-   "source": "Push Square",
-   "summary": "GTA 6 Can't Completely Sweep This Year's GOTY Awards Anymore Push Square"
-  },
-  {
-   "id": "gn-14d1cgy",
-   "title": "GTA 6 scalpers are already trying to resell Rockstar's $400 Collector's Box for upwards of $1,500, even though it's still in stock",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNR1RCaTNQSV9paUgtaTA1R05mNkZMWFktRmVFNk01VGVhZnc0Y245YUFhVC02M0xlTzZWTmo4TVEwWW01YU91dzV6U29WbFZyazlTZkpGb0RuU3ZtajlaYlVmcFgwdlhpYVllbFB2dWNfN3NNeEtORUdrX1B3S3VDbkNnWHZsdmxyTzNJRHBmRHUxdTdZeExKOTRnNTE3a2Zib1hvM1QycUw5LXVjQm54cFhyQUpQV1FDdWVxRVZxdTZSYjVFQm1uSzI3T2padm5TLWUxWXd6TWJqTUF2ajRGOHJHOEM4cDgxalJLQU0tLXlSU1pWaVdaTWVMS29vdWNPanRlWFNaQTVHUU83cWc?oc=5",
-   "date": "2026-09-25T13:13:12.000Z",
-   "source": "GamesRadar+",
-   "summary": "GTA 6 scalpers are already trying to resell Rockstar's $400 Collector's Box for upwards of $1,500, even though it's still in stock GamesRadar+"
-  },
-  {
-   "id": "gn-10fb48",
-   "title": "The plastic crocodile in GTA 6's $400 box is more important than it looks",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlowcWx3aDhTQ2ZwdDB6Mk80ZnlrOHBjTG9sY3AyT0prTGN3V3kxSFpmamtPRHA2M1lBc1hsSmJkZVZOVkRxbnVoM2VZaXVNMVdiZUM5RENxZWoxdks0dzNwMTVRYjhSSThlVnotZ1VUSXJ4N2VGX1ZwVGgtZmRIU3p0eW50Y2xWQlNHVDlybzNCSC1nVDI4NnRnWkw5LXlWcjhwRkJPX3FGSlNrNlhTUWg4Z1k2UjRKd2cwd2ZIaGZnR1lVb3NoYjIwdVJqdw?oc=5",
-   "date": "2026-09-25T13:00:00.000Z",
-   "source": "Creative Bloq",
-   "summary": "The plastic crocodile in GTA 6's $400 box is more important than it looks Creative Bloq"
   }
  ],
  "community": [
+  {
+   "id": "rd-1pxi219",
+   "title": "GTA 6 \"Mascot\" design and art choice could be better...",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wqogot/gta_6_mascot_design_and_art_choice_could_be_better/",
+   "date": "2026-09-26T11:44:41.000Z",
+   "source": "r/GTA6",
+   "summary": "What do other people think about it? For me its wierdly offputting, unpleasant to the eye in some way. They could have drawn him better, chose different artstyle. If they want to make some collectible"
+  },
+  {
+   "id": "rd-1cmpetm",
+   "title": "GTA 6 controller",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wqo15e/gta_6_controller/",
+   "date": "2026-09-26T11:20:11.000Z",
+   "source": "r/GTA6",
+   "summary": "Finished the GTA 6 controller painted the backplate too and added pink on black face buttons submitted by /u/Mythikl_ [link] [comments]"
+  },
+  {
+   "id": "rd-1r54ver",
+   "title": "14 pages of info from Game Informer coming soon. Please show us weapon and car customization.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wqisx9/14_pages_of_info_from_game_informer_coming_soon/",
+   "date": "2026-09-26T05:59:27.000Z",
+   "source": "r/GTA6",
+   "summary": "All I’m asking is that they talk about the weapon and car customization in the game. I know there is so much to this game, but those are two things I really would like to hear about. submitted by /u/G"
+  },
   {
    "id": "rd-1lhcvf3",
    "title": "I just have to say, this really takes me back...",
@@ -702,6 +726,14 @@
    "date": "2026-09-26T03:42:52.000Z",
    "source": "r/GTA6",
    "summary": "It looks like they've addressed the lack of airports that was in gta 5! submitted by /u/Objectsinspace3 [link] [comments]"
+  },
+  {
+   "id": "rd-1jh8x3y",
+   "title": "One lap around Port Gellhorn Raceway is roughly the same distance as driving from Los Santos to Paleto Bay.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wqfya2/one_lap_around_port_gellhorn_raceway_is_roughly/",
+   "date": "2026-09-26T03:22:46.000Z",
+   "source": "r/GTA6",
+   "summary": "A full lap of Port Gellhorn Raceway is approximately 9.8 km, roughly the same distance as driving from East Los Santos Highway in Murrieta Heights to just before Paleto Bay. submitted by /u/nikson_sha"
   },
   {
    "id": "rd-1fmf3ny",
@@ -950,38 +982,6 @@
    "date": "2026-09-24T19:46:52.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-1cnyq1e",
-   "title": "The Collectors Edition Is An Odd Choice For The Theme",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wpb3rx/the_collectors_edition_is_an_odd_choice_for_the/",
-   "date": "2026-09-24T19:27:17.000Z",
-   "source": "r/GTA6",
-   "summary": "Honestly it’s a very odd choice to make the collectors edition a macca tv show themed!? It would have been way better to keep it the main characters themed submitted by /u/Suspicious-Topic-495 [link] "
-  },
-  {
-   "id": "rd-1yzrvhq",
-   "title": "remember when the GTA V's collecxtors edition was CA$150",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wp9h0t/remember_when_the_gta_vs_collecxtors_edition_was/",
-   "date": "2026-09-24T18:25:02.000Z",
-   "source": "r/GTA6",
-   "summary": "and it included the game and free shipping? submitted by /u/Splatulated [link] [comments]"
-  },
-  {
-   "id": "rd-1y3om83",
-   "title": "Collectors Box FAQ's",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wp960q/collectors_box_faqs/",
-   "date": "2026-09-24T18:13:43.000Z",
-   "source": "r/GTA6",
-   "summary": "There are a lot of questions about the Collectors Box, and a lot of opinions for sure. Regardless, feel free to ask any questions about the Collectors Box in this thread. Here's what we know: Official"
-  },
-  {
-   "id": "rd-1ecfi00",
-   "title": "Here come the scalpers",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wp91e0/here_come_the_scalpers/",
-   "date": "2026-09-24T18:09:03.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/GoldfishJesus [link] [comments]"
   }
  ]
 }
