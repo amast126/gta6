@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-26T20:35:27.888Z",
+ "generated": "2026-09-26T23:21:20.861Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-26T20:35:27.888Z"
+   "checked": "2026-09-26T23:21:20.861Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-26T20:35:27.888Z"
+   "checked": "2026-09-26T23:21:20.861Z"
   },
   "googlenews": {
    "ok": true,
    "count": 92,
-   "checked": "2026-09-26T20:35:27.888Z"
+   "checked": "2026-09-26T23:21:20.861Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-26T20:35:27.888Z"
+   "checked": "2026-09-26T23:21:20.861Z"
   }
  },
  "official": [
@@ -182,6 +182,30 @@
  ],
  "press": [
   {
+   "id": "gn-osm8gy",
+   "title": "Former Rockstar developer says a GTA 6 Switch 2 port 'doesn't make sense,' but thinks a smartphone version is possible",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdnhzNWJfQURoeEttQko3cU5TTlhhUzFWYlcyZ2R0eXhrQWhUOTV2cHd3Z0dTcXYzU0piR3RKUnJacFMybVlzMENXdkJ3RmZJaUpMalJqU3VoRzExRWJlTTNTX1FsWnlZTjVXTldVN2U0NDlkZThUNjFJVFRKVEtia3NrSUFKQjJTUHotWmxtRVVSVzAzVmRYUENHd2gzMnYwY3RvWmFwZDZ3a3hYLWxmOE5YRVV0bXpSRTZmeno2bmlUOG83MHdZY3FuLWI5dlBQaDJ3WjgxckZtWjg2S0pKMXlxVGFaTWNpUUZOT21xYXk2YTBHOHc?oc=5",
+   "date": "2026-09-26T22:55:08.000Z",
+   "source": "TweakTown",
+   "summary": "Former Rockstar developer says a GTA 6 Switch 2 port 'doesn't make sense,' but thinks a smartphone version is possible TweakTown"
+  },
+  {
+   "id": "gn-aloe5m",
+   "title": "Manor Lords Publisher Not Afraid to Release Game on GTA VI Release Day - PC Gamers \"Wanting to Steal Cars\" Can Instead Turn Their Attention to a New Simulator",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGd4RTdxTG45UW5rYmxxbGRlVmtwbnN4WnRURXl3UW5wV0o2M0RMbEdlQ2ZLNi1pNHlNY0lzbzMzVWRYOGUyNjVPcEZMWTJFeGhXSEVEdndoOGFkczRJUDBGWWdrTTY1bWg4T2ZKUDQxckVyWHdfNUk2aFhKek5IQkFkYjZab1hwaVE5VUZDZmJ2aHUwQlczU09fN3JYcFIzSVI4MVRMemNLSnhRTllwbXRvTnpkTEMySGpiYlhzZXVXUjNyQ1HSAcsBQVVfeXFMT0JqN3hWeU1CM3o0b0dCUE5SOTR6SXBSQ09JMmc4QVdXVE5FMk5vLU5Kck05c0FvcWg4RG1DZFpPbll0djB3Ym91RFJuMU54ck1GelhVUXdyc0ZQRHRjcTY0SnRacTRHTUJLcDNkNVNmQ0UyNTFZakxVWUNqanRiRF9Xb3MxaUpPODFEWHQ3UVFjaXFzWmhxVzFmd1FSb0w0WXNXSWNYTERhVUFhZVo2bGhCaThkdkNvQXNnMkZPS0R5bzlqOTRjRXJVTmM?oc=5",
+   "date": "2026-09-26T22:46:47.000Z",
+   "source": "ixbt.games",
+   "summary": "Manor Lords Publisher Not Afraid to Release Game on GTA VI Release Day - PC Gamers \"Wanting to Steal Cars\" Can Instead Turn Their Attention to a New Simulator ixbt.games"
+  },
+  {
+   "id": "gn-dxo5cj",
+   "title": "Are You Dropping $400 on the 'GTA VI' Collector's Box? Inside Rockstar's Vice City Merch Drop",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zZGlDTWlDQ05sdHRBcU1sUWRHWVRiVmc1TFZfYmR5RVBfd092ZVpuWmxWaEV4T0VHSkxrVXg1MDdzSjJjLTQ5VFFEUjJtT1J0bDd1SUkyN1hjRXBxSTRqSnhNa0Jmb19O?oc=5",
+   "date": "2026-09-26T21:31:47.000Z",
+   "source": "Decked Out Magazine",
+   "summary": "Are You Dropping $400 on the 'GTA VI' Collector's Box? Inside Rockstar's Vice City Merch Drop Decked Out Magazine"
+  },
+  {
    "id": "gn-41je7m",
    "title": "GTA 6 Heist Gameplay Is Wild",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1JLM0xfUDVETTVqZ19VSkQ1ZVo4LU9KUzBQTm5BdHF5SGpoOWl3SGZ3WEJPb0xqZ0NlU2p5Z3hYWUh4V0FuX2lYV0R6a3VTcjNhX1dxOEFiQlhEOHdHRmVaampraUpjeVdpT3hQOEJtZG1CekhXcWJIRFFabkhxSFV1cTRZeWZaclVn?oc=5",
@@ -202,8 +226,16 @@
    "title": "GTA 6 Vice City Collection includes 11-piece collector’s box without game",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalpFWkFBR3g1MmJScTIwQUEydjY1NXdaeUhpZlh1X1l0bFdLbXVYaVB6SXJNeXRIWm4tVnIzOXdtMjhGRTZFbHFIWVB2OFAtNlhEd2c5VG9kTUFtQWNfeHRUNTR1QmNEZ3djUHFBZXV0cHROT290NGJ3aF9DRzFOZVE2YlJhUGxuUXdnb1NJcGVGemlCaVQxMHlIVXdFbnB0UzlNWnc5WWVEdlZiMXfSAbYBQVVfeXFMT29iVVFpZm05b29RVEN1TU5LZGxoa2hDMUtmZzV0NE9rVmp4Q0M0RWprQWNNaHdfMFBSV0FkUHU3RlRJX0VCbWlYV19HMEp4X3NCOXRhWWhiTXh4VjhROWF2LS10YnF1d3NCaktKTWRUSmx1aDNVVHF3ek9xYkxLZEU1SXo1VnVVT3dWZGRHalhEdDd6b0tNeUR0LUpzQ1M5bU1KV0NYRnJuT1FVTEdTQTFlWVlDd2c?oc=5",
    "date": "2026-09-26T17:17:12.000Z",
-   "source": "The Express Tribune",
-   "summary": "GTA 6 Vice City Collection includes 11-piece collector’s box without game The Express Tribune"
+   "source": "tribune.com.pk",
+   "summary": "GTA 6 Vice City Collection includes 11-piece collector’s box without game tribune.com.pk"
+  },
+  {
+   "id": "gn-mdjqvh",
+   "title": "GTA 6's $975K Miami Deal Skips County Vote [2026]",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlWG5UQnktdFVpTzk3dWt6RnRjLTB4d2J0VlZHdEJFWUtEeVZURjE1UmNGX29sTGpXLVJoeGVCV2VUQ0w2ZWNtQS0tMzYzQmkzemk5LWF1WGh0Uk1ld29nWmcxODk3cExtdkdSSE9LY1o1elRjZ2c?oc=5",
+   "date": "2026-09-26T16:58:08.000Z",
+   "source": "tech-insider.org",
+   "summary": "GTA 6's $975K Miami Deal Skips County Vote [2026] tech-insider.org"
   },
   {
    "id": "gn-19eji7h",
@@ -290,8 +322,8 @@
    "title": "These Xbox Players Got GTA 6 For Free The Hard Way",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82X2ZRRm5WVllxbUpFYk9EZ2FfS21aUzhWa0d4NnBFVW5xU09WX2RtVVVBLS1TNWZjLUtsSkVzY19wU1hnMzFqcUZfVzN1YXdhSC1KWS0xNnJOVjNVTnhrZTZ6S3pnaEhENUhla3hDTW8xWjVOT2cxZElIdExYU2c?oc=5",
    "date": "2026-09-26T12:30:00.000Z",
-   "source": "engadget.com",
-   "summary": "These Xbox Players Got GTA 6 For Free The Hard Way engadget.com"
+   "source": "Engadget",
+   "summary": "These Xbox Players Got GTA 6 For Free The Hard Way Engadget"
   },
   {
    "id": "gn-10fk10j",
@@ -303,11 +335,11 @@
   },
   {
    "id": "gn-kh80ah",
-   "title": "GTA VI’s $79.99 Price Ignites Overhyped Debate [2026]",
+   "title": "GTA VI Overhyped or Overpriced? $79.99 Debate [2026]",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0S25EY1ZQSW9iNkRpS2tyRlMxRVZVak15S0ZwcXJ2clBxYi1zY2tHWEFnRkd4V01mNHVwbklUR2FPZmVLWHU2REJwSHNPazB5emJFSGRTZFgxdXBLX2dBZG0zU3ZRd2pxMTBneG9B?oc=5",
    "date": "2026-09-26T09:22:21.000Z",
    "source": "shattered.io",
-   "summary": "GTA VI’s $79.99 Price Ignites Overhyped Debate [2026] shattered.io"
+   "summary": "GTA VI Overhyped or Overpriced? $79.99 Debate [2026] shattered.io"
   },
   {
    "id": "gn-qlbq93",
@@ -418,8 +450,8 @@
    "title": "Rockstar readies GTA 6 to ship by release date, adding regional editions that may cut content",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVZMZGZYbDBaZnkwVDNyVVFTcGN5Y0tZdlZJcTFyV1FvVGE4dWNDRU9zbFc0UkozQUVzeGNTYm00aGhVS3RfcS1DbjJIVm5nZnhlYlBIcFNpYjN3Znp3eUpQWFJOU0VTOHpXVEZJUkFXcm5MWVZNYXBpdWFETzBkbm9wZllvaUc1cUtYc1NtTmdFcUpETnhJTzhBQUFSd1FDeEtWTXVCVEFLNVhoczJxM1JXUVhMUVFLMU5mb2k4a2dGb0pqcHlPczZTckJ3bFlWOUN3?oc=5",
    "date": "2026-09-26T02:29:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "Rockstar readies GTA 6 to ship by release date, adding regional editions that may cut content Notebookcheck"
+   "source": "notebookcheck.net",
+   "summary": "Rockstar readies GTA 6 to ship by release date, adding regional editions that may cut content notebookcheck.net"
   },
   {
    "id": "gn-1f9g45r",
@@ -628,41 +660,17 @@
    "date": "2026-09-25T17:23:37.000Z",
    "source": "The Source Magazine",
    "summary": "Xbox Says GTA 6 Is Breaking Its Preorder Records as PlayStation Leads the Conversation The Source Magazine"
-  },
-  {
-   "id": "gn-tyxbj9",
-   "title": "As Resident Evil Requiem Passes $500m Revenue, Analysis Shows 8.6% Sales Were on Xbox, With Remaining 91% Shared Between PS5 and Steam",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa0NBYkkzMWM5UW11cUFodFBpYnhYM0RFU0JWX1RWTE95MllGQ3hhZDVCYkFOOUM3TWpLNjJVcFg3cGpiMm1OVjhYUDZyR0ZtVmdIRUJMUXY4WTM1b3ZUbnl2S2YyTHpKcGpuZmR0UkpCU0NuMUpCR05NdGNPUnFNel9tc0E3Rm1XTVRnbjRhQ0FYaFpzUUhtbGVUMm14MHRETnhpbE00TmZPNEhjMlY0eDM0LUpNdlhKQVY5MXJoZ3gweXJ2Vnh1MVNtYmtILWluamh2STlUWUdfRGJWcFZkcVFmQktnakJMdzU3UlJyOE5uQQ?oc=5",
-   "date": "2026-09-25T17:19:17.000Z",
-   "source": "IGN Southeast Asia",
-   "summary": "As Resident Evil Requiem Passes $500m Revenue, Analysis Shows 8.6% Sales Were on Xbox, With Remaining 91% Shared Between PS5 and Steam IGN Southeast Asia"
-  },
-  {
-   "id": "gn-oyxf2r",
-   "title": "Rockstar Packs A $400 GTA 6 Box With Vice City Swag But Skips The Game",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00WkNuMGdqaDBVTnhMdXVWV0lSM0hBN0d1VlVrREFkLVFvNzNkSzFMS19la1o3U3NYRXhPZ0dnblJsbzJzNlNDSTRYaXBjNGY1d29IaEtWbkVRb284Z1NtNmt6SEpqVzZIVjJ4djRKYnpyVVowTXpF?oc=5",
-   "date": "2026-09-25T17:15:00.000Z",
-   "source": "HotHardware",
-   "summary": "Rockstar Packs A $400 GTA 6 Box With Vice City Swag But Skips The Game HotHardware"
-  },
-  {
-   "id": "gn-aoqdqr",
-   "title": "GTA 6 collector's edition will cost $400, will not include the game",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjh5dGgxRTJIWjVIV2dYRmRVRmZZYnVrcnFaU05nRmR5aWRvczYxWGlBS0RHV3FHY2RXQUhOX1M2VTluQ0hUdTVyWUNOWHpSbmxPbm1TQS1QRmpxdlNrU1VQOFo4S2MwX2RMUG8wTWp5ODZBcEFZTk12Z0d3eW44THdHM0x0aFVFemNDcFVhbUQtMWtCbmpFdnlzVi02bW560gGmAUFVX3lxTE9Icjc5aTJ0VGlwYUpZZmpETHg2bXpTS3NMRFJ1ZnlZbXc3bXpiWmlqN0dvV01CUVlWUkQ3MUszek5hTUFuZGR3NkF4RUFCLWd5MG9HTG9QTjFMZTVqcFE3djY4MHZsRC1wRG0tc3pYWEhWWm83dmU2VDJqSHpzcXR2OWwyT0Y3Wmpzby1zbEFGaHpwelJPRlZtbUhoa2ZWcjc4UER2T1E?oc=5",
-   "date": "2026-09-25T17:12:04.000Z",
-   "source": "Boing Boing",
-   "summary": "GTA 6 collector's edition will cost $400, will not include the game Boing Boing"
-  },
-  {
-   "id": "gn-1axky0",
-   "title": "As Resident Evil Requiem Passes $500m Revenue, Analysis Shows 8.6% Sales Were on Xbox, With Remaining 91% Shared Between PS5 and Steam",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdWlwNzc3SkFMRmUxUjZhc3pUV2QtM0ZoY243aVdZMHJQVkx4WFh0QUo4bTB2MUJMTEs4a2lOQzItTGc3Ykp5TXlOY3hGN1R2WUEwaFVDaGt5MTN0UTN1WE1aazhPd0d5WEZxbUhqQnNkYWJaRVN0SnU2bWRIcTdma0I5WE9lQWlVRlAyOWZrVzM0bE5ETHZkdi1CSUhUX3Q1V09xcjJPOFl1VmpZMi0yWkRubHNTQ1RzRkNQVVZGT2szWU1RZzF1Nm83ZlcyaXNXTl84RFBPNDcxTWk2LWRISUx5UmVoMVdCZWhqekhFdU0?oc=5",
-   "date": "2026-09-25T16:34:07.000Z",
-   "source": "IGN Pakistan",
-   "summary": "As Resident Evil Requiem Passes $500m Revenue, Analysis Shows 8.6% Sales Were on Xbox, With Remaining 91% Shared Between PS5 and Steam IGN Pakistan"
   }
  ],
  "community": [
+  {
+   "id": "rd-rxzbgg",
+   "title": "GTA 6’s map will be so packed with detail and cool things to discover that I’ll feel guilty passing by everything in a car. I might just walk around everywhere lol.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wr1l6f/gta_6s_map_will_be_so_packed_with_detail_and_cool/",
+   "date": "2026-09-26T21:04:11.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Ember57 [link] [comments]"
+  },
   {
    "id": "rd-brpu35",
    "title": "I was looking into GTA VI pre-installation and was wondering what do you think will be \"Extra\" ?",
@@ -974,14 +982,6 @@
    "date": "2026-09-25T06:42:32.000Z",
    "source": "r/GTA6",
    "summary": "I myself have done some purchases in order to be ready for GTA 6. - PlayStation 5 PRO (used, $760) - LG C2 55\" 4K 2022 OLED, 120hz, HDR (used, $460) - Controller shell $40 - GTA VI (GF bought it for m"
-  },
-  {
-   "id": "rd-kffv5t",
-   "title": "Anyone else excited for talk radio?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wpmx2o/anyone_else_excited_for_talk_radio/",
-   "date": "2026-09-25T04:27:00.000Z",
-   "source": "r/GTA6",
-   "summary": "&#x200B; J.B Smoove on WCTR in GTAV was unhinged and hilarious. Really hope 6 has a good talk radio I can just sit and laugh too submitted by /u/Thnx4thesocks [link] [comments]"
   }
  ]
 }
