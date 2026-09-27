@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-27T20:46:18.689Z",
+ "generated": "2026-09-27T23:34:49.287Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-27T20:46:18.689Z"
+   "checked": "2026-09-27T23:34:49.287Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-27T20:46:18.689Z"
+   "checked": "2026-09-27T23:34:49.287Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-09-27T20:46:18.689Z"
+   "checked": "2026-09-27T23:34:49.287Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-27T20:46:18.689Z"
+   "checked": "2026-09-27T23:34:49.287Z"
   }
  },
  "official": [
@@ -182,12 +182,28 @@
  ],
  "press": [
   {
+   "id": "gn-1q6wdng",
+   "title": "A former Rockstar developer explained why GTA 6 doesn't make sense for the Switch 2.",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNF85ZWxlMG9SbmZfX3B5VHF4U0E4QU4zNHpOWVU5MGd2eHJWUDRORHhkTFFtRDZudy1pTlBsWDBkT0xTODJFRFduSE5Zd1BPWG9lcm1uZlZiRENLVXhvYVZIUWlhNVpCb29ndVBDQzRwUm0taGZ4Zm5KbXBPekVpQ3VoZFVYSEZJNm93QUotcGJUcUQ1MGpxOHF1ZVgtQ1NHQVVxV0hfU2NwcWZ6T3RhOVlpSFNUa2VjSzZpZDlnaw?oc=5",
+   "date": "2026-09-27T22:21:36.000Z",
+   "source": "GameGPU",
+   "summary": "A former Rockstar developer explained why GTA 6 doesn't make sense for the Switch 2. GameGPU"
+  },
+  {
    "id": "gn-19rkb4l",
    "title": "Will GTA VI Come to Nintendo Switch 2? Former Rockstar Developer Says It Doesn’t Make Sense",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdG85SUxZWWZyYVRSWV83R1YwNDA1aHltajQ1ZVVJUkJyNGp5MWdfTktSTktHLVhtRXVrM3g2TXloM24yR3ZEd0t2Y09lTTNCVHlFZGhqU1BveklKaUVyZC00dDlxZXpPckN0QnZRTTJKR0dkVFJCOE1UaVdyT2ZZcHp3QlpDeVMtOEVubEgzaWZZMzl2c0lPcWlXTlAyNi1nSW15V1Y2bmZGWWNwX1NXcVZ0OUZVY3Fla3N5OVNZVQ?oc=5",
    "date": "2026-09-27T17:00:00.000Z",
    "source": "levelup.com",
    "summary": "Will GTA VI Come to Nintendo Switch 2? Former Rockstar Developer Says It Doesn’t Make Sense levelup.com"
+  },
+  {
+   "id": "gn-4vzplf",
+   "title": "Blacksmith Master Launches Alongside GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrSHRacHFQaVpyRGkzRXI0dTEtcGNOSF9aVk00WUN0bDd2dUZYV211elozQWRzaktkOHRndHo1MExOaW0tY0VmWDJHblJrMlpZUGZXcEhLbmN0ckp1S21ua0IyVTI?oc=5",
+   "date": "2026-09-27T16:00:00.000Z",
+   "source": "GameLuster",
+   "summary": "Blacksmith Master Launches Alongside GTA 6 GameLuster"
   },
   {
    "id": "gn-1tyuh4",
@@ -362,8 +378,8 @@
    "title": "Mark Your Calendars, GTA 6 Is Getting Some Serious Competition On Nov. 19",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aS0FkWFRfY2NxckR3M1ltV0FUZVNNZDJBeGVKb3Y2aDUyQWdkSk0yNFV6cUdLQldEWnFDV2JjSnZnSzc3WFpuN290bm9qZkFPMlItdW9KQm1SSE5fMFZNckdfM2pyRmh6dno0Y3ZlREt1eDB1U2c?oc=5",
    "date": "2026-09-26T16:36:21.000Z",
-   "source": "Polygon.com",
-   "summary": "Mark Your Calendars, GTA 6 Is Getting Some Serious Competition On Nov. 19 Polygon.com"
+   "source": "polygon.com",
+   "summary": "Mark Your Calendars, GTA 6 Is Getting Some Serious Competition On Nov. 19 polygon.com"
   },
   {
    "id": "gn-180ibth",
@@ -378,8 +394,8 @@
    "title": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA after actor Stephen Root let slip he's in the game",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPM3BhWUp0eGtUbHJsdXNIaWxiaXlWdTlsS1paZ3JaUl9lR0M1Ylk3Ny1QaGlvbUozSVZOLUFHSVRiVzRfZ0paRjRKTW1WZDJMckJfQlpVNmhMenhILVdDUldzNkI4S2hBMUVkcG9lUHBDanJDd2FZX2JhcmNZbVZmcW9ibFJGOGRVUFIyRk5mWmJfWW44emdEV0VMWDhpZklNeFMwbDA1OW5SaGxxUmxiSDY2dGZpZUh2MzlRcUNBaVcwa3I0TE5MRVVmUnFsbVlGSU95NE1wWEFSdUE3UXpCZ1llbW5lcXBvTmd0bkRsbVNZMzRfeVlQeFU4UWtrakE?oc=5",
    "date": "2026-09-26T14:55:48.000Z",
-   "source": "gamesradar.com",
-   "summary": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA after actor Stephen Root let slip he's in the game gamesradar.com"
+   "source": "GamesRadar+",
+   "summary": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA after actor Stephen Root let slip he's in the game GamesRadar+"
   },
   {
    "id": "gn-11i80rj",
@@ -434,8 +450,8 @@
    "title": "These Xbox Players Got GTA 6 For Free The Hard Way",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82X2ZRRm5WVllxbUpFYk9EZ2FfS21aUzhWa0d4NnBFVW5xU09WX2RtVVVBLS1TNWZjLUtsSkVzY19wU1hnMzFqcUZfVzN1YXdhSC1KWS0xNnJOVjNVTnhrZTZ6S3pnaEhENUhla3hDTW8xWjVOT2cxZElIdExYU2c?oc=5",
    "date": "2026-09-26T12:30:00.000Z",
-   "source": "engadget.com",
-   "summary": "These Xbox Players Got GTA 6 For Free The Hard Way engadget.com"
+   "source": "Engadget",
+   "summary": "These Xbox Players Got GTA 6 For Free The Hard Way Engadget"
   },
   {
    "id": "gn-10fk10j",
@@ -474,8 +490,8 @@
    "title": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjJqLUJ6R055TndrTTFmYUU0OVZPRkZxcG9rNXhqOGNVOUZZQVlYaXZmd04ybU5obTZkWjF0c1Z4TFJkYS1UOTRlNEhMallUSmpkblYwSm52Rl81LWp0RTF1S0FldVM4QzVVSVE4QU1KTkdqYldkU1FreHVLMTQyOWVFeHM2MjgxaW5sZkRLQU10QUNfYVpwLVFyQWpSQy0wSHk1QjR1alUyeGdrejg0RkU0VnlJZHlONk5GcXRwN3pKRTQ?oc=5",
    "date": "2026-09-26T08:35:17.000Z",
-   "source": "autoevolution.com",
-   "summary": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included autoevolution.com"
+   "source": "autoevolution",
+   "summary": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included autoevolution"
   },
   {
    "id": "gn-1c92vq9",
@@ -602,8 +618,8 @@
    "title": "Rockstar’s $400 GTA 6 Collector’s Box Features Quirky Souvenirs, Skips the Game",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTmU5dTBUTDUxcnFnUkxFQmd6cUxjcTV3OEsxeUlxZFdkSnV0N05IMVh6cW12T3dSTzMxd2Fwa0FTV2ZLZ1BObUxpTXRPaTJCWGxQV0pZWTc1bDVUUTdqR0ZsM1FPNXFEdWxTX2JHQmZCVmVJU0VrSldSRC1pUWlPZW4wSVJqQQ?oc=5",
    "date": "2026-09-25T22:43:36.000Z",
-   "source": "freeyork",
-   "summary": "Rockstar’s $400 GTA 6 Collector’s Box Features Quirky Souvenirs, Skips the Game freeyork"
+   "source": "freeyork.org",
+   "summary": "Rockstar’s $400 GTA 6 Collector’s Box Features Quirky Souvenirs, Skips the Game freeyork.org"
   },
   {
    "id": "gn-1lhvbkq",
@@ -626,8 +642,8 @@
    "title": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BQ2g4Q21kc3pQTHlOY2tVNjdsOWNqOERtLVZIZy05N0t5Qk8zdTRreUlKM3k1UnNJNEdvaHhYWGhLMkExZmlaX1FaUUd2TmhyaDU4NVI2cWtxVDRSWDE2Z0J1RGlBZTRqUkx1REFB?oc=5",
    "date": "2026-09-25T21:00:16.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected Polygon.com"
+   "source": "polygon.com",
+   "summary": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected polygon.com"
   },
   {
    "id": "gn-545n58",
@@ -644,22 +660,6 @@
    "date": "2026-09-25T20:46:24.000Z",
    "source": "AOL.com",
    "summary": "GTA 6 Fans Recreate $400 Collector’s Edition Figure for Free AOL.com"
-  },
-  {
-   "id": "gn-g7gwb",
-   "title": "GTA 6 is Game Informer’s Next Cover Story, New Details and Screenshots to be Revealed",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV0ZwNzBRdmZPNk5XTzMwMlJIVGw3WHJCdnhCTEhMUVUxQk9ibkhoTmRIaU5mNkdrdHRzZ2N1QVk0cU1mSXE3alZGdnE1ZWh0VGtHMFhyM1pkU3RZYmdiU0RuZEJoOFd2cmxieHdOclpybmh1VjFQQUNMUmRCUkVVWkp0a1RaNmpmaGtkNXYzRmttc3Z4Nld5SG5FWnlSZF81RThLTUVhdWpxUQ?oc=5",
-   "date": "2026-09-25T20:36:38.000Z",
-   "source": "GamingBolt",
-   "summary": "GTA 6 is Game Informer’s Next Cover Story, New Details and Screenshots to be Revealed GamingBolt"
-  },
-  {
-   "id": "gn-1y06qjs",
-   "title": "Game Informer's GTA 6 Magazine Cover Available Now",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDA1eXpLblNubmJvSTV4X2JYT0NKVFZ4TE9LSGFlR3pKcFFraS15bHJTclQtTy13bkJtN1RabGNLMzNGLXFpZjVfR2duYnc1RnNqRXRFZ3ZobFJCWF9NWEpSM2dVN2VfcjR6Y0RqRXJOTUFpTU9ETkZON0g1MDV6MHZoNEh5ZEEx?oc=5",
-   "date": "2026-09-25T19:55:10.000Z",
-   "source": "Resell Calendar",
-   "summary": "Game Informer's GTA 6 Magazine Cover Available Now Resell Calendar"
   }
  ],
  "community": [
