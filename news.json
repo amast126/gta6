@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-27T13:29:50.677Z",
+ "generated": "2026-09-27T17:54:53.201Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-27T13:29:50.677Z"
+   "checked": "2026-09-27T17:54:53.201Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-27T13:29:50.677Z"
+   "checked": "2026-09-27T17:54:53.201Z"
   },
   "googlenews": {
    "ok": true,
-   "count": 92,
-   "checked": "2026-09-27T13:29:50.677Z"
+   "count": 100,
+   "checked": "2026-09-27T17:54:53.201Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-27T13:29:50.677Z"
+   "checked": "2026-09-27T17:54:53.201Z"
   }
  },
  "official": [
@@ -182,12 +182,52 @@
  ],
  "press": [
   {
+   "id": "gn-19rkb4l",
+   "title": "Will GTA VI Come to Nintendo Switch 2? Former Rockstar Developer Says It Doesn’t Make Sense",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdG85SUxZWWZyYVRSWV83R1YwNDA1aHltajQ1ZVVJUkJyNGp5MWdfTktSTktHLVhtRXVrM3g2TXloM24yR3ZEd0t2Y09lTTNCVHlFZGhqU1BveklKaUVyZC00dDlxZXpPckN0QnZRTTJKR0dkVFJCOE1UaVdyT2ZZcHp3QlpDeVMtOEVubEgzaWZZMzl2c0lPcWlXTlAyNi1nSW15V1Y2bmZGWWNwX1NXcVZ0OUZVY3Fla3N5OVNZVQ?oc=5",
+   "date": "2026-09-27T17:00:00.000Z",
+   "source": "levelup.com",
+   "summary": "Will GTA VI Come to Nintendo Switch 2? Former Rockstar Developer Says It Doesn’t Make Sense levelup.com"
+  },
+  {
+   "id": "gn-1tyuh4",
+   "title": "Rockstar Reveals New GTA 6 Artwork of Jason and Lucia",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkdUNDg1MUtPZE5qdGNGZ3F1ZURTTnM5WllNbTYyX2Noa2ZBT19EY2U1Y21Fa3k0akZvOGpmNTlUVjlQQ1l0TXQzTjFVX1RqQ1V5RENxRHZJU0dCUGtubDJfdWVxR3VtWENKSENtVmtmbmN4OXRFOEZsSl9aWlhfUE9n?oc=5",
+   "date": "2026-09-27T14:50:22.000Z",
+   "source": "VICE",
+   "summary": "Rockstar Reveals New GTA 6 Artwork of Jason and Lucia VICE"
+  },
+  {
+   "id": "gn-18gfqmd",
+   "title": "Game of Thrones Jon Snow Star Comments on GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wMTdJekUxV3lWb21kR1Zhc3ZMLVR6VGNqMTlMMHR2OXhNMktBNTFuMzhWNG9LTGc4aTl5R0RNV0tfMDEtWDlBU0l2b3pSNFZ5M0gyakIzcm5KNnZQNnZzaFVVc0JwMEk?oc=5",
+   "date": "2026-09-27T14:27:35.000Z",
+   "source": "IMDb",
+   "summary": "Game of Thrones Jon Snow Star Comments on GTA 6 IMDb"
+  },
+  {
+   "id": "gn-wuzyyi",
+   "title": "GTA 6 Is Coming to Xbox Too, So Why Are PS5 Pre-Orders Dominating?",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdkpEYWNoZWhHTTM4b3ByRThfTGttOXFLNDRSNE5JVXROLWxYemM2eVN4Rk5PajdGcjJtWFkyZ0hzX21Oa3puMWV2U25RQlp3cGpiX0hFYmFlbWJFdDlVdWNyWEYtRncxcU5yWTI1SUdUQnpnM2p0amlIS0JQbHdEYzlkMko0SmRfRVZzZE85OU4?oc=5",
+   "date": "2026-09-27T14:01:14.000Z",
+   "source": "GamingBolt",
+   "summary": "GTA 6 Is Coming to Xbox Too, So Why Are PS5 Pre-Orders Dominating? GamingBolt"
+  },
+  {
+   "id": "gn-la5l0n",
+   "title": "Phantom Vice Auto Early Access Launch Details",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SV1ptaFVNQnZXc3VEaVpNanl1RHN6dTNaZTU2WVBNN0Rfc09HSjJVOUJ2ZHNLX09OVjZSb2JFWnhneVZPMU9HNV9PLWJONGZZYUdTdzNxWkRqXzVVUmVCMWJaUDk?oc=5",
+   "date": "2026-09-27T13:40:00.000Z",
+   "source": "GameLuster",
+   "summary": "Phantom Vice Auto Early Access Launch Details GameLuster"
+  },
+  {
    "id": "gn-urgpe1",
    "title": "9to5Toys News Weekly recap – 'world's first' liquid-cooled power bank, Pokémon, GTA VI gear, mor",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0pMbl84YWh0REFBM2cweDlmZWl5bGxQX1VpTFUzdFlFLTMwaTZVUzluYW53NUV2TXI4TUM1VDdRak5RTHBudjVLRm4yc2pENzVQWTNDYTBmRHhZMEt0bVNtaFpmRzUyMHZ6SWZ5eXdVVUpBS2c2ZFAxc2dCZlNlZy1DVVhyUVU?oc=5",
    "date": "2026-09-27T13:06:00.000Z",
-   "source": "9to5Toys",
-   "summary": "9to5Toys News Weekly recap – 'world's first' liquid-cooled power bank, Pokémon, GTA VI gear, mor 9to5Toys"
+   "source": "9to5toys.com",
+   "summary": "9to5Toys News Weekly recap – 'world's first' liquid-cooled power bank, Pokémon, GTA VI gear, mor 9to5toys.com"
   },
   {
    "id": "gn-1f787ru",
@@ -196,6 +236,14 @@
    "date": "2026-09-27T13:00:00.000Z",
    "source": "GAMINGbible",
    "summary": "GTA 6 getting new dump of information next week, mark your calendars GAMINGbible"
+  },
+  {
+   "id": "gn-h2jkal",
+   "title": "GTA 6's November 19 Launch Rules Out a Major Awards Sweep",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2xhVVZESlk1S2Zyb1lwOFVFX1doWmJmbEMydTB4dFpPd25WOEZCSWlhaVd2UC1rbExzbVpDR0YtUV91NFlPd24yS1RVSW9WaUhWSkloSHQ0QmxtUWVKMzhIZmNsempDVWN5MkxfREhpMmhjdW83MG5vOTZPT2FpTjhJRURPdTBmSlFIQ3ZYbGRVOTR4ZFE?oc=5",
+   "date": "2026-09-27T12:55:23.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6's November 19 Launch Rules Out a Major Awards Sweep GTA BOOM"
   },
   {
    "id": "gn-1wgbumo",
@@ -226,8 +274,8 @@
    "title": "Why I chose to buy a Nintendo Switch 2 instead of GTA 6 - Reader’s Feature",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmtaQW1QM2lBYmd5U1JKV1g4aWhPcTU4bmg5VWY4Q0Q0UGZIaE11MlRIc1c3MjZCVkdOS3lNZFhBMzVOUTFTQmJoVkFyNnJwWDZZaElYQ3gySkd5WXJkRUNRNTZlaWg4X1dJSDlsY1l6MkVsanFMWFVVNE4xdDNHTWNzcFFEc21RbnNiWExZTkpqVXBKVGFIcHF3Zm8tQjVtUEHSAacBQVVfeXFMTWh1WDNJUFhNaVRuUEVkR0o1Q0RXNzlkRDRzb1lpSFpzNFlxRVhsNTQxUVV0V29PN3EzVXc5bmlEdU1tOGxoVnBEd013dlV2Zl90YzJ5bGRJVnF1b2RSTnBaenZZanN3OG0za1RuTm5KWk9mcmtJWENGaW9Oa3d5T0Z0dkJzT0FNQktLZUtMcW8waThlZGFWNXBaRG1HamdEVkp0bmkxbEU?oc=5",
    "date": "2026-09-27T05:00:00.000Z",
-   "source": "Metro.co.uk",
-   "summary": "Why I chose to buy a Nintendo Switch 2 instead of GTA 6 - Reader’s Feature Metro.co.uk"
+   "source": "metro.co.uk",
+   "summary": "Why I chose to buy a Nintendo Switch 2 instead of GTA 6 - Reader’s Feature metro.co.uk"
   },
   {
    "id": "gn-1j6mb8m",
@@ -486,6 +534,14 @@
    "summary": "Rockstar's $400 GTA VI Collector's Edition is packed with must-have, totally useless stuff TechSpot"
   },
   {
+   "id": "gn-1thcliz",
+   "title": "GTA 6 on Nintendo Switch 2 \"Doesn't Make Sense\" Former Rockstar Dev Says",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVFHeGQ4ejBQemswT3Joc0VLb0RsWnpxZkRKMUVWbWFpNFJBcjhPeTNmWjBZaFRud3BtMkx4UlhRc2VrTzZLR3ViZzJTUUFuZ2RGX1Nmc1hlYUJZTGZ4ZXhsODdqVER6b1oyZ1BHQkZCRGNyb19CUlZzQlFIcU5kdVBjLUx4NkFFekZOTks2T0lwZjUzaFhVT2s3dHpLR1Z5UkhpVktkTdIBrAFBVV95cUxQTWY2eEswb1AxTGlaR3ZlY2ZleU1LT0FiSWVaLU5iNVN6Wm1NZDBkOThiWFpFUFZpQzJxekE0VHdmNTdfLWpIOHpKQV92UDhsMUx6RTgwb3g1aGNFc3NTZ0tRX0g2dGx5dHhkTVQ0akhFeHFLdTIyNkl5VVNEV3lmaEtTVG1KTmtVeHE0cUlBYWxKUUJ5ZjkxektNNy01TDJkdjY5bU5qTVRsZVJD?oc=5",
+   "date": "2026-09-26T03:37:08.000Z",
+   "source": "techpowerup.com",
+   "summary": "GTA 6 on Nintendo Switch 2 \"Doesn't Make Sense\" Former Rockstar Dev Says techpowerup.com"
+  },
+  {
    "id": "gn-3uwols",
    "title": "GTA 6 on Nintendo Switch 2 \"Doesn't Make Sense\" According to Former Rockstar Dev",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlk1dVdJZVllS3hWN1hDWVlpSnZiLUY5Ry1QQTJONjVpQllCdGZtT1QtakVNOThUeEpHU05tb3QtTWhHWG05M2RfMVpadkUwaUhDRnJzUnZ1SVl0UVNTeV9BY0dEekx3ZkZZNEpCSm9rMUtRX2hPMmRacmYwdFBITkxzeTBlYU1NcG5VSERBSndKMV9SbHk5WGVUNThZTnZkRHpQeW9iYmZSRjRuZWlWNXZB0gG3AUFVX3lxTE9lMzhxTDVZUzZyb0UyQjRicW4ybHVuSml5WkdmWXdCOFdBRVBVYk5IUjlrUTJCakVHZDZYcktKOWZMaDU5RS1wMk9Cb3JUUXpxMmd5Qm9YYU1MX0pyV0swUjA5Q29oRWl0Z2wxVEFqMGJJTzJGQWxzVmhqTXIxNHA0MVp2SmliOVFVNlpDMzRSZ3pPMjIyMTdsQTJyWFVfTG9FZzlsWGlZWmlybmZKNm5pTXl5TC12VQ?oc=5",
@@ -604,65 +660,49 @@
    "date": "2026-09-25T20:36:38.000Z",
    "source": "GamingBolt",
    "summary": "GTA 6 is Game Informer’s Next Cover Story, New Details and Screenshots to be Revealed GamingBolt"
-  },
-  {
-   "id": "gn-12adm45",
-   "title": "Control Resonant Upcoming Updates Include New Game++ in October, Photo Mode in November",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWVfeVFLRHZxR0hlYk9pM2lsOG1GX2FFWlpoUmlXRUVYZzZFcjVBNkRwY0c2SUhBanRkTEJTdTgtM2FvNTZTcm1DMXpuRHUxNFl3R2ljSnVGTHJwbUhsQWlfQnNDcjREWTdrT01zWHprdWJFV1pkbzlHdHA5VTNvUmhsODg4aUlDN29nczF2c3JITlBjUU9RMGtDNW5xTXBXeVJr?oc=5",
-   "date": "2026-09-25T20:28:11.000Z",
-   "source": "MP1st",
-   "summary": "Control Resonant Upcoming Updates Include New Game++ in October, Photo Mode in November MP1st"
-  },
-  {
-   "id": "gn-1x91dwd",
-   "title": "GTA 6 NPC Animations: How Retargeting Fits Bodies",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaGtncXdyNnplQ1dpN2JVRkVNSnByN29IaVBEbnU0OE9UMGd3MGlvZmFRbVNsbjFsWlB1Tnl5U20zZnpXLVFnVXhjdDJjU2xvaWIzSGNOSXVyMnJtanNfMXUxVW9uQ2lsSVozMDBoYm5GRG5wYk9wYmpKQ1FQSWtEVHh5VGpVNm1EUnhERGlDcjFvZVBGelVGbE02X2I?oc=5",
-   "date": "2026-09-25T20:01:10.000Z",
-   "source": "NeoTeo",
-   "summary": "GTA 6 NPC Animations: How Retargeting Fits Bodies NeoTeo"
-  },
-  {
-   "id": "gn-1y06qjs",
-   "title": "Game Informer's GTA 6 Magazine Cover Available Now",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDA1eXpLblNubmJvSTV4X2JYT0NKVFZ4TE9LSGFlR3pKcFFraS15bHJTclQtTy13bkJtN1RabGNLMzNGLXFpZjVfR2duYnc1RnNqRXRFZ3ZobFJCWF9NWEpSM2dVN2VfcjR6Y0RqRXJOTUFpTU9ETkZON0g1MDV6MHZoNEh5ZEEx?oc=5",
-   "date": "2026-09-25T19:55:10.000Z",
-   "source": "Resell Calendar",
-   "summary": "Game Informer's GTA 6 Magazine Cover Available Now Resell Calendar"
-  },
-  {
-   "id": "gn-1ira7h4",
-   "title": "Rather Than Pay $400, GTA 6 Fans Are Already 3D Printing Items in the Game's Pricey Collector's Edition",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGhkc1RWRnhlOFpfWkZ3SlN4TzZSQ1BQdVlUejROa1FLVGJmNEt2WFhETU5oLXdWRmFSb3FPOTJibEYwdF9IRHhqS1B6UTBxLTZoamZXUHY2bUE4VTIzM196VEh3alVJajZZSWtMTDVFOTdBM0NYNjgtRldmalk4c1YzNnFqcTdmeVlmQXpGM0phLUpsbnJBNTlYMG9Qd1h5anh6QnRNSVc?oc=5",
-   "date": "2026-09-25T19:44:34.000Z",
-   "source": "IGN",
-   "summary": "Rather Than Pay $400, GTA 6 Fans Are Already 3D Printing Items in the Game's Pricey Collector's Edition IGN"
-  },
-  {
-   "id": "gn-izkczl",
-   "title": "Thinking outside GTA VI’s collector’s box",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Bb0NmbU90M3hjaUdOOURoYS1neU5ubm9vdmZWZjJvYk9ZSlh1MnZEVnN2Nk5jVlVoaWlRckE3dTNLb0h0eUllUkJTLURYc0hWYWx5Y3p0OU9ZTTl3N1dHZTlKa3NjN29MMUUwcGdDSlFUOEtRcEVhNg?oc=5",
-   "date": "2026-09-25T19:25:50.000Z",
-   "source": "SuperJoost Playlist",
-   "summary": "Thinking outside GTA VI’s collector’s box SuperJoost Playlist"
-  },
-  {
-   "id": "gn-1n3ncgw",
-   "title": "Xbox Pushes Back on GTA 6 Pre-Order Skew Report",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qTDFMeWJMNjRpb0pSVWhELTBIWjJGdnExR2gzVWtwMXFzMXBrbGZtV3h2R1FQTW1Rcm10Wk0waU1EUGRKbHo0THQ0VW1fa1UwLUNYQWNuTG01NjVKWHd2YkJMZ01DOVk?oc=5",
-   "date": "2026-09-25T19:07:37.000Z",
-   "source": "GodisaGeek.com",
-   "summary": "Xbox Pushes Back on GTA 6 Pre-Order Skew Report GodisaGeek.com"
-  },
-  {
-   "id": "gn-pfa1xh",
-   "title": "Xbox Downplays GTA 6's Massive PS5 Pre-Order Numbers",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDJPZkYwVmlSY3Q1RFhNejB1U2p3Q3laQUpjOXc4N0N0RThtOXZFTC1QY21nNW95VjRMVnRSOHJ4N2FsRjh2S3BvMzVsQlJvQXJleXRpVEgzdkwzQ01rYUtDRXR6UUxkM1ZfTVFWV2lKMG9EVXZKbnRuUFJfSTRPWVBLSQ?oc=5",
-   "date": "2026-09-25T18:58:32.000Z",
-   "source": "Polygon.com",
-   "summary": "Xbox Downplays GTA 6's Massive PS5 Pre-Order Numbers Polygon.com"
   }
  ],
  "community": [
+  {
+   "id": "rd-du0f54",
+   "title": "GTA VI really feels like a generational leap",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wrp7d0/gta_vi_really_feels_like_a_generational_leap/",
+   "date": "2026-09-27T16:52:04.000Z",
+   "source": "r/GTA6",
+   "summary": "Seeing how far games have come from the PS2/PS3 era to this is honestly wild. GTA VI is going to make a lot of older games feel like they came from a completely different generation submitted by /u/Fu"
+  },
+  {
+   "id": "rd-b65g8",
+   "title": "Article of the Day #27: Focus (Special Ability)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wro2gu/article_of_the_day_27_focus_special_ability/",
+   "date": "2026-09-27T16:07:22.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/gtawiki [link] [comments]"
+  },
+  {
+   "id": "rd-kvl3l6",
+   "title": "I spotted a flatbed Lawncare truck",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wrn4ds/i_spotted_a_flatbed_lawncare_truck/",
+   "date": "2026-09-27T15:30:13.000Z",
+   "source": "r/GTA6",
+   "summary": "I spotted a lawncare truck in the extended look which seems to have a stand on mower or a zero turn lawnmower on it submitted by /u/Strong-Drink-6630 [link] [comments]"
+  },
+  {
+   "id": "rd-1nv609t",
+   "title": "A normal day in the GTA community in 2024",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wrjzx0/a_normal_day_in_the_gta_community_in_2024/",
+   "date": "2026-09-27T13:16:58.000Z",
+   "source": "r/GTA6",
+   "summary": "I miss these days, not gonna lie submitted by /u/dubdizzle99 [link] [comments]"
+  },
+  {
+   "id": "rd-1vzew14",
+   "title": "Ultimate Edition should have been called the Complete Edition so that R* could sell it as GTA VI:CE",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wri9mb/ultimate_edition_should_have_been_called_the/",
+   "date": "2026-09-27T11:51:21.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/MrRoaldDahl [link] [comments]"
+  },
   {
    "id": "rd-1rb9dv5",
    "title": "Every Jason & Lucia GTA VI artwork released so far. Which one is your favorite?",
@@ -670,6 +710,14 @@
    "date": "2026-09-27T11:37:32.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/The_Struggling_Soul [link] [comments]"
+  },
+  {
+   "id": "rd-13ebw9g",
+   "title": "From a marketing standpoint (or any other valid point), what does Rockstar gain from wanting the cast kept a secret until release?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wrhqj0/from_a_marketing_standpoint_or_any_other_valid/",
+   "date": "2026-09-27T11:22:07.000Z",
+   "source": "r/GTA6",
+   "summary": "Seems such an odd thing to me, the average consumer, for the casting choices to be kept secret. As if the casting choices would somehow give away major plot points. submitted by /u/mgsgamer1 [link] [c"
   },
   {
    "id": "rd-wjgoe8",
@@ -934,54 +982,6 @@
    "date": "2026-09-25T18:47:48.000Z",
    "source": "r/GTA6",
    "summary": "The picture of the house in GTA san Andreas DE i think it was hanging on a wall in a bar. This picture was found before the first official mention before the first incident. Making it our very first r"
-  },
-  {
-   "id": "rd-13orl8t",
-   "title": "Article of the Day #25: Buster (Bus)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq4f8u/article_of_the_day_25_buster_bus/",
-   "date": "2026-09-25T18:46:51.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-11pdjfp",
-   "title": "What do you think he said?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq3rh4/what_do_you_think_he_said/",
-   "date": "2026-09-25T18:20:47.000Z",
-   "source": "r/GTA6",
-   "summary": "So it was pretty strongly hinted that this guy is kind of a sycophant and/or parasite, and is probably only friends with Andrés for money and access. What do you think the chances are he tipped off th"
-  },
-  {
-   "id": "rd-bm9d43",
-   "title": "Grand Theft Auto VI is Game Informer’s next cover!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq3po5/grand_theft_auto_vi_is_game_informers_next_cover/",
-   "date": "2026-09-25T18:18:47.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/yourfavchoom [link] [comments]"
-  },
-  {
-   "id": "rd-txpnd3",
-   "title": "GAME INFORMER GTA COVER IS BACK",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq3dhh/game_informer_gta_cover_is_back/",
-   "date": "2026-09-25T18:05:34.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Noctxx [link] [comments]"
-  },
-  {
-   "id": "rd-mdio52",
-   "title": "The NPC's in the extended look who blew me away with their visual fidelity more than any others",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq2tdl/the_npcs_in_the_extended_look_who_blew_me_away/",
-   "date": "2026-09-25T17:43:52.000Z",
-   "source": "r/GTA6",
-   "summary": "In general the NPC's obviously look incredible. But there's a spectrum with some looking better than others. The same was true of Red Dead 2 imo. I always felt like the best looking NPC in the game wa"
-  },
-  {
-   "id": "rd-9h0v6j",
-   "title": "Made this to mark the wait. Black and white, simple, mine.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq101y/made_this_to_mark_the_wait_black_and_white_simple/",
-   "date": "2026-09-25T16:32:50.000Z",
-   "source": "r/GTA6",
-   "summary": "Designed it, printed it, wearing it. Not official merch—just my way of marking the wait. submitted by /u/pastonx777 [link] [comments]"
   }
  ]
 }
