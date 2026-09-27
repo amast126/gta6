@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-27T07:31:14.902Z",
+ "generated": "2026-09-27T13:29:50.677Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-27T07:31:14.902Z"
+   "checked": "2026-09-27T13:29:50.677Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-27T07:31:14.902Z"
+   "checked": "2026-09-27T13:29:50.677Z"
   },
   "googlenews": {
    "ok": true,
    "count": 92,
-   "checked": "2026-09-27T07:31:14.902Z"
+   "checked": "2026-09-27T13:29:50.677Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-27T07:31:14.902Z"
+   "checked": "2026-09-27T13:29:50.677Z"
   }
  },
  "official": [
@@ -182,20 +182,44 @@
  ],
  "press": [
   {
+   "id": "gn-urgpe1",
+   "title": "9to5Toys News Weekly recap – 'world's first' liquid-cooled power bank, Pokémon, GTA VI gear, mor",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0pMbl84YWh0REFBM2cweDlmZWl5bGxQX1VpTFUzdFlFLTMwaTZVUzluYW53NUV2TXI4TUM1VDdRak5RTHBudjVLRm4yc2pENzVQWTNDYTBmRHhZMEt0bVNtaFpmRzUyMHZ6SWZ5eXdVVUpBS2c2ZFAxc2dCZlNlZy1DVVhyUVU?oc=5",
+   "date": "2026-09-27T13:06:00.000Z",
+   "source": "9to5Toys",
+   "summary": "9to5Toys News Weekly recap – 'world's first' liquid-cooled power bank, Pokémon, GTA VI gear, mor 9to5Toys"
+  },
+  {
+   "id": "gn-1f787ru",
+   "title": "GTA 6 getting new dump of information next week, mark your calendars",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHo5ZGlWX19YWFRfWF9iRmkyZFdBN2dKWThsQzZuZVV0Vl9sWC1DdUpqNEtJZzVNRkdid2VNYUkza3NyWDlleW5GRlcwdUczTDY0MkF3UkstMXA2NEtqMFlmWDRIaW9xM3pqTzZrM281U2FKYjFDdVFFM29ESkY1VWprbw?oc=5",
+   "date": "2026-09-27T13:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 getting new dump of information next week, mark your calendars GAMINGbible"
+  },
+  {
+   "id": "gn-1wgbumo",
+   "title": "Rockstar unveils $400 GTA VI collector’s box with no game included",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUIwTUtMRjUzZGJCWl9Nbk10bVZqbWNYTGJUT2o0RkhyaS1xcy1GOF9ieFo4OVVRWVNzelA5UEJ5NGtwVlNjdUJROVMyQWhDLVJTVEo0aENSbE1sSUxOSTVTc0c4azZZN2JFUjRxT0swYk1Td1lYejdhTE9ZdlpzVnhZenpiWlBhUS1MNXFsTHZEY09sRk1LeHhmSTlHMjU5aVBXMnJTNFhaa0k?oc=5",
+   "date": "2026-09-27T08:30:32.000Z",
+   "source": "KitGuru",
+   "summary": "Rockstar unveils $400 GTA VI collector’s box with no game included KitGuru"
+  },
+  {
+   "id": "gn-3gqhdz",
+   "title": "GTA 6’s Collectors Edition is $400+ and doesn’t come with the game",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzI0OW13SHpaak5XSWhmNXJYaTJscUIzQS0zZ3R6UTRacy1SbGtzamlFWnZ2OFpUajFDX0pCdGNUTFQ1a0hIQXIwMTQzRDNrbzh5QkJocnRKRW9sVEJwanBxS1pMWTZhS2FmdFdZbDYyMWR6V2o3azRuUFIxcnY1MHd1bDlieVZqMjhVdGlDY2NKSFk5dHkzNi1iMmVIUHZseUZ6cTN5bmc?oc=5",
+   "date": "2026-09-27T07:35:05.000Z",
+   "source": "checkpointgaming.net",
+   "summary": "GTA 6’s Collectors Edition is $400+ and doesn’t come with the game checkpointgaming.net"
+  },
+  {
    "id": "gn-1a68dha",
    "title": "Too much is expected from GTA VI: Insider Gaming editorial predicts scores below 90 points",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNclgtb1VicVVrM1FERjA2T1U0dFI5WnEyXzlQUV9OUWJCalBsTDBlNTdNVmxlYjF2Tkh6UE94TjJBUF9kN1Zob2RxZm1IWFBjX2hpeHMyZEVTd2tDenNVNF9lSlZMTHpKTWR4TXZWeVQ5WGpQVkpYOGhxYzY3SmlCeXFCWmw4MmtwY005eEFJVHJYNEw1RHg1bUdwU1pUZlpkcW4zQUxXckJpeGpPZ0diRWJNUU92UTF2R0U1N3h4ZUxxWHNOVnFIOHBCaDl1R2ZPWlFIdlZkRdIB3AFBVV95cUxNMWE0UUNfV1NHU2dvSEdVZXNEQjhuWGNpOVJNTER2aEphUi1LQ19LWkw4Zkg0Z3JOT01pR2xIdFZySVJNRUk4cS1fS0w0VkFRRTdpLWltWkY5MWM0c0RPTlN4X1NPTG9QS25uR3pmYzV3UzhKUWFSSlp2XzBXLXZrODZzRnQ3WUxwVmU0Y0NWSmlDaWEyQjRBSkMtalhkU2tFNVdLR3EzRWR5ZDFaS2JzbjNGV0U2M1VMYy1sVXRCLURCNDVkUnl3WEcwSjVjMHphd1EzMV9SX0E1UG91?oc=5",
    "date": "2026-09-27T06:14:51.000Z",
    "source": "ixbt.games",
    "summary": "Too much is expected from GTA VI: Insider Gaming editorial predicts scores below 90 points ixbt.games"
-  },
-  {
-   "id": "gn-3gqhdz",
-   "title": "GTA 6’s Collectors Edition is $400+ and doesn’t come with the game",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzI0OW13SHpaak5XSWhmNXJYaTJscUIzQS0zZ3R6UTRacy1SbGtzamlFWnZ2OFpUajFDX0pCdGNUTFQ1a0hIQXIwMTQzRDNrbzh5QkJocnRKRW9sVEJwanBxS1pMWTZhS2FmdFdZbDYyMWR6V2o3azRuUFIxcnY1MHd1bDlieVZqMjhVdGlDY2NKSFk5dHkzNi1iMmVIUHZseUZ6cTN5bmc?oc=5",
-   "date": "2026-09-27T05:11:28.000Z",
-   "source": "checkpointgaming.net",
-   "summary": "GTA 6’s Collectors Edition is $400+ and doesn’t come with the game checkpointgaming.net"
   },
   {
    "id": "gn-1t67mwh",
@@ -391,11 +415,11 @@
   },
   {
    "id": "gn-qlbq93",
-   "title": "GTA 6 Only Costs $79.99 to Play, No Matter What That $1,853 Figure Says",
+   "title": "Going All In on Official GTA 6 Gear Actually Costs About $1,700",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT3Q4VXpUa19ieVBPOHFUVEU0TzVTZzNSZGZJVWlPYkxFbFZnenI2aDlBbGxvRGNPWVl2LUVXaFAzV3VWRmdmenN0bWo0V2VHSlhFVkZxNTFoM2FHeEJvU1NVQWRKMnJJMldLSlhtbkhEYXFleFcwYkJ2V205YjBiU215UlZJbkdiSHZERWNoOHplZkFW?oc=5",
    "date": "2026-09-26T09:15:18.000Z",
    "source": "GTA BOOM",
-   "summary": "GTA 6 Only Costs $79.99 to Play, No Matter What That $1,853 Figure Says GTA BOOM"
+   "summary": "Going All In on Official GTA 6 Gear Actually Costs About $1,700 GTA BOOM"
   },
   {
    "id": "gn-9l4h5w",
@@ -466,8 +490,8 @@
    "title": "GTA 6 on Nintendo Switch 2 \"Doesn't Make Sense\" According to Former Rockstar Dev",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlk1dVdJZVllS3hWN1hDWVlpSnZiLUY5Ry1QQTJONjVpQllCdGZtT1QtakVNOThUeEpHU05tb3QtTWhHWG05M2RfMVpadkUwaUhDRnJzUnZ1SVl0UVNTeV9BY0dEekx3ZkZZNEpCSm9rMUtRX2hPMmRacmYwdFBITkxzeTBlYU1NcG5VSERBSndKMV9SbHk5WGVUNThZTnZkRHpQeW9iYmZSRjRuZWlWNXZB0gG3AUFVX3lxTE9lMzhxTDVZUzZyb0UyQjRicW4ybHVuSml5WkdmWXdCOFdBRVBVYk5IUjlrUTJCakVHZDZYcktKOWZMaDU5RS1wMk9Cb3JUUXpxMmd5Qm9YYU1MX0pyV0swUjA5Q29oRWl0Z2wxVEFqMGJJTzJGQWxzVmhqTXIxNHA0MVp2SmliOVFVNlpDMzRSZ3pPMjIyMTdsQTJyWFVfTG9FZzlsWGlZWmlybmZKNm5pTXl5TC12VQ?oc=5",
    "date": "2026-09-26T03:33:34.000Z",
-   "source": "techpowerup.com",
-   "summary": "GTA 6 on Nintendo Switch 2 \"Doesn't Make Sense\" According to Former Rockstar Dev techpowerup.com"
+   "source": "TechPowerUp",
+   "summary": "GTA 6 on Nintendo Switch 2 \"Doesn't Make Sense\" According to Former Rockstar Dev TechPowerUp"
   },
   {
    "id": "gn-bvadqt",
@@ -636,33 +660,49 @@
    "date": "2026-09-25T18:58:32.000Z",
    "source": "Polygon.com",
    "summary": "Xbox Downplays GTA 6's Massive PS5 Pre-Order Numbers Polygon.com"
-  },
-  {
-   "id": "gn-1ft857t",
-   "title": "Rayman Shades GTA 6 With Collector's Edition That Includes Not Just One Game, But Two",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTHAzUEZIczluSEZxa0hNbmlGNlZEN1lPUHFkYzRYNk5qSU5fWGZXdVRncU5zZ0dkdWFIVVlCbTJEWGhPWVFkRzRQTkYyNTBBcE1vVkdWNHVvenN2T2laOUtxQVBlUkNZR3pFZkdHNlFFWFAxQmZNNU5SalZhTFBXbi1YaGtRR1o4SUxuUGgzaHNmODZHQUVj?oc=5",
-   "date": "2026-09-25T18:48:50.000Z",
-   "source": "DualShockers",
-   "summary": "Rayman Shades GTA 6 With Collector's Edition That Includes Not Just One Game, But Two DualShockers"
-  },
-  {
-   "id": "gn-131hip",
-   "title": "GTA 6 Collector’s Edition Scalpers Are Charging Up to $1,500 Despite It Still Being in Stock",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRVZPdTNhbEs3MzZpdWo0UHJLeU5kRFlkRTl1SE1rdGNULUstTmowTjRMd0hJNkxrSE5KT1JzNnUxZzdaaDJxZ2trSUpfUk9aSkN0MktsS1dtU0l1Xy1zTE9hSmJwUzlRdFFEQjJpZTFRVEFTQXVaUHRkUGpPSllSNE1XdTA3U0tFcHRkOFZ1UWJrSEI3S05uUA?oc=5",
-   "date": "2026-09-25T18:31:05.000Z",
-   "source": "MP1st",
-   "summary": "GTA 6 Collector’s Edition Scalpers Are Charging Up to $1,500 Despite It Still Being in Stock MP1st"
-  },
-  {
-   "id": "gn-6grvk",
-   "title": "After Years of Waiting, GTA 6 Is Official: Release Date, Price, and Fan Reaction.",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOV3JicnJQNXNBbTJBQ1VXMWFONTQ4SUVmcU5HelMtbmZ3c2pFb3ktUElDNHFpYUtsREFCd055OWo2QUdTXzE0RE8yWkNrOWRvVXJVdjQwSG9RUDBSUVppNmxIREFDcUNtNS1oNjNWTE40WExUZ1VNRWR0WU5mS3VfSGdFbTYtbmZJdEowVEd3SzdKOGRTeUR2TFRpX0dENzhjRElfUlpWeVhRMS1fNVRodGpfRGNCYnVyTkV5NEx3?oc=5",
-   "date": "2026-09-25T18:30:56.000Z",
-   "source": "vnhsmirror.com",
-   "summary": "After Years of Waiting, GTA 6 Is Official: Release Date, Price, and Fan Reaction. vnhsmirror.com"
   }
  ],
  "community": [
+  {
+   "id": "rd-1rb9dv5",
+   "title": "Every Jason & Lucia GTA VI artwork released so far. Which one is your favorite?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wri0lw/every_jason_lucia_gta_vi_artwork_released_so_far/",
+   "date": "2026-09-27T11:37:32.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/The_Struggling_Soul [link] [comments]"
+  },
+  {
+   "id": "rd-wjgoe8",
+   "title": "This released a month ago today, we are getting there!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wrgfwq/this_released_a_month_ago_today_we_are_getting/",
+   "date": "2026-09-27T10:06:13.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/TheHungryRabbit [link] [comments]"
+  },
+  {
+   "id": "rd-1jh13q1",
+   "title": "Since Jason and Lucia’s relationship is optional, I wonder how intimate scenes like this will work. Will they have alternate versions depending on whether they’re together or will these scenes just be skipped entirely?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wrfr4p/since_jason_and_lucias_relationship_is_optional_i/",
+   "date": "2026-09-27T09:24:13.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/One-Ad3222 [link] [comments]"
+  },
+  {
+   "id": "rd-1do6lg7",
+   "title": "Most Impressive Review from French Magazine Preview",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wref6u/most_impressive_review_from_french_magazine/",
+   "date": "2026-09-27T08:02:44.000Z",
+   "source": "r/GTA6",
+   "summary": "The review saying it felt like the moment of seeing Avatar for the first time in 2009 was the most impressive. It wasn't a detailed analysis of the game, but an explanation of how it felt, and it real"
+  },
+  {
+   "id": "rd-1296wnz",
+   "title": "Gta 6 minimap icons till now",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wre9zj/gta_6_minimap_icons_till_now/",
+   "date": "2026-09-27T07:54:06.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Deciple_Gta6 [link] [comments]"
+  },
   {
    "id": "rd-lnupa8",
    "title": "GameInformer articles on the last GTA games",
@@ -942,46 +982,6 @@
    "date": "2026-09-25T16:32:50.000Z",
    "source": "r/GTA6",
    "summary": "Designed it, printed it, wearing it. Not official merch—just my way of marking the wait. submitted by /u/pastonx777 [link] [comments]"
-  },
-  {
-   "id": "rd-1nmhh15",
-   "title": "Gameroll’s poll asking people who is buying the collectors edition ended . Out of 7,785 votes 6539 said they’re not buying it",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq02tm/gamerolls_poll_asking_people_who_is_buying_the/",
-   "date": "2026-09-25T15:57:36.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/UnoExplicit [link] [comments]"
-  },
-  {
-   "id": "rd-dyzjdf",
-   "title": "Any other philosophers here not able to stop pondering what sort of \"choice\" and/or endgame is planned?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wpyiqe/any_other_philosophers_here_not_able_to_stop/",
-   "date": "2026-09-25T14:56:45.000Z",
-   "source": "r/GTA6",
-   "summary": "With how Rockstar ended IV & V, and how the honor system impacted the narrative and ending for RDR2, it's safe to assume the criminal profiles will impact each playthrough in VI, and we may be given a"
-  },
-  {
-   "id": "rd-mz7z4t",
-   "title": "$700 AUD saved. Just need to add some paint.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wpwzbg/700_aud_saved_just_need_to_add_some_paint/",
-   "date": "2026-09-25T13:54:56.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/L21JP [link] [comments]"
-  },
-  {
-   "id": "rd-1hb2wpf",
-   "title": "Frame Friday #120: Let's discuss official GTA 6 content. [11 frames] - 8 weeks to go!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wpvgq2/frame_friday_120_lets_discuss_official_gta_6/",
-   "date": "2026-09-25T12:48:37.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Denso95 [link] [comments]"
-  },
-  {
-   "id": "rd-1tpiqgv",
-   "title": "Popping tires never looked this good",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wptq5f/popping_tires_never_looked_this_good/",
-   "date": "2026-09-25T11:22:11.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/TheHungryRabbit [link] [comments]"
   }
  ]
 }
