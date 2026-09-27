@@ -1,27 +1,28 @@
 {
- "generated": "2026-09-26T23:21:20.861Z",
+ "generated": "2026-09-27T01:38:03.328Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-26T23:21:20.861Z"
+   "checked": "2026-09-27T01:38:03.328Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-26T23:21:20.861Z"
+   "checked": "2026-09-27T01:38:03.328Z",
+   "error": "HTTP 500"
   },
   "googlenews": {
    "ok": true,
-   "count": 92,
-   "checked": "2026-09-26T23:21:20.861Z"
+   "count": 100,
+   "checked": "2026-09-27T01:38:03.328Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-26T23:21:20.861Z"
+   "checked": "2026-09-27T01:38:03.328Z"
   }
  },
  "official": [
@@ -664,6 +665,22 @@
  ],
  "community": [
   {
+   "id": "rd-1698rcj",
+   "title": "We can expect TONS of random encounters in GTA VI",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wr5xmr/we_can_expect_tons_of_random_encounters_in_gta_vi/",
+   "date": "2026-09-27T00:22:27.000Z",
+   "source": "r/GTA6",
+   "summary": "MikeShowSha, a content creator who also visited Rockstar North for an exclusive preview talked about one random encounter that occurred whilst watching Rob Nelson play. It was about two female robbers"
+  },
+  {
+   "id": "rd-wjjbzk",
+   "title": "Small detail at 8:20 in the Extended Look — the bird glides first, then flaps",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wr4buv/small_detail_at_820_in_the_extended_look_the_bird/",
+   "date": "2026-09-26T23:06:56.000Z",
+   "source": "r/GTA6",
+   "summary": "Rewatching the Extended Look and noticed this at 8:20. There's a bird in the sky that first just glides for a second and only then starts flapping its wings. Looks actually natural instead of the usua"
+  },
+  {
    "id": "rd-rxzbgg",
    "title": "GTA 6’s map will be so packed with detail and cool things to discover that I’ll feel guilty passing by everything in a car. I might just walk around everywhere lol.",
    "url": "https://www.reddit.com/r/GTA6/comments/1wr1l6f/gta_6s_map_will_be_so_packed_with_detail_and_cool/",
@@ -966,22 +983,6 @@
    "date": "2026-09-25T08:59:08.000Z",
    "source": "r/GTA6",
    "summary": "Im NOT paying 400 bucks for the official poster so I'm making my own using the mapping project. It'll probably be innacurate when the game comes out but 🤷‍♂️ Still WIP and pretty bad so any feedback "
-  },
-  {
-   "id": "rd-15fmqhv",
-   "title": "Rockstar Collector Editions comparison",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wppkit/rockstar_collector_editions_comparison/",
-   "date": "2026-09-25T07:03:15.000Z",
-   "source": "r/GTA6",
-   "summary": "- GTA 5: $150 with 6 items (game included) - Red Dead Redemption 2: $100 with 9 items (no game included) - GTA 6: $400 with 11 items (no game included) The GTA 6 Collector’s Edition is the most expens"
-  },
-  {
-   "id": "rd-fdasd9",
-   "title": "How much have you spend for GTA VI?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wpp8aq/how_much_have_you_spend_for_gta_vi/",
-   "date": "2026-09-25T06:42:32.000Z",
-   "source": "r/GTA6",
-   "summary": "I myself have done some purchases in order to be ready for GTA 6. - PlayStation 5 PRO (used, $760) - LG C2 55\" 4K 2022 OLED, 120hz, HDR (used, $460) - Controller shell $40 - GTA VI (GF bought it for m"
   }
  ]
 }
