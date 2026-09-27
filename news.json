@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-27T17:54:53.201Z",
+ "generated": "2026-09-27T20:46:18.689Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-27T17:54:53.201Z"
+   "checked": "2026-09-27T20:46:18.689Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-27T17:54:53.201Z"
+   "checked": "2026-09-27T20:46:18.689Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-09-27T17:54:53.201Z"
+   "checked": "2026-09-27T20:46:18.689Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-27T17:54:53.201Z"
+   "checked": "2026-09-27T20:46:18.689Z"
   }
  },
  "official": [
@@ -226,8 +226,8 @@
    "title": "9to5Toys News Weekly recap – 'world's first' liquid-cooled power bank, Pokémon, GTA VI gear, mor",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ0pMbl84YWh0REFBM2cweDlmZWl5bGxQX1VpTFUzdFlFLTMwaTZVUzluYW53NUV2TXI4TUM1VDdRak5RTHBudjVLRm4yc2pENzVQWTNDYTBmRHhZMEt0bVNtaFpmRzUyMHZ6SWZ5eXdVVUpBS2c2ZFAxc2dCZlNlZy1DVVhyUVU?oc=5",
    "date": "2026-09-27T13:06:00.000Z",
-   "source": "9to5toys.com",
-   "summary": "9to5Toys News Weekly recap – 'world's first' liquid-cooled power bank, Pokémon, GTA VI gear, mor 9to5toys.com"
+   "source": "9to5Toys",
+   "summary": "9to5Toys News Weekly recap – 'world's first' liquid-cooled power bank, Pokémon, GTA VI gear, mor 9to5Toys"
   },
   {
    "id": "gn-1f787ru",
@@ -284,14 +284,6 @@
    "date": "2026-09-27T02:18:10.000Z",
    "source": "GameGPU",
    "summary": "GTA 6 players plan to ditch cars to explore the world's details GameGPU"
-  },
-  {
-   "id": "gn-3nimg1",
-   "title": "Rockstar drops $400 GTA 6 Collector’s Box: What's inside and where to buy",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGFSdXUxNVBTdVRpenREOGRueWtPUE9QQUIydFhiRjRaTHVTVE1ZRWU5OG5Pd0hCbUE4SDE3R3d6Q0FKSXNLQjlsUHNYMDVPNFNVREtlRVI1SF9Sb0I5QlZiczZRTDRVWUhfVGJ3QkVtbFhacDFLdWZPMVFmdXRfYUJxS2tWYnpNRFFTMUl3?oc=5",
-   "date": "2026-09-27T02:05:15.000Z",
-   "source": "Mashable",
-   "summary": "Rockstar drops $400 GTA 6 Collector’s Box: What's inside and where to buy Mashable"
   },
   {
    "id": "gn-d0klwl",
@@ -386,8 +378,8 @@
    "title": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA after actor Stephen Root let slip he's in the game",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPM3BhWUp0eGtUbHJsdXNIaWxiaXlWdTlsS1paZ3JaUl9lR0M1Ylk3Ny1QaGlvbUozSVZOLUFHSVRiVzRfZ0paRjRKTW1WZDJMckJfQlpVNmhMenhILVdDUldzNkI4S2hBMUVkcG9lUHBDanJDd2FZX2JhcmNZbVZmcW9ibFJGOGRVUFIyRk5mWmJfWW44emdEV0VMWDhpZklNeFMwbDA1OW5SaGxxUmxiSDY2dGZpZUh2MzlRcUNBaVcwa3I0TE5MRVVmUnFsbVlGSU95NE1wWEFSdUE3UXpCZ1llbW5lcXBvTmd0bkRsbVNZMzRfeVlQeFU4UWtrakE?oc=5",
    "date": "2026-09-26T14:55:48.000Z",
-   "source": "GamesRadar+",
-   "summary": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA after actor Stephen Root let slip he's in the game GamesRadar+"
+   "source": "gamesradar.com",
+   "summary": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA after actor Stephen Root let slip he's in the game gamesradar.com"
   },
   {
    "id": "gn-11i80rj",
@@ -442,8 +434,8 @@
    "title": "These Xbox Players Got GTA 6 For Free The Hard Way",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82X2ZRRm5WVllxbUpFYk9EZ2FfS21aUzhWa0d4NnBFVW5xU09WX2RtVVVBLS1TNWZjLUtsSkVzY19wU1hnMzFqcUZfVzN1YXdhSC1KWS0xNnJOVjNVTnhrZTZ6S3pnaEhENUhla3hDTW8xWjVOT2cxZElIdExYU2c?oc=5",
    "date": "2026-09-26T12:30:00.000Z",
-   "source": "Engadget",
-   "summary": "These Xbox Players Got GTA 6 For Free The Hard Way Engadget"
+   "source": "engadget.com",
+   "summary": "These Xbox Players Got GTA 6 For Free The Hard Way engadget.com"
   },
   {
    "id": "gn-10fk10j",
@@ -482,8 +474,8 @@
    "title": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjJqLUJ6R055TndrTTFmYUU0OVZPRkZxcG9rNXhqOGNVOUZZQVlYaXZmd04ybU5obTZkWjF0c1Z4TFJkYS1UOTRlNEhMallUSmpkblYwSm52Rl81LWp0RTF1S0FldVM4QzVVSVE4QU1KTkdqYldkU1FreHVLMTQyOWVFeHM2MjgxaW5sZkRLQU10QUNfYVpwLVFyQWpSQy0wSHk1QjR1alUyeGdrejg0RkU0VnlJZHlONk5GcXRwN3pKRTQ?oc=5",
    "date": "2026-09-26T08:35:17.000Z",
-   "source": "autoevolution",
-   "summary": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included autoevolution"
+   "source": "autoevolution.com",
+   "summary": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included autoevolution.com"
   },
   {
    "id": "gn-1c92vq9",
@@ -538,8 +530,8 @@
    "title": "GTA 6 on Nintendo Switch 2 \"Doesn't Make Sense\" Former Rockstar Dev Says",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSVFHeGQ4ejBQemswT3Joc0VLb0RsWnpxZkRKMUVWbWFpNFJBcjhPeTNmWjBZaFRud3BtMkx4UlhRc2VrTzZLR3ViZzJTUUFuZ2RGX1Nmc1hlYUJZTGZ4ZXhsODdqVER6b1oyZ1BHQkZCRGNyb19CUlZzQlFIcU5kdVBjLUx4NkFFekZOTks2T0lwZjUzaFhVT2s3dHpLR1Z5UkhpVktkTdIBrAFBVV95cUxQTWY2eEswb1AxTGlaR3ZlY2ZleU1LT0FiSWVaLU5iNVN6Wm1NZDBkOThiWFpFUFZpQzJxekE0VHdmNTdfLWpIOHpKQV92UDhsMUx6RTgwb3g1aGNFc3NTZ0tRX0g2dGx5dHhkTVQ0akhFeHFLdTIyNkl5VVNEV3lmaEtTVG1KTmtVeHE0cUlBYWxKUUJ5ZjkxektNNy01TDJkdjY5bU5qTVRsZVJD?oc=5",
    "date": "2026-09-26T03:37:08.000Z",
-   "source": "techpowerup.com",
-   "summary": "GTA 6 on Nintendo Switch 2 \"Doesn't Make Sense\" Former Rockstar Dev Says techpowerup.com"
+   "source": "TechPowerUp",
+   "summary": "GTA 6 on Nintendo Switch 2 \"Doesn't Make Sense\" Former Rockstar Dev Says TechPowerUp"
   },
   {
    "id": "gn-3uwols",
@@ -660,6 +652,14 @@
    "date": "2026-09-25T20:36:38.000Z",
    "source": "GamingBolt",
    "summary": "GTA 6 is Game Informer’s Next Cover Story, New Details and Screenshots to be Revealed GamingBolt"
+  },
+  {
+   "id": "gn-1y06qjs",
+   "title": "Game Informer's GTA 6 Magazine Cover Available Now",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZDA1eXpLblNubmJvSTV4X2JYT0NKVFZ4TE9LSGFlR3pKcFFraS15bHJTclQtTy13bkJtN1RabGNLMzNGLXFpZjVfR2duYnc1RnNqRXRFZ3ZobFJCWF9NWEpSM2dVN2VfcjR6Y0RqRXJOTUFpTU9ETkZON0g1MDV6MHZoNEh5ZEEx?oc=5",
+   "date": "2026-09-25T19:55:10.000Z",
+   "source": "Resell Calendar",
+   "summary": "Game Informer's GTA 6 Magazine Cover Available Now Resell Calendar"
   }
  ],
  "community": [
