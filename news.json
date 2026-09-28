@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-28T18:13:26.837Z",
+ "generated": "2026-09-28T23:26:07.656Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-28T18:13:26.837Z"
+   "checked": "2026-09-28T23:26:07.656Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-28T18:13:26.837Z"
+   "checked": "2026-09-28T23:26:07.656Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-09-28T18:13:26.837Z"
+   "checked": "2026-09-28T23:26:07.656Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-28T18:13:26.837Z"
+   "checked": "2026-09-28T23:26:07.656Z"
   }
  },
  "official": [
@@ -182,6 +182,70 @@
  ],
  "press": [
   {
+   "id": "gn-heq6k",
+   "title": "GTA 6’s $400 Collector’s Edition Is the Latest Example of a Horrible Trend",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91dzRURTVpd1g1WUdqZ2hfT29adWRlMlNZZjNWdkJybk8ycUZpMmZwYmNlU1F0cUhVN1pyVEUtWjc5S1RnYzJWZWJlRnY3UVpOQXNSWDdXY2x1dWRSZjVtLU9pd3lmREVjakNoRk5xOTJvdUZI?oc=5",
+   "date": "2026-09-28T23:00:16.000Z",
+   "source": "Polygon.com",
+   "summary": "GTA 6’s $400 Collector’s Edition Is the Latest Example of a Horrible Trend Polygon.com"
+  },
+  {
+   "id": "gn-ck54j0",
+   "title": "When Does Game Informer’s GTA 6 Magazine Come Out? Release Times, Explained",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVRoWExxUHR0Nkt4NmJWb2EyOEFSTkVjRTlDbDJzTGhiYVJSSUV4c3pFR2VpWHptdVRHQWxOTEhXMUVyWXhnZWZ6NTVtUmFMRExCY2YxSlZONnFoUGpaUGN4SGJRZG01Z1phZjR1bzY2VnR2Qm5PcmhYM1hJTkNqcQ?oc=5",
+   "date": "2026-09-28T22:20:26.000Z",
+   "source": "Insider Gaming",
+   "summary": "When Does Game Informer’s GTA 6 Magazine Come Out? Release Times, Explained Insider Gaming"
+  },
+  {
+   "id": "gn-1l12ltd",
+   "title": "GTA 6 ‘connected universe’ theory gains steam with new RDR2 connection",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakZsZlh1VHhaYUxhTHJwSTQwa05ZV3F2dlVFVENsX1g4cnY0dk00V190UXVlVG9TNmJhZ2xNWi0zYlhWcER1bUNJQmNMdmE4ZVgyWEotTjhiUk4xT0plT1BsOEExUU05eEtoZHJmaUJEcEhtS21mWEFrOWZUVEdpZ2dQOTlWY0F4ZVpITWtMQUladXVpNkxhZVZFczUzNmtyOEdiNA?oc=5",
+   "date": "2026-09-28T21:00:01.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 ‘connected universe’ theory gains steam with new RDR2 connection GAMINGbible"
+  },
+  {
+   "id": "gn-3d3p30",
+   "title": "Live Grand Theft Auto VI Release Odds: Prediction Markets Show Rising Confidence",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTTNpQUdKZmF5cHBsNjBxbEZQcHRlSm0xcUluS2FIX1VhOVRlVnhYa2V0emNHR3BuN2VMMEg4OWVkekhlcDVCeW9OODAxLWNxM2FmOC1Pa0hUbEpzaVUxOFhObE1oNmg3TmdVMHM2ZGhUUXBPX2R1eUtXQlBsYnB2X3NsMUxtUWE1Z0h6WV9GcXViczJvRFUtaWNldmJVeUxCVUM2dUYzVjFTLU5naW5KcERuZVhDRjhqWHc?oc=5",
+   "date": "2026-09-28T19:15:00.000Z",
+   "source": "Action Network",
+   "summary": "Live Grand Theft Auto VI Release Odds: Prediction Markets Show Rising Confidence Action Network"
+  },
+  {
+   "id": "gn-1dtbpvt",
+   "title": "I'm Surprised How Mixed I Feel About GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EV21sNkhwazRVdklXcHNOeGxKLWdIQWtLN2tRWlU3TkZURjhpTDh5N2hYWjV4cWt6OWJNemg5clFkZDdwVmN5WE5ubExNOUFRbmpDVkQ4V29NeVM1blBOcUNhWUpYNzhfVHVDckh3WGl0Z2VPUjN1Rlg1NTU?oc=5",
+   "date": "2026-09-28T18:30:00.000Z",
+   "source": "Yahoo Tech",
+   "summary": "I'm Surprised How Mixed I Feel About GTA 6 Yahoo Tech"
+  },
+  {
+   "id": "gn-1jnbd8z",
+   "title": "Why Is Everyone Talking About LA Noire 2 All of a Sudden?",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUFdDVmVpcTMycVZRdTZoaTJ5OWNyRHk0Zy11bEFQZnBhdTRzVE9UdmtuRXl4UjhUa2tDRE1nSGlKR0tZZUExZlNQX2FXZGdMWm5GQ3Z0LTJzajl3YW43WXFIdG5FQThqaC1UTVdQMnhncUltUmlEVGdQaDZUOFprd0JYRGtrdjNyMkdCNThldlN6WmVHbjJYMG8zTTV5N3RlbkJmTU92ajNVaElNQXNvOTlNd09BdVRp?oc=5",
+   "date": "2026-09-28T18:25:27.000Z",
+   "source": "IGN Southeast Asia",
+   "summary": "Why Is Everyone Talking About LA Noire 2 All of a Sudden? IGN Southeast Asia"
+  },
+  {
+   "id": "gn-gsv65h",
+   "title": "GTA 6′ s Collector’s Box Gator Statue Can Now Be 3D Printed: ‘$400 And No Disc? F**k You Rockstar’",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFNkLVAzQWxULU44clcwM0lTcVY3SWFsOXJ3LXYzM3F3bnhBbVU2eWFsUFVVZ29WZFlQX1lOcF94ZkFuaW5Vc3pKNkE4TXY0YUVIemlZanIycTlaUHZacTdUdEN4Y2stMDcwYk5zVXVKX2pETS00WF9qWTU2SzMzZDVHRW54M1QtcFVRYUhmcXZrQVJmaThfT2Z0OWZYOE5sNkp0ZFdpOEYxTHIySUFKSGZCM0V4UFg4?oc=5",
+   "date": "2026-09-28T18:20:17.000Z",
+   "source": "Kotaku",
+   "summary": "GTA 6′ s Collector’s Box Gator Statue Can Now Be 3D Printed: ‘$400 And No Disc? F**k You Rockstar’ Kotaku"
+  },
+  {
+   "id": "gn-4u3xok",
+   "title": "GTA 6 Is Just Die Hard...",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNREJNbXJLbnZQWEp3TVV4Ui01T1JmSlhZc0Vna3U2dUFUUE0wUjJZVm9yd3IwV0pFR0tyeVUxalB1QnZwa1pFV3JiR3k5eVg4STNLeGtBUVZmZFZyVWZIczlJZjdVaGR0V3NhU2hlZDAzVDlPX19DZGdTTjdjTko2UTJRNA?oc=5",
+   "date": "2026-09-28T18:10:00.000Z",
+   "source": "Yahoo",
+   "summary": "GTA 6 Is Just Die Hard... Yahoo"
+  },
+  {
    "id": "gn-1nolv6r",
    "title": "L.A. Noire 2 Could Be Rockstar’s Next Big Game After GTA VI, and It Would Focus on One of History’s Most Infamous Criminals",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaGV4SllyQVlnbDJUVXJWcVVRU3A0X3dlRGlZd1pRM1JKN2RtdC0tMTBFWWM5cVZqeTM3V2FUNFFaZkVMcHpkb3ZVOWtBZGpqSU91Rjh6eExySU9YUG9rd0RuR0hOUDVrcjhkZkVWU09jSlROU1p5RXQwbzAxeGZmYzlqeXhoTTh5YjR2OTM0Vm9FRXF1WlgtSkREdmUxTFRmTjhKcjExMDBpVHRXT3Ezek9TVW5waWM4VHFXUzZFTXQta19rQVJtaWFZZHNteVRLdTB4ZURfcm82NE5fbGQ2U2ZMdGRNUQ?oc=5",
@@ -206,6 +270,14 @@
    "summary": "GTA 6 Has an 'Advanced' Weather System, but How Will It Work? IGN Southeast Asia"
   },
   {
+   "id": "gn-nk4ry0",
+   "title": "GTA 6 Has an 'Advanced' Weather System, Leading to Speculation Over Hurricanes",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFpidTUtcnlkNWt0cEx3c1ZQMm0zZUVrQmZIZTVoSWtvZWVwRW5JTmVOYVE5OTU0YVdrT3dDTklyNW9OaFVrMGhPeVlnWG1XTkNxdDExSnhaU1h3Z3A2Q3lRMU41a2FlanFtdjlISG1JUlJXT2NOUlJKckVfWTFEOUFPYVJreDM4aUpwVzZ2Yw?oc=5",
+   "date": "2026-09-28T16:33:56.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Has an 'Advanced' Weather System, Leading to Speculation Over Hurricanes IGN"
+  },
+  {
    "id": "gn-lw2dqd",
    "title": "GTA 6 fans replicate the $400 Collector's Box statue, and you can now 3D print your own ugly gator at home",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdGl2OVV4X29YbEJ0TjdYalpWa1dNQWphOEVTNzc5MG9nT3JWQm9wRlNYTjk5V1VFUmFqaWNmSzFidm1LX2Z4RXRPNTlQZFAwVVNVX2dUVmhoLXc1aDFjTGJRNjdYcHBXVWN1bDE3RUZRRG9XRnlIZHU2T01vZ0tVVWtuMzhvQllpUmNYMTB1Q0dBdTBsenJueENRZ19vSzRVX0JETS01NlRLb0VqSm5panh0OUd5U0Exam9RZm9nNV9jMUVEY2lpM2dEM215ZllabmpRR25HVi1ES0lVSDhzYnI3ZERXN0RERk1DeU5R?oc=5",
@@ -223,11 +295,11 @@
   },
   {
    "id": "gn-6vpxm5",
-   "title": "Going Too Far? Rockstar Games Just Confirmed That GTA VI Will Allow Players To Plagiarize Portions Of Their Characters’ Marine Ecology Dissertations – Clickhole",
+   "title": "Going Too Far? Rockstar Games Just Confirmed That GTA VI Will Allow Players To Plagiarize Portions Of Their Characters’ Marine Ecology Dissertations",
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQeDdSZVYxZU1IRzN2MUlSaUtpb094cC15LWl0cnJPYVh1ZUg4TnMwX0QycHVmdHF2NlVlTEkwMHl1aHk5UnhLMWJMMUYtNndId0FpNTk1VmRwNVBRNjNyTVRKbmIxX1YtQ04xcDItV2NaZUZRTk9pMHR1R01sYlB3a2lRMWJoS00wWXhxSzhOcXRJSTQxX1E0bURXRTVuME9MTmFYd3M1ZXNkLWlnRVdKSUhpLWJuZHFjV3ZMT19NZDJzZmhSZ3IyQUZhZkw4QzdLNnpqRWJ2dm1hZDVZM3dxcUJZVUFteklaQlNGS2hqVTM5MU5EYkc1LWxkVUhiR2FGNC1taUxrZlQweE92ajFEMTBn?oc=5",
    "date": "2026-09-28T16:23:23.000Z",
    "source": "Clickhole",
-   "summary": "Going Too Far? Rockstar Games Just Confirmed That GTA VI Will Allow Players To Plagiarize Portions Of Their Characters’ Marine Ecology Dissertations – Clickhole Clickhole"
+   "summary": "Going Too Far? Rockstar Games Just Confirmed That GTA VI Will Allow Players To Plagiarize Portions Of Their Characters’ Marine Ecology Dissertations Clickhole"
   },
   {
    "id": "gn-29kra4",
@@ -257,9 +329,17 @@
    "id": "gn-1fraq72",
    "title": "Take Two's L.A. Noire Comments Fueled an Overstated GTA 6 Follow Up Claim",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZU5UQlRNb1VwSk9wLVo0Wmc0X1YzSEdEemNrbHpra09pTHVpVzlwNGQ0TF9hcjhocmZRRUFPS3l2QmEwWnRCbFcyNV9zNDdmNzdXLTFCYWZCdk5mNmJPeWJEOXNtN0V1SzdyRmp5Wk0xTWwyWHNKVjNVbldTWDczbmxFZ09ucUVkaHpFWDhCVG5XejczT2FyVmtHcEJnLVU?oc=5",
-   "date": "2026-09-28T15:32:30.000Z",
+   "date": "2026-09-28T15:28:31.000Z",
    "source": "GTA BOOM",
    "summary": "Take Two's L.A. Noire Comments Fueled an Overstated GTA 6 Follow Up Claim GTA BOOM"
+  },
+  {
+   "id": "gn-upz6qy",
+   "title": "Netflix's GTA VI Premiere and Gaming's Marketing Shift",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1MxdGtuWlltalhFdmZKc3ZwZjUzYldaQnUwYm96alNWNFZPeklKaHZyLTR6VHg1VEp5SXV5Sl9QTGdVZ0RRVkd2N0xvTG9GbzlEVER5SUtnRjNOWmtkQ1FURUFLenRiNDV6TWtYQlY0YlFwam43NmNSYnVvZzhxWjhB?oc=5",
+   "date": "2026-09-28T15:21:24.000Z",
+   "source": "criticalhit.net",
+   "summary": "Netflix's GTA VI Premiere and Gaming's Marketing Shift criticalhit.net"
   },
   {
    "id": "gn-msythh",
@@ -294,12 +374,12 @@
    "summary": "How to prepare your console for GTA 6: storage, preload and wallet funds - ADV IGN Nordic"
   },
   {
-   "id": "gn-upz6qy",
-   "title": "Netflix's GTA VI Premiere and Gaming's Marketing Shift",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1MxdGtuWlltalhFdmZKc3ZwZjUzYldaQnUwYm96alNWNFZPeklKaHZyLTR6VHg1VEp5SXV5Sl9QTGdVZ0RRVkd2N0xvTG9GbzlEVER5SUtnRjNOWmtkQ1FURUFLenRiNDV6TWtYQlY0YlFwam43NmNSYnVvZzhxWjhB?oc=5",
-   "date": "2026-09-28T14:27:22.000Z",
-   "source": "criticalhit.net",
-   "summary": "Netflix's GTA VI Premiere and Gaming's Marketing Shift criticalhit.net"
+   "id": "gn-qy03es",
+   "title": "Grand Theft Auto VI will feature highly realistic weather",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdVpmcXFObUxVRTJOaVVDUkhoSVV2Z1lTYmw3b0dVR1dKazc3SFhDc3drbllvWjIwVldjUGdud2FaNGliN0tOeUdLOHV5YXdWYXZuTjBGUkVNZnd3WkNTTTJiZWYyOU4yUk9ydWc2ZmlHYVVBeTVhdVQ2TlpvYmFaUFJHdVZpaldrOG80STdnc1lyQ2RkcVR2X2x4YXZiVV9iamVMSFVIWk5vVjQ?oc=5",
+   "date": "2026-09-28T14:13:50.000Z",
+   "source": "Instant Gaming News",
+   "summary": "Grand Theft Auto VI will feature highly realistic weather Instant Gaming News"
   },
   {
    "id": "gn-1z0jyrh",
@@ -378,8 +458,8 @@
    "title": "Is L.A. Noire 2 coming after GTA VI?",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYTVuUV95RUJOQ1dJNWVfMWdJdlk5dkhFVWFraUlYdlpWT2JBbGtYMXV5QUo2MWtzNVhCMUIwaFZ0Y2trQTJPSkRvVnNoNmdKMU4ySEEtOTBHSjZvaWdnV252SWN0YWUzM2plX05xYkdBOEx3bVNQU1UzOWQ1MkFHNWNoc0JCT2ktQ3NiMA?oc=5",
    "date": "2026-09-28T08:43:50.000Z",
-   "source": "news.instant-gaming.com",
-   "summary": "Is L.A. Noire 2 coming after GTA VI? news.instant-gaming.com"
+   "source": "Instant Gaming News",
+   "summary": "Is L.A. Noire 2 coming after GTA VI? Instant Gaming News"
   },
   {
    "id": "gn-1maw16z",
@@ -546,8 +626,8 @@
    "title": "Why I chose to buy a Nintendo Switch 2 instead of GTA 6 - Reader’s Feature",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmtaQW1QM2lBYmd5U1JKV1g4aWhPcTU4bmg5VWY4Q0Q0UGZIaE11MlRIc1c3MjZCVkdOS3lNZFhBMzVOUTFTQmJoVkFyNnJwWDZZaElYQ3gySkd5WXJkRUNRNTZlaWg4X1dJSDlsY1l6MkVsanFMWFVVNE4xdDNHTWNzcFFEc21RbnNiWExZTkpqVXBKVGFIcHF3Zm8tQjVtUEHSAacBQVVfeXFMTWh1WDNJUFhNaVRuUEVkR0o1Q0RXNzlkRDRzb1lpSFpzNFlxRVhsNTQxUVV0V29PN3EzVXc5bmlEdU1tOGxoVnBEd013dlV2Zl90YzJ5bGRJVnF1b2RSTnBaenZZanN3OG0za1RuTm5KWk9mcmtJWENGaW9Oa3d5T0Z0dkJzT0FNQktLZUtMcW8waThlZGFWNXBaRG1HamdEVkp0bmkxbEU?oc=5",
    "date": "2026-09-27T05:00:00.000Z",
-   "source": "metro.co.uk",
-   "summary": "Why I chose to buy a Nintendo Switch 2 instead of GTA 6 - Reader’s Feature metro.co.uk"
+   "source": "Metro.co.uk",
+   "summary": "Why I chose to buy a Nintendo Switch 2 instead of GTA 6 - Reader’s Feature Metro.co.uk"
   },
   {
    "id": "gn-1j6mb8m",
@@ -580,89 +660,49 @@
    "date": "2026-09-26T22:46:47.000Z",
    "source": "ixbt.games",
    "summary": "Manor Lords Publisher Not Afraid to Release Game on GTA VI Release Day - PC Gamers \"Wanting to Steal Cars\" Can Instead Turn Their Attention to a New Simulator ixbt.games"
-  },
-  {
-   "id": "gn-dxo5cj",
-   "title": "Are You Dropping $400 on the 'GTA VI' Collector's Box? Inside Rockstar's Vice City Merch Drop",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zZGlDTWlDQ05sdHRBcU1sUWRHWVRiVmc1TFZfYmR5RVBfd092ZVpuWmxWaEV4T0VHSkxrVXg1MDdzSjJjLTQ5VFFEUjJtT1J0bDd1SUkyN1hjRXBxSTRqSnhNa0Jmb19O?oc=5",
-   "date": "2026-09-26T21:31:47.000Z",
-   "source": "Decked Out Magazine",
-   "summary": "Are You Dropping $400 on the 'GTA VI' Collector's Box? Inside Rockstar's Vice City Merch Drop Decked Out Magazine"
-  },
-  {
-   "id": "gn-41je7m",
-   "title": "GTA 6 Heist Gameplay Is Wild",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1JLM0xfUDVETTVqZ19VSkQ1ZVo4LU9KUzBQTm5BdHF5SGpoOWl3SGZ3WEJPb0xqZ0NlU2p5Z3hYWUh4V0FuX2lYV0R6a3VTcjNhX1dxOEFiQlhEOHdHRmVaampraUpjeVdpT3hQOEJtZG1CekhXcWJIRFFabkhxSFV1cTRZeWZaclVn?oc=5",
-   "date": "2026-09-26T18:10:00.000Z",
-   "source": "yahoo.com",
-   "summary": "GTA 6 Heist Gameplay Is Wild yahoo.com"
-  },
-  {
-   "id": "gn-18g80w8",
-   "title": "Xbox responds to reports of GTA 6 pre-orders favouring PS5",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHNuOHFHa0V4aEtaM1Btb3pUYzNQcXVUSW0tR05CNkh1LXJwU3Z0VEV0ZFhVT05wdnVaU3VRSEJaS0tNNnZwMlNTSkNRUjBmWVNNQ0ZFRWNKYU9TM2NFbHN2eDhlTzlUMHJjQUhZa0Uzd24xOWN6bGlNVi1qSnZHaVdfNWVpRnNTYnBYcU1tX0MzWFpYVlNJM2RmNA?oc=5",
-   "date": "2026-09-26T17:26:15.000Z",
-   "source": "The Express Tribune",
-   "summary": "Xbox responds to reports of GTA 6 pre-orders favouring PS5 The Express Tribune"
-  },
-  {
-   "id": "gn-9f5nd2",
-   "title": "GTA 6 Vice City Collection includes 11-piece collector’s box without game",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalpFWkFBR3g1MmJScTIwQUEydjY1NXdaeUhpZlh1X1l0bFdLbXVYaVB6SXJNeXRIWm4tVnIzOXdtMjhGRTZFbHFIWVB2OFAtNlhEd2c5VG9kTUFtQWNfeHRUNTR1QmNEZ3djUHFBZXV0cHROT290NGJ3aF9DRzFOZVE2YlJhUGxuUXdnb1NJcGVGemlCaVQxMHlIVXdFbnB0UzlNWnc5WWVEdlZiMXfSAbYBQVVfeXFMT29iVVFpZm05b29RVEN1TU5LZGxoa2hDMUtmZzV0NE9rVmp4Q0M0RWprQWNNaHdfMFBSV0FkUHU3RlRJX0VCbWlYV19HMEp4X3NCOXRhWWhiTXh4VjhROWF2LS10YnF1d3NCaktKTWRUSmx1aDNVVHF3ek9xYkxLZEU1SXo1VnVVT3dWZGRHalhEdDd6b0tNeUR0LUpzQ1M5bU1KV0NYRnJuT1FVTEdTQTFlWVlDd2c?oc=5",
-   "date": "2026-09-26T17:17:12.000Z",
-   "source": "tribune.com.pk",
-   "summary": "GTA 6 Vice City Collection includes 11-piece collector’s box without game tribune.com.pk"
-  },
-  {
-   "id": "gn-mdjqvh",
-   "title": "GTA 6's $975K Miami Deal Skips County Vote [2026]",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlWG5UQnktdFVpTzk3dWt6RnRjLTB4d2J0VlZHdEJFWUtEeVZURjE1UmNGX29sTGpXLVJoeGVCV2VUQ0w2ZWNtQS0tMzYzQmkzemk5LWF1WGh0Uk1ld29nWmcxODk3cExtdkdSSE9LY1o1elRjZ2c?oc=5",
-   "date": "2026-09-26T16:58:08.000Z",
-   "source": "tech-insider.org",
-   "summary": "GTA 6's $975K Miami Deal Skips County Vote [2026] tech-insider.org"
-  },
-  {
-   "id": "gn-19eji7h",
-   "title": "With 20,000+ Positive Reviews, This Game Isn’t Fearing GTA VI and Will Hit XBOX Game Pass Day One This November",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLTJGdWJlS1NjNEd0M3ItRGhYejM5LURsdWhoWmtSVVc4aktjejliNXdCODFMU0FPd1FMMWJOQXAwUzA0MGZDdW9yN3pfUW93UzExUmlYbUtFaHk2N05uYlFMZVRYelY0LWZ1a3lmUVNBOUlhNzViX2lNUEY4aEh1MlpzRmZwcGQxbGxRTFZiVy1tWUc1ZktFeHhPRFNKVDI5bTZrcjNNVzI1djYyTWRGNDNFNkhRM1BMN04wYlR0RHBid1hsajBMOWxCZUtKWWRkUEdlZjQwdw?oc=5",
-   "date": "2026-09-26T16:47:13.000Z",
-   "source": "levelup.com",
-   "summary": "With 20,000+ Positive Reviews, This Game Isn’t Fearing GTA VI and Will Hit XBOX Game Pass Day One This November levelup.com"
-  },
-  {
-   "id": "gn-lzj996",
-   "title": "Mark Your Calendars, GTA 6 Is Getting Some Serious Competition On Nov. 19",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aS0FkWFRfY2NxckR3M1ltV0FUZVNNZDJBeGVKb3Y2aDUyQWdkSk0yNFV6cUdLQldEWnFDV2JjSnZnSzc3WFpuN290bm9qZkFPMlItdW9KQm1SSE5fMFZNckdfM2pyRmh6dno0Y3ZlREt1eDB1U2c?oc=5",
-   "date": "2026-09-26T16:36:21.000Z",
-   "source": "Polygon.com",
-   "summary": "Mark Your Calendars, GTA 6 Is Getting Some Serious Competition On Nov. 19 Polygon.com"
-  },
-  {
-   "id": "gn-180ibth",
-   "title": "Rockstar unveils GTA 6 police that remember your car and clothes",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHlkNEFfaFpJOEVCYnlRQ3g2d2d6RHpadXFvNGN1WGVpOHBBbXVlT3QyY0lyT09NWEltYnBuRjI1elRCODhTS1ktVHJGOS1QaTRzNnNvZ3hSaWl3WUp6VmVjUVR5MkJXeThQc0pwYVkxT3V5Q29Icy14cU9kLU1tUk5YS1g5M3BrY01EdDhHdnE0NHlySFRPSWFn?oc=5",
-   "date": "2026-09-26T14:59:38.000Z",
-   "source": "Pasquale Pillitteri",
-   "summary": "Rockstar unveils GTA 6 police that remember your car and clothes Pasquale Pillitteri"
-  },
-  {
-   "id": "gn-btere8",
-   "title": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA after actor Stephen Root let slip he's in the game",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPM3BhWUp0eGtUbHJsdXNIaWxiaXlWdTlsS1paZ3JaUl9lR0M1Ylk3Ny1QaGlvbUozSVZOLUFHSVRiVzRfZ0paRjRKTW1WZDJMckJfQlpVNmhMenhILVdDUldzNkI4S2hBMUVkcG9lUHBDanJDd2FZX2JhcmNZbVZmcW9ibFJGOGRVUFIyRk5mWmJfWW44emdEV0VMWDhpZklNeFMwbDA1OW5SaGxxUmxiSDY2dGZpZUh2MzlRcUNBaVcwa3I0TE5MRVVmUnFsbVlGSU95NE1wWEFSdUE3UXpCZ1llbW5lcXBvTmd0bkRsbVNZMzRfeVlQeFU4UWtrakE?oc=5",
-   "date": "2026-09-26T14:55:48.000Z",
-   "source": "GamesRadar+",
-   "summary": "Rockstar reportedly reminded GTA 6's voice cast they're still under NDA after actor Stephen Root let slip he's in the game GamesRadar+"
-  },
-  {
-   "id": "gn-11i80rj",
-   "title": "'GTA 6: The Album' soundtrack will get vinyl and CD release",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPelJ4Qkl2cGNJNWdob29OOW5DSGFxLTl2TjRpNWl3ZEhwQjI4ZlkzYVhydU1mUjZSbjJOZENMdW5ZeUVkMERGakpQWDhQeUtoVUFLUUd3TzdZWlg1X1pyQzE4QkFRM0Q1M2lzUUJEMnJROEtQZ25KbDRXSTQzTUlLWEE3Qm5OcW93aV9Nd2hzYTVaX2tMVFE?oc=5",
-   "date": "2026-09-26T14:32:56.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6: The Album' soundtrack will get vinyl and CD release Mashable"
   }
  ],
  "community": [
+  {
+   "id": "rd-1s981f8",
+   "title": "Console has UI",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wsseia/console_has_ui/",
+   "date": "2026-09-28T22:04:13.000Z",
+   "source": "r/GTA6",
+   "summary": "Its a strech but maybe we will be able to play games on our tv or just some pre recorded stuff they had in Jimmys room submitted by /u/jsjwjaj [link] [comments]"
+  },
+  {
+   "id": "rd-1hqwi5g",
+   "title": "Chase Shootout without music",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wsrnf4/chase_shootout_without_music/",
+   "date": "2026-09-28T21:33:36.000Z",
+   "source": "r/GTA6",
+   "summary": "Thoughts on the SFX? Source: @Lucas7Yoshi_ on youtube submitted by /u/borat_henry80 [link] [comments]"
+  },
+  {
+   "id": "rd-1a5mfed",
+   "title": "Then vs. Now",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wsnvy6/then_vs_now/",
+   "date": "2026-09-28T19:14:26.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/wasservilla [link] [comments]"
+  },
+  {
+   "id": "rd-1tzgvdn",
+   "title": "My drawing (colored pencils + acrylic markers + liner)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wsnplm/my_drawing_colored_pencils_acrylic_markers_liner/",
+   "date": "2026-09-28T19:08:08.000Z",
+   "source": "r/GTA6",
+   "summary": "There were quite a few difficulties with this drawing. First of all, I made the wrong choice of paper. I picked a very smooth paper, which isn’t the best choice for this type of colored pencils. When "
+  },
+  {
+   "id": "rd-snas2j",
+   "title": "Article of the Day #28: Moreland 850 (Remington 870 shotgun)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wsnjgb/article_of_the_day_28_moreland_850_remington_870/",
+   "date": "2026-09-28T19:01:57.000Z",
+   "source": "r/GTA6",
+   "summary": "Moreland is also a new firearms manufacturer in the GTA series based on Remington Arms. submitted by /u/gtawiki [link] [comments]"
+  },
   {
    "id": "rd-1xpf9d4",
    "title": "Limitations hidden behind features",
@@ -942,46 +982,6 @@
    "date": "2026-09-26T16:00:54.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-1uvppdr",
-   "title": "Original Game Informer Sept 2002 issue 113",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqt1y7/original_game_informer_sept_2002_issue_113/",
-   "date": "2026-09-26T15:15:40.000Z",
-   "source": "r/GTA6",
-   "summary": "Recent news brought me back to this one I had stashed away since I was 13. How time flies by! submitted by /u/Sik_EH [link] [comments]"
-  },
-  {
-   "id": "rd-dj3q9a",
-   "title": "GTA VI - Mirror",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqsjd5/gta_vi_mirror/",
-   "date": "2026-09-26T14:54:32.000Z",
-   "source": "r/GTA6",
-   "summary": "I recently got a nice little addition to my collection. This mirror looks amazing! Can’t wait to get my hands on the official stuff Vice City baby! Big thanks to [ u/Martiniii _Girl]( u/Martiniii_Girl"
-  },
-  {
-   "id": "rd-ovs4kb",
-   "title": "my casio gta 6 mod",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqrkew/my_casio_gta_6_mod/",
-   "date": "2026-09-26T14:13:06.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/False-Wall-5227 [link] [comments]"
-  },
-  {
-   "id": "rd-1ljhok6",
-   "title": "Admiration for the Artwork",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqqb0c/admiration_for_the_artwork/",
-   "date": "2026-09-26T13:16:09.000Z",
-   "source": "r/GTA6",
-   "summary": "Words can't describe how much I love the art style of this game artwork... Does anybody else feel like that, i can look at these every few days and think how beautiful and well made they are. Rockstar"
-  },
-  {
-   "id": "rd-1pxi219",
-   "title": "GTA 6 \"Mascot\" design and art choice could be better...",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqogot/gta_6_mascot_design_and_art_choice_could_be_better/",
-   "date": "2026-09-26T11:44:41.000Z",
-   "source": "r/GTA6",
-   "summary": "What do other people think about it? For me its wierdly offputting, unpleasant to the eye in some way. They could have drawn him better, chose different artstyle. If they want to make some collectible"
   }
  ]
 }
