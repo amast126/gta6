@@ -1,27 +1,28 @@
 {
- "generated": "2026-09-27T23:34:49.287Z",
+ "generated": "2026-09-28T03:19:01.372Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-27T23:34:49.287Z"
+   "checked": "2026-09-28T03:19:01.372Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-27T23:34:49.287Z"
+   "checked": "2026-09-28T03:19:01.372Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
-   "count": 100,
-   "checked": "2026-09-27T23:34:49.287Z"
+   "count": 102,
+   "checked": "2026-09-28T03:19:01.372Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-27T23:34:49.287Z"
+   "checked": "2026-09-28T03:19:01.372Z"
   }
  },
  "official": [
@@ -182,6 +183,14 @@
  ],
  "press": [
   {
+   "id": "gn-1coy67s",
+   "title": "Vice City in Your Hands: Rockstar Reveals 'GTA 6 Collector's Edition'",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3dMOGE2MTNqUkpIbTBZVDRYMnkwNk9vVzBvR081VkZBRnowLVZkUzg3dE93SWZBN2lZMEV5RUxSSTk1MUprZm04Q0ZwTGVDOUZkeTlzTjJQUmhKSGxscWtMNzgzNm5NRlV4SEdRRDE1SmlXMHliQnR3MjVBVzNhZk42bzJoQUpxVXRaSXBOdkdjNGlnaFlLcnRfODBaXzZKT1dNMWNtcXVXakc0?oc=5",
+   "date": "2026-09-28T03:11:24.000Z",
+   "source": "Inven Global",
+   "summary": "Vice City in Your Hands: Rockstar Reveals 'GTA 6 Collector's Edition' Inven Global"
+  },
+  {
    "id": "gn-1q6wdng",
    "title": "A former Rockstar developer explained why GTA 6 doesn't make sense for the Switch 2.",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNF85ZWxlMG9SbmZfX3B5VHF4U0E4QU4zNHpOWVU5MGd2eHJWUDRORHhkTFFtRDZudy1pTlBsWDBkT0xTODJFRFduSE5Zd1BPWG9lcm1uZlZiRENLVXhvYVZIUWlhNVpCb29ndVBDQzRwUm0taGZ4Zm5KbXBPekVpQ3VoZFVYSEZJNm93QUotcGJUcUQ1MGpxOHF1ZVgtQ1NHQVVxV0hfU2NwcWZ6T3RhOVlpSFNUa2VjSzZpZDlnaw?oc=5",
@@ -202,8 +211,8 @@
    "title": "Blacksmith Master Launches Alongside GTA 6",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrSHRacHFQaVpyRGkzRXI0dTEtcGNOSF9aVk00WUN0bDd2dUZYV211elozQWRzaktkOHRndHo1MExOaW0tY0VmWDJHblJrMlpZUGZXcEhLbmN0ckp1S21ua0IyVTI?oc=5",
    "date": "2026-09-27T16:00:00.000Z",
-   "source": "GameLuster",
-   "summary": "Blacksmith Master Launches Alongside GTA 6 GameLuster"
+   "source": "gameluster.com",
+   "summary": "Blacksmith Master Launches Alongside GTA 6 gameluster.com"
   },
   {
    "id": "gn-1tyuh4",
@@ -234,8 +243,8 @@
    "title": "Phantom Vice Auto Early Access Launch Details",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SV1ptaFVNQnZXc3VEaVpNanl1RHN6dTNaZTU2WVBNN0Rfc09HSjJVOUJ2ZHNLX09OVjZSb2JFWnhneVZPMU9HNV9PLWJONGZZYUdTdzNxWkRqXzVVUmVCMWJaUDk?oc=5",
    "date": "2026-09-27T13:40:00.000Z",
-   "source": "GameLuster",
-   "summary": "Phantom Vice Auto Early Access Launch Details GameLuster"
+   "source": "gameluster.com",
+   "summary": "Phantom Vice Auto Early Access Launch Details gameluster.com"
   },
   {
    "id": "gn-urgpe1",
@@ -338,8 +347,8 @@
    "title": "GTA 6 Heist Gameplay Is Wild",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1JLM0xfUDVETTVqZ19VSkQ1ZVo4LU9KUzBQTm5BdHF5SGpoOWl3SGZ3WEJPb0xqZ0NlU2p5Z3hYWUh4V0FuX2lYV0R6a3VTcjNhX1dxOEFiQlhEOHdHRmVaampraUpjeVdpT3hQOEJtZG1CekhXcWJIRFFabkhxSFV1cTRZeWZaclVn?oc=5",
    "date": "2026-09-26T18:10:00.000Z",
-   "source": "Yahoo",
-   "summary": "GTA 6 Heist Gameplay Is Wild Yahoo"
+   "source": "yahoo.com",
+   "summary": "GTA 6 Heist Gameplay Is Wild yahoo.com"
   },
   {
    "id": "gn-18g80w8",
@@ -378,8 +387,8 @@
    "title": "Mark Your Calendars, GTA 6 Is Getting Some Serious Competition On Nov. 19",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aS0FkWFRfY2NxckR3M1ltV0FUZVNNZDJBeGVKb3Y2aDUyQWdkSk0yNFV6cUdLQldEWnFDV2JjSnZnSzc3WFpuN290bm9qZkFPMlItdW9KQm1SSE5fMFZNckdfM2pyRmh6dno0Y3ZlREt1eDB1U2c?oc=5",
    "date": "2026-09-26T16:36:21.000Z",
-   "source": "polygon.com",
-   "summary": "Mark Your Calendars, GTA 6 Is Getting Some Serious Competition On Nov. 19 polygon.com"
+   "source": "Polygon.com",
+   "summary": "Mark Your Calendars, GTA 6 Is Getting Some Serious Competition On Nov. 19 Polygon.com"
   },
   {
    "id": "gn-180ibth",
@@ -434,8 +443,8 @@
    "title": "Is GTA 6 Coming To Nintendo Switch 2? Ex-Rockstar Dev Drops Bold Claim",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjVGenNtSTlsbUVuNFdmSURYUDlSRjNieGNZTlZGTG15WkZybTZ1dHVRLVVzNmozSmRhejhrZUNoNEtxLUtXUlp2czJRY19sSldvRG9OQnd5VHgybFVRaEZOZlFMeUlzbE5Bb3dUWEhqSDBhNW5KMXNmWlZKTGJJc2JUQnp1STE3eF9CR0dFQQ?oc=5",
    "date": "2026-09-26T13:01:00.000Z",
-   "source": "HotHardware",
-   "summary": "Is GTA 6 Coming To Nintendo Switch 2? Ex-Rockstar Dev Drops Bold Claim HotHardware"
+   "source": "hothardware.com",
+   "summary": "Is GTA 6 Coming To Nintendo Switch 2? Ex-Rockstar Dev Drops Bold Claim hothardware.com"
   },
   {
    "id": "gn-zci30f",
@@ -482,16 +491,16 @@
    "title": "GTA 6 Pre-Load: November 12 Theory Explained",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVVndtNVZSNU9pdWVZQWhEZVJVSmZUbXZDREU5QXNBQ2dnVEV0SXhpN0xZRVhkZmRPM3NPVTJ2X0VGdXdYMTVDYkRZeDA1ZERiVTBla3F3?oc=5",
    "date": "2026-09-26T09:00:00.000Z",
-   "source": "GameLuster",
-   "summary": "GTA 6 Pre-Load: November 12 Theory Explained GameLuster"
+   "source": "gameluster.com",
+   "summary": "GTA 6 Pre-Load: November 12 Theory Explained gameluster.com"
   },
   {
    "id": "gn-1u0wiwd",
    "title": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjJqLUJ6R055TndrTTFmYUU0OVZPRkZxcG9rNXhqOGNVOUZZQVlYaXZmd04ybU5obTZkWjF0c1Z4TFJkYS1UOTRlNEhMallUSmpkblYwSm52Rl81LWp0RTF1S0FldVM4QzVVSVE4QU1KTkdqYldkU1FreHVLMTQyOWVFeHM2MjgxaW5sZkRLQU10QUNfYVpwLVFyQWpSQy0wSHk1QjR1alUyeGdrejg0RkU0VnlJZHlONk5GcXRwN3pKRTQ?oc=5",
    "date": "2026-09-26T08:35:17.000Z",
-   "source": "autoevolution",
-   "summary": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included autoevolution"
+   "source": "autoevolution.com",
+   "summary": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included autoevolution.com"
   },
   {
    "id": "gn-1c92vq9",
@@ -642,8 +651,8 @@
    "title": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BQ2g4Q21kc3pQTHlOY2tVNjdsOWNqOERtLVZIZy05N0t5Qk8zdTRreUlKM3k1UnNJNEdvaHhYWGhLMkExZmlaX1FaUUd2TmhyaDU4NVI2cWtxVDRSWDE2Z0J1RGlBZTRqUkx1REFB?oc=5",
    "date": "2026-09-25T21:00:16.000Z",
-   "source": "polygon.com",
-   "summary": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected polygon.com"
+   "source": "Polygon.com",
+   "summary": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected Polygon.com"
   },
   {
    "id": "gn-545n58",
@@ -652,17 +661,17 @@
    "date": "2026-09-25T21:00:02.000Z",
    "source": "GAMINGbible",
    "summary": "Free-to-play GTA 6 rival Ananta has a release date and its open world looks wild GAMINGbible"
-  },
-  {
-   "id": "gn-hrrg6",
-   "title": "GTA 6 Fans Recreate $400 Collector’s Edition Figure for Free",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fNmtZb3RLSTdSX1Y5cHpxUU9BS0hUWEg3Z2RxV2lGckxUUUlGb04xZjJmZ05rSnF1WjF3S3BaY3MzWW9uUmpQbHYydXpNdTZFenJEY2lXbzNqSFJyaUZLQnhrLW8xb0I5VTJmd28zY1dSdl84MEE?oc=5",
-   "date": "2026-09-25T20:46:24.000Z",
-   "source": "AOL.com",
-   "summary": "GTA 6 Fans Recreate $400 Collector’s Edition Figure for Free AOL.com"
   }
  ],
  "community": [
+  {
+   "id": "rd-1bvqamq",
+   "title": "We’re now closer to the release of GTA 6 than when the Extended Look was announced!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wrxzna/were_now_closer_to_the_release_of_gta_6_than_when/",
+   "date": "2026-09-27T22:44:33.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/SamikQlifa [link] [comments]"
+  },
   {
    "id": "rd-du0f54",
    "title": "GTA VI really feels like a generational leap",
@@ -974,14 +983,6 @@
    "date": "2026-09-25T19:35:32.000Z",
    "source": "r/GTA6",
    "summary": "Been waiting for Weather & Wildlife info for some time now lfg!!! submitted by /u/Pistoluislero [link] [comments]"
-  },
-  {
-   "id": "rd-1blzffa",
-   "title": "Remember the very first GTA6 teaser?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq4g45/remember_the_very_first_gta6_teaser/",
-   "date": "2026-09-25T18:47:48.000Z",
-   "source": "r/GTA6",
-   "summary": "The picture of the house in GTA san Andreas DE i think it was hanging on a wall in a bar. This picture was found before the first official mention before the first incident. Making it our very first r"
   }
  ]
 }
