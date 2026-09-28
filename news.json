@@ -1,28 +1,28 @@
 {
- "generated": "2026-09-28T03:19:01.372Z",
+ "generated": "2026-09-28T10:03:30.535Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-28T03:19:01.372Z"
+   "checked": "2026-09-28T10:03:30.535Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-28T03:19:01.372Z",
-   "error": "HTTP 404"
+   "checked": "2026-09-28T10:03:30.535Z"
   },
   "googlenews": {
-   "ok": true,
+   "ok": false,
    "count": 102,
-   "checked": "2026-09-28T03:19:01.372Z"
+   "checked": "2026-09-28T10:03:30.535Z",
+   "error": "HTTP 503"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-28T03:19:01.372Z"
+   "checked": "2026-09-28T10:03:30.535Z"
   }
  },
  "official": [
@@ -665,12 +665,84 @@
  ],
  "community": [
   {
+   "id": "rd-u35f8f",
+   "title": "Gta 6 will be what we look back on as the first “True next gen game”",
+   "url": "https://www.reddit.com/r/GTA6/comments/1ws8cbf/gta_6_will_be_what_we_look_back_on_as_the_first/",
+   "date": "2026-09-28T07:47:22.000Z",
+   "source": "r/GTA6",
+   "summary": "Cant wait for everyone to hail Gta 6 as the first “True” next gen game of this decade. Bar none I see this feeling like a literal Ps6 game. How do you guys feel? Im so amped. Less than two month’s til"
+  },
+  {
+   "id": "rd-1mftzjs",
+   "title": "GTA 6 has construction sites with actual workers, equipment and supplies being transported!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1ws83i6/gta_6_has_construction_sites_with_actual_workers/",
+   "date": "2026-09-28T07:31:46.000Z",
+   "source": "r/GTA6",
+   "summary": "You can spot construction materials being transported, an excavator, workers, equipment and an unfinished building. This is wild! submitted by /u/dubdizzle99 [link] [comments]"
+  },
+  {
+   "id": "rd-1w0a8s7",
+   "title": "THEORY: RDR2 states will have license plates in GTA 6, and we've already seen some of them.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1ws7bvz/theory_rdr2_states_will_have_license_plates_in/",
+   "date": "2026-09-28T06:45:03.000Z",
+   "source": "r/GTA6",
+   "summary": "New Hanover has an Oklahoma-esque license plate as the state represents Arkansas, Oklahoma, and Nebraska New Austin has an Arizona plate because it represents New Mexico, Arizona, and Texas Lemoyne ha"
+  },
+  {
+   "id": "rd-1jag88o",
+   "title": "It’s a sequel I’m waiting for just as much as GTA6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1ws70hs/its_a_sequel_im_waiting_for_just_as_much_as_gta6/",
+   "date": "2026-09-28T06:25:54.000Z",
+   "source": "r/GTA6",
+   "summary": "Damn, this is a masterpiece. I’d love to see a sequel made in GTA 6 graphics. It really made perfect use of the green screen, and MELTDOWN 2 is ready to shock the world. submitted by /u/PowerfulBreath"
+  },
+  {
+   "id": "rd-106xdfd",
+   "title": "I wonder if this scene with Jason backyard wrestling will be some sort of side content like a stranger mission or if it’ll be apart of the main story like Arthur’s bar fight in rdr2",
+   "url": "https://www.reddit.com/r/GTA6/comments/1ws4vcr/i_wonder_if_this_scene_with_jason_backyard/",
+   "date": "2026-09-28T04:23:21.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Penisface72828 [link] [comments]"
+  },
+  {
+   "id": "rd-1879vzp",
+   "title": "Mark my words; GTA 6 will 10000% have a chainsaw wielding maniac",
+   "url": "https://www.reddit.com/r/GTA6/comments/1ws3n60/mark_my_words_gta_6_will_10000_have_a_chainsaw/",
+   "date": "2026-09-28T03:18:51.000Z",
+   "source": "r/GTA6",
+   "summary": "Rockstar has a big history with including fan theories into their next projects (big foot, ghosts, aliens, etc etc). GTA 5 though doesn't really have any fan theories left over that could be ported ov"
+  },
+  {
+   "id": "rd-fm87mh",
+   "title": "Will R* be bringing these beasts back?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1ws36e1/will_r_be_bringing_these_beasts_back/",
+   "date": "2026-09-28T02:55:31.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Emotional-Direction3 [link] [comments]"
+  },
+  {
+   "id": "rd-sv75y2",
+   "title": "I hope we hear more about Mount Kalaga in Game Informer’s GTA 6 magazine 🤞",
+   "url": "https://www.reddit.com/r/GTA6/comments/1ws284n/i_hope_we_hear_more_about_mount_kalaga_in_game/",
+   "date": "2026-09-28T02:06:35.000Z",
+   "source": "r/GTA6",
+   "summary": "We haven’t seen much of the state park officially since May of last year ( unless you count that short dirt biking clip in the extended look ) I for one really am hoping they show off more of this bea"
+  },
+  {
    "id": "rd-1bvqamq",
    "title": "We’re now closer to the release of GTA 6 than when the Extended Look was announced!",
    "url": "https://www.reddit.com/r/GTA6/comments/1wrxzna/were_now_closer_to_the_release_of_gta_6_than_when/",
    "date": "2026-09-27T22:44:33.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/SamikQlifa [link] [comments]"
+  },
+  {
+   "id": "rd-1dmzjqh",
+   "title": "I found Rideout Customs in the extended look",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wrssx6/i_found_rideout_customs_in_the_extended_look/",
+   "date": "2026-09-27T19:13:28.000Z",
+   "source": "r/GTA6",
+   "summary": "Yeah, nothing big But it's a cool discovery imo, Hope you'll think the same submitted by /u/Prior_Let2706 [link] [comments]"
   },
   {
    "id": "rd-du0f54",
@@ -911,78 +983,6 @@
    "date": "2026-09-26T03:49:19.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Erin_-M [link] [comments]"
-  },
-  {
-   "id": "rd-1jxtsuj",
-   "title": "The number of airports/airfields on the mapping project has me excited!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqgbss/the_number_of_airportsairfields_on_the_mapping/",
-   "date": "2026-09-26T03:42:52.000Z",
-   "source": "r/GTA6",
-   "summary": "It looks like they've addressed the lack of airports that was in gta 5! submitted by /u/Objectsinspace3 [link] [comments]"
-  },
-  {
-   "id": "rd-1jh8x3y",
-   "title": "One lap around Port Gellhorn Raceway is roughly the same distance as driving from Los Santos to Paleto Bay.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqfya2/one_lap_around_port_gellhorn_raceway_is_roughly/",
-   "date": "2026-09-26T03:22:46.000Z",
-   "source": "r/GTA6",
-   "summary": "A full lap of Port Gellhorn Raceway is approximately 9.8 km, roughly the same distance as driving from East Los Santos Highway in Murrieta Heights to just before Paleto Bay. submitted by /u/nikson_sha"
-  },
-  {
-   "id": "rd-1fmf3ny",
-   "title": "The length of the Leonida Keys is about the same as going from the southern tip of Los Santos to the middle of the Alamo Sea",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqdkda/the_length_of_the_leonida_keys_is_about_the_same/",
-   "date": "2026-09-26T01:20:08.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Pizzafriedchickenn [link] [comments]"
-  },
-  {
-   "id": "rd-av81r4",
-   "title": "Made Macca in 3D for printing",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqbt82/made_macca_in_3d_for_printing/",
-   "date": "2026-09-25T23:56:25.000Z",
-   "source": "r/GTA6",
-   "summary": "What do you guys think? hehe :) submitted by /u/AssassinSusie [link] [comments]"
-  },
-  {
-   "id": "rd-63299u",
-   "title": "Fan art",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqb1j3/fan_art/",
-   "date": "2026-09-25T23:20:12.000Z",
-   "source": "r/GTA6",
-   "summary": "I made some little drawings, mostly from the trailers submitted by /u/grkmstlm1907 [link] [comments]"
-  },
-  {
-   "id": "rd-1cuta9v",
-   "title": "Jason’s scar",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq89we/jasons_scar/",
-   "date": "2026-09-25T21:19:55.000Z",
-   "source": "r/GTA6",
-   "summary": "Not sure if it has been discussed before, i did notice the scar on the extended look but now it’s clear with game informer’s cover artwork. submitted by /u/Early-Implement-8853 [link] [comments]"
-  },
-  {
-   "id": "rd-177fa0v",
-   "title": "Anyone else planning to just ride the monorail around Leonida for fun when it drops?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq8647/anyone_else_planning_to_just_ride_the_monorail/",
-   "date": "2026-09-25T21:15:33.000Z",
-   "source": "r/GTA6",
-   "summary": "Haven't seen much discussion about this so had to make this post. Kinda obsessed with how this elevated rail system looks ngl. Feels like the first GTA where public transport actually looks like a pla"
-  },
-  {
-   "id": "rd-1r82pys",
-   "title": "The Game Informer cover car is the 1967 Vapid Dominator",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq6gez/the_game_informer_cover_car_is_the_1967_vapid/",
-   "date": "2026-09-25T20:06:33.000Z",
-   "source": "r/GTA6",
-   "summary": "The 1967 Vapid Dominator is based on the 1967 Ford Mustang convertible. gta.wiki/1967_Dominator submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-yxraa6",
-   "title": "Game Informer article will have exclusive quotes with new details on the advanced weather system & the wildlife.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wq5nx3/game_informer_article_will_have_exclusive_quotes/",
-   "date": "2026-09-25T19:35:32.000Z",
-   "source": "r/GTA6",
-   "summary": "Been waiting for Weather & Wildlife info for some time now lfg!!! submitted by /u/Pistoluislero [link] [comments]"
   }
  ]
 }
