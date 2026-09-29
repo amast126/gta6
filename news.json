@@ -1,28 +1,27 @@
 {
- "generated": "2026-09-29T02:39:27.337Z",
+ "generated": "2026-09-29T09:25:21.627Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-29T02:39:27.337Z"
+   "checked": "2026-09-29T09:25:21.627Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-29T02:39:27.337Z",
-   "error": "HTTP 404"
+   "checked": "2026-09-29T09:25:21.627Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-09-29T02:39:27.337Z"
+   "checked": "2026-09-29T09:25:21.627Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-29T02:39:27.337Z"
+   "checked": "2026-09-29T09:25:21.627Z"
   }
  },
  "official": [
@@ -183,6 +182,38 @@
  ],
  "press": [
   {
+   "id": "gn-1nr6x44",
+   "title": "Why Is Everyone Talking About LA Noire 2 All of a Sudden?",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVThPVmZncERsbHh3MHFYNFBhcHI4S2FCMWZuWFU1a1JrU3VtOWo4bUZqR21oYzk4ekhSanpzYy1aVld4UjJySTc5RGphY2c0ZF9kRzIyQnliOFoxdXVxMzZOVEVTaGxLbVdJcmFtRmhTV2tnOHZGM3psUjdyNXFBNGhpc0I1R05SR0RNcThGdUdnaTB1Z25XODl3cXdLblhxTVBaOXBxQlo?oc=5",
+   "date": "2026-09-29T07:00:04.000Z",
+   "source": "IGN",
+   "summary": "Why Is Everyone Talking About LA Noire 2 All of a Sudden? IGN"
+  },
+  {
+   "id": "gn-j3d16y",
+   "title": "L.A. Noire 2 After GTA 6? Leak Goes Viral Again, but Rockstar Confirms Nothing",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblJWenNmZE5tUkRZVy1GWTNRSXNxbkVsT24tM0tORkxjeEV3NFdzZ2pFdHNLeUxlbmRiWHFBVWpFZ2tSMVJXd1JwbG9Sa2dpRG9laDdyQ3ZMZUJZVnh1UTdSSHNsSkUxVEtGaHprRGVwLVJnVkFTZkQ3RUVHTGFIcEd3UQ?oc=5",
+   "date": "2026-09-29T06:43:10.000Z",
+   "source": "Pasquale Pillitteri",
+   "summary": "L.A. Noire 2 After GTA 6? Leak Goes Viral Again, but Rockstar Confirms Nothing Pasquale Pillitteri"
+  },
+  {
+   "id": "gn-zn61kx",
+   "title": "Top 3 Best Sites to Buy GTA 6 Boosting Services Reviewed",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQelZUdEJwTnUtb1plNmRSTWN5SExqX1E3NHNUUFgteXJ0cmxpcDJEN041VnFod2djWEFad05xU0g5cDFhUUFrZWtjRVVMOVdwc1AwOV9oeDExNFZ6OE5UaUZmNmxsV3Myb2RUdVF1MEhrMm5KUUY4REo5dHhxMTh4alVoUENUdDIyNElLdmRxbEdTQlJD?oc=5",
+   "date": "2026-09-29T05:01:09.000Z",
+   "source": "South Florida Reporter",
+   "summary": "Top 3 Best Sites to Buy GTA 6 Boosting Services Reviewed South Florida Reporter"
+  },
+  {
+   "id": "gn-onlgn5",
+   "title": "A detailed comparison of the graphics of Grand Theft Auto VI and the original Vice City",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW40aEw4M1BCQmR4Wm9tUFlOTzJ3MjFrZjA3b3E5MHN4bFhRM0dYanYxdWtiLXFmRDRaaEFXQkNoQjJDR3JiZllZanQ4S1YzcnF6c1VtNTJNMV85TVVQTVlRcmIxdFFRbmlzd1lGRC0zX3JBWGFpdWZhUWxuejBqWHRXNEloamZfalE1SnJWVU4xNjFSU25aY0xBYjRVNnpaNkVIRGZR?oc=5",
+   "date": "2026-09-29T03:45:34.000Z",
+   "source": "GameGPU",
+   "summary": "A detailed comparison of the graphics of Grand Theft Auto VI and the original Vice City GameGPU"
+  },
+  {
    "id": "gn-yl64ik",
    "title": "'GTA 6' Officially Confirms New Advanced Weather System Based on Real-Life Florida",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVV4NzJWZWgxa2JMMVM3YUUwMWpsWEVxUnYtWC04Z1NYRlV4T0hYNHluRFpMLXRYbDhTeDl6YTU4OVgwcXpib2F5WWdFNUZzVDVrS00yM2NhVVU5bVUxSkFUSXQwWllkT3lJeXJiaHV6MnhLNlhneXlSdEZJaEtHVzlaSHpQTW1SSnFnS0NSRlpuSUxyTzAwcmVPNnJjQ3pIODdtU25ITW03WDg?oc=5",
@@ -199,6 +230,14 @@
    "summary": "GTA 6’s $400 Collector’s Edition Is the Latest Example of a Horrible Trend Polygon.com"
   },
   {
+   "id": "gn-156la05",
+   "title": "GTA 6 Online Files Leak: Xbox Store Lists 4 Packages [2026]",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03NnJRbWhkVEZQb29IVVRuRmJOckU0ZWFCWHhia0l5Yk5WSE1TVHBCU0Q2RTN6cXg1VUJIQ2VYRUFabjJMZDFCUTJmSDltSEs1Q08tN29ZVmp1dGNiN3pJRVlRdWtLeDhrNDh1RktmR3VSUGs0?oc=5",
+   "date": "2026-09-28T22:27:28.000Z",
+   "source": "shattered.io",
+   "summary": "GTA 6 Online Files Leak: Xbox Store Lists 4 Packages [2026] shattered.io"
+  },
+  {
    "id": "gn-ck54j0",
    "title": "When Does Game Informer’s GTA 6 Magazine Come Out? Release Times, Explained",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVRoWExxUHR0Nkt4NmJWb2EyOEFSTkVjRTlDbDJzTGhiYVJSSUV4c3pFR2VpWHptdVRHQWxOTEhXMUVyWXhnZWZ6NTVtUmFMRExCY2YxSlZONnFoUGpaUGN4SGJRZG01Z1phZjR1bzY2VnR2Qm5PcmhYM1hJTkNqcQ?oc=5",
@@ -211,8 +250,8 @@
    "title": "GTA 6 'connected universe' theory gains traction as Red Dead Redemption 2 easter eggs continue",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakZsZlh1VHhaYUxhTHJwSTQwa05ZV3F2dlVFVENsX1g4cnY0dk00V190UXVlVG9TNmJhZ2xNWi0zYlhWcER1bUNJQmNMdmE4ZVgyWEotTjhiUk4xT0plT1BsOEExUU05eEtoZHJmaUJEcEhtS21mWEFrOWZUVEdpZ2dQOTlWY0F4ZVpITWtMQUladXVpNkxhZVZFczUzNmtyOEdiNA?oc=5",
    "date": "2026-09-28T21:00:01.000Z",
-   "source": "gamingbible.com",
-   "summary": "GTA 6 'connected universe' theory gains traction as Red Dead Redemption 2 easter eggs continue gamingbible.com"
+   "source": "GAMINGbible",
+   "summary": "GTA 6 'connected universe' theory gains traction as Red Dead Redemption 2 easter eggs continue GAMINGbible"
   },
   {
    "id": "gn-3d3p30",
@@ -411,8 +450,8 @@
    "title": "Could The Witcher 3 Remastered Dominate the Road to GTA 6?",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORHV6aWNwcFNwTW5HWl9VVkVOcnkybDNKckhveUNTaVJwaDF4YTBUU1Z1ajZLRGxvSmRkM2VSMWpXbWxHSFNUbDhoZjVqMmJCbHVJN0lLWTBFTzZhOEFwTXlyNEhVVzJYR2lYaE1OT3llZzNBUGVVOFlBSzlUTjhid1pYMG5HeUk?oc=5",
    "date": "2026-09-28T13:36:15.000Z",
-   "source": "GamingBolt",
-   "summary": "Could The Witcher 3 Remastered Dominate the Road to GTA 6? GamingBolt"
+   "source": "gamingbolt.com",
+   "summary": "Could The Witcher 3 Remastered Dominate the Road to GTA 6? gamingbolt.com"
   },
   {
    "id": "gn-1bs1cxv",
@@ -451,8 +490,8 @@
    "title": "Rockstar Games highly anticipated sequel reportedly coming after GTA 6",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVlUNjAwUE1YSnFURlJPOGJ4TXhzSjRjTEJrd0VabC0tTEpGeXRNRjNtS3UwOWprdU5tN2NhdzBnSnlsUllXaEt6WFI0dGpGQXRmejlQYjNpY1lKVmFYR3RVbW4wbmI4bjBJdk8wbThuOEVFMi0wM0psenpnbVNFSHZoRkVfMzJCMlN4WWJ4M2pSejliT0FDUEpDVQ?oc=5",
    "date": "2026-09-28T10:01:49.000Z",
-   "source": "gamingbible.com",
-   "summary": "Rockstar Games highly anticipated sequel reportedly coming after GTA 6 gamingbible.com"
+   "source": "GAMINGbible",
+   "summary": "Rockstar Games highly anticipated sequel reportedly coming after GTA 6 GAMINGbible"
   },
   {
    "id": "gn-w252w5",
@@ -461,6 +500,14 @@
    "date": "2026-09-28T09:41:53.000Z",
    "source": "The Shortcut | Matt Swider",
    "summary": "GTA 6 Collector’s Edition is giving major deja vu The Shortcut | Matt Swider"
+  },
+  {
+   "id": "gn-2o5ozo",
+   "title": "New Official GTA 6 Teaser Released By Rockstar Games",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jM1JONXRhbHd6TXg4djF2N3E0ZjJuNll4d1pyREx5YkYxOG9ESjVGQnVzTU03T0gxckJXNThIbUlUdDl0STNPRjVkUU9XVFRHa3Vzd0JaXzVvN2tPZ1JBNTB2azhlZ2ZBVE1HMU9lTE9JZw?oc=5",
+   "date": "2026-09-28T09:27:08.000Z",
+   "source": "screenrant.com",
+   "summary": "New Official GTA 6 Teaser Released By Rockstar Games screenrant.com"
   },
   {
    "id": "gn-13njbbu",
@@ -531,8 +578,8 @@
    "title": "A former Rockstar developer explained why GTA 6 doesn't make sense for the Switch 2.",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNF85ZWxlMG9SbmZfX3B5VHF4U0E4QU4zNHpOWVU5MGd2eHJWUDRORHhkTFFtRDZudy1pTlBsWDBkT0xTODJFRFduSE5Zd1BPWG9lcm1uZlZiRENLVXhvYVZIUWlhNVpCb29ndVBDQzRwUm0taGZ4Zm5KbXBPekVpQ3VoZFVYSEZJNm93QUotcGJUcUQ1MGpxOHF1ZVgtQ1NHQVVxV0hfU2NwcWZ6T3RhOVlpSFNUa2VjSzZpZDlnaw?oc=5",
    "date": "2026-09-27T22:21:36.000Z",
-   "source": "en.gamegpu.com",
-   "summary": "A former Rockstar developer explained why GTA 6 doesn't make sense for the Switch 2. en.gamegpu.com"
+   "source": "GameGPU",
+   "summary": "A former Rockstar developer explained why GTA 6 doesn't make sense for the Switch 2. GameGPU"
   },
   {
    "id": "gn-19rkb4l",
@@ -595,8 +642,8 @@
    "title": "GTA 6 getting new dump of information next week, mark your calendars",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHo5ZGlWX19YWFRfWF9iRmkyZFdBN2dKWThsQzZuZVV0Vl9sWC1DdUpqNEtJZzVNRkdid2VNYUkza3NyWDlleW5GRlcwdUczTDY0MkF3UkstMXA2NEtqMFlmWDRIaW9xM3pqTzZrM281U2FKYjFDdVFFM29ESkY1VWprbw?oc=5",
    "date": "2026-09-27T13:00:00.000Z",
-   "source": "gamingbible.com",
-   "summary": "GTA 6 getting new dump of information next week, mark your calendars gamingbible.com"
+   "source": "GAMINGbible",
+   "summary": "GTA 6 getting new dump of information next week, mark your calendars GAMINGbible"
   },
   {
    "id": "gn-h2jkal",
@@ -613,57 +660,57 @@
    "date": "2026-09-27T08:30:32.000Z",
    "source": "KitGuru",
    "summary": "Rockstar unveils $400 GTA VI collector’s box with no game included KitGuru"
-  },
-  {
-   "id": "gn-3gqhdz",
-   "title": "GTA 6’s Collectors Edition is $400+ and doesn’t come with the game",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzI0OW13SHpaak5XSWhmNXJYaTJscUIzQS0zZ3R6UTRacy1SbGtzamlFWnZ2OFpUajFDX0pCdGNUTFQ1a0hIQXIwMTQzRDNrbzh5QkJocnRKRW9sVEJwanBxS1pMWTZhS2FmdFdZbDYyMWR6V2o3azRuUFIxcnY1MHd1bDlieVZqMjhVdGlDY2NKSFk5dHkzNi1iMmVIUHZseUZ6cTN5bmc?oc=5",
-   "date": "2026-09-27T07:35:05.000Z",
-   "source": "checkpointgaming.net",
-   "summary": "GTA 6’s Collectors Edition is $400+ and doesn’t come with the game checkpointgaming.net"
-  },
-  {
-   "id": "gn-1a68dha",
-   "title": "Too much is expected from GTA VI: Insider Gaming editorial predicts scores below 90 points",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNclgtb1VicVVrM1FERjA2T1U0dFI5WnEyXzlQUV9OUWJCalBsTDBlNTdNVmxlYjF2Tkh6UE94TjJBUF9kN1Zob2RxZm1IWFBjX2hpeHMyZEVTd2tDenNVNF9lSlZMTHpKTWR4TXZWeVQ5WGpQVkpYOGhxYzY3SmlCeXFCWmw4MmtwY005eEFJVHJYNEw1RHg1bUdwU1pUZlpkcW4zQUxXckJpeGpPZ0diRWJNUU92UTF2R0U1N3h4ZUxxWHNOVnFIOHBCaDl1R2ZPWlFIdlZkRdIB3AFBVV95cUxNMWE0UUNfV1NHU2dvSEdVZXNEQjhuWGNpOVJNTER2aEphUi1LQ19LWkw4Zkg0Z3JOT01pR2xIdFZySVJNRUk4cS1fS0w0VkFRRTdpLWltWkY5MWM0c0RPTlN4X1NPTG9QS25uR3pmYzV3UzhKUWFSSlp2XzBXLXZrODZzRnQ3WUxwVmU0Y0NWSmlDaWEyQjRBSkMtalhkU2tFNVdLR3EzRWR5ZDFaS2JzbjNGV0U2M1VMYy1sVXRCLURCNDVkUnl3WEcwSjVjMHphd1EzMV9SX0E1UG91?oc=5",
-   "date": "2026-09-27T06:14:51.000Z",
-   "source": "ixbt.games",
-   "summary": "Too much is expected from GTA VI: Insider Gaming editorial predicts scores below 90 points ixbt.games"
-  },
-  {
-   "id": "gn-1t67mwh",
-   "title": "Why I chose to buy a Nintendo Switch 2 instead of GTA 6 - Reader’s Feature",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZmtaQW1QM2lBYmd5U1JKV1g4aWhPcTU4bmg5VWY4Q0Q0UGZIaE11MlRIc1c3MjZCVkdOS3lNZFhBMzVOUTFTQmJoVkFyNnJwWDZZaElYQ3gySkd5WXJkRUNRNTZlaWg4X1dJSDlsY1l6MkVsanFMWFVVNE4xdDNHTWNzcFFEc21RbnNiWExZTkpqVXBKVGFIcHF3Zm8tQjVtUEHSAacBQVVfeXFMTWh1WDNJUFhNaVRuUEVkR0o1Q0RXNzlkRDRzb1lpSFpzNFlxRVhsNTQxUVV0V29PN3EzVXc5bmlEdU1tOGxoVnBEd013dlV2Zl90YzJ5bGRJVnF1b2RSTnBaenZZanN3OG0za1RuTm5KWk9mcmtJWENGaW9Oa3d5T0Z0dkJzT0FNQktLZUtMcW8waThlZGFWNXBaRG1HamdEVkp0bmkxbEU?oc=5",
-   "date": "2026-09-27T05:00:00.000Z",
-   "source": "Metro.co.uk",
-   "summary": "Why I chose to buy a Nintendo Switch 2 instead of GTA 6 - Reader’s Feature Metro.co.uk"
-  },
-  {
-   "id": "gn-1j6mb8m",
-   "title": "GTA 6 players plan to ditch cars to explore the world's details",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNWprLS1fOTFaaWJrQVhLUERURjRuRjV6UzFNbml6YjIzODhhWnlZd3FvQlU5anZzYk1tajY2cXdIMUFOVXI3OGpZckxqaC1TalRNWnl6S0w5QWFRaVpIdEktbGlfQnR4YWVrR1ptX29rb1lSN1lNTmVYUTh5XzRxMHh4bjc4dnpaenlGSl83ckJPMWtMNlpIUUlVNVNFWUJ6RTZvWGcxbGFpZw?oc=5",
-   "date": "2026-09-27T02:18:10.000Z",
-   "source": "GameGPU",
-   "summary": "GTA 6 players plan to ditch cars to explore the world's details GameGPU"
-  },
-  {
-   "id": "gn-d0klwl",
-   "title": "In a month, the value of GTA VI publisher fell by almost $6 billion - gameplay showcase and collector's edition announcement did not stop the stock price decline",
-   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOaFlNTGJLa0lwYzhkMEUwTW9qR0xNSVI2YzBJcGgzaFZWWnpCdU13Sk43anplQnNfRDV6eVViRHkxVXJEQ195ejk0ZjducGwxSkhqZWlvNkUtaHBxM1BDRTIyXzVTSVdMWWJ4Y0RnaVJPcVFGbGRWeUtuT3I0Ml9OMm5GV0pIV0M4VDZFdFpmU25tQWFxbmptTHU1VWpTXzJOSDE3SzZxVTNKWC0wd1dWU19QSnhUcDRWbjBqNmhpYWpuTlJLaF9KV043S1BialUzVTNuMzF1SFNsd19Bb0Rjb3NBenpzcURDbWRadFRITERVeG1fT1NoYjZCRkpXMXFoR29ockpJOVp1d3ZnZWFsMkZuS0dFdFJFOUpQbjFhVVlBUdIBpwJBVV95cUxOWGNwSmxMMGlpSDRBOThkRXZaODVSMGpFcXpsWmh4S2dORXJCY1EtMEtUcXJ4Wkc2bVB1eWhwc0xTUnRJWmtuaEVDWnVRV3YtbEI0ckl1b0dwWWN1ZXZDU2VGLVl6cFJ5NmVrY3prcTFuX1ZBWTItUHFGakFjWWlMcFg5QWZuTUVBMVpPemEyUnkySEJkQS1JV29VSDc5d05JVTJuLWlkOG8tb1ZmcW5kZHlJV1dWRWIyWllkREFqNm9meTY1dURNczhsOTlyLXRpYnI3OEJvZlF3eFFZTGVhLWM4T3FtNXh6aTJ3N0pMRHNZYzFXZnYtcjVOQndURWpxdm5tV1VlZDkwSUhBb0MzMG5oX2F1UmFCanA4aFUzN054V0REdm5N?oc=5",
-   "date": "2026-09-27T01:42:21.000Z",
-   "source": "ixbt.games",
-   "summary": "In a month, the value of GTA VI publisher fell by almost $6 billion - gameplay showcase and collector's edition announcement did not stop the stock price decline ixbt.games"
-  },
-  {
-   "id": "gn-osm8gy",
-   "title": "Former Rockstar developer says a GTA 6 Switch 2 port 'doesn't make sense,' but thinks a smartphone version is possible",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdnhzNWJfQURoeEttQko3cU5TTlhhUzFWYlcyZ2R0eXhrQWhUOTV2cHd3Z0dTcXYzU0piR3RKUnJacFMybVlzMENXdkJ3RmZJaUpMalJqU3VoRzExRWJlTTNTX1FsWnlZTjVXTldVN2U0NDlkZThUNjFJVFRKVEtia3NrSUFKQjJTUHotWmxtRVVSVzAzVmRYUENHd2gzMnYwY3RvWmFwZDZ3a3hYLWxmOE5YRVV0bXpSRTZmeno2bmlUOG83MHdZY3FuLWI5dlBQaDJ3WjgxckZtWjg2S0pKMXlxVGFaTWNpUUZOT21xYXk2YTBHOHc?oc=5",
-   "date": "2026-09-26T22:55:08.000Z",
-   "source": "TweakTown",
-   "summary": "Former Rockstar developer says a GTA 6 Switch 2 port 'doesn't make sense,' but thinks a smartphone version is possible TweakTown"
   }
  ],
  "community": [
+  {
+   "id": "rd-4f7x8a",
+   "title": "50 DAYS TO GO! ⏳ We Are In The Home Stretch For GTA 6!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wt44wn/50_days_to_go_we_are_in_the_home_stretch_for_gta_6/",
+   "date": "2026-09-29T07:59:11.000Z",
+   "source": "r/GTA6",
+   "summary": "Credit - @mnm345x on X submitted by /u/poorna_sus14 [link] [comments]"
+  },
+  {
+   "id": "rd-15gz5dw",
+   "title": "Alternative clothing in gta 6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wt1si2/alternative_clothing_in_gta_6/",
+   "date": "2026-09-29T05:36:13.000Z",
+   "source": "r/GTA6",
+   "summary": "I was thinking it could be a nice complement to the clothing customization to have places similar to hot topic (with a different name) and be able to dress Jason with grungy clothes, stripped jeans an"
+  },
+  {
+   "id": "rd-ga8jq",
+   "title": "🚨DRAWBRIDGES CONFIRMED IN GTA 6!!!🚨",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wsxxes/drawbridges_confirmed_in_gta_6/",
+   "date": "2026-09-29T02:14:21.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Equivalent_Bee5652 [link] [comments]"
+  },
+  {
+   "id": "rd-1c688js",
+   "title": "Possible police social media accounts in game?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wsxww0/possible_police_social_media_accounts_in_game/",
+   "date": "2026-09-29T02:13:39.000Z",
+   "source": "r/GTA6",
+   "summary": "I was just looking through the GTA VI Extended look when i noticed this, surprised nobody else has mentioned it yet submitted by /u/AVORANE [link] [comments]"
+  },
+  {
+   "id": "rd-1qczr8t",
+   "title": "Vice City night ambience (like literally the Extended Look without the Netflix surround music track)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wsxuld/vice_city_night_ambience_like_literally_the/",
+   "date": "2026-09-29T02:10:42.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/EtimmT [link] [comments]"
+  },
+  {
+   "id": "rd-vmdal2",
+   "title": "I know a few of these are unconfirmed, but I'm really looking forward to having a lot of airfields/airports to land at",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wswwxf/i_know_a_few_of_these_are_unconfirmed_but_im/",
+   "date": "2026-09-29T01:27:04.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/CaptainJZH [link] [comments]"
+  },
   {
    "id": "rd-vgch2g",
    "title": "Welcome To Vice City",
@@ -935,54 +982,6 @@
    "date": "2026-09-27T05:16:28.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/bitcchlasagna [link] [comments]"
-  },
-  {
-   "id": "rd-z9guuq",
-   "title": "Jason and Lucia’s Personalities",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wrbjly/jason_and_lucias_personalities/",
-   "date": "2026-09-27T05:14:18.000Z",
-   "source": "r/GTA6",
-   "summary": "I Think Jason and Lucia will have similar personalities to Michael Westen and Fiona Glenanne from USA Network’s Burn Notice! Jason’s cool, calm and collected while Lucia’s fiery and outspoken based on"
-  },
-  {
-   "id": "rd-1698rcj",
-   "title": "We can expect TONS of random encounters in GTA VI",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wr5xmr/we_can_expect_tons_of_random_encounters_in_gta_vi/",
-   "date": "2026-09-27T00:22:27.000Z",
-   "source": "r/GTA6",
-   "summary": "MikeShowSha, a content creator who also visited Rockstar North for an exclusive preview talked about one random encounter that occurred whilst watching Rob Nelson play. It was about two female robbers"
-  },
-  {
-   "id": "rd-wjjbzk",
-   "title": "Small detail at 8:20 in the Extended Look — the bird glides first, then flaps",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wr4buv/small_detail_at_820_in_the_extended_look_the_bird/",
-   "date": "2026-09-26T23:06:56.000Z",
-   "source": "r/GTA6",
-   "summary": "Rewatching the Extended Look and noticed this at 8:20. There's a bird in the sky that first just glides for a second and only then starts flapping its wings. Looks actually natural instead of the usua"
-  },
-  {
-   "id": "rd-rxzbgg",
-   "title": "GTA 6’s map will be so packed with detail and cool things to discover that I’ll feel guilty passing by everything in a car. I might just walk around everywhere lol.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wr1l6f/gta_6s_map_will_be_so_packed_with_detail_and_cool/",
-   "date": "2026-09-26T21:04:11.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Ember57 [link] [comments]"
-  },
-  {
-   "id": "rd-brpu35",
-   "title": "I was looking into GTA VI pre-installation and was wondering what do you think will be \"Extra\" ?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqwsli/i_was_looking_into_gta_vi_preinstallation_and_was/",
-   "date": "2026-09-26T17:48:19.000Z",
-   "source": "r/GTA6",
-   "summary": "Everything is on the title, we have the story, the content of the ultimate édition (bought it) but extra too submitted by /u/Free_Wafer2002 [link] [comments]"
-  },
-  {
-   "id": "rd-urshiy",
-   "title": "GTA 6 Movie Poster (fan edit by me)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqu7os/gta_6_movie_poster_fan_edit_by_me/",
-   "date": "2026-09-26T16:03:59.000Z",
-   "source": "r/GTA6",
-   "summary": "I made this cool movie poster. I hope you guys like it. :D submitted by /u/Benjaminterlinked [link] [comments]"
   }
  ]
 }
