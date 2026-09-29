@@ -1,27 +1,28 @@
 {
- "generated": "2026-09-28T23:26:07.656Z",
+ "generated": "2026-09-29T02:39:27.337Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-28T23:26:07.656Z"
+   "checked": "2026-09-29T02:39:27.337Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-28T23:26:07.656Z"
+   "checked": "2026-09-29T02:39:27.337Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-09-28T23:26:07.656Z"
+   "checked": "2026-09-29T02:39:27.337Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-28T23:26:07.656Z"
+   "checked": "2026-09-29T02:39:27.337Z"
   }
  },
  "official": [
@@ -182,6 +183,14 @@
  ],
  "press": [
   {
+   "id": "gn-yl64ik",
+   "title": "'GTA 6' Officially Confirms New Advanced Weather System Based on Real-Life Florida",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVV4NzJWZWgxa2JMMVM3YUUwMWpsWEVxUnYtWC04Z1NYRlV4T0hYNHluRFpMLXRYbDhTeDl6YTU4OVgwcXpib2F5WWdFNUZzVDVrS00yM2NhVVU5bVUxSkFUSXQwWllkT3lJeXJiaHV6MnhLNlhneXlSdEZJaEtHVzlaSHpQTW1SSnFnS0NSRlpuSUxyTzAwcmVPNnJjQ3pIODdtU25ITW03WDg?oc=5",
+   "date": "2026-09-29T02:25:12.000Z",
+   "source": "player.one",
+   "summary": "'GTA 6' Officially Confirms New Advanced Weather System Based on Real-Life Florida player.one"
+  },
+  {
    "id": "gn-heq6k",
    "title": "GTA 6’s $400 Collector’s Edition Is the Latest Example of a Horrible Trend",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91dzRURTVpd1g1WUdqZ2hfT29adWRlMlNZZjNWdkJybk8ycUZpMmZwYmNlU1F0cUhVN1pyVEUtWjc5S1RnYzJWZWJlRnY3UVpOQXNSWDdXY2x1dWRSZjVtLU9pd3lmREVjakNoRk5xOTJvdUZI?oc=5",
@@ -199,11 +208,11 @@
   },
   {
    "id": "gn-1l12ltd",
-   "title": "GTA 6 ‘connected universe’ theory gains steam with new RDR2 connection",
+   "title": "GTA 6 'connected universe' theory gains traction as Red Dead Redemption 2 easter eggs continue",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakZsZlh1VHhaYUxhTHJwSTQwa05ZV3F2dlVFVENsX1g4cnY0dk00V190UXVlVG9TNmJhZ2xNWi0zYlhWcER1bUNJQmNMdmE4ZVgyWEotTjhiUk4xT0plT1BsOEExUU05eEtoZHJmaUJEcEhtS21mWEFrOWZUVEdpZ2dQOTlWY0F4ZVpITWtMQUladXVpNkxhZVZFczUzNmtyOEdiNA?oc=5",
    "date": "2026-09-28T21:00:01.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 ‘connected universe’ theory gains steam with new RDR2 connection GAMINGbible"
+   "source": "gamingbible.com",
+   "summary": "GTA 6 'connected universe' theory gains traction as Red Dead Redemption 2 easter eggs continue gamingbible.com"
   },
   {
    "id": "gn-3d3p30",
@@ -410,8 +419,8 @@
    "title": "New GTA 6 Artwork Shows Jason And Lucia In Bullet-Riddled Getaway Car",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS3lwY2lsMWdOSTBjQWl6Yk1YTlpzWllHcTRXamZnd3dpV1NNZndGZTg5V3ZtWGNCNmZPRnphelZrQWJIUWR4eFBteERBdXhjSXFIUGZQOVo3Yk1RUk9PeUVjZUxBZUxMd2N5OUUxT0Fwc1lwM2c5ODRxUW9XR2dsRThqRlJCcjhpYU1YZTQ2SXVQOTZrSHc?oc=5",
    "date": "2026-09-28T13:27:00.000Z",
-   "source": "hothardware.com",
-   "summary": "New GTA 6 Artwork Shows Jason And Lucia In Bullet-Riddled Getaway Car hothardware.com"
+   "source": "HotHardware",
+   "summary": "New GTA 6 Artwork Shows Jason And Lucia In Bullet-Riddled Getaway Car HotHardware"
   },
   {
    "id": "gn-10tsbhr",
@@ -442,8 +451,8 @@
    "title": "Rockstar Games highly anticipated sequel reportedly coming after GTA 6",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVlUNjAwUE1YSnFURlJPOGJ4TXhzSjRjTEJrd0VabC0tTEpGeXRNRjNtS3UwOWprdU5tN2NhdzBnSnlsUllXaEt6WFI0dGpGQXRmejlQYjNpY1lKVmFYR3RVbW4wbmI4bjBJdk8wbThuOEVFMi0wM0psenpnbVNFSHZoRkVfMzJCMlN4WWJ4M2pSejliT0FDUEpDVQ?oc=5",
    "date": "2026-09-28T10:01:49.000Z",
-   "source": "GAMINGbible",
-   "summary": "Rockstar Games highly anticipated sequel reportedly coming after GTA 6 GAMINGbible"
+   "source": "gamingbible.com",
+   "summary": "Rockstar Games highly anticipated sequel reportedly coming after GTA 6 gamingbible.com"
   },
   {
    "id": "gn-w252w5",
@@ -522,8 +531,8 @@
    "title": "A former Rockstar developer explained why GTA 6 doesn't make sense for the Switch 2.",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNF85ZWxlMG9SbmZfX3B5VHF4U0E4QU4zNHpOWVU5MGd2eHJWUDRORHhkTFFtRDZudy1pTlBsWDBkT0xTODJFRFduSE5Zd1BPWG9lcm1uZlZiRENLVXhvYVZIUWlhNVpCb29ndVBDQzRwUm0taGZ4Zm5KbXBPekVpQ3VoZFVYSEZJNm93QUotcGJUcUQ1MGpxOHF1ZVgtQ1NHQVVxV0hfU2NwcWZ6T3RhOVlpSFNUa2VjSzZpZDlnaw?oc=5",
    "date": "2026-09-27T22:21:36.000Z",
-   "source": "GameGPU",
-   "summary": "A former Rockstar developer explained why GTA 6 doesn't make sense for the Switch 2. GameGPU"
+   "source": "en.gamegpu.com",
+   "summary": "A former Rockstar developer explained why GTA 6 doesn't make sense for the Switch 2. en.gamegpu.com"
   },
   {
    "id": "gn-19rkb4l",
@@ -586,8 +595,8 @@
    "title": "GTA 6 getting new dump of information next week, mark your calendars",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHo5ZGlWX19YWFRfWF9iRmkyZFdBN2dKWThsQzZuZVV0Vl9sWC1DdUpqNEtJZzVNRkdid2VNYUkza3NyWDlleW5GRlcwdUczTDY0MkF3UkstMXA2NEtqMFlmWDRIaW9xM3pqTzZrM281U2FKYjFDdVFFM29ESkY1VWprbw?oc=5",
    "date": "2026-09-27T13:00:00.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 getting new dump of information next week, mark your calendars GAMINGbible"
+   "source": "gamingbible.com",
+   "summary": "GTA 6 getting new dump of information next week, mark your calendars gamingbible.com"
   },
   {
    "id": "gn-h2jkal",
@@ -652,17 +661,17 @@
    "date": "2026-09-26T22:55:08.000Z",
    "source": "TweakTown",
    "summary": "Former Rockstar developer says a GTA 6 Switch 2 port 'doesn't make sense,' but thinks a smartphone version is possible TweakTown"
-  },
-  {
-   "id": "gn-aloe5m",
-   "title": "Manor Lords Publisher Not Afraid to Release Game on GTA VI Release Day - PC Gamers \"Wanting to Steal Cars\" Can Instead Turn Their Attention to a New Simulator",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGd4RTdxTG45UW5rYmxxbGRlVmtwbnN4WnRURXl3UW5wV0o2M0RMbEdlQ2ZLNi1pNHlNY0lzbzMzVWRYOGUyNjVPcEZMWTJFeGhXSEVEdndoOGFkczRJUDBGWWdrTTY1bWg4T2ZKUDQxckVyWHdfNUk2aFhKek5IQkFkYjZab1hwaVE5VUZDZmJ2aHUwQlczU09fN3JYcFIzSVI4MVRMemNLSnhRTllwbXRvTnpkTEMySGpiYlhzZXVXUjNyQ1HSAcsBQVVfeXFMT0JqN3hWeU1CM3o0b0dCUE5SOTR6SXBSQ09JMmc4QVdXVE5FMk5vLU5Kck05c0FvcWg4RG1DZFpPbll0djB3Ym91RFJuMU54ck1GelhVUXdyc0ZQRHRjcTY0SnRacTRHTUJLcDNkNVNmQ0UyNTFZakxVWUNqanRiRF9Xb3MxaUpPODFEWHQ3UVFjaXFzWmhxVzFmd1FSb0w0WXNXSWNYTERhVUFhZVo2bGhCaThkdkNvQXNnMkZPS0R5bzlqOTRjRXJVTmM?oc=5",
-   "date": "2026-09-26T22:46:47.000Z",
-   "source": "ixbt.games",
-   "summary": "Manor Lords Publisher Not Afraid to Release Game on GTA VI Release Day - PC Gamers \"Wanting to Steal Cars\" Can Instead Turn Their Attention to a New Simulator ixbt.games"
   }
  ],
  "community": [
+  {
+   "id": "rd-vgch2g",
+   "title": "Welcome To Vice City",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wsud4i/welcome_to_vice_city/",
+   "date": "2026-09-28T23:28:49.000Z",
+   "source": "r/GTA6",
+   "summary": "Was a complete honor to have helped make this sign for Rockstar. 12 year old me would think I’m pretty cool. submitted by /u/Poopfwrt [link] [comments]"
+  },
   {
    "id": "rd-1s981f8",
    "title": "Console has UI",
@@ -974,14 +983,6 @@
    "date": "2026-09-26T16:03:59.000Z",
    "source": "r/GTA6",
    "summary": "I made this cool movie poster. I hope you guys like it. :D submitted by /u/Benjaminterlinked [link] [comments]"
-  },
-  {
-   "id": "rd-tj6cxo",
-   "title": "Article of the Day #26: Vice Beach Police Station",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wqu4v9/article_of_the_day_26_vice_beach_police_station/",
-   "date": "2026-09-26T16:00:54.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/gtawiki [link] [comments]"
   }
  ]
 }
