@@ -1,28 +1,27 @@
 {
- "generated": "2026-09-30T05:48:31.274Z",
+ "generated": "2026-09-30T11:50:01.739Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-30T05:48:31.274Z"
+   "checked": "2026-09-30T11:50:01.739Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-30T05:48:31.274Z",
-   "error": "HTTP 404"
+   "checked": "2026-09-30T11:50:01.739Z"
   },
   "googlenews": {
    "ok": true,
    "count": 92,
-   "checked": "2026-09-30T05:48:31.274Z"
+   "checked": "2026-09-30T11:50:01.739Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-30T05:48:31.274Z"
+   "checked": "2026-09-30T11:50:01.739Z"
   }
  },
  "official": [
@@ -183,20 +182,140 @@
  ],
  "press": [
   {
+   "id": "gn-1q7x1jg",
+   "title": "GTA 6 map details finally arrive from an official source, and it sounds massive",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc29UaDVQNkZIQ3JxcHpOTklUQU9TUnhoWm1jc1kxN1QySWpTdndoU25yMUdndHJkQkFHaS1HM1RMMlhBZVFRRHhVeEJjQ2xFX1JwU2ZDOTA2S1FoLVZqZS1BLVEzVGRvQmJ2ZC03cW90TG85UW8yRnJZOGZOUk1LaXBMSzY4NS0w?oc=5",
+   "date": "2026-09-30T11:33:56.000Z",
+   "source": "Radio Times",
+   "summary": "GTA 6 map details finally arrive from an official source, and it sounds massive Radio Times"
+  },
+  {
+   "id": "gn-1uzhc45",
+   "title": "GTA 6: Rockstar Developers Visited Strip Clubs and Rode Around at Night With Ex-Cops to Get First-Hand Florida Experience",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQQ0R0YXYyX1ZrNHVKbHJaRnBlMDNQNHBiVjRXQ2dJTlVfV3RfNWYzeVowSjNLSFpER1pFWUs4ZlUwM25wYS1raTZ6SDNXNDlSOHVpM084NHJNMVI0RE9jLTFsSXJSN0ZSWWxoSTFRNXYyZTNKdXJtd24xeHhWRDFxdXZvN0FSYTJNRU02ZFNyd0JkcWJXSi15Q21paWR3U3k3cjc5WmFhemQ0U0plU1NpQ3dsQUlrMnI0UFNUeWg0eEk5M0hZMklJRmpfQUxQcWdBUjRtT2xQSUpkVlZ6dmlnc010SXB1eGg1bWd3czNLUVdEcVE?oc=5",
+   "date": "2026-09-30T11:01:06.000Z",
+   "source": "IGN Southeast Asia",
+   "summary": "GTA 6: Rockstar Developers Visited Strip Clubs and Rode Around at Night With Ex-Cops to Get First-Hand Florida Experience IGN Southeast Asia"
+  },
+  {
+   "id": "gn-187p2js",
+   "title": "‘Grand Theft Auto 6’ map is twice as large as ‘GTA 5’, confirms Rockstar",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm5WMlE2VVJGV2ZyazFTT0VpZDZMRUdTMF9NQ3BLSk9NYThBTTIzWUF3a3BvS295bzBjbkVNMGpQLVBHMUN0X21ENGV6VGd0aGdGbGRSSDBHUXJVdVV0bk9KVXNzaDRLY1JxYXBWTUx0dDVjeUx6Zmpwb0F4b19KaFN4V01HTzlDX1dQZHZJUks5Q1l0RmQxNk02cThVNGlJeU1aaFhDRQ?oc=5",
+   "date": "2026-09-30T10:22:28.000Z",
+   "source": "NME",
+   "summary": "‘Grand Theft Auto 6’ map is twice as large as ‘GTA 5’, confirms Rockstar NME"
+  },
+  {
+   "id": "gn-150vycf",
+   "title": "GTA 6 reveals activities Jason and Lucia can enjoy together beyond criminal missions",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaDMzdlE3MmszMkhpbGQxalM5NnlsSTluWVY1QzVERmxVcXhWVXVaeEJUaXZRMWRpZXZ3UXVBVXJpSlUtRGwzLXktTXZYb0Jza21lSUdvTElQNE80T3lVTDdwV2RSZTNPTy1mZ3BHRXlaWTFrZHExcXZ2djRXd0NUXzJkc2pFbWM4MGJNMWliRzRfWC16T2V5YTJzdDNsczBvR2ZBcGpBWUNydUZZNkFrMDJvWkh0Q1hIUTU4ZGxvSi1LV3YwclNiVWZjUXZ1T05GajMwV0tlbWJzLUdQLXFmeVRiMWF0ckQwOUtKZTRGd0U5bElZTndvX9IB_gFBVV95cUxOS3ZGMDdhVFFOa1FueFhWZUF6R21IZXdWZ191R0hTU3dCaXNQNVlBcFFIX19CZXc5UGdGZkNxWFpOX1kwNWZrZkEtdzJHNWxqSUZ0X0dMT0hEWkktN2JZMXpGcDdVbUpqTVB3SXIyR2Z2V1psMVFNQmZCUnhaYzR5MFI0NzVxTWNzUzF2OXYzZTllSUVJYXBheWF1R04tQ0VhbFVWM0NOclBoSy1Eb1hkRm5WY1o4OGFDdkIyRlItSTJPVnVWVjNFNEVGMXR2T0tUWXJueF80dmswTGVTVmpqaGJFU0JsT3podzhRNm1aZEt5SU1Mc1d2YkNfXzE0Zw?oc=5",
+   "date": "2026-09-30T10:21:00.000Z",
+   "source": "The Times of India",
+   "summary": "GTA 6 reveals activities Jason and Lucia can enjoy together beyond criminal missions The Times of India"
+  },
+  {
+   "id": "gn-1c35xd6",
+   "title": "GTA 6 Game Informer Issue: How to Access It",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xemhlekc3YVJRWHRsdjE2U2dmVFZrVXJTVExWaHpwb2lrcTFCOHVzZ3lVMVdOYXlMRC0zb01YR1B1eWd6aXhsLWZjVVQxbEZ6ZUZaajRfcWR0aHZfVjc5VDVIZ1VfU1NYaVQ2a2R0c1QxZw?oc=5",
+   "date": "2026-09-30T10:18:51.000Z",
+   "source": "Techloy",
+   "summary": "GTA 6 Game Informer Issue: How to Access It Techloy"
+  },
+  {
+   "id": "gn-1beny18",
+   "title": "GTA 6 just confirmed 12 new features, and GOTY hype is getting serious",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGw2RkxXZmp4MFk0WVpEeXoxdHhqZ29HTTY1cVJ5RlpVOW5peXlPcFhKckxmaVgwb2ZYMHlQeG0xbHFFLW9URXhEWHc4TlJUZnA2aWY4VHdZNHZ1SG43RHlXMUNVU0YtVEZfelF3ZzZNMUNCWHE3c0lhdEtjeWJyakZ4dmR4bXo5VE05UA?oc=5",
+   "date": "2026-09-30T09:30:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 just confirmed 12 new features, and GOTY hype is getting serious GAMINGbible"
+  },
+  {
+   "id": "gn-138q77w",
+   "title": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVHpXX2NLd18yWlZnbHVwWGdGNFNXeXp0b2FSWTNxN0l2SVEweUEydm52c01OeXVFUUlZVzk4c2MwMzQ3M0p2X2R5cDg2cTBCeUFXdDhVRTlGSHNyRzQwWnA2M3lEWDl6V3Fsa0ZDUW43NjBWWEtBdWZlQnVHNXZzbTU1MU9LZmJxSkFsN1NsUWRESEd1LVNWdERzNDA2cTJHaDcxY3E5cWpNU1lvOUdzOF9KTzdVZkQtS3pXQmx5djh4ZHFmeWVPNXFVUU5ydnpsU1Btb2ZWbkU3LUc1Mk1BQjVxc0dFZWhhSnc2NkpKSG9EbFFDYkZyZ3JYdVRtQVhiWTJwVkFYVms?oc=5",
+   "date": "2026-09-30T09:30:00.000Z",
+   "source": "Rock Paper Shotgun",
+   "summary": "GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd Rock Paper Shotgun"
+  },
+  {
+   "id": "gn-1izeoup",
+   "title": "GTA 6 to feature hurricanes and tropical storms as Rockstar reveals new weather details",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY28xZzZlakcybWZnV0RFY2ViSlRscnVERHJRVWMwMXFvXzlvdFQzcnhzNERGMEd2d1RpenNjV1Q0RDIzb004eVVPdE1rOWpwZ2dpVzZpLVdoMmZld0ZTd0RRV3g1ZjJzc1dUQmFKUk1nSFVGYUhHUzctRk1sY0twUmJYMHRpOTY5SG9EdHc2OVU2WTZ1RDdRcXFablM1bEhKamQ2RDVmaVpJUmplby1hXzRZZFNpbGR4Q1VrTDRDbGJySWNIWnEzNmcxZzlkeDkxeF9JZ0NpT2RRckNQTmZ6dEd2WVY1Wi1aTlJhY21sNHRoWUMwQ1ZaSWJqNEHSAYICQVVfeXFMT05iR0twVG5RaWZoNzNkTjNpN09WYll3Y21NTUljbll5U2FFZGlyQUI4eUo5SE8tOUpKbGtyVE9vUTltODh4cHZCbE9GVkRFa1B4Tzh6b2tlQnNNMFdMZVphSnlaeGhGV0lNYUt5SENxWkxEUFVGX0J3YklDc3BjWDhyVG5PdlMwVDd1T2YyTzJxTHZXQVpLUURjMjBTVjlqLUdodURSODctbnJxVDhucGRVam9VZlZnMVZSd0xEYnBIdXB0YWpwTkQ0bjdFTElyT2dxRHlwRjF5aTFGVEpoalF0UWZ5bDFKSWZ2MFdlWjhxRmZtWkZpOEdzdUJIZERmaDln?oc=5",
+   "date": "2026-09-30T09:29:00.000Z",
+   "source": "The Times of India",
+   "summary": "GTA 6 to feature hurricanes and tropical storms as Rockstar reveals new weather details The Times of India"
+  },
+  {
+   "id": "gn-1liv4ag",
+   "title": "New Grand Theft Auto VI Details Emerge, Confirms Advanced Weather Systems, Over 170 Animal Species & Map Twice As Big As GTA V",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWTlFOGNYU3hVOHk3NWxWbjJPczlNZTBQZ2ZNQXd5cVJ0dXN2Uk5WWWtiRlRLdkZQUV8xVmVjZmppOEZ6Ni1XSmEwUll4Q1czQlV0V2tPZ1lkc3V0ODlRbDBKZ2hwUFE4a21jY0s5V0FrT2dTTEw1a25nazE2SFZ4d0hCbWFnY2dTY1dDTGZ5NVhWVFpxWkc4Q0hON3N3NjN2WHN6SzI2cFJBRXFXMmVMdEF0ZW9OQ2p3RGF4ZHJwcVJWU1NOUmRQeWh3bWs3Q0trWG1NemZ6T2ZqbllCRFpORHd3?oc=5",
+   "date": "2026-09-30T08:37:05.000Z",
+   "source": "psu.com",
+   "summary": "New Grand Theft Auto VI Details Emerge, Confirms Advanced Weather Systems, Over 170 Animal Species & Map Twice As Big As GTA V psu.com"
+  },
+  {
+   "id": "gn-ang7yr",
+   "title": "Sony Now Requires 60 Hours of Playtime to Buy a PS5 Pro in Japan",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdXZEbk9QS2F5U1Q0dmhBaWs1U2xNbXpqWXJGVXFaOVplSHlVUXBQbzFyLTBPU2dYdTU0a2lTdFI1VlptTXc2SUpCRkFaTGdUdmJ3YU5BakxOS29pc05hU0J3N1FRUjFoSjFvaEt3b3VKeGVHU3hWaDU0U1ZrNWpDb0dVU0Z4QlU1eUljNFRuX1BNQmNXQWZPM2k2QnB2X25wQkJhUXo0a3lnUUNqbFJWX0VtOA?oc=5",
+   "date": "2026-09-30T07:39:23.000Z",
+   "source": "GTA BOOM",
+   "summary": "Sony Now Requires 60 Hours of Playtime to Buy a PS5 Pro in Japan GTA BOOM"
+  },
+  {
+   "id": "gn-1ebtjiw",
+   "title": "GTA 6 Could Find Itself on PC Unofficially Before Rockstar Ships Its Own Port",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFB4M1NIQW56ZTBrVzJVVDNtM0pTYzRMc0xwWldXMG9FM3pKdVRGTEVqRDZvd0lHUnlmYkEtR21qeUtqU2h5OWk4VHdNN2xDbE9WUGh4WFNBVmlpSFE2a2hBWmxpaGZuWENPNmc1OWx4QmhjcEY0MkVtdTdQVHRwVFc4R2puTHJpRjdlYUoyaklsaHZKcURtWWZYNy1FekhxY1FORQ?oc=5",
+   "date": "2026-09-30T07:05:14.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6 Could Find Itself on PC Unofficially Before Rockstar Ships Its Own Port GTA BOOM"
+  },
+  {
+   "id": "gn-m3qj3a",
+   "title": "GTA 6 Release Timezones & Pre-Order Guide: How to Play Early",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZklhMVJQb183SndyZnc3TllRN3JpM3hoTlZjNzNMaU1YamtGbVh1RDVRRE9kRHZrQ3l3YndPcEhiU3psOFRCc2xhRFk0Q09CRjMzcS1uaGR2QlYya0VJZER6Um83aUpFTms4Z1lPZzJKQ2YwOXo2VlM5UVlUQU9Fb25zLU40aHpvVkJua2NJMEtGLWM3TUtv?oc=5",
+   "date": "2026-09-30T06:26:40.000Z",
+   "source": "Playasia Blog",
+   "summary": "GTA 6 Release Timezones & Pre-Order Guide: How to Play Early Playasia Blog"
+  },
+  {
+   "id": "gn-zeyliz",
+   "title": "GTA 6 Fast Travel and Wildlife Details Revealed",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hb203OXltOWJWZlJFTzJFR0F6VFZxbFhzcXBMTFNna3hxR0x0MmNCTUdaWVNUYi1ld2NIaXlwcFFsN05wVl94eC1UUVJ6T3NITjhZeHBUZlgzenU4anc?oc=5",
+   "date": "2026-09-30T06:15:07.000Z",
+   "source": "GameLuster",
+   "summary": "GTA 6 Fast Travel and Wildlife Details Revealed GameLuster"
+  },
+  {
+   "id": "gn-o99dda",
+   "title": "New GTA VI Footage from Game Informer Magazine - Rockstar to Showcase Next-Gen Again",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkhlU1pwSlNVcndXZGY4aHp2a2I1NnR5X3FSR09JdExjM2kzWjZDUzlIU1ZhLUNxRGpsbVlMY3JOU2R3T0pIVURBSnV6aHQ5cHk0YUFoNkJUUG5yem9IX29sUklQUGhmYkVaV2V5T0JTenViNWw1LXJJTUN6WjBuSXB3cVBsV1hvcVBNd1NTaDdkVVBBak9XZ0loRFFNbkg4dmlFMlEwRlVMSjZ5bXZkeTkzZnJlS2pCWEJuZWdQX3FNUdIBxwFBVV95cUxPeHFyajNheUNFT3lTbU9VNFE4SV91dlJBMHFjb1pJQ0xsQ01SYlItTlVURkNuZC1RdFFXMUdNREZXUW1UdEgyOEc3dzg5Mk13X01MeEpmdmlZNmR6UzhxYnJQbW9KSlFJRTEzbVUtQmwzcTFRcFB1SUsyQjN1SkUwN0ozV216b3hPa3dPZTc5VVA4dDRVb19OSFdzN0xmaEpfRkxCc1BmN1NkUmRSWHd4NzN1LWVXUVRfS1JFTlZMMDNoZU5ocTFr?oc=5",
+   "date": "2026-09-30T06:09:01.000Z",
+   "source": "ixbt.games",
+   "summary": "New GTA VI Footage from Game Informer Magazine - Rockstar to Showcase Next-Gen Again ixbt.games"
+  },
+  {
    "id": "gn-1mb4ayb",
    "title": "GTA 6: All the Major New Details Revealed Today, Including Animal Species, Side Activities, and Fast Travel",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd2Z4b21OaUQtM0kydnFhWkZtZWRFdnYyNG1iSkpQaTNOeEF4SFlxYW5laTR3SWNXbnR0eDZKZDN1RHlvaURUZ185bENBYTVQcFdRbks3QWhIRDdpOGVXUlhNbXowUDRxODVxYnZNNDc4UnNEcld5UWU0ZTljYWo0ejgtSzhMVWttUVdWS1JTTHc5MXVoS204dzM4ZEVVRXNMcmE5VzBHazZramlvUDlEM19jVzdQaUVyOElpOFJ0ck5Vcl81Wk01YWV3cnNFM1dlc1dhNUNOZDRvOVRqc1JPQUdYRQ?oc=5",
    "date": "2026-09-30T05:33:02.000Z",
-   "source": "me.ign.com",
-   "summary": "GTA 6: All the Major New Details Revealed Today, Including Animal Species, Side Activities, and Fast Travel me.ign.com"
+   "source": "IGN",
+   "summary": "GTA 6: All the Major New Details Revealed Today, Including Animal Species, Side Activities, and Fast Travel IGN"
   },
   {
    "id": "gn-1eaykw1",
-   "title": "Rockstar Is Sending Surprise GTA 6 Care Packages to Content Creators",
+   "title": "Rockstar Games Sent a Surprise GTA 6 Care Package to YouTuber TmarTn",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXlkV0RINHdySVVRQW5zWjlkdU5ZRjVHdEZydUp3NTRicm9UWE5DSlUtT2tKeDZnRE1ZV1Q5NWxReTQteVkyaEUyaEdJaDdEYU1zTWY3OWJZWkRYWU9vNHpxUUNmdm9mbTBJOWlhTllUcThnVi02M0ljSTl3clYwZmpOTjBBNDlDa1VUYTl3cHcya3gzcGMteXZjWVZzdw?oc=5",
    "date": "2026-09-30T05:02:16.000Z",
-   "source": "gtaboom.com",
-   "summary": "Rockstar Is Sending Surprise GTA 6 Care Packages to Content Creators gtaboom.com"
+   "source": "GTA BOOM",
+   "summary": "Rockstar Games Sent a Surprise GTA 6 Care Package to YouTuber TmarTn GTA BOOM"
+  },
+  {
+   "id": "gn-1e3rj28",
+   "title": "GTA 6 Activities, Weather System Info Surfaces; Expect Over 170 Animal Species",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmpPZExqbnVDMzhkSUw3ck1tY0RZc3dYaDR6UEdRdUVoa0Q3X21NNnFuY3o4NkxPclJuY1kyWVBRNFFBX0NhYzZrNGcySlBDVHlXVXNpQ2tCTndQNnkyZm4zQ1N0Y3Noem9zYUwyUDZYXzRJaDZ2UFdrUDNZd2xJOU9DeGNiVXA0YTQ0RjRKVG9CVXZ3MVRoOWdBSktlb1lm?oc=5",
+   "date": "2026-09-30T04:17:56.000Z",
+   "source": "MP1st",
+   "summary": "GTA 6 Activities, Weather System Info Surfaces; Expect Over 170 Animal Species MP1st"
   },
   {
    "id": "gn-13itxvt",
@@ -210,25 +329,9 @@
    "id": "gn-1qk6ckb",
    "title": "GTA VI's hurricanes, map size, romance, and 170 animal species explained in new report",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFI2Y0wteW1rRjdUaXBXS2xCckxaQzBYX3BhZ2JKXzc5cGc5eEZHTEJDY1R4NW8xTHFfUXZLSkFTZEUtcnJMNy1SNVpnajk2cHE0MDVjZVRnc0hjTFhqUDJGb1B1V1l2cWNreTBjUWpBaVVPRkdLWWphYjFQXzRmSVhJVXZNb2ZkczFmYzlHeGpQeDM0T04xU080UGY2TkwzaGNpa0Vld1hFcmF1WXBaeEFLUC1Idks1TXd3aHhZOWFJeDBRN29xQmo3SDJndE91WjFR?oc=5",
-   "date": "2026-09-30T03:29:00.000Z",
+   "date": "2026-09-30T03:32:26.000Z",
    "source": "GosuGamers",
    "summary": "GTA VI's hurricanes, map size, romance, and 170 animal species explained in new report GosuGamers"
-  },
-  {
-   "id": "gn-17zgmbe",
-   "title": "GTA VI's November launch could spark a rush of GTA-style games on Roblox",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUE2S1hlbzV3V0RMNVNMZ1A3VkhwNE5OUGJudEUxZ1BJb01FT2JsdGtrMHNiOXJhc0tEMHNneGh1RDNMeW9RXzV4NHJRbElJTmdTNjJKdTRUXzVUbzBjR2dfZTJXUWk2THo4RFllU3dSVENNbWNXWi1PWUNWZE16UnhJcElEOGRTWFZ3bnhFblBkdw?oc=5",
-   "date": "2026-09-30T03:11:00.000Z",
-   "source": "Briefs Finance",
-   "summary": "GTA VI's November launch could spark a rush of GTA-style games on Roblox Briefs Finance"
-  },
-  {
-   "id": "gn-1e3rj28",
-   "title": "GTA 6 Activities, Weather System Info Surfaces; Expect Over 170 Animal Species",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRmpPZExqbnVDMzhkSUw3ck1tY0RZc3dYaDR6UEdRdUVoa0Q3X21NNnFuY3o4NkxPclJuY1kyWVBRNFFBX0NhYzZrNGcySlBDVHlXVXNpQ2tCTndQNnkyZm4zQ1N0Y3Noem9zYUwyUDZYXzRJaDZ2UFdrUDNZd2xJOU9DeGNiVXA0YTQ0RjRKVG9CVXZ3MVRoOWdBSktlb1lm?oc=5",
-   "date": "2026-09-30T02:50:20.000Z",
-   "source": "mp1st.com",
-   "summary": "GTA 6 Activities, Weather System Info Surfaces; Expect Over 170 Animal Species mp1st.com"
   },
   {
    "id": "gn-xv7gpn",
@@ -242,7 +345,7 @@
    "id": "gn-rve3uw",
    "title": "New GTA 6 Info Revealed",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RYXoxcGRzcTJKUTY2bXNrbk5DTzVjcHU4WFJmUnlxaGEzZ19aYWNhaDMyYjhmS0Z6TmlINlNGc2txT2pSMzVqdC05QVAyNDdTVm9RWkNNcFBELV9TV3Vn?oc=5",
-   "date": "2026-09-30T01:30:53.000Z",
+   "date": "2026-09-30T01:33:31.000Z",
    "source": "IGN",
    "summary": "New GTA 6 Info Revealed IGN"
   },
@@ -263,12 +366,28 @@
    "summary": "It Sure Doesn’t Sound Like GTA 6 Will Include A Disney World Parody Kotaku"
   },
   {
+   "id": "gn-17zgmbe",
+   "title": "GTA VI's November launch could spark a rush of GTA-style games on Roblox",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUE2S1hlbzV3V0RMNVNMZ1A3VkhwNE5OUGJudEUxZ1BJb01FT2JsdGtrMHNiOXJhc0tEMHNneGh1RDNMeW9RXzV4NHJRbElJTmdTNjJKdTRUXzVUbzBjR2dfZTJXUWk2THo4RFllU3dSVENNbWNXWi1PWUNWZE16UnhJcElEOGRTWFZ3bnhFblBkdw?oc=5",
+   "date": "2026-09-29T23:11:00.000Z",
+   "source": "Briefs Finance",
+   "summary": "GTA VI's November launch could spark a rush of GTA-style games on Roblox Briefs Finance"
+  },
+  {
    "id": "gn-15clvnz",
    "title": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tR0ctUXprT1pEQXBkTXFxbTF1MGp1SDU4MlVzLUFYX09vMHBFNGctT3dwLVRIaDBIM0ZSZXctZ0xFRUpDM2QxbTRUNUkwVXByaHhfN3lWTnVQYVNHNEF0bTQtZ245ZnlIT0doLXVyUlc0ZUNVSlhLUQ?oc=5",
    "date": "2026-09-29T23:07:53.000Z",
    "source": "AOL.com",
    "summary": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City AOL.com"
+  },
+  {
+   "id": "gn-10o10be",
+   "title": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdzBBamVuRjg0UVpITVpyWHY1RGY0WnNFQUlNcVZpRkV4ckJKam9UaXZ3cGdRTEpxZEU1WEI3VVJfRTJ6Q255VHd0a1RhMEtDNl8zZ2ZqRGN5WlJqcHd1TEw5Y2JNQW03NTh4cldteC1hcnhlU0tyNS1MZGR0NllUajdSYmYwUQ?oc=5",
+   "date": "2026-09-29T23:00:47.000Z",
+   "source": "Yahoo Tech",
+   "summary": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City Yahoo Tech"
   },
   {
    "id": "gn-1pr1hkl",
@@ -283,8 +402,8 @@
    "title": "GTA 6 will have ride-sharing fast travel and localized weather",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGlLa3dyeEdvNVhxb0N6QlBWTTY3Z01MTkU0UTRPOS11R3pleWNiRGl1Y2l5UkhJeFBEdW0wajVZTno5SGdTUkphbkZkRlR5MTcyVlZzcHo0MmUzVVpMRm9WODBrNHFBY0IxUkVLbUl3algtX2V1cjVfMk95VFRUek1nZHJlVGdNamZpeTlxTzJ2MkxWcXc?oc=5",
    "date": "2026-09-29T22:20:00.000Z",
-   "source": "Neowin",
-   "summary": "GTA 6 will have ride-sharing fast travel and localized weather Neowin"
+   "source": "neowin.net",
+   "summary": "GTA 6 will have ride-sharing fast travel and localized weather neowin.net"
   },
   {
    "id": "gn-19ljw4h",
@@ -299,16 +418,16 @@
    "title": "PlayStation Store leaks GTA 6 PS5 age ratings in vital step before release date",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjloWnVpREdxbjdKM09NMi1hQ29xQVg3V1hRTkJMblEzd1MyT3B5NzQ3amJ6Y1NGMnNVM1lxSnVGdkEzYU9oeVJoUXZrQmdsSlBaYy04djlmZUUzcHM5bmNqVTVuamg2OV9xYXJ6ZHV4MzJUWk1DUG03Sm9YZ1VhQ2JyMVY4RDZEN3l5d1RRODlwY1RQdnZyTm5qenRvYmhaSERBMGVzeWJnUVlZN1EzeWd1aXI4U0RrQlgxTUVBQUxLdw?oc=5",
    "date": "2026-09-29T21:55:00.000Z",
-   "source": "notebookcheck.net",
-   "summary": "PlayStation Store leaks GTA 6 PS5 age ratings in vital step before release date notebookcheck.net"
+   "source": "Notebookcheck",
+   "summary": "PlayStation Store leaks GTA 6 PS5 age ratings in vital step before release date Notebookcheck"
   },
   {
    "id": "gn-1h6x0r0",
    "title": "GTA 6's Leonida Packs More Interiors Into Rockstar's Biggest Map Yet",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1d3Yng5RzJQVjJuQVdUc01QVGQ1cGJlMUs4YVM5TTY0QlZEcmNwRHo3TDhHaS1fUUtaeFQ0VlVfNUFsUlFNUG50WXNpMXlKWnd4eUJNU1JrQ2lVaXFYd1g2U2UxQzB5VV9CNjhuQ3hiX2gwajR2U1QzQ1Ixc1ZWdl9PLUhtbzFSOWZNX1BKVlNUSmhTZnR1WlFjTzViZFNxUHdv?oc=5",
    "date": "2026-09-29T21:50:04.000Z",
-   "source": "gtaboom.com",
-   "summary": "GTA 6's Leonida Packs More Interiors Into Rockstar's Biggest Map Yet gtaboom.com"
+   "source": "GTA BOOM",
+   "summary": "GTA 6's Leonida Packs More Interiors Into Rockstar's Biggest Map Yet GTA BOOM"
   },
   {
    "id": "gn-1ynt3fy",
@@ -339,8 +458,8 @@
    "title": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY1BDYnFjQktEdmRKSjdSdmVGV04zYThoTWY2MHlVV1lpUjFtcHpKWndnZ2xjYTBXeGVkUmZ3U1JpbldJYVlKZkpvS20xRl9rU2NtSFdPNVBRQW8tVzFvdjM5YWlYQXVRNEowcmNScWZqVXVKdHdWZEV0b2lLdnQ3OUZia0ZXZUFQdEVrNzBITnNwYmN0cTlXQ2xmRHBvX29mVjVoYWdaV2dMUjEwak9Zdm0xTQ?oc=5",
    "date": "2026-09-29T20:43:53.000Z",
-   "source": "me.ign.com",
-   "summary": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes me.ign.com"
+   "source": "IGN",
+   "summary": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes IGN"
   },
   {
    "id": "gn-u7y1qt",
@@ -391,20 +510,12 @@
    "summary": "New Grand Theft Auto VI Screenshots & Details on Side Activities, Wildlife and More Revealed by Game Bleacher Report"
   },
   {
-   "id": "gn-nsohfk",
-   "title": "$400 GTA VI Vice City Collection Doesn’t Even Come With The Game",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjJuR1VSZDd6bHF4Y1JUN3dWcE9USGlENUZzd2xtTFVDUjJ2RkNzVVRHVkl5djhRWlpZM25hUUZ1Z0JSU1pxSG9DclZydEZfUHAzT19tYUFidXpOa3pCb0JkMEpSU2JlQWdSWFdZSlJGYXJubkNKRjBBTklzaThrWmRVLUwwN0dGSHNfaQ?oc=5",
-   "date": "2026-09-29T20:11:50.000Z",
-   "source": "Carscoops",
-   "summary": "$400 GTA VI Vice City Collection Doesn’t Even Come With The Game Carscoops"
-  },
-  {
    "id": "gn-1owcqqp",
    "title": "Rockstar officially reveals 3 big new GTA 6 gameplay details",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORk9sUF9JRnB3NWhjSER5MXJnM3NrQUtuMkZoVnBibDFxWXZ5WWRmdGk4ZFpoOXJ2WmxZYkdkTGRVZ1Q3RVY1cmxJTmlNVGxsYXZiUmVLN0o0N1FoTnFaSTdYbzRISWxkZ1MtSnVBeVYwY0d0c1BDYndOOFNITXEzRW9rdDRSM0tna2xOaXJvRQ?oc=5",
    "date": "2026-09-29T20:08:59.000Z",
-   "source": "Polygon.com",
-   "summary": "Rockstar officially reveals 3 big new GTA 6 gameplay details Polygon.com"
+   "source": "polygon.com",
+   "summary": "Rockstar officially reveals 3 big new GTA 6 gameplay details polygon.com"
   },
   {
    "id": "gn-nrfmei",
@@ -423,12 +534,20 @@
    "summary": "Take it from a Florida Man, the reveal of the GTA 6 map and weather systems is absolutely wild stuff.tv"
   },
   {
+   "id": "gn-nsohfk",
+   "title": "$400 GTA VI Vice City Collection Doesn’t Even Come With The Game",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjJuR1VSZDd6bHF4Y1JUN3dWcE9USGlENUZzd2xtTFVDUjJ2RkNzVVRHVkl5djhRWlpZM25hUUZ1Z0JSU1pxSG9DclZydEZfUHAzT19tYUFidXpOa3pCb0JkMEpSU2JlQWdSWFdZSlJGYXJubkNKRjBBTklzaThrWmRVLUwwN0dGSHNfaQ?oc=5",
+   "date": "2026-09-29T19:55:41.000Z",
+   "source": "Carscoops",
+   "summary": "$400 GTA VI Vice City Collection Doesn’t Even Come With The Game Carscoops"
+  },
+  {
    "id": "gn-f6g7r5",
    "title": "Five Key Things We Learned About GTA 6 From The Game Informer Cover Story",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWkoxWm1FVTRqRW5aSTEyME9yTDJmekFOMTZlRmZnQjYtMlJBSXNQYUQ3MTlISU11Q2Q3Tl9KczlHOGlSTUJfblBqc1M0RUliVS16RG1fcUFPMVAwQmNJLThxSjk1eTNrNUNxS3ktLVhoald1eHc4cFpPWV80Z29lbXlEQWNVX0JTa1Qwc0hPOEV0cFRJanVwN1RpV3g0NXd4UkhnX3VUUUk5WTFMbUxEdg?oc=5",
    "date": "2026-09-29T19:35:20.000Z",
-   "source": "Pure Xbox",
-   "summary": "Five Key Things We Learned About GTA 6 From The Game Informer Cover Story Pure Xbox"
+   "source": "purexbox.com",
+   "summary": "Five Key Things We Learned About GTA 6 From The Game Informer Cover Story purexbox.com"
   },
   {
    "id": "gn-q89hyg",
@@ -541,129 +660,33 @@
    "date": "2026-09-29T18:15:00.000Z",
    "source": "Push Square",
    "summary": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details Push Square"
-  },
-  {
-   "id": "gn-19hjl65",
-   "title": "You Won't Believe How Insane GTA VI Looks On A BASE PS5",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQVRkSmxLRDFnM2VJVHRHZmN2WGVQc0YtRERaRVhEc2lPVXBGN2NpS0pWTElENnFBTnFWZHprTEswUjVvZ1Vud3I3TVlGTC02UERUMUxWTHZNTG9tVDFEUnpxdk0takV3Zl81OFZoemg2aEpocFdFSUExaGZNcHIwMVFBNGVISDVtcFpuRg?oc=5",
-   "date": "2026-09-29T18:10:00.000Z",
-   "source": "Yahoo",
-   "summary": "You Won't Believe How Insane GTA VI Looks On A BASE PS5 Yahoo"
-  },
-  {
-   "id": "gn-1ttqfxn",
-   "title": "GTA 6 Leaker Says They Won't Stop Till Rockstar Says Sorry",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53bUUxR1pPWTMtbV9rNTF0eC1KZmU4eDFKQkxGc3dWTTNnampsMi1LTjNINnNYTkNRVHNXMnRLUGRLOXhLZnYzYWpaYlo2cnVZQVNuenY2OTVJd1FGRG5qeUMwM1NEcFhDdFhpUUNLeDZ2cU1MeEE?oc=5",
-   "date": "2026-09-29T18:10:00.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GTA 6 Leaker Says They Won't Stop Till Rockstar Says Sorry Yahoo Tech"
-  },
-  {
-   "id": "gn-1afd941",
-   "title": "GTA 6 devs spent years \"going to strip clubs,\" \"spending time on the beach,\" and riding with ex-cops to research Florida life",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTTN1MkFBekJUM1MzejJEY19NOHlZM1NsZnltSzFrV3BOVHdwdlphQXRTd3k5TnRVankzRGtpQnZ6QXZHcDVVZmh3b0kzLVEwTGU1SVlKaUlnOXRNbFR6eGVZU3lJaUF4RkpzZktBU0hVVzBQdkE2MHFrR3l2VC12NEs1d2FWMlhMcm5RR1FkQV94RGlYZE5RXy1Dc2lGdXluTjN0NERwV2dlYjNIV3owUW9udUdfMnFlcUhZZzJ6MHNnV3N2b1loZ3NnNUNPMzNlcmljcll0S2xKUEVkYzcxSnB3Zm5zcnNwdjdjZE5YenhHblkyb3RMM1RYd2RJdFE?oc=5",
-   "date": "2026-09-29T18:07:25.000Z",
-   "source": "GamesRadar+",
-   "summary": "GTA 6 devs spent years \"going to strip clubs,\" \"spending time on the beach,\" and riding with ex-cops to research Florida life GamesRadar+"
-  },
-  {
-   "id": "gn-1pymvos",
-   "title": "New GTA VI details revealed - largest map, diverse NPCs, revamped weather, and a list of activities",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMGpjUnB2Y1poMFpRcjMzSDI1ZGZlRWd5QkdrNHhJT3NEQkhXZWJEa0kxSUEwVldhMlR4TUR3bldWc090TzlielY3VVNVeklkaENSTEdEMWZYdWZDcV9iSmExVFhtSmVCZ053SWRVOXlBVmswMFJULXhkdWZmRF9oSzh0R3JSZjRBQVNudDBUdzUyTUdCZjNGSVppVzBPMFdRR1FiMGdvVFQ4eDNROUZydUN4WUlkSHpfNlc1ZURsLVVtYVBBX01DZUxUNDZmUDdyZkcyMEZpS3JVQm4xME1NWjdEYXZUQdIB6wFBVV95cUxQdWM1dUNsd1dFWmtxenJrcmtrZGdsQnd0X2xUZ0tpaUJqWUZya1VaNjVjVG9XVUNTTFRXalVCYW9LQWNrS2JjTXM5X1I3UE1SMnIwTkRNY1U5WERyU2RxalUtUEdVSGloNFJmdVdOelJJM0dyek14Q3NHdzFZNzB0My1GSmtsam5jb0RKc0FhTUdqektFM1E1alZmcUczMVowTnp1b1pWbXVGd0kwLWczWDlKa1FUbmlMb1RnTE5Ib2MxNTFFWHoyNlRKeTNMNXJYdDdDdnF3YUFkTnIycUNPV19QeW5BZ0pmWnNF?oc=5",
-   "date": "2026-09-29T17:55:48.000Z",
-   "source": "ixbt.games",
-   "summary": "New GTA VI details revealed - largest map, diverse NPCs, revamped weather, and a list of activities ixbt.games"
-  },
-  {
-   "id": "gn-tjl8jh",
-   "title": "GTA 6’s World Consists of Six Regions, Vice City Completely Rebuilt and Expanded",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTjZ2QU40bVpkNHQ3RERUeFNnZWZXd3FzbmVwT2otVVdsMmNQeERxakNqQVBac21sd2EtUHV4cUhXSXF4SVRrcVdkNG5ZRFkyU25tZGhqRm5YNUUtbDlTenJDOVpxWnZqaDd6QVNLN3FCLWFXTzY4emRiT21well6cHdrZjNwb09ScFpLYVJSTFFqam1HejRiLWJpMkJObUVrR05n?oc=5",
-   "date": "2026-09-29T17:51:17.000Z",
-   "source": "GamingBolt",
-   "summary": "GTA 6’s World Consists of Six Regions, Vice City Completely Rebuilt and Expanded GamingBolt"
-  },
-  {
-   "id": "gn-1vcgq2v",
-   "title": "A New PS5 Jailbreak Is Here, But Think Twice If You Want To Play GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaUZuWkNXSlZOVmZEc2xINnBZeUQxcW1oZjVQR0NFMm5YWWEydWZrNVFSekxoRkJ6MGs2M3JJN0d4QndYajZZMnc1MDVYaF9zSzg4SjJ1VXNmcDk0VXFScXJKazNzUzdMM1pDYklydVk4RUVzZVU5RXFjMk9xSzNBMnIteUVsYUdQS0prbE5SWHJGc2xIcVh3MnZmUTNaTjg?oc=5",
-   "date": "2026-09-29T17:46:00.000Z",
-   "source": "HotHardware",
-   "summary": "A New PS5 Jailbreak Is Here, But Think Twice If You Want To Play GTA 6 HotHardware"
-  },
-  {
-   "id": "gn-ofo3ir",
-   "title": "New GTA VI details surface today: 2x map size, tropical storms, in-game activities, more",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GWnJhOXZuODY0YzdISjhvampnR1VUbDJQYjJmRWhYdDFvRkMwbHI1d3dIZ3c1ODNHRnhxODlYWXlwUVFzRXVGeTlkdGJOZWJnYVJMZVZJdTZFSlJnYnM1YkpUUkgzV1VUcnBybg?oc=5",
-   "date": "2026-09-29T17:39:00.000Z",
-   "source": "9to5Toys",
-   "summary": "New GTA VI details surface today: 2x map size, tropical storms, in-game activities, more 9to5Toys"
-  },
-  {
-   "id": "gn-s7htpz",
-   "title": "GTA 6 Has Hurricanes, 170 Animals, Fun Activities, Weather System Detailed",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlA3NW1iTlZIQ1ZzV192ejFqdk9Ybi1iYzRxM2RaTU1SeVpiTXJMRmJoX3F6ODJuaFZDZ0JkSDlIaDdFT0dkT0tNcndKeU5tRkdscExPYVJHS20yNU92NXRmdndGdWprQUpTVEV2RXg2bVI2S2djdEZtM0RreUlYcXM1N0tvQ0J0UTNqQWxKTDViYlpremVOdXZvMFROaFE?oc=5",
-   "date": "2026-09-29T17:30:58.000Z",
-   "source": "RockstarINTEL",
-   "summary": "GTA 6 Has Hurricanes, 170 Animals, Fun Activities, Weather System Detailed RockstarINTEL"
-  },
-  {
-   "id": "gn-1udn2z1",
-   "title": "'GTA 6' Fans Are Hammering the Game Informer App Into Oblivion Right Now",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOU1yMXlkam5lalVkOTdKbG41RFl5bVJFU3laRnNfOW1PYWs3RTJsSVp3S2xGenExTktlTU5qX0Yyb0RBdW5zbHNqZHgtbVhHMHZ4NWRkb180WG0xLXhwNTAzSmd3M21xckNrWWlxS2dHNDBvYy1Fd2NRMFVwNlNZSVR2ME1JLVVBOW55YjZzVVdMdUk?oc=5",
-   "date": "2026-09-29T17:28:01.000Z",
-   "source": "Polygon.com",
-   "summary": "'GTA 6' Fans Are Hammering the Game Informer App Into Oblivion Right Now Polygon.com"
-  },
-  {
-   "id": "gn-hs0poz",
-   "title": "Exclusive: Grand Theft Auto VI Includes Over 170 Animal Species",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3U1a1Vobm5hUTBnOUlSRWZuanJtTmFfM1MtUjJQb3R6dnY3aXFPajc0OWw1QVFfQWZBRkNQXzFlZnFOU0dNN1k4SHVRd1NKdy1HTUFVdmk3VXNEV1ktOFN3d05yR2RmT1JjblZjS2Izek5sS053ZUxuQ2VXNXRmaU84ekgtU0NpQkoyeEtpUkJ4LWNMMEdPak1zbnUwYmhiVjdJVnBpMzh5Z1Nz?oc=5",
-   "date": "2026-09-29T17:23:00.000Z",
-   "source": "Game Informer",
-   "summary": "Exclusive: Grand Theft Auto VI Includes Over 170 Animal Species Game Informer"
-  },
-  {
-   "id": "gn-1jm1l8x",
-   "title": "Move over GTA 6, the real GOAT arrives November 19",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xa01UZkVERDJSVDZqb05qTTJ3Sy1pMEpveFphU194dG4xaDBnVzVTamJzVXZHV1pnSFNsRWl2bzdVakFyVVplYkRrMHhhRjR3cWx3cU95X1dzMEphemRESFo1Q3lfeXFqcElMQzEta003MUU?oc=5",
-   "date": "2026-09-29T17:21:30.000Z",
-   "source": "Windows Central",
-   "summary": "Move over GTA 6, the real GOAT arrives November 19 Windows Central"
-  },
-  {
-   "id": "gn-f04zqq",
-   "title": "Exclusive: Grand Theft Auto VI Features Tropical Storms And Hurricanes",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSC1EUXpaWU9DVnUxYXVUUnNWQnFjU2NnU2xmMjVGek1KTHRabkVXZ2pYUV9ZVDJmdkc1b1BGVkdReUJJRTk0WUh1REtxaGU3YTNvYkdINU9pZkpIWThlRUl5c19JSzg0Mm9VcmhOVlJYTDFjanF2aWQtTzB5a2w3UlVwaWZkcm1NSFlfdXdXTEtJMm85Yk1xSGk1am94bE40VmVPX014YkZTVDhUaWk2d2FHeDRZZw?oc=5",
-   "date": "2026-09-29T17:17:00.000Z",
-   "source": "Game Informer",
-   "summary": "Exclusive: Grand Theft Auto VI Features Tropical Storms And Hurricanes Game Informer"
-  },
-  {
-   "id": "gn-t1n9rs",
-   "title": "GTA 6 Reveal Crashes Game Informer App Amid Confusion Over Free Coverage",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMHpSS0sxY25sSFNVOElpZEEyNHoxRUhZRm12dkJGSHJ2V0tIQzZYa0UwbEZRbHpWQzlNdC02cE1wWWowdWMzb2FIOHE4eEhUYkZrdlZJYi0yd1NYMVZIdkgxa0ZzOU9HY1Vid295YUVwYmJhSTRENm1GX211eXkwYThmS1I2S1lLeUZMT3VVNUlCaG5Xc09rcEowOXpzaks0dzRpZ2kyZU1qU2R0bjZBTnZrN1pERWIxSldkalRiWEo3RnVPQ2V0cFNoY1FJZw?oc=5",
-   "date": "2026-09-29T17:16:04.000Z",
-   "source": "sea.ign.com",
-   "summary": "GTA 6 Reveal Crashes Game Informer App Amid Confusion Over Free Coverage sea.ign.com"
-  },
-  {
-   "id": "gn-acgqpt",
-   "title": "GTA 6 map officially twice as large as GTA 5, features hurricanes and tropical storms",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOGgyUnhJTUFaV0FvWWZiRFRpbEpocHlKZEJoaU5xYzItcnotMF9nWEd0LXp6N2IzTlZmR204RWlBNDEzTkE1UlVpUk03ZjJ3VlFoVzlQeURrMUNZZmVMMWJSWjFlUHpRSngtRWxPMjF5ZXVsNXRiWlh1WEw2RWx4Ums2U1dqdDczZFhzNVF4RVhnUXBjRTdUOHN5ZHAtN1RDRzZSV2N0UThUZVFxUmVoUlJWd0ltQWc2dUNPekdGeU9ZM2tKWVUzZw?oc=5",
-   "date": "2026-09-29T17:15:33.000Z",
-   "source": "Video Games Chronicle",
-   "summary": "GTA 6 map officially twice as large as GTA 5, features hurricanes and tropical storms Video Games Chronicle"
-  },
-  {
-   "id": "gn-13o71s9",
-   "title": "New GTA 6 Activities Confirmed Includes Mini-Golf, Kayaking & Scuba Diving",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBaTAyMEJVaHV5Zkk4X1p5TnNmei10OGlDenRCYU00RzRpbzdDVU5OdngtbEVMWVgyOVI0aElIbTBMbDNCTkp3N3RwVGFtNElhRDQ4OVJGTjNSRlZRNHFQOXI5YlZQWmkyNnc?oc=5",
-   "date": "2026-09-29T17:15:29.000Z",
-   "source": "Insider Gaming",
-   "summary": "New GTA 6 Activities Confirmed Includes Mini-Golf, Kayaking & Scuba Diving Insider Gaming"
   }
  ],
  "community": [
+  {
+   "id": "rd-dxf0d3",
+   "title": "You can literally see Lucia’s rib cage here. Peak detailing by Rockstar",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wtxum2/you_can_literally_see_lucias_rib_cage_here_peak/",
+   "date": "2026-09-30T06:42:08.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/friendlyintrovert22 [link] [comments]"
+  },
+  {
+   "id": "rd-ilgqm8",
+   "title": "main airport runway length comparison",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wtxtkp/main_airport_runway_length_comparison/",
+   "date": "2026-09-30T06:40:21.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/darkwoods625 [link] [comments]"
+  },
+  {
+   "id": "rd-jwb1b1",
+   "title": "An excerpt from the game informer article.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wtx3ur/an_excerpt_from_the_game_informer_article/",
+   "date": "2026-09-30T05:56:11.000Z",
+   "source": "r/GTA6",
+   "summary": "I was thinking the other day how bittersweet it will be once we all get to experience GTA VI for the first time in that we can only ever experience this game and its unique interactions once with a fr"
+  },
   {
    "id": "rd-18ih4g4",
    "title": "50 plus details from GTA 6 gameinformer article",
@@ -679,6 +702,14 @@
    "date": "2026-09-30T02:51:50.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/WeGotThisBeforeGTA7 [link] [comments]"
+  },
+  {
+   "id": "rd-7qjx0i",
+   "title": "Lucia is shooting left handed in this",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wtsrsm/lucia_is_shooting_left_handed_in_this/",
+   "date": "2026-09-30T02:01:44.000Z",
+   "source": "r/GTA6",
+   "summary": "Able to choose handedness? Thought this was kinda cool, can’t remember if Lucia shot left handed in the trailers submitted by /u/Outside-Teaching7493 [link] [comments]"
   },
   {
    "id": "rd-zdguux",
@@ -951,38 +982,6 @@
    "date": "2026-09-29T02:14:21.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Equivalent_Bee5652 [link] [comments]"
-  },
-  {
-   "id": "rd-1c688js",
-   "title": "Possible police social media accounts in game?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wsxww0/possible_police_social_media_accounts_in_game/",
-   "date": "2026-09-29T02:13:39.000Z",
-   "source": "r/GTA6",
-   "summary": "I was just looking through the GTA VI Extended look when i noticed this, surprised nobody else has mentioned it yet submitted by /u/AVORANE [link] [comments]"
-  },
-  {
-   "id": "rd-1qczr8t",
-   "title": "Vice City night ambience (like literally the Extended Look without the Netflix surround music track)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wsxuld/vice_city_night_ambience_like_literally_the/",
-   "date": "2026-09-29T02:10:42.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/EtimmT [link] [comments]"
-  },
-  {
-   "id": "rd-1u8z3oq",
-   "title": "Circumnavigating Lake Leonida is like driving from the southern most part of Vespucci Beach to the Zancudo Bridge 🤯",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wsxe8i/circumnavigating_lake_leonida_is_like_driving/",
-   "date": "2026-09-29T01:49:56.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/darkwoods625 [link] [comments]"
-  },
-  {
-   "id": "rd-vmdal2",
-   "title": "I know a few of these are unconfirmed, but I'm really looking forward to having a lot of airfields/airports to land at",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wswwxf/i_know_a_few_of_these_are_unconfirmed_but_im/",
-   "date": "2026-09-29T01:27:04.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/CaptainJZH [link] [comments]"
   }
  ]
 }
