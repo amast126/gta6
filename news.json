@@ -1,27 +1,27 @@
 {
- "generated": "2026-09-29T20:57:22.454Z",
+ "generated": "2026-09-30T00:05:41.298Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-29T20:57:22.454Z"
+   "checked": "2026-09-30T00:05:41.298Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-29T20:57:22.454Z"
+   "checked": "2026-09-30T00:05:41.298Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-09-29T20:57:22.454Z"
+   "checked": "2026-09-30T00:05:41.298Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-29T20:57:22.454Z"
+   "checked": "2026-09-30T00:05:41.298Z"
   }
  },
  "official": [
@@ -182,6 +182,78 @@
  ],
  "press": [
   {
+   "id": "gn-pa5cvd",
+   "title": "It Sure Doesn’t Sound Like GTA 6 Will Include A Disney World Parody",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkdsTjNUal91XzZXSUpQaUc5QmluX19CclllLUtoN25VRFpDc3YxUTZqa3dQT25ZX0E4NXdxSGNNV2ZhbVdOUFAybU9ub1ZSQ3o1UnY2ZWNEYmlhaDhwc1RvaUpldGtDYnlNdGdMU1ZiSUQ4QzNuQWpuMDJRdktmMEtRV3REVEdFSE4wbzU1M1F0ekRZRzhFc3poZUw?oc=5",
+   "date": "2026-09-29T23:13:20.000Z",
+   "source": "Kotaku",
+   "summary": "It Sure Doesn’t Sound Like GTA 6 Will Include A Disney World Parody Kotaku"
+  },
+  {
+   "id": "gn-15clvnz",
+   "title": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tR0ctUXprT1pEQXBkTXFxbTF1MGp1SDU4MlVzLUFYX09vMHBFNGctT3dwLVRIaDBIM0ZSZXctZ0xFRUpDM2QxbTRUNUkwVXByaHhfN3lWTnVQYVNHNEF0bTQtZ245ZnlIT0doLXVyUlc0ZUNVSlhLUQ?oc=5",
+   "date": "2026-09-29T23:07:53.000Z",
+   "source": "AOL.com",
+   "summary": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City AOL.com"
+  },
+  {
+   "id": "gn-1pr1hkl",
+   "title": "GTA 6 May Have a Difficult Time Getting a Game of the Year Nomination Due to Tight Release Window",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVU5oRVZHaTljNkhkbGZ3ZFd3Vk1FX0xza0JkOHFKQkFEclBYOGhUOXNfeGxDZk10aUNDdVJqa0xTY3FQQldmMWIyd1JQWUFLTjQ0LV9IQ0ZablpMUkV6Vjdya3Q4MU1QdU4tMWQ5WDBuRFU0M0ZLaEp6TnJvUTlpc0xsbDFCNlJGVkwwY0Q3TUUzV1dfaUE?oc=5",
+   "date": "2026-09-29T22:55:20.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 May Have a Difficult Time Getting a Game of the Year Nomination Due to Tight Release Window IGN"
+  },
+  {
+   "id": "gn-1ny3cz9",
+   "title": "GTA 6 will have ride-sharing fast travel and localized weather",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGlLa3dyeEdvNVhxb0N6QlBWTTY3Z01MTkU0UTRPOS11R3pleWNiRGl1Y2l5UkhJeFBEdW0wajVZTno5SGdTUkphbkZkRlR5MTcyVlZzcHo0MmUzVVpMRm9WODBrNHFBY0IxUkVLbUl3algtX2V1cjVfMk95VFRUek1nZHJlVGdNamZpeTlxTzJ2MkxWcXc?oc=5",
+   "date": "2026-09-29T22:20:00.000Z",
+   "source": "Neowin",
+   "summary": "GTA 6 will have ride-sharing fast travel and localized weather Neowin"
+  },
+  {
+   "id": "gn-19ljw4h",
+   "title": "Game Informer Reveals New GTA 6 Details on Wildlife, Activities, and Weather",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX01oOVpkWmVhYXN1LW5JM0trQXAxSTNQYW5JX2FvU0RJdUhEazVnSHpDcFAzMTZ2ZG9KLUdQbmYtYmh3Ml9QMThLUmdSLUlJWlNqdkpBY3EtYUpzS1U4QnMzM2JRWF9hVWZXSmFIdER4ZW5Nb2JvZnVPNGViTDBDWVQyc19TUkZZd3pheEJ0STVkYUItUjdUZW55NWRtdnN4Ml9xTnN1NjY2UQ?oc=5",
+   "date": "2026-09-29T22:05:32.000Z",
+   "source": "eXputer.com",
+   "summary": "Game Informer Reveals New GTA 6 Details on Wildlife, Activities, and Weather eXputer.com"
+  },
+  {
+   "id": "gn-iddhed",
+   "title": "PlayStation Store leaks GTA 6 PS5 age ratings in vital step before release date",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjloWnVpREdxbjdKM09NMi1hQ29xQVg3V1hRTkJMblEzd1MyT3B5NzQ3amJ6Y1NGMnNVM1lxSnVGdkEzYU9oeVJoUXZrQmdsSlBaYy04djlmZUUzcHM5bmNqVTVuamg2OV9xYXJ6ZHV4MzJUWk1DUG03Sm9YZ1VhQ2JyMVY4RDZEN3l5d1RRODlwY1RQdnZyTm5qenRvYmhaSERBMGVzeWJnUVlZN1EzeWd1aXI4U0RrQlgxTUVBQUxLdw?oc=5",
+   "date": "2026-09-29T21:55:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "PlayStation Store leaks GTA 6 PS5 age ratings in vital step before release date Notebookcheck"
+  },
+  {
+   "id": "gn-1h6x0r0",
+   "title": "GTA 6's Leonida Packs More Interiors Into Rockstar's Biggest Map Yet",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1d3Yng5RzJQVjJuQVdUc01QVGQ1cGJlMUs4YVM5TTY0QlZEcmNwRHo3TDhHaS1fUUtaeFQ0VlVfNUFsUlFNUG50WXNpMXlKWnd4eUJNU1JrQ2lVaXFYd1g2U2UxQzB5VV9CNjhuQ3hiX2gwajR2U1QzQ1Ixc1ZWdl9PLUhtbzFSOWZNX1BKVlNUSmhTZnR1WlFjTzViZFNxUHdv?oc=5",
+   "date": "2026-09-29T21:50:04.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6's Leonida Packs More Interiors Into Rockstar's Biggest Map Yet GTA BOOM"
+  },
+  {
+   "id": "gn-1ynt3fy",
+   "title": "GTA 6's Advanced Weather System Officially Confirmed By Rockstar",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03YklhYWtUQkhtT0h0ZUtUNFRUQUpYcmZOVGRzdWtNb2xDeUhUa0JmUmVTcHQwWkNMMGpXNGRNeFU1NkVQRndpQXdPN3JXVlhFTTU1dG1PeFQxM2JOQVp3MHFzdkgxcENkMm5JS0w3Ti1od0dpbWc?oc=5",
+   "date": "2026-09-29T21:49:17.000Z",
+   "source": "svg.com",
+   "summary": "GTA 6's Advanced Weather System Officially Confirmed By Rockstar svg.com"
+  },
+  {
+   "id": "gn-fax6hw",
+   "title": "GTA 6 Team Admits Pressure is “Huge,” But Wouldn’t Compromise At All: “Everything is Dialed Up”",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRTBGSnh3QlZnSGVxRTFRVjcxeks1NjJISHZXVkdObUZwejRvd002WHlNNUcyYTdvU3dMaWhKaTBmb1lnNmRmbnc0bHY4Wkc0SzFNZEZfOVVyTTVIYzlPckVIX1NIUWVNTXNSdWozWjlQV1Rfd0tvMjM2UzZNMmM5YUR4djVEdkltYlp6cWJTWTN5YWphQVN2SHJ1dzVoeGQyZFdrOFRQdEt3VjdKa1puMQ?oc=5",
+   "date": "2026-09-29T21:11:17.000Z",
+   "source": "GamingBolt",
+   "summary": "GTA 6 Team Admits Pressure is “Huge,” But Wouldn’t Compromise At All: “Everything is Dialed Up” GamingBolt"
+  },
+  {
    "id": "gn-gxxle9",
    "title": "All 25+ GTA 6 Side Activities Confirmed By Rockstar (So Far)",
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lVWNwZmVrdkt0LVYyMnRmYzNqWko1SjZYekMwcWVBRV9fdDVWcmV3cmtiaVJ3RnQ0c0R5d2ttX3FuQ09pdXNmc0FidFc2MlY3WjNRS2FZeHkxREVhaHZUVUJBRGxncU11bjh4dldUUnRnVWczV0U2MA?oc=5",
@@ -198,6 +270,14 @@
    "summary": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes IGN"
   },
   {
+   "id": "gn-u7y1qt",
+   "title": "GTA 6 Brings Jet Skiing, Mini Golf & Much More Side Activities, Rockstar Confirms",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EYUpJVndtaEhjTmdPbFBPNVJvekIzTGRJU3V3R1kzcmkzenpMV0Mybm5OUDJHTzNWOTJWSVZ3RmkxUTR1NmFKaXhmSTFJcWRwWnVUQ2E2dlJmVmM2SWtocWYzcEdfaUptVHZ4ZE5WcnlaN3I1MUE?oc=5",
+   "date": "2026-09-29T20:31:45.000Z",
+   "source": "AOL.com",
+   "summary": "GTA 6 Brings Jet Skiing, Mini Golf & Much More Side Activities, Rockstar Confirms AOL.com"
+  },
+  {
    "id": "gn-1bae0dn",
    "title": "GTA 6 Brings Jet Skiing, Mini Golf & Much More Side Activities, Rockstar Confirms",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81UXJrM1lXN0ZpaUh1NVdiZnZMVzFBb3NSZUEwOHhIOG40U3pNLUdieHQxRkZMNVdUYmZUaEt6aGFYVGNZU3JFSG5NeGw4NHhNaDhZLWoxM3FIemI0X2FfNGxJYVJ3SEtBd2steTM0bHVmekxidXc?oc=5",
@@ -212,6 +292,14 @@
    "date": "2026-09-29T20:28:05.000Z",
    "source": "Diario AS",
    "summary": "GTA 6 will feature localized weather, hurricanes and more than 170 animal species across Leonida Diario AS"
+  },
+  {
+   "id": "gn-zsva9y",
+   "title": "GTA 6: NEW INFO - 12 Screenshots, Hurricanes, Theme Parks, 170 Animals, Map Details & More!",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oM0ZvNTl6M0xRVkwyRDdMcjVtdDZPZWlzWGN5VnV1eVJxTkVJWG1OSUdURlRPUjc3NE5qV3djU3dfdThoTDVnTExvYzB0TlpRTlF5MVhkclZrWW5q?oc=5",
+   "date": "2026-09-29T20:24:32.000Z",
+   "source": "YouTube",
+   "summary": "GTA 6: NEW INFO - 12 Screenshots, Hurricanes, Theme Parks, 170 Animals, Map Details & More! YouTube"
   },
   {
    "id": "gn-1w4i2xd",
@@ -241,7 +329,7 @@
    "id": "gn-nsohfk",
    "title": "$400 GTA VI Vice City Collection Doesn’t Even Come With The Game",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjJuR1VSZDd6bHF4Y1JUN3dWcE9USGlENUZzd2xtTFVDUjJ2RkNzVVRHVkl5djhRWlpZM25hUUZ1Z0JSU1pxSG9DclZydEZfUHAzT19tYUFidXpOa3pCb0JkMEpSU2JlQWdSWFdZSlJGYXJubkNKRjBBTklzaThrWmRVLUwwN0dGSHNfaQ?oc=5",
-   "date": "2026-09-29T20:04:50.000Z",
+   "date": "2026-09-29T20:06:15.000Z",
    "source": "Carscoops",
    "summary": "$400 GTA VI Vice City Collection Doesn’t Even Come With The Game Carscoops"
   },
@@ -258,16 +346,16 @@
    "title": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlI2NXUyejJ3dnJLaFpEa3RMYVVpYkNqX2lyclA3aDlubE52RFhNQXEyVXA4STBzRkI0eGx0bEpBZkw4OF9kTXNCQ3V4X0MzZ1BmTTU0WEUzdlhmR3Boc2NBOGhFOFk1WHM1WTZpWmkweHNYbk05a1g3b1RMb2FybXVJbEhTVGFFVXc?oc=5",
    "date": "2026-09-29T19:25:43.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad GameSpot"
+   "source": "gamespot.com",
+   "summary": "GTA 6 Won’t Spoof Disney World, And That’s Too Bad gamespot.com"
   },
   {
    "id": "gn-1xdm58g",
    "title": "GTA 6 to Simulate Hurricanes Because Weather Isn’t Bad Enough IRL",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51NnFqSlRndGhaekdEN09oQV9uc0tPSTFvSjVaeGV2U3VaN1VyOGFQUTU1M3JsT2VodzNDbVhRMy0xdkVtQktzV1BYeVZncmI1dGJzemtqUDd3XzM5LTNIZ0NmeWNvTkdKcnRYTlNn?oc=5",
    "date": "2026-09-29T19:24:46.000Z",
-   "source": "Consequence of Sound",
-   "summary": "GTA 6 to Simulate Hurricanes Because Weather Isn’t Bad Enough IRL Consequence of Sound"
+   "source": "consequence.net",
+   "summary": "GTA 6 to Simulate Hurricanes Because Weather Isn’t Bad Enough IRL consequence.net"
   },
   {
    "id": "gn-lrizez",
@@ -282,8 +370,8 @@
    "title": "Rockstar flashes its wallet, says GTA 6 doesn't compromise on detail or scale: \"I don't think we have ever created anything close to this before\"",
    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQVTlHX2pQVXhCTlhvOU1MZXVfYmh2UmpoQUJNSWFYeTVPWDhLSkJwN0VySlFkT09DR2hVVFJDcURqR3pPM1NMZnJpYkFhd1pHRE51Y3p0eE5jWnpiXzlMWEVjOTNiSzBRQVN3WHl6dmRXNW1nNndJWENpWmJOaVZoR25UTHJ5ZUI1RGlhTnFmc2s4V0lhNTNUWjltdUxmYWJXS0pSU2x4SjhOQTRwTUlaU19CT2ZWYTB0UTktOWxjNnBRcjhYZzFscVBSbTBMWklzVE1mQmFEWmJXTmJVTjlDSTc2NkpSdVVtb09ENUtmZ1B3bkgza2FOMjNETDhDMlVZaDJpX25Rc01EMjF5OGxCcWt4ejVDckY2a1E?oc=5",
    "date": "2026-09-29T19:18:06.000Z",
-   "source": "gamesradar.com",
-   "summary": "Rockstar flashes its wallet, says GTA 6 doesn't compromise on detail or scale: \"I don't think we have ever created anything close to this before\" gamesradar.com"
+   "source": "GamesRadar+",
+   "summary": "Rockstar flashes its wallet, says GTA 6 doesn't compromise on detail or scale: \"I don't think we have ever created anything close to this before\" GamesRadar+"
   },
   {
    "id": "gn-xk79vq",
@@ -394,8 +482,8 @@
    "title": "GTA 6 devs spent years \"going to strip clubs,\" \"spending time on the beach,\" and riding with ex-cops to research Florida life",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTTN1MkFBekJUM1MzejJEY19NOHlZM1NsZnltSzFrV3BOVHdwdlphQXRTd3k5TnRVankzRGtpQnZ6QXZHcDVVZmh3b0kzLVEwTGU1SVlKaUlnOXRNbFR6eGVZU3lJaUF4RkpzZktBU0hVVzBQdkE2MHFrR3l2VC12NEs1d2FWMlhMcm5RR1FkQV94RGlYZE5RXy1Dc2lGdXluTjN0NERwV2dlYjNIV3owUW9udUdfMnFlcUhZZzJ6MHNnV3N2b1loZ3NnNUNPMzNlcmljcll0S2xKUEVkYzcxSnB3Zm5zcnNwdjdjZE5YenhHblkyb3RMM1RYd2RJdFE?oc=5",
    "date": "2026-09-29T18:07:25.000Z",
-   "source": "gamesradar.com",
-   "summary": "GTA 6 devs spent years \"going to strip clubs,\" \"spending time on the beach,\" and riding with ex-cops to research Florida life gamesradar.com"
+   "source": "GamesRadar+",
+   "summary": "GTA 6 devs spent years \"going to strip clubs,\" \"spending time on the beach,\" and riding with ex-cops to research Florida life GamesRadar+"
   },
   {
    "id": "gn-1pymvos",
@@ -430,12 +518,12 @@
    "summary": "New GTA VI details surface today: 2x map size, tropical storms, in-game activities, more 9to5Toys"
   },
   {
-   "id": "gn-1w31ul6",
-   "title": "GTA 6 map is ‘twice as big’ as GTA 5",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWtsSkRMeEM3ZEtrdW5IV0RxT2RtRG53MjhfMHFCdEI2SHBuRWdNV29rU3V3VGN1a0ZTWFB3d1F6ejNMMnFmUTMxYTNaa0hmX0JUcG8yb0ZKOUdRLS1zSHpFYUJyLUEwZHFEWm1CNmZFaWI1OGIzVEFvRFlRVnRzaHJZWlFDY2lL?oc=5",
-   "date": "2026-09-29T17:36:25.000Z",
-   "source": "KitGuru",
-   "summary": "GTA 6 map is ‘twice as big’ as GTA 5 KitGuru"
+   "id": "gn-s7htpz",
+   "title": "GTA 6 Has Hurricanes, 170 Animals, Fun Activities, Weather System Detailed",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlA3NW1iTlZIQ1ZzV192ejFqdk9Ybi1iYzRxM2RaTU1SeVpiTXJMRmJoX3F6ODJuaFZDZ0JkSDlIaDdFT0dkT0tNcndKeU5tRkdscExPYVJHS20yNU92NXRmdndGdWprQUpTVEV2RXg2bVI2S2djdEZtM0RreUlYcXM1N0tvQ0J0UTNqQWxKTDViYlpremVOdXZvMFROaFE?oc=5",
+   "date": "2026-09-29T17:30:58.000Z",
+   "source": "RockstarINTEL",
+   "summary": "GTA 6 Has Hurricanes, 170 Animals, Fun Activities, Weather System Detailed RockstarINTEL"
   },
   {
    "id": "gn-1udn2z1",
@@ -474,8 +562,8 @@
    "title": "GTA 6 Reveal Crashes Game Informer App Amid Confusion Over Free Coverage",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMHpSS0sxY25sSFNVOElpZEEyNHoxRUhZRm12dkJGSHJ2V0tIQzZYa0UwbEZRbHpWQzlNdC02cE1wWWowdWMzb2FIOHE4eEhUYkZrdlZJYi0yd1NYMVZIdkgxa0ZzOU9HY1Vid295YUVwYmJhSTRENm1GX211eXkwYThmS1I2S1lLeUZMT3VVNUlCaG5Xc09rcEowOXpzaks0dzRpZ2kyZU1qU2R0bjZBTnZrN1pERWIxSldkalRiWEo3RnVPQ2V0cFNoY1FJZw?oc=5",
    "date": "2026-09-29T17:16:04.000Z",
-   "source": "IGN Southeast Asia",
-   "summary": "GTA 6 Reveal Crashes Game Informer App Amid Confusion Over Free Coverage IGN Southeast Asia"
+   "source": "sea.ign.com",
+   "summary": "GTA 6 Reveal Crashes Game Informer App Amid Confusion Over Free Coverage sea.ign.com"
   },
   {
    "id": "gn-acgqpt",
@@ -572,97 +660,49 @@
    "date": "2026-09-29T16:00:00.000Z",
    "source": "Game Informer",
    "summary": "The Grand Theft Auto VI Digital Issue Is Now Live Game Informer"
-  },
-  {
-   "id": "gn-1bmch14",
-   "title": "58 other games are out the same day as GTA 6 and we've not heard of any of them",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NQ01NTkFSUnllYUhBRzdDZTZKamJnb3hrTEZiTzRaMkg4ZVJpQ3lGR0hRRS1iZWw1TkltaWVoYXYwRUhURzNUS0J0ZC1jLVBlQ1pyQzhfY1k3TS1LVG5oeEJvV21pUzVZZVJvNmg3a3lOMUd5MVV1ZNIBfkFVX3lxTE5DQ2NaTkZRLWlnT2FreGxNOFVJMW0weDRFVXl1OTkxZ2JXaFdXQzlGR1JvRm5seS1hLTlZSGZZcmpLZElYeFhuYXdtZ0VSVThkQi1xY1ltRThRTWZNZ0dGVGFBelByRjZ4VXE5QU9rRUt6b0w3UVN2S1RQenZoUQ?oc=5",
-   "date": "2026-09-29T15:36:00.000Z",
-   "source": "Metro.co.uk",
-   "summary": "58 other games are out the same day as GTA 6 and we've not heard of any of them Metro.co.uk"
-  },
-  {
-   "id": "gn-8mimh3",
-   "title": "14-page GTA 6 feature will release today, and we already know the game has \"advanced weather systems\"",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVFdVZEQ0ZmtXeEM4dzE4QmV1TVZFTmdRSk1oT3JJZjVNVmhtM0ZJZzlfSTlhYU5memx1WkVSVDVNQ0tvMkJVZ2QyNVJpYXpyUEczQ1l0QnFDSjdDY2NlbUJiWGtKODZxX0tyVWZnNzBqc3VmRmhySk5RMEFlRWs0ejdjSHFRX1NpTGlFaTRLUkRSaUpaMFZmWFBkeklmWEszTFFUYS1TcVNxc0UzMzA4ZURPMnVVU3IwZVR0U2w5NlJ2a0syZHAw?oc=5",
-   "date": "2026-09-29T15:29:28.000Z",
-   "source": "pcguide.com",
-   "summary": "14-page GTA 6 feature will release today, and we already know the game has \"advanced weather systems\" pcguide.com"
-  },
-  {
-   "id": "gn-1kr6zws",
-   "title": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmZidW9yNEp2OGVFY3d3QW9jSXgzNDNwWWJ3RnljVUlRV2kwLUs0TWZ0R2VWaE02YkxkVlBCSVQydlZSUG4xQk5lM3JsdGsxN0lGREcydjVlREFzNEtvdzdRT2VpUmZ2QXpOa2U0TnplekFfMjdzckxlQURzV1FfOWtvb0U3X09lWG0xbGhuWExwdzQ1QVZTUTJvZmJIalZKUUE?oc=5",
-   "date": "2026-09-29T15:22:49.000Z",
-   "source": "PCMag",
-   "summary": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works PCMag"
-  },
-  {
-   "id": "gn-17xumiz",
-   "title": "GTA VI anticipation creates fresh opportunity for Roblox (RBLX:NYSE)",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSHBsWTE2eWZqUDhxNDNta3hzN1ZHNEp3OXFDZGlpZlAyMDItblUzbVhhR1BjNWVYNG9uSlVpU0tOM0lqZWVYai1DUk1JTXpSQVRMc3BTd3dNUm1iVmNwNnFSTkVmaHIzVW1Uckp1dExYQzBMYmYxOHE5eEFYRGJHellTYWxGcVpfTzIzTUZWcUpsY3pzMWFqLW1B?oc=5",
-   "date": "2026-09-29T15:00:27.000Z",
-   "source": "Seeking Alpha",
-   "summary": "GTA VI anticipation creates fresh opportunity for Roblox (RBLX:NYSE) Seeking Alpha"
-  },
-  {
-   "id": "gn-9g15xa",
-   "title": "World of Warcraft: Forever is Xbox's GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY1NUUW5YbGZvT29wNzVmUFpaaXQ3elZLRFpURlIxX0RnWlNYQzhyWkxuM3RrY2lXOW8zVW5lU0JlRHlvZmRIVDdUN2RlU2NBUkZJRFRhVUptRl9rNUZPZjJrR2o5WEMwQ284OHF3eHFqaG5XSHNlT0k3Y28tZFdtUVdlRk1sR3BYckszYVFQMA?oc=5",
-   "date": "2026-09-29T14:36:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "World of Warcraft: Forever is Xbox's GTA 6 Notebookcheck"
-  },
-  {
-   "id": "gn-1vovheh",
-   "title": "Upgrade your TV ahead of GTA VI release at up to $1,100 off: LG, Samsung, Hisense, more",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfUngxRFlCRDRSOTRlMktydWNXYl9ya2xOQmdWUk5xQ0N5bUY1U05qMU1VR2ZZQTVMOC1tQ0RKX0JpQUF6aUFKN3JXY0FMNTREOGc4RGxSbWtrLWVVY0JDdG9OcjhtQklqVGNKVk1yck5xOUppQmNDSDF3?oc=5",
-   "date": "2026-09-29T14:35:00.000Z",
-   "source": "9to5Toys",
-   "summary": "Upgrade your TV ahead of GTA VI release at up to $1,100 off: LG, Samsung, Hisense, more 9to5Toys"
-  },
-  {
-   "id": "gn-1wta89g",
-   "title": "Roblox Is Poised to Cash in on ‘Grand Theft Auto’ Copycats",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmdEeHdEX3EzU2ZmSkxUbnlSVlhrRkxNM05qb21XWU1JZTVoc3h4b2NtQW5CU0R1SzBfLVZTQl9tRGVYeXFhSFdVZXI2ZEdHQkl1S2tHM1V2T2V4NkEzd2tERnBobVlzMzdzUlVUY2Q3M0s1TXVJUGcyaEk2djNtOXB4NnhVc2o5RkJhdUExMGZfYWlxWGtLQ2FCZU1ROW1Sb1luUm96dTZrYU0?oc=5",
-   "date": "2026-09-29T14:09:16.000Z",
-   "source": "Bloomberg.com",
-   "summary": "Roblox Is Poised to Cash in on ‘Grand Theft Auto’ Copycats Bloomberg.com"
-  },
-  {
-   "id": "gn-1s5x1xq",
-   "title": "Returning to Vice City Put Me in the Perfect Mood for GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVA3NnY3WFd1OXlWZFpvNFZSNmNmSUlSMHAyNWE1OVJxTW1wMEFuX3o0ZXg1S2d4OTlRS3o1dkVtcmJiQkp6d0YzcUdkTkF4cVNCRmQyRFcwWmlrUzZaTDc1anVXRi1FVWc0Yl9uOXUwZGlFU1dXUlFKRlVabm8tdHR4cWZ1dnZiRDlaZW9QQll5Q2ZX?oc=5",
-   "date": "2026-09-29T13:00:14.000Z",
-   "source": "PCMag",
-   "summary": "Returning to Vice City Put Me in the Perfect Mood for GTA 6 PCMag"
-  },
-  {
-   "id": "gn-a1fj3y",
-   "title": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQUxrRGZHYmozeDJ0Q1U3Ni1MbEh2WjdNcERtNWhJYmdPZE5IaWNTQklJN09uWkRPV1ZJanBSV2JONGNsdHZzZ1RPdFh1RmVacGtfRUluYnlxYjBsVVZlUDk4eE5FTHUtS2g3NG92ZUpkQ05ycG01RGhOdFJreUhTVHJaWTFjWmVYdXZYdS1GZ2VCd25MeWM2WXRkb09uUlRYS3ZUQVFhUWtUdk9JLUMwYlhicE9SRlpzTWZJRU45M1oxeVBYRTBGUlBMWHU2Zw?oc=5",
-   "date": "2026-09-29T13:00:00.000Z",
-   "source": "GameDev.net",
-   "summary": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6 GameDev.net"
-  },
-  {
-   "id": "gn-c481sr",
-   "title": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGhqY2pTYVhLN3ZHa1RHRVJWNjdyQTZQTHA5NkdRM3lKQ05uZDM1M1R6UmFwQkRzVC1kVWxnM0NIZXRBdllzVURkV1gzZE5sblRfOF9KVTZ4a2kzVUthVGRXQWVNTWZ2UjdobzdnVHdaLXdpbEljWjJjZ1psaFhCZlJWYTlwVDIwX0ttRGpKZUZtcmxzVnVxajFvY2wtVDQtLUVfZjZmdjJuOEw5MVhfTDA0cXc0NFU4U3NVblN2OFI3eXQ4YTF3YUhaTQ?oc=5",
-   "date": "2026-09-29T12:30:00.000Z",
-   "source": "GamesIndustry.biz",
-   "summary": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6 GamesIndustry.biz"
-  },
-  {
-   "id": "gn-1avrxqj",
-   "title": "Xbox doesn't even need GTA 6 for November — it has something even better",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkZhR0FMeXBnenBuTzZ2Q2RfekhTN1I4OUwtR2VZaF80SnVnanpYSWZobnRaMjJleEZDQXQ0ajdraFEyeDhlOVR3UWJJT3ZYVzBaNWdpRTJTR2VoNHBiaklyb0F3cmNnNEtfVS1hQUU5dkxkaWxIc3pRLTNMU3BTRl9FbGk2ZGlJelM5Y1d3ZkVTa29zSTFqY04wYk56UTNhM0MtWllKMURzTVBMR3ZUZG9B?oc=5",
-   "date": "2026-09-29T12:00:00.000Z",
-   "source": "Windows Central",
-   "summary": "Xbox doesn't even need GTA 6 for November — it has something even better Windows Central"
   }
  ],
  "community": [
+  {
+   "id": "rd-90c4i7",
+   "title": "Did people expect a real life simulator ???",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wtnkd9/did_people_expect_a_real_life_simulator/",
+   "date": "2026-09-29T22:02:10.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Aware-Screen-8982 [link] [comments]"
+  },
+  {
+   "id": "rd-1uqi7ly",
+   "title": "Custom wrap I had made for my PS5",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wtngvt/custom_wrap_i_had_made_for_my_ps5/",
+   "date": "2026-09-29T21:58:41.000Z",
+   "source": "r/GTA6",
+   "summary": "Used some official GTA 6 artwork to have a vinyl wrap made for my Ps5 installed it myself today and loving the results so far! submitted by /u/Brilliant-Ad2155 [link] [comments]"
+  },
+  {
+   "id": "rd-x2xj6c",
+   "title": "Crop Duster - GTA 6 vs GTA 5",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wtld1f/crop_duster_gta_6_vs_gta_5/",
+   "date": "2026-09-29T20:35:11.000Z",
+   "source": "r/GTA6",
+   "summary": "This new crop duster photo, possibly R* paying hommage to the crop duster clip from the GTA V trailer! Pretty low quality of the new photo unfortunately submitted by /u/OMXS30 [link] [comments]"
+  },
+  {
+   "id": "rd-1q76i1c",
+   "title": "This is the same airplane and it drops packages, looks like we will be getting some cartel missions",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wtj7sy/this_is_the_same_airplane_and_it_drops_packages/",
+   "date": "2026-09-29T19:13:11.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Aware-Screen-8982 [link] [comments]"
+  },
+  {
+   "id": "rd-1kxa4h6",
+   "title": "Stormy vs. Sunny (did they improve draw distance even more?)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wtj5cq/stormy_vs_sunny_did_they_improve_draw_distance/",
+   "date": "2026-09-29T19:10:36.000Z",
+   "source": "r/GTA6",
+   "summary": "Did they improve the draw distance even more? The bridge in the new screenshot looks way more detailed now. submitted by /u/wasservilla [link] [comments]"
+  },
   {
    "id": "rd-vix2cy",
    "title": "Grand Theft Auto VI is officially rated worldwide on the PlayStation",
@@ -942,46 +982,6 @@
    "date": "2026-09-28T19:14:26.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/wasservilla [link] [comments]"
-  },
-  {
-   "id": "rd-1tzgvdn",
-   "title": "My drawing (colored pencils + acrylic markers + liner)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wsnplm/my_drawing_colored_pencils_acrylic_markers_liner/",
-   "date": "2026-09-28T19:08:08.000Z",
-   "source": "r/GTA6",
-   "summary": "There were quite a few difficulties with this drawing. First of all, I made the wrong choice of paper. I picked a very smooth paper, which isn’t the best choice for this type of colored pencils. When "
-  },
-  {
-   "id": "rd-snas2j",
-   "title": "Article of the Day #28: Moreland 850 (Remington 870 shotgun)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wsnjgb/article_of_the_day_28_moreland_850_remington_870/",
-   "date": "2026-09-28T19:01:57.000Z",
-   "source": "r/GTA6",
-   "summary": "Moreland is also a new firearms manufacturer in the GTA series based on Remington Arms. submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-1xpf9d4",
-   "title": "Limitations hidden behind features",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wsjjaq/limitations_hidden_behind_features/",
-   "date": "2026-09-28T16:35:56.000Z",
-   "source": "r/GTA6",
-   "summary": "A little over 50 days to release has me combing through everything we've learned since the extended look with a fine tooth comb. Something that I've realized that I haven't seen someone talk about is "
-  },
-  {
-   "id": "rd-1638yof",
-   "title": "We're closer to the release of the game than the announcement of the extended look",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wsj4u2/were_closer_to_the_release_of_the_game_than_the/",
-   "date": "2026-09-28T16:21:04.000Z",
-   "source": "r/GTA6",
-   "summary": "Another fact: there are 1,081 days between trailer 1 (December 4th 2023) and the release of the game, and out of those 1,081 we only have 52 left submitted by /u/TimHonks24 [link] [comments]"
-  },
-  {
-   "id": "rd-1av3zgu",
-   "title": "Times really do change",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wsh4m7/times_really_do_change/",
-   "date": "2026-09-28T15:07:13.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/The9HourChampion [link] [comments]"
   }
  ]
 }
