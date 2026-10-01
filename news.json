@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-01T01:02:14.988Z",
+ "generated": "2026-10-01T07:28:21.254Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-01T01:02:14.988Z"
+   "checked": "2026-10-01T07:28:21.254Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-01T01:02:14.988Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-01T07:28:21.254Z"
   },
   "googlenews": {
    "ok": true,
    "count": 93,
-   "checked": "2026-10-01T01:02:14.988Z"
+   "checked": "2026-10-01T07:28:21.254Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-01T01:02:14.988Z"
+   "checked": "2026-10-01T07:28:21.254Z"
   }
  },
  "official": [
@@ -183,12 +182,68 @@
  ],
  "press": [
   {
+   "id": "gn-e4eoga",
+   "title": "Grand Theft Auto VI may get a dynamic tanning and sweating system",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREdlRHd6TEJjQy0wdUhQX0dzU0J1RjFJYjZ4UjRtN2FmMkVVTFVCUl9tYTFzclJ3bUYxX3lrVXNuX19RWE80YjdrYUV5UlhwcEdOMllqZ0JiM3drMHdNczc5dWVranNkSEY2bzlibV9PNG9zNGR2djlBbVZxeHY2TzJsUURCTXZ0UUREU1NxSS1zcGNkcHdOeEFQbFB5R200ZUlEUGVGYmNoSjZQbzZUaENJeXFhUQ?oc=5",
+   "date": "2026-10-01T06:45:01.000Z",
+   "source": "GameGPU",
+   "summary": "Grand Theft Auto VI may get a dynamic tanning and sweating system GameGPU"
+  },
+  {
+   "id": "gn-fz4wrl",
+   "title": "The long-awaited Grand Theft Auto VI will be available next month.",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1JtS2dod0kxXzlKbnFraV8tdktuU1o0ZDA2bFlPY3AxVTdKYy1wSVJXZW9fc09sN3B2MUhrNmNRSTV3bGVRU2ItRGlONVpkcEdVeEt5aklucjcyc3FsYjFXLUdnd1FIdUVxMWFHenh6STdtTEF0M1FWWGlLN0tVLUJGVkxDR01nX1V3cDUxcWZ3bkc5RXZCUzdzR3B1YU9pcWhtRlRTTWZhTUd1ZFgxcERuZw?oc=5",
+   "date": "2026-10-01T06:15:06.000Z",
+   "source": "GameGPU",
+   "summary": "The long-awaited Grand Theft Auto VI will be available next month. GameGPU"
+  },
+  {
+   "id": "gn-14mdq1k",
+   "title": "Forget GTA 6, this solo indie dev made a PS2-style '70s Istanbul GTA in Unreal Engine 5",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWVE5SUtZZWhoUDh0VVVwcXNXVEI1Z2ZTM1lHcUhGZUw5WENpY29vUG1DUWxmbm1vUUlGb1VjMXBWODFDUlRSTWI3OThDeTlXR2dCM0dTUDlRTVgtZng4WXdGekQ4ODBOZDZmOWhfSGRzWFZ3bElfU2JHSUxlT09DMWwxQUJGNVB1anZOTzl2Ynh2b3dXZy1KU0hESUQ3SFdVeENzQXAxRDR0cVJzM2tSb1pEdkNEeWhGUzVHQTlOaXRGX2RENkNvWjItUW9sempV?oc=5",
+   "date": "2026-10-01T06:00:00.000Z",
+   "source": "Creative Bloq",
+   "summary": "Forget GTA 6, this solo indie dev made a PS2-style '70s Istanbul GTA in Unreal Engine 5 Creative Bloq"
+  },
+  {
+   "id": "gn-56lxlx",
+   "title": "After GTA 6 Collector's Edition falls flat, fans covet Rockstar merch sent to influencers",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1RLSGhrNkwzYlNfYW0wcnNGdHRsS2NfcXZCVGtrU0p5b0kxLU9rNHBCUmtQWEdyajcza0xCTW5OcGU2dXhHME9IdG1tYVNiTGJOaFB4VWdoenlnY2l2bEpnaHZaN1IteFByNmFTRDlJZFBsV2lCZUdueVNoMU5xckp4YW5rNTRjWHBrRUNXRlpRZ3g1aDJBNWQ2V09Ock0zNmNteU9kV2dPOVRwTl9fR2VqblJXSlNBYkhpWHFhNXBiV1prbmpvd19MVTB1Zw?oc=5",
+   "date": "2026-10-01T02:50:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "After GTA 6 Collector's Edition falls flat, fans covet Rockstar merch sent to influencers Notebookcheck"
+  },
+  {
+   "id": "gn-1kr6zws",
+   "title": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmZidW9yNEp2OGVFY3d3QW9jSXgzNDNwWWJ3RnljVUlRV2kwLUs0TWZ0R2VWaE02YkxkVlBCSVQydlZSUG4xQk5lM3JsdGsxN0lGREcydjVlREFzNEtvdzdRT2VpUmZ2QXpOa2U0TnplekFfMjdzckxlQURzV1FfOWtvb0U3X09lWG0xbGhuWExwdzQ1QVZTUTJvZmJIalZKUUE?oc=5",
+   "date": "2026-10-01T01:39:59.000Z",
+   "source": "PCMag",
+   "summary": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works PCMag"
+  },
+  {
+   "id": "gn-1u9ifsj",
+   "title": "Everything we know about Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdzE5SnFsUTVIcGxZdjVXRlphcEt4bE03dmo2S3dZaGlIeU5iczZFWFRCQnlJeThMaU5neC1nUU5mSnNlUzNEX0J2VkFiVEtVYVE1T3VZS3htV0E?oc=5",
+   "date": "2026-10-01T01:30:09.000Z",
+   "source": "Esquire Australia",
+   "summary": "Everything we know about Grand Theft Auto VI Esquire Australia"
+  },
+  {
    "id": "gn-c6atg8",
-   "title": "Rockstar Confirms GTA 6 Will Skip Disney World, Universal and the Space Coast",
+   "title": "GTA 6 Leaves Disney World and the Space Coast Out of Leonida",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWF9UaUpvMkVsSmZrSHptM2RFLUswWld3Uk9kSXhRUTZIeXY2a3ZYUGVjbEhRTklsN0RMdHRScjRlejBBTElqbF9yWVluaDN0VEVpNXo3R3pjbS1QSGo1OHBjUUozWnpYeV9pVF9ycnh5bmNMZFVrNHE0QWY1TnZiZllaZnozTlkzdFU0OUE4cVdhUQ?oc=5",
    "date": "2026-10-01T00:58:34.000Z",
    "source": "GTA BOOM",
-   "summary": "Rockstar Confirms GTA 6 Will Skip Disney World, Universal and the Space Coast GTA BOOM"
+   "summary": "GTA 6 Leaves Disney World and the Space Coast Out of Leonida GTA BOOM"
+  },
+  {
+   "id": "gn-zfuz3w",
+   "title": "GTA 6 Developers Visited Strip Clubs And Rode With Ex-Cops To Get First-Hand Florida Experience",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2FZM3ZtQlFMZ0h6VFZ0U1RqQnNSYW9oUjN2ekR3SmFDWWV6MUMxU0VtS3FzSWxqR2lzSGRXMGFKY1RQSTlJeVFCb1FmSDlQYXlwTkZZZ1RyYVV4SjRrb1M4a0Y4cFVESnNhelQxZmtvWGJ6WTZHLUVucW03cXgwamVVT3hkWFpkVkEzVU1uMHM0QU1ZZmc1aHBXWGUwT1dRUjhMaGptRndNV0xYLXhaOFBNTWdZMnVJc0VjUHRtNA?oc=5",
+   "date": "2026-10-01T00:45:44.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Developers Visited Strip Clubs And Rode With Ex-Cops To Get First-Hand Florida Experience IGN"
   },
   {
    "id": "gn-2tqws3",
@@ -199,20 +254,20 @@
    "summary": "‘Grand Theft Auto VI’ Becomes First Video Game of 2026 to Top List of Titles People Are Most Excited About Yahoo"
   },
   {
-   "id": "gn-vg2ne8",
-   "title": "GTA 6 is creating PS5 Pro shortages. Sony's solution? Prove you're a real gamer to enter a lottery to buy one",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc09zUGUyeGJaejFra2VoSlRUOGtsOHFpNkJrTzhBUE43T1RIX3VpTVRzN0lKdjVQeWNqcmJRU2hxYkdaWlE4aC1udHpTdkdXQ0x5eENEcUdTMWluYkRrWE1yN3RQV0taVVhrZV9rNk9SOG9vYjRvSlFfYVpkbkV4alJRUQ?oc=5",
-   "date": "2026-09-30T23:02:42.000Z",
-   "source": "Mashable",
-   "summary": "GTA 6 is creating PS5 Pro shortages. Sony's solution? Prove you're a real gamer to enter a lottery to buy one Mashable"
-  },
-  {
    "id": "gn-37frof",
    "title": "GTA 6 Devs Visited Real Strip Clubs for Research - IGN Daily Fix",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEFxYVUyS21CTDJKdWFKZEJkaHl3UlVwQXFkYnlxRUZVNng4TEFWTUdhbFJJeWg4Rmt5S0tueURhTW42bW1zUUg5UjdnbXJhQjlwbWc4czZRbkN5Z05QVkxSZExnQ24zM2l3X2YyOW8tTXI1M241WEVxYlhFRlNKeFBLWDZFOXhDTGlOb1g3WVNpOGRpMjRRcVRfUlJpcU51M05ZUVctejhDQ1d4TFJxM01CR001SUJLdHhFVkVVZw?oc=5",
    "date": "2026-09-30T22:26:22.000Z",
    "source": "IGN Pakistan",
    "summary": "GTA 6 Devs Visited Real Strip Clubs for Research - IGN Daily Fix IGN Pakistan"
+  },
+  {
+   "id": "gn-1lbtlzf",
+   "title": "GTA 6 Devs Visited Real Strip Clubs for Research - IGN Daily Fix",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFlMSTlUa1dUY2NKOV95eTYyWkVWRnZLNEtTSG1Bc2JRVXN1YTIyTC1JbjM1ZzZieWdPNlYyNHZGa3AzNTViWXEtbmd0ckZJRjFGOWhINlN0eWxxNjlfSnFvaGpia2M2cUJqS2FHemt5aHRZTko5NGVyZ1VqNFB5TF96WF9oeDN3X044YkxLa25uc1N4elhhSmVJT250NzQyWmdkbmVHNnFaRjhaeVBfTHdKenhGTElPbTRJWWl0dlc?oc=5",
+   "date": "2026-09-30T22:26:22.000Z",
+   "source": "IGN Southeast Asia",
+   "summary": "GTA 6 Devs Visited Real Strip Clubs for Research - IGN Daily Fix IGN Southeast Asia"
   },
   {
    "id": "gn-17lz6r5",
@@ -237,14 +292,6 @@
    "date": "2026-09-30T21:20:37.000Z",
    "source": "Resell Calendar",
    "summary": "New GTA 6 Merch Might Drop Tomorrow Resell Calendar"
-  },
-  {
-   "id": "gn-1kr6zws",
-   "title": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmZidW9yNEp2OGVFY3d3QW9jSXgzNDNwWWJ3RnljVUlRV2kwLUs0TWZ0R2VWaE02YkxkVlBCSVQydlZSUG4xQk5lM3JsdGsxN0lGREcydjVlREFzNEtvdzdRT2VpUmZ2QXpOa2U0TnplekFfMjdzckxlQURzV1FfOWtvb0U3X09lWG0xbGhuWExwdzQ1QVZTUTJvZmJIalZKUUE?oc=5",
-   "date": "2026-09-30T20:28:20.000Z",
-   "source": "PCMag",
-   "summary": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works PCMag"
   },
   {
    "id": "gn-1y5ymiw",
@@ -296,11 +343,11 @@
   },
   {
    "id": "gn-1lohk1u",
-   "title": "GTA 6 Will Lock Story Missions Until You Earn Enough Cash",
+   "title": "GTA 6 to Lock Some Missions Behind How Much Money You Have",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR004aTh3ekE4U3lxMmxrZ05RVmVmUTNCcHlLTElXbmNzS3I3OXhEODJNMmQ3WVNjUDBEUGswVGlEWENHMURPeS02TldYX19QNDVmckpJYXZoWlp2RnREX3dkb0FwWDFnZ2tKNmtlSVNWS2J4R2YyUjBtSFNrVUJjNEJ4c0tGbDEzM0x3QUNDV18?oc=5",
    "date": "2026-09-30T17:46:54.000Z",
    "source": "GTA BOOM",
-   "summary": "GTA 6 Will Lock Story Missions Until You Earn Enough Cash GTA BOOM"
+   "summary": "GTA 6 to Lock Some Missions Behind How Much Money You Have GTA BOOM"
   },
   {
    "id": "gn-vzp84p",
@@ -379,8 +426,8 @@
    "title": "Money really matters: There will be GTA 6 missions you can’t start if you’re too poor",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcy1OWjhHTjk4RmFybzYyY0Q4XzNoRC0wb193R2hrcnVrX2dtR0hWNGV4cDhtLXZHZHAyMFdmdXpRbUNJNGp0N1Bodkd4b0pucnZ1bVVWLUpjOHBXZUYxM3FxVlhnTks4TDFFR2tYZG1ZWVN2V2kzMERDZ3dmVnZPakh1dzBtQUZkSW1ybXVuT0RLRDR2UHNEbTgxRmtOQko5M2pEQUFOS1I1RnhWc1BDSUZRQ2hJSV94ejlRZVY3aXRabThxSzBn0gHbAUFVX3lxTFBRZzV5WjUzSmZvRE5nS0kwQVp6MWtVakZHOHVKczV4WEg2Qll1T1JLLW4tZzVhYy1RbHlUdjZFakFHVFgxT1lZTmpfY3JWeDAyU2FSQXRXVS1zMExGbmdLX3A2Mzktbk1HeFFXa0w4Q0hqNjFUZHVwRkk5bks4SmVtamRUTjdwbFBDMC11T0xFZlpIaHg4amFiYjVaamljU3BWQXNLcW8teTJoU2E2djhqWTR1RF94NkZNbDNYbk5jNnpOWXhiMDhHaXo3cldDZVJTOE9BbW1wX2F6bw?oc=5",
    "date": "2026-09-30T14:56:36.000Z",
-   "source": "en.as.com",
-   "summary": "Money really matters: There will be GTA 6 missions you can’t start if you’re too poor en.as.com"
+   "source": "Diario AS",
+   "summary": "Money really matters: There will be GTA 6 missions you can’t start if you’re too poor Diario AS"
   },
   {
    "id": "gn-14zo7wj",
@@ -491,8 +538,8 @@
    "title": "GTA 6 Probably Won’t Win Game of the Year And Here’s Why",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2ltcDFlMnB0a0lLc0FoYWd1WHBrQ1Exak5PdkRsdWpHcVBRc2FDMHpnSUpRZEVFeHFaZUdxci1YM1k5WmdTN05yVnBPcHJZYzhfWVBkV0VXVXdObURUTTBqM2w4THh4djJhLW1FRVplbTFxSGE0UEpCelotTEx1dlJyRTVSUWJJ?oc=5",
    "date": "2026-09-30T10:16:31.000Z",
-   "source": "rockstarintel.com",
-   "summary": "GTA 6 Probably Won’t Win Game of the Year And Here’s Why rockstarintel.com"
+   "source": "RockstarINTEL",
+   "summary": "GTA 6 Probably Won’t Win Game of the Year And Here’s Why RockstarINTEL"
   },
   {
    "id": "gn-zgkegw",
@@ -613,57 +660,105 @@
    "date": "2026-09-30T04:17:56.000Z",
    "source": "MP1st",
    "summary": "GTA 6 Activities, Weather System Info Surfaces; Expect Over 170 Animal Species MP1st"
-  },
-  {
-   "id": "gn-cybewz",
-   "title": "Returning to Vice City Put Me in the Perfect Mood for GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGN5M2NxcTZXR3ktNktZcE1zajNqYW51a0NQRmVMYkhySkxYdUhpZUJ6NHF6MktuSzRvS3pURWxqYndVRUxOcEM5cnE4NHhNYXJYYzgyNUU1ZmJpc0w1aUNrdm1GVVo2UEJPMF9pYWZkMENGdjVXYmRYOEJqRm5mSEU5TDF4WGlpUjM5X0dLQjBTQnQ3b2x0WUxjaw?oc=5",
-   "date": "2026-09-30T04:17:25.000Z",
-   "source": "PCMag Middle East",
-   "summary": "Returning to Vice City Put Me in the Perfect Mood for GTA 6 PCMag Middle East"
-  },
-  {
-   "id": "gn-13itxvt",
-   "title": "Rockstar Drops Fresh 'Grand Theft Auto VI' Details Of Game's Dynamic World & Side Activities",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQVBOdFp1VXJESXUwRXdxY004ZTNXSjdoOXZWSGliNUprM19MY0J6Y21UNUxGeENZbW1UeVpKYkNxMEVYSjR1ckVjS0FhN3A4eHRaRnRZUjJMZVlBeG1Sb1BxeWVnNjFvRHJMN2s1Nm45WWVQRmtjdEp6WmI4NW1DampmTE1OaE1qRUhVN2h5SDlBb3N4UjJHZ01Eck5fWC00el91cU5wTEVPZm12NkNxcw?oc=5",
-   "date": "2026-09-30T04:08:08.000Z",
-   "source": "Geek Culture",
-   "summary": "Rockstar Drops Fresh 'Grand Theft Auto VI' Details Of Game's Dynamic World & Side Activities Geek Culture"
-  },
-  {
-   "id": "gn-1qk6ckb",
-   "title": "GTA VI's hurricanes, map size, romance, and 170 animal species explained in new report",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFI2Y0wteW1rRjdUaXBXS2xCckxaQzBYX3BhZ2JKXzc5cGc5eEZHTEJDY1R4NW8xTHFfUXZLSkFTZEUtcnJMNy1SNVpnajk2cHE0MDVjZVRnc0hjTFhqUDJGb1B1V1l2cWNreTBjUWpBaVVPRkdLWWphYjFQXzRmSVhJVXZNb2ZkczFmYzlHeGpQeDM0T04xU080UGY2TkwzaGNpa0Vld1hFcmF1WXBaeEFLUC1Idks1TXd3aHhZOWFJeDBRN29xQmo3SDJndE91WjFR?oc=5",
-   "date": "2026-09-30T03:32:30.000Z",
-   "source": "GosuGamers",
-   "summary": "GTA VI's hurricanes, map size, romance, and 170 animal species explained in new report GosuGamers"
-  },
-  {
-   "id": "gn-xv7gpn",
-   "title": "PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUnprRFlBaHhKbmFFbElsUWFRUVYwZE1xVW9EQVBGeEYzSlJURTBTMEo3ZTdtdGdQQWp2NkI5U0xlYjZvYmt6WTYtc2VwcG5EOFNWQkZ4TWhTZndzNDdSa1EtZHNHdE4ybl94STdQamtPdUJxdlIyeWl3ZXh1Mko1TWtZaktzYkVnaFQ3TTlZZjA4YmxmVFpjN1VSUXE2UUJSR3dwdUVkcUExUTVXbGtVd3NxRG1fdVdRejJ5THZ5Y2w1eF9mVmxEb085dVZiUQ?oc=5",
-   "date": "2026-09-30T02:32:22.000Z",
-   "source": "kotaku.com",
-   "summary": "PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6 kotaku.com"
-  },
-  {
-   "id": "gn-rve3uw",
-   "title": "New GTA 6 Info Revealed",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RYXoxcGRzcTJKUTY2bXNrbk5DTzVjcHU4WFJmUnlxaGEzZ19aYWNhaDMyYjhmS0Z6TmlINlNGc2txT2pSMzVqdC05QVAyNDdTVm9RWkNNcFBELV9TV3Vn?oc=5",
-   "date": "2026-09-30T01:33:31.000Z",
-   "source": "IGN",
-   "summary": "New GTA 6 Info Revealed IGN"
-  },
-  {
-   "id": "gn-vr5003",
-   "title": "New GTA 6 Info Revealed",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iMng4WURhdEdPaTZGT1pVcjZEdDViM1FhNG50S3NMcGpOUENKRlZ4c2JrMm1LaGVIUlFndDlTNkJXMXVRX2FnVDdVaTVRQTE3RGtTdnVTWlppb1pzMEg4aEVYd202MXVTRTZr?oc=5",
-   "date": "2026-09-30T01:30:54.000Z",
-   "source": "Yahoo Tech",
-   "summary": "New GTA 6 Info Revealed Yahoo Tech"
   }
  ],
  "community": [
+  {
+   "id": "rd-2cbuhh",
+   "title": "Weather is going to be insane... Imagine online flying planes its storming like crazy... what other weathers could they add?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wurkbl/weather_is_going_to_be_insane_imagine_online/",
+   "date": "2026-10-01T05:53:59.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/AndyGmanWasTaken [link] [comments]"
+  },
+  {
+   "id": "rd-1vqh4ri",
+   "title": "Leonida Zoo: How Will It Work?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wuqfmh/leonida_zoo_how_will_it_work/",
+   "date": "2026-10-01T04:47:14.000Z",
+   "source": "r/GTA6",
+   "summary": "I'm really interested in seeing how the zoo works. Sure, Jason and Lucia could go there on a date and fill up their animal compendium, but simply walking around looking at animals doesn't seem like so"
+  },
+  {
+   "id": "rd-fy1rzh",
+   "title": "This was 1032 days ago 💀",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wuq9mr/this_was_1032_days_ago/",
+   "date": "2026-10-01T04:37:32.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Pistoluislero [link] [comments]"
+  },
+  {
+   "id": "rd-19xmyr9",
+   "title": "THE VICE CITY SIGN IS NOW LIT UP",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wuo0hf/the_vice_city_sign_is_now_lit_up/",
+   "date": "2026-10-01T02:37:21.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/poorna_sus14 [link] [comments]"
+  },
+  {
+   "id": "rd-1u0yxov",
+   "title": "seeing all these posts abt people talking about gta 6 coming NEXT MONTH makes me so happy",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wuna1q/seeing_all_these_posts_abt_people_talking_about/",
+   "date": "2026-10-01T02:00:35.000Z",
+   "source": "r/GTA6",
+   "summary": "something about thinking that this game was supposed to come out spring/fall of 2025 to now has me super pumped for this game. From all the gameplay we’ve seen, starting to think about the possibiliti"
+  },
+  {
+   "id": "rd-1fat92d",
+   "title": "Looks like fruit falls off trees?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wukz4t/looks_like_fruit_falls_off_trees/",
+   "date": "2026-10-01T00:08:14.000Z",
+   "source": "r/GTA6",
+   "summary": "Maybe it’s always on the floor, or maybe it falls and regrows 🤔 makes me wonder if we will be able to pick up items to eat, like in RDR2 submitted by /u/coldbluebong [link] [comments]"
+  },
+  {
+   "id": "rd-1xm5hrb",
+   "title": "Variety of Watches in GTA 6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wuk33v/variety_of_watches_in_gta_6/",
+   "date": "2026-09-30T23:27:34.000Z",
+   "source": "r/GTA6",
+   "summary": "If you find more feel free to post the screenshot here in the comments!! submitted by /u/SeniorGovernment8846 [link] [comments]"
+  },
+  {
+   "id": "rd-70r5qr",
+   "title": "Anyone else excited for the possible re-introduction of this beautiful feature?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wujkyo/anyone_else_excited_for_the_possible/",
+   "date": "2026-09-30T23:04:19.000Z",
+   "source": "r/GTA6",
+   "summary": "With in-game free-roam photography being a constant in the franchise since GTA:SA evening appearing in a mission in GTA:VC as well as the confirmed feature you can punch NPCs and take what they were c"
+  },
+  {
+   "id": "rd-1gmjzvz",
+   "title": "GTA 6 Comes out Next Month!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wujd7b/gta_6_comes_out_next_month/",
+   "date": "2026-09-30T22:54:37.000Z",
+   "source": "r/GTA6",
+   "summary": "It's actually crazy that we are at the point where we can say this. Doesn't even feel real lol. This makes it sound so close! submitted by /u/BlueDias_DB [link] [comments]"
+  },
+  {
+   "id": "rd-1maut7n",
+   "title": "Tan lines on Lucia, sweating on Jason's skin, etc. Rockstar might take climate immersion past my expectations.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wuhr3b/tan_lines_on_lucia_sweating_on_jasons_skin_etc/",
+   "date": "2026-09-30T21:44:06.000Z",
+   "source": "r/GTA6",
+   "summary": "I might be pointing out the obvious (and sorry if I am), but looking closely at the details we've seen so far, alongside the recently confirmed hurricanes and probable dynamic weather mechanics, I hav"
+  },
+  {
+   "id": "rd-jbqvh9",
+   "title": "How will the hurricane possibly work ?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wue9bk/how_will_the_hurricane_possibly_work/",
+   "date": "2026-09-30T19:25:29.000Z",
+   "source": "r/GTA6",
+   "summary": "So one thing I still can’t get in my head is, if the hurricanes are not story affected and really can occur in the open world, how the hell could that work ? Will smaller buildings get destroyed to so"
+  },
+  {
+   "id": "rd-8q1p46",
+   "title": "This is the last time we can say \"I can't play GTA 6 this month\"",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wue6kn/this_is_the_last_time_we_can_say_i_cant_play_gta/",
+   "date": "2026-09-30T19:22:39.000Z",
+   "source": "r/GTA6",
+   "summary": "It feels unreal considering how long we've been waiting for this game. Trailer 1 and even 2022 leaks feels nostalgic at this point. I remember the scottish guy trolling people in the gta forums before"
+  },
   {
    "id": "rd-gootw0",
    "title": "GTA6 is the first game in history that comes close to \"What would you build with unlimited time and budget?\"",
@@ -887,102 +982,6 @@
    "date": "2026-09-29T18:36:48.000Z",
    "source": "r/GTA6",
    "summary": "\"As the pressure for us on this project is huge, we dealt with that by doing our best to overdeliver,” Garbut says. “Normally you compromise scale for detail or detail for interaction, but with this p"
-  },
-  {
-   "id": "rd-1sco19b",
-   "title": "Everything from the game informer article",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtg4xi/everything_from_the_game_informer_article/",
-   "date": "2026-09-29T17:18:48.000Z",
-   "source": "r/GTA6",
-   "summary": "Credit for the writeup Ben/Video tech on Twitter The big long list of new details #GTAVI details via @gameinformer WORLD & MAP ▪️ GTAVI features more interiors than ever before, with Rockstar focusing"
-  },
-  {
-   "id": "rd-1ysfqif",
-   "title": "Game Informer reinforces that Gloriana is based on Georgia",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtg4ev/game_informer_reinforces_that_gloriana_is_based/",
-   "date": "2026-09-29T17:18:17.000Z",
-   "source": "r/GTA6",
-   "summary": "gta.wiki/Gloriana submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-1c25hca",
-   "title": "Gameinformer article summary",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtfdgx/gameinformer_article_summary/",
-   "date": "2026-09-29T16:50:23.000Z",
-   "source": "r/GTA6",
-   "summary": "NEW GTA 6 Information courtesy of Game Informer: - GTA VI features a significantly upgraded dynamic wind system. - Includes offshore breezes after sunset, convectional updrafts, and wind occlusion fro"
-  },
-  {
-   "id": "rd-15xjcry",
-   "title": "New details about GTA VI from Game Informer:",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtfaao/new_details_about_gta_vi_from_game_informer/",
-   "date": "2026-09-29T16:47:03.000Z",
-   "source": "r/GTA6",
-   "summary": "• The game features a significantly improved dynamic wind system: after sunset, sea breezes, updrafts, and the influence of buildings on wind direction will appear. • Wind will affect hair, trash on r"
-  },
-  {
-   "id": "rd-5l0jpb",
-   "title": "Over 170 animal species across the map!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtf32s/over_170_animal_species_across_the_map/",
-   "date": "2026-09-29T16:39:37.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Pistoluislero [link] [comments]"
-  },
-  {
-   "id": "rd-160xrc1",
-   "title": "Yup the weapon straps are for real",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtf2am/yup_the_weapon_straps_are_for_real/",
-   "date": "2026-09-29T16:38:46.000Z",
-   "source": "r/GTA6",
-   "summary": "either the Extended look clip was outdated or the strap dissapears to not collide with the Duffel bag submitted by /u/Tvrdak [link] [comments]"
-  },
-  {
-   "id": "rd-1z0zq4p",
-   "title": "Hurricanes confirmed!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtf1xi/hurricanes_confirmed/",
-   "date": "2026-09-29T16:38:20.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Pistoluislero [link] [comments]"
-  },
-  {
-   "id": "rd-1av6v6k",
-   "title": "New GTA VI Game Informer Screenshots",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtf1p6/new_gta_vi_game_informer_screenshots/",
-   "date": "2026-09-29T16:38:07.000Z",
-   "source": "r/GTA6",
-   "summary": "Here are all the screensshots from Game Informer. Cheers! submitted by /u/The_Struggling_Soul [link] [comments]"
-  },
-  {
-   "id": "rd-at3wlm",
-   "title": "New GTA6 Screenshots from GameInformer Part 2",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtewqx/new_gta6_screenshots_from_gameinformer_part_2/",
-   "date": "2026-09-29T16:33:07.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/ADeadlyAlien [link] [comments]"
-  },
-  {
-   "id": "rd-80tgn",
-   "title": "New GTA6 Screenshots from GameInformer",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wteu4z/new_gta6_screenshots_from_gameinformer/",
-   "date": "2026-09-29T16:30:29.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/ADeadlyAlien [link] [comments]"
-  },
-  {
-   "id": "rd-jqy7cv",
-   "title": "Beach screenshot from the Game Informer article",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtet07/beach_screenshot_from_the_game_informer_article/",
-   "date": "2026-09-29T16:29:18.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Lame-Donkey [link] [comments]"
-  },
-  {
-   "id": "rd-tnb1mi",
-   "title": "New image of GTA VI shared by Game Informer.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtenwc/new_image_of_gta_vi_shared_by_game_informer/",
-   "date": "2026-09-29T16:24:09.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/ZamnBoii [link] [comments]"
   }
  ]
 }
