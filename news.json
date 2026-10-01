@@ -1,27 +1,28 @@
 {
- "generated": "2026-09-30T21:31:48.342Z",
+ "generated": "2026-10-01T01:02:14.988Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-09-30T21:31:48.342Z"
+   "checked": "2026-10-01T01:02:14.988Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-09-30T21:31:48.342Z"
+   "checked": "2026-10-01T01:02:14.988Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
-   "count": 94,
-   "checked": "2026-09-30T21:31:48.342Z"
+   "count": 93,
+   "checked": "2026-10-01T01:02:14.988Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-09-30T21:31:48.342Z"
+   "checked": "2026-10-01T01:02:14.988Z"
   }
  },
  "official": [
@@ -182,10 +183,50 @@
  ],
  "press": [
   {
+   "id": "gn-c6atg8",
+   "title": "Rockstar Confirms GTA 6 Will Skip Disney World, Universal and the Space Coast",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWF9UaUpvMkVsSmZrSHptM2RFLUswWld3Uk9kSXhRUTZIeXY2a3ZYUGVjbEhRTklsN0RMdHRScjRlejBBTElqbF9yWVluaDN0VEVpNXo3R3pjbS1QSGo1OHBjUUozWnpYeV9pVF9ycnh5bmNMZFVrNHE0QWY1TnZiZllaZnozTlkzdFU0OUE4cVdhUQ?oc=5",
+   "date": "2026-10-01T00:58:34.000Z",
+   "source": "GTA BOOM",
+   "summary": "Rockstar Confirms GTA 6 Will Skip Disney World, Universal and the Space Coast GTA BOOM"
+  },
+  {
+   "id": "gn-2tqws3",
+   "title": "‘Grand Theft Auto VI’ Becomes First Video Game of 2026 to Top List of Titles People Are Most Excited About",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVk4Zm1vS2pId3A3bld1X1B5azhjSW9PbWNlQTI3bWFuRmdfcGMwQWI4RWhub2RvbjZQWFZYYzk5a0FXTk1fRlB4YURHZmI3MGhObVdaSHoteHcxSWFoQlZWc3VBakU4elByWm42WDV4bXByVHJWT1g5bWhYR0JMU1AtbERwRUFlZmJmNDNzQ1o?oc=5",
+   "date": "2026-09-30T23:08:51.000Z",
+   "source": "Yahoo",
+   "summary": "‘Grand Theft Auto VI’ Becomes First Video Game of 2026 to Top List of Titles People Are Most Excited About Yahoo"
+  },
+  {
+   "id": "gn-vg2ne8",
+   "title": "GTA 6 is creating PS5 Pro shortages. Sony's solution? Prove you're a real gamer to enter a lottery to buy one",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc09zUGUyeGJaejFra2VoSlRUOGtsOHFpNkJrTzhBUE43T1RIX3VpTVRzN0lKdjVQeWNqcmJRU2hxYkdaWlE4aC1udHpTdkdXQ0x5eENEcUdTMWluYkRrWE1yN3RQV0taVVhrZV9rNk9SOG9vYjRvSlFfYVpkbkV4alJRUQ?oc=5",
+   "date": "2026-09-30T23:02:42.000Z",
+   "source": "Mashable",
+   "summary": "GTA 6 is creating PS5 Pro shortages. Sony's solution? Prove you're a real gamer to enter a lottery to buy one Mashable"
+  },
+  {
+   "id": "gn-37frof",
+   "title": "GTA 6 Devs Visited Real Strip Clubs for Research - IGN Daily Fix",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEFxYVUyS21CTDJKdWFKZEJkaHl3UlVwQXFkYnlxRUZVNng4TEFWTUdhbFJJeWg4Rmt5S0tueURhTW42bW1zUUg5UjdnbXJhQjlwbWc4czZRbkN5Z05QVkxSZExnQ24zM2l3X2YyOW8tTXI1M241WEVxYlhFRlNKeFBLWDZFOXhDTGlOb1g3WVNpOGRpMjRRcVRfUlJpcU51M05ZUVctejhDQ1d4TFJxM01CR001SUJLdHhFVkVVZw?oc=5",
+   "date": "2026-09-30T22:26:22.000Z",
+   "source": "IGN Pakistan",
+   "summary": "GTA 6 Devs Visited Real Strip Clubs for Research - IGN Daily Fix IGN Pakistan"
+  },
+  {
+   "id": "gn-17lz6r5",
+   "title": "You Probably Shouldn't Expect a Disney World Parody in GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNk4zR0hRVnB2NElhUFg1ZGV3Z3F5VndrQTBxd0Nkd1NIcXVmZzcySlY1d19QSG44YXF3a3FscGVCQjRwbldSUkFTemtLSHAzTGdIdlVVS19tZXJsRkdjbTBMZHBaNkVCZUMxbFRWaGZUcmlTa0Y4akhJUlZtQmZvSEhnZ2w0UklRbWhlZ1c4eW5YdjZOblM3N25LVmVzRVU?oc=5",
+   "date": "2026-09-30T21:55:01.000Z",
+   "source": "IGN",
+   "summary": "You Probably Shouldn't Expect a Disney World Parody in GTA 6 IGN"
+  },
+  {
    "id": "gn-1xz43n6",
    "title": "Rauw Alejandro Crashes Back Into Hot Latin Songs Top 10 With ‘GTA VI’ Track ‘Macacoa 2000’",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjBkaVBBWV81djZpQy1QWHdzZkpadENKQnVacG1Uc1lQd0lyTUpzVmRlYUd2M0lVODRyaUozUnRIUldLQU1HbU5URDU0NVBwVjk2a3JvYXZ4eVNpdDFRWl9UNFF4LWNrQkRSZUJHaG9XUnAzd3FhUjRQUDhOVXMwOHdtVi1tS1Z0bnFsdFJiR3Z6QW1LUHp4OXNnZUhCLTM3T0RTV3NSdy1uYzVtOTgwTlRB?oc=5",
-   "date": "2026-09-30T21:27:29.000Z",
+   "date": "2026-09-30T21:27:33.000Z",
    "source": "Billboard",
    "summary": "Rauw Alejandro Crashes Back Into Hot Latin Songs Top 10 With ‘GTA VI’ Track ‘Macacoa 2000’ Billboard"
   },
@@ -201,7 +242,7 @@
    "id": "gn-1kr6zws",
    "title": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmZidW9yNEp2OGVFY3d3QW9jSXgzNDNwWWJ3RnljVUlRV2kwLUs0TWZ0R2VWaE02YkxkVlBCSVQydlZSUG4xQk5lM3JsdGsxN0lGREcydjVlREFzNEtvdzdRT2VpUmZ2QXpOa2U0TnplekFfMjdzckxlQURzV1FfOWtvb0U3X09lWG0xbGhuWExwdzQ1QVZTUTJvZmJIalZKUUE?oc=5",
-   "date": "2026-09-30T19:20:51.000Z",
+   "date": "2026-09-30T20:28:20.000Z",
    "source": "PCMag",
    "summary": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works PCMag"
   },
@@ -242,16 +283,8 @@
    "title": "‘Grand Theft Auto 6’ map is twice as large as ‘GTA 5’, confirms Rockstar",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm5WMlE2VVJGV2ZyazFTT0VpZDZMRUdTMF9NQ3BLSk9NYThBTTIzWUF3a3BvS295bzBjbkVNMGpQLVBHMUN0X21ENGV6VGd0aGdGbGRSSDBHUXJVdVV0bk9KVXNzaDRLY1JxYXBWTUx0dDVjeUx6Zmpwb0F4b19KaFN4V01HTzlDX1dQZHZJUks5Q1l0RmQxNk02cThVNGlJeU1aaFhDRQ?oc=5",
    "date": "2026-09-30T17:56:05.000Z",
-   "source": "nme.com",
-   "summary": "‘Grand Theft Auto 6’ map is twice as large as ‘GTA 5’, confirms Rockstar nme.com"
-  },
-  {
-   "id": "gn-1lohk1u",
-   "title": "GTA 6 Will Lock Story Missions Until You Earn Enough Cash",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR004aTh3ekE4U3lxMmxrZ05RVmVmUTNCcHlLTElXbmNzS3I3OXhEODJNMmQ3WVNjUDBEUGswVGlEWENHMURPeS02TldYX19QNDVmckpJYXZoWlp2RnREX3dkb0FwWDFnZ2tKNmtlSVNWS2J4R2YyUjBtSFNrVUJjNEJ4c0tGbDEzM0x3QUNDV18?oc=5",
-   "date": "2026-09-30T17:48:59.000Z",
-   "source": "GTA BOOM",
-   "summary": "GTA 6 Will Lock Story Missions Until You Earn Enough Cash GTA BOOM"
+   "source": "NME",
+   "summary": "‘Grand Theft Auto 6’ map is twice as large as ‘GTA 5’, confirms Rockstar NME"
   },
   {
    "id": "gn-1qda8tv",
@@ -260,6 +293,14 @@
    "date": "2026-09-30T17:48:41.000Z",
    "source": "Polygon.com",
    "summary": "GTA 6’s Wildlife Gameplay Might Do Something Red Dead 2 Never Could Polygon.com"
+  },
+  {
+   "id": "gn-1lohk1u",
+   "title": "GTA 6 Will Lock Story Missions Until You Earn Enough Cash",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR004aTh3ekE4U3lxMmxrZ05RVmVmUTNCcHlLTElXbmNzS3I3OXhEODJNMmQ3WVNjUDBEUGswVGlEWENHMURPeS02TldYX19QNDVmckpJYXZoWlp2RnREX3dkb0FwWDFnZ2tKNmtlSVNWS2J4R2YyUjBtSFNrVUJjNEJ4c0tGbDEzM0x3QUNDV18?oc=5",
+   "date": "2026-09-30T17:46:54.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6 Will Lock Story Missions Until You Earn Enough Cash GTA BOOM"
   },
   {
    "id": "gn-vzp84p",
@@ -306,8 +347,8 @@
    "title": "Major new GTA 6 details revealed, including 12 new screenshots, animal species, weather systems, and more",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONm4xbDNXXzlGWUJSelY1WlRlRWt3Y1Q1YVIzcEhjcnFaU29MQ3RIZGVKVlU0UXFXVHVSOVM1ZktRQkJxcTViTVUySjBuNXJaZV80MVBWRk5Wa2VNY0NjUjl2ZlV1bVoxN3NxT0FBVmJXczZOcDVfTnQwSHBrQWltWTVvQlVadmtfQkgyMGhHZEFRVHEyWnE1eGNabXFQN0J1MXZZaFk1cVBNc0RVVkxBX2VlcndGZFBwdWQ0WndyQjc0c2VDWXo4VGtIQQ?oc=5",
    "date": "2026-09-30T16:08:50.000Z",
-   "source": "pcguide.com",
-   "summary": "Major new GTA 6 details revealed, including 12 new screenshots, animal species, weather systems, and more pcguide.com"
+   "source": "PC Guide",
+   "summary": "Major new GTA 6 details revealed, including 12 new screenshots, animal species, weather systems, and more PC Guide"
   },
   {
    "id": "gn-15ftel5",
@@ -396,6 +437,14 @@
    "date": "2026-09-30T12:00:00.000Z",
    "source": "IGN Pakistan",
    "summary": "GTA 6: Hurricane Heist and the Perfect Gameplay Loop | GTFM IGN Pakistan"
+  },
+  {
+   "id": "gn-1nnjfis",
+   "title": "GTA 6: Hurricane Heist and the Perfect Gameplay Loop | GTFM",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVF9DWUE3aDk4V3Q3MnhGcUs1dzNmQmtsUGUwLTFoOGN3S0pXRFpSYm1PenFGajdXTXhnXzEyN3VsWHF4XzMyQjljdGhQV0lHTl9aa3BvV3RXV3FyRUpyd1AyWElKeThUNkJDZktIS1BYUXVXZW1wYkVabmR5YWQxYWIyRXFSUW81WF9Z?oc=5",
+   "date": "2026-09-30T12:00:00.000Z",
+   "source": "IGN",
+   "summary": "GTA 6: Hurricane Heist and the Perfect Gameplay Loop | GTFM IGN"
   },
   {
    "id": "gn-1q7x1jg",
@@ -498,8 +547,8 @@
    "title": "GTA VI gets more images and info (weather, map, side activities...)",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZEsxS3VqSFpKTDhBVGRmYkg3VGNMRHh2dDZOWFBVX3NrT1BiNW9TRVVQR3V3cDhMV0I4UHZCcm81azhfUEFQa2JmX2RuZUljVHk4UGRRb2R4UWx4V1FWMExxb180MlU3a3JEV2V2TDFFT0g5SEVsQVJBOVdiemFsT1dCYjdnRUpPV293TENxNVE5bUthUE14MTIweFVyWkhJeUhZY01pX1Z0R25UWmF3?oc=5",
    "date": "2026-09-30T07:54:10.000Z",
-   "source": "Instant Gaming News",
-   "summary": "GTA VI gets more images and info (weather, map, side activities...) Instant Gaming News"
+   "source": "news.instant-gaming.com",
+   "summary": "GTA VI gets more images and info (weather, map, side activities...) news.instant-gaming.com"
   },
   {
    "id": "gn-ang7yr",
@@ -594,8 +643,8 @@
    "title": "PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUnprRFlBaHhKbmFFbElsUWFRUVYwZE1xVW9EQVBGeEYzSlJURTBTMEo3ZTdtdGdQQWp2NkI5U0xlYjZvYmt6WTYtc2VwcG5EOFNWQkZ4TWhTZndzNDdSa1EtZHNHdE4ybl94STdQamtPdUJxdlIyeWl3ZXh1Mko1TWtZaktzYkVnaFQ3TTlZZjA4YmxmVFpjN1VSUXE2UUJSR3dwdUVkcUExUTVXbGtVd3NxRG1fdVdRejJ5THZ5Y2w1eF9mVmxEb085dVZiUQ?oc=5",
    "date": "2026-09-30T02:32:22.000Z",
-   "source": "Kotaku",
-   "summary": "PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6 Kotaku"
+   "source": "kotaku.com",
+   "summary": "PS5 Pro Shortage Hits Japan As Sony Limits Console Purchases To Active Playstation Users Ahead Of GTA 6 kotaku.com"
   },
   {
    "id": "gn-rve3uw",
@@ -612,54 +661,6 @@
    "date": "2026-09-30T01:30:54.000Z",
    "source": "Yahoo Tech",
    "summary": "New GTA 6 Info Revealed Yahoo Tech"
-  },
-  {
-   "id": "gn-l7ew9b",
-   "title": "GTA 6's X 18+ Rating in Australia Is Almost Certainly a Mistake",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZVZ3OVFtTldjMmdIX1NxUDBMSnh3WXI0akFTZGRvZl8wSzZNWS14V0NUaDI1bTRjR0d5bmI5aVRVY2RMRTBuZHhhWmNhcUhxOEVZTDlOV0d3V0FmU2p4WDZza0VVTHJicWUtVW1GajYzYTlWME5SWEIzeUpYOU90Z1BmUVVoUnJ0M0htSXQwMXpYMm5h?oc=5",
-   "date": "2026-09-30T01:18:47.000Z",
-   "source": "gtaboom.com",
-   "summary": "GTA 6's X 18+ Rating in Australia Is Almost Certainly a Mistake gtaboom.com"
-  },
-  {
-   "id": "gn-pa5cvd",
-   "title": "It Sure Doesn’t Sound Like GTA 6 Will Include A Disney World Parody",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkdsTjNUal91XzZXSUpQaUc5QmluX19CclllLUtoN25VRFpDc3YxUTZqa3dQT25ZX0E4NXdxSGNNV2ZhbVdOUFAybU9ub1ZSQ3o1UnY2ZWNEYmlhaDhwc1RvaUpldGtDYnlNdGdMU1ZiSUQ4QzNuQWpuMDJRdktmMEtRV3REVEdFSE4wbzU1M1F0ekRZRzhFc3poZUw?oc=5",
-   "date": "2026-09-29T23:13:20.000Z",
-   "source": "Kotaku",
-   "summary": "It Sure Doesn’t Sound Like GTA 6 Will Include A Disney World Parody Kotaku"
-  },
-  {
-   "id": "gn-17zgmbe",
-   "title": "GTA VI's November launch could spark a rush of GTA-style games on Roblox",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUE2S1hlbzV3V0RMNVNMZ1A3VkhwNE5OUGJudEUxZ1BJb01FT2JsdGtrMHNiOXJhc0tEMHNneGh1RDNMeW9RXzV4NHJRbElJTmdTNjJKdTRUXzVUbzBjR2dfZTJXUWk2THo4RFllU3dSVENNbWNXWi1PWUNWZE16UnhJcElEOGRTWFZ3bnhFblBkdw?oc=5",
-   "date": "2026-09-29T23:11:00.000Z",
-   "source": "Briefs Finance",
-   "summary": "GTA VI's November launch could spark a rush of GTA-style games on Roblox Briefs Finance"
-  },
-  {
-   "id": "gn-15clvnz",
-   "title": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tR0ctUXprT1pEQXBkTXFxbTF1MGp1SDU4MlVzLUFYX09vMHBFNGctT3dwLVRIaDBIM0ZSZXctZ0xFRUpDM2QxbTRUNUkwVXByaHhfN3lWTnVQYVNHNEF0bTQtZ245ZnlIT0doLXVyUlc0ZUNVSlhLUQ?oc=5",
-   "date": "2026-09-29T23:07:53.000Z",
-   "source": "AOL.com",
-   "summary": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City AOL.com"
-  },
-  {
-   "id": "gn-10o10be",
-   "title": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdzBBamVuRjg0UVpITVpyWHY1RGY0WnNFQUlNcVZpRkV4ckJKam9UaXZ3cGdRTEpxZEU1WEI3VVJfRTJ6Q255VHd0a1RhMEtDNl8zZ2ZqRGN5WlJqcHd1TEw5Y2JNQW03NTh4cldteC1hcnhlU0tyNS1MZGR0NllUajdSYmYwUQ?oc=5",
-   "date": "2026-09-29T23:00:47.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GTA 6’s Weather System Has Fans Rethinking How They’ll Survive Vice City Yahoo Tech"
-  },
-  {
-   "id": "gn-1pr1hkl",
-   "title": "GTA 6 May Have a Difficult Time Getting a Game of the Year Nomination Due to Tight Release Window",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVU5oRVZHaTljNkhkbGZ3ZFd3Vk1FX0xza0JkOHFKQkFEclBYOGhUOXNfeGxDZk10aUNDdVJqa0xTY3FQQldmMWIyd1JQWUFLTjQ0LV9IQ0ZablpMUkV6Vjdya3Q4MU1QdU4tMWQ5WDBuRFU0M0ZLaEp6TnJvUTlpc0xsbDFCNlJGVkwwY0Q3TUUzV1dfaUE?oc=5",
-   "date": "2026-09-29T22:55:20.000Z",
-   "source": "IGN",
-   "summary": "GTA 6 May Have a Difficult Time Getting a Game of the Year Nomination Due to Tight Release Window IGN"
   }
  ],
  "community": [
@@ -726,6 +727,14 @@
    "date": "2026-09-30T14:27:35.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
+  },
+  {
+   "id": "rd-1040eom",
+   "title": "Burmese pythons in GTA VI?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wu612w/burmese_pythons_in_gta_vi/",
+   "date": "2026-09-30T14:12:58.000Z",
+   "source": "r/GTA6",
+   "summary": "Do y’all think burmese pythons will be in the game? We know RDR2 featured snakes, but none as large as the burmese pythons that are invading the Everglades irl. I think it’d be interesting to see how "
   },
   {
    "id": "rd-oc1gu6",
@@ -974,14 +983,6 @@
    "date": "2026-09-29T16:24:09.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/ZamnBoii [link] [comments]"
-  },
-  {
-   "id": "rd-1xcgfbx",
-   "title": "GTA 6 issue will be free on the Game Informer app. Releasing shortly.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wtdqjy/gta_6_issue_will_be_free_on_the_game_informer_app/",
-   "date": "2026-09-29T15:49:44.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Pistoluislero [link] [comments]"
   }
  ]
 }
