@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-01T20:04:43.033Z",
+ "generated": "2026-10-02T00:01:05.300Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-01T20:04:43.033Z"
+   "checked": "2026-10-02T00:01:05.300Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-01T20:04:43.033Z"
+   "checked": "2026-10-02T00:01:05.300Z"
   },
   "googlenews": {
    "ok": true,
    "count": 92,
-   "checked": "2026-10-01T20:04:43.033Z"
+   "checked": "2026-10-02T00:01:05.300Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-01T20:04:43.033Z"
+   "checked": "2026-10-02T00:01:05.300Z"
   }
  },
  "official": [
@@ -182,6 +182,110 @@
  ],
  "press": [
   {
+   "id": "gn-gi645p",
+   "title": "Digital Foundry Says Sony's QSSR Upscaler Could Sharpen GTA 6 on Base PS5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTk55bXZ5UWoweUFIN1JYYnJra04xRVNBWVhUeGZBZXUtQXdoLVhlU0xYNEZnem1JVHdHSzZrRmFfcmMwX28tSDZ2WHpKQ2xsR095RWh3RWh5R1Bja09wSmJQSHVLYnplc2NMcXNFVUluWVZMaXJ4SDZULWlmdFhSYTJZX1RsbFo4ZTlOMGV1Qm91VGlrY2NYbjJhZGNYTWhQ?oc=5",
+   "date": "2026-10-01T22:24:57.000Z",
+   "source": "GTA BOOM",
+   "summary": "Digital Foundry Says Sony's QSSR Upscaler Could Sharpen GTA 6 on Base PS5 GTA BOOM"
+  },
+  {
+   "id": "gn-179yfcc",
+   "title": "GTA 6 Will Have Sex Scenes, According to New Zealand Ratings Board",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmdFdkc0SzZ6ek1fVXp5V0V1T2YtY2hodUdjeFFUQ1VrakI1NHEtRzU2b1psN2o3TWhhTHBqcm02YXY3SkwxejJVdlMwYlRkU1RmWGNpSFhCa1l3Ymg4R18wVlYzNnVobXBtQmpHUmdJVEVFMF9paUxuWE9iVnVJcWRJWG94QkFFaGhFVk8tTFI?oc=5",
+   "date": "2026-10-01T22:14:09.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Will Have Sex Scenes, According to New Zealand Ratings Board IGN"
+  },
+  {
+   "id": "gn-1vzgqh1",
+   "title": "The GTA 6 Leak Fallout, New Police AI, and What's Coming in the Game Informer Cover Story",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDBfMXEtSEJ2YnI3OXFVTWdBeE5FeUc4Q2FYNGkwX1UyNHVnZ3puVkpZbWF5ZWJ5d0hCZnFfRE1tWmNwTU93MENIYXZZbnRGcVU2ckVCNExGSWlZUlBWNGJmbS1OTkdUQ3RJNFdPemNMVWN3ZS1BN3F3ZXlJVGRhcGt0cmxuTG9CekdHUy1ycnBTX2g2RklaeXNvWW85RmFUNkI5ejhSWllJZ0M3VWN3eXhtSHF1Zw?oc=5",
+   "date": "2026-10-01T21:25:08.000Z",
+   "source": "triad-city-beat.com",
+   "summary": "The GTA 6 Leak Fallout, New Police AI, and What's Coming in the Game Informer Cover Story triad-city-beat.com"
+  },
+  {
+   "id": "gn-14lync",
+   "title": "Rockstar’s $400 GTA 6 Vice City Collectables Set Revealed — Here’s What You Get",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UmZZS3p4a3BmbWZOcVFoVjBJXzAwMUp4SGVUZVJlYk00eWRYb0wxUnByLXptakR3UDN2X1g5VHd0aXZuX0F2YXl1XzFvT0xQZ2NJRmNSSF9XLWxtd3ZQSEdyVHhTU3hnaTJLTFQwSjlrQQ?oc=5",
+   "date": "2026-10-01T21:17:25.000Z",
+   "source": "Yahoo News Singapore",
+   "summary": "Rockstar’s $400 GTA 6 Vice City Collectables Set Revealed — Here’s What You Get Yahoo News Singapore"
+  },
+  {
+   "id": "gn-mjmd6x",
+   "title": "Slideshow: In Pictures: How GTA 6's Jason and Lucia Have Evolved Since 2023",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUNvcFV2eHJscVNDNUVMbUI3cUJkY2JDU2kwWDlrNjlqUXloYlpiZUdaTFByMFZsVExnY05yZV9rdHNRdnRpU29ibUlKVnJaeE9QUGswQ2hsVzhpWjhBWW9xYndXWmdGa09IMm9xS2NJMlNtejZmaWI5T2VVMW5CWTZ5VXA5OGpYRFlhZXFDeFVod1dxYl8tbm14dVl1dDBaaFo1dkJvaEotd0J1Ml9wYg?oc=5",
+   "date": "2026-10-01T21:07:29.000Z",
+   "source": "IGN",
+   "summary": "Slideshow: In Pictures: How GTA 6's Jason and Lucia Have Evolved Since 2023 IGN"
+  },
+  {
+   "id": "gn-1oro9dn",
+   "title": "GTA 6 – 10 Details We Learned From The Game Informer Cover Story",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWNIUHZMYURreFl3VVpLY0RjOHFMUXhab3RaUjlSTDV1TnB6LUQ0X3BLZmVFcHZzaE5HcDctV0lIUFNoR3B4eUZzaUNJYWRiVjBrbEw1bVBIblkzQm1nYWl4SVY4VUtfaUx6Y2k1Q09MbWdQVnZ5eUh4VWpabmhTVFdaRTNNbHFwN2lIMUQ4WFVOcjl3MWJPOWhUNA?oc=5",
+   "date": "2026-10-01T21:00:00.000Z",
+   "source": "gamespot.com",
+   "summary": "GTA 6 – 10 Details We Learned From The Game Informer Cover Story gamespot.com"
+  },
+  {
+   "id": "gn-14vpm3n",
+   "title": "GTA VI Predictably Gets a Mature ESRB Rating",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBINEVzeU4xYlJyVlBrQ0EyelNDd2s5QktaZTZ1TXpTeF9CNm5VZDBOSnhadkdZTFR2cEZuVVZTNGNVS2ZlS1RRUmQ4UWtseHpZeXpqdmVHNnFBYlNINVdsakFCc0VNZTRObldqWnlvbkJzcDJmMnZ6V0FHVnE?oc=5",
+   "date": "2026-10-01T21:00:00.000Z",
+   "source": "Siliconera",
+   "summary": "GTA VI Predictably Gets a Mature ESRB Rating Siliconera"
+  },
+  {
+   "id": "gn-1nh8ln8",
+   "title": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOblV4UUF1dUpLRWtLMjktZmF4VWQtSnNpaWZkRWR6SlhWVm0zNzZ1bFRPdnRpZk90aG1feEFtbVdoVVhMbVFITlNDUXVCSzliNU1KTEMwSExJWmlxbzEwcXZxWGVnWmV4WUUwX3RDSHNicldoN25zTDFEdndFWklVV2xwZEp0aDVxbmEwQ01JcTFyelFBenJEVm95M3ZLdG40TklGRHMxd1ZJcE1NOFI4VzY5aw?oc=5",
+   "date": "2026-10-01T20:47:43.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect IGN"
+  },
+  {
+   "id": "gn-hkgu8e",
+   "title": "GTA 6 Finally Gets a Rating from the ESRB - IGN Daily Fix",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnBqRW1xZ0VPZ1VsU1JUd1g1VGtwZGNDX0hnc2pGWmJ4TUhtTWlvQmFFeGN0Qk9lYnBQNXVXR0xFckczZHVyR3Z2Y2JfSWVqQ3l2c2tZcFZNc0xBdWk2VHB2NWx2WmxGWG1xOXE0U1FBWXJSUWtFSXJrUktzaGxGWkZBbXcxY2lub3c?oc=5",
+   "date": "2026-10-01T20:43:54.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Finally Gets a Rating from the ESRB - IGN Daily Fix IGN"
+  },
+  {
+   "id": "gn-3wbmrq",
+   "title": "Rockstar Games Issues New Official Statement on GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUN4akxydFRnZENva3NZTFhGWUp6bHV2Tm9MdHlhNWhXaG1HVUphSjNkazdGcHdUUTI5VmRtLUx6S0ZkTVVWNHBLcHEyVUVnT1lvTnVHQkNGZWpNTUpOQ0xqaXd4alFxNjc0UWx4SmE2RFRoUThRQnAtdlpnWXJfRTRzUEgzaEtvdnNuaDVlYmM?oc=5",
+   "date": "2026-10-01T20:39:41.000Z",
+   "source": "OpenCritic",
+   "summary": "Rockstar Games Issues New Official Statement on GTA 6 OpenCritic"
+  },
+  {
+   "id": "gn-1ol1p25",
+   "title": "Slideshow: In Pictures: How GTA 6's Jason and Lucia Have Evolved Since 2023",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZVViZnJ0ZXlvOUhlVHAzU0s4QVFEMWFIeDVTVFFYSFF3WVRWOUF0TExrOGE1cUtZVXFRdGRkNExVV2NxcWI3Z0p4TG1SN1d4NDNLVnluN0I3WU1rMGZ3VG5SQlBTWjViZUtnOVBIZXdqUGVWX1RtZnVaRm9ZUUx2MnVaZE9QT213WkV2YzQ0cHhlWlpKcmJsT3B3a0hraTFTMkVSMS1kRjhXUklKeC1DVUo0NkVOVEFwOHVyZzhwaW0?oc=5",
+   "date": "2026-10-01T20:05:21.000Z",
+   "source": "IGN Southeast Asia",
+   "summary": "Slideshow: In Pictures: How GTA 6's Jason and Lucia Have Evolved Since 2023 IGN Southeast Asia"
+  },
+  {
+   "id": "gn-1pf2zso",
+   "title": "GTA 6’s ESRB rating mirrors GTA 5’s, so I expect even more of the same levels of crude ridiculousness",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTEhoTmo3dXpMa2ptWkpON0xGTDFrTXdZTFVvMEN4b3MtQWs2WWRXbVE5QlRTM2Nab0RIU2JjN2w2VTlEMjhMXzdwc25CYm02V1VSWFlFSkUwUnZRbTk5TGRDR0h5eG9reE1tQXlCRUd1MERscmM3bEZJMjVyNXRLdF9YUHhydw?oc=5",
+   "date": "2026-10-01T19:56:43.000Z",
+   "source": "Yahoo Tech",
+   "summary": "GTA 6’s ESRB rating mirrors GTA 5’s, so I expect even more of the same levels of crude ridiculousness Yahoo Tech"
+  },
+  {
+   "id": "gn-3nimg1",
+   "title": "Rockstar drops $400 GTA 6 Collector’s Box: What's inside and where to buy",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGFSdXUxNVBTdVRpenREOGRueWtPUE9QQUIydFhiRjRaTHVTVE1ZRWU5OG5Pd0hCbUE4SDE3R3d6Q0FKSXNLQjlsUHNYMDVPNFNVREtlRVI1SF9Sb0I5QlZiczZRTDRVWUhfVGJ3QkVtbFhacDFLdWZPMVFmdXRfYUJxS2tWYnpNRFFTMUl3?oc=5",
+   "date": "2026-10-01T19:46:57.000Z",
+   "source": "Mashable",
+   "summary": "Rockstar drops $400 GTA 6 Collector’s Box: What's inside and where to buy Mashable"
+  },
+  {
    "id": "gn-ptajkr",
    "title": "Slideshow: In Pictures: How GTA 6's Jason and Lucia Have Evolved Since 2023",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTzhMbmotRUVsWi1POXg2NE9hN2x5UU55V2N5MDJUSTI1SkZMMDI5V3pOQXloRm1sUFVpaFNRX3AzLTF4amEtal9MYlhHbVVYWlhXZ1M4RDFSU0pBakZEdGFmRkpKTWRXcXFnNHhpemhPeVlldTJ1RDJfTzNScHV0bjlRcGdUVk5OUHNrTmhfa1UzaU5laWRCWkJ0MF8xVW41ckFiTmk4QUJtblc0NlpZZXRn?oc=5",
@@ -198,6 +302,14 @@
    "summary": "Slideshow: In Pictures: How GTA 6's Jason and Lucia Have Evolved Since 2023 IGN Pakistan"
   },
   {
+   "id": "gn-1fybp3n",
+   "title": "Slideshow: In Pictures: How GTA 6's Jason and Lucia Have Evolved Since 2023",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT0JyR1VoY0dUWGNoRl9qRmotUS1BRzdmckdONTBqbi1MdXZnUThNSE81YzZLWGdjaFR2bGJoTk05MHA4Sm95Wml5bEktYnZfQmxiam9PNzYzTmtyYjN1THE0N2dFZGRYallJN083OGQyUW9wSXRkUTM3anFGc2N5VzNwT2p5bWtfSlBkZUk1R0VYU2RaZ1p2UXdzdldjR01jNTdhTEdUSFY0THla?oc=5",
+   "date": "2026-10-01T19:27:46.000Z",
+   "source": "IGN India",
+   "summary": "Slideshow: In Pictures: How GTA 6's Jason and Lucia Have Evolved Since 2023 IGN India"
+  },
+  {
    "id": "gn-146hsef",
    "title": "How GTA 6's Jason and Lucia Have Evolved Since 2023 in Pictures",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX081MVVwWklQaEs3cG1WSVRvdWxxWjlvYmJiV3NoNkN5WDQxTmI1Nnh2VEItUGE2TGlvTmdNWGN0X1k0MEsyUmVTb1pJa0g4UDk0NTZqRXRaYzJkVWdxYUxWeUNDNU5PbWc0NzhhdTlLeTV3ZVp0RW1wVFNGNDl5MmwtZFZ2SjlZWGpOY2owLXdDeWhmbnRmRnFVc1k0clFfS2FLZllKSkVuU1lC?oc=5",
@@ -207,11 +319,19 @@
   },
   {
    "id": "gn-2xsavn",
-   "title": "GTA 6 Store Ratings Explicitly Flag Sex Scenes and In Game Purchases",
+   "title": "GTA 6 Store Ratings Reveal Sex Scenes and In Game Purchases",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjZHBGVXFGdlUtdnJKcTRLSnphS0J6UlRIOFFqaDl6SzdMY3A0VnpVVDFyR0d2bGFEQW1BOGtuc1VjeGduSGtlVnYtbU1yS0pyaXNfSHlEbWV2UzFYd3hxRi14OUxtQ1d1eDJublpVVl9CcjhJbnhzd2tVNA?oc=5",
    "date": "2026-10-01T19:23:24.000Z",
    "source": "GTA BOOM",
-   "summary": "GTA 6 Store Ratings Explicitly Flag Sex Scenes and In Game Purchases GTA BOOM"
+   "summary": "GTA 6 Store Ratings Reveal Sex Scenes and In Game Purchases GTA BOOM"
+  },
+  {
+   "id": "gn-1quokz",
+   "title": "How GTA 6's Jason and Lucia Have Evolved Since 2023 in Pictures",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWItZlRYdkQ4RjN3TVhvN0s3WkRrYTJDMEEtWFIyS25xdFpvdWhfWlcxM000bDBLTU5CcEN6YU1YYV95bGJQZXhaSkQ2dC1BR3ljZjlIQlM3MkRYSUdwNXNNX0huZXhZMXNwbWUtTUFyRmpjY0VlQjJ3TkZFRzRiUnpiUkFaUE9jUDFsNG9yV25aSmZpb2c?oc=5",
+   "date": "2026-10-01T19:10:17.000Z",
+   "source": "IGN",
+   "summary": "How GTA 6's Jason and Lucia Have Evolved Since 2023 in Pictures IGN"
   },
   {
    "id": "gn-1p1hg1d",
@@ -226,8 +346,8 @@
    "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0Q4WlhGVUVIXy1Xc0Z1QlFiWlY3MEw0U1FXaEhzT2RtR1dlaVRwcXBTZFRjMlc5UWR6aUhqeGRMWnFXZ2Y1V3g3dE1tOFNmWEZRVFgxbU1CZW81TU9FeGgxVVhNQV9qdWxpSVdpaFJyUU5HRTd3ODhzVXpwVERQSHplUFBmT2VMTHc?oc=5",
    "date": "2026-10-01T18:33:01.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6’s Weather System Sounds Like A Big Step Up GameSpot"
+   "source": "gamespot.com",
+   "summary": "GTA 6’s Weather System Sounds Like A Big Step Up gamespot.com"
   },
   {
    "id": "gn-1iv31oj",
@@ -236,6 +356,14 @@
    "date": "2026-10-01T18:12:05.000Z",
    "source": "VMblog",
    "summary": "BforeAI Uncovers 16 Unauthorized GTA 6 Apps on Google Play Cashing In on Hype Ahead of November Launch VMblog"
+  },
+  {
+   "id": "gn-13qgrui",
+   "title": "Sony's PS5 Pro Is Selling Out Ahead of 'GTA 6,' and Buying One Just Got Harder",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPME5MaHNBTExaVjcyZGd0T01XcFR4VkJzRThpZm5kTURNcnMzd2ZjQ0FuYXVwa2paVThvUW9yT0ZJTHZINE1TNk94LWlFWWVncTBkeXRpNVIwVlNLMVZlNmROX1N1MXhBRmJUTlJ1VHFsRHlwRFVLei1wOEhFZ3pRMVd3OUxpcUdneEpWMw?oc=5",
+   "date": "2026-10-01T17:54:50.000Z",
+   "source": "Complex",
+   "summary": "Sony's PS5 Pro Is Selling Out Ahead of 'GTA 6,' and Buying One Just Got Harder Complex"
   },
   {
    "id": "gn-1pab10e",
@@ -250,8 +378,8 @@
    "title": "GTA 6 story missions will not cover entire map, Rockstar says",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDVyM0NfOEloaWlUNzU5bUdGS2k0ZzJVWDB0STBqbFdBVXdQbnpqM0pXMDZiSi1XdDRsTmJtU1FGQnRWNG5RMVZKd0NTaUpzMmU2eDRIb3VnNldSLS1nVHB0dzVDdElVWE1mdDBZdmhZWFVyWThwbWNTbTF6ZThHRTEtZ0VsbmM5TFZLMzIwWDlRWGlUOHlLbjdGS1ZVUdIBpgFBVV95cUxOSGN5ZGlCNFBXWUhlN3hKOWV5bk13cElvVGQ0RG8wMDBJdWE0cm9DOW02M0Fsdkp4MVBNLWxoVTFWaGZvWGdKUzVrdmhNTHVROFVpZlhWQzdJOGV3WG9Zai1xUXJOMl9VX1hvTnpSem5lbjFuVExVMXVtX2VHb25JaENSeGxQWUN2MlJmeEVyTDQwOE04MFdtYUxuVGRBeHFQbEpiVnlB?oc=5",
    "date": "2026-10-01T17:36:04.000Z",
-   "source": "tribune.com.pk",
-   "summary": "GTA 6 story missions will not cover entire map, Rockstar says tribune.com.pk"
+   "source": "The Express Tribune",
+   "summary": "GTA 6 story missions will not cover entire map, Rockstar says The Express Tribune"
   },
   {
    "id": "gn-mszxfh",
@@ -278,14 +406,6 @@
    "summary": "GTA 6 Gets Official ESRB Rating and It's as Mature as You'd Expect IGN"
   },
   {
-   "id": "gn-acsjbf",
-   "title": "Could GTA VI bring back casinos?",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjVfR2FRZTlGWUFhaERSQjVGWXF2MmdXaEZ5c0Y4NzkzWm9xS3VBNGJucTczTVVCOVB0NE5fMG5Vamg1Xy0xeElQRjYxRzR5d2tVSlN3RmhzYkZSS0tqb0RBaFdpcWNYMXFhV2xIc3pRS0NVTVBUbWtwLVBXUElDbVU1amJIazdLZi1uTU1rRG91WHEwZUcybGdSX01tZnZVZ2dsMDNWUTFfOHlYTTMxblVkMnY?oc=5",
-   "date": "2026-10-01T16:01:40.000Z",
-   "source": "Martinsville Bulletin",
-   "summary": "Could GTA VI bring back casinos? Martinsville Bulletin"
-  },
-  {
    "id": "gn-1fgi14x",
    "title": "GTA 6 bundle sent to content creators, and fans think it looks better than the $400 Collector's Edition box",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX2ltdjRxb0s5UzdBZG5DdVBWOHE3amxDa2xFUXRVRVFTRHpTT2x0eG1fSWFTXzZwRjFDNWtaaEhGS3hWOFZjSEtVYWN5eThzdXRWVVd3NDFvQjFKbVpsekZCeVVSUF9pMk5rRmxhUTJ2TGJHaTFiejRYeHNGQkh3RXJKOHlNMmtsRlp0TVlCMFI0Z1lHT0lsVWtNZ0lNNTJNbDU0SG90aUlVemFScmVoX2ZkNWUzX0s5WHhzUTVkVkFINE1QYTNwV2JtcEdJbTQ?oc=5",
@@ -298,8 +418,8 @@
    "title": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnEycWs5Wi15d2EwRUF1YndnZkgwLXlicUpiUmxQM0c0TUxwZDNTQmJHRDV0M05DeTYyaGFpZG9aYklUVENQeEszMlFnMUs1TzhFN2Vmb1hnV3dRdnRJZTVWRkxjc0QyNFBJU2JkX3F3MzI2dlFib2ZEdm1JTFVNNDRNVGtWNEpXWGppZWVSRkhMR0E?oc=5",
    "date": "2026-10-01T15:40:13.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says GameSpot"
+   "source": "gamespot.com",
+   "summary": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says gamespot.com"
   },
   {
    "id": "gn-16rg4op",
@@ -310,12 +430,28 @@
    "summary": "GTA 6 Officially Won't Break Clair Obscur's Goty Record IMDb"
   },
   {
+   "id": "gn-149k7uv",
+   "title": "GTA 6 “Sexy Magic” Song – Who Sings It and Where Can You Hear It?",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS2ptYUdjcldpdWlaQnFsWG9OUXY3cEo3T2JleDJpa1RScjNydGV0RnI4VHZqZEZjZDJOUllBQTNfZXFfWEpsU0RpNTRrbUpuWTVPQWhmR1RwNF91M3RuclNpYmNreTBjMFJJWnFxS2lWQkh6eU1sWmpiTnFqRzhTTjhLalRxVFdkb3k1ckVianlQVUU?oc=5",
+   "date": "2026-10-01T15:28:00.000Z",
+   "source": "RouteNote",
+   "summary": "GTA 6 “Sexy Magic” Song – Who Sings It and Where Can You Hear It? RouteNote"
+  },
+  {
    "id": "gn-11w25mw",
    "title": "GTA 6 hype and impact will eventually be matched by another game, ex-PlayStation boss says, but it might be up to Rockstar to make it: \"After 15 years, maybe GTA 7\"",
    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQSktmN1FBVzRrTlY1cEwxZEF4Yk5YbVVGVnhHMTlQYk9GaGF0S0ppN3BmNkEycVhYYXFWQ1I5VXJmSURmeGxmMDAwOVBXWWRhLWU3TXZoX1hmOExHeVRLR2ZuWVl6NVljZGlKQThfcTNpRWRCOU5yWEJmb25naUR4ZUZ0Z29vU3JlLXhmNEg3ejlrMzBlU2ZyZlUyZVJWczRqN3FFcFFpQ2gzb1hQeTRUeTZVRm1LT09JZDU5MVVOZWxpVV9aOXdSS0FEMk9rSURvNG5DQzNBUDd2a19KZEVfc1hueGI5N1ppTzduNXdHaVFtQWhEcEt1SlZ0dnJXVWJjUDRuNThFNFdpOGRrT1ZhUklXeHJTckVTa2syY1pfd3FXaEdGU0xycEh1emFpSFJrWk0w?oc=5",
    "date": "2026-10-01T15:11:25.000Z",
    "source": "GamesRadar+",
    "summary": "GTA 6 hype and impact will eventually be matched by another game, ex-PlayStation boss says, but it might be up to Rockstar to make it: \"After 15 years, maybe GTA 7\" GamesRadar+"
+  },
+  {
+   "id": "gn-acsjbf",
+   "title": "Could GTA VI bring back casinos?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjVfR2FRZTlGWUFhaERSQjVGWXF2MmdXaEZ5c0Y4NzkzWm9xS3VBNGJucTczTVVCOVB0NE5fMG5Vamg1Xy0xeElQRjYxRzR5d2tVSlN3RmhzYkZSS0tqb0RBaFdpcWNYMXFhV2xIc3pRS0NVTVBUbWtwLVBXUElDbVU1amJIazdLZi1uTU1rRG91WHEwZUcybGdSX01tZnZVZ2dsMDNWUTFfOHlYTTMxblVkMnY?oc=5",
+   "date": "2026-10-01T15:00:04.000Z",
+   "source": "Martinsville Bulletin",
+   "summary": "Could GTA VI bring back casinos? Martinsville Bulletin"
   },
   {
    "id": "gn-18henpq",
@@ -342,20 +478,52 @@
    "summary": "Could GTA VI bring back casinos? Bryan College Station Eagle"
   },
   {
+   "id": "gn-d9vk4b",
+   "title": "Could GTA VI bring back casinos?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbjFOckJnLW90NkxwTjl4YWpSTmVuZURRUXBWV05qdzNycG93eU1ieHZ4ZXFDVWVPemZQdndEaVN0TVkxakQ0a1lFSjllU0hRVFJST2ZsekpfNXd0MmJIdm83eVlrUDVkZWRCVFlTQVBPLXNBZlR0ZUpOVE8wZFlKWUh4S2Q0ZE43UTZwUlhjaGp1UXpRWDJQelVuUzBnQlpq?oc=5",
+   "date": "2026-10-01T15:00:04.000Z",
+   "source": "Omaha World-Herald",
+   "summary": "Could GTA VI bring back casinos? Omaha World-Herald"
+  },
+  {
+   "id": "gn-1hasow4",
+   "title": "Could GTA VI bring back casinos?",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcnpGanhzQmFmakp4Vzl4TmlCMVhIajVmdE9udDZ6R2lsSTBmeC1Scjk1cTVkYjFVMjQ4SHFoLVExVk43UkNEWEY4RjFleHdtUHFfQUYyLVZ5cFk0WkJqcVBNRU5qUVdMZWZWek5LY2sxX0xJa21Mb0hLeUV2SW5SRmdSeFlBd2lub3M4WmhxTUN1dWVBQy10LWx0QV9vNWFZcFRTdmthMTRNOUd5c0owZHNOOWxkcFFnUlNXT2tsUDdpdVhuUUVsTVJJdlhHVE91UmZWbjd2N2NxckMzM1MxdHFfR2tuQQ?oc=5",
+   "date": "2026-10-01T15:00:04.000Z",
+   "source": "The Daily Gazette",
+   "summary": "Could GTA VI bring back casinos? The Daily Gazette"
+  },
+  {
+   "id": "gn-asefvb",
+   "title": "Could GTA VI bring back casinos?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQODc3dVpsS29sMmNhc0k2SGZJYXpCQ3YtQ0dkMkFHal9DaFBKeDJCRzQwR29Nck4wUTVzWUpBOVVXbWFSUnJ2Q2ZTd2NBeWpad29Qb0JiOG1NdkxKUHpoZldOT0tmaDdqUEFOWDM3WUVxdUh4RlV3MVNmZUd1b0tYWkFFd05GTUkxWmtidnB2T2JRWWNqYmNndUVvOGZhMng5dkNKblZYcw?oc=5",
+   "date": "2026-10-01T15:00:04.000Z",
+   "source": "Kearney Hub",
+   "summary": "Could GTA VI bring back casinos? Kearney Hub"
+  },
+  {
+   "id": "gn-1cdbiqo",
+   "title": "Could GTA VI bring back casinos?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQy1iVTNwcXJGcFRlM2YxcGQ5N2RUT1IzTzQ2akJyS2xxbEJ2Rk95bEotSGk1cWVDM1BqUi1XMlVJRkVPLVZod0RBUC10N0d5YnptU1c3LU11a2tETVM5ZU9VUlZ2Y3FjWS1rbkJCUmlxeTRQZmR4TFZtYUR4a2VNNDRPd3VEMExBQk9LcG9hbW1CTXBiU3FaYm81SllyNlctZklCVFV1SQ?oc=5",
+   "date": "2026-10-01T15:00:04.000Z",
+   "source": "Montana Standard",
+   "summary": "Could GTA VI bring back casinos? Montana Standard"
+  },
+  {
+   "id": "gn-19c4fq9",
+   "title": "Could GTA VI bring back casinos?",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTZ4eXI5YXFnMDlxMEM4TmJYcnhpOElLR1lGQktmdjkyMnprUXhpYU1VTTU4VHpPRm15d1FiYmk0Y1hiVTNSbUltUXlPNnpCSmFEdDZxTzRQajA1c28tSEVuUGUtSnVwRnNkc2pPU1dSdXFoNGxSbWxIOTJSYnd5SC1TaV9jWFFrUlMxeGo3OF9RZ2pDYXpEejVYRkVpMzQ4VzBpcENzSW14Z0li?oc=5",
+   "date": "2026-10-01T15:00:04.000Z",
+   "source": "The Grand Island Independent",
+   "summary": "Could GTA VI bring back casinos? The Grand Island Independent"
+  },
+  {
    "id": "gn-170e0ml",
    "title": "Sony Fights PS5 Pro Scalpers Ahead Of GTA 6 With 60-Hour Playtime Rule",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zTUlpNUJoM0NaUXdGRC1lc09aTVZhX3dpRkNobE9NZTBZN3lWR0RaZnd4eDBvOTAzeHpObkM5ZmVWc0Y0VzVka0N1Mk1kNTJ4UEwxYjdVaEtJd1dxZDgzdDNpZ1NKSHBLaExqQnU5WEdXWjlLWWc?oc=5",
    "date": "2026-10-01T14:45:00.000Z",
-   "source": "HotHardware",
-   "summary": "Sony Fights PS5 Pro Scalpers Ahead Of GTA 6 With 60-Hour Playtime Rule HotHardware"
-  },
-  {
-   "id": "gn-10no10u",
-   "title": "GTA 6 unveils new world details",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtMWdneV9XVXJsU2RSLUFKM0k1R0tNQ2psZVJpNU0wM1dVWld5YkVFWEdYVElzTW1KV0pQMFE5WWlsTmhOZVVxRDN5SEktUDg3ZkstaDdVMGlGVUhBUWQtNDgwci0yQmUwM0UwT0Vyek9xVUtSUlVGQjln?oc=5",
-   "date": "2026-10-01T14:14:20.000Z",
-   "source": "The Business Standard",
-   "summary": "GTA 6 unveils new world details The Business Standard"
+   "source": "hothardware.com",
+   "summary": "Sony Fights PS5 Pro Scalpers Ahead Of GTA 6 With 60-Hour Playtime Rule hothardware.com"
   },
   {
    "id": "gn-1expfwn",
@@ -364,6 +532,14 @@
    "date": "2026-10-01T14:00:00.000Z",
    "source": "Yahoo Tech",
    "summary": "GTA 6: Everything We Know About Jason Duval (So Far) Yahoo Tech"
+  },
+  {
+   "id": "gn-10no10u",
+   "title": "GTA 6 unveils new world details",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtMWdneV9XVXJsU2RSLUFKM0k1R0tNQ2psZVJpNU0wM1dVWld5YkVFWEdYVElzTW1KV0pQMFE5WWlsTmhOZVVxRDN5SEktUDg3ZkstaDdVMGlGVUhBUWQtNDgwci0yQmUwM0UwT0Vyek9xVUtSUlVGQjln?oc=5",
+   "date": "2026-10-01T13:50:00.000Z",
+   "source": "The Business Standard",
+   "summary": "GTA 6 unveils new world details The Business Standard"
   },
   {
    "id": "gn-1guf89",
@@ -386,8 +562,8 @@
    "title": "GTA 6 Has No Disc: Hip-Hop’s PS2 Era Shows Why That Matters",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYS1iWV9NVU5EdHI2T2hLWDVzNV9NcU4zNTJMZ1BteGNSQ0FsWUJpTDQ5Vzg4N0pfTVZ2NXFDSVdnRDBrZUhKUGtMZUhjU1R5cy11WkVvVS1iUl85WE5IWFp4blNiRF9XLVlzdmxKTlBOM2w1M0laMURLWFJfcE5oaXNiSzhmeW1QUEt0ZTU3eVpDSTZKVXc?oc=5",
    "date": "2026-10-01T13:01:29.000Z",
-   "source": "thesource.com",
-   "summary": "GTA 6 Has No Disc: Hip-Hop’s PS2 Era Shows Why That Matters thesource.com"
+   "source": "The Source Magazine",
+   "summary": "GTA 6 Has No Disc: Hip-Hop’s PS2 Era Shows Why That Matters The Source Magazine"
   },
   {
    "id": "gn-ckmzvo",
@@ -442,8 +618,8 @@
    "title": "GTA 6 research gets wild as Rockstar reveals strip club visits and rides with ex-cops",
    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQS2YtRUVGb2l0VmtnSllIaTQybG9odERFMHRHWG5yZjRrRnY3R0YyVEYyRjRLWEdISmswNnNySFBoM2R4T2k0eHMtSjRiUmdUaW8yQ2UzQjNONnVUNVNpQUQ0c25XMjAxTFdHU3FDblVadEtoTTVCQ2lucHJ5WGo1dUw1bWNvUDBIRVNzc0FPa2RRVHBiSTdMT29Obm5Rd1cyLUlUX2pjMkRuY0pBNk1Pc2o5UWRrRlFVSjVzVTBxVnZ5N082aVdYVjNDVS1Tdkx0YlJsd094Q3h5WnNSV1Z5STQyZXRXZWJoMHEwejQ5MXJ3M1FqTEdhRW1R0gH_AUFVX3lxTE5mMWhJMkpINUlReFVjTHJWeEVwUWo2LWk1MXcydndMVE5OQXBBX002NGxVODczbjN3YWlydmo0bDJ4OWdYU2txanVXVERNbWI3Tm9vWlV0SndfaWVJcVV5NGRkLXkxb2NwS2hXOC1RR3pKTWdVajZaVFpXUVdlNXpkNFlJRjY0VzlULWwwT3pyNjFpeWszMVlOMTdqTldQVzVqdjBzeUdQcjVLUGVDZUhiRlByRThYV0c0MzJiVUxLMUVMV3lUZnpYTHM1S1lnYnNCMDRjdGpoaHlGYXdra1JhR3ctNU0zVG1rZEtFTWc4d1FlNFJsSlRkNVIyU2FPZw?oc=5",
    "date": "2026-10-01T10:11:00.000Z",
-   "source": "timesofindia.indiatimes.com",
-   "summary": "GTA 6 research gets wild as Rockstar reveals strip club visits and rides with ex-cops timesofindia.indiatimes.com"
+   "source": "The Times of India",
+   "summary": "GTA 6 research gets wild as Rockstar reveals strip club visits and rides with ex-cops The Times of India"
   },
   {
    "id": "gn-1kpus5f",
@@ -462,6 +638,14 @@
    "summary": "Rockstar Takes Over Downtown Skyline: Giant 'GTA VI' Neon Sign Lights Up Miami Arena Y100.7"
   },
   {
+   "id": "gn-xcw9f5",
+   "title": "Rockstar Takes Over Downtown Skyline: Giant 'GTA VI' Neon Sign Lights Up Miami Arena",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR25zVTREM1FVMnVkUjVpSjBrYmlndDBnSHNfM2tLcTN1WE5fZEJlNnhuZ0dQd3VNNEV3cHZacl9POVBqTGZnUEZqNmxzSThfNVFyaW5zSGlaNlZkLUczNnR6VlU0VHd2ZnV4ZTVYTHNtYlV3X1FReDJ2a2JjZjFMb2VvZkxpclU0TGk5UDVqMllVS1huTTdmcjM4dmR1OWxfb3BoSGp0dElvVVZjOWtnd0FJQWdVWFpBdzh2YmFmbEdCdTJWdmp1TjdEZUJvSmpCZXp1ajlHZjlOaFBZRnl6R2k1NFNUZw?oc=5",
+   "date": "2026-10-01T09:57:00.000Z",
+   "source": "NewsRadio WFLA",
+   "summary": "Rockstar Takes Over Downtown Skyline: Giant 'GTA VI' Neon Sign Lights Up Miami Arena NewsRadio WFLA"
+  },
+  {
    "id": "gn-nowoeb",
    "title": "GTA VI Developers Spent Years Visiting Strip Clubs and Relaxing on Florida Beaches, Latest PS5 and PS5 Pro Jailbroken - The Most Interesting News for September 30",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNEphSHRWSlNzRThVRXl0enFMT3ZFY2l1bERIYklKVWdmQ0RjMnJfVjJZdUt2U09nVEJGM1JGTGFvVnZYc1FvX1pDOXpSbG5OLW8xNWF6VEpyUWNkcjJWWFVBZGZqOGhXRFdfUHRYeTItLUdjaWJRNXNLZ1BOS1ZoWE5R0gGHAUFVX3lxTE5nSjVYQ0hUamNZWE9aZV82MzFBR0hSalVEZ052UVFJQnBKNEgtckN3TkZjVW5QU095UWlDY1ZBdEVJMExnMUVWUEo4bTRWNnJjVU5qQ1dsUTVnYjJESTBDYlE1ZFAtTGZZaV9iUXNKZmhxa21VV1c3c0hKQm5XRkx3S3U5bS1FUQ?oc=5",
@@ -476,193 +660,57 @@
    "date": "2026-10-01T08:24:01.000Z",
    "source": "玩具人 TOY PEOPLE",
    "summary": "Rockstar Says \"GTA 6\" Players Won't Explore the Entire Map by Finishing the Story — It's Twice the Size of \"GTA 5\" 玩具人 TOY PEOPLE"
-  },
-  {
-   "id": "gn-6564w2",
-   "title": "Call of Duty's Apparent Leaked GTA 6 Parody Draws Backlash Over AI Use",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmw4U3Z0SDVUanF1MXQ0RFpfNGRGcmM0MFBpelkxVUNqX2ttOWdoSHVvOHdkT1Vha2xpVXFfcEt6YkN6MV9TY0ExeHRUUTdDdmVMWlBfUGxZTk1zQ1hxdWdzZXZRTm5pb19PZkl6MnNWOUhLd0xKamVtMVpMWW1pNGlaZUNFMVRyX2FOeVdYVTRncGd3Y0pR?oc=5",
-   "date": "2026-10-01T08:09:33.000Z",
-   "source": "GTA BOOM",
-   "summary": "Call of Duty's Apparent Leaked GTA 6 Parody Draws Backlash Over AI Use GTA BOOM"
-  },
-  {
-   "id": "gn-1x6a1vb",
-   "title": "What Rockstar mailed creators: GTA 6 Merch fans now want",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2tfb29ieXZEXzlIaXREVGRya3h6NlR3NWdIMFotLVp2SlI1NlJRcncwemRlMWFPRlVva3BtYXhjVlU0UzJJNnVBUHhfUjFVb2QySVY2WWFRbGdBeWwzSFdBMFRwR29ZcW5GdWJlaHZyb2tZSDZMRGVKZWVTLTlJYzBYQ1ExRTdBR0s1R2I4YnB0RnJfWnlpcDhsV18xQdIBmgFBVV95cUxQQ19ybElEUTI1akhUeXltbzlSRUw1Z1BObWxlX0RIUFNKWlltaWg3S05Yc3ZNSkJjb0I4MXpualZtZmRJWkpPNVRnR3NuMkRlNS16dUFHY2lFV2hWOGg0R2VBd1dDSmh4NUNXbkkxVFVBOUhrVVRtTUdidktWSURPLWdMSFh4NThPM1pkYUxBMkU3TnNkNEszUlFB?oc=5",
-   "date": "2026-10-01T07:50:48.000Z",
-   "source": "The News International",
-   "summary": "What Rockstar mailed creators: GTA 6 Merch fans now want The News International"
-  },
-  {
-   "id": "gn-1sby99e",
-   "title": "\"GTA 6\" Developers Hit Strip Clubs and Patrolled With Ex-Cops to Capture the Real Florida",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8yaFhWVWQ0cklmWlowakFvZmlQUnRyb0dBcE5QY29PaW9sTmFxWE9iVHJFbGlJTTF2YnROZTM4N2pVVlhETHMxU3BheVBkeDVE?oc=5",
-   "date": "2026-10-01T07:43:43.000Z",
-   "source": "玩具人 TOY PEOPLE",
-   "summary": "\"GTA 6\" Developers Hit Strip Clubs and Patrolled With Ex-Cops to Capture the Real Florida 玩具人 TOY PEOPLE"
-  },
-  {
-   "id": "gn-vg2ne8",
-   "title": "GTA 6 is creating PS5 Pro shortages. Sony's solution? Prove you're a real gamer to enter a lottery to buy one",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc09zUGUyeGJaejFra2VoSlRUOGtsOHFpNkJrTzhBUE43T1RIX3VpTVRzN0lKdjVQeWNqcmJRU2hxYkdaWlE4aC1udHpTdkdXQ0x5eENEcUdTMWluYkRrWE1yN3RQV0taVVhrZV9rNk9SOG9vYjRvSlFfYVpkbkV4alJRUQ?oc=5",
-   "date": "2026-10-01T07:05:59.000Z",
-   "source": "Mashable",
-   "summary": "GTA 6 is creating PS5 Pro shortages. Sony's solution? Prove you're a real gamer to enter a lottery to buy one Mashable"
-  },
-  {
-   "id": "gn-1c43iex",
-   "title": "'GTA 6' Will Not Have Disney World, SeaWorld Despite 'Full Florida Experience' Promise",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdTVEVm9aMmhYcXVfUkVWaGhMMTVRaEFzdHdMRkh1R2xiUTZZSllwSG4wVDA0blhJeXFIQzZ2SDNXNnBvOFZqRHd3TDZHN0JhNll3b2o5ckdkcW5lbk5YdVl4WGRnSmh6NFpKSU5wVXlYV0YyYVMzUVJSWWFsYVNoY3o1V2c2N2daSmxrLXB6MFpDM2ZpbVdWS3BJM1hqYnhCeHBSNDRrcFRYRjZJVHJXXw?oc=5",
-   "date": "2026-10-01T07:00:27.000Z",
-   "source": "player.one",
-   "summary": "'GTA 6' Will Not Have Disney World, SeaWorld Despite 'Full Florida Experience' Promise player.one"
-  },
-  {
-   "id": "gn-e4eoga",
-   "title": "Grand Theft Auto VI may get a dynamic tanning and sweating system",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQREdlRHd6TEJjQy0wdUhQX0dzU0J1RjFJYjZ4UjRtN2FmMkVVTFVCUl9tYTFzclJ3bUYxX3lrVXNuX19RWE80YjdrYUV5UlhwcEdOMllqZ0JiM3drMHdNczc5dWVranNkSEY2bzlibV9PNG9zNGR2djlBbVZxeHY2TzJsUURCTXZ0UUREU1NxSS1zcGNkcHdOeEFQbFB5R200ZUlEUGVGYmNoSjZQbzZUaENJeXFhUQ?oc=5",
-   "date": "2026-10-01T06:45:01.000Z",
-   "source": "GameGPU",
-   "summary": "Grand Theft Auto VI may get a dynamic tanning and sweating system GameGPU"
-  },
-  {
-   "id": "gn-fz4wrl",
-   "title": "The long-awaited Grand Theft Auto VI will be available next month.",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1JtS2dod0kxXzlKbnFraV8tdktuU1o0ZDA2bFlPY3AxVTdKYy1wSVJXZW9fc09sN3B2MUhrNmNRSTV3bGVRU2ItRGlONVpkcEdVeEt5aklucjcyc3FsYjFXLUdnd1FIdUVxMWFHenh6STdtTEF0M1FWWGlLN0tVLUJGVkxDR01nX1V3cDUxcWZ3bkc5RXZCUzdzR3B1YU9pcWhtRlRTTWZhTUd1ZFgxcERuZw?oc=5",
-   "date": "2026-10-01T06:15:06.000Z",
-   "source": "GameGPU",
-   "summary": "The long-awaited Grand Theft Auto VI will be available next month. GameGPU"
-  },
-  {
-   "id": "gn-14mdq1k",
-   "title": "Forget GTA 6, this solo indie dev made a PS2-style '70s Istanbul GTA in Unreal Engine 5",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWVE5SUtZZWhoUDh0VVVwcXNXVEI1Z2ZTM1lHcUhGZUw5WENpY29vUG1DUWxmbm1vUUlGb1VjMXBWODFDUlRSTWI3OThDeTlXR2dCM0dTUDlRTVgtZng4WXdGekQ4ODBOZDZmOWhfSGRzWFZ3bElfU2JHSUxlT09DMWwxQUJGNVB1anZOTzl2Ynh2b3dXZy1KU0hESUQ3SFdVeENzQXAxRDR0cVJzM2tSb1pEdkNEeWhGUzVHQTlOaXRGX2RENkNvWjItUW9sempV?oc=5",
-   "date": "2026-10-01T06:08:27.000Z",
-   "source": "Creative Bloq",
-   "summary": "Forget GTA 6, this solo indie dev made a PS2-style '70s Istanbul GTA in Unreal Engine 5 Creative Bloq"
-  },
-  {
-   "id": "gn-56lxlx",
-   "title": "After GTA 6 Collector's Edition falls flat, fans covet Rockstar merch sent to influencers",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1RLSGhrNkwzYlNfYW0wcnNGdHRsS2NfcXZCVGtrU0p5b0kxLU9rNHBCUmtQWEdyajcza0xCTW5OcGU2dXhHME9IdG1tYVNiTGJOaFB4VWdoenlnY2l2bEpnaHZaN1IteFByNmFTRDlJZFBsV2lCZUdueVNoMU5xckp4YW5rNTRjWHBrRUNXRlpRZ3g1aDJBNWQ2V09Ock0zNmNteU9kV2dPOVRwTl9fR2VqblJXSlNBYkhpWHFhNXBiV1prbmpvd19MVTB1Zw?oc=5",
-   "date": "2026-10-01T02:50:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "After GTA 6 Collector's Edition falls flat, fans covet Rockstar merch sent to influencers Notebookcheck"
-  },
-  {
-   "id": "gn-1u9ifsj",
-   "title": "Everything we know about Grand Theft Auto VI",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdzE5SnFsUTVIcGxZdjVXRlphcEt4bE03dmo2S3dZaGlIeU5iczZFWFRCQnlJeThMaU5neC1nUU5mSnNlUzNEX0J2VkFiVEtVYVE1T3VZS3htV0E?oc=5",
-   "date": "2026-10-01T01:30:09.000Z",
-   "source": "Esquire Australia",
-   "summary": "Everything we know about Grand Theft Auto VI Esquire Australia"
-  },
-  {
-   "id": "gn-c6atg8",
-   "title": "GTA 6 Leaves Disney World and the Space Coast Out of Leonida",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWF9UaUpvMkVsSmZrSHptM2RFLUswWld3Uk9kSXhRUTZIeXY2a3ZYUGVjbEhRTklsN0RMdHRScjRlejBBTElqbF9yWVluaDN0VEVpNXo3R3pjbS1QSGo1OHBjUUozWnpYeV9pVF9ycnh5bmNMZFVrNHE0QWY1TnZiZllaZnozTlkzdFU0OUE4cVdhUQ?oc=5",
-   "date": "2026-10-01T00:58:34.000Z",
-   "source": "GTA BOOM",
-   "summary": "GTA 6 Leaves Disney World and the Space Coast Out of Leonida GTA BOOM"
-  },
-  {
-   "id": "gn-zfuz3w",
-   "title": "GTA 6 Developers Visited Strip Clubs And Rode With Ex-Cops To Get First-Hand Florida Experience",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2FZM3ZtQlFMZ0h6VFZ0U1RqQnNSYW9oUjN2ekR3SmFDWWV6MUMxU0VtS3FzSWxqR2lzSGRXMGFKY1RQSTlJeVFCb1FmSDlQYXlwTkZZZ1RyYVV4SjRrb1M4a0Y4cFVESnNhelQxZmtvWGJ6WTZHLUVucW03cXgwamVVT3hkWFpkVkEzVU1uMHM0QU1ZZmc1aHBXWGUwT1dRUjhMaGptRndNV0xYLXhaOFBNTWdZMnVJc0VjUHRtNA?oc=5",
-   "date": "2026-10-01T00:45:44.000Z",
-   "source": "IGN",
-   "summary": "GTA 6 Developers Visited Strip Clubs And Rode With Ex-Cops To Get First-Hand Florida Experience IGN"
-  },
-  {
-   "id": "gn-2tqws3",
-   "title": "‘Grand Theft Auto VI’ Becomes First Video Game of 2026 to Top List of Titles People Are Most Excited About",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWVk4Zm1vS2pId3A3bld1X1B5azhjSW9PbWNlQTI3bWFuRmdfcGMwQWI4RWhub2RvbjZQWFZYYzk5a0FXTk1fRlB4YURHZmI3MGhObVdaSHoteHcxSWFoQlZWc3VBakU4elByWm42WDV4bXByVHJWT1g5bWhYR0JMU1AtbERwRUFlZmJmNDNzQ1o?oc=5",
-   "date": "2026-09-30T23:08:51.000Z",
-   "source": "Yahoo",
-   "summary": "‘Grand Theft Auto VI’ Becomes First Video Game of 2026 to Top List of Titles People Are Most Excited About Yahoo"
-  },
-  {
-   "id": "gn-37frof",
-   "title": "GTA 6 Devs Visited Real Strip Clubs for Research - IGN Daily Fix",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEFxYVUyS21CTDJKdWFKZEJkaHl3UlVwQXFkYnlxRUZVNng4TEFWTUdhbFJJeWg4Rmt5S0tueURhTW42bW1zUUg5UjdnbXJhQjlwbWc4czZRbkN5Z05QVkxSZExnQ24zM2l3X2YyOW8tTXI1M241WEVxYlhFRlNKeFBLWDZFOXhDTGlOb1g3WVNpOGRpMjRRcVRfUlJpcU51M05ZUVctejhDQ1d4TFJxM01CR001SUJLdHhFVkVVZw?oc=5",
-   "date": "2026-09-30T22:26:22.000Z",
-   "source": "IGN Pakistan",
-   "summary": "GTA 6 Devs Visited Real Strip Clubs for Research - IGN Daily Fix IGN Pakistan"
-  },
-  {
-   "id": "gn-1lbtlzf",
-   "title": "GTA 6 Devs Visited Real Strip Clubs for Research - IGN Daily Fix",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFlMSTlUa1dUY2NKOV95eTYyWkVWRnZLNEtTSG1Bc2JRVXN1YTIyTC1JbjM1ZzZieWdPNlYyNHZGa3AzNTViWXEtbmd0ckZJRjFGOWhINlN0eWxxNjlfSnFvaGpia2M2cUJqS2FHemt5aHRZTko5NGVyZ1VqNFB5TF96WF9oeDN3X044YkxLa25uc1N4elhhSmVJT250NzQyWmdkbmVHNnFaRjhaeVBfTHdKenhGTElPbTRJWWl0dlc?oc=5",
-   "date": "2026-09-30T22:26:22.000Z",
-   "source": "IGN Southeast Asia",
-   "summary": "GTA 6 Devs Visited Real Strip Clubs for Research - IGN Daily Fix IGN Southeast Asia"
-  },
-  {
-   "id": "gn-17lz6r5",
-   "title": "You Probably Shouldn't Expect a Disney World Parody in GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNk4zR0hRVnB2NElhUFg1ZGV3Z3F5VndrQTBxd0Nkd1NIcXVmZzcySlY1d19QSG44YXF3a3FscGVCQjRwbldSUkFTemtLSHAzTGdIdlVVS19tZXJsRkdjbTBMZHBaNkVCZUMxbFRWaGZUcmlTa0Y4akhJUlZtQmZvSEhnZ2w0UklRbWhlZ1c4eW5YdjZOblM3N25LVmVzRVU?oc=5",
-   "date": "2026-09-30T21:55:01.000Z",
-   "source": "IGN",
-   "summary": "You Probably Shouldn't Expect a Disney World Parody in GTA 6 IGN"
-  },
-  {
-   "id": "gn-1xz43n6",
-   "title": "Rauw Alejandro Crashes Back Into Hot Latin Songs Top 10 With ‘GTA VI’ Track ‘Macacoa 2000’",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjBkaVBBWV81djZpQy1QWHdzZkpadENKQnVacG1Uc1lQd0lyTUpzVmRlYUd2M0lVODRyaUozUnRIUldLQU1HbU5URDU0NVBwVjk2a3JvYXZ4eVNpdDFRWl9UNFF4LWNrQkRSZUJHaG9XUnAzd3FhUjRQUDhOVXMwOHdtVi1tS1Z0bnFsdFJiR3Z6QW1LUHp4OXNnZUhCLTM3T0RTV3NSdy1uYzVtOTgwTlRB?oc=5",
-   "date": "2026-09-30T21:27:33.000Z",
-   "source": "Billboard",
-   "summary": "Rauw Alejandro Crashes Back Into Hot Latin Songs Top 10 With ‘GTA VI’ Track ‘Macacoa 2000’ Billboard"
-  },
-  {
-   "id": "gn-3nnzso",
-   "title": "New GTA 6 Merch Might Drop Tomorrow",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1R5ODQwQU5qOElWa2laMVQtRnpPWDRSbjhiRHlnR3VHSGNjd1FBX21VSE9HRjN5c3RGWDRTYjFvQWFpNXBZRE5FXzdBOUtDWWQ1RkpIdVhrT1ZmcFZ0WU50NHBLM0Q2YUZOZGpNdEp3bGMxT3M5QUNvSFVfcThTQk9FX1dKdVFSODVZbg?oc=5",
-   "date": "2026-09-30T21:20:37.000Z",
-   "source": "Resell Calendar",
-   "summary": "New GTA 6 Merch Might Drop Tomorrow Resell Calendar"
-  },
-  {
-   "id": "gn-1y5ymiw",
-   "title": "GTA 6 Adds Hurricanes And Red Dead Style Legendary Hunts To Vice City",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uQWkwU0VCbTI1SlJfdFNocDlMQUhWSXFDQlB1T3ZCMm9UZWdsSnVLMTRfN1MwTzByU0lYRnpFcXkzYVhfUE5QUGRlY2tuN1NENENPTHFXT0hyMW5CMzJWUjlreEpMMUVTUHJCTzdB?oc=5",
-   "date": "2026-09-30T18:55:00.000Z",
-   "source": "HotHardware",
-   "summary": "GTA 6 Adds Hurricanes And Red Dead Style Legendary Hunts To Vice City HotHardware"
-  },
-  {
-   "id": "gn-1o6sc38",
-   "title": "Rockstar Confirms GTA 6 Hurricanes, 170 Animal Species, and Six Map Regions Ahead of November 19 Launch",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbkl1aHl5dmVEYkVrVEZ4RTJVRDlhSVRhREEyWHZHZVBqRXAteXZxMy1MZ3otSDkyRUZ4RGxiZmMtbklFZTVyaG9XV3VjUVh2WTNRcm5PRFJyUlhaZVJ6RzVZUDVFUUpHeFFwbS1IUGdTQUNFdS1vNk15OFdrNUFWSlhJQVhJa2o5ckYwNHViUlUtc0Jtd09TSW0zVUxBSTU0bWowU0JCMDdHczRldlZnb0c5VHdzbEJIRWNheWI1Y1F5OG1Td0UzWndmTDh0eVRuR2c?oc=5",
-   "date": "2026-09-30T18:27:48.000Z",
-   "source": "gHacks",
-   "summary": "Rockstar Confirms GTA 6 Hurricanes, 170 Animal Species, and Six Map Regions Ahead of November 19 Launch gHacks"
-  },
-  {
-   "id": "gn-jos67q",
-   "title": "The GTA VI Police Car Chase Might Be The Best Looking In-game Car Chase We've Ever Seen",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGxWQlFEdlFUVVpFMUR3RU1ONzJNbjhVbmFsREU1SGExOThpSEVTM1lmRlh5U2h2bGF6U2NXdXdWMFQwTDRHOW9vWm9LcGlKZHBuYUlfMzRHMm5BYUFfdzVRSUcxVUl2ZGdXLWJ4MktjR1dERnd6NXREUUxNdC1QdUllOTljbWhQ?oc=5",
-   "date": "2026-09-30T18:10:00.000Z",
-   "source": "Yahoo",
-   "summary": "The GTA VI Police Car Chase Might Be The Best Looking In-game Car Chase We've Ever Seen Yahoo"
-  },
-  {
-   "id": "gn-1mqjymt",
-   "title": "GTA 6 Delayed Again? Kalshi Odds Say It's Holding at 92%+",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQXhIMHZKal9DRXZhcEFKeFVscXE0d0UzX19kYlVCN190MThSZkgwYzRzSlZubTZuY2R3a1dCeU1OVERfNko2X1pMcmJveC1BWG4taUdreDU2QUF6QmxyNlFHOWRFS20tUEw4WWRDUndJcjhLNVpGNWpGdko5N2NibFp2b1FmbmMwYnc?oc=5",
-   "date": "2026-09-30T18:03:00.000Z",
-   "source": "Action Network",
-   "summary": "GTA 6 Delayed Again? Kalshi Odds Say It's Holding at 92%+ Action Network"
-  },
-  {
-   "id": "gn-187p2js",
-   "title": "‘Grand Theft Auto 6’ map is twice as large as ‘GTA 5’, confirms Rockstar",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVm5WMlE2VVJGV2ZyazFTT0VpZDZMRUdTMF9NQ3BLSk9NYThBTTIzWUF3a3BvS295bzBjbkVNMGpQLVBHMUN0X21ENGV6VGd0aGdGbGRSSDBHUXJVdVV0bk9KVXNzaDRLY1JxYXBWTUx0dDVjeUx6Zmpwb0F4b19KaFN4V01HTzlDX1dQZHZJUks5Q1l0RmQxNk02cThVNGlJeU1aaFhDRQ?oc=5",
-   "date": "2026-09-30T17:56:05.000Z",
-   "source": "NME",
-   "summary": "‘Grand Theft Auto 6’ map is twice as large as ‘GTA 5’, confirms Rockstar NME"
   }
  ],
  "community": [
+  {
+   "id": "rd-1o170xu",
+   "title": "Update on the mural in Brooklyn",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wvdirj/update_on_the_mural_in_brooklyn/",
+   "date": "2026-10-01T22:41:19.000Z",
+   "source": "r/GTA6",
+   "summary": "Posting a video this time lol. Sky is matching the art! submitted by /u/Salty_Scrotum [link] [comments]"
+  },
+  {
+   "id": "rd-1o7m5fd",
+   "title": "Rockstar should release an official-NFL-quality Manatees jersey since most of the merch is kinda mediocre imo.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wvcww3/rockstar_should_release_an_officialnflquality/",
+   "date": "2026-10-01T22:14:15.000Z",
+   "source": "r/GTA6",
+   "summary": "After seeing the pictures on Twitter i gotta say most of the stuff is pretty lame. the bags are cheaper looking than i expected, money clip is boring and the Zippo just has a R* logo and Vice City on "
+  },
+  {
+   "id": "rd-1szgswq",
+   "title": "Movies that capture the Miami/Vice City vibe?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wvc78s/movies_that_capture_the_miamivice_city_vibe/",
+   "date": "2026-10-01T21:43:51.000Z",
+   "source": "r/GTA6",
+   "summary": "I'm looking for movie recommendations that could give me a better feel for the culture, atmosphere, and lifestyle of Miami/Florida that might be relevant to GTA 6. I'm not American, and although I pla"
+  },
+  {
+   "id": "rd-17ik43u",
+   "title": "I wonder if we'll get a reference to the zoo scene in Goodfellas",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wvajiw/i_wonder_if_well_get_a_reference_to_the_zoo_scene/",
+   "date": "2026-10-01T20:35:08.000Z",
+   "source": "r/GTA6",
+   "summary": "In Goodfellas, they threaten to drop some guy in the lion enclosure at a zoo in Florida. It would be a cool reference if Jason and Lucia get to do the same thing in-game. submitted by /u/agentyork765 "
+  },
+  {
+   "id": "rd-1j0bmed",
+   "title": "It's happening next Month... Let's lose the 'hopefully this time' and all officially get Hyped.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wvaa0z/its_happening_next_month_lets_lose_the_hopefully/",
+   "date": "2026-10-01T20:24:31.000Z",
+   "source": "r/GTA6",
+   "summary": "I think it's time we remove the Hope from the timer. What you say Mods? In a few weeks we're all hitting the beach. VICE CITY BABY! submitted by /u/Turbulent-Land-291 [link] [comments]"
+  },
+  {
+   "id": "rd-hpfvdv",
+   "title": "We are all going to be shocked!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wv9fxs/we_are_all_going_to_be_shocked/",
+   "date": "2026-10-01T19:51:49.000Z",
+   "source": "r/GTA6",
+   "summary": "After seeing a lot of comments and posts about people’s expectations on this game, I’ve realised that nobody is ready for what is actually to come! This game is going to be next level!! Matter of fact"
+  },
   {
    "id": "rd-raox21",
    "title": "Bear lights in GameInformer screenshot appeared in picture frame in the Extended Look.",
@@ -934,54 +982,6 @@
    "date": "2026-09-30T15:26:34.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Annual-Rip6066 [link] [comments]"
-  },
-  {
-   "id": "rd-koq6js",
-   "title": "Sailboat",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wu7el0/sailboat/",
-   "date": "2026-09-30T15:07:25.000Z",
-   "source": "r/GTA6",
-   "summary": "Is this the first time we see a sailboat? I have looked att all the previous screenshots without spotting one before. submitted by /u/Affectionate_Lock646 [link] [comments]"
-  },
-  {
-   "id": "rd-qc15h6",
-   "title": "Article of the Day #30: Vapid Ganado (Jason's Car)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wu77hx/article_of_the_day_30_vapid_ganado_jasons_car/",
-   "date": "2026-09-30T15:00:08.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-80nudk",
-   "title": "Promotional art in Acrylic",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wu6uhk/promotional_art_in_acrylic/",
-   "date": "2026-09-30T14:45:45.000Z",
-   "source": "r/GTA6",
-   "summary": "I tried my best, but it is my first time using Acrlylic paint, aside from once in highschool. submitted by /u/Independent_Run_1044 [link] [comments]"
-  },
-  {
-   "id": "rd-jxi9mp",
-   "title": "Rockstar's Head of Art basically just said, \"Even RDR2 does not come close to this\"... Let that sink in. GTA 6 is going to be a BIBLICAL experience",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wu6e7q/rockstars_head_of_art_basically_just_said_even/",
-   "date": "2026-09-30T14:27:35.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
-  },
-  {
-   "id": "rd-1040eom",
-   "title": "Burmese pythons in GTA VI?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wu612w/burmese_pythons_in_gta_vi/",
-   "date": "2026-09-30T14:12:58.000Z",
-   "source": "r/GTA6",
-   "summary": "Do y’all think burmese pythons will be in the game? We know RDR2 featured snakes, but none as large as the burmese pythons that are invading the Everglades irl. I think it’d be interesting to see how "
-  },
-  {
-   "id": "rd-oc1gu6",
-   "title": "Sahara Arena partly enterable?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wu3a51/sahara_arena_partly_enterable/",
-   "date": "2026-09-30T12:12:13.000Z",
-   "source": "r/GTA6",
-   "summary": "To me it looks like we will be able to enter some sort of parking area / plaza at the Sahara Arena which im speculating will also lead to the backdoors of some sort of souvenirs shop or merchandise sh"
   }
  ]
 }
