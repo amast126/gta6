@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-02T00:01:05.300Z",
+ "generated": "2026-10-02T05:58:35.297Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-02T00:01:05.300Z"
+   "checked": "2026-10-02T05:58:35.297Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-02T00:01:05.300Z"
+   "checked": "2026-10-02T05:58:35.297Z",
+   "error": "HTTP 500"
   },
   "googlenews": {
    "ok": true,
-   "count": 92,
-   "checked": "2026-10-02T00:01:05.300Z"
+   "count": 93,
+   "checked": "2026-10-02T05:58:35.297Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-02T00:01:05.300Z"
+   "checked": "2026-10-02T05:58:35.297Z"
   }
  },
  "official": [
@@ -182,28 +183,108 @@
  ],
  "press": [
   {
-   "id": "gn-gi645p",
-   "title": "Digital Foundry Says Sony's QSSR Upscaler Could Sharpen GTA 6 on Base PS5",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTk55bXZ5UWoweUFIN1JYYnJra04xRVNBWVhUeGZBZXUtQXdoLVhlU0xYNEZnem1JVHdHSzZrRmFfcmMwX28tSDZ2WHpKQ2xsR095RWh3RWh5R1Bja09wSmJQSHVLYnplc2NMcXNFVUluWVZMaXJ4SDZULWlmdFhSYTJZX1RsbFo4ZTlOMGV1Qm91VGlrY2NYbjJhZGNYTWhQ?oc=5",
-   "date": "2026-10-01T22:24:57.000Z",
+   "id": "gn-1xpakku",
+   "title": "Sony's surprise PS5 graphics upgrade could make GTA 6 look better at launch",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdHdwYkk2Y0dtWk1ybDhLa1dhU3dHOXB2dVlNc3NOQ3l5alUyT2xyd05OWEF3dUxuZ1NzM2h1SFprOXpRRlZXLXc1ckRsd2FaR1ViUlVHOE9ZSGhBMHdGdXhYVjZLVzlwQ2J6eHZ3Vkt0aDJ3TnRZZXpQemNsU1JweUpFVnlxd1puX09FNERKXzlXYTJ3aGFQUHV5enpBZzEwWS1vR3YwQWd6eHdCTFhCQWwycW83UDZaaVZmZk0wSkk?oc=5",
+   "date": "2026-10-02T05:08:10.000Z",
+   "source": "TweakTown",
+   "summary": "Sony's surprise PS5 graphics upgrade could make GTA 6 look better at launch TweakTown"
+  },
+  {
+   "id": "gn-255fxd",
+   "title": "GTA 6 Is Officially Rated M for Mature, With Sex Scenes Listed in Australia and New Zealand",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZDNkeWwzRVhQRkhuTXE4OEczS1lmVXZzQ3hCRk52a1h3Mnc4YkU3OTkta2NOTkI5WGtJdGN5UFdYbTc3LUVHOGhLUDgycEtnOW1MQkRQRFVOMFc4WHFhanc0bnFZa0VGRm5ORnVRR0lWcUw1RG5JdnpUdVZmcTBaNnIyMUpxYkdWQ2V3Z1c1NTFMcHVtdXBzaHJtcGVSdHc2LXE1SkNJN2dtbVc3YXhlSExBRzhsTmpSZmFwZFViNjVEbFk?oc=5",
+   "date": "2026-10-02T04:46:24.000Z",
+   "source": "gHacks",
+   "summary": "GTA 6 Is Officially Rated M for Mature, With Sex Scenes Listed in Australia and New Zealand gHacks"
+  },
+  {
+   "id": "gn-1y2rzgg",
+   "title": "South Park Is Turning GTA 6 Into a Season 29 Running Joke",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOalBIUWNrdkRsUnFWdzNhblUwU2d4NEdzTWlRUk9NOXRxR2ZRaGpBVnAySFlDMkdaSU9fV3czWXo3bklJUXh3dVZibGZ2aFFQOVVlTDJNUlkxbFJaTWtkczJjNEdqd3RUQ1YtX1N6UUVVQUJIQmplcmNaMU9hTW5TZTNXTVNadUJSMnF6SUtEWi1DSkU?oc=5",
+   "date": "2026-10-02T04:20:00.000Z",
    "source": "GTA BOOM",
-   "summary": "Digital Foundry Says Sony's QSSR Upscaler Could Sharpen GTA 6 on Base PS5 GTA BOOM"
+   "summary": "South Park Is Turning GTA 6 Into a Season 29 Running Joke GTA BOOM"
+  },
+  {
+   "id": "gn-1bsrzkj",
+   "title": "GTA 6 May Not Include Parodies of Walt Disney World and Universal Studios",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDNXZmFnTzlOaXViNEF4b21iMC1KQVJlOXlna050VmFrLXpjUDR0RVJaaU5uZnpkYVM5OUhwNjdhX010QmlnS2NzajA0dDZlRVlaQVBsNnN0RXZ5dFViZHcwWERBY2N3STdRN0hqYVFabzRUamxrQms0NEhxc1VVME9HcndRMDg2dTdBTnh6alZWcl9JdThDMF9hSUE2ZlpZRFE?oc=5",
+   "date": "2026-10-02T02:00:00.000Z",
+   "source": "Walt Disney World News Today",
+   "summary": "GTA 6 May Not Include Parodies of Walt Disney World and Universal Studios Walt Disney World News Today"
   },
   {
    "id": "gn-179yfcc",
    "title": "GTA 6 Will Have Sex Scenes, According to New Zealand Ratings Board",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNmdFdkc0SzZ6ek1fVXp5V0V1T2YtY2hodUdjeFFUQ1VrakI1NHEtRzU2b1psN2o3TWhhTHBqcm02YXY3SkwxejJVdlMwYlRkU1RmWGNpSFhCa1l3Ymg4R18wVlYzNnVobXBtQmpHUmdJVEVFMF9paUxuWE9iVnVJcWRJWG94QkFFaGhFVk8tTFI?oc=5",
-   "date": "2026-10-01T22:14:09.000Z",
+   "date": "2026-10-02T01:52:56.000Z",
    "source": "IGN",
    "summary": "GTA 6 Will Have Sex Scenes, According to New Zealand Ratings Board IGN"
+  },
+  {
+   "id": "gn-joa4ds",
+   "title": "QSSR could bring GTA 6 PS5 performance closer to PS5 Pro, says analysis of AI upscaler",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS2dDdGhqSHRaTVR4SXJIREgtYXd0NFl1SUdSeHNkVG1DdGdrVDhpNkk2QXdWRzR0WUxJN2ZxbDJOcDhKZU0yTVhOV0JIVVBYWGIxYmJaN2x2ZWFiMm0wR1Y2NWV0T2p3VG1kd2N3dDJjcTlnaXFpTU5WOW8xVExndTQ2TGhBVldrN3BtZVFaZnBkR1JjUklpYlNGRjdZZW9zUHlaWHJod0ZHdTVROU9MVUpPR0pfR1lHTW1KZWczSkRhOFNIX2t5ZThR?oc=5",
+   "date": "2026-10-02T01:48:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "QSSR could bring GTA 6 PS5 performance closer to PS5 Pro, says analysis of AI upscaler Notebookcheck"
+  },
+  {
+   "id": "gn-1ezqbn5",
+   "title": "GTA 6 Weather System Explained: Hurricanes, Storms and New Details",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTnJvS2ZoTXdlSUtNdUc5UFotN2FMWmZDV3N2bHl1T2s4aHNTdnhDVkFZR1FDM2pwbDJ4LWxXbGJhNGJOcmxVdEhIYXZGLVdfR3ExUVBvODNNbmgzYzhNZVNZMEt5dy1tRDNyellGRG5iOWcxQ2dxWWU1S29xMUVRQi1sRFBlZzdYYVpkeHpZNU9jVnQ0Y3BsRV9neXVQWUNra1VaYTNxaW9lQklR?oc=5",
+   "date": "2026-10-02T01:00:24.000Z",
+   "source": "Forbes",
+   "summary": "GTA 6 Weather System Explained: Hurricanes, Storms and New Details Forbes"
+  },
+  {
+   "id": "gn-lzioax",
+   "title": "GTA 6's New Weather System Sounds Ridiculously Detailed",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVk5EYmEwTnRpRVVFb091U2Zrei10RVRsMW1zaC1qVnVmdVVvYTNxNHlzc1plWjdvT1VpeGZCZHU5RldIeEdZUkJ3WmpKSzFsakhFaktPSUJyNDBHR2x3Z25DN1NWc2VFSVpYenhzbDlyLW5BNGNad3h0S0Z3ZkhGVTA5cy1jbXhITWc?oc=5",
+   "date": "2026-10-02T01:00:00.000Z",
+   "source": "Yahoo Tech",
+   "summary": "GTA 6's New Weather System Sounds Ridiculously Detailed Yahoo Tech"
+  },
+  {
+   "id": "gn-dg1b8",
+   "title": "Killing the Time: What to Play While Waiting for GTA VI To Download?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUotMDhhYUVmeWV0Si1ZWEJIVWhLSmREX0N3LVVkbDBsNzBWSUxIN3lETFhhbVVKMEc4WFNjR0lWWG5IWUNBS3pVNjFjcDhHX0N3Ujd5ck9KMXhkcmtDbjczUVlzQkQ2TFdMbGNGLU0wRmx5WFVWUjdyWS1mcVBBOVdqSE1FTGlUOHFNT2hHR1E2UjRuai1hLTRB?oc=5",
+   "date": "2026-10-02T00:37:58.000Z",
+   "source": "psxextreme.com",
+   "summary": "Killing the Time: What to Play While Waiting for GTA VI To Download? psxextreme.com"
+  },
+  {
+   "id": "gn-1iv31oj",
+   "title": "BforeAI Uncovers 16 Unauthorized GTA 6 Apps on Google Play Cashing In on Hype Ahead of November Launch",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1lFb2xOTEVJOUg0b2htSEZOb3JfdDZYOHdkM3U0NjdCcU1FSEl1bXVUV0hCWkFyc1ZJd3JTc0U3Z0xGTGlNSlJ6UDgyaUhNNkVId21XcU0ycHJpSng4ZVFSZUZtRklWNFFpVWJEMTZJakl3TW9MZDVnVk1qM2NVVnVQblA4d1Q5X1lNMk9DbzdySDlBSFlxSVppa09COElrc04tTm9WME90TnR2YWpJZUFiN2tDZERwN2tsd2h2LTNCUE9wbUE?oc=5",
+   "date": "2026-10-02T00:08:08.000Z",
+   "source": "VMblog",
+   "summary": "BforeAI Uncovers 16 Unauthorized GTA 6 Apps on Google Play Cashing In on Hype Ahead of November Launch VMblog"
+  },
+  {
+   "id": "gn-1ljr0zv",
+   "title": "Could GTA VI bring back casinos?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnlRaGhSV0NFeG5QYnZoV3RqaTRPV1Qzc25oZVdTUkVFTTlxMTBBVkRYRmNnRFFJX2MwazdKSlhLUkxIOUFmWFhBQm9DMXFIMm9sNHkxWGhac3lOUkU0NXhja1ZNR0hGelpTc2hlMmdSajZ3R3k0Wko4WFFBMDU1UA?oc=5",
+   "date": "2026-10-01T22:35:35.000Z",
+   "source": "News Channel 3-12",
+   "summary": "Could GTA VI bring back casinos? News Channel 3-12"
+  },
+  {
+   "id": "gn-gi645p",
+   "title": "Sony's New QSSR Tech Could Fix GTA 6's Blurry Base PS5 Image",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTk55bXZ5UWoweUFIN1JYYnJra04xRVNBWVhUeGZBZXUtQXdoLVhlU0xYNEZnem1JVHdHSzZrRmFfcmMwX28tSDZ2WHpKQ2xsR095RWh3RWh5R1Bja09wSmJQSHVLYnplc2NMcXNFVUluWVZMaXJ4SDZULWlmdFhSYTJZX1RsbFo4ZTlOMGV1Qm91VGlrY2NYbjJhZGNYTWhQ?oc=5",
+   "date": "2026-10-01T22:24:57.000Z",
+   "source": "GTA BOOM",
+   "summary": "Sony's New QSSR Tech Could Fix GTA 6's Blurry Base PS5 Image GTA BOOM"
   },
   {
    "id": "gn-1vzgqh1",
    "title": "The GTA 6 Leak Fallout, New Police AI, and What's Coming in the Game Informer Cover Story",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDBfMXEtSEJ2YnI3OXFVTWdBeE5FeUc4Q2FYNGkwX1UyNHVnZ3puVkpZbWF5ZWJ5d0hCZnFfRE1tWmNwTU93MENIYXZZbnRGcVU2ckVCNExGSWlZUlBWNGJmbS1OTkdUQ3RJNFdPemNMVWN3ZS1BN3F3ZXlJVGRhcGt0cmxuTG9CekdHUy1ycnBTX2g2RklaeXNvWW85RmFUNkI5ejhSWllJZ0M3VWN3eXhtSHF1Zw?oc=5",
    "date": "2026-10-01T21:25:08.000Z",
-   "source": "triad-city-beat.com",
-   "summary": "The GTA 6 Leak Fallout, New Police AI, and What's Coming in the Game Informer Cover Story triad-city-beat.com"
+   "source": "Triad City Beat",
+   "summary": "The GTA 6 Leak Fallout, New Police AI, and What's Coming in the Game Informer Cover Story Triad City Beat"
   },
   {
    "id": "gn-14lync",
@@ -226,8 +307,8 @@
    "title": "GTA 6 – 10 Details We Learned From The Game Informer Cover Story",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeWNIUHZMYURreFl3VVpLY0RjOHFMUXhab3RaUjlSTDV1TnB6LUQ0X3BLZmVFcHZzaE5HcDctV0lIUFNoR3B4eUZzaUNJYWRiVjBrbEw1bVBIblkzQm1nYWl4SVY4VUtfaUx6Y2k1Q09MbWdQVnZ5eUh4VWpabmhTVFdaRTNNbHFwN2lIMUQ4WFVOcjl3MWJPOWhUNA?oc=5",
    "date": "2026-10-01T21:00:00.000Z",
-   "source": "gamespot.com",
-   "summary": "GTA 6 – 10 Details We Learned From The Game Informer Cover Story gamespot.com"
+   "source": "GameSpot",
+   "summary": "GTA 6 – 10 Details We Learned From The Game Informer Cover Story GameSpot"
   },
   {
    "id": "gn-14vpm3n",
@@ -346,16 +427,8 @@
    "title": "GTA 6’s Weather System Sounds Like A Big Step Up",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM0Q4WlhGVUVIXy1Xc0Z1QlFiWlY3MEw0U1FXaEhzT2RtR1dlaVRwcXBTZFRjMlc5UWR6aUhqeGRMWnFXZ2Y1V3g3dE1tOFNmWEZRVFgxbU1CZW81TU9FeGgxVVhNQV9qdWxpSVdpaFJyUU5HRTd3ODhzVXpwVERQSHplUFBmT2VMTHc?oc=5",
    "date": "2026-10-01T18:33:01.000Z",
-   "source": "gamespot.com",
-   "summary": "GTA 6’s Weather System Sounds Like A Big Step Up gamespot.com"
-  },
-  {
-   "id": "gn-1iv31oj",
-   "title": "BforeAI Uncovers 16 Unauthorized GTA 6 Apps on Google Play Cashing In on Hype Ahead of November Launch",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc1lFb2xOTEVJOUg0b2htSEZOb3JfdDZYOHdkM3U0NjdCcU1FSEl1bXVUV0hCWkFyc1ZJd3JTc0U3Z0xGTGlNSlJ6UDgyaUhNNkVId21XcU0ycHJpSng4ZVFSZUZtRklWNFFpVWJEMTZJakl3TW9MZDVnVk1qM2NVVnVQblA4d1Q5X1lNMk9DbzdySDlBSFlxSVppa09COElrc04tTm9WME90TnR2YWpJZUFiN2tDZERwN2tsd2h2LTNCUE9wbUE?oc=5",
-   "date": "2026-10-01T18:12:05.000Z",
-   "source": "VMblog",
-   "summary": "BforeAI Uncovers 16 Unauthorized GTA 6 Apps on Google Play Cashing In on Hype Ahead of November Launch VMblog"
+   "source": "GameSpot",
+   "summary": "GTA 6’s Weather System Sounds Like A Big Step Up GameSpot"
   },
   {
    "id": "gn-13qgrui",
@@ -418,8 +491,8 @@
    "title": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnEycWs5Wi15d2EwRUF1YndnZkgwLXlicUpiUmxQM0c0TUxwZDNTQmJHRDV0M05DeTYyaGFpZG9aYklUVENQeEszMlFnMUs1TzhFN2Vmb1hnV3dRdnRJZTVWRkxjc0QyNFBJU2JkX3F3MzI2dlFib2ZEdm1JTFVNNDRNVGtWNEpXWGppZWVSRkhMR0E?oc=5",
    "date": "2026-10-01T15:40:13.000Z",
-   "source": "gamespot.com",
-   "summary": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says gamespot.com"
+   "source": "GameSpot",
+   "summary": "GTA 6 Doesn’t Compromise Scale For Detail, Rockstar Says GameSpot"
   },
   {
    "id": "gn-16rg4op",
@@ -518,12 +591,28 @@
    "summary": "Could GTA VI bring back casinos? The Grand Island Independent"
   },
   {
+   "id": "gn-vqe80i",
+   "title": "Could GTA VI bring back casinos?",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYXRFNldaRkxkQVdQWkE1ZF9OZm5NTTRwSGdSOGlnMzlteUxZbW5OM3N2LTJybGNMRTdqcWtuOWlSZWtYR0lEUlFBcDlLbzJxMHlZY3Z0WjFjNFJlc1JxV1hIbVBjbGI1dnVHcFhLaXBwYjZkTlQ5U0luUklmZV82c0hZNFAwV3BVbGJmcE1OZVpCMElsTjRsUXkwMS1Kb2t1and3Zg?oc=5",
+   "date": "2026-10-01T15:00:04.000Z",
+   "source": "The Independent Record",
+   "summary": "Could GTA VI bring back casinos? The Independent Record"
+  },
+  {
+   "id": "gn-etwsmm",
+   "title": "Could GTA VI bring back casinos?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSnBqZ2UzeVF5STdraXR2dVBFZnhLRU5VTmxLeC13Tm05amZ1ZUlzV0hHSVVrVmhQeUQ5WFktRUc0RXFIQVlGRTRlUFUwbmR4RjRRcGZvWUU2LWstS0RxeU81RjFTWDJ0WXAxbU5GU0E2Q1BLZjdTTmdWX1gyWVF5cjdyNFZPNG14QWtudHBWeE0wbFJhSkIxekhXR3NaSzZIalczSGwtOA?oc=5",
+   "date": "2026-10-01T15:00:04.000Z",
+   "source": "The Missoulian",
+   "summary": "Could GTA VI bring back casinos? The Missoulian"
+  },
+  {
    "id": "gn-170e0ml",
    "title": "Sony Fights PS5 Pro Scalpers Ahead Of GTA 6 With 60-Hour Playtime Rule",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zTUlpNUJoM0NaUXdGRC1lc09aTVZhX3dpRkNobE9NZTBZN3lWR0RaZnd4eDBvOTAzeHpObkM5ZmVWc0Y0VzVka0N1Mk1kNTJ4UEwxYjdVaEtJd1dxZDgzdDNpZ1NKSHBLaExqQnU5WEdXWjlLWWc?oc=5",
    "date": "2026-10-01T14:45:00.000Z",
-   "source": "hothardware.com",
-   "summary": "Sony Fights PS5 Pro Scalpers Ahead Of GTA 6 With 60-Hour Playtime Rule hothardware.com"
+   "source": "HotHardware",
+   "summary": "Sony Fights PS5 Pro Scalpers Ahead Of GTA 6 With 60-Hour Playtime Rule HotHardware"
   },
   {
    "id": "gn-1expfwn",
@@ -572,97 +661,41 @@
    "date": "2026-10-01T13:00:09.000Z",
    "source": "Cultured Vultures",
    "summary": "GTA’s Different Universes Explained: 2D, 3D and HD Cultured Vultures"
-  },
-  {
-   "id": "gn-4xpdx1",
-   "title": "Rockstar Suggests Disney World and SeaWorld Probably Won't Be in GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVEo0SFBqRGVVYVVHcVkyN1BKOGxabnBqZlJveTN4bXNBU1poelhSaVNWQzNHaHljN1hRU3EyNDlRWlo1SXNWVG52S3d5bXR2R1BfTXVSalNQbWN3b3ZYY2liS2FyVUhiWk4tYlB3X0NfM193Mnp6azNBV0Y0U183bVBJaGNadFZIOFdGWFBrTnBmYUU2RGZoU0RTRXVUZHVsV3c1ZG5NbkZia2lBWGVVeXFTcmJaYmptVmc?oc=5",
-   "date": "2026-10-01T11:49:09.000Z",
-   "source": "IGN",
-   "summary": "Rockstar Suggests Disney World and SeaWorld Probably Won't Be in GTA 6 IGN"
-  },
-  {
-   "id": "gn-1ea4bdd",
-   "title": "Just in time for GTA 6: WD_BLACK 1TB PS5 SN850P Heatsink SSD hits lowest price since the hikes at 40% off",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3BvVHJOZUJIRlFaVUltbHA1cTB3Y1hwQmloaDFmekt4WnlzR0Q4a05wMzNNdVA1WU9uN3QwMVlUcnpENldRaThSRlI1LXlHQjN2REhkVDZtY3ZyV0ExMTIxa01Qa3d5bVpPY0RMQVJSb0tLYktNUDRINDh3X2NRemdXTk9XTlo3Y2RZVW5yMVI2ZjJNWkVuS0RmN2M5bTVsQUg0MA?oc=5",
-   "date": "2026-10-01T11:31:00.000Z",
-   "source": "9to5Toys",
-   "summary": "Just in time for GTA 6: WD_BLACK 1TB PS5 SN850P Heatsink SSD hits lowest price since the hikes at 40% off 9to5Toys"
-  },
-  {
-   "id": "gn-1mfk2pi",
-   "title": "GTA 6: Over 170 Animal Species, Dynamic Weather & More Confirmed",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM3FPZkFEek5vNDZ3ZnZvbjFZaEF2aVlWaG5rLXhPTnhpcjBlQUNkaVNaaXRGOHZhVDkwN3NHeG1NSTRVRDl3NmhYdzVMMkRTejc0ZDZzekFELXM4dm9aV1NXcTNOTzQxYWstdHJOQXpFbzZIbzA1dGVPS1puUmJuYkx3SVliZm10b3Q0?oc=5",
-   "date": "2026-10-01T11:28:42.000Z",
-   "source": "80 Level",
-   "summary": "GTA 6: Over 170 Animal Species, Dynamic Weather & More Confirmed 80 Level"
-  },
-  {
-   "id": "gn-1wt71pw",
-   "title": "\"GTA 6\" Takes Inspiration From Florida, but Rockstar Says Disney World and SeaWorld Orlando May Not Appear",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43Nm5ER3VDU3BhRXpYNlByRm95Skd2OEkxXzZVRy1FMHBBZEhseHdONWM4UGlkeTJkVWpqejBVbmtWRHlzTVRCYlJtSkh3elBt?oc=5",
-   "date": "2026-10-01T11:20:41.000Z",
-   "source": "玩具人 TOY PEOPLE",
-   "summary": "\"GTA 6\" Takes Inspiration From Florida, but Rockstar Says Disney World and SeaWorld Orlando May Not Appear 玩具人 TOY PEOPLE"
-  },
-  {
-   "id": "gn-1kr6zws",
-   "title": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmZidW9yNEp2OGVFY3d3QW9jSXgzNDNwWWJ3RnljVUlRV2kwLUs0TWZ0R2VWaE02YkxkVlBCSVQydlZSUG4xQk5lM3JsdGsxN0lGREcydjVlREFzNEtvdzdRT2VpUmZ2QXpOa2U0TnplekFfMjdzckxlQURzV1FfOWtvb0U3X09lWG0xbGhuWExwdzQ1QVZTUTJvZmJIalZKUUE?oc=5",
-   "date": "2026-10-01T10:46:44.000Z",
-   "source": "PCMag",
-   "summary": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works PCMag"
-  },
-  {
-   "id": "gn-zspbis",
-   "title": "GTA 6 research gets wild as Rockstar reveals strip club visits and rides with ex-cops",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQS2YtRUVGb2l0VmtnSllIaTQybG9odERFMHRHWG5yZjRrRnY3R0YyVEYyRjRLWEdISmswNnNySFBoM2R4T2k0eHMtSjRiUmdUaW8yQ2UzQjNONnVUNVNpQUQ0c25XMjAxTFdHU3FDblVadEtoTTVCQ2lucHJ5WGo1dUw1bWNvUDBIRVNzc0FPa2RRVHBiSTdMT29Obm5Rd1cyLUlUX2pjMkRuY0pBNk1Pc2o5UWRrRlFVSjVzVTBxVnZ5N082aVdYVjNDVS1Tdkx0YlJsd094Q3h5WnNSV1Z5STQyZXRXZWJoMHEwejQ5MXJ3M1FqTEdhRW1R0gH_AUFVX3lxTE5mMWhJMkpINUlReFVjTHJWeEVwUWo2LWk1MXcydndMVE5OQXBBX002NGxVODczbjN3YWlydmo0bDJ4OWdYU2txanVXVERNbWI3Tm9vWlV0SndfaWVJcVV5NGRkLXkxb2NwS2hXOC1RR3pKTWdVajZaVFpXUVdlNXpkNFlJRjY0VzlULWwwT3pyNjFpeWszMVlOMTdqTldQVzVqdjBzeUdQcjVLUGVDZUhiRlByRThYV0c0MzJiVUxLMUVMV3lUZnpYTHM1S1lnYnNCMDRjdGpoaHlGYXdra1JhR3ctNU0zVG1rZEtFTWc4d1FlNFJsSlRkNVIyU2FPZw?oc=5",
-   "date": "2026-10-01T10:11:00.000Z",
-   "source": "The Times of India",
-   "summary": "GTA 6 research gets wild as Rockstar reveals strip club visits and rides with ex-cops The Times of India"
-  },
-  {
-   "id": "gn-1kpus5f",
-   "title": "This ‘Grand Theft Auto VI’ Swag Box Is A $400 GTA Collector’s Item Without The Game",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdktnN2hNdDZxQnd5eWhidWdHaFZPZFJkbEs5MXpSNzhvRHB0c1RISGhYX3hfaWdkdkZDS1V3OXRiaXNNM1kzUGNvYVROUTI5UVpMUEo0R3hqRUNqY2hYUWlacWZZNDlfSHRIcDF0bmgwTHNLSXRDRW9WYnBsSWpTbHlOb0dOUUZuSWRfN29xcDUzWlNQclNhcTN2UUJNRVE4ZW1HdWFnLWNSc3pSQkFHdEUtWWI?oc=5",
-   "date": "2026-10-01T10:00:00.000Z",
-   "source": "maxim.com",
-   "summary": "This ‘Grand Theft Auto VI’ Swag Box Is A $400 GTA Collector’s Item Without The Game maxim.com"
-  },
-  {
-   "id": "gn-sds5le",
-   "title": "Rockstar Takes Over Downtown Skyline: Giant 'GTA VI' Neon Sign Lights Up Miami Arena",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1FvZmpPRVZNb0NDUDF6X09zUW9xTTl4NmhKdUVvZTVZVHRNZmdqYldBZWlLall2OXpHYzVaRjZORmY0SzRxV19zcGRDRVYycDZKZDNWUnoxZFVIdTNtLVdDdVhXanZUc29MZEJseGdUQzV6VGhVYlhnejhsdFhYekd1NU12MWw0R1NYZUZFcU1xWVdJZVFLZlZFV3RveUdMbmtMdlRBLXo1enFHQ09JMWFiTFhzY1B0Q3NDVi1sOFI4VVU?oc=5",
-   "date": "2026-10-01T09:57:00.000Z",
-   "source": "Y100.7",
-   "summary": "Rockstar Takes Over Downtown Skyline: Giant 'GTA VI' Neon Sign Lights Up Miami Arena Y100.7"
-  },
-  {
-   "id": "gn-xcw9f5",
-   "title": "Rockstar Takes Over Downtown Skyline: Giant 'GTA VI' Neon Sign Lights Up Miami Arena",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPR25zVTREM1FVMnVkUjVpSjBrYmlndDBnSHNfM2tLcTN1WE5fZEJlNnhuZ0dQd3VNNEV3cHZacl9POVBqTGZnUEZqNmxzSThfNVFyaW5zSGlaNlZkLUczNnR6VlU0VHd2ZnV4ZTVYTHNtYlV3X1FReDJ2a2JjZjFMb2VvZkxpclU0TGk5UDVqMllVS1huTTdmcjM4dmR1OWxfb3BoSGp0dElvVVZjOWtnd0FJQWdVWFpBdzh2YmFmbEdCdTJWdmp1TjdEZUJvSmpCZXp1ajlHZjlOaFBZRnl6R2k1NFNUZw?oc=5",
-   "date": "2026-10-01T09:57:00.000Z",
-   "source": "NewsRadio WFLA",
-   "summary": "Rockstar Takes Over Downtown Skyline: Giant 'GTA VI' Neon Sign Lights Up Miami Arena NewsRadio WFLA"
-  },
-  {
-   "id": "gn-nowoeb",
-   "title": "GTA VI Developers Spent Years Visiting Strip Clubs and Relaxing on Florida Beaches, Latest PS5 and PS5 Pro Jailbroken - The Most Interesting News for September 30",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNEphSHRWSlNzRThVRXl0enFMT3ZFY2l1bERIYklKVWdmQ0RjMnJfVjJZdUt2U09nVEJGM1JGTGFvVnZYc1FvX1pDOXpSbG5OLW8xNWF6VEpyUWNkcjJWWFVBZGZqOGhXRFdfUHRYeTItLUdjaWJRNXNLZ1BOS1ZoWE5R0gGHAUFVX3lxTE5nSjVYQ0hUamNZWE9aZV82MzFBR0hSalVEZ052UVFJQnBKNEgtckN3TkZjVW5QU095UWlDY1ZBdEVJMExnMUVWUEo4bTRWNnJjVU5qQ1dsUTVnYjJESTBDYlE1ZFAtTGZZaV9iUXNKZmhxa21VV1c3c0hKQm5XRkx3S3U5bS1FUQ?oc=5",
-   "date": "2026-10-01T09:05:28.000Z",
-   "source": "ixbt.games",
-   "summary": "GTA VI Developers Spent Years Visiting Strip Clubs and Relaxing on Florida Beaches, Latest PS5 and PS5 Pro Jailbroken - The Most Interesting News for September 30 ixbt.games"
-  },
-  {
-   "id": "gn-6nbp6d",
-   "title": "Rockstar Says \"GTA 6\" Players Won't Explore the Entire Map by Finishing the Story — It's Twice the Size of \"GTA 5\"",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrMHgzbXpWcTV1em43cG5qZEtOQmZaWUxtdFhoZVRQNTlQdWNlQmR6TFd3WlNZNGRBaUo5Y0E1QjQzQ2czam1FcXBTbm9ZMWZC?oc=5",
-   "date": "2026-10-01T08:24:01.000Z",
-   "source": "玩具人 TOY PEOPLE",
-   "summary": "Rockstar Says \"GTA 6\" Players Won't Explore the Entire Map by Finishing the Story — It's Twice the Size of \"GTA 5\" 玩具人 TOY PEOPLE"
   }
  ],
  "community": [
+  {
+   "id": "rd-146ogie",
+   "title": "I hope things like this occure in the game",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wvg4yw/i_hope_things_like_this_occure_in_the_game/",
+   "date": "2026-10-02T00:43:12.000Z",
+   "source": "r/GTA6",
+   "summary": "Funny things that can happen when triggering a cutscene. submitted by /u/smccaul16 [link] [comments]"
+  },
+  {
+   "id": "rd-1bf83ec",
+   "title": "All lit up!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wvfqwi/all_lit_up/",
+   "date": "2026-10-02T00:24:20.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Acceptable-Pitch-804 [link] [comments]"
+  },
+  {
+   "id": "rd-dc0r5y",
+   "title": "Bullet holes make physical indentations on the metal on cars",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wverkm/bullet_holes_make_physical_indentations_on_the/",
+   "date": "2026-10-01T23:38:34.000Z",
+   "source": "r/GTA6",
+   "summary": "Not sure if this has been talked about, but in the extended look, when police officers are firing at Jason and Lucia's car, bullet holes make a physical indentation in the metal, with realistic deform"
+  },
+  {
+   "id": "rd-1n0vu39",
+   "title": "When do you think Rockstar will confirm what benefits the PS5 Pro will have?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wve52h/when_do_you_think_rockstar_will_confirm_what/",
+   "date": "2026-10-01T23:09:42.000Z",
+   "source": "r/GTA6",
+   "summary": "I currently have a launch base PS5. From all the trailers (that are captured on base PS5) it already exceeds my expectations, but I can’t help wondering what enhancements the PS5 Pro might have. If it"
+  },
   {
    "id": "rd-1o170xu",
    "title": "Update on the mural in Brooklyn",
@@ -950,38 +983,6 @@
    "date": "2026-09-30T19:22:39.000Z",
    "source": "r/GTA6",
    "summary": "It feels unreal considering how long we've been waiting for this game. Trailer 1 and even 2022 leaks feels nostalgic at this point. I remember the scottish guy trolling people in the gta forums before"
-  },
-  {
-   "id": "rd-gootw0",
-   "title": "GTA6 is the first game in history that comes close to \"What would you build with unlimited time and budget?\"",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wud0ka/gta6_is_the_first_game_in_history_that_comes/",
-   "date": "2026-09-30T18:38:47.000Z",
-   "source": "r/GTA6",
-   "summary": "It's pretty impressive, honestly. Take-Two/Rockstar have been working on this game for a very long time, the vision is being described as \"uncompromised\". The budget has been out of this world with \"1"
-  },
-  {
-   "id": "rd-l911gx",
-   "title": "GTA 6: The North, is there something hidden? Jacksonville?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wubb5d/gta_6_the_north_is_there_something_hidden/",
-   "date": "2026-09-30T17:35:22.000Z",
-   "source": "r/GTA6",
-   "summary": "Do you believe Rockstar is hiding something in the North that we’re not aware of? Could this be a similar situation to RDR2 and New Austin I can certainly see it being a possibility considering so muc"
-  },
-  {
-   "id": "rd-1rqmums",
-   "title": "A little bit early but better early than never like we say in Germany😍😭",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wu8uaz/a_little_bit_early_but_better_early_than_never/",
-   "date": "2026-09-30T16:03:33.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/timpact96 [link] [comments]"
-  },
-  {
-   "id": "rd-11zu8ln",
-   "title": "Xbox Design I made",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wu7wdc/xbox_design_i_made/",
-   "date": "2026-09-30T15:26:34.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Annual-Rip6066 [link] [comments]"
   }
  ]
 }
