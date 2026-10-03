@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-03T11:23:33.129Z",
+ "generated": "2026-10-03T15:11:08.402Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-03T11:23:33.129Z"
+   "checked": "2026-10-03T15:11:08.402Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-03T11:23:33.129Z"
+   "checked": "2026-10-03T15:11:08.402Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-03T11:23:33.129Z"
+   "checked": "2026-10-03T15:11:08.402Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-03T11:23:33.129Z"
+   "checked": "2026-10-03T15:11:08.402Z"
   }
  },
  "official": [
@@ -182,12 +182,36 @@
  ],
  "press": [
   {
+   "id": "gn-1k5fxzx",
+   "title": "Rockstar Officially Discusses GTA 6's Open-World Map of Vice City",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWxrZGo4eGtMbXhmNW03U3AwMmtQTTFxZGVCSjZfRWdXdURyNnY2WnhtR2hLT2M2OXdFR2M4QlJYZUl5aXVtdEQ3b1I5SE1NNmZUcGQxRjJLVUhGUzJTNk5FTGNDS3V0bEZpUnVDZEwzc3JmRE9sdGhYa280cm91NGUwZVNiRnF4YUpqMVhwMHFxTWlnclR0a3U3NWY5YzA?oc=5",
+   "date": "2026-10-03T11:51:26.000Z",
+   "source": "OpenCritic",
+   "summary": "Rockstar Officially Discusses GTA 6's Open-World Map of Vice City OpenCritic"
+  },
+  {
+   "id": "gn-1oqsobn",
+   "title": "Official GTA 6 age rating reveals players can snort cocaine directly off their hand at any time",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbHY3WVJZaTNWdzBiU3RkNWlFNUgtYVRKTDdFTlh6R3o4Sml2MFFnY2t4YVBhdUNxUTZKaVhpd2k1YVlQTnVUMVZjQ1FLMUtQbGhYWUJZSGR6OHJyNkFFdHU1Zm5ZZHVVVkZxZkFGclZSazVIeUkwNXMxUloyOEFoQW9FeS1yMEdnaXo3eC1LcTFPOWZvQTIwT2ZaNnBJeGlBb2szNzJUNzY0c3BBYUZ2dUNYeDJDcHZLT0l1WmpSeTBQSERkaFBqeGI1TXRzVk5ldHgzVEZqamtldm16?oc=5",
+   "date": "2026-10-03T11:43:11.000Z",
+   "source": "TweakTown",
+   "summary": "Official GTA 6 age rating reveals players can snort cocaine directly off their hand at any time TweakTown"
+  },
+  {
    "id": "gn-1i37kjd",
    "title": "Deal | Buy GTA 6 Ultimate Edition for PS5 for $90 with this PlayStation Store gift card deal",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS2RvcGFzOTJ4RE5fNHlZd0MwbDRUNGk4ZVJlMmxXRGRBRmlGa2ZTRnNQZTFGQjhJd3dfdlhQUlJSU3o0THd1SzVfQ3R1VXd6UnRJcFdlc21EWTRvRjduWGxfcWg1VGFNSHN1V0hmZVlwYlEwckRROHZiVW0tN3czRnZSdVBtRUxPUTVES3pqY21iRXdHU3J3TWNkN0hPR2VaT2FlMGlqSV9fUUNEa0JXLWRna0JWMnNVeDN0XzlGRkQxTzdUeTUyOA?oc=5",
    "date": "2026-10-03T11:15:00.000Z",
    "source": "Notebookcheck",
    "summary": "Deal | Buy GTA 6 Ultimate Edition for PS5 for $90 with this PlayStation Store gift card deal Notebookcheck"
+  },
+  {
+   "id": "gn-xmbpb4",
+   "title": "Deal | GTA 6 Ultimate Edition for PS5 down to $90 with this PlayStation Store gift card deal",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV0pFTFc1SmpIakhtSFIzRVpIbVlBZHU3R0tLdk9IWjE3ck9rdjY1XzJ1azM1TFFfNkJ6U2RpV1pmUzlOS2U3N0VFeE91WVBLZEVkTENqX0ZUMlc2Rm56U2FtSS1mTnkzRm9KWmc1QmVxemRTdEJ5cXZNaGlsN1lyQWV5cHJUeTlxejRIcVhVSk5Db1I3SzQ3X20yWUszZ0V6Z1pobjNrZm5HbmhudjBvZy1zVDJnNHRZQ280MlVBUmVWNVhFeko3TA?oc=5",
+   "date": "2026-10-03T11:15:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "Deal | GTA 6 Ultimate Edition for PS5 down to $90 with this PlayStation Store gift card deal Notebookcheck"
   },
   {
    "id": "gn-1b0xh7g",
@@ -250,8 +274,8 @@
    "title": "GTA 6: Jason and Lucia - A Close Look",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdF81UVI2T3FpNG1EWVBBalpOcnRXM1F3blF6ald2WjE2dHA3Y09tYncyaVRjdVpWN21iU3YydHZ4MnoydVNmbmo0TDdIMkFBSUNJTkVGcTdCbk5sNnJZOUVBWkJmd2tJQ2NmODBVTXB5WlRCVUZmMThtdFpDYldFYWhackZEVHk3OTRZMVZpSFd6THEyaDhmSllJaHM5ZC1WdHJ3QWVibmduUHdkczlQMFFtMl84X3E1TlBKWi1n0gHLAUFVX3lxTE1QZGI0SUx5VjdZQkRmUFJ2ZUdyX3hOS2ZGU3Y4ekE0c2FYRk5oS2IwbEx2WWhIS2dTZVpnT25fUFctaFdVYnp6anNqRmp0UmxJRWQzSkhJU0dDUGI4SE9QY1B4TEc1YWxwVGw1Z2dlcDlqZHAtR1BaOTdRWllaRVdCc05UM29kUzZ1RWRWTVZtZTA5QWl3VXF5cW1EOFNLNm9nTUZUN1VnUTlFYnY4S3JWUmR5NC1hdVB0LWgwdVZQekYyMGh6RFJfVkVB?oc=5",
    "date": "2026-10-03T07:02:16.000Z",
-   "source": "Esquire India",
-   "summary": "GTA 6: Jason and Lucia - A Close Look Esquire India"
+   "source": "esquireindia.co.in",
+   "summary": "GTA 6: Jason and Lucia - A Close Look esquireindia.co.in"
   },
   {
    "id": "gn-1mo5et6",
@@ -268,6 +292,14 @@
    "date": "2026-10-03T04:48:40.000Z",
    "source": "GameGPU",
    "summary": "Grand Theft Auto VI will require the mandatory PlayStation 5 firmware update version 14.1. GameGPU"
+  },
+  {
+   "id": "gn-1etozyd",
+   "title": "GTA 6 - Everything We Know About the Most Anticipated Game Ever Made",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SMHQzcHk2UTBZUkhkUlF3NXpJVXBXMnNRNThRV1BJTl93OHRwRDdBcE05UVlKZVFDWDNKMVNRZDVDaUNRdmdJUjA2SE1hSklHVGlhaFduVzBRSmF1N0xiUG9sZjA?oc=5",
+   "date": "2026-10-03T03:50:30.000Z",
+   "source": "Wccftech",
+   "summary": "GTA 6 - Everything We Know About the Most Anticipated Game Ever Made Wccftech"
   },
   {
    "id": "gn-1ae89y3",
@@ -294,12 +326,12 @@
    "summary": "GTA 6 Video Game Studio Partners with Miami Heat for A Night in Vice City Sports Illustrated"
   },
   {
-   "id": "gn-1etozyd",
-   "title": "GTA 6 - Everything We Know About the Most Anticipated Game Ever Made",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SMHQzcHk2UTBZUkhkUlF3NXpJVXBXMnNRNThRV1BJTl93OHRwRDdBcE05UVlKZVFDWDNKMVNRZDVDaUNRdmdJUjA2SE1hSklHVGlhaFduVzBRSmF1N0xiUG9sZjA?oc=5",
-   "date": "2026-10-03T00:43:05.000Z",
-   "source": "Wccftech",
-   "summary": "GTA 6 - Everything We Know About the Most Anticipated Game Ever Made Wccftech"
+   "id": "gn-1tnxv3g",
+   "title": "📸 Heat announce ‘A Night in Vice City’ ahead of GTA VI release",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbTNmUFhVcC1wSGJEWVNXY3RSaUZvMkI1NTdJcVpMX2ppUzJ4Yk8waEEtOUxpNEMwU3E4MUY1Qlg4ZzVRa3dTSWQ4YUlrMWhaODJXRlEyNWNhYWhNQ0JVZkhab09ZWWdMc1lnSThXbnFTV200VG1ULXNOdW1hS3gzN05UdWVrXzRac2U1bXJCb21Bd3NvbzR6NUNvdGhHUHAtMFZ1RnUyY3Q0TnVSMF9DX1BR?oc=5",
+   "date": "2026-10-03T00:16:42.000Z",
+   "source": "ESPN La Crosse 105.5",
+   "summary": "📸 Heat announce ‘A Night in Vice City’ ahead of GTA VI release ESPN La Crosse 105.5"
   },
   {
    "id": "gn-1hfdpv2",
@@ -334,6 +366,14 @@
    "summary": "Miami Heat X GTA 6 Capsule Collection Available Now Resell Calendar"
   },
   {
+   "id": "gn-1h47gkt",
+   "title": "GTA 6's Miami Takeover Heats Up with \"A Night in Vice City\" NBA Game - IGN Daily Fix",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcUdubmYwZ2JMcGwwRm9FRmNqRXFzbTVEaEFmOWxJODJnb1o0cDJWLV9nMWZhM2tyQ3IwM19oNTVxcXVRcjVrYlJXWGxBS2pIOVJrUDNRVUJMSVRsUktZYjF2NXJmbjl4SzB2UEtmNTBxcnFlak1UOF9QOXgwbW0tNFQ3alBiZVg0X1hXSXp2d251WEYwWkxuMUlrU2lrME1LWGRMWFlNMi0xZVNRWWdVaFUzWU9xU0U0NVZRVHpaNERuZWM?oc=5",
+   "date": "2026-10-02T23:04:21.000Z",
+   "source": "IGN India",
+   "summary": "GTA 6's Miami Takeover Heats Up with \"A Night in Vice City\" NBA Game - IGN Daily Fix IGN India"
+  },
+  {
    "id": "gn-bi6jpv",
    "title": "GTA 6 Had A Really Busy Week",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjd0F4aGVSc1NmdXZtUkp2MTJqZld0aUlQVEZOcXM2VV94ak5oZ0haaDI2RkFfOFY2MWtMNlFOWExrZzQ4R1B5dkZyODhZZU1rSHNQZG9fN0JQN2tEMm1fZ0hJUl9GT3Ntd2c?oc=5",
@@ -346,16 +386,16 @@
    "title": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWjNPSkoteUVvTVp1d1dtclFIdkZ4clc4b1hkOEVxMklMd2NWYTAzaHN5U0lEaXJYd3g4dzl6dTBTMngxWWtDbWxVdTVwZjNuUkxoNXdya1RyYzJmSHhSSVhmUVg5bm8zNWdablQ3SDFHMHFlZEpPQnkySkc1RXFGOWdfejhXY0RsZGdrU1dlWTFJMTB5QUg5elRPUk1sb0x6V2Q4WlQwZHNMcUxoWkJXbWFDZmN4dTNJNlBCaWNXUVRSWEEyem1LeA?oc=5",
    "date": "2026-10-02T22:49:09.000Z",
-   "source": "PC Gamer",
-   "summary": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat PC Gamer"
+   "source": "pcgamer.com",
+   "summary": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat pcgamer.com"
   },
   {
    "id": "gn-1i29kab",
    "title": "Miami Heat tease release of new ‘Vice City’ jerseys on the night before ‘Grand Theft Auto VI’ release",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnFfSXB5REEydUdTY0tyemNlM3NydmVfUEtQSmtQYWpiWEI1bmpsZFNRVWxGUlNncFpmRVQ4SWVPOXV3SmY1dlREalJPMjBjUEM1b255V3hLbkZtblBsZC1HbnZna1VJR0NMdEJCUU1hRFlEaVpmUFhUY2lRSEVySWFWakgyMzRNbkJhdzcya1BIdGVMZjN5ejJaMHFfRWU0NmJwRlUyV3I4TmRPU2tmVkJGQ19ZQmQ3c0lFSXhQanQ3SDY4YWcxQlh3?oc=5",
    "date": "2026-10-02T22:46:08.000Z",
-   "source": "wfmd.com",
-   "summary": "Miami Heat tease release of new ‘Vice City’ jerseys on the night before ‘Grand Theft Auto VI’ release wfmd.com"
+   "source": "930 WFMD Free Talk",
+   "summary": "Miami Heat tease release of new ‘Vice City’ jerseys on the night before ‘Grand Theft Auto VI’ release 930 WFMD Free Talk"
   },
   {
    "id": "gn-63z2c0",
@@ -482,8 +522,8 @@
    "title": "GTA 6 Marketing Scale: NBA's Miami Heat Becomes 'Vice City' for One Night",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3B4YXV6NVBmT0t3R1duMTR1cnNxZk1IS1JiOFlfRDFPOVdCUVZnZlNhN3V1ODh5ZkZfVFRMLWZ6VXlhWlV4MVhOSzQ5TF9jZHJlU1Y1MDFVdnpXdDJucGNWeXpTMlNoRFZnVXJaUmFQTk5ZNnFhNmVFVjl6WWlTLWJNYU5IR2VmdUtWRzctVFdOMDBfM3NXaVY0ZHZnb0VtRmQzUjVTbmh1YXExdmxBNFlR?oc=5",
    "date": "2026-10-02T19:09:27.000Z",
-   "source": "invenglobal.com",
-   "summary": "GTA 6 Marketing Scale: NBA's Miami Heat Becomes 'Vice City' for One Night invenglobal.com"
+   "source": "Inven Global",
+   "summary": "GTA 6 Marketing Scale: NBA's Miami Heat Becomes 'Vice City' for One Night Inven Global"
   },
   {
    "id": "gn-16y6z54",
@@ -620,49 +660,33 @@
    "date": "2026-10-02T17:33:29.000Z",
    "source": "imdb.com",
    "summary": "Dan Houser on Leaving ‘GTA 6’ Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn’t Play Open-World Games Anymore imdb.com"
-  },
-  {
-   "id": "gn-56hqcr",
-   "title": "Former Rockstar dev believes Grand Theft Auto VI on Switch 2 wouldn’t ‘even make sense’",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZC1jaTBIaXB0REtLYzhqUHlqU1Utb2p6MzNWSmlPN0NvMDdaTjhnTGtzckxnNGZNTnZpdktWeXpyVXZyUVZtbWdST0JZdHlqMXowd3R2WnZhLVRCcDdaVUFEVElQSlItaWJrbUVIZVp2eGtpQUttdjhjaWZGMUltUG5sWHNxVVZRbkpKRC04ckZGbFZBcmNRNEhzYXhmTElsX0liTEZUYkRxR1BjVzdUZ3UtNXVJR2xST1Q2bDRoU1pLRzFy?oc=5",
-   "date": "2026-10-02T17:27:48.000Z",
-   "source": "Nintendo Wire",
-   "summary": "Former Rockstar dev believes Grand Theft Auto VI on Switch 2 wouldn’t ‘even make sense’ Nintendo Wire"
-  },
-  {
-   "id": "gn-11kjsig",
-   "title": "GTA 6 Should \"Blaze A Trail\" To More Expensive Games, Dev Says",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFE0S0FseXRqWTdaN0VhNlc3TThjM0k3LWUwZ1JWMXVqTTBwbUVVQ3NldURwcGdrTFJTOUVDWXZjWXM2RFZhTUlsTUw4V01xWm52MGdqUGg3eTBYUWk2Yk8xU21uTTRoTTUxcUh3V2djZzBBakFhUGppc0pYSUtBdFdOakxDZ2xwSEVBMlVIQ0JWMGstS000MmhB?oc=5",
-   "date": "2026-10-02T17:19:02.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Should \"Blaze A Trail\" To More Expensive Games, Dev Says GameSpot"
-  },
-  {
-   "id": "gn-14fhrti",
-   "title": "GTA 6 Takes The Ridiculous World We Live In And Turns It Up To 11",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUI5MW53N1VIbjNvRzl1V3U3ZW0zczNSU1dUdTA0YWl4d2llUFQ4Rm80T2ZkZExKQ3hqTmR1Szk4cXk4RXc0Tk02RzRZRkhkZDIxWHVHMDAyWFFWSXhkNFBrbUJNY2RNMTdVVi05Q0VvNkVCTHFoSXhWRlNXcDNQVm9DLXQ0UlFueThVTmJlNlN6b01LbmFIaDFuaGN6Qkl0Q3c?oc=5",
-   "date": "2026-10-02T17:16:13.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Takes The Ridiculous World We Live In And Turns It Up To 11 GameSpot"
-  },
-  {
-   "id": "gn-h8hsli",
-   "title": "GTA 6 Age Rating Details Sex, Gore And Snorting Cocaine Mechanics",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb19HU19VTEt0RmR5TGFtYWpFWWM5Qk1wSWVkMGlxWGdZc0NlbVBZRFd3eGdMMUdyUjBWbjlyLVlucWFHMnY0d1hhanNYTzJPVkdSSXVCYk5hWnNwTkE0M21JZ2prYV9jT2ZNTGlPNzFQZFFyYUhpTWVTWWZrdVlETFlQNWxwZzlpYmhnS28xaWtma2JoSXc?oc=5",
-   "date": "2026-10-02T17:15:34.000Z",
-   "source": "RockstarINTEL",
-   "summary": "GTA 6 Age Rating Details Sex, Gore And Snorting Cocaine Mechanics RockstarINTEL"
-  },
-  {
-   "id": "gn-1f05vw6",
-   "title": "Kingdom Come: Deliverance Boss Hopes GTA 6 Is Big Hit So Studios And Publishers Feel More Confident Charging More",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTXNVQXpRcjAzRThyVmgyYmFNc2FjeFpEdzlQLTBXbENvYlFIcWFCWW8yM21fdkZLNmZnUldMX1JIOVhLWGhfOUw2SVJsdEpwaTg2Nk5ZU0ZZQWg5VXVINHZIbUd2TGJMdlN3Uk9TNlhSUGJ1S0MwMHhjcVVQdmRMeEttVW95emF6QUlpdGczNWNSbFpDVGYzZmlua2xwVVJFdV9PT2JqQUkzdnVFMXg3UzM1cklfWWNKbUpQXzdFRzl5am03NlpVa1Z5RnVsU0hRQ2ZmWXpYZmZNdw?oc=5",
-   "date": "2026-10-02T17:00:21.000Z",
-   "source": "Kotaku",
-   "summary": "Kingdom Come: Deliverance Boss Hopes GTA 6 Is Big Hit So Studios And Publishers Feel More Confident Charging More Kotaku"
   }
  ],
  "community": [
+  {
+   "id": "rd-12lf10h",
+   "title": "Nobody Is Even Watching Her… But Look at This 👀",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wwo8ag/nobody_is_even_watching_her_but_look_at_this/",
+   "date": "2026-10-03T14:11:28.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/HellBay1 [link] [comments]"
+  },
+  {
+   "id": "rd-inv3hm",
+   "title": "Brooklyn Promo Progress (10/03)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wwo6cf/brooklyn_promo_progress_1003/",
+   "date": "2026-10-03T14:09:06.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/colorblindcasey [link] [comments]"
+  },
+  {
+   "id": "rd-1gw4bud",
+   "title": "Sam Houser exclusive GQ Interview is no longer happening.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wwl8bs/sam_houser_exclusive_gq_interview_is_no_longer/",
+   "date": "2026-10-03T11:45:17.000Z",
+   "source": "r/GTA6",
+   "summary": "Seems like Sam wants to stay as anonymous as possible submitted by /u/pepsi_max04 [link] [comments]"
+  },
   {
    "id": "rd-1sqyby3",
    "title": "I really hope Rockstar doesn't abandon GTA 6's Story Mode like they did with GTA 5.",
@@ -958,30 +982,6 @@
    "date": "2026-10-02T13:13:59.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/RehanEU [link] [comments]"
-  },
-  {
-   "id": "rd-1ak1tnx",
-   "title": "Miami Heat X VICE CITY",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wvthms/miami_heat_x_vice_city/",
-   "date": "2026-10-02T13:13:25.000Z",
-   "source": "r/GTA6",
-   "summary": "https://www.nba.com/heat/uniforms/2627-heat-vice-city-uniform-collection submitted by /u/poorna_sus14 [link] [comments]"
-  },
-  {
-   "id": "rd-1u84g2s",
-   "title": "Rockstar Games: For one night only, the HEAT trade Miami for Vice City. Join us on November 18, when Vice City hosts the Milwaukee Bucks on a never-before-seen court, wearing an all-new uniform.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wvtbs4/rockstar_games_for_one_night_only_the_heat_trade/",
-   "date": "2026-10-02T13:06:12.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/yourfavchoom [link] [comments]"
-  },
-  {
-   "id": "rd-1y9pm5f",
-   "title": "New look at the fully lit \"WELCOME TO Vice City\" GTA 6 Sign in Downtown Miami at night",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wvrhyc/new_look_at_the_fully_lit_welcome_to_vice_city/",
-   "date": "2026-10-02T11:36:36.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/The_Struggling_Soul [link] [comments]"
   }
  ]
 }
