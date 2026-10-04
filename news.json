@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-04T20:19:08.801Z",
+ "generated": "2026-10-04T23:25:25.244Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-04T20:19:08.801Z"
+   "checked": "2026-10-04T23:25:25.244Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-04T20:19:08.801Z"
+   "checked": "2026-10-04T23:25:25.244Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-04T20:19:08.801Z"
+   "checked": "2026-10-04T23:25:25.244Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-04T20:19:08.801Z"
+   "checked": "2026-10-04T23:25:25.244Z"
   }
  },
  "official": [
@@ -182,6 +182,22 @@
  ],
  "press": [
   {
+   "id": "gn-1japtsf",
+   "title": "7 Massive Games Left in 2026 as Rivals Dodge GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zNXFzUjNDUWZ3M19uR3VkazZmeU40ZzJyQ0ZJc2JyVkF4SDlNOUk5LTJHNHB2bGtIWFNYZDNTZVNiR3paRXg5c19rLWFsUk5adk9hYmVPZnNBeDZkMjNRWFdNcldSaDl1ZU1keGd2M1Y?oc=5",
+   "date": "2026-10-04T21:51:57.000Z",
+   "source": "tech-insider.org",
+   "summary": "7 Massive Games Left in 2026 as Rivals Dodge GTA 6 tech-insider.org"
+  },
+  {
+   "id": "gn-w9r0zq",
+   "title": "Grand Theft Auto VI developers literally forced Sony to develop QSSR technology",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV3JHV2N1ejFMaEEzQXJCNHhlR2o0Uk1Zby1GTnBwR0F5WkZJVTk0NGNjSzZjTVdLemRFcVR0d0lrRWpKSTM4cmtoTGlCeTVib2FtWkpwTmhXcDNreUVza0VZZFpIdFJLZktTaEN3ekYxaHd3OGZ3Vzl3cE5EUFlzbDlmMEl6SjkyVGhOU0pvSkRxMHAxa0htX2NMWS1wZUFMYVVSLXh0SXVnSkxxWGNDYnhyNTBpWmRWWlFV?oc=5",
+   "date": "2026-10-04T19:46:01.000Z",
+   "source": "en.gamegpu.com",
+   "summary": "Grand Theft Auto VI developers literally forced Sony to develop QSSR technology en.gamegpu.com"
+  },
+  {
    "id": "gn-1si2a6",
    "title": "Saturday Night Live's Weekend Update pits Zelda's Link against GTA VI's Jason",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2VEbW1HSUVZTEJJMHpOWGFXM193cXZMWklPUXdCVTFZa3NzQnktdUtLRzlTWEdfcHd4ak9PUmtISl9iZlltcDZqQzJ0Y0tpWG0wQVAtN1ZOLU9UaW5McGRycVFLaFIzbU9CVjVDZ0hfa1FYREc3c01FRGU2UndVVnlraHJHQVNWdHhVbTlITXF4TUNUTGRNaHRJeFFOSWgxYktIYktHUHZFX0FJdUJRUHJkbXFqdw?oc=5",
@@ -234,8 +250,8 @@
    "title": "GTA 6 is apparently going all-in on blood, drugs and mayhem",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkFPSjdDRThCQkp3N1V2T1RrTjFpSDhGeWgwc0VlVm1NX2kzMVlYUFdtcWtjTm1sc1FNTzVyZ1ZuQVRLcWxjV2RwX1FSVXYzSG52WHJmSnhRSzl0S2dEUDYzWVFRYU9IcVNBeUNVRlFvY0tvSjR4VEh2Mm5DSG1ld1NJQU00eW5ORlJnOXkwMA?oc=5",
    "date": "2026-10-04T16:00:10.000Z",
-   "source": "digitaltrends.com",
-   "summary": "GTA 6 is apparently going all-in on blood, drugs and mayhem digitaltrends.com"
+   "source": "Digital Trends",
+   "summary": "GTA 6 is apparently going all-in on blood, drugs and mayhem Digital Trends"
   },
   {
    "id": "gn-1ogcfxj",
@@ -258,16 +274,16 @@
    "title": "Jason from 'GTA 6' feuds with Link from 'The Legend of Zelda' on 'SNL's Weekend Update",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd2VjY3VkeUVuLVhnMEJ4T0hUNFVyVm5yRkFqRmZqenBTUU9UVXFncUYyNEJYRmc4R01COTNrbmdCUUhZVGMwS3NMOVhnblJSNWVTLUJ0akZmbUY2STdlYXpGd2RiU1p4c0dqV1dtcGVZQlhPcW1uTHl1aDVnQThrZDhwaEI1RjJzUEhMaXNVSQ?oc=5",
    "date": "2026-10-04T14:54:26.000Z",
-   "source": "mashable.com",
-   "summary": "Jason from 'GTA 6' feuds with Link from 'The Legend of Zelda' on 'SNL's Weekend Update mashable.com"
+   "source": "Mashable",
+   "summary": "Jason from 'GTA 6' feuds with Link from 'The Legend of Zelda' on 'SNL's Weekend Update Mashable"
   },
   {
    "id": "gn-2qbo0i",
    "title": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHFsVC12ZzREUzRUNjRza18zMmVPaUpqWnJ2VTl3dGlsWXZvUnRNQ1picWw5T2ZQdXVYS3pRSVBrRS10MmRWY3VodERpOExLamg0WmwxSTYwWmVrZ09IUG1tVURjM08zdUJhcVFPeGZNZWtTS3V1WWZfUkVZWW5XTFZwMkVmejk2MWpIZXVBbTZpeHltV0NqbXFzYllDS2FKVHVjTWIyUQ?oc=5",
    "date": "2026-10-04T14:51:07.000Z",
-   "source": "kotaku.com",
-   "summary": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live kotaku.com"
+   "source": "Kotaku",
+   "summary": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live Kotaku"
   },
   {
    "id": "gn-1mtflfv",
@@ -644,25 +660,41 @@
    "date": "2026-10-03T08:58:00.000Z",
    "source": "Notebookcheck",
    "summary": "GTA 6: New screenshots with Pulp Fiction vibes and fresh details about Jason and Lucia Notebookcheck"
-  },
-  {
-   "id": "gn-12scacs",
-   "title": "Grand Theft Auto VI recreates a scene from Quentin Tarantino's Pulp Fiction",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUd5YzFPSHltX243bktZbjVsbGFFaU9IZ3NMbnlvYVNWa25RSWNZQTVGdEZzQ04tMHM1X0hxSXpZa0dNeF8xSTc2bG1kbnZhV25xVHIxRU5wRW5QRHh6Q05WNEsxbkVNM01aSlZGQ0VBbUxJenV2Ny0yZG9rYU5MT2picG1YNEYwVlRrY1VtbHpERjZCazBGXzIyb3VYSW1uMUdHRS1Oc3oxTXFHT3UwV1BB?oc=5",
-   "date": "2026-10-03T08:32:26.000Z",
-   "source": "GameGPU",
-   "summary": "Grand Theft Auto VI recreates a scene from Quentin Tarantino's Pulp Fiction GameGPU"
-  },
-  {
-   "id": "gn-1g4s30b",
-   "title": "GTA VI Fans Outraged: Influencer Gifts Deemed More Interesting Than Collector's Edition",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdkdIc0FjOFh2bW1yUnA3N0ZyeGpRNWV2MVdxMEpOSDVoQkJwQmF0MEhQUHRuc0M5SHZUc1ZXNFJaMXhBeWw1SFFqZGNhQTlNZlpMeURZclRVMFE1ejVfWnZVaVlSRG43amd5SzVaUWc5VEhPdk90Umk5Q0hFQ0x6X2swSy1rYnVPbGZmbkNsZVlsNGMzcGpORDZzVlc4OTkweVM4NVhueHpIYjlhOHRwNmV0cnJwUTR2Y1dqTEdhOEVIaGVHczZqcdIBzgFBVV95cUxPZG83X1pBOTk2eW5KWW54YjFQQ2MzQ0IzMVdkU1EwdmRCU01tNTdxbVdDSzZGYXE4RWpXZGVCQmgzWWVsSUVQUTFnZG14SjJrLWVkZmtuRDdKN1NFSkQ2akVwYTg0SXRrSmNPaXRzQmhlanhqR0VUaS1CbHNPWXZJYk1lSHpHd0FVUWpsckl3eXBNcXl6czIxVjZUa0FxakNpczZPd3o4NzJaVFd3UVRVeUsxSkpLc0o1a0N4SGs5RzlBSTM4cWxoVk5YakNKQQ?oc=5",
-   "date": "2026-10-03T07:18:59.000Z",
-   "source": "ixbt.games",
-   "summary": "GTA VI Fans Outraged: Influencer Gifts Deemed More Interesting Than Collector's Edition ixbt.games"
   }
  ],
  "community": [
+  {
+   "id": "rd-1pjpce0",
+   "title": "Small things like this make me more excited about this game",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxstus/small_things_like_this_make_me_more_excited_about/",
+   "date": "2026-10-04T22:45:45.000Z",
+   "source": "r/GTA6",
+   "summary": "The minuscule details, the text on the tee warping as Lucia grabs on to Jason blows my mind. submitted by /u/itcurvetotheright [link] [comments]"
+  },
+  {
+   "id": "rd-6is6ic",
+   "title": "WHAT TO WATCH BEFORE GTA VI",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxslzv/what_to_watch_before_gta_vi/",
+   "date": "2026-10-04T22:35:13.000Z",
+   "source": "r/GTA6",
+   "summary": "Hey guys, I was thinking, we still have a little over a month before the madness begins, what movies/shows/games to watch/play before Gta VI releases? Not asking because I’m bored, I’m asking because "
+  },
+  {
+   "id": "rd-j3hrc6",
+   "title": "Vice City mural being painted",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxr5rr/vice_city_mural_being_painted/",
+   "date": "2026-10-04T21:30:02.000Z",
+   "source": "r/GTA6",
+   "summary": "Spotted this today while in Wynwood! There was also an official photographer snapping pics of the painters submitted by /u/heavilyThinkingAbout [link] [comments]"
+  },
+  {
+   "id": "rd-14ff07r",
+   "title": "How will you “run” Jason and Lucia? I’m thinking gym rats on coke who both have psycho criminal profiles 😂 but that little soft spot for each other 😂😂",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxpw6i/how_will_you_run_jason_and_lucia_im_thinking_gym/",
+   "date": "2026-10-04T20:35:58.000Z",
+   "source": "r/GTA6",
+   "summary": "Hitting the gym vs Burgers and fries! submitted by /u/TimmyTurnersDealer [link] [comments]"
+  },
   {
    "id": "rd-zx8sdv",
    "title": "Leonida Keys conveniently left out of GI article",
@@ -950,38 +982,6 @@
    "date": "2026-10-03T14:11:28.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/HellBay1 [link] [comments]"
-  },
-  {
-   "id": "rd-inv3hm",
-   "title": "Brooklyn Promo Progress (10/03)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwo6cf/brooklyn_promo_progress_1003/",
-   "date": "2026-10-03T14:09:06.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/colorblindcasey [link] [comments]"
-  },
-  {
-   "id": "rd-1rhuoo7",
-   "title": "Would you stay in Grassrivers if a storm hit?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwncr0/would_you_stay_in_grassrivers_if_a_storm_hit/",
-   "date": "2026-10-03T13:31:45.000Z",
-   "source": "r/GTA6",
-   "summary": "I'd probably turn around the second a big storm hit Grassrivers. There's water everywhere already. Throw in heavy rain and strong winds and I'd be worried about getting stuck out there. Would you guys"
-  },
-  {
-   "id": "rd-1gw4bud",
-   "title": "Sam Houser exclusive GQ Interview is no longer happening.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwl8bs/sam_houser_exclusive_gq_interview_is_no_longer/",
-   "date": "2026-10-03T11:45:17.000Z",
-   "source": "r/GTA6",
-   "summary": "Seems like Sam wants to stay as anonymous as possible submitted by /u/pepsi_max04 [link] [comments]"
-  },
-  {
-   "id": "rd-1sqyby3",
-   "title": "I really hope Rockstar doesn't abandon GTA 6's Story Mode like they did with GTA 5.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwil6r/i_really_hope_rockstar_doesnt_abandon_gta_6s/",
-   "date": "2026-10-03T09:02:52.000Z",
-   "source": "r/GTA6",
-   "summary": "I really hope Rockstar doesn't abandon GTA 6's Story Mode like they did with GTA 5. I play games to chill, explore at my own pace, and enjoy the world. Whenever I try online games like GTA Online, the"
   }
  ]
 }
