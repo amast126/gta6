@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-03T21:57:31.085Z",
+ "generated": "2026-10-04T00:23:09.595Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-03T21:57:31.085Z"
+   "checked": "2026-10-04T00:23:09.595Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-03T21:57:31.085Z"
+   "checked": "2026-10-04T00:23:09.595Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-03T21:57:31.085Z"
+   "checked": "2026-10-04T00:23:09.595Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-03T21:57:31.085Z"
+   "checked": "2026-10-04T00:23:09.595Z"
   }
  },
  "official": [
@@ -194,16 +194,16 @@
    "title": "GTA 6 Quietly Reveals New Open-World Gameplay Details",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcjNCY3Nzak5yYl9KNE53akdJdXFfc2FyTzRUV2p1dXFuNXVkWC1QY2IweDd4X3lvaUd6dUFrU2I1V2YyV2QxbEZMcUdibW5Vb3picUdmSjBJWWl2LUlmZ1ZhRjZ2ZTdNRWcxQ2l1eVE0OTA4SUl5M2FKOURMd0FaVlUtdElvRE1TVlkwMS1jMUU?oc=5",
    "date": "2026-10-03T21:00:00.000Z",
-   "source": "opencritic.com",
-   "summary": "GTA 6 Quietly Reveals New Open-World Gameplay Details opencritic.com"
+   "source": "OpenCritic",
+   "summary": "GTA 6 Quietly Reveals New Open-World Gameplay Details OpenCritic"
   },
   {
    "id": "gn-1sl5y2a",
    "title": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuV1dOamM5SndaNlpfQXlWQVNEOVV6dmhIb3BaMzl4QWFSQlBUU3NYYk5ocXctZm1jcldMYTJpaFdGV3VKX2k3dVBuSVZaYl91V3pHM0JOaWc0XzZ3NjZya21Qa1RHNzVL?oc=5",
    "date": "2026-10-03T20:00:00.000Z",
-   "source": "Gamereactor UK",
-   "summary": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push Gamereactor UK"
+   "source": "gamereactor.eu",
+   "summary": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push gamereactor.eu"
   },
   {
    "id": "gn-2dty2u",
@@ -234,8 +234,8 @@
    "title": "GTA 6 could get more controversial than expected after rating reveals new adult content",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVlBQZEh4U3F2dXBaak9YcV8yaUw4YTlCeGE1dFgyWF96T2N4ZFd5c3BDbnVxeTVFWTRXSWxZbVg4cHNka1NMTzJtMm11cXJaUnBVU1BDMXpVVEIwWnFtZG9FdjRCVjNXdElKQWV3clE1cXVpdEdZOEJFNzF5c0h5cGlUYkd2RlgyNzFYcmtrQnJQR1BCci04WmYtdWNZMlpjajhJMkxEMnVxUkt3ZkNpQW8tbG9JcWhUNVRVdURMTDdJbTdycVVrUUsteUNDLVNFQVlSNnY1VXVudlRNX2tGdU85VDItZjVrcmRrSVNwdzRLNTA3QWhlWlVnM2nSAYICQVVfeXFMTnUwN1NVdUxzemQ2YlB3TW9oc3QyWjlCSVhaUmhGNW0zaW9mTWc2MGlLc2F3WlJ2cEpXd0c2aFhwckdXM0I1VHlFaVIyRng3WHI4NFNQT0dvdXRFcHQ1Qk15TnVCM2pDM2M5OGczbC1Wb29iamVtM0I1cjNGRERaeDdROXd5RU9BQmktOHljZThjVUQteFBzNTQyTjhCU05yY0ZHNUxpdDlXMFB1QTNkQmtQUU1oZnpaRXBPUkxCQldMTG1XLWJZNEtYZmlZUjRPbXZZTVBPc1RPQ3NjM0lvbmpKVzMyenk2ekJ2TThCRmdzTlBCeVhoMDM0OU8tZ2xBY2JB?oc=5",
    "date": "2026-10-03T18:57:00.000Z",
-   "source": "The Times of India",
-   "summary": "GTA 6 could get more controversial than expected after rating reveals new adult content The Times of India"
+   "source": "timesofindia.indiatimes.com",
+   "summary": "GTA 6 could get more controversial than expected after rating reveals new adult content timesofindia.indiatimes.com"
   },
   {
    "id": "gn-wkjxyt",
@@ -278,6 +278,14 @@
    "summary": "Pixar just released a handmade stopmotion Thelma & Louise with fruit – and a nod to GTA VI Creative Bloq"
   },
   {
+   "id": "gn-1lnzi3n",
+   "title": "GTA 6 PEGI 18 Rating Deleted After Decapitation Leak [2026]",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGwzQzM5TnhfcmJOYjVNTVlULUFrZVpQT2J4TVdrV2pwZ0xmVFE4d3VTMUdvX0tXeDF1WHFBdHhPSkM0V0JoTUJTS19DMmY0NTd6Qnd3MVJDbHBoamdRdXZPa1F4T0pBR1pPYW5OUnpFRjhPYTVGSVZDb2FIcXAxVHRjQQ?oc=5",
+   "date": "2026-10-03T17:00:45.000Z",
+   "source": "tech-insider.org",
+   "summary": "GTA 6 PEGI 18 Rating Deleted After Decapitation Leak [2026] tech-insider.org"
+  },
+  {
    "id": "gn-4bbsrs",
    "title": "Shack Chat: What past Grand Theft Auto character do you want to make a cameo in GTA 6?",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbVFoOXo1UDFkMGhyUUdJMldrYzFwajhpcm9mdS1DZFJGM3BaSGlyMWdEckl6LXpTMnFLbXFwa3BuYW9pWHhnZ1pFUVZ4VVlYRk5ibmpKVzMteFZlVzNnMVFMLUhlenlkTG96bTBWSXBWalpLLWtPV3J5QkczTGNIUHIyUkE?oc=5",
@@ -298,8 +306,8 @@
    "title": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QT3FTZE5aaloyMk13UTBQQ1ZaMzN0NFlhNUpmWk95RlNUNmNza2FFU3RQVXBTQTNvRkczRjluQ0hOdzR5S1RXSmFWTTVxM1VZbURhQ2tUT25Jd05aWlV3aFlLSTd6TnlwWFBsX19wTHhuMEJmYUNR?oc=5",
    "date": "2026-10-03T15:50:02.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games Polygon.com"
+   "source": "polygon.com",
+   "summary": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games polygon.com"
   },
   {
    "id": "gn-1298llo",
@@ -314,8 +322,8 @@
    "title": "Rockstar Officially Discusses GTA 6's Open-World Map of Vice City",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWxrZGo4eGtMbXhmNW03U3AwMmtQTTFxZGVCSjZfRWdXdURyNnY2WnhtR2hLT2M2OXdFR2M4QlJYZUl5aXVtdEQ3b1I5SE1NNmZUcGQxRjJLVUhGUzJTNk5FTGNDS3V0bEZpUnVDZEwzc3JmRE9sdGhYa280cm91NGUwZVNiRnF4YUpqMVhwMHFxTWlnclR0a3U3NWY5YzA?oc=5",
    "date": "2026-10-03T11:55:11.000Z",
-   "source": "opencritic.com",
-   "summary": "Rockstar Officially Discusses GTA 6's Open-World Map of Vice City opencritic.com"
+   "source": "OpenCritic",
+   "summary": "Rockstar Officially Discusses GTA 6's Open-World Map of Vice City OpenCritic"
   },
   {
    "id": "gn-1oqsobn",
@@ -370,16 +378,16 @@
    "title": "A Vanished PEGI Page Details GTA 6’s Reported Mature Content",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAzZFU4MVVCN3I4UFJVa1JRYUIyOGhNakVBTmVnRjdBTWhXeDEtSlY3cGkxS2NWQ1k5Qkd6TktkUUpXMzUxcmc4anc0eG1nMkp3R2swNVIybVI?oc=5",
    "date": "2026-10-03T10:03:15.000Z",
-   "source": "Gamereactor UK",
-   "summary": "A Vanished PEGI Page Details GTA 6’s Reported Mature Content Gamereactor UK"
+   "source": "gamereactor.eu",
+   "summary": "A Vanished PEGI Page Details GTA 6’s Reported Mature Content gamereactor.eu"
   },
   {
    "id": "gn-1etozyd",
    "title": "GTA 6 - Everything We Know About the Most Anticipated Game Ever Made",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SMHQzcHk2UTBZUkhkUlF3NXpJVXBXMnNRNThRV1BJTl93OHRwRDdBcE05UVlKZVFDWDNKMVNRZDVDaUNRdmdJUjA2SE1hSklHVGlhaFduVzBRSmF1N0xiUG9sZjA?oc=5",
    "date": "2026-10-03T10:02:26.000Z",
-   "source": "Wccftech",
-   "summary": "GTA 6 - Everything We Know About the Most Anticipated Game Ever Made Wccftech"
+   "source": "wccftech.com",
+   "summary": "GTA 6 - Everything We Know About the Most Anticipated Game Ever Made wccftech.com"
   },
   {
    "id": "gn-rqxqq5",
@@ -402,8 +410,8 @@
    "title": "Grand Theft Auto VI recreates a scene from Quentin Tarantino's Pulp Fiction",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZUd5YzFPSHltX243bktZbjVsbGFFaU9IZ3NMbnlvYVNWa25RSWNZQTVGdEZzQ04tMHM1X0hxSXpZa0dNeF8xSTc2bG1kbnZhV25xVHIxRU5wRW5QRHh6Q05WNEsxbkVNM01aSlZGQ0VBbUxJenV2Ny0yZG9rYU5MT2picG1YNEYwVlRrY1VtbHpERjZCazBGXzIyb3VYSW1uMUdHRS1Oc3oxTXFHT3UwV1BB?oc=5",
    "date": "2026-10-03T08:32:26.000Z",
-   "source": "en.gamegpu.com",
-   "summary": "Grand Theft Auto VI recreates a scene from Quentin Tarantino's Pulp Fiction en.gamegpu.com"
+   "source": "GameGPU",
+   "summary": "Grand Theft Auto VI recreates a scene from Quentin Tarantino's Pulp Fiction GameGPU"
   },
   {
    "id": "gn-1g4s30b",
@@ -442,8 +450,8 @@
    "title": "Grand Theft Auto VI will require the mandatory PlayStation 5 firmware update version 14.1.",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjltUmIwMjdWRDJIY0RzX2tLR3dtWTRNUkJQOUxaZ0xZc2tUcjh1QVJvNkMwREdBQW1TdF9LX0w1ZHZoaEhkTmVrYjAzTmNFVlF3WkF3MHNhS0dwdTF0MTdhNlJlbC1XTnFQRlB3TlR3SU4wM3RNaVoya3dDQW9hV3M4WV92WjZnZlJLZllHUGlfWWhmUkM4WmFoVUNGaWNPSXFaSFVIVFpCZmlCT0w4Z081cDRVN2s0ak85SFRsTQ?oc=5",
    "date": "2026-10-03T04:48:40.000Z",
-   "source": "en.gamegpu.com",
-   "summary": "Grand Theft Auto VI will require the mandatory PlayStation 5 firmware update version 14.1. en.gamegpu.com"
+   "source": "GameGPU",
+   "summary": "Grand Theft Auto VI will require the mandatory PlayStation 5 firmware update version 14.1. GameGPU"
   },
   {
    "id": "gn-1ae89y3",
@@ -522,8 +530,8 @@
    "title": "GTA 6 Had A Really Busy Week",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjd0F4aGVSc1NmdXZtUkp2MTJqZld0aUlQVEZOcXM2VV94ak5oZ0haaDI2RkFfOFY2MWtMNlFOWExrZzQ4R1B5dkZyODhZZU1rSHNQZG9fN0JQN2tEMm1fZ0hJUl9GT3Ntd2c?oc=5",
    "date": "2026-10-02T23:00:55.000Z",
-   "source": "Kotaku",
-   "summary": "GTA 6 Had A Really Busy Week Kotaku"
+   "source": "kotaku.com",
+   "summary": "GTA 6 Had A Really Busy Week kotaku.com"
   },
   {
    "id": "gn-b71nyd",
@@ -610,8 +618,8 @@
    "title": "Miami Heat to host ‘A Night in Vice City' before GTA 6 release",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYU51YjZQc2NNYklDZExmQmFRM3hCZE9mMURGMWV1WjFnZkNHcUV5SkZqZzBaWmk3VFg5MnZfN1I2ZmJlbUxRUEhQMXJyc3o4QWNjMHMxUXg2c2ZvN3dZMGc0R2oySG1Wc2gyQ1RGMFVCWnY0aW5obGVLa2t5c25KLWR5SUc0TVRzUV9CUk13bWhSSG5rV0h6ajJGNUNCT2tlUjFwbEFkTE82QzFhZjZQejNLQUhzOHo00gHAAUFVX3lxTE01VmMtdG9WZzV3ZzhKd3pLSS1EX19kN3V4UkdiQ2NvdHZqWDhiNjBqSXZKOEpJdl9DLUFHdFhHWkItdUp3TXpwVGJKZnJoX3dOTXhJbTFzQjI4eW9PYkV4eHdFNlRCdG9ldG1jYVJDZk9NX3RRWlhtdC1rdlZWT0hzdlE3Sy1sNDc3WktlU3dSNVVIZnRxMEhxekpKSjhKMFhGQ2oweEtYN0NsVlE0LUhYZ0d6UDU1bVJnb1FVUXl1bQ?oc=5",
    "date": "2026-10-02T21:21:46.000Z",
-   "source": "NBC 6 South Florida",
-   "summary": "Miami Heat to host ‘A Night in Vice City' before GTA 6 release NBC 6 South Florida"
+   "source": "nbcmiami.com",
+   "summary": "Miami Heat to host ‘A Night in Vice City' before GTA 6 release nbcmiami.com"
   },
   {
    "id": "gn-9zjfes",
@@ -652,17 +660,33 @@
    "date": "2026-10-02T19:54:04.000Z",
    "source": "IMDb",
    "summary": "Dan Houser on Leaving ‘GTA 6’ Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn’t Play Open-World Games Anymore IMDb"
-  },
-  {
-   "id": "gn-10l5zk6",
-   "title": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDF3WENqLVBPcUd1N2hmTFZrQVVCMTlIMFZsa2NIVXRBMG5aMDBWc1Y0OE85a2J3RTZrOERpclQ1Vlc1LWZ3ZXotT3ZYS0p2WjZIS0t0Xy14eDJJdzVkQVdwYlFObldIeE52MjJyYWJXOHRmOG5TS3F6bm1KSzFGSlNpbUpkQkpNQ24tdHcwWEdHYVh2U1BxTldnd3dwVmM?oc=5",
-   "date": "2026-10-02T19:42:19.000Z",
-   "source": "gamespot.com",
-   "summary": "GTA 6 Screenshot Suggests It Won’t Be Shy About Movie References gamespot.com"
   }
  ],
  "community": [
+  {
+   "id": "rd-1984e72",
+   "title": "Jason’s Expression During Hank’s Waffles Robbery",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wx1adi/jasons_expression_during_hanks_waffles_robbery/",
+   "date": "2026-10-03T23:42:39.000Z",
+   "source": "r/GTA6",
+   "summary": "Jason shakes his head and closes his eyes right before putting on the mask. Seems he is not quite as enthusiastic on robbing the place as Lucia is. submitted by /u/superman_king [link] [comments]"
+  },
+  {
+   "id": "rd-1b88cmn",
+   "title": "Anyone else hyped for backyard wrestling?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wwzhc4/anyone_else_hyped_for_backyard_wrestling/",
+   "date": "2026-10-03T22:12:54.000Z",
+   "source": "r/GTA6",
+   "summary": "I don’t see tons of people taking about it but I think it looks cool. Also seems like Jason and Lucia will have different fighting styles which is neat. I’m also hoping they can learn each others styl"
+  },
+  {
+   "id": "rd-16h73y9",
+   "title": "What is happening with GTA 6 rn?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wwykdm/what_is_happening_with_gta_6_rn/",
+   "date": "2026-10-03T21:30:33.000Z",
+   "source": "r/GTA6",
+   "summary": "I’m not a technical guy in gaming and have never really known what the developers do at any stage of the game precisely. So I’m just wondering in these last few weeks leading upto to the release of th"
+  },
   {
    "id": "rd-10w2j5y",
    "title": "Thoughts on safe houses and the fatigue mechanic.",
@@ -958,30 +982,6 @@
    "date": "2026-10-02T15:43:00.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/RealGiancarlosR [link] [comments]"
-  },
-  {
-   "id": "rd-sw0skw",
-   "title": "New Screenshots",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wvwypo/new_screenshots/",
-   "date": "2026-10-02T15:36:01.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/JasonArthurNico [link] [comments]"
-  },
-  {
-   "id": "rd-1le0r43",
-   "title": "Comment from TGG stream hints at the stadium being enterable",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wvwqgo/comment_from_tgg_stream_hints_at_the_stadium/",
-   "date": "2026-10-02T15:27:25.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/PenseeG [link] [comments]"
-  },
-  {
-   "id": "rd-1cb8lh",
-   "title": "Loud vs subtle approach to the Hank’s Waffle’s heist?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wvwqg9/loud_vs_subtle_approach_to_the_hanks_waffles_heist/",
-   "date": "2026-10-02T15:27:24.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/GameRollGTA [link] [comments]"
   }
  ]
 }
