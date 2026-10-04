@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-04T17:15:36.721Z",
+ "generated": "2026-10-04T20:19:08.801Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-04T17:15:36.721Z"
+   "checked": "2026-10-04T20:19:08.801Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-04T17:15:36.721Z"
+   "checked": "2026-10-04T20:19:08.801Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-04T17:15:36.721Z"
+   "checked": "2026-10-04T20:19:08.801Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-04T17:15:36.721Z"
+   "checked": "2026-10-04T20:19:08.801Z"
   }
  },
  "official": [
@@ -182,6 +182,30 @@
  ],
  "press": [
   {
+   "id": "gn-1si2a6",
+   "title": "Saturday Night Live's Weekend Update pits Zelda's Link against GTA VI's Jason",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2VEbW1HSUVZTEJJMHpOWGFXM193cXZMWklPUXdCVTFZa3NzQnktdUtLRzlTWEdfcHd4ak9PUmtISl9iZlltcDZqQzJ0Y0tpWG0wQVAtN1ZOLU9UaW5McGRycVFLaFIzbU9CVjVDZ0hfa1FYREc3c01FRGU2UndVVnlraHJHQVNWdHhVbTlITXF4TUNUTGRNaHRJeFFOSWgxYktIYktHUHZFX0FJdUJRUHJkbXFqdw?oc=5",
+   "date": "2026-10-04T19:18:39.000Z",
+   "source": "GoNintendo",
+   "summary": "Saturday Night Live's Weekend Update pits Zelda's Link against GTA VI's Jason GoNintendo"
+  },
+  {
+   "id": "gn-mn945d",
+   "title": "GTA 6's Miami Heat Vice City Night Now Has a Tip Time, a Trailer and a Giannis Twist",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTXoxN3p2WVdTa05Qb0xBek9jbVVHVmpneVlTbzlBMHFBR1pxOXhkVHJkWGMtMmk0TFNBdzNUVW5RUWE4bU52WE9Yb29oelRsXzRURjdzSENUQi1vd2x1SEdkVEVuMGZ3eE9hV3JoRzkyNDlZS2N4V2lrRUM4YUVfV2tLMWVTeVU1WEtwQ3I0aUVGeEMySFF4U0I3VjdfaGJFNXp5M25BTGRYaUYwZGczVw?oc=5",
+   "date": "2026-10-04T18:30:44.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6's Miami Heat Vice City Night Now Has a Tip Time, a Trailer and a Giannis Twist GTA BOOM"
+  },
+  {
+   "id": "gn-iwvsef",
+   "title": "Major artists on GTA 6 album leaked by Spotify, with soundtrack news anticipated",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVG5PMFFLTVIxbkVmWFI2VEdER3NyZEQxZTJXd21jU0RrSlNRMXpwQVVncVQ0OExUd1l0cms4VVNIZ2pJbWRqbTF2WUpKQWgzSTQ1dE4wQXBzTGwyWXFBaTE3c2NNMWlzTExjNFpTSnNQSlo4bUFheTl6MXlPZXF1UUVZNDBLcWM2S1FpNDJpbWMwV3ZteHZRSG10SHBFdGF4ZDBVZkRVRW14R3NOSGdodHV4MTE5eE45bkxxWlR6WWFVZw?oc=5",
+   "date": "2026-10-04T18:27:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "Major artists on GTA 6 album leaked by Spotify, with soundtrack news anticipated Notebookcheck"
+  },
+  {
    "id": "gn-110h1ay",
    "title": "Kingdom Come Maker Hopes GTA 6 Lifts Game Prices",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMldMSEFuMVNQUGtvQUlqWnUwRGpGYkJOUnhIVFRCelBJSkZyWmZWclNqN1JiT2lIcGFORGhNUTFTTXJZZXJaWHlrd1h5OVZBMUw0RE5aR0wyRHhOV2d4b1lmSncwSlFvT0RHcjZRN0lEc0J5alFnbHE1d1Z1b2QtUllVSXJjcVBy?oc=5",
@@ -210,16 +234,24 @@
    "title": "GTA 6 is apparently going all-in on blood, drugs and mayhem",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkFPSjdDRThCQkp3N1V2T1RrTjFpSDhGeWgwc0VlVm1NX2kzMVlYUFdtcWtjTm1sc1FNTzVyZ1ZuQVRLcWxjV2RwX1FSVXYzSG52WHJmSnhRSzl0S2dEUDYzWVFRYU9IcVNBeUNVRlFvY0tvSjR4VEh2Mm5DSG1ld1NJQU00eW5ORlJnOXkwMA?oc=5",
    "date": "2026-10-04T16:00:10.000Z",
-   "source": "Digital Trends",
-   "summary": "GTA 6 is apparently going all-in on blood, drugs and mayhem Digital Trends"
+   "source": "digitaltrends.com",
+   "summary": "GTA 6 is apparently going all-in on blood, drugs and mayhem digitaltrends.com"
   },
   {
    "id": "gn-1ogcfxj",
    "title": "GTA 6: Everything We Know About Lucia Caminos (So Far)",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHRkh4TmVqZjZ0OXBfUlJvY0hQUGFKOE9HOGdfNTJkMFA0M3g2bjlpQ01sQXhIMTBndF9vQkhwSzJNRFQyblhmM2RlR3QwWjd4YUsxZ1BaamQxOXhZNkhXckg5OVY4dFJaTDA4U3MwNkJ5SUlxQXV6UHN3Mm4?oc=5",
    "date": "2026-10-04T16:00:00.000Z",
-   "source": "tech.yahoo.com",
-   "summary": "GTA 6: Everything We Know About Lucia Caminos (So Far) tech.yahoo.com"
+   "source": "Yahoo Tech",
+   "summary": "GTA 6: Everything We Know About Lucia Caminos (So Far) Yahoo Tech"
+  },
+  {
+   "id": "gn-17yrbjk",
+   "title": "SNL Weighs in on GTA 6 vs. The Legend of Zelda With Skit Featuring Jason and Link",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNW94REtNUFZVZERQd0dXV1doZWszYm4zWmJtbExwQW5saFRhQVV5bnQ5TU5FLUNpenB5ZFdUZS1FLWtnaXRYcDZNLVhUMFdkNmtqV0pWS3NYeDRlMFp3SnczdVMtZXpib3dRdEptWHVlV01QWHZKLWlyS3lZUE9pUkx0TXpLQ1Q0TmVxZjA3Q2U0WjhZeUpSSkQ3a3ZiVnBsZlRhbXF0VTdDaGtyS1E?oc=5",
+   "date": "2026-10-04T15:55:48.000Z",
+   "source": "IGN",
+   "summary": "SNL Weighs in on GTA 6 vs. The Legend of Zelda With Skit Featuring Jason and Link IGN"
   },
   {
    "id": "gn-kbrq9r",
@@ -234,8 +266,8 @@
    "title": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHFsVC12ZzREUzRUNjRza18zMmVPaUpqWnJ2VTl3dGlsWXZvUnRNQ1picWw5T2ZQdXVYS3pRSVBrRS10MmRWY3VodERpOExLamg0WmwxSTYwWmVrZ09IUG1tVURjM08zdUJhcVFPeGZNZWtTS3V1WWZfUkVZWW5XTFZwMkVmejk2MWpIZXVBbTZpeHltV0NqbXFzYllDS2FKVHVjTWIyUQ?oc=5",
    "date": "2026-10-04T14:51:07.000Z",
-   "source": "Kotaku",
-   "summary": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live Kotaku"
+   "source": "kotaku.com",
+   "summary": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live kotaku.com"
   },
   {
    "id": "gn-1mtflfv",
@@ -290,8 +322,8 @@
    "title": "GTA 6 Pre-Orders Revenue Low At Just $429 Mn?",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMHpJVXZ0NGxtaE04VFkzSHB1cFFvMmdLQnNEVUhEeTREUlF4dVIyeXYwanJMRW5DZnc3Q0F4X1IzdGl6aHdmVWdnVmJXenpCQUNrVHdWNnJKV29mSUJ6Y0QxNTAwQUsxcDBNbWs5TnRQTmotaEhWRnpZcy16V05ONENzalRnMWJkLWtOYUtYNGgycFpaZGtUbFptRFNGbVV1Nm8tVFRPRlZIal9kM24zaU9QOWw5QThoQzFkYXFPYVdsYzZ4aXd1YWh0NEZnUl9v0gHeAUFVX3lxTE1sMUJ2NG91OEJnbi1uaDN2b2s5TEtPb3JGT3BrUTNhcXVjT3dUaVlMMGI0bGd1VmNjUE1pMnpaampUVnJidFc4YkNjQktIdE5JZmo0SXA0QzcxYm4xVWFfazNxY0FVdFJ4aGtfdGpJbE0ybS1rSU93Vm5mNk82d2FtTHVYeDlNWExVckV6eU8tUTNMZU9ZWlRIS1ZsVnFIb1FMU1BrdWYxejVBeXZiOHlNcm5VWnJoa1RHU1hJeDU4MXdMbjhZSUFFNkZZaTRaTWZBNHBQank4T1VyYm9hUQ?oc=5",
    "date": "2026-10-04T08:41:12.000Z",
-   "source": "esquireindia.co.in",
-   "summary": "GTA 6 Pre-Orders Revenue Low At Just $429 Mn? esquireindia.co.in"
+   "source": "Esquire India",
+   "summary": "GTA 6 Pre-Orders Revenue Low At Just $429 Mn? Esquire India"
   },
   {
    "id": "gn-18miog2",
@@ -326,20 +358,20 @@
    "summary": "GTA 6 won't be letting up on the satire: 'sometimes you need to forego realism' PC Gamer"
   },
   {
+   "id": "gn-1ythua1",
+   "title": "GTA 6 won't be letting up on the satire: 'sometimes you need to forego realism'",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWi1WSUMwa2xHa21NX3MtUTkwRDlYd3NUYjhxMGJWRFBVMlc4dVZfR212MjR5WEVxd21KMmVJcExMcnFydWVpMlc0Q0s4Z1BuUkpZRk83Z2FkWm1HdVcxSm55T3dhMk9iZzRYcFlJN0JMay01RTcycU9aSGQtaC1Mck9oSFlEZw?oc=5",
+   "date": "2026-10-04T03:14:41.000Z",
+   "source": "Yahoo Tech",
+   "summary": "GTA 6 won't be letting up on the satire: 'sometimes you need to forego realism' Yahoo Tech"
+  },
+  {
    "id": "gn-g9k218",
    "title": "Rockstar Games Co-Founder Won’t Play GTA VI for a Good Reason — He Hasn’t Even Watched the Extended Trailer",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcno0cHRnR3ZQcDF6MG1KSThlZEo3eE8tenJQMC1jYXIzYkVFMERacGMzSFJGZXZsMjhBckZpZGVSQmZEVkNibmQxR1RyaUZJRV9PdXVIalRZUTVFNUstZl9jZGcyekptcEFhXzFGQk9FalozSi1tcVdYREM2RTJ0LUVQeTR1SmZwOUVnZnRjMUx2QXA4YVpCd1hndVFGaVN4V3VUZnZJUGNEbWhSTE1Wbmt1U0JxSE5DTDZVbzZHSVNvdV9IdEtpS2FEbXg1d09zLUE?oc=5",
    "date": "2026-10-04T03:14:08.000Z",
    "source": "levelup.com",
    "summary": "Rockstar Games Co-Founder Won’t Play GTA VI for a Good Reason — He Hasn’t Even Watched the Extended Trailer levelup.com"
-  },
-  {
-   "id": "gn-1ythua1",
-   "title": "GTA 6 won't be letting up on the satire: 'sometimes you need to forego realism'",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWi1WSUMwa2xHa21NX3MtUTkwRDlYd3NUYjhxMGJWRFBVMlc4dVZfR212MjR5WEVxd21KMmVJcExMcnFydWVpMlc0Q0s4Z1BuUkpZRk83Z2FkWm1HdVcxSm55T3dhMk9iZzRYcFlJN0JMay01RTcycU9aSGQtaC1Mck9oSFlEZw?oc=5",
-   "date": "2026-10-04T03:14:00.000Z",
-   "source": "tech.yahoo.com",
-   "summary": "GTA 6 won't be letting up on the satire: 'sometimes you need to forego realism' tech.yahoo.com"
   },
   {
    "id": "gn-7etxlh",
@@ -402,8 +434,8 @@
    "title": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuV1dOamM5SndaNlpfQXlWQVNEOVV6dmhIb3BaMzl4QWFSQlBUU3NYYk5ocXctZm1jcldMYTJpaFdGV3VKX2k3dVBuSVZaYl91V3pHM0JOaWc0XzZ3NjZya21Qa1RHNzVL?oc=5",
    "date": "2026-10-03T20:03:20.000Z",
-   "source": "Gamereactor UK",
-   "summary": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push Gamereactor UK"
+   "source": "gamereactor.eu",
+   "summary": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push gamereactor.eu"
   },
   {
    "id": "gn-2dty2u",
@@ -628,41 +660,49 @@
    "date": "2026-10-03T07:18:59.000Z",
    "source": "ixbt.games",
    "summary": "GTA VI Fans Outraged: Influencer Gifts Deemed More Interesting Than Collector's Edition ixbt.games"
-  },
-  {
-   "id": "gn-dm3kc4",
-   "title": "GTA 6: Jason and Lucia - A Close Look",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdF81UVI2T3FpNG1EWVBBalpOcnRXM1F3blF6ald2WjE2dHA3Y09tYncyaVRjdVpWN21iU3YydHZ4MnoydVNmbmo0TDdIMkFBSUNJTkVGcTdCbk5sNnJZOUVBWkJmd2tJQ2NmODBVTXB5WlRCVUZmMThtdFpDYldFYWhackZEVHk3OTRZMVZpSFd6THEyaDhmSllJaHM5ZC1WdHJ3QWVibmduUHdkczlQMFFtMl84X3E1TlBKWi1n0gHLAUFVX3lxTE1QZGI0SUx5VjdZQkRmUFJ2ZUdyX3hOS2ZGU3Y4ekE0c2FYRk5oS2IwbEx2WWhIS2dTZVpnT25fUFctaFdVYnp6anNqRmp0UmxJRWQzSkhJU0dDUGI4SE9QY1B4TEc1YWxwVGw1Z2dlcDlqZHAtR1BaOTdRWllaRVdCc05UM29kUzZ1RWRWTVZtZTA5QWl3VXF5cW1EOFNLNm9nTUZUN1VnUTlFYnY4S3JWUmR5NC1hdVB0LWgwdVZQekYyMGh6RFJfVkVB?oc=5",
-   "date": "2026-10-03T07:02:16.000Z",
-   "source": "esquireindia.co.in",
-   "summary": "GTA 6: Jason and Lucia - A Close Look esquireindia.co.in"
-  },
-  {
-   "id": "gn-1mo5et6",
-   "title": "Grand Theft Auto (GTA) VI collaboration with Miami Heat Announced for November 16, 2026",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGRPUHdvUGxZbTh5dmFLMlcwODRmNmZ5enlPb2dzd2pxaFo5Y3hOMnlLbG52dDFNTGNHblZRT0lSQk5MMUgxc0plWVlPV2JjM2JqN00zUDQ5dFZyRHBDTFFhZ25POUh2aWJvMkxoNVZOdGtsOGE0TGZDREhuYnhTdEMxSThOcHBReE9TbXhFUDZxaXdjbVVua3IxSnQ1ckxxVWFKcGFyR3pjZWRPNlVWUXlPdVPSAboBQVVfeXFMUFpfXzVFRmZhUTVjVzR5V3oxV2JyM0wySHAyTnlQX2RkYWcwMHNDVENsUi1heHcxSGFRZDhCbW9zdlpiNjJBZ0w2b2xPYUtuZlZoZE5JbkNJWm10aWo3bjFUdFpaYkRBWjZkWmp5NUl1ZEV6VVYzVTliU0VjeEhBSV9hei0yUk9RUEVOTDdUMU1qQ3hodm1DT0ZLaHJWdTBZM2JTa2V5dDNkcDFTajBJZHEwRjEzTl9tSEV3?oc=5",
-   "date": "2026-10-03T06:00:57.000Z",
-   "source": "mxdwn Games",
-   "summary": "Grand Theft Auto (GTA) VI collaboration with Miami Heat Announced for November 16, 2026 mxdwn Games"
-  },
-  {
-   "id": "gn-1gpsywm",
-   "title": "Grand Theft Auto (GTA) VI collaboration with Miami Heat Announced for November 18, 2026",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblpkeG12TDFJbmxZdHcxWVBkdUZuX2FXNk5uc09ZWUFEZF9JT2FENFc1M2g0T0dlX2UtU1lnR0hHNWpPQTJKS0d6aG94emRWRG5Tc2UxaWZuX29xX0QwTnB5d3gwNzgtNDhjS2w5Ml9laEFUZWxmV3lxNDNjVU1abG5RSlBGaFRlODJUeHdMd2pnZ1BmUXVCZE1BdExtWS1QRjdrN25Gc1FaU2d2eUxGc0UtQzLSAboBQVVfeXFMT0N3N0VSdkJ5VTVMTi1nY3FTVno5UU9vNkJzYVRtVkIyU2ZoNmR4TnZOdGtxTHVYYmJfN0tNSmtPRllnNGxTYlQ4V3VWVDg2OElualV4VU85T2c5VUJ3NHdvaFluU2hsSnBfcXlObFlBeGp1ZzJJX2JEZWlIU3JHSktKNEgyUllOdHhIMGR1ZVRrSWlLdDNrQ19QcFh3VHBNaHFfYml4QndKd3Jua3d1dllwUU5UMTZzakNR?oc=5",
-   "date": "2026-10-03T06:00:57.000Z",
-   "source": "mxdwn Games",
-   "summary": "Grand Theft Auto (GTA) VI collaboration with Miami Heat Announced for November 18, 2026 mxdwn Games"
-  },
-  {
-   "id": "gn-8yjuk2",
-   "title": "Grand Theft Auto VI will require the mandatory PlayStation 5 firmware update version 14.1.",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNjltUmIwMjdWRDJIY0RzX2tLR3dtWTRNUkJQOUxaZ0xZc2tUcjh1QVJvNkMwREdBQW1TdF9LX0w1ZHZoaEhkTmVrYjAzTmNFVlF3WkF3MHNhS0dwdTF0MTdhNlJlbC1XTnFQRlB3TlR3SU4wM3RNaVoya3dDQW9hV3M4WV92WjZnZlJLZllHUGlfWWhmUkM4WmFoVUNGaWNPSXFaSFVIVFpCZmlCT0w4Z081cDRVN2s0ak85SFRsTQ?oc=5",
-   "date": "2026-10-03T04:48:40.000Z",
-   "source": "GameGPU",
-   "summary": "Grand Theft Auto VI will require the mandatory PlayStation 5 firmware update version 14.1. GameGPU"
   }
  ],
  "community": [
+  {
+   "id": "rd-zx8sdv",
+   "title": "Leonida Keys conveniently left out of GI article",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxol92/leonida_keys_conveniently_left_out_of_gi_article/",
+   "date": "2026-10-04T19:41:54.000Z",
+   "source": "r/GTA6",
+   "summary": "With all the discussion about whether or not a representation of Key West will be in the game, I think it’s kind of funny that in the GI article discussed only 5 of the 6 areas of the game. Leonida Ke"
+  },
+  {
+   "id": "rd-ahdmy9",
+   "title": "She's just a devil woman",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxn6kc/shes_just_a_devil_woman/",
+   "date": "2026-10-04T18:44:53.000Z",
+   "source": "r/GTA6",
+   "summary": "Tried my best to replicate the artwork's style. I NEED to play this game. submitted by /u/HekkiAart [link] [comments]"
+  },
+  {
+   "id": "rd-ka82pz",
+   "title": "I made a conceptual \"Fred Quincy Resort\" DLC map w/ art!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxm573/i_made_a_conceptual_fred_quincy_resort_dlc_map_w/",
+   "date": "2026-10-04T18:02:31.000Z",
+   "source": "r/GTA6",
+   "summary": "So recently, there's alot of discussions regarding if a parody of Disney World and or Universal Studios will exist in the game, and so far, the answer might be looking like a \"no\", or \"not exactly\", b"
+  },
+  {
+   "id": "rd-1eyq9cs",
+   "title": "\"Criminal Conspiracy?\"",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxl7ue/criminal_conspiracy/",
+   "date": "2026-10-04T17:24:15.000Z",
+   "source": "r/GTA6",
+   "summary": "Anyone else think the number of times we’ve seen Angstipan referenced in the trailers is kind of odd? Once could be a coincidence, but I think we’ve seen it like, three times now. That shits gotta be "
+  },
+  {
+   "id": "rd-y01o2a",
+   "title": "Who is this guy?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxkruw/who_is_this_guy/",
+   "date": "2026-10-04T17:06:08.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Plastic_Talk6617 [link] [comments]"
+  },
   {
    "id": "rd-4vuug1",
    "title": "Colossal Media is returning to paint the GTA 6 cover",
@@ -942,46 +982,6 @@
    "date": "2026-10-03T09:02:52.000Z",
    "source": "r/GTA6",
    "summary": "I really hope Rockstar doesn't abandon GTA 6's Story Mode like they did with GTA 5. I play games to chill, explore at my own pace, and enjoy the world. Whenever I try online games like GTA Online, the"
-  },
-  {
-   "id": "rd-x1jybu",
-   "title": "I wonder if it’ll have an effect on our characters considering that we know that Jason and Lucia are affected by sleep deprivation",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwgms9/i_wonder_if_itll_have_an_effect_on_our_characters/",
-   "date": "2026-10-03T06:59:30.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Huge-Shoulder-2311 [link] [comments]"
-  },
-  {
-   "id": "rd-1w38wdr",
-   "title": "HUGE RAMPS INTO WATER🌊",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwgacv/huge_ramps_into_water/",
-   "date": "2026-10-03T06:38:01.000Z",
-   "source": "r/GTA6",
-   "summary": "Just discovered these huge ramps in the extended look, going straight into the direction of the water (which i havent seen anyone else catch yet) and it instantly reminded me of that seen from 2 fast "
-  },
-  {
-   "id": "rd-19l6k02",
-   "title": "anyone else feel like there’s a big time jump?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwg2xc/anyone_else_feel_like_theres_a_big_time_jump/",
-   "date": "2026-10-03T06:25:22.000Z",
-   "source": "r/GTA6",
-   "summary": "I’ve mostly thought this through the appearance and vibes Jason has throughout the marketing material so far. Jason at some points seems like a chill, cocky surfer kinda dude. Then at others he seems "
-  },
-  {
-   "id": "rd-693zek",
-   "title": "GTA VI has been officially rated in Australia.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwfpnr/gta_vi_has_been_officially_rated_in_australia/",
-   "date": "2026-10-03T06:03:12.000Z",
-   "source": "r/GTA6",
-   "summary": "According to Gameroll on Twitter, they give each category a ranking and a key alongside it. This means that we can compare GTA VI's content to GTA V's. \"The left image is what GTA VI received and on t"
-  },
-  {
-   "id": "rd-qrsbrx",
-   "title": "The sunglasses tan line is another level of detail",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwek70/the_sunglasses_tan_line_is_another_level_of_detail/",
-   "date": "2026-10-03T04:55:15.000Z",
-   "source": "r/GTA6",
-   "summary": "We already know that you can get sunburned in GTA VI, but the fact that you can also get tan lines based on your article of clothing and/or accessories is just another level of detail. Look this motor"
   }
  ]
 }
