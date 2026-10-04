@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-04T06:09:37.871Z",
+ "generated": "2026-10-04T12:41:54.240Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-04T06:09:37.871Z"
+   "checked": "2026-10-04T12:41:54.240Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-04T06:09:37.871Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-04T12:41:54.240Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-04T06:09:37.871Z"
+   "checked": "2026-10-04T12:41:54.240Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-04T06:09:37.871Z"
+   "checked": "2026-10-04T12:41:54.240Z"
   }
  },
  "official": [
@@ -186,17 +185,57 @@
    "id": "gn-3634zg",
    "title": "Not Just GTA 6, Your Next Favourite Game Faces Delays as AI Eats Up GPUs",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTDMwWEpxLXFpZmlseGlxc1NjS3ppLVBzMjFucVd5b1o5MldWc2t2TF8xcWVVbUYwZDFHbWQycG1ZMXJ4X2pzSmVLLVNTMWRfekxqVVF6a29MeHBMdXRJdGoyNFdISVpickUwWmw4dm9jZ2ktMmM0OWdrTGNtcDhzR0RUckVnSmVtRmVUT2VkSUVhcjFnZUQ5ZktYamo0LVNJaUwweUVlRC1KUExidUhiTmN3dw?oc=5",
-   "date": "2026-10-04T05:31:36.000Z",
+   "date": "2026-10-04T11:26:41.000Z",
    "source": "analyticsindiamag.com",
    "summary": "Not Just GTA 6, Your Next Favourite Game Faces Delays as AI Eats Up GPUs analyticsindiamag.com"
   },
   {
    "id": "gn-18qtilw",
-   "title": "GTA 6 Open World: Rockstar North Reveals 6 Systems",
+   "title": "GTA 6 Open World: Rockstar North Details 6 New Systems [2026]",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jbmNxSDExUEZkTHlkbGNoMG94TnN3MHEzZldMYTBwdC1McTFGY0FJQ0VnLWVuTnlES3VQRHBIWHBtd2Y0NFJTUFFtTWFaYXFUVVNHNm1yMDB4TWtEV3pRUm41XzFRNU5lS3NZdw?oc=5",
-   "date": "2026-10-04T03:19:15.000Z",
+   "date": "2026-10-04T10:18:45.000Z",
    "source": "shattered.io",
-   "summary": "GTA 6 Open World: Rockstar North Reveals 6 Systems shattered.io"
+   "summary": "GTA 6 Open World: Rockstar North Details 6 New Systems [2026] shattered.io"
+  },
+  {
+   "id": "gn-1qs645v",
+   "title": "Rockstar Games Confirms Next Official GTA 6 Update for October 5",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnNzTzhfdzl2RnBjR0p0ZnB3YzVKNVFiSHIzLVRMVDZibXRBOV91ci1TTjh6cnZ6RHBuQm9hVnc2LWRpcXk2NFFqTFJvT0p1RkxRV1pyRHVPYlFLUTdEZUo0RDhkRzNyQVNqRDBxaVhWUWFVVThrR09oMW0zRVd4V1A4d1VrR3BNSzFSdjBhWTdSQnJHR0pjeVFZSUw5RFk?oc=5",
+   "date": "2026-10-04T09:31:25.000Z",
+   "source": "OpenCritic",
+   "summary": "Rockstar Games Confirms Next Official GTA 6 Update for October 5 OpenCritic"
+  },
+  {
+   "id": "gn-12db88y",
+   "title": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Increase Video Game Prices",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT1NhNWRTWUo3bXZCVE5VUTFNclZ2ZEloSm5RZ2RRQ3k2Vld2eFQ5TmpiOFEweEp5RmRZaXpmaWtVNXphcTZ6bzVtMHotQXJ4Um5XdHJhRjBNN3o2ZWM1NElCQl8wSGNFZW50TVVLN0pNLWRiSFZBb2VZZzlUek92OFR2d2pBYlRpNHdFTnQzbTh0SFFwUzIxRUJPc2tnRVQ5RDB2dEYzSEhPUQ?oc=5",
+   "date": "2026-10-04T09:31:22.000Z",
+   "source": "OpenCritic",
+   "summary": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Increase Video Game Prices OpenCritic"
+  },
+  {
+   "id": "gn-1gzzcrx",
+   "title": "GTA 6 Pre-Orders Revenue Low At Just $429 Mn?",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMHpJVXZ0NGxtaE04VFkzSHB1cFFvMmdLQnNEVUhEeTREUlF4dVIyeXYwanJMRW5DZnc3Q0F4X1IzdGl6aHdmVWdnVmJXenpCQUNrVHdWNnJKV29mSUJ6Y0QxNTAwQUsxcDBNbWs5TnRQTmotaEhWRnpZcy16V05ONENzalRnMWJkLWtOYUtYNGgycFpaZGtUbFptRFNGbVV1Nm8tVFRPRlZIal9kM24zaU9QOWw5QThoQzFkYXFPYVdsYzZ4aXd1YWh0NEZnUl9v0gHeAUFVX3lxTE1sMUJ2NG91OEJnbi1uaDN2b2s5TEtPb3JGT3BrUTNhcXVjT3dUaVlMMGI0bGd1VmNjUE1pMnpaampUVnJidFc4YkNjQktIdE5JZmo0SXA0QzcxYm4xVWFfazNxY0FVdFJ4aGtfdGpJbE0ybS1rSU93Vm5mNk82d2FtTHVYeDlNWExVckV6eU8tUTNMZU9ZWlRIS1ZsVnFIb1FMU1BrdWYxejVBeXZiOHlNcm5VWnJoa1RHU1hJeDU4MXdMbjhZSUFFNkZZaTRaTWZBNHBQank4T1VyYm9hUQ?oc=5",
+   "date": "2026-10-04T08:41:12.000Z",
+   "source": "Esquire India",
+   "summary": "GTA 6 Pre-Orders Revenue Low At Just $429 Mn? Esquire India"
+  },
+  {
+   "id": "gn-lbuu2l",
+   "title": "Diaprojekcija: In Pictures: How GTA 6's Jason and Lucia Have Evolved Since 2023",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLXUtcHNrQ3FzRW05a1ZIT2x3My16OV9lTEtKYy1WaFh3STBETTZmZWpZeGU0UFpkNnJlNmdmUkVvUndfdWlzR1JPZThaQ0RhOEFWZ0p3VHFhc0JsZmpON2swVkRVY21LSFJQTGV4Q18tZTlTLTBjSW1Gekx4VkpKQkdtWTZaYS0xd1dJY2ZSeUIyY21wYl9nUFZRNlZMMHpqSTBMUFo4NHpvTEMwRFZnS1dB?oc=5",
+   "date": "2026-10-04T06:08:23.000Z",
+   "source": "IGN Adria",
+   "summary": "Diaprojekcija: In Pictures: How GTA 6's Jason and Lucia Have Evolved Since 2023 IGN Adria"
+  },
+  {
+   "id": "gn-1uvubuj",
+   "title": "GTA 6 won't be letting up on the satire: 'sometimes you need to forego realism'",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNUTRScTlTazVUa3ZrdVU5UXkyUFVPbHZubVFmWHU2ZUR4N041c3NWemdSaWJQY2JwTmFCQUZEVTlkUjJVempySjU2SklEZ3NFRHdCaUQ5bWFwX0ppNjlUdUNLSDhHTnhsSl9fQWVrTXptNVhFRzZxSEEzRHpVU3lETXFzeEd6TkxEMlpDeDJoUE8weHR0ckNQa0FSVV9aUE55UV9kUHVLbUxXaWVydmFuRjBIbDFKSjRseHdyZ0ZSSXVYM015T1oxT3pkcGRIeExkUFZTM1ZiemZPbWtoZk9Nc2lNQzJMT2pvbTJuWTc2V3Q2T25wQm8tNVIyZW5MTVpDakVyeXFkNVk0d3J3V0EzV21HNUphNzJaMWtfd0hhSVQ2eG9vUU9SWkRWcUVZTUtCSnY0T1lmc2h5ZTlkZ1owcmhUNU9BaXhZYVJV?oc=5",
+   "date": "2026-10-04T03:14:41.000Z",
+   "source": "PC Gamer",
+   "summary": "GTA 6 won't be letting up on the satire: 'sometimes you need to forego realism' PC Gamer"
   },
   {
    "id": "gn-g9k218",
@@ -231,6 +270,14 @@
    "summary": "GTA 6 Quietly Reveals New Open-World Gameplay Details OpenCritic"
   },
   {
+   "id": "gn-aru9if",
+   "title": "GTA 6 Quietly Reveals Gameplay Details, 0 Trailers [2026]",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUURmcEZkSEMzN1MyemZrNG1kZzVQVnZhZFA0QndCelF4SnMtNzd3SkVmbUhJMFVxSjRONXhoa2JfM2xaS2d0VDJTWmtCNTZmZlo4NERrNVZLSkUzTG15aTU2emE5eG1sV2psalhaUkRYUmVQcTlNd0tobFhlRXJodVhkSE5pYU0?oc=5",
+   "date": "2026-10-04T02:35:49.000Z",
+   "source": "tech-insider.org",
+   "summary": "GTA 6 Quietly Reveals Gameplay Details, 0 Trailers [2026] tech-insider.org"
+  },
+  {
    "id": "gn-104lu75",
    "title": "Rockstar’s $400 GTA 6 box comes with a gator, sunglasses and no game",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ3I0M2trQU5YVXRWV01RQk9fRW1kWjN0MkRuQWctUzcwVDlVWFMtQ1d4WVgyWEVaNW1zVmhlYkJXZ1QyczhxaTMwX09SQTZYeVpkbU10eEwybnoxYzRQYkZmaS11NlBSSGRIem1MUWRhb01uZHpjRHh3c3UxYXhHdUxmallUZHBhS2pJNXctRQ?oc=5",
@@ -243,8 +290,8 @@
    "title": "Rockstar Games Confirms RDR2 Feature Has Been Upgraded in GTA 6",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmxmcnpKVXUtNEZxU0hseTJiT1lHcEZyMzNnMUFOamxKMUc5SjRIMVRHODdfMGpEeGNuLUdKdDRLMEtiWWJfLU03c3pIdGNuQ29JTndVLTlWT1FocWU2V1ZzSkFIV3VvT3lLd2J6SWNzWXNuVkZYYi16ZjAxRFhvSTMxeDI0M0FOY29mY05XNEhZTDBZZVRPaFk4cmFlLThWMTdjbzhR?oc=5",
    "date": "2026-10-04T01:12:16.000Z",
-   "source": "comicbook.com",
-   "summary": "Rockstar Games Confirms RDR2 Feature Has Been Upgraded in GTA 6 comicbook.com"
+   "source": "ComicBook.com",
+   "summary": "Rockstar Games Confirms RDR2 Feature Has Been Upgraded in GTA 6 ComicBook.com"
   },
   {
    "id": "gn-1mpxm8r",
@@ -267,8 +314,8 @@
    "title": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuV1dOamM5SndaNlpfQXlWQVNEOVV6dmhIb3BaMzl4QWFSQlBUU3NYYk5ocXctZm1jcldMYTJpaFdGV3VKX2k3dVBuSVZaYl91V3pHM0JOaWc0XzZ3NjZya21Qa1RHNzVL?oc=5",
    "date": "2026-10-03T20:03:20.000Z",
-   "source": "gamereactor.eu",
-   "summary": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push gamereactor.eu"
+   "source": "Gamereactor UK",
+   "summary": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push Gamereactor UK"
   },
   {
    "id": "gn-2dty2u",
@@ -323,8 +370,8 @@
    "title": "Miami Heat Announce Vice City Night as Part of ‘GTA 6’ Marketing",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTTJSSFBGMGtsLUJSajFSeDNQZkFIT19tRUg1UWdTMVFTZjhfSE5qODk4UlhvRWpsY2hxRHoydmpvUnNEMXF4QjMzbnZVeFhodzNVS05qMVR3R2VUdkdnX1p4emlKQ1BNWE51OGRIaVpzRFpNUjRFUEYtMEhNdUYzLVFQY09Fd0x4NGNMLWxkSWFTZFlEUlZ4QVJiWFBTZk9sNTE3dlByaw?oc=5",
    "date": "2026-10-03T17:43:30.000Z",
-   "source": "Men's Journal",
-   "summary": "Miami Heat Announce Vice City Night as Part of ‘GTA 6’ Marketing Men's Journal"
+   "source": "mensjournal.com",
+   "summary": "Miami Heat Announce Vice City Night as Part of ‘GTA 6’ Marketing mensjournal.com"
   },
   {
    "id": "gn-rqei7p",
@@ -371,8 +418,8 @@
    "title": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QT3FTZE5aaloyMk13UTBQQ1ZaMzN0NFlhNUpmWk95RlNUNmNza2FFU3RQVXBTQTNvRkczRjluQ0hOdzR5S1RXSmFWTTVxM1VZbURhQ2tUT25Jd05aWlV3aFlLSTd6TnlwWFBsX19wTHhuMEJmYUNR?oc=5",
    "date": "2026-10-03T15:50:02.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games Polygon.com"
+   "source": "polygon.com",
+   "summary": "GTA Creator Has Avoided GTA 6 While Making New Open-World Games polygon.com"
   },
   {
    "id": "gn-1298llo",
@@ -427,8 +474,8 @@
    "title": "Miami Heat Plan 'A Night in Vice City' With Rockstar Games",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeXlzQjRTMFh4ZHk3ZVFXT3J6Q0xUUENwMVBaa2lyQm1aRlM0MzZfUDRTMUpaSlFoYktMVlRhWWZGZTNTYkhvU3hMVXlMLXJzRUJqN1RGa1BvbVo3N29WS01OQkdpajFwcWZIaWF1cndQVTI4Z2lXaFpEaUZqd2xEaEh3?oc=5",
    "date": "2026-10-03T10:43:05.000Z",
-   "source": "RG.org",
-   "summary": "Miami Heat Plan 'A Night in Vice City' With Rockstar Games RG.org"
+   "source": "rg.org",
+   "summary": "Miami Heat Plan 'A Night in Vice City' With Rockstar Games rg.org"
   },
   {
    "id": "gn-1b0xh7g",
@@ -613,57 +660,33 @@
    "date": "2026-10-02T22:49:09.000Z",
    "source": "PC Gamer",
    "summary": "GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat PC Gamer"
-  },
-  {
-   "id": "gn-1i29kab",
-   "title": "Miami Heat tease release of new ‘Vice City’ jerseys on the night before ‘Grand Theft Auto VI’ release",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQnFfSXB5REEydUdTY0tyemNlM3NydmVfUEtQSmtQYWpiWEI1bmpsZFNRVWxGUlNncFpmRVQ4SWVPOXV3SmY1dlREalJPMjBjUEM1b255V3hLbkZtblBsZC1HbnZna1VJR0NMdEJCUU1hRFlEaVpmUFhUY2lRSEVySWFWakgyMzRNbkJhdzcya1BIdGVMZjN5ejJaMHFfRWU0NmJwRlUyV3I4TmRPU2tmVkJGQ19ZQmQ3c0lFSXhQanQ3SDY4YWcxQlh3?oc=5",
-   "date": "2026-10-02T22:46:08.000Z",
-   "source": "930 WFMD Free Talk",
-   "summary": "Miami Heat tease release of new ‘Vice City’ jerseys on the night before ‘Grand Theft Auto VI’ release 930 WFMD Free Talk"
-  },
-  {
-   "id": "gn-63z2c0",
-   "title": "GTA 6 will hopefully normalize $80 and $100 games, says Kingdom Come developer",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVXlKN0RRM2pjVTdET2ZjMkZJcDBYQW5Xa0xHRTZLdnhTZ2xfSFAxLU5HUmlVU21UckcxdGJubzZLMlM0ZnpFNzVMRHhhWWdndElqUXBMT19EV2FaYXVta2dFeDVyTXlwX1I3TnpzZk1kMnA0UVVBZ1ZjeWo4MTVWQS1vQ3JrWFBaa1lKWi1nZmxTV1dvYjBFeDQ0YTFES1VhcC1iWmNnSHUxOW5mVGhNRTVvaml6N3NZa0xWYVI1cHcyVVhjd09ibTdLX1k4U20xS1RWNQ?oc=5",
-   "date": "2026-10-02T22:35:13.000Z",
-   "source": "TweakTown",
-   "summary": "GTA 6 will hopefully normalize $80 and $100 games, says Kingdom Come developer TweakTown"
-  },
-  {
-   "id": "gn-19unrcl",
-   "title": "Dan Houser on Leaving ‘GTA 6’ Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn’t Play Open-World Games Anymore",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UZGhLdk1Bckw1cms1MjM1NzdjOU9xVlYyakNPODVuT3JhSk5VU3hQVjRFTjNpc1hLQS1ZQktBMVNlSXR5dTlhTEZCTEZKZjZPNkNqSDRQZnNVZVM3bDlmUDdmdEF3Zw?oc=5",
-   "date": "2026-10-02T22:21:36.000Z",
-   "source": "IMDb",
-   "summary": "Dan Houser on Leaving ‘GTA 6’ Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn’t Play Open-World Games Anymore IMDb"
-  },
-  {
-   "id": "gn-1b6vh6z",
-   "title": "Miami Heat tease release of new 'Vice City' jerseys on the night before 'Grand Theft Auto VI' release",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1IwNzV4ZFZJNWdSVnRyVjkxQ0RVdl9mc1BZSUtrV1VlZm92WkJqcHVCVENlRjNUVHBvS2w1N3c4QXpXLU1ZMEYyeFBtemVjMWNwSXJQcVBkX21LRndwaGhYZWFiZzkzMGZkaHNPdzlSV1c0ckpjYVdOX2JtaG1jYklKdGNqRWlrZ1VUd0hxdENQV2wtYTNpcWFYNXYzYURpNV9wTGhmay1vRDNNN2k4MUFQQ2lheXVURzFyWWtZNDNHNVN4?oc=5",
-   "date": "2026-10-02T22:10:17.000Z",
-   "source": "Fox News",
-   "summary": "Miami Heat tease release of new 'Vice City' jerseys on the night before 'Grand Theft Auto VI' release Fox News"
-  },
-  {
-   "id": "gn-e5mz2z",
-   "title": "Kingdom Come Deliverance Studio Co-Founder “Fails to Understand” GTA 6’s Appeal But Wants It to Pave the Way for Higher Game Prices",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEg4aThVS1FiOFRqWTg1dnpqZzJMTWdtU2IwMXJnQzBnX1ltYlJJNTBnYWZROFVHdXJubTVUdEFiY1phQ0tqSHUyaFFaWTBnTmtjS0VvRWpzemtLZ0JNNS1MMkhwRWVwQXM1UzRXc1lGWDlwemtPa1V0dy03cmNnd2tlazRqT3d2TXUyY3lQRkZZQTJBV0VnUm5wRnY?oc=5",
-   "date": "2026-10-02T22:03:42.000Z",
-   "source": "MP1st",
-   "summary": "Kingdom Come Deliverance Studio Co-Founder “Fails to Understand” GTA 6’s Appeal But Wants It to Pave the Way for Higher Game Prices MP1st"
-  },
-  {
-   "id": "gn-kkhf38",
-   "title": "An Unhinged Tobin Reacts to Pelle Larsson Shoot + Jović GTA 6 Media Moment!",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmJwb3pfNTRkSnlVSHpZeWRjd3dUZE1NTHNHYlV2dzRsMXk3VHJCdUJjNmxvN0RMRGtSRGMzbGVnWFFYd0sybWVoaEk5SVZLMTZIU0JfRlVadUtORW5kUE1McVpjSW9GaFNrbHBtbjJiZ19GcTlNY29idnJQajA1Unl6ZENQX1Nzel9RQ3pVckQ3dU5IT1YzQUhPZWFuSFN0bzFUR2l0WE5vWHZwaVR2bjlBQjc?oc=5",
-   "date": "2026-10-02T21:56:28.000Z",
-   "source": "Audacy",
-   "summary": "An Unhinged Tobin Reacts to Pelle Larsson Shoot + Jović GTA 6 Media Moment! Audacy"
   }
  ],
  "community": [
+  {
+   "id": "rd-1dn18dq",
+   "title": "You already know there’ll be hundreds of YouTubers trying to get their vehicles fast enough to cross this bridge and make a video about it",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxde9a/you_already_know_therell_be_hundreds_of_youtubers/",
+   "date": "2026-10-04T11:27:13.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/nothing533439878 [link] [comments]"
+  },
+  {
+   "id": "rd-teknxx",
+   "title": "How can all the content render?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxcw9s/how_can_all_the_content_render/",
+   "date": "2026-10-04T10:57:40.000Z",
+   "source": "r/GTA6",
+   "summary": "There are so many details in this game. The sheer amount of data that had been created must be a lot to render. How does that technically even work? How does all the textures, geometries, sounds, and "
+  },
+  {
+   "id": "rd-1merg58",
+   "title": "Those were the days",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wx7vqi/those_were_the_days/",
+   "date": "2026-10-04T05:42:10.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/GwyddnoGaranhir [link] [comments]"
+  },
   {
    "id": "rd-1rzdp3a",
    "title": "Jason is on SNL",
@@ -959,30 +982,6 @@
    "date": "2026-10-02T23:11:49.000Z",
    "source": "r/GTA6",
    "summary": "Shirt quality is great! Little in thicker side so will be dying in this Miami heat submitted by /u/officialjoelf [link] [comments]"
-  },
-  {
-   "id": "rd-1nmoott",
-   "title": "Some OFFICIAL Artwork from rockstargames website when an 404 Error occurs.GTA VI",
-   "url": "https://www.reddit.com/r/GTA6/comments/1ww6ng0/some_official_artwork_from_rockstargames_website/",
-   "date": "2026-10-02T22:06:59.000Z",
-   "source": "r/GTA6",
-   "summary": "Some cool artwork i found acidentally , an interesting one with the (FIRE RISK LOW) , possible forest fires as a weather feature? submitted by /u/walidbt4 [link] [comments]"
-  },
-  {
-   "id": "rd-13r1di8",
-   "title": "Actual weather channel posted this",
-   "url": "https://www.reddit.com/r/GTA6/comments/1ww3fhm/actual_weather_channel_posted_this/",
-   "date": "2026-10-02T19:52:41.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Beginning_Prompt_725 [link] [comments]"
-  },
-  {
-   "id": "rd-mhrowr",
-   "title": "How excited are you?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1ww1eiv/how_excited_are_you/",
-   "date": "2026-10-02T18:32:26.000Z",
-   "source": "r/GTA6",
-   "summary": "I might be a little excited... How excited are you all? Got any merch yet? Got a PS5 under the desk connected to my main monitor. Vice City baby! submitted by /u/LazyFawxy [link] [comments]"
   }
  ]
 }
