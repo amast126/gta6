@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-04T23:25:25.244Z",
+ "generated": "2026-10-05T02:14:24.287Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-04T23:25:25.244Z"
+   "checked": "2026-10-05T02:14:24.287Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-04T23:25:25.244Z"
+   "checked": "2026-10-05T02:14:24.287Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-04T23:25:25.244Z"
+   "checked": "2026-10-05T02:14:24.287Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-04T23:25:25.244Z"
+   "checked": "2026-10-05T02:14:24.287Z"
   }
  },
  "official": [
@@ -182,6 +182,22 @@
  ],
  "press": [
   {
+   "id": "gn-14jfts8",
+   "title": "SNL Pits GTA 6 Against Zelda in a Six Minute Weekend Update Showdown",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ0Y0b2VNa05QR2hvM1ZZelI3eUpIbHdsdThIVmJrUlVCaTJVa1pjUXhVVXVZMGVWdFVudloxbTgzSEdwelE2M2hyZG1PYmJqczdSMlh2LWhPNWFnYUs2bE1Ebndibnh3V2RUNEhrQkpvUWVKc2tUYzlaUF9kMVBhMS1FYWVFbHVfcTl4eXZn?oc=5",
+   "date": "2026-10-05T00:35:33.000Z",
+   "source": "GTA BOOM",
+   "summary": "SNL Pits GTA 6 Against Zelda in a Six Minute Weekend Update Showdown GTA BOOM"
+  },
+  {
+   "id": "gn-1si2a6",
+   "title": "Saturday Night Live's Weekend Update pits Zelda's Link against GTA VI's Jason",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2VEbW1HSUVZTEJJMHpOWGFXM193cXZMWklPUXdCVTFZa3NzQnktdUtLRzlTWEdfcHd4ak9PUmtISl9iZlltcDZqQzJ0Y0tpWG0wQVAtN1ZOLU9UaW5McGRycVFLaFIzbU9CVjVDZ0hfa1FYREc3c01FRGU2UndVVnlraHJHQVNWdHhVbTlITXF4TUNUTGRNaHRJeFFOSWgxYktIYktHUHZFX0FJdUJRUHJkbXFqdw?oc=5",
+   "date": "2026-10-04T22:18:04.000Z",
+   "source": "GoNintendo",
+   "summary": "Saturday Night Live's Weekend Update pits Zelda's Link against GTA VI's Jason GoNintendo"
+  },
+  {
    "id": "gn-1japtsf",
    "title": "7 Massive Games Left in 2026 as Rivals Dodge GTA 6",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zNXFzUjNDUWZ3M19uR3VkazZmeU40ZzJyQ0ZJc2JyVkF4SDlNOUk5LTJHNHB2bGtIWFNYZDNTZVNiR3paRXg5c19rLWFsUk5adk9hYmVPZnNBeDZkMjNRWFdNcldSaDl1ZU1keGd2M1Y?oc=5",
@@ -194,16 +210,8 @@
    "title": "Grand Theft Auto VI developers literally forced Sony to develop QSSR technology",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV3JHV2N1ejFMaEEzQXJCNHhlR2o0Uk1Zby1GTnBwR0F5WkZJVTk0NGNjSzZjTVdLemRFcVR0d0lrRWpKSTM4cmtoTGlCeTVib2FtWkpwTmhXcDNreUVza0VZZFpIdFJLZktTaEN3ekYxaHd3OGZ3Vzl3cE5EUFlzbDlmMEl6SjkyVGhOU0pvSkRxMHAxa0htX2NMWS1wZUFMYVVSLXh0SXVnSkxxWGNDYnhyNTBpWmRWWlFV?oc=5",
    "date": "2026-10-04T19:46:01.000Z",
-   "source": "en.gamegpu.com",
-   "summary": "Grand Theft Auto VI developers literally forced Sony to develop QSSR technology en.gamegpu.com"
-  },
-  {
-   "id": "gn-1si2a6",
-   "title": "Saturday Night Live's Weekend Update pits Zelda's Link against GTA VI's Jason",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT2VEbW1HSUVZTEJJMHpOWGFXM193cXZMWklPUXdCVTFZa3NzQnktdUtLRzlTWEdfcHd4ak9PUmtISl9iZlltcDZqQzJ0Y0tpWG0wQVAtN1ZOLU9UaW5McGRycVFLaFIzbU9CVjVDZ0hfa1FYREc3c01FRGU2UndVVnlraHJHQVNWdHhVbTlITXF4TUNUTGRNaHRJeFFOSWgxYktIYktHUHZFX0FJdUJRUHJkbXFqdw?oc=5",
-   "date": "2026-10-04T19:18:39.000Z",
-   "source": "GoNintendo",
-   "summary": "Saturday Night Live's Weekend Update pits Zelda's Link against GTA VI's Jason GoNintendo"
+   "source": "GameGPU",
+   "summary": "Grand Theft Auto VI developers literally forced Sony to develop QSSR technology GameGPU"
   },
   {
    "id": "gn-mn945d",
@@ -218,8 +226,8 @@
    "title": "Major artists on GTA 6 album leaked by Spotify, with soundtrack news anticipated",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVG5PMFFLTVIxbkVmWFI2VEdER3NyZEQxZTJXd21jU0RrSlNRMXpwQVVncVQ0OExUd1l0cms4VVNIZ2pJbWRqbTF2WUpKQWgzSTQ1dE4wQXBzTGwyWXFBaTE3c2NNMWlzTExjNFpTSnNQSlo4bUFheTl6MXlPZXF1UUVZNDBLcWM2S1FpNDJpbWMwV3ZteHZRSG10SHBFdGF4ZDBVZkRVRW14R3NOSGdodHV4MTE5eE45bkxxWlR6WWFVZw?oc=5",
    "date": "2026-10-04T18:27:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "Major artists on GTA 6 album leaked by Spotify, with soundtrack news anticipated Notebookcheck"
+   "source": "notebookcheck.net",
+   "summary": "Major artists on GTA 6 album leaked by Spotify, with soundtrack news anticipated notebookcheck.net"
   },
   {
    "id": "gn-110h1ay",
@@ -282,8 +290,8 @@
    "title": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZHFsVC12ZzREUzRUNjRza18zMmVPaUpqWnJ2VTl3dGlsWXZvUnRNQ1picWw5T2ZQdXVYS3pRSVBrRS10MmRWY3VodERpOExLamg0WmwxSTYwWmVrZ09IUG1tVURjM08zdUJhcVFPeGZNZWtTS3V1WWZfUkVZWW5XTFZwMkVmejk2MWpIZXVBbTZpeHltV0NqbXFzYllDS2FKVHVjTWIyUQ?oc=5",
    "date": "2026-10-04T14:51:07.000Z",
-   "source": "Kotaku",
-   "summary": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live Kotaku"
+   "source": "kotaku.com",
+   "summary": "GTA VI’s Jason Duval And Link Make Their Final Pitch On Saturday Night Live kotaku.com"
   },
   {
    "id": "gn-1mtflfv",
@@ -332,6 +340,14 @@
    "date": "2026-10-04T11:55:19.000Z",
    "source": "OpenCritic",
    "summary": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Increase Video Game Prices OpenCritic"
+  },
+  {
+   "id": "gn-1v4fi4m",
+   "title": "PS5 gets major graphics update from Sony ahead of GTA 6 release - and it looks amazing",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOblVsaFhPdXRrSjdMQk03blFXMTl3eUhySS1yS2drekpXY0wyZlJRVW5jcEFLMzRQRmZueWVEV1ZxT3FnOEhlX3ZNb1NkUGQ5cVVLNVMxMTV0Um1tMXZNQnprZmFFSkNUemU5R2Jha0p0LXl1WmVreFdxQXZMRjd5eDVPOA?oc=5",
+   "date": "2026-10-04T11:48:59.000Z",
+   "source": "Indy100 | News",
+   "summary": "PS5 gets major graphics update from Sony ahead of GTA 6 release - and it looks amazing Indy100 | News"
   },
   {
    "id": "gn-1gzzcrx",
@@ -426,8 +442,8 @@
    "title": "Rockstar Games Confirms RDR2 Feature Has Been Upgraded in GTA 6",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmxmcnpKVXUtNEZxU0hseTJiT1lHcEZyMzNnMUFOamxKMUc5SjRIMVRHODdfMGpEeGNuLUdKdDRLMEtiWWJfLU03c3pIdGNuQ29JTndVLTlWT1FocWU2V1ZzSkFIV3VvT3lLd2J6SWNzWXNuVkZYYi16ZjAxRFhvSTMxeDI0M0FOY29mY05XNEhZTDBZZVRPaFk4cmFlLThWMTdjbzhR?oc=5",
    "date": "2026-10-04T01:12:16.000Z",
-   "source": "comicbook.com",
-   "summary": "Rockstar Games Confirms RDR2 Feature Has Been Upgraded in GTA 6 comicbook.com"
+   "source": "ComicBook.com",
+   "summary": "Rockstar Games Confirms RDR2 Feature Has Been Upgraded in GTA 6 ComicBook.com"
   },
   {
    "id": "gn-1mpxm8r",
@@ -450,8 +466,8 @@
    "title": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuV1dOamM5SndaNlpfQXlWQVNEOVV6dmhIb3BaMzl4QWFSQlBUU3NYYk5ocXctZm1jcldMYTJpaFdGV3VKX2k3dVBuSVZaYl91V3pHM0JOaWc0XzZ3NjZya21Qa1RHNzVL?oc=5",
    "date": "2026-10-03T20:03:20.000Z",
-   "source": "gamereactor.eu",
-   "summary": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push gamereactor.eu"
+   "source": "Gamereactor UK",
+   "summary": "Rockstar Adds Four New GTA 6 Images to Its Promotional Push Gamereactor UK"
   },
   {
    "id": "gn-2dty2u",
@@ -618,8 +634,8 @@
    "title": "GTA 6: Fans can look forward to a special Miami Heat event one day before launch",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTkNYdnBKcHVDWWpYVnhNekZDVUFvMGw3T1M5NnhXd1FVdVQxYm1FekJCZ0hGMVU5aEIxZk9kaWlrdzYtcFI1a2d2cGV4N3ZqZGUtMHlNMEl3YkpfT2RVVU9zTC00MzZSUU5acWRNa1BGX2E2dGJoZEt2NEpYaXU1N2dxOUJlMmxCVjUybnVBT3lCY1ZtTjRSV0RjcjRXQU9INTgyd0xvc1ZJNFNVTW1hOHFYa2dGd0ZNd1RQRnN3NFhJZw?oc=5",
    "date": "2026-10-03T10:04:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "GTA 6: Fans can look forward to a special Miami Heat event one day before launch Notebookcheck"
+   "source": "notebookcheck.net",
+   "summary": "GTA 6: Fans can look forward to a special Miami Heat event one day before launch notebookcheck.net"
   },
   {
    "id": "gn-19e3mj1",
@@ -644,25 +660,33 @@
    "date": "2026-10-03T10:02:26.000Z",
    "source": "Wccftech",
    "summary": "GTA 6 - Everything We Know About the Most Anticipated Game Ever Made Wccftech"
-  },
-  {
-   "id": "gn-rqxqq5",
-   "title": "GTA 6 rating pulled after revealing sex scenes and drug use",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZlNIdTdSc2FDUDhGMkxSWThuUFZIRXpJLXJiYXM4R0JKbm5HcXJfSklEMjZmeHczOVIzdzJBOTFMejJXS0l5MGhBZTF3bjNDTkxBM3BLVm9FZGZlaF84eVRJTDlfeEp0X1BZdXpLcjlDUVIxc2l1dk93bFhKVWt6R0lOS0R6Z2ZYczdXMVItbkF2MWxfX01ycXV1cEhybmE4ZEJV?oc=5",
-   "date": "2026-10-03T09:40:41.000Z",
-   "source": "Video Games Chronicle",
-   "summary": "GTA 6 rating pulled after revealing sex scenes and drug use Video Games Chronicle"
-  },
-  {
-   "id": "gn-1b3a6k0",
-   "title": "GTA 6: New screenshots with Pulp Fiction vibes and fresh details about Jason and Lucia",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcW50a3hYTXE1RGgwcDRwR2xyQ19BeHZkSUVtcFdlLXRIcWt1c1FmY3Q5YzVsMmlFUVIyMUZ4bW9hQkthOV9JNnYwa3g3SF9aU25uMWtSQkRzc1l1czNJbmxGak5vbUVubXNRYWgyN2pZaHNRY21adGNZV3JBNjdOc1UzWHlrVGtQRHJ4eFdxUmtZQWdaWklxdlltRzgzUmVrdXdNVmcxMmJxQXUxZDVrWjR2QWhIaHByQ0VYcHdXcFM1a0FmdXFiVWl3?oc=5",
-   "date": "2026-10-03T08:58:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "GTA 6: New screenshots with Pulp Fiction vibes and fresh details about Jason and Lucia Notebookcheck"
   }
  ],
  "community": [
+  {
+   "id": "rd-i9q4k0",
+   "title": "Sam Houser's Vision for GTA VI",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxvd2i/sam_housers_vision_for_gta_vi/",
+   "date": "2026-10-05T00:50:53.000Z",
+   "source": "r/GTA6",
+   "summary": "I came across this Sam Houser interview from 2005 and thought it was pretty crazy how relevant what he's talking about still feels today. He talks about his and Rockstars goal of creating realistic an"
+  },
+  {
+   "id": "rd-ltmlwz",
+   "title": "which location do you think you'll enjoy the most?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxv6yg/which_location_do_you_think_youll_enjoy_the_most/",
+   "date": "2026-10-05T00:42:08.000Z",
+   "source": "r/GTA6",
+   "summary": "personally, i'm gonna be exploring a lot of grassrivers and just chilling in vice city. ill definitely explore every location multiple times, especially for random encounters but i'm curious on everyo"
+  },
+  {
+   "id": "rd-12fiao",
+   "title": "How lots of people expect this game to go, apparently",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wxt4r3/how_lots_of_people_expect_this_game_to_go/",
+   "date": "2026-10-04T23:00:29.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/skytim- [link] [comments]"
+  },
   {
    "id": "rd-1pjpce0",
    "title": "Small things like this make me more excited about this game",
@@ -958,30 +982,6 @@
    "date": "2026-10-03T16:31:50.000Z",
    "source": "r/GTA6",
    "summary": "Seems like rockstar has up the notch for violence and sex for GTA 6. The thing that is shocking is nudity. If you have seen those videos on X before the extended cut came out, you'll know the nudity s"
-  },
-  {
-   "id": "rd-116e6xh",
-   "title": "Got the gator printed on a mouse pad",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwqv08/got_the_gator_printed_on_a_mouse_pad/",
-   "date": "2026-10-03T16:04:20.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Death_Ma5ter [link] [comments]"
-  },
-  {
-   "id": "rd-13f9fny",
-   "title": "Girls! How excited are we to play as a woman?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwq18r/girls_how_excited_are_we_to_play_as_a_woman/",
-   "date": "2026-10-03T15:29:12.000Z",
-   "source": "r/GTA6",
-   "summary": "Lucia will be like the first ever female main character in the GTA series! I personally am very excited to play as a woman and it’ll be a nice touch that she dresses so cute. I wanted to know if any o"
-  },
-  {
-   "id": "rd-12lf10h",
-   "title": "Nobody Is Even Watching Her… But Look at This 👀",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wwo8ag/nobody_is_even_watching_her_but_look_at_this/",
-   "date": "2026-10-03T14:11:28.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/HellBay1 [link] [comments]"
   }
  ]
 }
