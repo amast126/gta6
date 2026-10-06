@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-06T07:08:03.365Z",
+ "generated": "2026-10-06T14:20:53.627Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-06T07:08:03.365Z"
+   "checked": "2026-10-06T14:20:53.627Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-06T07:08:03.365Z"
+   "checked": "2026-10-06T14:20:53.627Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-06T07:08:03.365Z"
+   "checked": "2026-10-06T14:20:53.627Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-06T07:08:03.365Z"
+   "checked": "2026-10-06T14:20:53.627Z"
   }
  },
  "official": [
@@ -182,12 +182,140 @@
  ],
  "press": [
   {
+   "id": "gn-1lcs0ne",
+   "title": "'GTA 6' writer compares new hero Lucia to 'RDR 2's Arthur Morgan",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbmRLcGMzUkZEZDFtSkxwR2ZiZmkxdFFEaUEyV2RhcmE5STZhUEtJUHZiaTcwTUQxVlRSWXV3eW01SUFHUEw0MTM3Ujg5VjJYcEpwMzJ0YUNyWU1kU0tpdm1oMnVwOGtGQTNEa0JTTTRfUFNuTGRTbFFiOXFaekl1LU82aHZNdkhTZ21VclhiOU1idmlMNnBZVl91a19hT2tsanRhZjNHVFFCNzRi?oc=5",
+   "date": "2026-10-06T14:10:05.000Z",
+   "source": "NME",
+   "summary": "'GTA 6' writer compares new hero Lucia to 'RDR 2's Arthur Morgan NME"
+  },
+  {
+   "id": "gn-iimvma",
+   "title": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbTd2NzRNTkdxd0JkT0hhMXh4SkpybEZUdS1hZnJmcFY0Uzg0cVJvc1huOWhhdkRkRHh0TTQ0MWUxendrWVhNT1otMWMxYk1BX0dfZlk5ZGFTY2J6RzRFQ09hNU9nQ1VjaGVZTEg2TmozSUVMVTZjbGd0YlU4RmtLVHFEVzZWUUVtNWRKbFFTT2NaOHZWVVVpNGI5QXpUQW1rejlFaUtIWTQ5eV8wWXpSRmJ3?oc=5",
+   "date": "2026-10-06T13:45:00.000Z",
+   "source": "Nintendo Life",
+   "summary": "\"Nintendo Didn't Swerve\" - Product Growth Expert Comments On Zelda Vs. GTA 6 Nintendo Life"
+  },
+  {
+   "id": "gn-8zkbgg",
+   "title": "A Line From A New GTA 6 Interview May Have Confirmed A Popular Theory About Jason",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS0Z1eHE2R2M1b1BpNFpnY2N3MFoySzIwSWx5Ml93aTNmUmR6amIwbHZESnJuRGpWcGZLc0xyU2lib3otZExUWGgtdzhmcTYzYk5tS3NKQjJDdlJnX0hzcVVrU2xiYnZydG8yX3BtRkVoTTFRY3FQLWNuMmJDQmJtOWE5MTRRdXNjUU5PWEg2bkFNWTV1amtIR2hCbVhQVkc5dm9BVExFcFpINjVpOG1NUFBZU3psZw?oc=5",
+   "date": "2026-10-06T13:20:33.000Z",
+   "source": "OpenCritic",
+   "summary": "A Line From A New GTA 6 Interview May Have Confirmed A Popular Theory About Jason OpenCritic"
+  },
+  {
+   "id": "gn-5zif7l",
+   "title": "GTA 6 is Coming: Reported In-Game Cocaine Use, Wild Miami Life Research and More Ahead of Release",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHNDck1Tc29OTEx1MDdHalg4TmV2Z2tlU2xRZmtBWlNGYVFpOXJ6M2lLSF9aWUkwUjdRMnNRUVRtOGxrbGZiM1MtODJpMW5hRm9VOEFWMEZNTUdDM2R2eG9iOGZWWmhCWHJnRVlVUGJiZVA1bmppcHczT2xqM29FTDJvUmp5RC1Ndm56TlAxeEVRQUFZUjhhb0M3WEtDRjEweDlqTjNXNmp1dVVnYmNHSWMtVmhOQzJsejNBZnpfMlBreTF5T09XQg?oc=5",
+   "date": "2026-10-06T12:11:00.000Z",
+   "source": "The Source Magazine",
+   "summary": "GTA 6 is Coming: Reported In-Game Cocaine Use, Wild Miami Life Research and More Ahead of Release The Source Magazine"
+  },
+  {
+   "id": "gn-125r1dm",
+   "title": "GTA 6 – 15 Details That Reveal the Depth of Rockstar’s Vision (Part 3)",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjNtSzVEejlUVHcxd1E4MGdqT1FfTWdOSVZqd3RJbGZLWlRhYkRhcE92c0g2bnJoMHF2TmlhUWx2N2R5VERCLVdmVlpHZHoyWG5WdnYyMzkyQ3dxbHY0U2tRSWJ1QjNpSERWM240STBYTXRvcDY3SG04S2wtaE5pQ3plTkdsU3psR3dwZGZWeHhYdw?oc=5",
+   "date": "2026-10-06T12:05:28.000Z",
+   "source": "GamingBolt",
+   "summary": "GTA 6 – 15 Details That Reveal the Depth of Rockstar’s Vision (Part 3) GamingBolt"
+  },
+  {
+   "id": "gn-71ci07",
+   "title": "GTA 6 launch countdown threatened as Cyberleek teases sudden return",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHZHY2Y5d3VZczNsRHR6bFhqZVlnX0VFem54dV8tV0VjODRCelJyUUowWlRycGRRd3BjZFF2aHJyQ0Z5Q0hodmotZ0N6THpvRW1nRkVjMG1NbERfX1lieDVacHNOMnVFY0hwdTBjU05kV3BZU2VqTndJal9BdlIxd1pPUVV6SUxGUHFDUlNB?oc=5",
+   "date": "2026-10-06T12:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 launch countdown threatened as Cyberleek teases sudden return GAMINGbible"
+  },
+  {
+   "id": "gn-1q0rx4t",
+   "title": "Used PlayStation 5 Pro Consoles Going for up to $1,499 at GameStop as New Inventory Disappears Ahead of GTA VI Launch",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUEhOVnB3Z1NXM3B3UUE5OGswdHlhSVNCMmdndVF2U1puRUJOOWVDOWt1by1QdXhFM1lmTDdzZUZMLUVRZVJmaU1KUzNuX1BnMEJSaDBwZV9uWlNSVnR3QjhtTUMweHIwLUI0enhMcUQ3OUgtV2ZndDJKN2NXWjV2enZpcnBzdGstc3hjTk80UTVDTy1qYzJTbjBDNjBIYkpLTXZuUU1sNFViQlcwLXk5TXVUelF4NkVZMS1IN2hfa1FwYVEzSWVSa0FoZ19XdXF2WC1XYjg0aG1NRjRZYXBzOUMyVEt6MmNNc3ZtZg?oc=5",
+   "date": "2026-10-06T11:51:04.000Z",
+   "source": "The FPS Review",
+   "summary": "Used PlayStation 5 Pro Consoles Going for up to $1,499 at GameStop as New Inventory Disappears Ahead of GTA VI Launch The FPS Review"
+  },
+  {
+   "id": "gn-ngdcb9",
+   "title": "Rockstar’s GTA 6 Research Went From Cops and Gang Members to the Everglades",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFFmT216N2hVbUNXcjVvdHYyV1FKT3pTbi1zOGxpMExZX3pWY0hURWVuWVNpOEsyMC1TYTZHNW5SUFZZOGRwVVpFR0dBclVxZlVSeFdLR2tIZmphSlNUS1hYUkU4S21Yd1hVWk9iSWxzdUlXemlBNGlsMGVrVFlJN3YxRDB0bmIyeGE2Sk9xcVhKSF9JVnJTVWtVbkljUEdiaS1HeXNRYw?oc=5",
+   "date": "2026-10-06T11:05:32.000Z",
+   "source": "MotorBiscuit",
+   "summary": "Rockstar’s GTA 6 Research Went From Cops and Gang Members to the Everglades MotorBiscuit"
+  },
+  {
+   "id": "gn-jb1t79",
+   "title": "'There's Never Really Been Much Focus on National Politics' — Rockstar Says GTA 6 Won't Be 'Too Specific About Any Particular Person, Event, or Movement'",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pUXJXbXh4Q1k4enF6TXh4eUtPNTdudUs2WXY1SVlnWkVFLVpmWnl4M0NJbk5QUUJhY3ZpckF2c21EeXQtU1BIX3N2R1J0WURiZGU1NHpYT0hzclJmVkg4dA?oc=5",
+   "date": "2026-10-06T10:30:47.000Z",
+   "source": "IGN",
+   "summary": "'There's Never Really Been Much Focus on National Politics' — Rockstar Says GTA 6 Won't Be 'Too Specific About Any Particular Person, Event, or Movement' IGN"
+  },
+  {
+   "id": "gn-srz368",
+   "title": "As GTA 6 faces off against Zelda: Ocarina of Time remake, expert says Nintendo is \"the only company in the industry with a fanbase loyal enough to make that bet\" against Rockstar",
+   "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQTTQ4VVZYSFpBVWFybjltdzk1TnFCUUJsSVhEd2h5NTYyUlB5MXhEV3hmZmQ2Vk1FWGs1RVAyd0RhX21LTnkxYWZ2c1pmWm1FRzJMeC1RZ2lnMjE4SHJrNEZuWnp5eGM1OVJ3Q0FqZVV4V2FwNlNoaV9uU0M2ejRublZ5Zkg2bHlCQ1hoODByMlJZOG1fMzMxY1pDb1JvT3FxVXR1UjcyZkFRU2dRWGlmclAyenk2VFNRMHVjRjRGOUZ3eUtFbExoa004YmI3VlFHbEk1aWFZMC1MVXN2MXk1d1NSTTFNOFhLX1daVllnQU9ScWpzdlh4UG1xb2dYN1lhNXF6ajBFUFBpOXd6NHZIS1NtZUtBLUVoTDhNSHRYQmxNWVh1WjZteEs3ZG01RmYtTXFYVHhfLXZBRmUwZU5UbUlRVnVWUzdj?oc=5",
+   "date": "2026-10-06T10:14:46.000Z",
+   "source": "GamesRadar+",
+   "summary": "As GTA 6 faces off against Zelda: Ocarina of Time remake, expert says Nintendo is \"the only company in the industry with a fanbase loyal enough to make that bet\" against Rockstar GamesRadar+"
+  },
+  {
+   "id": "gn-jjucoq",
+   "title": "Rockstar wants GTA 6's political world to outlast headlines",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YdDRaN0FnQmNLN3l1dlAwX3YyUUpla2NwOXNULUJVSXRRYVV6b1JGWEx2QXVNb0hZdldfUFJKT3NuUTZDUUJ6ZHlLRHFaRGJBekwzU0FLQVZsdWtwWHdR?oc=5",
+   "date": "2026-10-06T10:00:00.000Z",
+   "source": "Gamereactor UK",
+   "summary": "Rockstar wants GTA 6's political world to outlast headlines Gamereactor UK"
+  },
+  {
+   "id": "gn-10kzdxr",
+   "title": "GTA 6 Might Not Make Fun of Real-World Politics Much According to Rockstar Writer",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlpyclRuTWNNYTk5d1JiX1diaVR0cndkcjRBNnlIV20ydFFyZGd4LUdyZFFUWjVJNkswc0doVEpkRUdVcU5oaTk0MmNxLWpINm5tSFFVcndEeUI0TkFUdVg4NDJyN1hRb3QtOE9ORFF2UW4zMkhhTU5WeENRQTBMOWV2cEt5WUM4VFVTMFR3c3JlOHFmbS1PV3RwWXpKWlRCRWhmeG5PNFdJWWVmTXoyZ2FxSjdMM1pyMGNVNjFSeTVBS1laV0E?oc=5",
+   "date": "2026-10-06T09:11:32.000Z",
+   "source": "IGN India",
+   "summary": "GTA 6 Might Not Make Fun of Real-World Politics Much According to Rockstar Writer IGN India"
+  },
+  {
+   "id": "gn-vb6711",
+   "title": "Rockstar Games Releases New Official Statement on GTA 6's Lucia",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjVFRDFGVkJzQWNoSjl1OFlKM1EtVzJnUkFVXzRySC1lb3FOakN5dks1OWJXOFpER1o2LXZlWFp4TVpMTHV2dWJLcFJtWWxDYTc0SDRxampmajJwTkEzS2RMM2NVTWN1Y21ZZ2Izc2RNaE9uR3dyazlSVFFrU09JX2h0OXM0aDBfcGFXekZvZlpiNkwxQkpaejM4TDE?oc=5",
+   "date": "2026-10-06T09:10:27.000Z",
+   "source": "OpenCritic",
+   "summary": "Rockstar Games Releases New Official Statement on GTA 6's Lucia OpenCritic"
+  },
+  {
+   "id": "gn-1jonj8v",
+   "title": "GTA 6 players can nab a free Ultimate Edition upgrade with this limited-time deal",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRVhnbkIwM0oyWkl2VGhpTEJjdjFmWDF1RkJHR0hyTFZWeXBYY01fd0FWa1VHQXhubHBhRl9jeDJ6dzhyQ1ctRVlmM0dNeXkzUFNENFVmV2FOSkswTzQ5cFd5YTRtclR3ejdpbVBza3RncEhnSGxueWVIa28tLTYxLWRmNkVxdmpJbXRWRlkxaEhrYlE?oc=5",
+   "date": "2026-10-06T09:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 players can nab a free Ultimate Edition upgrade with this limited-time deal GAMINGbible"
+  },
+  {
+   "id": "gn-1l832n4",
+   "title": "GTA 6 was compared to a real location and striking similarities were found.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZnZ5bzBmcjhQaUZ3OEVzQzNwUVJldG03UEhReERqS0R3VHhDUHVNZWRuMVA5WWwwSGhwQ1B5b0JQLTlERzVWVnNuOVlYRlZDbEcxMTRBYzdNclNxWkFxRmRUbVZ2UlFlem05TzA3Q0N1MGxYX0RpSmk1c2lmZE02ZHI2RGFXWDZ0RFYzWlREX2pvSDRrYXRLaEgzNGhqdllaXzlj?oc=5",
+   "date": "2026-10-06T08:58:42.000Z",
+   "source": "en.gamegpu.com",
+   "summary": "GTA 6 was compared to a real location and striking similarities were found. en.gamegpu.com"
+  },
+  {
+   "id": "gn-17m5p8e",
+   "title": "The GTA VI Rush Is Drying Up New PS5 Pro Stock, and GameStop Now Wants $1,399 for Used Units",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84Q3FRTmlKVVJGX3pqSlFIZmxMWDJfTm90Qzl4aHJCTkpnenZRVU9NQy00MUx4QjhTTkpkdnRXT1k3VWgxSUlXVTVsNmZlUzE0alVkS0I0eFVjT1FuRkVEUEhseXlNWnpEdFVRNtIBckFVX3lxTE5PTERZZWdnMlFqR3N0ZlRXWEplNGxfWWJDR2JUWG96QldYZjE1UFFuVi1rNXRDWXYzdWc0UURrZVUzWkdBTFNpellsZWRvODFkT2hDZVhxSFJCZGt5WldfdEsxNHVrQkktWGdtTXNiRmZiUQ?oc=5",
+   "date": "2026-10-06T08:00:00.000Z",
+   "source": "Wccftech",
+   "summary": "The GTA VI Rush Is Drying Up New PS5 Pro Stock, and GameStop Now Wants $1,399 for Used Units Wccftech"
+  },
+  {
    "id": "gn-1o2yj18",
-   "title": "Rockstar Researched GTA 6 Across Miami, the Everglades and the Keys",
+   "title": "Rockstar Flew Over a Beyoncé Concert While Researching GTA 6 in Miami",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXkxSEtlaUpteXVFTEhWcGQ5ZGE4X1MxWVRqTGhQTG9CeXNrQmp3djU0MlBJQ1hpcnd0MW44c0xJS0FRcHM3d0x5Nms1bFExMEctRzYxb2Rqd193cW9DNi1Pc0xwZy1BVWNpQUdLUHUwUk9RbXQ4NDBNYUdvdmptdUtvUWNobXBDVHVzejBGejducjItVmVaY2tDYw?oc=5",
    "date": "2026-10-06T06:44:23.000Z",
    "source": "GTA BOOM",
-   "summary": "Rockstar Researched GTA 6 Across Miami, the Everglades and the Keys GTA BOOM"
+   "summary": "Rockstar Flew Over a Beyoncé Concert While Researching GTA 6 in Miami GTA BOOM"
   },
   {
    "id": "gn-19tb20x",
@@ -218,8 +346,16 @@
    "title": "GTA VI will reportedly require PS5 firmware 14.10 or newer to block jailbroken consoles",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNelBRN2RjVWM0Y1p4U1NLT2FncHRtZmt2ZDgwV2RHUWpsTjcwV3lWWldHVk1NdUtfeWRXenYwNlpGVVNWeUNrbl9GLWF1dUpkMUdIRFpBeWpVYVNlc2UtUkxYWFREQndiXzRocGVMUDFpOE9YcW9zUkpiUmNDRlpxWGVRZ0o5blR6YVdBV2x3NDdIRDVQUDRkTldEcjZ2RG9odXBKaEd0akJ0ZUd2a1pkMGNnUEVmQlF4RHhPdU9KRGkzamducXEzSllRa2h2SGxFOXc?oc=5",
    "date": "2026-10-06T03:18:09.000Z",
-   "source": "tweaktown.com",
-   "summary": "GTA VI will reportedly require PS5 firmware 14.10 or newer to block jailbroken consoles tweaktown.com"
+   "source": "TweakTown",
+   "summary": "GTA VI will reportedly require PS5 firmware 14.10 or newer to block jailbroken consoles TweakTown"
+  },
+  {
+   "id": "gn-gshoz0",
+   "title": "Rockstar Games Issues New Official Statement on GTA 6 Politics and Culture War References",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXFYWmh0NzlCV3psczRKRmhBT0J2Y0c2SFJlZml2V1NSYm9oRTVtWXpXczVpbE81NkJLNlRCTGtmNGJYem1zNE5qRGJHT3l5U3VaYVVyVWFoVFFOVm5VNm41WXMycTAzZWVvb0JVSVFmTlpBVmlnSlFSdHNCbHA5d2s5TDFRczJaVUJUSnpydTlja3k4Rl9LaE52eUVHRzFWdWczcnJEdmVSUUR1bFo3VXptTXFUd0NXRmxuQ0Q3LUs?oc=5",
+   "date": "2026-10-06T02:49:39.000Z",
+   "source": "OpenCritic",
+   "summary": "Rockstar Games Issues New Official Statement on GTA 6 Politics and Culture War References OpenCritic"
   },
   {
    "id": "gn-1wzek10",
@@ -262,12 +398,12 @@
    "summary": "GameStop increases used PS5 Pro price to $1499, with GTA 6 release likely a factor Notebookcheck"
   },
   {
-   "id": "gn-gshoz0",
-   "title": "Rockstar Games Issues New Official Statement on GTA 6 Politics and Culture War References",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdXFYWmh0NzlCV3psczRKRmhBT0J2Y0c2SFJlZml2V1NSYm9oRTVtWXpXczVpbE81NkJLNlRCTGtmNGJYem1zNE5qRGJHT3l5U3VaYVVyVWFoVFFOVm5VNm41WXMycTAzZWVvb0JVSVFmTlpBVmlnSlFSdHNCbHA5d2s5TDFRczJaVUJUSnpydTlja3k4Rl9LaE52eUVHRzFWdWczcnJEdmVSUUR1bFo3VXptTXFUd0NXRmxuQ0Q3LUs?oc=5",
-   "date": "2026-10-06T01:10:18.000Z",
+   "id": "gn-1yhaa5l",
+   "title": "GTA 6 Devs Traveled With Cops and Gang Members for Florida Research",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0tQdFBNbjdOOVBtQ3d3MXYxTzJHR2FoM1RBbl9TU1FDRno1cW5GZ1Mzd3VyamNmNHB1STd3bUczU1ZiSzJxeXRQbjlWU09HdExUYi1fSzdEd2xlV0NLeDI0cTZuOUZISGpSdmlpbl9uVXlJTGtkY2VoTHByYlNYT1UxRVpfQmhvQUI2LXlQaTZJOWI4VzBGSEZWUV9aeXczbUJj?oc=5",
+   "date": "2026-10-06T00:24:37.000Z",
    "source": "OpenCritic",
-   "summary": "Rockstar Games Issues New Official Statement on GTA 6 Politics and Culture War References OpenCritic"
+   "summary": "GTA 6 Devs Traveled With Cops and Gang Members for Florida Research OpenCritic"
   },
   {
    "id": "gn-mc57zq",
@@ -276,22 +412,6 @@
    "date": "2026-10-06T00:00:00.000Z",
    "source": "Polygon.com",
    "summary": "GTA 6 Could Finally Fix Gaming's Huge Drug Problem Polygon.com"
-  },
-  {
-   "id": "gn-1yhaa5l",
-   "title": "GTA 6 Devs Traveled With Cops and Gang Members for Florida Research",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0tQdFBNbjdOOVBtQ3d3MXYxTzJHR2FoM1RBbl9TU1FDRno1cW5GZ1Mzd3VyamNmNHB1STd3bUczU1ZiSzJxeXRQbjlWU09HdExUYi1fSzdEd2xlV0NLeDI0cTZuOUZISGpSdmlpbl9uVXlJTGtkY2VoTHByYlNYT1UxRVpfQmhvQUI2LXlQaTZJOWI4VzBGSEZWUV9aeXczbUJj?oc=5",
-   "date": "2026-10-05T23:39:37.000Z",
-   "source": "OpenCritic",
-   "summary": "GTA 6 Devs Traveled With Cops and Gang Members for Florida Research OpenCritic"
-  },
-  {
-   "id": "gn-el5qt0",
-   "title": "GTA 6 Team Traveled With “Cops and Gang Members” to Research Florida: “Everyone is Lovely”",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZmZnMTdoWmxaUHRlc0JNUXlubE5SSWdvZHE1RHIwelMweF8tLUdMcGZNY0g5LTZFUEFMQlhpcXBmVGlxeTV4ZE1fYmNFc1dKZ1NQMG5HbERhbUZOTjdZcGM2U1RpeVdZMnJQZDJEdGZJczBhbndCXzRiSlI0VjJiVzV5bDM4d2g4Q0VSM3pKS3V0Y1Fvb0RTeVY3UmVra05vUnJIaGdwOE1Nc1o3?oc=5",
-   "date": "2026-10-05T23:08:32.000Z",
-   "source": "GamingBolt",
-   "summary": "GTA 6 Team Traveled With “Cops and Gang Members” to Research Florida: “Everyone is Lovely” GamingBolt"
   },
   {
    "id": "gn-1vla54w",
@@ -306,8 +426,8 @@
    "title": "Rockstar Travelled With Gang Members and Cops in Florida for GTA 6 Research",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzVJeHpOS19mdG5YM0dxZGU3MXczb2x5NDc3T1ItdERveFJCOXJXSnZ3bklGSG9NakxKUTctbE5WcUw3YWthclNFeUhqV1ZZNTRDcE53YlJMLXNvWF9pbnRUUl9UUGF6eC15a3hHY25fYlcwc19DN2ZlUzlCUmhlNi03QzNfaGpPM0thd3N3?oc=5",
    "date": "2026-10-05T21:21:38.000Z",
-   "source": "Shane the Gamer",
-   "summary": "Rockstar Travelled With Gang Members and Cops in Florida for GTA 6 Research Shane the Gamer"
+   "source": "shanethegamer.com",
+   "summary": "Rockstar Travelled With Gang Members and Cops in Florida for GTA 6 Research shanethegamer.com"
   },
   {
    "id": "gn-k8vcl3",
@@ -345,9 +465,17 @@
    "id": "gn-6lytgw",
    "title": "Why GTA Studio Co-Founder Is Avoiding GTA 6--And All Open-World Games",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEFOdE9UTTJQdU9lWDRraGpKTUpGZ1VVdjhqT0JtWXZiV0RyU28tRExoeWFZaHRwNTIzMjUyNlk2VnBGUllScHhQdFNjb3JJeW1uM1JkOGFJOHNabGQwWGNhbmc5OUJZWTFZUXo0VUNKbVF6THJQLTdOWGdlQWl1a1gxaHBDU1NzZVpTSEp5WmIyRzZOazVXRm1wNVNLa2RNU1I4N3RR?oc=5",
-   "date": "2026-10-05T18:07:59.000Z",
+   "date": "2026-10-05T18:06:23.000Z",
    "source": "GameSpot",
    "summary": "Why GTA Studio Co-Founder Is Avoiding GTA 6--And All Open-World Games GameSpot"
+  },
+  {
+   "id": "gn-el5qt0",
+   "title": "GTA 6 Team Traveled With “Cops and Gang Members” to Research Florida: “Everyone is Lovely”",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZmZnMTdoWmxaUHRlc0JNUXlubE5SSWdvZHE1RHIwelMweF8tLUdMcGZNY0g5LTZFUEFMQlhpcXBmVGlxeTV4ZE1fYmNFc1dKZ1NQMG5HbERhbUZOTjdZcGM2U1RpeVdZMnJQZDJEdGZJczBhbndCXzRiSlI0VjJiVzV5bDM4d2g4Q0VSM3pKS3V0Y1Fvb0RTeVY3UmVra05vUnJIaGdwOE1Nc1o3?oc=5",
+   "date": "2026-10-05T17:47:03.000Z",
+   "source": "GamingBolt",
+   "summary": "GTA 6 Team Traveled With “Cops and Gang Members” to Research Florida: “Everyone is Lovely” GamingBolt"
   },
   {
    "id": "gn-1hkzorp",
@@ -385,7 +513,7 @@
    "id": "gn-1cw0b4t",
    "title": "How Is A Game Like GTA 6 Actually Made? Here’s How Rockstar Gets It Done",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWZ1YW9feDNXOTc5R1VZTFlxNThCbFJMak5NU0FRdXd2bTQ5NGhiWWtBa1Z0UE1rSnpxNXZEVlQwRFVvM2VmaDI4OEYwalNUOTY3d1czY01YWWhvWHQxWFpVTHhfWGRXeDA4X2k1SVA0amt2QXRsbUhSdmtVa0xkZFUzc1I2enVCWFVrLV9NUTAxRW1ib0t2NXBTTmZjLWVFU1RLZ2pVcS0?oc=5",
-   "date": "2026-10-05T16:35:41.000Z",
+   "date": "2026-10-05T16:32:43.000Z",
    "source": "GameSpot",
    "summary": "How Is A Game Like GTA 6 Actually Made? Here’s How Rockstar Gets It Done GameSpot"
   },
@@ -532,137 +660,65 @@
    "date": "2026-10-05T13:41:54.000Z",
    "source": "Martin Cid Magazine",
    "summary": "GTA 6’s Deleted PEGI Rating Shows Decapitation and Drug Use Built Into the Gameplay Martin Cid Magazine"
-  },
-  {
-   "id": "gn-ejky5w",
-   "title": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\"",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNOTNidVUzTm84b0NMR2pYcF9iUk96eXQ2eHdHVjNYRzNuWVozUEZPZ3kzUlp1bTZXOGJjNFEyN3JScGg1a1JNUzI0NU91V1hmZElSb1hmcFlhNmhrRG85OERVYW1BOUdZT1VkYnI2amFIM0VVU3NfTVBXRDBCaWxDYXkwa2tjaENxVU1ZS09GMC1HNmU2cmpGUUkxRmdIODZTb2xQM1dzMk1sbmdhOUU3b0ItYWI4c0hpRkJNbjdlbS1TN04xQ3BpMXhyU3k4Q2JETmZKaE1wVGdyNS1lLU1nbzVkRmlOM0htWnRlWE9CVWFWeDNyVy1NWkJyNnAyLUM2X0dJQnhEOG1JZw?oc=5",
-   "date": "2026-10-05T13:23:13.000Z",
-   "source": "Rock Paper Shotgun",
-   "summary": "GTA 6 writer says the series has never had \"much focus on national politics\" beyond GTA 4's war on terror, and the latest entry won't get \"too specific\" Rock Paper Shotgun"
-  },
-  {
-   "id": "gn-1fvk9fz",
-   "title": "Miami Heat Plan Vice City Night Against Bucks Ahead of GTA 6 Release",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX1pPRFNSYlRCQU9YUkJhaTVYMFR6T2d5Y2VQNnRabnVydjVXS2xZX25obVhHNzdXRHJQWHlidHhkTTEwVVRXRHZVMDNkS3hmS3JDeDhHREVzS010Q0VBaDFHcUt5VEdUbzZhRXdSZFBFYWxYNndMdEZheHhyQUJodmtJMnJaWmRPWm10MGh1Q1JYaUtwT05DSE9MS2Z6c0M2dmlKNGhqd0tuNko5TDR1cGZGZmpjUkExaGJ4a2xTcGJDajc4WF82UWNzbjIybkt6TWNMdg?oc=5",
-   "date": "2026-10-05T13:00:00.000Z",
-   "source": "NewsRadio WFLA",
-   "summary": "Miami Heat Plan Vice City Night Against Bucks Ahead of GTA 6 Release NewsRadio WFLA"
-  },
-  {
-   "id": "gn-3eowdn",
-   "title": "Pulled GTA 6 PEGI Listing Detailed Cocaine Use, Paid Dances and Dismemberment",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEdod1ZqcWNIcUZPWEx2UHV5U2ZvLU5QNlpLV3VmeGJNT1kyd29SdzdLQk51bE1zNWRxbkJtVUJwOUVycExBbTNYRHh3NHJGZl8ydE1SZVpkb3RQSWwtT09jMkJURXZfdXJCNFY1M3EwTFhwczRhOFRxa1pOandoYm8ycUNfU3NUS1luWWl0UkE1aHFuY3lwVUhaTmRrQQ?oc=5",
-   "date": "2026-10-05T12:53:23.000Z",
-   "source": "GTA BOOM",
-   "summary": "Pulled GTA 6 PEGI Listing Detailed Cocaine Use, Paid Dances and Dismemberment GTA BOOM"
-  },
-  {
-   "id": "gn-1plibif",
-   "title": "GTA 6's Lucia has big shoes to fill, and Rockstar's writers explain their confidence",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeURPSTMxQkRDX09FV08zb1U2UDNxT2VjMk9SR3ZIMmJvSjQ5VTJEaWJPMDIxd01Zckw4a01QcC1JQVU4WTdObHRZUXlDOUtRZnJ5dGc0cG1GRjFOUnFFT2RyZGJTbmpCNG9PekN3cG0zS2ZCM0ZQS0RSWE5mVjRoNzAtMFNNWVNwblE4dkNhRlBTTjhhMnZMWnJWc0VleUR5b2VfQU5faVlsbFdjeW51dks4bTI3RWEyTVI0NkxCTlFVV21mc1B6aEJB?oc=5",
-   "date": "2026-10-05T12:46:16.000Z",
-   "source": "tweaktown.com",
-   "summary": "GTA 6's Lucia has big shoes to fill, and Rockstar's writers explain their confidence tweaktown.com"
-  },
-  {
-   "id": "gn-17qqass",
-   "title": "Florida offered Rockstar more than just a setting for GTA 6's return to Vice City",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ25DdDBvQmtiRGtSbW9qN3Jhc0FNZVl6N3IyeDc0dHRoWWxKb0d6VG8ycElnSWUtNDAtYWhJcUlwNTRqMHVycTVzbXYxbUl4YTFUOHlMY2NtU1ZsOGVibE9pUVpJRDRLdjU3bFlYZm44LWNjc1NwWkZZc3AxNzF1QnRmVUh1QWx3eGxoeFFldGNZbVVqRFNJZHAtejhKN1h1RmozVUp2QjYwdzBfbC1ISlE1QWN5TDRXc2pxYjFFdERKQ1ladzMxNw?oc=5",
-   "date": "2026-10-05T12:21:10.000Z",
-   "source": "tweaktown.com",
-   "summary": "Florida offered Rockstar more than just a setting for GTA 6's return to Vice City tweaktown.com"
-  },
-  {
-   "id": "gn-sjh04",
-   "title": "Looking for the perfect gaming TV in time for GTA 6? This LG OLED TV is my pick, based on my real-world testing",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNk1seXBXbjd4d3h0a05PVFRQQnltNy1ZQ0RuNWxLWVA4NE9xb0dfR0drOWxwMS1DZ0RnTHYtZVZkVk1lNVJjRTJELVVaVlJmSmtWY0Ywa0NTckhIS2VKemZwTzVYNUEwb2tJMkNHaGtGaHZ2cnpxaWtfczBZLVcwTzljREJ2UkN2ZW13M0lrSzJkWGpmMFhWQlg1SjUwZExxeXR0dnk4MFJxM3IyZndoN2RhVktGcUVMZVVvdHBQSGtmMWJpN0ZiS1hRQXFYbGpEVFlwMDExLWIzLWNTc1hDY2tqYUdRallMTU1oRA?oc=5",
-   "date": "2026-10-05T12:08:44.000Z",
-   "source": "TechRadar",
-   "summary": "Looking for the perfect gaming TV in time for GTA 6? This LG OLED TV is my pick, based on my real-world testing TechRadar"
-  },
-  {
-   "id": "gn-1kmu3ug",
-   "title": "Rockstar reveals the work behind one of GTA 6's most easily overlooked details",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaDhsLXpfbWRZUDgydGtGY3VjVE9ONVg3Rm56UWUtZV9JUlk2clRpdERaOWh0V3gyOUg5cDhPcVAzUkJiODRWaXpMcGJ5S2hWR0xKd3hwcHBTS25oU2tpZzU3elJTQk01RDZ0NWNwZ1h6Q3hqMVFJcVZQSy1TMk8zZUZpbDRMeEVMaEhIaHRBcE5lem1meDdZRjUwam9MbjF6cGlHcTVjUDB3SlNsTjJrekU5UDJQMTFiRG8xWnNCdWJVeEt4?oc=5",
-   "date": "2026-10-05T12:04:13.000Z",
-   "source": "tweaktown.com",
-   "summary": "Rockstar reveals the work behind one of GTA 6's most easily overlooked details tweaktown.com"
-  },
-  {
-   "id": "gn-xughlh",
-   "title": "Naughty Dog is working on new The Last of Us games, GTA VI developers were forced to visit strip clubs and relax on Florida beaches - the most interesting news of the week",
-   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPR2FUdm9BSmpCUWo1dlBuZW1TekpSNFVCeWFCSWZ5ZEtYaUFKLVJjTlBiRVJtQ2xyeHlFRi1ySEYwVzFYeWVBMDZSekJfMTRDSEFRM09YaHhQNlVmOW1vV0xudEdoTlRSRzNPeUJST25jSTJaeHNPa2ZyYXBxY1V1X19WZlJXek93cDBRTzVxT3BVZGVGekdBVVYxSlBLdjhoRDZMSElMXzZfd1g3b1N3SnhNWHRhWTdTbG9GSmNBNjFsaTJPM1FBRVF5RWsxNmwxUUxlQ1hWeVNJbG83YUxKRnE2Q3dZZjJhcGZJLVBoNDFlakk2TG5JUkdlWG4wYW43TnQ1N3kxRlQ4b3VGT1pzQ3ZhRFdfbkRBdVV2bWgwTERvaVNXOVZkcUdrYndYaDB2MDRENlhoVi1XVlNMVE4ycNIBxgJBVV95cUxQZkhPWTZoTG9PZ2p5Yko1WXlJU1YwNU9LRDUxRTdZa0p4ems1anhrYi04dVFFaXFKaWpqOEp2cGlrem05VUR2b3JWeHpMNkhjMU1Ea0JKTjRMN2RRQWtSUldmTm1mWTBpV2M3akJCYS1SVEtqNUhVc2tuQzRUR1ZJeFE5VlJ5SWNqZkZ1QnhpaGt3VUpiU1dBbEttZGxxMmUtSmRMellZR2hWRXdhejYyTmtfVk92b0RnM3h5b2Q4WURiU1JHbHZfMmVSYWV3S09FcURJekZfekx0NkhBMmx4SlhsSHgwWndWVVNuWHRQdWJQV1RfUzg2dndpdWxPc2twenFjeTFGelBFd3ROenJYVjk5clBKLVdGV29KaHhuQlVwNkVNYTBxN2N6M0VTdXhoOEQ3eHo5YVJaeS1WQ2tYNUJtRDVHQQ?oc=5",
-   "date": "2026-10-05T11:47:09.000Z",
-   "source": "ixbt.games",
-   "summary": "Naughty Dog is working on new The Last of Us games, GTA VI developers were forced to visit strip clubs and relax on Florida beaches - the most interesting news of the week ixbt.games"
-  },
-  {
-   "id": "gn-12jcomb",
-   "title": "‘GTA 6’ battles Zelda in “Barbenheimer” of gaming on ‘SNL’",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcmt6UEx0T1NrOTRKUmxFQS11bGR3Q2Z5blpneVdwaU1sZlZITnRPaFBUWl9PTDZPd2lCUWJFSWlzcVV5WWxsdG16ZlRDaHBPMzZWU25tTE9zU1gyTXlrelRSdWZ4YkZUMjVQaHN3ZzBJdU9YSG9wYUtpazBUejNISXJHSjJpZ3oweEVPT1AzVklEdmdTTEpoT2xtbDRxVEdQWmZYVXpiemlEUHY1Q3pUcWV4SQ?oc=5",
-   "date": "2026-10-05T11:22:00.000Z",
-   "source": "NME",
-   "summary": "‘GTA 6’ battles Zelda in “Barbenheimer” of gaming on ‘SNL’ NME"
-  },
-  {
-   "id": "gn-1uk3s31",
-   "title": "GTA 6 boss says Rockstar has to \"forego realism\" for the sake of the players: \"Realism can help greatly with immersion, but too much can feel tedious\"",
-   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPajFaZUZtMW5HRV9lemZNTlBkOHoxNTBOelFhNC1uZ3pvUkdpVW1pcFEzd3hqSFZEdVdpdEs3V1BhQm5LMjN3OGJrX2ZXSHoyQ2E2X2RNUElaR1lrTFRreTlGQ3VVdjBud3J1N3hicE9ydm1maXNZNl9Mc0hob2E1aXVFWGg2NGs0NjM5RmRYV1BHM0dDUG02Nkd5U2xNZi1NQVJINzJEYWViTWVkZElJd19rdVJOY3hKeVBmbi1TajQ3U2ZBU1QxVmo4NXd1bm1tQW9VZ00tQzNXTVR1UUJXanpTLUY0VFdxQ3BwejNxeElmVVhsVUsxeXFmUklGenJHUzR5VlIzbU9DSXBTUnd3MFNtMVlpRy1BczVLdUMxemI?oc=5",
-   "date": "2026-10-05T11:08:15.000Z",
-   "source": "GamesRadar+",
-   "summary": "GTA 6 boss says Rockstar has to \"forego realism\" for the sake of the players: \"Realism can help greatly with immersion, but too much can feel tedious\" GamesRadar+"
-  },
-  {
-   "id": "gn-yuy1q7",
-   "title": "Warhorse Studios Co-Founder Isn't A Grand Theft Auto Fan, But Hopes GTA VI Success Will Lead To Higher Game Prices",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVlBeGtKTC16cWRSaFZRcFFHZ3lDY1o4Q3ZxeUhiaDlvdU0tbl9FM1NjdFA3YmZvLWJRdXplUmFFS1k1MWszaS1tMXNSM0UtWVY2RVY1QXhMV0JqMnJjODZBUzlhQ24wQUVfd3lQQThBb09ycGZiUlRFQWJLRXlBZWl2UjF0U2JMMHZj?oc=5",
-   "date": "2026-10-05T11:03:32.000Z",
-   "source": "PlayStation Universe",
-   "summary": "Warhorse Studios Co-Founder Isn't A Grand Theft Auto Fan, But Hopes GTA VI Success Will Lead To Higher Game Prices PlayStation Universe"
-  },
-  {
-   "id": "gn-1tcm49l",
-   "title": "GTA 6 will show 'what the American dream looks like now' in a game without background characters",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORk5IYmZkOWk2WHdLamNzd1dQellySTF2SE1CS1VaVElDcEthLXhmVHYtUDhWa3Y4ckw2eFhfeURrUUk3WGtfbk5xbDdTZE42RGdMN0VpVDZqV0RJOW1zUXRzaV84LUZybUxrRThYT3RLRXRjUFhkbFREVHJGV0I3VDMzMGhRV2d0MDUw?oc=5",
-   "date": "2026-10-05T10:12:25.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA 6 will show 'what the American dream looks like now' in a game without background characters Polygon.com"
-  },
-  {
-   "id": "gn-1qxdilp",
-   "title": "Dan Houser is ignoring GTA VI on purpose",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zOWZGU2VUQTVGYmxQOE5lZlhxV0EtendiaWZNNzRhOUtYQm1fbTNfQUlZbVB4amt3dnl0MjFFMHVMY3BpRGx5NTUyR3VDVnEyOC1YYU02bEt3R2RlNHRVR1huZ3luNm9GSGNBZ1R1YkpiT3h6eXlOZ3FiTG7SAYIBQVVfeXFMTnFlNHVrelVEOEVpY3JzelJTSzhqNm05ZnpqaGlRbVd4M1dsRTNSd19HNW4xdlcxazBYUXoxVUNzYmw4NDNVR05yNWtjbTUzX1JTdk95N1gwZU9DMHBxYmY4WURHMTJuNDNzYWpfMzlTRjJ0dnZnOUxWYUZKN3Z1akVWZw?oc=5",
-   "date": "2026-10-05T10:05:14.000Z",
-   "source": "Gagadget.com",
-   "summary": "Dan Houser is ignoring GTA VI on purpose Gagadget.com"
-  },
-  {
-   "id": "gn-627fwm",
-   "title": "Rockstar travelled across Florida with gang members and police officers for Grand Theft Auto VI research",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnhxRUUxTVAyb3lsTzJ5WUZrSmF3VHFPbHBlMnNEUmwwbllIajRQd2hvdWhFQjQ0R2dGZzVZSjRuc196MWhiQmZWNU14aHY0VU9GV0w1a1hta0Q4UEd5MGIxV3hXZVo4b19nSnd4OUxBeEkwaTV1ZTN3TExwSVRod0ZSdjlDV1V3ZHAzQ245YmpHUXliRHJxaFp2OFhER0xFRHBKOFFFcHNkbmRlZlZuRXh2V3FRQnVuUVBzOUVROEpzeU1udDA2bVpqZEkxZmR5b3ow?oc=5",
-   "date": "2026-10-05T10:00:19.000Z",
-   "source": "Female First",
-   "summary": "Rockstar travelled across Florida with gang members and police officers for Grand Theft Auto VI research Female First"
-  },
-  {
-   "id": "gn-11h4bbv",
-   "title": "GTA 6 is deliberately avoiding direct political references, says Rockstar",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTzdzcGxuVzdrTmtLb2xuMkpJcGxMeEhGUFZCSFRNcDktUkw1Y29zTEZhMl9LVC1ZZnpHbDhOTTJlUHhfYmY3TmczcWF6QWFVdkZqV3RSaEtvTDZCTGV0SkZadC1WQmJsQWo4b3A4dFppcmtBMnhLZE5vV3pqOHRfc3VyVFg5UmRnZVVObnBNVXlpUThndWNTcFhheU9ibWlSSUZrYnJPbmszTUZaR2s1S0NqeW8?oc=5",
-   "date": "2026-10-05T09:57:26.000Z",
-   "source": "Video Games Chronicle",
-   "summary": "GTA 6 is deliberately avoiding direct political references, says Rockstar Video Games Chronicle"
-  },
-  {
-   "id": "gn-ry3a61",
-   "title": "Several writers have been brought on board for the GTA VI backstory",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0hRQzM2OFUxYUVuR0JFVGNsYTVxVllRZFZlWXM3XzJ6RlBmRjJSLWNXVTFkLUUzMkVqZThKWi1xbjBFaVkxcTBNVlZyZGZpcGlEcS14M0FlcnhMQmVFSTgwdTg4SFl1aFJlWkZLdElIMnlBSnhnbVpGR2xBRmJhbHJheTlTMGY5MHZjU2tFMlRscTFoeWRoUXFqbHFJNlhJeEhoNlZnVEQ0X3Fva3JFYjB6a0hGeHJi?oc=5",
-   "date": "2026-10-05T09:56:32.000Z",
-   "source": "Instant Gaming News",
-   "summary": "Several writers have been brought on board for the GTA VI backstory Instant Gaming News"
   }
  ],
  "community": [
+  {
+   "id": "rd-10oce4u",
+   "title": "Parents, how do you plan to play?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wz3cor/parents_how_do_you_plan_to_play/",
+   "date": "2026-10-06T14:00:15.000Z",
+   "source": "r/GTA6",
+   "summary": "Whether you're a parent of a young baby or of a child, how do you plan to play?! I wish I could play more than 1h at a time, but I don't see how to do it without sacrificing my sleep! :O submitted by "
+  },
+  {
+   "id": "rd-1d1pz6c",
+   "title": "Made GTA 6 theme on garageband",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wz29d8/made_gta_6_theme_on_garageband/",
+   "date": "2026-10-06T13:12:44.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/DisastrousTip5938 [link] [comments]"
+  },
+  {
+   "id": "rd-opfr14",
+   "title": "Theory on why gambling is possibly not included as per the PEGI rating",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wz22lw/theory_on_why_gambling_is_possibly_not_included/",
+   "date": "2026-10-06T13:04:22.000Z",
+   "source": "r/GTA6",
+   "summary": "I thought not having gambling was weird since both GTA O and RDR2 have it. But I think I've figured out why. They want to make making money a core part of the experience in this game which is why they"
+  },
+  {
+   "id": "rd-1ib4usf",
+   "title": "GTA 6 Ad in Tirana, Albania",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wz1svp/gta_6_ad_in_tirana_albania/",
+   "date": "2026-10-06T12:52:32.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/9kGFX [link] [comments]"
+  },
+  {
+   "id": "rd-1uq6yxb",
+   "title": "Release in 44 days - extended look released 40 days ago!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wyy44n/release_in_44_days_extended_look_released_40_days/",
+   "date": "2026-10-06T09:25:25.000Z",
+   "source": "r/GTA6",
+   "summary": "Mods please don’t remove I can promise this was high effort 😭 submitted by /u/Pepperrpott [link] [comments]"
+  },
+  {
+   "id": "rd-smuvrd",
+   "title": "GTA Vice City was my first game. GTA 6 will be my last. Thanks Rockstar❣️",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wyw35f/gta_vice_city_was_my_first_game_gta_6_will_be_my/",
+   "date": "2026-10-06T07:07:55.000Z",
+   "source": "r/GTA6",
+   "summary": "So today is the day I am finally going to preorder gta6 and honestly I feel very happy but underneath the excitement I feel litlle sad. I started gaming in 2010 on a Pentium PC with Windows XP with gt"
+  },
+  {
+   "id": "rd-773yp",
+   "title": "What's your guess we are getting today from Rockstar?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1wyv6u0/whats_your_guess_we_are_getting_today_from/",
+   "date": "2026-10-06T06:10:16.000Z",
+   "source": "r/GTA6",
+   "summary": "In case we are getting something at all. I don't think it will be a trailer. Maybe it will be just silence. Let's see submitted by /u/MightElectrical2397 [link] [comments]"
+  },
   {
    "id": "rd-sgllot",
    "title": "Another crazy small detail in trailer !",
@@ -926,62 +982,6 @@
    "date": "2026-10-05T00:50:53.000Z",
    "source": "r/GTA6",
    "summary": "I came across this Sam Houser interview from 2005 and thought it was pretty crazy how relevant what he's talking about still feels today. He talks about his and Rockstars goal of creating realistic an"
-  },
-  {
-   "id": "rd-ltmlwz",
-   "title": "which location do you think you'll enjoy the most?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wxv6yg/which_location_do_you_think_youll_enjoy_the_most/",
-   "date": "2026-10-05T00:42:08.000Z",
-   "source": "r/GTA6",
-   "summary": "personally, i'm gonna be exploring a lot of grassrivers and just chilling in vice city. ill definitely explore every location multiple times, especially for random encounters but i'm curious on everyo"
-  },
-  {
-   "id": "rd-12fiao",
-   "title": "How lots of people expect this game to go, apparently",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wxt4r3/how_lots_of_people_expect_this_game_to_go/",
-   "date": "2026-10-04T23:00:29.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/skytim- [link] [comments]"
-  },
-  {
-   "id": "rd-1pjpce0",
-   "title": "Small things like this make me more excited about this game",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wxstus/small_things_like_this_make_me_more_excited_about/",
-   "date": "2026-10-04T22:45:45.000Z",
-   "source": "r/GTA6",
-   "summary": "The minuscule details, the text on the tee warping as Lucia grabs on to Jason blows my mind. submitted by /u/itcurvetotheright [link] [comments]"
-  },
-  {
-   "id": "rd-6is6ic",
-   "title": "WHAT TO WATCH BEFORE GTA VI",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wxslzv/what_to_watch_before_gta_vi/",
-   "date": "2026-10-04T22:35:13.000Z",
-   "source": "r/GTA6",
-   "summary": "Hey guys, I was thinking, we still have a little over a month before the madness begins, what movies/shows/games to watch/play before Gta VI releases? Not asking because I’m bored, I’m asking because "
-  },
-  {
-   "id": "rd-j3hrc6",
-   "title": "Vice City mural being painted",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wxr5rr/vice_city_mural_being_painted/",
-   "date": "2026-10-04T21:30:02.000Z",
-   "source": "r/GTA6",
-   "summary": "Spotted this today while in Wynwood! There was also an official photographer snapping pics of the painters submitted by /u/heavilyThinkingAbout [link] [comments]"
-  },
-  {
-   "id": "rd-14ff07r",
-   "title": "How will you “run” Jason and Lucia? I’m thinking gym rats on coke who both have psycho criminal profiles 😂 but that little soft spot for each other 😂😂",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wxpw6i/how_will_you_run_jason_and_lucia_im_thinking_gym/",
-   "date": "2026-10-04T20:35:58.000Z",
-   "source": "r/GTA6",
-   "summary": "Hitting the gym vs Burgers and fries! submitted by /u/TimmyTurnersDealer [link] [comments]"
-  },
-  {
-   "id": "rd-zx8sdv",
-   "title": "Leonida Keys conveniently left out of GI article",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wxol92/leonida_keys_conveniently_left_out_of_gi_article/",
-   "date": "2026-10-04T19:41:54.000Z",
-   "source": "r/GTA6",
-   "summary": "With all the discussion about whether or not a representation of Key West will be in the game, I think it’s kind of funny that in the GI article discussed only 5 of the 6 areas of the game. Leonida Ke"
   }
  ]
 }
