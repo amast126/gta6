@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-07T17:43:19.657Z",
+ "generated": "2026-10-07T22:35:17.615Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 6,
    "scanned": 40,
-   "checked": "2026-10-07T17:43:19.657Z"
+   "checked": "2026-10-07T22:35:17.615Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-07T17:43:19.657Z"
+   "checked": "2026-10-07T22:35:17.615Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-07T17:43:19.657Z"
+   "checked": "2026-10-07T22:35:17.615Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-07T17:43:19.657Z"
+   "checked": "2026-10-07T22:35:17.615Z"
   }
  },
  "official": [
@@ -182,6 +182,94 @@
  ],
  "press": [
   {
+   "id": "gn-aypret",
+   "title": "GTA 6 may be the last blockbuster built without AI",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkt3aEpNNGEydzYwOHE3LWlDaG5zaE1uWDJWeWRmaHowNmVCTXVta0xnanhzRjdjV2wtcmFqUFhvbldjbzFLeWdwcm5pWno3TWs4V1VkVl83RnBWa2I5UGJSS0xicUFDbEo0X0hkb1k5eWJDcmFQWm1uR3I1UHlueXhQdkFqc3hlMXNhc09XdFVkcVdU?oc=5",
+   "date": "2026-10-07T21:47:03.000Z",
+   "source": "Yahoo Finance",
+   "summary": "GTA 6 may be the last blockbuster built without AI Yahoo Finance"
+  },
+  {
+   "id": "gn-1g0ywrc",
+   "title": "Attention GTA 6 fanatics: I've handpicked a headset, a controller, and a TV that you should seriously consider upgrading to before the game arrives",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPWTYzQU5oQkpIOE40a2w0dEQ3NDhoOHh4cTJVUWtyVC1mLU02WXpKcGdJdjBRMl82WUh1MXZfc0d3UjNZQzkxMG1pcTctTjBrSTl4MERCamRWN09nZTNtVjBUYkJ3TVVNRDQ2dkptMWdOYlJvR1FBNk5SbVpXVWxkdmVBWm5yc3hXUVgtVWdwQ1JlVzV3QUUwMkdHWnU2VnQ3WDRvdFdKcmx1WVZxVEsxM2FEWDlqb2tIQlBidERnV1FwREZ1SEFDWHdVaVNLM1RpOUFnb1l6aldTQWdfeTNRX1FsVFRxX0RobnB2ZTlCbzZ6N0ZkYU9RdkpuT2gwWm9qOXJ6eW56eHpGVlVVOTdYTkFxMnhHbDZZaG4wN0h5c2JOQndl?oc=5",
+   "date": "2026-10-07T21:30:00.000Z",
+   "source": "TechRadar",
+   "summary": "Attention GTA 6 fanatics: I've handpicked a headset, a controller, and a TV that you should seriously consider upgrading to before the game arrives TechRadar"
+  },
+  {
+   "id": "gn-qrg1ts",
+   "title": "Xbox secures exclusive streaming deal for upcoming GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0RsNVo3MDlJZlp4WVVUTzRNcmMxYzNFdVlSakZJanMtRjBwODlwY2tBS0dFQTBDRXlaS3N1dnRhVzBmTVRuUTc0V1dMdHp4MkowdE1xdDJvV3ZrLS1YWVhveDI3MXpiUFpRVXZhdUNQLV9Hc2tnV19QQ1h1TVRaeG5jUGNKUTE2RUpydzRIN1R5emdNa3d1YkVaNWlxNXlpU1NpVHFoeVlvRGtB?oc=5",
+   "date": "2026-10-07T21:15:57.000Z",
+   "source": "The American Bazaar",
+   "summary": "Xbox secures exclusive streaming deal for upcoming GTA 6 The American Bazaar"
+  },
+  {
+   "id": "gn-n12oqd",
+   "title": "Rockstar, Does GTA 6’s Jason Show Full Hog Or Not?",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2lhUjNMQ0I2NnlPOE95QUNHd1VYN1I4T1FfSGdrcGNkanBqNGdiNTlNWEJBQzdGbEgyRjl5a056bFhRdzRKT0lXcnhGS3J4bWZ6eXNxbk00Z2FJMUR0dmNEdE1ZNU9hellGcGJ0Z04tZ0Rxb0R1NDlRV2NwSjk0TmNqSHhmVVRKRVZN?oc=5",
+   "date": "2026-10-07T21:10:48.000Z",
+   "source": "Kotaku",
+   "summary": "Rockstar, Does GTA 6’s Jason Show Full Hog Or Not? Kotaku"
+  },
+  {
+   "id": "gn-dld7dw",
+   "title": "Xbox clarifies that Cloud Gaming will not allow GTA 6 to be streamed on PC",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0h1NmJGbTctNE1JZkpmaFp4alVxZ0F1V0FUZHdQTk1NWWlSYjltVFFqZWZlc1lLVFJBZFJBZ1h4OTBMNWk4NjhOQmVScFdMeHNxTXRRLVRHV1JGVFdnOUtiRU1IQjRxWEhwX1c0OHJRdzNrdEJnTnV4LWFzX2UxWllWVUN5NXRJZm84VlNIY3dWLWEwcWRHUWlfT284SDdxa3dURS1WejEwck1tYm5BNEluazNFQQ?oc=5",
+   "date": "2026-10-07T20:48:00.000Z",
+   "source": "Shacknews",
+   "summary": "Xbox clarifies that Cloud Gaming will not allow GTA 6 to be streamed on PC Shacknews"
+  },
+  {
+   "id": "gn-s1p41l",
+   "title": "GTA 6 not coming to Xbox Cloud Gaming, PC streaming — Xbox exec",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjFEMW8wZGVPZlVzUmlRcExFWmpYblBjN3Y2X3RLbW9mb0ZWbjU1eDlhVTFLdzBnbnNGWHoxdWhlb1piU2E1OFdqcnBmbFhLRHRwZFl0WGNybG1ROGE2a0p3MFF3RWlrekM3MHJtSl96d0d5NzFkZFlyMF9xTTY1ZUZXZ3YyUzlyaDcyU1ZqQ2VOelB0TXVydzVjLXF4MWlhQjl3QXIyMHZTTmN4UW1tajZhZ9IBuAFBVV95cUxOYnA0cGJicHlfbGY5U0xMWnhSUUZnVk5KZm1wLXBaenhBNlJXOV94OWtPcC0yM2tmak1ISmN0N0VnYW1CeG9GYTg2ekU2VXZTZ19xd2V2SmtDaFdVV01FdnlpcVJmdU5FTkFIVGdJVTZBbElvQXQtYXoxTDZESmF4aHhSNGU1eDFGVllURVV5bkxIRF9PLVpEMldOTkhPYlBOQVJna0ZLbU5VRk5YVTNhdGhfYWZjT1Vt?oc=5",
+   "date": "2026-10-07T20:41:00.000Z",
+   "source": "The Manila Times",
+   "summary": "GTA 6 not coming to Xbox Cloud Gaming, PC streaming — Xbox exec The Manila Times"
+  },
+  {
+   "id": "gn-pc2w1v",
+   "title": "Fuerza Regida Tease Involvement in Grand Theft Auto VI Following Soundtrack Leak",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWx6dTB0OGVoaEJveDZQdGw3REx6aFNyWUIxazFXdUhSUTdjaWFOWE9qRFhWcnA4RXNIa05scWtYUVlZTGVLVEdtX3BJUnlmX2MtQ3k2VWs3NHo5MHJLZEwxdzcxaVdMTmduSUhvRDZrQVB5U1hHeWlOWTBaYUJWTkdUNA?oc=5",
+   "date": "2026-10-07T20:37:48.000Z",
+   "source": "Consequence of Sound",
+   "summary": "Fuerza Regida Tease Involvement in Grand Theft Auto VI Following Soundtrack Leak Consequence of Sound"
+  },
+  {
+   "id": "gn-1108dzu",
+   "title": "Xbox Denies GTA 6 Will Stream Exclusively or to PC",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTGljbWhUYVpqQTVyTEdwbnN0UXdpb1c2a0hGSXFBVUg5MlNPeWJvOHkwdXFHenIzMVZHMlltTXcwYkQyQy1SWThISmRyTHRaeHJZRzFkb29zNnQ2ZWY2UmhSbkhWRjAyMU5Xa2FjWjY5Qng3REhpMUh0eUVfZw?oc=5",
+   "date": "2026-10-07T20:15:00.000Z",
+   "source": "ColombiaOne.com",
+   "summary": "Xbox Denies GTA 6 Will Stream Exclusively or to PC ColombiaOne.com"
+  },
+  {
+   "id": "gn-126yzjg",
+   "title": "Xbox GTA 6 Streaming Rights Explained, No PC Streaming",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fMXpRblBZVXZ5MnNOci01WmhNZ05Mb0hILUZDM0JQYzdzdEFyand4NEZWM2VMcGJ2LXBReW5Xd29icllQRERZMENCT2xQMnE2V2FFYzVqS0x0OEY2aWxoSHpGdTBoa2JkTzE4UllsLXNGZ1gxT0d2d2RQb3Q?oc=5",
+   "date": "2026-10-07T20:00:50.000Z",
+   "source": "ThePCEnthusiast",
+   "summary": "Xbox GTA 6 Streaming Rights Explained, No PC Streaming ThePCEnthusiast"
+  },
+  {
+   "id": "gn-1dinq49",
+   "title": "We Got All Of These Sneaker Things Before GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0Zfa3NWYVdXSUNPRFNSZVZjcjNrcXBySXptbjBFWl9Va3Mtem5sSUFpZmpWZFRfX194VDNLdVNoXzlENklzUjlvaXFORzZmLWFKa0dHdms5aUw2RXBtQUx4a3pMWlV6WmFzSGo1OVh6ZzFRN2pQYWZnNExxV3NMM3p0RUdLekFRRnQ4YzdJWWRBUnpJUFE?oc=5",
+   "date": "2026-10-07T20:00:39.000Z",
+   "source": "Sole Retriever",
+   "summary": "We Got All Of These Sneaker Things Before GTA 6 Sole Retriever"
+  },
+  {
+   "id": "gn-1s9yrjo",
+   "title": "Her Dad Wanted To Buy Her Old iPhone, But When She Said No, He Held Back Her GTA 6 Money",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUUzcmtRUTBoMWZac05YVXdkbGtreV9wXzVTUEdDNExPaWlNY1V6UTVjTVJmczQ1NVdUcGhlUGU5bENlWFBJaXJKTUlpZTJzTlRVcmdBMGMzRXZXSXdVcmRXcEUxNFZjZjNRVk1qVnNKWTZraXhSbEVsV20zeWJVajA2bF9uYWxMSXZ1WVpOZzFKeHlCWTcxZDhnZG9MUUtGdGwwVWxybjBVMk1qb2YwUHkwZEZLY2NLNnhQZ2l3?oc=5",
+   "date": "2026-10-07T18:15:41.000Z",
+   "source": "TwistedSifter",
+   "summary": "Her Dad Wanted To Buy Her Old iPhone, But When She Said No, He Held Back Her GTA 6 Money TwistedSifter"
+  },
+  {
    "id": "gn-1pa8zxr",
    "title": "GTA 6 will be streamable via Xbox come November",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazNjTk9FdWdoYTRwRWd5ZnduZnpuOWh5Y1hrNVBKOW13OVllQlRPaTZvTndnbHFSWjBpQnh1MDQ4Z0V0bmpUeUpJUDhVS2g0eVMzcUxLN1pQWElRRE9aX3FfUk9KSXZxTkcydjZVSDJkRTM3N3RabVlzR2l6N2lJNnFOTVJod3VpQmhPWmFOMHlNX2VfTXNzWg?oc=5",
@@ -238,6 +326,30 @@
    "summary": "GTA 6 boss says \"we have made money matter more in this story\" than in previous Grand Theft Auto games GamesRadar+"
   },
   {
+   "id": "gn-943n8z",
+   "title": "GTA VI players will get to steal almost anything",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXM2V3pzaHBCcjBxVms5ZWdiSTBlc2xRWkVmWVpZQk80enRZaXRjOHNDNF9ONWZGUXJoV0VlakJtSWVmZVJHZENOMXVjYXV4V2xjUGluVjN6ZnA2OVhHSWN5eFZnV2VTRmxQTTFXb1ZIQTNnWC1zaXFpajU2a0xsVmRraTB1ZVBnMFI1WXVKbnl6VGNDZ3dCanRNMzhPZk0?oc=5",
+   "date": "2026-10-07T16:08:47.000Z",
+   "source": "Instant Gaming News",
+   "summary": "GTA VI players will get to steal almost anything Instant Gaming News"
+  },
+  {
+   "id": "gn-re0kwr",
+   "title": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTncxdVJHR3V3U1VGSzZ3cmlPa1ZDSFBvMU9BQU50R1M4WkdNcmV0NlB4N1JHcDRTYUhSRkhuNE5hQU82YkhPYlBGTm1ER2pSSUJkZGdldUxadE41VjYycjREWmdYbU9nT0xGMmZfOUFBeFBvUW1FelFxRGgtcXNTY2tvNlpJVUUxM1lfLVB5OE54MnZ6ZEMtV2YybGdrLTVZMTQ3M2U0UV9SMG81M3Rv?oc=5",
+   "date": "2026-10-07T16:05:20.000Z",
+   "source": "GameSpot",
+   "summary": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy” GameSpot"
+  },
+  {
+   "id": "gn-2v9x2w",
+   "title": "RPG creator says Sony's all-digital future is good for devs as discs \"can't win in terms of convenience\" and games like GTA 6 are \"too big\" for them anyway",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNWEZxVXdIVlIwcXNQQm1NMlNDQmFqUmdPcDlud3pvSVZlczh1QXdBa0NKdHpTTU5ZSENDSFYwNjh2VHB6M0M5TXNJNm55OE9CN2I0QUd3VXgycWZhMkxGS2o5aUFiS01XellPZ3hJN1prQ0wtWFY4RC1lRHRxamQ1MEFmQ1hqXzVwbVpFTnJYR09FZUNyeVlsb2daakhQNGNydlJiYkVvMnhqU1B1SlBrY29kSERKRUxqUk1MYU0tMWJzQV8tMFh6dHBGRmtCTnZZMXlTSnRqSEpYQ1IyWFdVcy1FcXp3UXJGWE8wbnBWc3FuaVVweHNRNUVpOXd3aW1hM3Z5OHVJMlBFMkZOMk5IeThvNzlFcUlfTjVqU2V3MGxlVU1UWmU0?oc=5",
+   "date": "2026-10-07T16:03:46.000Z",
+   "source": "GamesRadar+",
+   "summary": "RPG creator says Sony's all-digital future is good for devs as discs \"can't win in terms of convenience\" and games like GTA 6 are \"too big\" for them anyway GamesRadar+"
+  },
+  {
    "id": "gn-1azai8y",
    "title": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUs5c3dNU0hmVzFZLUdscm5MRlR1YTl1T3U0V1lndzdyVjdWMnZvT0pJa2RKdXladjVQaUp6aHhZd0t4Rnd6V1Z1RVJTdGZQUmk4V2prOE4xYm5GT25KaEZQbW1wUjBwOHdwUzZZd3lYbHZZTTVHY3dBdHh4cG4xalJDT2RUUkxrMFE?oc=5",
@@ -254,12 +366,28 @@
    "summary": "Microsoft pushes back on GTA 6 cloud streaming claims KitGuru"
   },
   {
+   "id": "gn-1osxww4",
+   "title": "Xbox Exec Corrects Viral GTA 6 Cloud Streaming Report",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVY2U3haclJMTWpKbzJIX2kxei0yZDJ6QjQtZ2VKZ09zQVRVa3JpczZtejR2eUphdWpzM0d1N1RoWHBlNXZXMmFrUmFCVWRETzhKdlZheTJ2dHptS1Y2QnFIN0xndkdkYkZ2eUZSVG5Pa3hYQWNZcU5UOEhGOWRhZXJDaGpBQnNCMk1WZVBocFY1eUxiXzF6MkVB?oc=5",
+   "date": "2026-10-07T15:47:29.000Z",
+   "source": "GTA BOOM",
+   "summary": "Xbox Exec Corrects Viral GTA 6 Cloud Streaming Report GTA BOOM"
+  },
+  {
+   "id": "gn-xkjutb",
+   "title": "Gaming Publishers are Avoiding Normal November Holiday Releases – Here’s Why",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFNGpRaV9HR0xyUU5CVTlHaUhFRlpGckNjRF9qclBfOXJqODNqSkRicVF1cHBNeDJrcGFhbWFZTXI3NUk3WmMtbFlUY2s2UnZRMjgxR1dlbTdJY3NKdUhjU0lrRkRYSWtyeU9nU1BhQkxEZ0NYZXZITTNoVQ?oc=5",
+   "date": "2026-10-07T15:41:03.000Z",
+   "source": "Mix93.3",
+   "summary": "Gaming Publishers are Avoiding Normal November Holiday Releases – Here’s Why Mix93.3"
+  },
+  {
    "id": "gn-12ysji7",
-   "title": "5 brand-new GTA 6 details just revealed by Rockstar",
+   "title": "5 Key New GTA 6 Details Just Unveiled By Rockstar Games",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlZ4c3RtblBOclk4Sm5pam1QTVlIVnJVb1dQS0dFaDlaa25VelNKRlVPNEJUd1NHUGk0Wmx0LTZyMTRVRERZRzBqdjBHLTVzTERiUklLQ0djZGhzaU1NN3RmNjRJNUoyeEdsWXdNdG12YnZhM0hxOXk3X1NWMVNxTlBLeWZHUGhQODFtYUotcEFIUEFx?oc=5",
    "date": "2026-10-07T15:40:07.000Z",
    "source": "Polygon.com",
-   "summary": "5 brand-new GTA 6 details just revealed by Rockstar Polygon.com"
+   "summary": "5 Key New GTA 6 Details Just Unveiled By Rockstar Games Polygon.com"
   },
   {
    "id": "gn-1m32nno",
@@ -324,6 +452,22 @@
    "date": "2026-10-07T14:37:08.000Z",
    "source": "GameSpot",
    "summary": "GTA 6 Won’t Make You “All-Powerful” Like GTA 5 Did GameSpot"
+  },
+  {
+   "id": "gn-1ilxtmf",
+   "title": "New GTA 6 Details Reveal More Gameplay Systems, Naked Showers Confirmed",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVpLSGtITE5EelB1dXlTejlpTXNYSnl2bUJ0R0Y2LTM3d3R4R2w4b3ZUOFdSak9xNDlsRTRkMk82b2QxaU4tVU5Mc1RJdDBXYWNuVnJZTk9FTGpxdmltdVE2emVYMFNmT2dDTXhacVhJYUJBRlhsZ2hnVGZuTVVjRm5VdEQ5VDYyd3lNdkZ1WFpkV242RnAwZjVQZml2Zw?oc=5",
+   "date": "2026-10-07T14:34:35.000Z",
+   "source": "RockstarINTEL",
+   "summary": "New GTA 6 Details Reveal More Gameplay Systems, Naked Showers Confirmed RockstarINTEL"
+  },
+  {
+   "id": "gn-1fw4quy",
+   "title": "Xbox won’t have GTA VI streaming exclusivity after all",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oMTJDR0RCckVvSllkcDFqbHJXcUFydEZWN09tYkRSTmJwMnk4dGRhWEtzVTVvb1d0ejk5SW14UzdaVE9JQUU2LTk4eTAxMzR5NGhJTERJRHRHT2FuenVsZWE2dTRJQmZrOFZfZGRsaW40ODNVNHpBYg?oc=5",
+   "date": "2026-10-07T14:23:51.000Z",
+   "source": "MobileSyrup",
+   "summary": "Xbox won’t have GTA VI streaming exclusivity after all MobileSyrup"
   },
   {
    "id": "gn-rnp48m",
@@ -516,153 +660,57 @@
    "date": "2026-10-07T11:26:00.000Z",
    "source": "CBS News",
    "summary": "Grand Theft Auto VI unmistakably influenced by real-life Miami CBS News"
-  },
-  {
-   "id": "gn-13dno91",
-   "title": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTzJJaE1CbklGV0cxME5MU21PWXdjZjB5OHRfdUZVenJnMXE1X3Ftem0tZHktdVB6RFdEUWUweFdBcngyNW95czUtT2NVQUp4LWliUTh4eC12VXhSWVZ2cVdzcFJadXA4THlMQVpHcUZTTXktMmpPRlpJWU9SZm9ZU3dfMnpHd3doWUNjX1hJYjYyQ3AxNFZtTEE2YWt5emJMeHBsTHZ1R0NLOTJGdXBRWWwzR0V5U1ItelJtWXh0SHNob2xjTGJRdXpJSzVJb0lTZkpZSXQ1eFgzckNKbWduRUlSeTZhWGtvVDNmUHowT2ZvcGVOUnctQ0lnQ2lRTEU?oc=5",
-   "date": "2026-10-07T11:03:06.000Z",
-   "source": "Rock Paper Shotgun",
-   "summary": "GTA 6 won't be playable on PC at launch via Xbox's cloud streaming services, Microsoft exec indicates while refuting exclusivity deal report Rock Paper Shotgun"
-  },
-  {
-   "id": "gn-oweu0i",
-   "title": "[UPDATE] Xbox Denies GTA 6 Streaming Exclusivity Report",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY3hBcGpNN0dKWFZqNGFJejZfT29xWURoYXcxLXhBSmFsamtpYlFUa1lOM2RWU2lURDV0Rm4yS0oxaDZ2UlFabWZpNE91V1JyR1hBejY4SXJsT1VXMlJvNDR1a3NFYUEzWnMyS0RtS3hBd09Gb3VKcFZJeW1FeV9nYXhGZHJGSFR1blVzVmxBWVNjUmJSWlhVMFBMdGFSSVhuOHJIM255VWNPMU44REdZeXhhOGJMWjVVTXBZZHdXZmtibXZ6V1k4M1JpZmMza3Ew?oc=5",
-   "date": "2026-10-07T11:02:50.000Z",
-   "source": "IGN",
-   "summary": "[UPDATE] Xbox Denies GTA 6 Streaming Exclusivity Report IGN"
-  },
-  {
-   "id": "gn-1k0cmce",
-   "title": "GTA 6 can't be streamed to PC on launch day, despite recent rumors, Xbox CSO clears up exclusivity confusion",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd1FSWVpMaVhJeXJkenh5dG54ekJ5Q19YZ3ROd3FmSDZzWVE5bnhFSm42ZFVVNGR0eGJWUFpVMnpBSjhTbF8xRlNzTm92c2NrdmE5eEtPMTEyVzJhM250a3ZUSldHZzRKRzJTZmgxVjZWVnVRZjBOMXFqTFAxd3RvcTlqdFFVamlNWmtUNVdNUnZaQVRvTTAwUXZxbldYZGV1VkI4cTFjemswMFMyX0RIYTQya2x3ZlYzYlFWdDktelV1Y051NWJacVlFbDVJa0ZJ?oc=5",
-   "date": "2026-10-07T11:02:10.000Z",
-   "source": "PC Guide",
-   "summary": "GTA 6 can't be streamed to PC on launch day, despite recent rumors, Xbox CSO clears up exclusivity confusion PC Guide"
-  },
-  {
-   "id": "gn-d5715c",
-   "title": "Grand Theft Auto VI writer likens protagonist Lucia Caminos to Red Dead Redemption 2's Arthur Morgan",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVW5xd24xWmU4MXZSOWV2V1RpbDNFUjJjOFREc1Z4T0lUVDVERThTWU8tS1c1NEttSWtTbnRlRkhBWlZURnRDUWtfS25RdEhjUVBNNWlSYTBVMGVKSGhNZVMyZnFEQTE0MTAtWEVsd0xCTjVlb3RKMTNEenI4WGlVOFlWTlJOS0VvblZ2S2hwTGZKTWNvNGYwRGxONmctRzZOU2RUeDRTc1g5RHFZcFBrM2MtV01ERHEzNXVkSWdsdVhPbDAxdzdDLThRMGhjeVVlUDI1dkNR?oc=5",
-   "date": "2026-10-07T11:00:12.000Z",
-   "source": "Female First",
-   "summary": "Grand Theft Auto VI writer likens protagonist Lucia Caminos to Red Dead Redemption 2's Arthur Morgan Female First"
-  },
-  {
-   "id": "gn-11c7gqy",
-   "title": "Xbox Responds to GTA 6 Streaming Exclusivity Report",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmUwdEctdkZhNXNFMWswbWVwWWZyYVZObzd6aVp5ajBBMUtFd25HMlgwUHlJeEF4clZqaGpWNFdsTTN3NHRKQkV4eU9YQ3lqa28xVnJkV2VPVWRYUDM3LUZUS2JkYUtTSnN1TndaNTV3MXdxNmFrbTlCT1pvVXBWenFNTnFMTWJr?oc=5",
-   "date": "2026-10-07T10:45:40.000Z",
-   "source": "VICE",
-   "summary": "Xbox Responds to GTA 6 Streaming Exclusivity Report VICE"
-  },
-  {
-   "id": "gn-4zlxql",
-   "title": "GTA 6 PC Release Date Estimate, Rumors, And News",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHVGUEJNSlJGbS1zTmpSaGFUOXRhdFlmcFhBdmF2R1RTWVNkNFVwYWg4MENWajRYNm9vdDFka0hST09VVk9obWhlTG9vZXplM1RTcno2cHAwckRlS2NFVnhmZS1YQWJral93RlFVRnhtbWUtYXdQYXhlRWgtNjAxX0dqSndwODQ4?oc=5",
-   "date": "2026-10-07T10:38:31.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 PC Release Date Estimate, Rumors, And News GameSpot"
-  },
-  {
-   "id": "gn-1jbniv2",
-   "title": "No, GTA 6 won't be playable on PC via Xbox Cloud Gaming, and Microsoft doesn't have exclusive streaming rights either, exec clarifies",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOZTZQOXhKdy1mRE1scjlQYm1GbjRHVFhJVFhnVkFKSWtfSldfUnNUdk1tb25GaFphNTVjbU9kTWpkc3ZTeVZZT040bjk5ODU0enVQLVZBb0EwRkw3N3R4LTVUcEUzamlGR1JGOXdaMWctbUlBS1hFckVBNDFaS1RpQm9jR2ljNUxaeU9xclY1NkNicUpTNm50QTdjWUtJcDZxQ1pMcURJb0U0SHRHbzdBNFpaaVc3UFRKVTZIYzlhbVJNQl8yTjVsMUd4V0d1UUd3UjJpQXpFYTBXSEFiWU0yTmVQaFJOOFB2ci1XUTB1bWdXeWYwbHRuX1RKMFRsT3NWU1dMNkM0RVloSDA?oc=5",
-   "date": "2026-10-07T10:37:26.000Z",
-   "source": "GamesRadar+",
-   "summary": "No, GTA 6 won't be playable on PC via Xbox Cloud Gaming, and Microsoft doesn't have exclusive streaming rights either, exec clarifies GamesRadar+"
-  },
-  {
-   "id": "gn-1repde",
-   "title": "GTA 6 PC Release Date Estimate, Rumors, And News",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXZGZmIyWHhhRkZTcU51UXoyX2VqOFppMUZoamdnQV91TDJyLW1DNzh5NDZfQm8taUpOcHFiRGxoM0NwaXRBcU5jS0M2UmgzM2JXaS1tbTU3WkZScTFpaWdVRTE5a0ZSSHA2S0RiazhJd0p2NkhjRE50bnV2d3JfdA?oc=5",
-   "date": "2026-10-07T10:36:27.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GTA 6 PC Release Date Estimate, Rumors, And News Yahoo Tech"
-  },
-  {
-   "id": "gn-1f2568i",
-   "title": "GTA 6 Netflix extended look: What time it releases today",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQamxKSGkxRXZhSXZMX1d3ZXFpZjJSYXZzNXIxUDV4ZUZMUG1MU1UxM2tFWGtSSlk4OGtvS3hCMDVMTmR5ZzhfMS1lVS12VXNnN2NQcWJtMEZOUU1CckNEdmdkNlNoWjNyUjBYVnltTWQtcUF0a3RJdklMclppV2dzbg?oc=5",
-   "date": "2026-10-07T10:27:06.000Z",
-   "source": "Mashable",
-   "summary": "GTA 6 Netflix extended look: What time it releases today Mashable"
-  },
-  {
-   "id": "gn-2g46bw",
-   "title": "GTA 6: Leaked Discord promo sparks new speculation about the PC version",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVNjT2lsNndxZHBnV1phTXlXX3hRai0wSzR3ZE45dVpBVnVYSXN5bjEybHJta3JhYzBHNjhzSHJodjdsbG50R0tVYkxSN3N0elVTT2JtVklDS0lmNmlfLUVUV0VTZ2I0UUtJRGRxTEFRYjQtZGxuTENRdnZVVWcxNkNzNGl2WDBHb0ZXay15OGpNb2RDQ2l2Tk5POFZYNVF2VmNxMmdFdk14bjl0SUswT2IxQ1RCUQ?oc=5",
-   "date": "2026-10-07T10:12:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "GTA 6: Leaked Discord promo sparks new speculation about the PC version Notebookcheck"
-  },
-  {
-   "id": "gn-l2zd8o",
-   "title": "GTA 6's first free in-game reward surfaces as DLC up for grabs ahead of launch",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0NQb1RWeFh2WndKalUwWFFOOUtCa3dDbVdRSDRXUkY2Znk1a0hVR0NSLXdlcTVKQUdoZU4tVEdYZVhSZUp0QkZValhSMEhMUXNlYkk0aUZnSmJQLTlUR0s2cnhxUVl2NWY4XzgweEFwXzRoNVpLNUFiYm52NTJTdg?oc=5",
-   "date": "2026-10-07T10:00:01.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6's first free in-game reward surfaces as DLC up for grabs ahead of launch GAMINGbible"
-  },
-  {
-   "id": "gn-vhimj5",
-   "title": "Xbox Official Clears Up Grand Theft Auto 6 PC Rumors",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aRG9VaEd2dkhSbHUzLTRPYU5aN2lEOXltSk1sX0o0TVV1T2RELU5sd2tTdkZIbWZjdEplMllwZUFibFhrVWE3Z1NPZkZRUG1semU3dGRhUi1tazk0YmxvTnEtRE5tUkg4TkU4eDdlLWtubkFtc1lrVXF4a2s?oc=5",
-   "date": "2026-10-07T09:57:09.000Z",
-   "source": "Polygon.com",
-   "summary": "Xbox Official Clears Up Grand Theft Auto 6 PC Rumors Polygon.com"
-  },
-  {
-   "id": "gn-1xid4s8",
-   "title": "GameStop hikes used PS5 Pro price to $1400 as GTA 6 demand looms",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUxQanByOFpETGZmdWdPNklPSHpEZjEzUkIyOTk5U2p1QkJNckFKNE9EM0tvRE1YT3g5LVNwT05YMjY2NURFVmhJeUI0NjRGWEJUaVRQc0pZQ09ZYmhxbjlndlQ5VEd6a0gzTnQ4Zk10QjREbW9HV1oxRTNNTExhTmJzZ0dXVEw1NzVEWjdINGZialJaeExTNFBUVlVlY1JhbTNQeXEyVFg?oc=5",
-   "date": "2026-10-07T09:40:22.000Z",
-   "source": "Video Games Chronicle",
-   "summary": "GameStop hikes used PS5 Pro price to $1400 as GTA 6 demand looms Video Games Chronicle"
-  },
-  {
-   "id": "gn-bibmtw",
-   "title": "Xbox quashes rumours it had exclusive GTA 6 streaming rights",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV3Z3N2dhekh3eFVvNURnWi1ZZFdvQXV4d2UyTkN4WG9vd3ZZLXJkSUZBWU41QlRBZlg0TUpCVlZGSUJNcWNSWGxWZHlBYjFZU1IwcTVpMF9VT19WS3VUWE9uYWxFMjROTzhudUxMVXQ1aG50VTRiZFB6MVVIZ2xJbW1Nc3lHZWZwSE1MOUVxbFhnT2RvWU92OEhNczNWX0dqaGhB?oc=5",
-   "date": "2026-10-07T09:29:25.000Z",
-   "source": "TheSixthAxis",
-   "summary": "Xbox quashes rumours it had exclusive GTA 6 streaming rights TheSixthAxis"
-  },
-  {
-   "id": "gn-hvh55z",
-   "title": "Xbox shoots down report of exclusive GTA VI streaming to PC",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ21xYjhpZjZQY2lDNkd2RlJtbnZDU0xwU0VwQ0hDT0lSYVkzclJXQzVncmFRdDNHNWx6YWxzcF9ablhPTkxtdzhfODNHT3F6My14UlBiMTl0bDhnd1dLT1JKZ1RId19keUVsSUNtOEVVc19PbmFJOTVVZlZXcHFPNDQ3SE5MeHg4dlloX3FjdzdUSU9FNlHSAZsBQVVfeXFMTkQzNzItMUFNMmh5RVZfY0NaTWFqTVVpUWVvUklwRkprdlZEZDlDWjhfN3NoVmtfVUl4cEw5aVVJQVdlUUtweDFwUzZDZjZzX3hsOHRqNnJmSk94U1RhV3RUdFdMUUl2bXduQVV0MmxPbzVzMEFHYWgxUnhNdTMySWdKMW9SazJnTi0wU3FMT2pIdVZKV0tDVkpBblk?oc=5",
-   "date": "2026-10-07T09:07:22.000Z",
-   "source": "Gagadget.com",
-   "summary": "Xbox shoots down report of exclusive GTA VI streaming to PC Gagadget.com"
-  },
-  {
-   "id": "gn-rnxdmu",
-   "title": "There's some confusiong regarding GTA VI and XBOX Cloud Gaming",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEZoTHd1M3loQVBIRkRkdEoyaTFCNnJ0TEhDQWpfcHhYU1dhWXpubU1TcXBnSW1nWjZ3b05NMWo5N2Z4SHBpbVRMVUdjMUxtVFpzbEozaERqV1dfMFhZbHNyQmZpMzRuU3hlWGRVRXFUV01odldrWDJhY2s0MzBOU1hmSWhuZjZiN0toTGhyZ0VDVVh4Vm1ybVRLYlY3MFNyWWVuQzFDM2xpWHY0UHczaGZR?oc=5",
-   "date": "2026-10-07T08:58:10.000Z",
-   "source": "Instant Gaming News",
-   "summary": "There's some confusiong regarding GTA VI and XBOX Cloud Gaming Instant Gaming News"
-  },
-  {
-   "id": "gn-ef1u9m",
-   "title": "GameStop is Selling Used PS5 Pros For $1,400 Ahead of GTA VI Launch",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaHItN2RvVlh5MXdFS2dPYTJQdzh6eDgxX3gtZ3VRX0xIVTRjQks3YVpiTElGYkx0aWRiMllIU011bFF2UUtob2dtTWJKVkN6Q2F5cnRhcC12ME50cm5Cd1BDYnhHWWhxczBZclJ5Vnl4RzlacVF0bHkzbDlHWG5qUlRTNG9oNmg0NEhseDdTeXIwOVhoVExkODFfc3lmVjdhMkMwbg?oc=5",
-   "date": "2026-10-07T08:48:52.000Z",
-   "source": "Nexus Hub",
-   "summary": "GameStop is Selling Used PS5 Pros For $1,400 Ahead of GTA VI Launch Nexus Hub"
-  },
-  {
-   "id": "gn-lugf0h",
-   "title": "GTA 6 PC availability update issued after last-minute 'confirmation' sparks chaos",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMTNqRVRIbjNKd0JnTmtJR2VvSWh2QmcxY0Z5a3MtTk1hWndqUWczdDhCOWp5ZW1kZXNFUFFEOUtub2JCTjYtalVfaTVPTnNPdlh3ZzIyV25YVzh4ZFFMUFZyZldwV1AxWllOU2xyTVYya1I0UWFxM2oxZDY1dEg2OUJLNA?oc=5",
-   "date": "2026-10-07T08:46:13.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 PC availability update issued after last-minute 'confirmation' sparks chaos GAMINGbible"
   }
  ],
  "community": [
+  {
+   "id": "rd-1oe6v62",
+   "title": "My spidey senses are tingling bc isn’t this the same hoodie Lucia wears in the extended look or I’m trippin ??",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x095a3/my_spidey_senses_are_tingling_bc_isnt_this_the/",
+   "date": "2026-10-07T21:37:53.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Topwhomatter1100 [link] [comments]"
+  },
+  {
+   "id": "rd-15best6",
+   "title": "The release date is now the same amount of time away as the extended look in August.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x08b4t/the_release_date_is_now_the_same_amount_of_time/",
+   "date": "2026-10-07T21:04:49.000Z",
+   "source": "r/GTA6",
+   "summary": "Can’t believe how quickly time is going by in the lead up to release next month. Only feels like a couple of weeks since we saw gameplay in the extended look. submitted by /u/sidewinda98 [link] [comme"
+  },
+  {
+   "id": "rd-p7x4m7",
+   "title": "Vice City Hoodie",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x08ap0/vice_city_hoodie/",
+   "date": "2026-10-07T21:04:20.000Z",
+   "source": "r/GTA6",
+   "summary": "So this just got delivered. Didn’t think it was coming this soon but it did. 75% cotton, 25% polyester! NBA Official Gear as well. submitted by /u/LeadingSearch4551 [link] [comments]"
+  },
+  {
+   "id": "rd-1t2ftwn",
+   "title": "the xbox streaming reports were false",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x07r60/the_xbox_streaming_reports_were_false/",
+   "date": "2026-10-07T20:43:50.000Z",
+   "source": "r/GTA6",
+   "summary": "\"While the excitement for GTAVI and XBOX is great to see, it has also led to some misreporting. We are looking forward to launching GTAVI on XBOX November 19, though the game will not be streaming exc"
+  },
+  {
+   "id": "rd-b932lu",
+   "title": "Insane how quick this went out of stock",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x03dsn/insane_how_quick_this_went_out_of_stock/",
+   "date": "2026-10-07T17:54:58.000Z",
+   "source": "r/GTA6",
+   "summary": "Received an email from my local place letting me know it was available. By the time I placed my order, every copy had already sold out. As expected, these are currently being sold for £100+ by parasit"
+  },
+  {
+   "id": "rd-rlajeq",
+   "title": "I completely changed my mind about GTA 6 running at 30 FPS",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x029hu/i_completely_changed_my_mind_about_gta_6_running/",
+   "date": "2026-10-07T17:12:31.000Z",
+   "source": "r/GTA6",
+   "summary": "I’ve played through GTA 5 six times, including three 100% completions, and for a while I was genuinely worried about GTA 6 being 30 FPS. When I first realized GTA 6 would likely be 30 FPS on console, "
+  },
   {
    "id": "rd-q8s5wo",
    "title": "Short spot about GTA 6 on CBS Miami",
@@ -934,54 +982,6 @@
    "date": "2026-10-06T18:26:13.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/CaraMiaChell [link] [comments]"
-  },
-  {
-   "id": "rd-vf4m88",
-   "title": "GTA VI ultimate edition cost 27$ in the UAE",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wz85bx/gta_vi_ultimate_edition_cost_27_in_the_uae/",
-   "date": "2026-10-06T17:09:29.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Apprehensive-Web4792 [link] [comments]"
-  },
-  {
-   "id": "rd-wo7hpt",
-   "title": "GTA VI advertising poster in Paris France.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wz6xg3/gta_vi_advertising_poster_in_paris_france/",
-   "date": "2026-10-06T16:22:54.000Z",
-   "source": "r/GTA6",
-   "summary": "GTA VI advertising poster in Paris, near Porte de Bagnolet; currently being installed on one of the two Mercuriales Towers. submitted by /u/CollegeFlat399 [link] [comments]"
-  },
-  {
-   "id": "rd-k1if1y",
-   "title": "THEORY: Brian and Lori are supposed to be the reflection of Jason and Lucia if they survived the criminal world (added by Brian' monologue to Jason about 'knowing when to get off').",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wz6jmj/theory_brian_and_lori_are_supposed_to_be_the/",
-   "date": "2026-10-06T16:07:54.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/CranberryNo7950 [link] [comments]"
-  },
-  {
-   "id": "rd-1ytkia0",
-   "title": "What are y’all’s opinions on GTA 6 marketing so far?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wz61cm/what_are_yalls_opinions_on_gta_6_marketing_so_far/",
-   "date": "2026-10-06T15:48:08.000Z",
-   "source": "r/GTA6",
-   "summary": "I really love it, sure we may not be getting a lot of gameplay, but that extended look was enough imo submitted by /u/RobloxSpiderGoku [link] [comments]"
-  },
-  {
-   "id": "rd-4tcepk",
-   "title": "Broo..😲",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wz55j3/broo/",
-   "date": "2026-10-06T15:13:11.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/aditya_545 [link] [comments]"
-  },
-  {
-   "id": "rd-4v8q4f",
-   "title": "Article of the Day #36: 1955 Stanier (Pre-Order Bonus)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wz4ua0/article_of_the_day_36_1955_stanier_preorder_bonus/",
-   "date": "2026-10-06T15:01:08.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/gtawiki [link] [comments]"
   }
  ]
 }
