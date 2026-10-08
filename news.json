@@ -1,30 +1,56 @@
 {
- "generated": "2026-10-08T09:18:20.456Z",
+ "generated": "2026-10-08T16:44:40.803Z",
  "sources": {
   "newswire": {
    "ok": true,
-   "count": 6,
+   "count": 8,
    "scanned": 40,
-   "checked": "2026-10-08T09:18:20.456Z"
+   "checked": "2026-10-08T16:44:40.803Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-08T09:18:20.456Z"
+   "checked": "2026-10-08T16:44:40.803Z"
   },
   "googlenews": {
    "ok": true,
-   "count": 100,
-   "checked": "2026-10-08T09:18:20.456Z"
+   "count": 102,
+   "checked": "2026-10-08T16:44:40.803Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-08T09:18:20.456Z"
+   "checked": "2026-10-08T16:44:40.803Z"
   }
  },
  "official": [
+  {
+   "id": "nw-759875393o5253",
+   "type": "newswire",
+   "title": "Grand Theft Auto VI Collection Now at the Rockstar Store",
+   "url": "https://www.rockstargames.com/newswire/article/759875393o5253/grand-theft-auto-vi-collection-now-at-the-rockstar-store",
+   "date": "2026-10-08T16:00:00.000Z",
+   "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/759875393o5253/999a13ef806098304feeee0531ad81e817c3030b.jpg",
+   "summary": "",
+   "tag": "Grand Theft Auto VI",
+   "tags": [
+    "Grand Theft Auto VI"
+   ]
+  },
+  {
+   "id": "nw-o3982oa93a23k4",
+   "type": "newswire",
+   "title": "The Music of Grand Theft Auto VI: In-Game Radio Stations",
+   "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+   "date": "2026-10-08T14:00:00.000Z",
+   "image": "https://media-rockstargames-com.akamaized.net/tina-uploads/posts/o3982oa93a23k4/365fb2f8af9e4263284a4dc2c6671e36a2480ba4.jpg",
+   "summary": "",
+   "tag": "Grand Theft Auto VI",
+   "tags": [
+    "Grand Theft Auto VI"
+   ]
+  },
   {
    "id": "nw-9k2a49ook82o57",
    "type": "newswire",
@@ -182,487 +208,671 @@
  ],
  "press": [
   {
-   "id": "gn-1owf6wn",
-   "title": "Brand-New GTA 6 Strip Club Features Officially Detailed",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenBoRUdrUmxGS0xqNHJ2ODBZQW9mTGZTZFE0OHhZbVZxNE1PQzN3MmdYcmw3ZnY3bzNjeWtTS2haVWwwQW1sTkJhUWY5NFdGUWVOVFJfWTJ3Rk5rTUc5QTBBckg0OHpUUUNkU2hvUFFyRlRwcVNteHpqa2pDRHE2XzBIcTBIUnhaR1ZmcDhRdDlIVUk?oc=5",
-   "date": "2026-10-08T09:10:25.000Z",
-   "source": "OpenCritic",
-   "summary": "Brand-New GTA 6 Strip Club Features Officially Detailed OpenCritic"
+   "id": "gn-1smt2l6",
+   "title": "GTA 6 Leaker Returns With 24 Minutes of New Gameplay",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWEUyZXkyai1kaVc3bWVDRE1Ic09nVXFVdnpfYS1TaGdQNFlDcE1JNmVySGNMSGY3M09fM1pOZ0lVYnNmWjUwd18tUGl0bWphYVlzU3l3UkljaktGQ2RLMkJ4NS1CWGJwTUxzRmgxMEV6bXlraXRxY0NxeE1BUXIzeEJHbFQzdjE2bVdB?oc=5",
+   "date": "2026-10-08T16:28:11.000Z",
+   "source": "Yahoo",
+   "summary": "GTA 6 Leaker Returns With 24 Minutes of New Gameplay Yahoo"
   },
   {
-   "id": "gn-zoattu",
-   "title": "\"GTA 6\" Jason Shower Scene Steals the Spotlight as Fans Ask One NSFW Question — Rockstar Details Romance System",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iR2lveVZmMGVzc19ERG1fYTZpX2NCZEtLRWNrX0ZuTFNjaEJnRXdjOU9tNXphNmFjY1J6TU9KREJVbURYZmRhU1RqTWZKQ2JL?oc=5",
-   "date": "2026-10-08T08:14:51.000Z",
-   "source": "玩具人 TOY PEOPLE",
-   "summary": "\"GTA 6\" Jason Shower Scene Steals the Spotlight as Fans Ask One NSFW Question — Rockstar Details Romance System 玩具人 TOY PEOPLE"
+   "id": "gn-151fl7p",
+   "title": "Morgan Wallen To Host Country Radio Station In ‘Grand Theft Auto VI’ Alongside Lana Del Ray",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRzBUTFA2OGxDenk3d2pwazVXWXBsdXNCNEktVzhNMWk3ejhyM0YxSUVkdnphNVhqenlJa3BWUzkya3RYRFM5ZnFPYXhCYWZMSEUzclhzY1g1LXdDYzB0SjUwNEJuZHcwQldWS1dreWJKQ1dWdmpHTFhJeEFacVg5cGhqZG9USV8tLWI5ZFIyb3oweGtsMENqUnU5YXBGS3Z4Y09BRDUxYmdWbldkZHdIVkpDRjJvYzFoeVp4amFaQ1ZObVpFSGpDVg?oc=5",
+   "date": "2026-10-08T16:26:20.000Z",
+   "source": "Whiskey Riff",
+   "summary": "Morgan Wallen To Host Country Radio Station In ‘Grand Theft Auto VI’ Alongside Lana Del Ray Whiskey Riff"
   },
   {
-   "id": "gn-i1b2oa",
-   "title": "October 19 Will Be a Huge Day for GTA 6 Fans",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ycTdwMVMxZFFRcHpkSkMtYUE3YXROSjM2M0tZWnFQMGZkLUU0X25jbFJVdE1NdXRJN2NPZmdndlV3WC1qZkxpNHY5OUVUWGZzdVZV?oc=5",
-   "date": "2026-10-08T08:00:16.000Z",
+   "id": "gn-14jv48d",
+   "title": "GTA 6 Leaker Returns With 24 Minutes Of Footage, Escalating Spoiler Concerns",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN29McnIwc2MzZnE1SVVQVE5teVNIN1lDblhSR2RQdDNoeVFzbDhnVnQ5ZURHYzRMbFdBa1RrR2dKQm5MeDZOaFh6b01qZU9lQXNoOXRFNmRDMmtOT0YyZXVoZnpxMGtYREtXYmowbTNSUEtrbmZkaUpydnVHZW11R2NBX1FDY1I0Q1pGSElsZ0JOZWxNTFdTTHQ2bXdXMGdjZVlvVU80RQ?oc=5",
+   "date": "2026-10-08T16:25:00.000Z",
+   "source": "HotHardware",
+   "summary": "GTA 6 Leaker Returns With 24 Minutes Of Footage, Escalating Spoiler Concerns HotHardware"
+  },
+  {
+   "id": "gn-i50ol4",
+   "title": "Official GTA 6 Merch Store Opened by Rockstar Games",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ1hZNHFzN2prdWJVaHZ1dEZ0TGtJenZWSGtqa0lwQzZ3LTRtaGF4aWZTa3VCdnBaaU5fcUZvbXB3MkdYMFZQV0NUZlBKcGV3aXZxaFA2NWcwNDdGaFNqWnc1Zk5nS2h1TzRJNGxkcGZJTVFCNG9WUFRrUXI1d1gzTzhR?oc=5",
+   "date": "2026-10-08T16:24:25.000Z",
+   "source": "Insider Gaming",
+   "summary": "Official GTA 6 Merch Store Opened by Rockstar Games Insider Gaming"
+  },
+  {
+   "id": "gn-184h9n5",
+   "title": "Grand Theft Auto VI Collection Now at the Rockstar Store",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVDB5SWtBbEppNk11WUp6X21kaHBZdEV5blpreVloVTRGcHRVOEFiMFZTX211bVZfcktrTFp6V3FDNjJsSWp2cHBiMnhiUm90Vk52QXJpZ2lvdHlXb2VBNElOTVZFeU1oU0lJSU1WM3RhVXpHVzZOY05KR2oyRDNvZnNkMElUWHVRRDNoUXBLTG9wQnFOVWN5MWtCNmVxZVNrWWE5RE9kNWp6WlQxSUNnRy1YUkU3SFN6UFE?oc=5",
+   "date": "2026-10-08T16:24:08.000Z",
+   "source": "Rockstar Games",
+   "summary": "Grand Theft Auto VI Collection Now at the Rockstar Store Rockstar Games"
+  },
+  {
+   "id": "gn-9yb5ob",
+   "title": "GTA 6 Won't Stream Exclusively Or On PC, Xbox Says, As Cloud Gaming Caps Loom",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQXzBBeFRJS19kZkNWamVBT0RlRXBCU29QYmozcEIwY2Q2aVhqdjQ3RVMxcXRMeHJzb3Y1WTdrYTFvNy03VmgtTnNPbGlmMFJ2dDBpYUFoUzlYLWVQWDkzdkpNMXp2NW5wOEFRWFlCZm1ZekZYd0RJdWZZamlnTFlSUXVjVmYzM0R4REo1RUt2VVBhU1ZWLWVkb1NrNEFfY3djSDd4ZEx2OUhrakQ0dW8xQW1ldGlDNFlUb3JVUFN30gHGAUFVX3lxTE9ZaDhtY0JGU0xTV2J6TTU0ek0zRWNrcE5VTmIwejFDcU9RWlROM0xNN0taT2IxNHlJaGJWTkFwc1JNMG1hdUx4Yl9mOUJESGVHS3pDcDRQd1V1ZGFyemFqWTZqTTNvbDZ6amlKd1BJbE9nRDc5M3RlRHlRWDdMdkhfcGVrN2RmNGZsZkhCdFlpSEF0TEZJRE1WSzhwY0M2c3ZoZ2FGMHY2TGJLN0lFZW9keWl2VUdhakNhU29jcjUzN25ac0dPZw?oc=5",
+   "date": "2026-10-08T16:24:03.000Z",
+   "source": "NDTV Profit",
+   "summary": "GTA 6 Won't Stream Exclusively Or On PC, Xbox Says, As Cloud Gaming Caps Loom NDTV Profit"
+  },
+  {
+   "id": "gn-5mrvxv",
+   "title": "Lana Del Rey, Bad Bunny, and Robyn to Host “Grand Theft Auto VI” Radio Stations",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbVhZNEdVTUJJVV9xOXM1ZXh5MXVBN0ZWdnF5SG45MmNBVFJJbEhqOWpkenM1alBPSUJLLWJBZUZOSS1oZzcyZUxXbWtmU2ZmaFlESGJvTHVUa296bS1BdVZLRER1aEZuRng3c0g5Yk9pdzNPd2x5U3BCMFJUcVAxaEtxVWZPWFB2VXdCUGpOSlJyVFgtWkg2ajdR?oc=5",
+   "date": "2026-10-08T16:23:33.000Z",
+   "source": "FLOOD Magazine",
+   "summary": "Lana Del Rey, Bad Bunny, and Robyn to Host “Grand Theft Auto VI” Radio Stations FLOOD Magazine"
+  },
+  {
+   "id": "gn-1s7rgbt",
+   "title": "Trick Daddy and Trina to Host Dirty South Classics Radio Station in ‘Grand Theft Auto VI’",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQempXTnY3Uk0tV0V0ekNsdWxXek1oN0FzYmdZMEIyTjl1a3R6UzAyTWZMZXN5ckpaR0hsQlFtNjRCb0ZlWlQwS0toeXVXazJ2ZTdiZEZyQVJxZm10S1R1SXR6Q2pzYjBWd2wwN1ViSTdJcThKa1FmbWNXenlsWV9Kd0pac0dlNmV3eUNiUVJUUnhWQ3VBWlpYQg?oc=5",
+   "date": "2026-10-08T16:21:00.000Z",
+   "source": "VIBE.com",
+   "summary": "Trick Daddy and Trina to Host Dirty South Classics Radio Station in ‘Grand Theft Auto VI’ VIBE.com"
+  },
+  {
+   "id": "gn-e40toq",
+   "title": "‘Grand Theft Auto VI’ Radio Stations Feature Bad Bunny, Burna Boy, Lana Del Rey, and More",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3RNbXNqajV2bG44UmZ1bVNTX1p0UlEtWnJadmViQ251U3h0a2paa2F0TExlYmVCY0x0bFdrUjRQcEsweTVwZV9HVnFjVGRQa1FnUDUySkUxbnBBUXc2S3E0N1Y5bVBUT3pXVUJpRzlIMEc1d0p1UTNvUHljR1I2clppZGcxemNTX0pkVUtrTWs1T2UyYUxmYVRR?oc=5",
+   "date": "2026-10-08T16:20:47.000Z",
+   "source": "Complex",
+   "summary": "‘Grand Theft Auto VI’ Radio Stations Feature Bad Bunny, Burna Boy, Lana Del Rey, and More Complex"
+  },
+  {
+   "id": "gn-e63v1",
+   "title": "'Grand Theft Auto VI' To Feature An In-Game Metal Radio Station Hosted By Slayer's Tom Araya And Kerry King",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWRzQ2wyVENEdXgxTGM0QWpmV3cza2J0ZWd1VUs1TjFhT2JDekFucU9aNnNfTkVSWWMxUmM3b3NHZ0I1al90Qk9neHNLdm9GWVpnRENSUjlWYVlCSkd1LTVmblM5T0t5UGZDcDQ2enBRX183SFlnSnNDdkhnd2hUYTc2TWZrT1kzR3RkenVJaU9iQkNHS0kzSS1rM1k2cWpSSnpVV0VVX3RuNENEZGdfOC1sbkJJVzlOT216QmhncDRqWEZfaDVtM1JMaFB3SURhdEVTX2tXdlRtbk5O?oc=5",
+   "date": "2026-10-08T16:17:52.000Z",
+   "source": "Theprp.com",
+   "summary": "'Grand Theft Auto VI' To Feature An In-Game Metal Radio Station Hosted By Slayer's Tom Araya And Kerry King Theprp.com"
+  },
+  {
+   "id": "gn-7wv6uo",
+   "title": "‘GTA 6’ Leaks Return With A Clothing-Optional Lucia And Jason",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcF91cU9HekdjcUhSbGxLRFllWllSZkdQdjdjZ1hRYjBGcUxSUnRubWhpQWNBV05CVlVMWlg4dUpFakp3ZFZid1U1ZWNCdFlZR21QUDM5YnAxajhtQWd4NFdVMEtCNTl2QjNHeGxDcmNSSDZMZXdRSUQxOWRVOHZwbmpRMWtma1V5NV9hUUZNZ3lLaWFIMTR5bUpBbkNvYUdON09UVlQzZVE2WGRsclJn?oc=5",
+   "date": "2026-10-08T16:11:16.000Z",
+   "source": "Forbes",
+   "summary": "‘GTA 6’ Leaks Return With A Clothing-Optional Lucia And Jason Forbes"
+  },
+  {
+   "id": "gn-1jw5nec",
+   "title": "GTA 6 Fans Get Australian Government Guidance on Taking Time Off Work for Launch Day",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWm5lMVdGdG8zOUpiRkUwS1pwX1pwZW4ySVUxQTk1RGtFQUI3cE9ja1JrX1hWcFF2UVdJTm5pZUVUeXlYTGUwSkJ0MVN5bVNacUtPeHUyNU53TnJRVVVZQTVpTy1EdS1RUUVxLWNqampSbm5mTG9QUjlRekUzeWNjdVV1aFR3SE5pc0VYOHlPeUZqSEJXaTh1MVdBT2hYYUpZalVRczlaSENsMnc?oc=5",
+   "date": "2026-10-08T16:10:37.000Z",
+   "source": "MP1st",
+   "summary": "GTA 6 Fans Get Australian Government Guidance on Taking Time Off Work for Launch Day MP1st"
+  },
+  {
+   "id": "gn-1xgiu6y",
+   "title": "GTA 6 radio stations revealed, plus a whole new audio experience",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaXQtV3FFNjNKMWY1ZUctanV0WWF5UjZjcnBKc0pPeXJtWGhYbFhjQjBFSnNNdWhtd05fQVBmbGY0YmdhVW5VVmFHOV9keGNFZHVTejdzU1VVVUFKWlQ5TmttQkVMc2lIcWIzTmZBRU1kMG5Kd2xnQW4wYU10YUVlV1cwNkR4UV9veEt1Rlp5SQ?oc=5",
+   "date": "2026-10-08T16:10:14.000Z",
+   "source": "Radio Times",
+   "summary": "GTA 6 radio stations revealed, plus a whole new audio experience Radio Times"
+  },
+  {
+   "id": "gn-1nywykj",
+   "title": "“A Privilege”: Morgan Wallen, Lana Del Rey and Del Rey’s Husband Jeremy Dufrene Set to Co-Host GTA VI’s ‘Back Country Radio’",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRG9IRElQLTNZenp5aWdidzcza21ab3UwQnV5SUU5X1JDczJwaUxvTnhaNFVudkl1dFlHMEw2U2E2MnNvYU85cmNMUllkQ2h5cnBsUzBGUEczUkdxZFdFODZrcnBsUC0tdmNFc284TllWekRNUVM3OXhBaXZkbmwxSFhwLUJ4bzJKMmxBUnBKMzkzRnN6ak1QTWFYbkZ1UFNudlNLLV95YUVjcUdCbHU1dnpiS1JHY1VjdkVMU3V5SDUwdXZmZjdmcElVckdxTnBxOUYwUnpnYlE?oc=5",
+   "date": "2026-10-08T15:59:00.000Z",
+   "source": "Holler Country",
+   "summary": "“A Privilege”: Morgan Wallen, Lana Del Rey and Del Rey’s Husband Jeremy Dufrene Set to Co-Host GTA VI’s ‘Back Country Radio’ Holler Country"
+  },
+  {
+   "id": "gn-qzwmix",
+   "title": "Tune In: GTA VI Reveals Its First Six Radio Stations",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdFlWVkpOYmlsU1JDeW9mMXRDenB4TnppN0lhRmdnXzFHWTQ1dUZnTWRxVF9zdnF6M0ZBcnlkMG1YWTRQbW1ibnpPSlhOSzVNcG1BQWFJR3pzWjlKX1hNQ1BOVlhDZ3VtMlNYMUZCRGtOdU5US2hsYTV4NEFfNjZ3T1B6QVdkdw?oc=5",
+   "date": "2026-10-08T15:55:40.000Z",
+   "source": "TheXboxHub",
+   "summary": "Tune In: GTA VI Reveals Its First Six Radio Stations TheXboxHub"
+  },
+  {
+   "id": "gn-pfug1y",
+   "title": "GTA 6's First Radio Stations Officially Revealed By Rockstar",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1JpTjJyRXktU3k1dTVpUHVOVlBCVHh0dUR2bDhudVhEb25LUFdEb3ByblZMVzdScElkMVVxODRUN1d2N09qVDRuV1htbUg1ZWhnTUUwUmtQbl84QlUxaGNOMWc2ZnU2YlU4YXBIMV83dUFPY2Z5SW5sazdtaDNMcUpxSlM?oc=5",
+   "date": "2026-10-08T15:54:41.000Z",
    "source": "Polygon.com",
-   "summary": "October 19 Will Be a Huge Day for GTA 6 Fans Polygon.com"
+   "summary": "GTA 6's First Radio Stations Officially Revealed By Rockstar Polygon.com"
   },
   {
-   "id": "gn-19ozm0z",
-   "title": "A Historic Paris Cinema Is Turning the GTA 6 Launch Night Into a Big-Screen Event",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDI5T2FlcXFCX2EwZWRsYUEtcVNZbHZxQnd0cHNWTlAzMFhQVFlYcHppbm9ZOVJHNmNOamdVUGxIemFXaXZnaFNON3NNRUZUT2c1X1hIYUVkRjl1MkVYcDVWNU9OZjJSeFNZQkI3T0J2LUlVMjQwYmdJZ3hqUi1xaE4wMTRMeEFZSzJVOFI3NTBHeTZYTjh3cVNabFBCUVF2MFhHNXZzMFAxWkpqRXYw?oc=5",
-   "date": "2026-10-08T05:19:56.000Z",
-   "source": "GTA BOOM",
-   "summary": "A Historic Paris Cinema Is Turning the GTA 6 Launch Night Into a Big-Screen Event GTA BOOM"
+   "id": "gn-1j2il9v",
+   "title": "Lana Del Rey, Morgan Wallen, & Lana Del Rey's Husband Will Host A GTA VI In-Game Radio Station",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNjVTUW1EVFFQMzlZQ2FkczdsZUFtblZfYVpPOWhpaERETFRHQ1RuQzJoMmEtRnd4eXpPbWE3ei10eG1rM2FJMVNJSVhFejFhOVFOZ2FOTDVmVF9Idll6THQyUFVUV3B5d2hlQ1RyalZWN0U1N0tzdlZBbVp0bVp0WjE1Um9Ud3FlNlRlTHJRdlFGZEk3NTVJMUp5eXRPeF95S01lRXp6ZlhodV82V0p2cERjWFpNNzJhMFBseUNSaUw0dw?oc=5",
+   "date": "2026-10-08T15:53:00.000Z",
+   "source": "Stereogum",
+   "summary": "Lana Del Rey, Morgan Wallen, & Lana Del Rey's Husband Will Host A GTA VI In-Game Radio Station Stereogum"
   },
   {
-   "id": "gn-r27hxe",
-   "title": "Australian Regulator Rules Out Every Excuse to Skip Work for GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONlo3WDhlNXNPb2FodnlkNlY2MThTOWo0VG9YaVo1TE1IelNDSVRBSnJIVDVxYlVJYTFiR09PLVJKX1NJVFBCa0JlUnpfMWxITVpaLXFsaUZNMzJicDhYdVZmdm1fc2lYd0VtM2Z5dDRQZV9ZRnVZNEdyQTU4TXNUTlo3YzVocmdITW5fNjFncmZCa0piWVNtY01jSHdlRjBDMWJhbjFSMA?oc=5",
-   "date": "2026-10-08T05:04:00.000Z",
-   "source": "GTA BOOM",
-   "summary": "Australian Regulator Rules Out Every Excuse to Skip Work for GTA 6 GTA BOOM"
+   "id": "gn-1f7vyk4",
+   "title": "Grand Theft Auto VI Will Have Its Biggest Radio Lineup Yet; On-Demand Podcasts For First Time",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUG84QXZncHBVOE9CREZEQVlXZndWSzFvM3FlMHJiOS1WRlQzR0Ezem9pa1NjYXlHdFlMbzdOUE9SM3BuQkxpQWNoUzAyVk5IbVoyUnV1SnJzWlV5QjN2bnVjQmRabHRTN29HTXdBU0l3TEJpa1FXTkQ1OFJYX1Y1QUFOWHNjeHZyM3VIa01YVTVUSnpiU3c1U1k2U2p0R0Y5RnVMSndvVF9wZm83RGlEcElFSmd4WXI5TFNWMnh1Y2Y2V2NKZHNTakxGOERNUklmNEg3aTFxYUdlOE5RT09GdGxUVjNPZEJnTVZv0gHzAUFVX3lxTE52a0xMQzJFMDdSTnV6TVpheEVVLWJUcFdfX241Skxfczg0a1BrT0VCN04wSHZxdTJpVlRDdlpmMXBNUnpWbmZtUk5zdGl3bFgtQWZ3eGhld2dhUFJ5eU5sYWVsQkxGWlNzekJmNEt6U1FjaGlpR1hSLWx5WUdhSEE2aUEzSmJHbVNfNV8tOVNBbHh5YTN1bmdtblBUTF9MdEFCRkVyNmp4eU9jX25FNnhwWmp1Tk1MME4wb0Ftd29hTGFEMENNd0QyRVVFcE9ZR0RHUkhpbWVfMG8xZmhLYlRiQUFoTU15cTU3WFE4Sk5vcTdTQQ?oc=5",
+   "date": "2026-10-08T15:51:46.000Z",
+   "source": "NDTV Profit",
+   "summary": "Grand Theft Auto VI Will Have Its Biggest Radio Lineup Yet; On-Demand Podcasts For First Time NDTV Profit"
   },
   {
-   "id": "gn-pg33at",
-   "title": "The 3 GTA 6 Crime Systems That Make Every Getaway More Complicated",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3pDY0E2MS1ZcmkyRm1oVU1fa1RDOEJrR2hmV3UwdGYtaTV0aDhoWFlxNWRoOENYS3ZpRnN4c2E1akR4eU5laXN5aDFYTUtpaF9LYlRIWmNaa29jS09GcWZ6dmJXWEc0bHpyRnFEWTMxZHdCeVVwckxPUFUydzZhZDBLc2E2RkkxQlc0cFFkcF9uMmdrRmdySHZxd0gwa3NUN1E?oc=5",
-   "date": "2026-10-08T04:43:26.000Z",
-   "source": "GTA BOOM",
-   "summary": "The 3 GTA 6 Crime Systems That Make Every Getaway More Complicated GTA BOOM"
+   "id": "gn-7ncjsq",
+   "title": "Trick Daddy and Trina will host a radio station in GTA VI",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZmM0OWpTU3E1azJrV1N1RVFWZUVPbV9CQ0dlRTZ3TGI1aWJUV242NlE3cnZjVDBBdHU1QWFha2tjUl96dlZLUmRYaWFCU1lmSjJTZVg1LTh0OUtmS194UDZPSkdzb0VWMG52QTBveFM5Z0phbUNCTnJ3cWFtaGlISEJXbHpKRXloaGljbHNQRHYxdkNWd1c4TGtlQ1BqRGFmVkZTcndn?oc=5",
+   "date": "2026-10-08T15:47:06.000Z",
+   "source": "Miami New Times",
+   "summary": "Trick Daddy and Trina will host a radio station in GTA VI Miami New Times"
   },
   {
-   "id": "gn-u7ao5y",
-   "title": "Outliers: KYGO, KSOP Get Out Front On Wallen's GTA 6 Track.",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWk1NNDdOaEtTVGlTNXdXVWstSDFuNjR1MEh3ZHhxMjNkdE1Mcy1HbUM1em8yVWQyeVFESFZZRG1GQkg0NWpBVmVSRHJuZ2ZkeEgxa2dNeVdOOHFBdzQ2SjJGY3dfVWk5RkwtTTNCbG5SVXRSaUVFcHliMHdsMGdCSjVHMkZ2RVV5RjN3NlJSUG9oQXI3VTFzbVdXZWp5cGUzX2hCVEtFN0s3T3g1NWxudWdUOGJwTHdRd3JwYXNVSlNyV1dtOWtXMFN0U2dMVTNUUUZELW1WSU4?oc=5",
-   "date": "2026-10-08T04:43:00.000Z",
-   "source": "Country Insider",
-   "summary": "Outliers: KYGO, KSOP Get Out Front On Wallen's GTA 6 Track. Country Insider"
+   "id": "gn-q8teju",
+   "title": "GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1RxMVpza0hfWVRubzEtVHZKUmMtMEg3U040Y1puOGFkTkhBM1FiSWMwWkZ5ZExVemJQVGx4VnFmRzRhd2c2aHZwYmkzNjc1Uk9MTFRaeW9VWWI4eS1SbC1pTkZYZTZZTUhsRXlvZGpKZWlPd0NIaHVKMW9GOWhIVVpmSi1HVklGSU5zak1sRDlnam00TFNQOC1rTEp3d0d3STZodmZfNk1PWm56YzlleDNSejFEeU1zRVVLWkw0eFhNNmxyX0NRZg?oc=5",
+   "date": "2026-10-08T15:46:33.000Z",
+   "source": "IGN Nordic",
+   "summary": "GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern IGN Nordic"
   },
   {
-   "id": "gn-byaal0",
-   "title": "Rockstar Says GTA 6 Will Require Players to Earn Money to Advance Story Missions",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSjVkc0lhMkU5bExfWGpBTEQ1dUtpLWh6X2Y5bnhTNVk2Q1lWQkNWenBKZWF6c3o0VTFGX3YtNXoteFZkMTNwNEExZ0wtMklrYUlaWHc0SDhSSndHWE5rVjRoQjdxSEdXVzI5WVBjX0NvdTRtcHNNMU9udE0wb2stQ2oyVU13Q1BfSGF6VmlxaEhJZ3hGTVA3b0l2QXBoLXVoZXNzRk9pWmEyT25YSU5qeWpuLTdpdw?oc=5",
-   "date": "2026-10-08T04:41:08.000Z",
-   "source": "gHacks",
-   "summary": "Rockstar Says GTA 6 Will Require Players to Earn Money to Advance Story Missions gHacks"
+   "id": "gn-1mw6m6d",
+   "title": "GTA 6 Features Bad Bunny and Lana Del Rey as Radio Station Hosts",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnF5SmYzQjlmMlpyOGQyZGR2aVBKYVU3OTlLMEluVmhFeVV6WjdVMlRINDNtSUJvRGNCcXE2ZzNyNHBBbnFncmNRUkVUdks3dVh6OTl5dFEzM0htdGZrY0cwUmlPVGtUUzdrVUQyeXJONlBHeHJmOTJVV0JxX1V1X0tkbFAtVUFLUkhORWNzdTE?oc=5",
+   "date": "2026-10-08T15:34:48.000Z",
+   "source": "GamingBolt",
+   "summary": "GTA 6 Features Bad Bunny and Lana Del Rey as Radio Station Hosts GamingBolt"
   },
   {
-   "id": "gn-5euiem",
-   "title": "New GTA 6 Details You Might Have Missed",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90SUJUbmltYS0xbF85NXZYVUdjdVVJZmk1REJNQ2FBZUdrREtxS05GNzNhOWZEMkxmZVBXZ3hFOVNwMEh6MTZrUVlYX1Z5V2M2M0ZMRndQSTEtT3c4SGdvV1RMZ3NZTGxqWWo2Vi1xZTZkalJi?oc=5",
-   "date": "2026-10-08T04:40:36.000Z",
-   "source": "IGN",
-   "summary": "New GTA 6 Details You Might Have Missed IGN"
+   "id": "gn-10f44wb",
+   "title": "Careful Out There: Latest GTA 6 Leak Has Major Story Spoilers",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcnRFb05fNTBrRC04c05FMk9GOVBDdjl6bHFuZ3BJTU1qMVQ5ME01YVpGUnFfMk1Sd1NKTnFHRHlNcEppMGk2OXpzNmZWQmlKOGhxcG5oZzdmU2pBOUU5M3huVkVEWmpFeC1QakpVUlY1UkJRUE9tV0NDMXJJcmRkVlBYdnhWX2pyUl85T3ByQXQ1SGFSaG54WlV3?oc=5",
+   "date": "2026-10-08T15:32:04.000Z",
+   "source": "Engadget",
+   "summary": "Careful Out There: Latest GTA 6 Leak Has Major Story Spoilers Engadget"
   },
   {
-   "id": "gn-135t5td",
-   "title": "Is GTA 6's Jason Neurodivergent?",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lQ2ZQZTZpZ3Jaem0xeVU3anlFTk1FZFo1emNVOVFMX3ZWVG1kTnVkU3lmbUxXS29sQjctblhBX3ZldWdDWmIxQ01WUTJ6ekxaSlNxVXIzZXNZYWVJcmlJVk1TMDlHXzJf?oc=5",
-   "date": "2026-10-08T04:36:59.000Z",
-   "source": "IGN",
-   "summary": "Is GTA 6's Jason Neurodivergent? IGN"
-  },
-  {
-   "id": "gn-1kpubv7",
-   "title": "GTA 6 Could Be On PC At Launch",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VS1JiQ3R6NVdNQUdaOUpGRm9MZ0hjemRhamJzOGxlY3ZxeWZkNjJMaDdVSjRjaU9yeGRFdUtiemF4Z1JIU29PU0lVTE8zQ1cwU0JlblBRR1pPSk40eVEtaFJhd0c3dE00?oc=5",
-   "date": "2026-10-08T04:35:43.000Z",
-   "source": "IGN",
-   "summary": "GTA 6 Could Be On PC At Launch IGN"
-  },
-  {
-   "id": "gn-1pxir0s",
-   "title": "GTA 6 Lets You Skip Jason and Lucia's Romance or Shape How It Plays Out",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONEx6dV84OE1KTHoyd2VZdzF0SVotZ3NseEhlQndsWmlmVTlEanB5U1R4Wm5UUHVlMUlqVzN2Zng3SW5NbjQxck5sV0JKb0phZVViZmljU0g2NndWWGE1X05LUzdBaF8zRDhwQW5IVzlxdC1ad1RwX3FSaVl6bWx1c0pHbzItQmtJbUd4V2JyaXJiMHRHNmktbDQ1Y0dsODhYWk02Qmd0WGJESnNJREphalYyODE?oc=5",
-   "date": "2026-10-08T04:21:03.000Z",
-   "source": "GTA BOOM",
-   "summary": "GTA 6 Lets You Skip Jason and Lucia's Romance or Shape How It Plays Out GTA BOOM"
-  },
-  {
-   "id": "gn-unru6w",
-   "title": "GTA 6 trailer #3 anticipation rises after YouTube ad teases Rockstar Games title",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcG5JU3Z5ZzVzTWNYVzI1VzBnd2prbWRRN2lIa3VpLXdSeFYxTW90X2pnOVhvV3VhOURRWnFOMHdaTkYwdWlIOXUxUlFmMTJmODRVUlp5aHRHVmdrR3QxYXJob1ZkcnFZMEVWYnFkLVNOeXZuRWY3c1hRWVEzWWlpZEhZUFdtT2l2bEExMU9TbFo3OXNVT19FUzBodVRyLWRzcmpIeFpQT0I2TDZOZ0NwNlMtNnRpcTExcmNLM1hyeFpMUQ?oc=5",
-   "date": "2026-10-08T01:58:00.000Z",
+   "id": "gn-12uprb",
+   "title": "GTA 6 new leaked footage shows racing, first person mode, and full nudity",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1N6YUlyYWxlN0I4WDM5cW1YbFl4VU5PaTRJeU85UGNEU1ZOOG9aSEZfQmNwbzRBaVN3cVRrNWlOTkZXNzd1U05haXZnbV9qdmw0aDNRVzFndk15VWdqeGJ6MjFOV3E4YXRYZ2cxTlo3aXVzSTE5TXZ3bzRZNTF0WHMteVQzSnpNSTMtSDBrdXUxRWgwMmhfc3E1VGxrYktabVlvTWszVS1rbzZocG16eUJhQkJqVnM?oc=5",
+   "date": "2026-10-08T15:31:00.000Z",
    "source": "Notebookcheck",
-   "summary": "GTA 6 trailer #3 anticipation rises after YouTube ad teases Rockstar Games title Notebookcheck"
+   "summary": "GTA 6 new leaked footage shows racing, first person mode, and full nudity Notebookcheck"
   },
   {
-   "id": "gn-zrlytp",
-   "title": "Cardi B Teases Possible GTA 6 Collaboration With Lucia’s “BADDIE” Shirt",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53SkNuYW52cEZtMGFhMzBTZENCanNFUmh5dElMRG9jRVctNzg4RmthQURNejR3eW5QZk9iZmZTWkZzTDU4QnJsV3FTWEd4MzAtT2RDWlJSU0dPSVpsXzhfcFAyckJfdVFhYUktOVZR?oc=5",
-   "date": "2026-10-08T00:39:14.000Z",
-   "source": "InMusic Blog",
-   "summary": "Cardi B Teases Possible GTA 6 Collaboration With Lucia’s “BADDIE” Shirt InMusic Blog"
+   "id": "gn-l4jx7r",
+   "title": "GTA VI To Feature Dedicated Dance And Electronic Radio Stations",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTFmSkUzSGZ1QVA5eDc4eDFrVmxUYU9iekNWai1DSElvdEhTSEw4SVlZQ3gwcXVqNTFtM0ZnYlVwTXJIbjQ3ZV91Y0YwR3lDV2lTZ05yOFJTN0drNFpYUTVnM3B5ZnFySXVsN1Jqbk9mc0Rsb1A4a1ladjNXOE9VX1BJYzRDSnJuME1zbHc1OFJHXzFpQWk0?oc=5",
+   "date": "2026-10-08T15:29:13.000Z",
+   "source": "EDM House Network",
+   "summary": "GTA VI To Feature Dedicated Dance And Electronic Radio Stations EDM House Network"
   },
   {
-   "id": "gn-pilcrb",
-   "title": "Xbox Denies GTA 6 Cloud Exclusivity, 15-Hour Cap [2026]",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDhYMm51MWN3NUdiU1NhZnNEZm5fd2QycElJUmcwVEYyVkNZMnBVQ3ZVd0VVeHVCd2dFUmxTRWMtUVEwN25tNC1EWVJpVVNYY1FYZFFjOXlfaWhqbzk1bGtiRmRPV08wTmEwbldTemtzblI0enBGdGZxbXBmOHl3bUtoWlQ?oc=5",
-   "date": "2026-10-08T00:28:17.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "Xbox Denies GTA 6 Cloud Exclusivity, 15-Hour Cap [2026] https://tech-insider.org/"
+   "id": "gn-58ut73",
+   "title": "GTA 6 Previews \"Back Country Radio\" Station Hosted By Morgan Wallen & Lana Del Rey Featuring \"Outlaw Country\" Songs From David Allan Coe & More [Listen]",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUk9rZ0Z6WWZMb3d5T1hVZGFNaDVtWUZJN2lMRWpGWDZfQUdPZWRISkEzbU00ODNVWS16SlcteEI0blJzaWQtMFd1RjBLcTJfUE84MUg3VU80ZF8wSUtpTmJrX3dfS3M1eW1XNm9SN0xickxfakllZHZCWGtNaHZhN3R2ZmlnZDNVLTZ3OGFhY1loTUZ1N1c2cjRoRkNJQW9hTTJSNVFpeEFqd2RpcmdpZzltOExsdmV2ZUhfcmxvNGtQalBaNVZzTmhvMHhseGhWQnNydTJhWnAyOHdzbVhjSGxpcUxfbjZNdHlyY181M2NRM25aWWxYYWtlV0Q?oc=5",
+   "date": "2026-10-08T15:23:59.000Z",
+   "source": "Country Chord",
+   "summary": "GTA 6 Previews \"Back Country Radio\" Station Hosted By Morgan Wallen & Lana Del Rey Featuring \"Outlaw Country\" Songs From David Allan Coe & More [Listen] Country Chord"
   },
   {
-   "id": "gn-14nqio7",
-   "title": "GTA 6 Fans Are Buying Handmade Statues on eBay",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX2xKREZzMEktVlQ2T1E2WWZFTnlDUlVDcHFoek84ZGVhWXRydEZTVlkyNDhqdkFIbG1MSjBJejdpcl9UNGZWaUw5Yk5PRHkybGg3MXI3V19vanFwWjZHQ0VUNzJzRTNvX3F3RlZKQ1ZvOFdGUUFmenNORGZreW1qWnRnaldYTFUzWkhUR1F0TQ?oc=5",
-   "date": "2026-10-07T23:36:28.000Z",
-   "source": "Resell Calendar",
-   "summary": "GTA 6 Fans Are Buying Handmade Statues on eBay Resell Calendar"
-  },
-  {
-   "id": "gn-1ofe9t6",
-   "title": "GTA 6 full interview with Rockstar’s Rob Nelson reveals new details",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2dpVlZFT2RHeDVhTU1oS1JYNHZ4bDVveXBCa3RfVU9SNWVjNGZQRkJBZW1nSm9CdUFXVzlJZG81a20xUDhrY1hSeS1MTkIzY3ZuRzJWcUF4bk9vQTB5dWt2MTFkdThkbGRON2lhb0lyVjlZMnk1b0RZdkQxQjlIUjJzY1NDQ1lyRURZbUZwa0tWc19ZaTRRQW5TRW9RbHF5SkZVTVk1YnprcjZvaWc?oc=5",
-   "date": "2026-10-07T22:50:06.000Z",
-   "source": "Inven Global",
-   "summary": "GTA 6 full interview with Rockstar’s Rob Nelson reveals new details Inven Global"
-  },
-  {
-   "id": "gn-1ves7ph",
-   "title": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM2JPOURxWnVMb2o5SDRUXzFqREpidDdLWVV4THQ5ZU9ueEtLc08xbFJWYkRjY2YzRElEQm9Rc2hBd2dPTEpYM2FiNmNyWVJJMXR5eG43STMtTHJRNnFYT3FHUHpxNFJ3WllGSzhwR2V4eVpMNlM4Q29LUV9ENTM1LVpUQ2t4bGtFS0VlRkFMN2ZlR09Qa1FnWXBoSzBvZUs0WC1nODlVbThveDdZRGpod2QzbVVwb1RRQXd6MU5VdE5iYjBld0daR0tYb1FlNXgyUU1pWFRsUWRHV0VXSnJsaWFkWjFYdG5RMGdF?oc=5",
-   "date": "2026-10-07T22:41:23.000Z",
-   "source": "PC Gamer",
-   "summary": "With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well PC Gamer"
-  },
-  {
-   "id": "gn-aypret",
-   "title": "GTA 6 may be the last blockbuster built without AI",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYkt3aEpNNGEydzYwOHE3LWlDaG5zaE1uWDJWeWRmaHowNmVCTXVta0xnanhzRjdjV2wtcmFqUFhvbldjbzFLeWdwcm5pWno3TWs4V1VkVl83RnBWa2I5UGJSS0xicUFDbEo0X0hkb1k5eWJDcmFQWm1uR3I1UHlueXhQdkFqc3hlMXNhc09XdFVkcVdU?oc=5",
-   "date": "2026-10-07T21:47:03.000Z",
-   "source": "Yahoo Finance",
-   "summary": "GTA 6 may be the last blockbuster built without AI Yahoo Finance"
-  },
-  {
-   "id": "gn-1g0ywrc",
-   "title": "Attention GTA 6 fanatics: I've handpicked a headset, a controller, and a TV that you should seriously consider upgrading to before the game arrives",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPWTYzQU5oQkpIOE40a2w0dEQ3NDhoOHh4cTJVUWtyVC1mLU02WXpKcGdJdjBRMl82WUh1MXZfc0d3UjNZQzkxMG1pcTctTjBrSTl4MERCamRWN09nZTNtVjBUYkJ3TVVNRDQ2dkptMWdOYlJvR1FBNk5SbVpXVWxkdmVBWm5yc3hXUVgtVWdwQ1JlVzV3QUUwMkdHWnU2VnQ3WDRvdFdKcmx1WVZxVEsxM2FEWDlqb2tIQlBidERnV1FwREZ1SEFDWHdVaVNLM1RpOUFnb1l6aldTQWdfeTNRX1FsVFRxX0RobnB2ZTlCbzZ6N0ZkYU9RdkpuT2gwWm9qOXJ6eW56eHpGVlVVOTdYTkFxMnhHbDZZaG4wN0h5c2JOQndl?oc=5",
-   "date": "2026-10-07T21:30:00.000Z",
+   "id": "gn-dspu78",
+   "title": "Listen to a preview of GTA 6's in-game radio stations right now as Rockstar confirms 'a series of on-demand podcasts' for the first time ever in-game",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbEZuZm1QVHUxQUx0QjhTSWZ5cVQ1SHZIQ016UzFTMkFPZHY4NlJkelRUeHkxd2hCQW1DZkprTEpkbjRacXFhbnBaTUZTNS1oRC1FaFlqODVSQW51MmtMeGYwemhSc0poVFh5U0lHM21heXdWSFM5R09iaEJyUmdtVHJuWlhlWTBEUENXSXZtVXRzM3JpTDN3NWFpMm81QndDdXF6Z2lURGd3ME9IOFZnUUlsU1IyaEt4elVhQzFjT205MXBDazA3NGVhR0FPSWtSSXZoWjh0Tzdjd0FzRUwzMi1wX3h1NWVIT25XVFhJMnNmdVllWnF1eUI2clJFa3UyV2ZNQnEyeUx6YVE?oc=5",
+   "date": "2026-10-08T15:18:58.000Z",
    "source": "TechRadar",
-   "summary": "Attention GTA 6 fanatics: I've handpicked a headset, a controller, and a TV that you should seriously consider upgrading to before the game arrives TechRadar"
+   "summary": "Listen to a preview of GTA 6's in-game radio stations right now as Rockstar confirms 'a series of on-demand podcasts' for the first time ever in-game TechRadar"
   },
   {
-   "id": "gn-qrg1ts",
-   "title": "Xbox secures exclusive streaming deal for upcoming GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM0RsNVo3MDlJZlp4WVVUTzRNcmMxYzNFdVlSakZJanMtRjBwODlwY2tBS0dFQTBDRXlaS3N1dnRhVzBmTVRuUTc0V1dMdHp4MkowdE1xdDJvV3ZrLS1YWVhveDI3MXpiUFpRVXZhdUNQLV9Hc2tnV19QQ1h1TVRaeG5jUGNKUTE2RUpydzRIN1R5emdNa3d1YkVaNWlxNXlpU1NpVHFoeVlvRGtB?oc=5",
-   "date": "2026-10-07T21:15:57.000Z",
-   "source": "The American Bazaar",
-   "summary": "Xbox secures exclusive streaming deal for upcoming GTA 6 The American Bazaar"
+   "id": "gn-1azlyl1",
+   "title": "Slideshow: GTA 6 Screenshots (October 8, 2026)",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMmNxSGFkNDJrbkZ5ZUxMZkg3R3RXZmtPWHBrelZxSGVuaHRibVN5cGJRQ1UwTllzOUh6UWNaQ1NJdkRhazZkS2hiMF8wdEw5NEVBNWtEcGFRM0FlZzVnLUdzUTYwWEl1YjhMRjRyTHdYdHZhQlFzOTN5c1RIZkgyX0VIc1ZHcXRUS2hMNThqOTBPWFZyX0VPTA?oc=5",
+   "date": "2026-10-08T15:18:01.000Z",
+   "source": "IGN Southeast Asia",
+   "summary": "Slideshow: GTA 6 Screenshots (October 8, 2026) IGN Southeast Asia"
   },
   {
-   "id": "gn-n12oqd",
-   "title": "Rockstar, Does GTA 6’s Jason Show Full Hog Or Not?",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR2lhUjNMQ0I2NnlPOE95QUNHd1VYN1I4T1FfSGdrcGNkanBqNGdiNTlNWEJBQzdGbEgyRjl5a056bFhRdzRKT0lXcnhGS3J4bWZ6eXNxbk00Z2FJMUR0dmNEdE1ZNU9hellGcGJ0Z04tZ0Rxb0R1NDlRV2NwSjk0TmNqSHhmVVRKRVZN?oc=5",
-   "date": "2026-10-07T21:10:48.000Z",
-   "source": "Kotaku",
-   "summary": "Rockstar, Does GTA 6’s Jason Show Full Hog Or Not? Kotaku"
+   "id": "gn-1l5no70",
+   "title": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQZ1hvNy1JX1kySC1HUllHZ0kwbFJGaWgyZUY2X0N6ZGtrQ1U1U0NlVzlPM3UxSWFjNmp2cGhmX09fRHMxMG51UkZtWGZTX0lrZnNReGFHdlRGRl83d0Z6bHRDSVNxczh3NFptZVZTYzdoNkNiU1ZvX3FRRDlQS1B0ZGRCTmlxWWFPVFhLek95MnBIVUNCbVNJME90YmdWMS1EZklSdWZkVlpuOFphWFYzeEI0cmxHTlppYzdwT2gxTWVkUVFuYkdnQUVrU0hjelRQeXdLMEtvWGJLb1djVmYwd3VraThiaEs2SzVoTU1RTXdheTBGR3BIV2VKUFZTNjFoT016V3ZMVDM5Zw?oc=5",
+   "date": "2026-10-08T15:17:45.000Z",
+   "source": "Rock Paper Shotgun",
+   "summary": "Rockstar-hunted GTA 6 leaker seemingly strikes again, showing off series' most plentiful helping of onscreen johnson since San Andreas starred Carl Rock Paper Shotgun"
   },
   {
-   "id": "gn-dld7dw",
-   "title": "Xbox clarifies that Cloud Gaming will not allow GTA 6 to be streamed on PC",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0h1NmJGbTctNE1JZkpmaFp4alVxZ0F1V0FUZHdQTk1NWWlSYjltVFFqZWZlc1lLVFJBZFJBZ1h4OTBMNWk4NjhOQmVScFdMeHNxTXRRLVRHV1JGVFdnOUtiRU1IQjRxWEhwX1c0OHJRdzNrdEJnTnV4LWFzX2UxWllWVUN5NXRJZm84VlNIY3dWLWEwcWRHUWlfT284SDdxa3dURS1WejEwck1tYm5BNEluazNFQQ?oc=5",
-   "date": "2026-10-07T20:48:00.000Z",
-   "source": "Shacknews",
-   "summary": "Xbox clarifies that Cloud Gaming will not allow GTA 6 to be streamed on PC Shacknews"
+   "id": "gn-1yvuqgu",
+   "title": "Slideshow: GTA 6 Screenshots (October 8, 2026)",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaG9LaUNpci1PQ2NRcUhnNmdUWnQtazBJWWRIU29jTjFtbWtWOXlkZzB3UnEwdkFaUXBYNnJ4YnJVakpTSVFJaXlCcnk5U2RFaldfbU1sblZmcFlyYVJQNkQ3bWpwWmYyMjVlS245VjdnQzJyQ0I2MWlhc2FZb1lzX2daZS11Q2hZLW5kR3E2TDlydDA3dW5z?oc=5",
+   "date": "2026-10-08T15:14:00.000Z",
+   "source": "IGN Pakistan",
+   "summary": "Slideshow: GTA 6 Screenshots (October 8, 2026) IGN Pakistan"
   },
   {
-   "id": "gn-s1p41l",
-   "title": "GTA 6 not coming to Xbox Cloud Gaming, PC streaming — Xbox exec",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbjFEMW8wZGVPZlVzUmlRcExFWmpYblBjN3Y2X3RLbW9mb0ZWbjU1eDlhVTFLdzBnbnNGWHoxdWhlb1piU2E1OFdqcnBmbFhLRHRwZFl0WGNybG1ROGE2a0p3MFF3RWlrekM3MHJtSl96d0d5NzFkZFlyMF9xTTY1ZUZXZ3YyUzlyaDcyU1ZqQ2VOelB0TXVydzVjLXF4MWlhQjl3QXIyMHZTTmN4UW1tajZhZ9IBuAFBVV95cUxOYnA0cGJicHlfbGY5U0xMWnhSUUZnVk5KZm1wLXBaenhBNlJXOV94OWtPcC0yM2tmak1ISmN0N0VnYW1CeG9GYTg2ekU2VXZTZ19xd2V2SmtDaFdVV01FdnlpcVJmdU5FTkFIVGdJVTZBbElvQXQtYXoxTDZESmF4aHhSNGU1eDFGVllURVV5bkxIRF9PLVpEMldOTkhPYlBOQVJna0ZLbU5VRk5YVTNhdGhfYWZjT1Vt?oc=5",
-   "date": "2026-10-07T20:41:00.000Z",
-   "source": "The Manila Times",
-   "summary": "GTA 6 not coming to Xbox Cloud Gaming, PC streaming — Xbox exec The Manila Times"
+   "id": "gn-7lu2st",
+   "title": "Grand Theft Auto VI will have a heavy metal radio station featuring Black Sabbath and hosted by Slayer’s Tom Araya and Kerry King",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORUZCRk5XVjIxLTVWbUc4WGdvdU1CSFVHZ1dERF9udkFlV0kxc0ZoUnE1WTlqZ0RIa3dEUEpDdEdJaFJLWWhDaG02RTB3cVlpRXMwc3VSUGtnR25ad1VXNk9EUjR4T3FnSUpRblJUcmZwWkRDczdZRk5KMklGd0wzWGlfTmhqNGVtdGJ1YXJCYjN4V19w?oc=5",
+   "date": "2026-10-08T15:12:09.000Z",
+   "source": "Louder",
+   "summary": "Grand Theft Auto VI will have a heavy metal radio station featuring Black Sabbath and hosted by Slayer’s Tom Araya and Kerry King Louder"
   },
   {
-   "id": "gn-pc2w1v",
-   "title": "Fuerza Regida Tease Involvement in Grand Theft Auto VI Following Soundtrack Leak",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWx6dTB0OGVoaEJveDZQdGw3REx6aFNyWUIxazFXdUhSUTdjaWFOWE9qRFhWcnA4RXNIa05scWtYUVlZTGVLVEdtX3BJUnlmX2MtQ3k2VWs3NHo5MHJLZEwxdzcxaVdMTmduSUhvRDZrQVB5U1hHeWlOWTBaYUJWTkdUNA?oc=5",
-   "date": "2026-10-07T20:37:48.000Z",
-   "source": "Consequence of Sound",
-   "summary": "Fuerza Regida Tease Involvement in Grand Theft Auto VI Following Soundtrack Leak Consequence of Sound"
+   "id": "gn-g3zaih",
+   "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRllGMFBWY25oNFdaYlpXcEFKbUJxajZ1Q1Q2aFVodFVkemhRYzB1QndlVnp5M2xpSXFvZ21rdFZZOXJMd1ZTS0hSVERJeWF5TGpHVnQ1bngwblh5RXo3azNvbm1zbnhwc2pHNGNjZmxBTGtTRDUwVVdIRDJGRjUwMnZob0xzRDVtWnJzTDJSbW9LQXJTNEM5MkVuQTVMVld5bGE4Q3lpZFJsSV9qMVZWeUxTMWxoWFFUZktLUg?oc=5",
+   "date": "2026-10-08T15:06:25.000Z",
+   "source": "Mashable SEA",
+   "summary": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail Mashable SEA"
   },
   {
-   "id": "gn-1108dzu",
-   "title": "Xbox Denies GTA 6 Will Stream Exclusively or to PC",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YTGljbWhUYVpqQTVyTEdwbnN0UXdpb1c2a0hGSXFBVUg5MlNPeWJvOHkwdXFHenIzMVZHMlltTXcwYkQyQy1SWThISmRyTHRaeHJZRzFkb29zNnQ2ZWY2UmhSbkhWRjAyMU5Xa2FjWjY5Qng3REhpMUh0eUVfZw?oc=5",
-   "date": "2026-10-07T20:15:00.000Z",
-   "source": "ColombiaOne.com",
-   "summary": "Xbox Denies GTA 6 Will Stream Exclusively or to PC ColombiaOne.com"
-  },
-  {
-   "id": "gn-126yzjg",
-   "title": "Xbox GTA 6 Streaming Rights Explained, No PC Streaming",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fMXpRblBZVXZ5MnNOci01WmhNZ05Mb0hILUZDM0JQYzdzdEFyand4NEZWM2VMcGJ2LXBReW5Xd29icllQRERZMENCT2xQMnE2V2FFYzVqS0x0OEY2aWxoSHpGdTBoa2JkTzE4UllsLXNGZ1gxT0d2d2RQb3Q?oc=5",
-   "date": "2026-10-07T20:00:50.000Z",
-   "source": "ThePCEnthusiast",
-   "summary": "Xbox GTA 6 Streaming Rights Explained, No PC Streaming ThePCEnthusiast"
-  },
-  {
-   "id": "gn-1dinq49",
-   "title": "We Got All Of These Sneaker Things Before GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPS0Zfa3NWYVdXSUNPRFNSZVZjcjNrcXBySXptbjBFWl9Va3Mtem5sSUFpZmpWZFRfX194VDNLdVNoXzlENklzUjlvaXFORzZmLWFKa0dHdms5aUw2RXBtQUx4a3pMWlV6WmFzSGo1OVh6ZzFRN2pQYWZnNExxV3NMM3p0RUdLekFRRnQ4YzdJWWRBUnpJUFE?oc=5",
-   "date": "2026-10-07T20:00:39.000Z",
-   "source": "Sole Retriever",
-   "summary": "We Got All Of These Sneaker Things Before GTA 6 Sole Retriever"
-  },
-  {
-   "id": "gn-1e2efc9",
-   "title": "Gaming Publishers are Avoiding Normal November Holiday Releases – Here’s Why",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOWM1Q3RjcmhRaWtQSm5qdV96NjE3UDR3SDBKTi01NmQ4NURLVDJVS3hYQ0NsZm1IdGQ1NW5PYWotN1h6NllOTWxGN0p1OTNBUWl2cDdENDNubUhLX2hkMTZ1VVpxaE91Zlo2dHBPM0h4VXpkRGd2d1I3MEo0UnFuRF81Y0tid2FDVWRF?oc=5",
-   "date": "2026-10-07T19:39:43.000Z",
-   "source": "Mix93.3",
-   "summary": "Gaming Publishers are Avoiding Normal November Holiday Releases – Here’s Why Mix93.3"
-  },
-  {
-   "id": "gn-kinljv",
-   "title": "Xbox Denies Exclusive GTA VI Streaming Rights, Rules Out PC Cloud Play",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVSHlhbFc2N2ZJWXpIOFoxUFdtaGFVSVEtT0FId2dDUFJQcEp6ZDZWS1pDb2pRM29hS1ptdXBLQzU4S1dPc1pkVy1BdVhDa3BlZjZ6MVpYd0NBS1ZlcC1WLUMtX3l0LW05NTZoaENjQjNwWUM0?oc=5",
-   "date": "2026-10-07T18:48:48.000Z",
-   "source": "GodisaGeek.com",
-   "summary": "Xbox Denies Exclusive GTA VI Streaming Rights, Rules Out PC Cloud Play GodisaGeek.com"
-  },
-  {
-   "id": "gn-rhsc7y",
-   "title": "GTA 6 may be the last blockbuster built without AI",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTGQ4aXJ0aGZiR2FUS2xlaVFWNHJDWjFFQkptdzU2Y3U3Q3l0cEFrRGNJYm05Uy1qZzZ1OE5fQi1rMzd4WGMzR2tlTzlNR3VjSGhuX2dfS2xZR0tiR3pWRVRHd0g4VmRSSnVVaGJUVEFZTjFnbzFkNWZ1TE5ldWN1Rjh5OXpOT29TdXRUSG1UU1hRV3FjTXhXb0twczBhQXk4dks0MVNLMXhVa0U?oc=5",
-   "date": "2026-10-07T18:47:03.000Z",
-   "source": "TheStreet",
-   "summary": "GTA 6 may be the last blockbuster built without AI TheStreet"
-  },
-  {
-   "id": "gn-1s9yrjo",
-   "title": "Her Dad Wanted To Buy Her Old iPhone, But When She Said No, He Held Back Her GTA 6 Money",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUUzcmtRUTBoMWZac05YVXdkbGtreV9wXzVTUEdDNExPaWlNY1V6UTVjTVJmczQ1NVdUcGhlUGU5bENlWFBJaXJKTUlpZTJzTlRVcmdBMGMzRXZXSXdVcmRXcEUxNFZjZjNRVk1qVnNKWTZraXhSbEVsV20zeWJVajA2bF9uYWxMSXZ1WVpOZzFKeHlCWTcxZDhnZG9MUUtGdGwwVWxybjBVMk1qb2YwUHkwZEZLY2NLNnhQZ2l3?oc=5",
-   "date": "2026-10-07T18:15:41.000Z",
-   "source": "TwistedSifter",
-   "summary": "Her Dad Wanted To Buy Her Old iPhone, But When She Said No, He Held Back Her GTA 6 Money TwistedSifter"
-  },
-  {
-   "id": "gn-1pa8zxr",
-   "title": "GTA 6 will be streamable via Xbox come November",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazNjTk9FdWdoYTRwRWd5ZnduZnpuOWh5Y1hrNVBKOW13OVllQlRPaTZvTndnbHFSWjBpQnh1MDQ4Z0V0bmpUeUpJUDhVS2g0eVMzcUxLN1pQWElRRE9aX3FfUk9KSXZxTkcydjZVSDJkRTM3N3RabVlzR2l6N2lJNnFOTVJod3VpQmhPWmFOMHlNX2VfTXNzWg?oc=5",
-   "date": "2026-10-07T17:59:13.000Z",
-   "source": "Android Headlines",
-   "summary": "GTA 6 will be streamable via Xbox come November Android Headlines"
-  },
-  {
-   "id": "gn-1xrieku",
-   "title": "GTA 6 PC Release Date: Before 2028? | Kalshi Market",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTVZJcnpsSzFyMThRTmZ4Z2dFRFdDLW1CYmdlUGhZYUUzaU5QR0ZtVWE5TklqeDBRWkRyaGVGd3NhbEVqZXRsUnNkQnF5cEtyRHNUd0xSUFdqblpKRk9FQjBYMUdXWU9jVjFXbFBBNHhaZUcybTdEUVR2YVllTlNZdWZVR1VaR1ZKUDdZVEJTUllpT1J5YVhjRVptNnp2R1NNMnE2Sm5LNXZqWlNfeUY5LW9qbzM?oc=5",
-   "date": "2026-10-07T16:59:00.000Z",
-   "source": "Action Network",
-   "summary": "GTA 6 PC Release Date: Before 2028? | Kalshi Market Action Network"
-  },
-  {
-   "id": "gn-1l964vb",
-   "title": "GTA 6 Xbox streaming exclusivity claims shut down by Microsoft",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOEl1NWMza1F3WTFmUTV2UEFHN2VWLXk2TzU2T0xHU2lscnVSVElhd0pXQmgyVTNhZGh0RzdpYUJoVnY2MEE4SmxDeDJRdFk1TXVETFJZVVZLS3M3VVFDck1Ua3d0akRYWWkwVG15NWtoeFBQWXlxS0gwRElNcDNOeFBoMWoxd2s0RmV6WGJXNFNyc2JhZGM0?oc=5",
-   "date": "2026-10-07T16:57:59.000Z",
-   "source": "The Shortcut | Matt Swider",
-   "summary": "GTA 6 Xbox streaming exclusivity claims shut down by Microsoft The Shortcut | Matt Swider"
-  },
-  {
-   "id": "gn-iqmsxv",
-   "title": "GTA 6 details: Red Dead Redemption 2 systems taken to the next level, physical intimacy, and more",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdkRkbUx2dDFOaHo2dWVScFF2RWdvZlBSVWpkRGJDMmYxZ0lPNVhDR25vVnUwQmkwZXRadzdHYTVUTkZSRVZHQ2VsZ0xZd0RFdXZtWENocHlVZTNJOEN4SC1pZnlSWFlrbzNxblJjU08wSDRKSDluczdtODhOUDl3UEhTa29kV1VRdmVxZE5PdnZqdDFjc3lraEV1QU1BM3NfcVFfZmQ1X3ZNdmR0enB0UkswZDdaRTEzTEcwVWh3N0d2bjVNOGpibFBXN3N3N0J5bEpBR2xR?oc=5",
-   "date": "2026-10-07T16:55:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "GTA 6 details: Red Dead Redemption 2 systems taken to the next level, physical intimacy, and more Notebookcheck"
-  },
-  {
-   "id": "gn-mw4mrn",
-   "title": "Grand Theft Auto VI bypassed Forza Horizon 6 for underbody detailing",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlk5QWduSWYtWnRTcWpEakVLQTBwRi0tVW1xRkozakYxMUZ6aFJDSFFoajI2aldPNlpocEhDOVc4UjBNRldiN2xZTXBNR1BCenpPYldwSWh6bGx2Q2FFclh2UjdDU00yeVoycGRqUjBLaXczM29uNms4alZxdWt0OVBuNDRTZUFlTndmMlFrTDVXZm4zYUp6TW1PLW12UEs3R09BX3RFSV9WemVGd2FReWtDRQ?oc=5",
-   "date": "2026-10-07T16:48:34.000Z",
-   "source": "GameGPU",
-   "summary": "Grand Theft Auto VI bypassed Forza Horizon 6 for underbody detailing GameGPU"
-  },
-  {
-   "id": "gn-thyj96",
-   "title": "GTA 6 Wants Losing Your Wanted Level To Feel Like A \"Hit-And-Run\"",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUDZVYlFPUHkwd0RuVmpCUnIxM1JhLTRCMTRLZ21SaFd5OC1uMUM1elVfZUJTZVRoQ2NoM2JHQVNZVG9TbHd2OEg5WHVfUDltTVZaMGg2WVFoS1I0RmRCTUJnZ2R4eVRWbk5FX0pIUE8zekNnS1BVLXAyN3ZKdkl5Zjk3YWd1MFpVc2hwcThTU292WFN3eE5zUDhqSExFYU0?oc=5",
-   "date": "2026-10-07T16:26:39.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Wants Losing Your Wanted Level To Feel Like A \"Hit-And-Run\" GameSpot"
-  },
-  {
-   "id": "gn-1ft2nkc",
-   "title": "GTA 6 boss says \"we have made money matter more in this story\" than in previous Grand Theft Auto games",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc2k0Mk1lWVlrdUViTmtndDR5Ti1YdUVJaGlWQktDNDdfR2ZnZC0xRGVsemRZc2Vrdjg1anltZnp6U3J0MHc3dDNSLUxnZjl2cjBrZnl4VnFONlctWk9hb1kwQWxyWjVmYjF2RXlTQ1ljNnRqejhGbzFfWFZITUN4V21BVGlFM0hDUm43eFFDTUxITmZJT0hyUzh3WVdnZlhFN215MU9sOTVtR2ZVLTJGODFTbWdtb1publMyZ1BSWFVPek9rU1FZVzk2bVJTNlR0YjJWZnFSTTZXTHhGM19qYktjMUVPZw?oc=5",
-   "date": "2026-10-07T16:25:04.000Z",
-   "source": "GamesRadar+",
-   "summary": "GTA 6 boss says \"we have made money matter more in this story\" than in previous Grand Theft Auto games GamesRadar+"
-  },
-  {
-   "id": "gn-1apf8hz",
-   "title": "GTA 6 boss says \"we have made money matter more in this story\" than previous Grand Theft Auto games",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yVWpHWDFwTHl4MDdOTnlCY2NGYkI4ZTJXMTFPN2xWcE5ieWhjOUMtN2NTejUtOUNPX3VYeTdNaFB6VWpGakx1QkdiUVF4SlhwejUzMF9vaTcxNktJZkkxeUp6c005T3JGN0k0amthQk5OaExmd2ROSUhEUERfN00?oc=5",
-   "date": "2026-10-07T16:25:04.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GTA 6 boss says \"we have made money matter more in this story\" than previous Grand Theft Auto games Yahoo Tech"
-  },
-  {
-   "id": "gn-943n8z",
-   "title": "GTA VI players will get to steal almost anything",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXM2V3pzaHBCcjBxVms5ZWdiSTBlc2xRWkVmWVpZQk80enRZaXRjOHNDNF9ONWZGUXJoV0VlakJtSWVmZVJHZENOMXVjYXV4V2xjUGluVjN6ZnA2OVhHSWN5eFZnV2VTRmxQTTFXb1ZIQTNnWC1zaXFpajU2a0xsVmRraTB1ZVBnMFI1WXVKbnl6VGNDZ3dCanRNMzhPZk0?oc=5",
-   "date": "2026-10-07T16:08:47.000Z",
-   "source": "Instant Gaming News",
-   "summary": "GTA VI players will get to steal almost anything Instant Gaming News"
-  },
-  {
-   "id": "gn-re0kwr",
-   "title": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTncxdVJHR3V3U1VGSzZ3cmlPa1ZDSFBvMU9BQU50R1M4WkdNcmV0NlB4N1JHcDRTYUhSRkhuNE5hQU82YkhPYlBGTm1ER2pSSUJkZGdldUxadE41VjYycjREWmdYbU9nT0xGMmZfOUFBeFBvUW1FelFxRGgtcXNTY2tvNlpJVUUxM1lfLVB5OE54MnZ6ZEMtV2YybGdrLTVZMTQ3M2U0UV9SMG81M3Rv?oc=5",
-   "date": "2026-10-07T16:05:20.000Z",
-   "source": "GameSpot",
-   "summary": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy” GameSpot"
-  },
-  {
-   "id": "gn-2v9x2w",
-   "title": "RPG creator says Sony's all-digital future is good for devs as discs \"can't win in terms of convenience\" and games like GTA 6 are \"too big\" for them anyway",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNWEZxVXdIVlIwcXNQQm1NMlNDQmFqUmdPcDlud3pvSVZlczh1QXdBa0NKdHpTTU5ZSENDSFYwNjh2VHB6M0M5TXNJNm55OE9CN2I0QUd3VXgycWZhMkxGS2o5aUFiS01XellPZ3hJN1prQ0wtWFY4RC1lRHRxamQ1MEFmQ1hqXzVwbVpFTnJYR09FZUNyeVlsb2daakhQNGNydlJiYkVvMnhqU1B1SlBrY29kSERKRUxqUk1MYU0tMWJzQV8tMFh6dHBGRmtCTnZZMXlTSnRqSEpYQ1IyWFdVcy1FcXp3UXJGWE8wbnBWc3FuaVVweHNRNUVpOXd3aW1hM3Z5OHVJMlBFMkZOMk5IeThvNzlFcUlfTjVqU2V3MGxlVU1UWmU0?oc=5",
-   "date": "2026-10-07T16:03:46.000Z",
-   "source": "GamesRadar+",
-   "summary": "RPG creator says Sony's all-digital future is good for devs as discs \"can't win in terms of convenience\" and games like GTA 6 are \"too big\" for them anyway GamesRadar+"
-  },
-  {
-   "id": "gn-1azai8y",
-   "title": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy”",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQUs5c3dNU0hmVzFZLUdscm5MRlR1YTl1T3U0V1lndzdyVjdWMnZvT0pJa2RKdXladjVQaUp6aHhZd0t4Rnd6V1Z1RVJTdGZQUmk4V2prOE4xYm5GT25KaEZQbW1wUjBwOHdwUzZZd3lYbHZZTTVHY3dBdHh4cG4xalJDT2RUUkxrMFE?oc=5",
-   "date": "2026-10-07T16:02:29.000Z",
-   "source": "Yahoo Tech",
-   "summary": "New Details Revealed For GTA 6’s Jason And Lucia, Including “Physical Intimacy” Yahoo Tech"
-  },
-  {
-   "id": "gn-1opc0k7",
-   "title": "Microsoft pushes back on GTA 6 cloud streaming claims",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTm9hR0lYbHNyZW43WjBWTE1OcjlPWVFxQVdOUncxR2k5Q0VzN2lGWVcydDlDTEZHLVY4aHVoNUZHa0xJNVN6RHc5b2pDX3ZLaGRQRWlRcUl1dUNQQlZWWDZ1NDBHaXhjbElCRVExSTNtQTJiTmszTTVHcjZSeXZQTWdIR2JLc1p0MVo1a2ZrQk1YVGp1RExQa0J6QmVkYnpvdGc?oc=5",
-   "date": "2026-10-07T16:00:34.000Z",
+   "id": "gn-gczc17",
+   "title": "GTA 6 leaker returns",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14Ymh0bFdWOENIdTJSdy1VWlFUYVM2Qlh3ajRNQTR2TjRlaVFUbFJCNURQekxoLVhhUmw1VHM5bVNWVl9lTjdrdUVhTEQ4YzgxdEJIaXBMVHZOR1Rwang3bzZNS1BkWGxaSnN6VUZlT296Ynk2WHc?oc=5",
+   "date": "2026-10-08T15:05:36.000Z",
    "source": "KitGuru",
-   "summary": "Microsoft pushes back on GTA 6 cloud streaming claims KitGuru"
+   "summary": "GTA 6 leaker returns KitGuru"
   },
   {
-   "id": "gn-1osxww4",
-   "title": "Xbox Shoots Down Viral GTA 6 Exclusive Streaming Claim, Says No PC Access",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUVY2U3haclJMTWpKbzJIX2kxei0yZDJ6QjQtZ2VKZ09zQVRVa3JpczZtejR2eUphdWpzM0d1N1RoWHBlNXZXMmFrUmFCVWRETzhKdlZheTJ2dHptS1Y2QnFIN0xndkdkYkZ2eUZSVG5Pa3hYQWNZcU5UOEhGOWRhZXJDaGpBQnNCMk1WZVBocFY1eUxiXzF6MkVB?oc=5",
-   "date": "2026-10-07T15:47:29.000Z",
-   "source": "GTA BOOM",
-   "summary": "Xbox Shoots Down Viral GTA 6 Exclusive Streaming Claim, Says No PC Access GTA BOOM"
-  },
-  {
-   "id": "gn-xkjutb",
-   "title": "Gaming Publishers are Avoiding Normal November Holiday Releases – Here’s Why",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFNGpRaV9HR0xyUU5CVTlHaUhFRlpGckNjRF9qclBfOXJqODNqSkRicVF1cHBNeDJrcGFhbWFZTXI3NUk3WmMtbFlUY2s2UnZRMjgxR1dlbTdJY3NKdUhjU0lrRkRYSWtyeU9nU1BhQkxEZ0NYZXZITTNoVQ?oc=5",
-   "date": "2026-10-07T15:41:03.000Z",
-   "source": "Mix93.3",
-   "summary": "Gaming Publishers are Avoiding Normal November Holiday Releases – Here’s Why Mix93.3"
-  },
-  {
-   "id": "gn-12ysji7",
-   "title": "5 Key New GTA 6 Details Just Unveiled By Rockstar Games",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdlZ4c3RtblBOclk4Sm5pam1QTVlIVnJVb1dQS0dFaDlaa25VelNKRlVPNEJUd1NHUGk0Wmx0LTZyMTRVRERZRzBqdjBHLTVzTERiUklLQ0djZGhzaU1NN3RmNjRJNUoyeEdsWXdNdG12YnZhM0hxOXk3X1NWMVNxTlBLeWZHUGhQODFtYUotcEFIUEFx?oc=5",
-   "date": "2026-10-07T15:40:07.000Z",
-   "source": "Polygon.com",
-   "summary": "5 Key New GTA 6 Details Just Unveiled By Rockstar Games Polygon.com"
-  },
-  {
-   "id": "gn-1m32nno",
-   "title": "Want a gaming TV upgrade in time for GTA 6? Here are the 3 we recommend — all personally tested by us",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTm50YW0xZC12Q080ZllEbVVjd0tFWkxmTElPTzhscEw2MUdrV1c0SGZDbTlGOE5hOU9jVXNyQ3lEWWZ0V29OaUlNUjF3c0N3cWM3eDRyTUtsR1JaTFlUZEg3VDRZWDBkbUNjR3l3YVo0NUlmWXZnbEVOT3hMVGxnWVZFVHJfdjNIT096UVVnUmRLWHZVVGxjTy1hV0JQUzJpbmgzY3U3dEI3NW40RjJSUkxjaFdiUnNJRGgySmNlMVdQUk9id0RjamhGUm9lYUxkQVE?oc=5",
-   "date": "2026-10-07T15:37:29.000Z",
-   "source": "TechRadar",
-   "summary": "Want a gaming TV upgrade in time for GTA 6? Here are the 3 we recommend — all personally tested by us TechRadar"
-  },
-  {
-   "id": "gn-1ki4ztv",
-   "title": "‘You Can Rob Pretty Much Anything’ in GTA 6, Rockstar Reveals",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmbElrd3VYTTc0MlFfYkNaS2xnQnliaTRONld0TW9uZWtZeHRLd2RKOEJQemdmSFpYNnd5aVA4bFBfcFpmRUw1SlpnbUx5eXRHWTZfdGRNZlc1TGQxNGx0cDR4aHRKM1EtdjV4MExnQTRjNUpt?oc=5",
-   "date": "2026-10-07T15:22:24.000Z",
-   "source": "Insider Gaming",
-   "summary": "‘You Can Rob Pretty Much Anything’ in GTA 6, Rockstar Reveals Insider Gaming"
-  },
-  {
-   "id": "gn-18bongq",
-   "title": "GTA 6 Will Not Stream To PC Through Xbox, Despite Earlier Report",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYURxVGU5U1FMNExTVFlNVWpKaWljd2YyRVpiWDFWOUVqdFZqWURNaWl4amM0S1lyZnQ0UTB6MDUzTlRqM280czZ5TzNGMjZpcU92NzlUZUFBM1lKOTJVRGdvb1BmSGY3b3hjQUhsX19LWmo5cVhOVlBYOW5hUUpJM2JGcFJuQ0FWRGFZbmtfaTFBT1FnU1pKSlpPWUY4a28?oc=5",
-   "date": "2026-10-07T15:12:35.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Will Not Stream To PC Through Xbox, Despite Earlier Report GameSpot"
-  },
-  {
-   "id": "gn-ygu98",
-   "title": "With sex in GTA 6, studio boss suggests Rockstar doesn't want another Hot Coffee moment: \"It has to be done right\"",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQUg2bDd0S2FKbVE4bDd1dUFsWU81djZsR3BBOUdCaDlCOFZMTmJkbU5KQXZXTkRvcWpORlY3a0FXQU02NklfdzdNVWhtQXhvcFFZcVlBMVo1ZTlJdVVqRGdiSG1JSm5NNFJYWHkwaklraXlybV9namJJa0czWXNfVWJnZFVsd2tMT2JCMF9ZNlZrT2wwSHphVGo1bkdfSmlvUjN5R2pHdW80dmltQ2NVb0g0Z2xVbDdJaXIzVk1FNVI1RG11M2FmQ1NVeVFYeHN1SFZJeGJESFBqUFRFV01jWHJ1dWlLOGZKQWZsOEpaYWtEdw?oc=5",
-   "date": "2026-10-07T15:11:49.000Z",
+   "id": "gn-1wtclt2",
+   "title": "GTA 6 radio stations revealed, Rockstar says \"for the first time\" in Grand Theft Auto history there are also in-game podcasts",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPemlEY1oxNU0zdHJfYWowQlc2c05OTDIzbmgwdjBQTXRXVm9Pc2I4ZW9SaTU2dTgxUXAtUEtSSklXRzFJTnJjM2xOTlhCRXZGeW1fYTRXaDQ2MTBMbVhzSUZMSkhFdnJKRUZsOEtPeEdxb0FXcm1aRjRicE8zb2JzSFdIeUJ6WlJveWtESG53SEhRMzc1bm1aTXN2Z3pZVEhKQklnUWRuZU9yUHZnT2R5dGVoOGlXenltbG1veXJGTVZuZW1jTkZMSVV4Z0thb3kzUGpDLUEtRHlJTmlzNXdzbEFVSEpMSVAzTVlKNXNMYks1elJGRld5VUdnUEtpOVN1Tmt3?oc=5",
+   "date": "2026-10-08T15:05:11.000Z",
    "source": "GamesRadar+",
-   "summary": "With sex in GTA 6, studio boss suggests Rockstar doesn't want another Hot Coffee moment: \"It has to be done right\" GamesRadar+"
+   "summary": "GTA 6 radio stations revealed, Rockstar says \"for the first time\" in Grand Theft Auto history there are also in-game podcasts GamesRadar+"
   },
   {
-   "id": "gn-nqacmk",
-   "title": "GTA 6 Interview Reveals New Details About The Game",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYlVGYlcya05BYXJ2ZzBlT2tMZzFfSlpab2dhVmFNal9PTGVRa1poSmtXSnl2WmdsQWM2SF81TEJVZFRYTEF0Tk9UZURJSkREM3NkVW5fYjF0c0x6UG4wNEdORWQ4cWJwb3RCT0Fab2dWbUktR3RJcnpUY0pBVEsxQ1Zma1c?oc=5",
-   "date": "2026-10-07T15:09:31.000Z",
-   "source": "Insider Gaming",
-   "summary": "GTA 6 Interview Reveals New Details About The Game Insider Gaming"
+   "id": "gn-11zg157",
+   "title": "2 ‘Big 4′ Thrash Stars Host Metal Radio Station in ‘Grand Theft Auto 6′ (Hear Preview)",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iU2ZTTzlEZDVaTlVjWHNWdjhmamkxbDNnUzNoSUxXZnlaUFVMVFdZSF9hSk55UDJvdEhmellWeENWNHI0b2t3N29NR1I3UnFQMVZLQUtJcUNzemNqeXhOaER1alpnaF9MTnBJMzRB?oc=5",
+   "date": "2026-10-08T15:00:53.000Z",
+   "source": "Loudwire",
+   "summary": "2 ‘Big 4′ Thrash Stars Host Metal Radio Station in ‘Grand Theft Auto 6′ (Hear Preview) Loudwire"
   },
   {
-   "id": "gn-ricjlr",
-   "title": "No GTA 6 on PC at launch: Xbox clarifies its agreement with Rockstar",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUNFNkprNmtsTXFwbXJJVjktbVhxMUI2Ty1WLTdBRXQwQ2pWOWdUekc1VXc1WHlrYXZuV29QSU9NWmhodDhFaHhNT2NBTkhvUzRHOHFhcHFrRTVvM1RXVFNlM2lFLXdteXk0NGV3bVp2THdBYnB2YlJRTE5abVJKU2FyWE5QMHlRTHBTeVFFdmsyMkpfSWFVRV9EY21TTkd0aFVidDZHQTRHcDY1ZnVaT2VtONIBxwFBVV95cUxQSjNKakJhY2g1THNtV2dPdUNNcklrckJ1NmhRVDB4eXFLdnlDcWxTclRpTlNNcHFhakZsQjVGSGV6cGtZRnhuZzIzdFl0MjRXM3FBbWpVQjVaaC1oRV8yX1U4dFNEWFZQMExudTdFQjdIOC1LT0Y3ZkxNcTJxYXJkdXNiSzE4T0FMZVZXM2pLd1FHcnlobnZGMjFiUFlaLTZnMm5UMmpUQTRRcnpjczBIYl92MkVRVjY5TWxrVmN4SHFUREF5dW5j?oc=5",
-   "date": "2026-10-07T15:06:15.000Z",
+   "id": "gn-1clj9ju",
+   "title": "Grand Theft Auto VI Music Details Revealed, 6 Radio Stations Previewed Ahead of Release Date",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGZScGR6ZTNYNEhUZ1VlbUxDaHRyQ0tra0kyaWJwRVM4UGFyckhvekZRallMVVNXV2JmMFNTLXZKLXFGU1dIcjNuS0pkdzJiUEJNanhCZWpjTEF3QmtWc01mbmN2eElNX2RRS2RwR3VWR2ZTbk9TMnFjZnhPWWlfZzlzcU5ZSXBDRE91U2ZBN2xkdzc3bXhPT0s1NmZkQ1kxZDA0LUZKb1dOSzRwS1p2T1A1WHNrcDJqUmhlbUlULUZ4ZlllQ0ZmaFd0OTJTUQ?oc=5",
+   "date": "2026-10-08T14:57:33.000Z",
+   "source": "Bleacher Report",
+   "summary": "Grand Theft Auto VI Music Details Revealed, 6 Radio Stations Previewed Ahead of Release Date Bleacher Report"
+  },
+  {
+   "id": "gn-1teygtu",
+   "title": "Grand Theft Auto VI: Here Are All The Songs We Heard In Rockstar's In-Game Radio Preview",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdVJ4SjlLSG10Q0E1YUswV3lnWHBFRkkzQ3d5UXF0czRsQ2hnTE1DOFJIVWZvUzcxcWN6cjRMNkZUNUl6S2RCNmFIMFV5UFhSUlZwZlNQSGttWXFJUHhpN1ZwTTQ1dkR3YzV3NXRmeXRiQi1iWUFUbXFMVlBCZmNhMUxoR0JMdExUakFhbjB6WUZxZ21QVGlGd2JGTGE3QnhsUWp5ZDlvNTIwSTNKVTR6aWh0Tlh4aEhVWDRVbzFjWQ?oc=5",
+   "date": "2026-10-08T14:55:00.000Z",
+   "source": "Game Informer",
+   "summary": "Grand Theft Auto VI: Here Are All The Songs We Heard In Rockstar's In-Game Radio Preview Game Informer"
+  },
+  {
+   "id": "gn-fm80i9",
+   "title": "GTA VI will have in-game podcasts and at least six radio stations",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKNlJzUFJQbGJ5RGY1cldCbTJrdkpTX2xFLUNGNE1iVTR1Qm52OFpXY3dfWERhc2dKR01Kbnc5cEFhOFdmUFFZelY5RHV0WENwOEtreEctWDVEWkp0R1VaWHZjSzItbVZ3Q1VSbkxKWnVGT0tZVFJsS28tN0FoQmM?oc=5",
+   "date": "2026-10-08T14:52:33.000Z",
+   "source": "The Verge",
+   "summary": "GTA VI will have in-game podcasts and at least six radio stations The Verge"
+  },
+  {
+   "id": "gn-1ifq4jb",
+   "title": "GTA 6: Rockstar Releases Brand New Official Screenshots Showing Off Stunning Reflections",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTDlBQlNJTVlSNzQ3TW5YN2RnUmhneUtQV1NYM3dXam42UEE3b0JTYU1TanluZm50MDNuXy1uQnFOODhBYkx6UUVNNGgxM0VVM1g2bm5McmhZVkZFU19taTNCZmtfOWxvbUtwQk1nNGFIMXlWRDRoSV9LdktMNkgzc2p6VHJFQXY0bEVNVVVXbU44emxEQ3NmbkYwMFROcUxBTzFiaUdJWGpEOEw5eGZ5T1ZKOVBWUkU?oc=5",
+   "date": "2026-10-08T14:49:11.000Z",
+   "source": "IGN",
+   "summary": "GTA 6: Rockstar Releases Brand New Official Screenshots Showing Off Stunning Reflections IGN"
+  },
+  {
+   "id": "gn-16rzymn",
+   "title": "Rockstar previews GTA 6 radio stations, confirms on-foot music listening",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd1EzWjdHUjdNYnBEQ0pOdVo3M0hzRkRhM0JhN0ZnckdTVUh3TlBQM3dBRkhGMHhhenlmZ2ZaWHkweXlxNDNNdHJvcW1NT0FoM2MwYjVfdmJKNTNFNlNRaEpyM08tb0gxRzBvZTU2YV9zb3p2dEZBczd4WWNOX0RHTDNvN3VFVnVFS3BtX2hmR2R1b3RWYzZjQlhIQlZyT2dvNWc?oc=5",
+   "date": "2026-10-08T14:48:34.000Z",
+   "source": "Neowin",
+   "summary": "Rockstar previews GTA 6 radio stations, confirms on-foot music listening Neowin"
+  },
+  {
+   "id": "gn-1egfsbf",
+   "title": "GTA 6 reveals its first six radio stations, including Bad Bunny, Black Sabbath, Charli XCX and more",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1IxTk01Q1NBSW4tMHFSblE3WHRkUGlNTVRtTmhDS3BmVW5XbktjcU16alJSSWdQVnlIclg1TUY3VFF2NnFWbWVCeXdOcW95MjItZjBtOVNycWU0UHdBQjNhMHpJZFdKT1FTTWxHR25iTlJHX3F1Sk5Qc05aNDljVXpBbWJMNXRKN0E3UXhrall0Z3NJbTJFQ3dmZmthRDZqZ0NKZnVrbHgybFk1dmpsTzktYnhObWZlVXlNTF9vdk4ydVU5dEF5MVdxb19uT0JGN2xIdkZ0UmpOQdIB7gFBVV95cUxOcXQzTjhMUmVWNEpZcEJvQjBJYVRCNVZsSEZ5dGU3Tm9fLTk0YzdJSl8zM3dlRXF0N2xDWW54UkZqWjN5cklQVkpCRzRJaFdZVHFXa1hTeFBFb2xrLTRvTEFlX1RVT2VUWnltMWR6MUJKamNqM2I5V2ExMkNVcjk5RjNhcnFiNjZXQTB5ZS1VZFRWVzdVYktuemJFRHdmcjcxVDNWQjJVc3NjdlJqOWlBVDdtNXlQdUR3YkhUUjVRMjE0cU1yR2RXdUFzbGU0ek5FcVlYX25pNndfMV9SeDVQSnlQMFFYV21GMlFRQ2Zn?oc=5",
+   "date": "2026-10-08T14:47:23.000Z",
    "source": "Diario AS",
-   "summary": "No GTA 6 on PC at launch: Xbox clarifies its agreement with Rockstar Diario AS"
+   "summary": "GTA 6 reveals its first six radio stations, including Bad Bunny, Black Sabbath, Charli XCX and more Diario AS"
   },
   {
-   "id": "gn-gdlqlw",
-   "title": "Where Can You Buy A PS5 Pro For ‘GTA 6’? At GameStop, For $1,400",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNm1jeTFPdGVkam9XVlhPZHRrWnNJdFhvRml4TElndncwSnl0d0M1VGxiZnhoVk9yS2tuWTZvWXhWc3YtQ1lUZFF3VldZaGZPdDRxMkd2MmU5VHpmSzFNX0NaVHRvM0lvSkItblRyTU5ncWh6R2NuN3g0d1M1X2RCTDdrNXJtZ1FsX2NkT3dJNTRJSnE4Z2NhTjV0QXdQWmVEaUNzdF9SLTliNXQzWHc?oc=5",
-   "date": "2026-10-07T14:48:04.000Z",
-   "source": "Forbes",
-   "summary": "Where Can You Buy A PS5 Pro For ‘GTA 6’? At GameStop, For $1,400 Forbes"
-  },
-  {
-   "id": "gn-nn4v73",
-   "title": "GTA 6 Won’t Make You “All-Powerful” Like GTA 5 Did",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZjk2RzhWbVhUWkJJOVVMbS0wZUFWLTRVV2FPLUlOUGhBTmFGdWFIbm9lbUs1RUJ1UFNRUlBmMGVJa0dhNXMwUHlldGtPcjJGN0h2Y2ZUVkIyeHE4WVMyVE1uVzVzNXBValFvVFJpR0NIcW9jNzVObW84MG1SM1VKRThBQmR3TU5xOEE?oc=5",
-   "date": "2026-10-07T14:37:08.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Won’t Make You “All-Powerful” Like GTA 5 Did GameSpot"
-  },
-  {
-   "id": "gn-1ilxtmf",
-   "title": "New GTA 6 Details Reveal More Gameplay Systems, Naked Showers Confirmed",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVpLSGtITE5EelB1dXlTejlpTXNYSnl2bUJ0R0Y2LTM3d3R4R2w4b3ZUOFdSak9xNDlsRTRkMk82b2QxaU4tVU5Mc1RJdDBXYWNuVnJZTk9FTGpxdmltdVE2emVYMFNmT2dDTXhacVhJYUJBRlhsZ2hnVGZuTVVjRm5VdEQ5VDYyd3lNdkZ1WFpkV242RnAwZjVQZml2Zw?oc=5",
-   "date": "2026-10-07T14:34:35.000Z",
-   "source": "RockstarINTEL",
-   "summary": "New GTA 6 Details Reveal More Gameplay Systems, Naked Showers Confirmed RockstarINTEL"
-  },
-  {
-   "id": "gn-1fw4quy",
-   "title": "Xbox won’t have GTA VI streaming exclusivity after all",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oMTJDR0RCckVvSllkcDFqbHJXcUFydEZWN09tYkRSTmJwMnk4dGRhWEtzVTVvb1d0ejk5SW14UzdaVE9JQUU2LTk4eTAxMzR5NGhJTERJRHRHT2FuenVsZWE2dTRJQmZrOFZfZGRsaW40ODNVNHpBYg?oc=5",
-   "date": "2026-10-07T14:23:51.000Z",
-   "source": "MobileSyrup",
-   "summary": "Xbox won’t have GTA VI streaming exclusivity after all MobileSyrup"
-  },
-  {
-   "id": "gn-rnp48m",
-   "title": "Rockstar Reveals 35 New GTA 6 Features",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYTJTUUVpU0Z1ZTBxS21ick5EYWl1UFNDOVE0N0diOFowa185QVVpTGdSUzJHRzZOVEo2RG1lTmFzZUQtaUJsZjZGQXdnWUlxQ25NWGw5S1ZxLUd2dUtLNzVGLU9CQks3RVhnNGFTcFNwU3ZIWDdHS3ZBMnVHX2lWRg?oc=5",
-   "date": "2026-10-07T14:19:10.000Z",
+   "id": "gn-fc1inb",
+   "title": "Rockstar Releases New GTA 6 Screenshots & Radio Stations Early",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sR2lTbkNVRDV6UEZGbGQ4bjlDNWR6MWJaZ0VaRWlreEtLYVh1dzBUcld2Ti1HSmw1OVVaaG5GZS16R2Vjd3RnMHNXYTlBUGEzQ2tXb1pyWmEzWThwUFZUelhsckcxU1FvR3ZScHBoR2FzQjB1NWRZbw?oc=5",
+   "date": "2026-10-08T14:46:51.000Z",
    "source": "VICE",
-   "summary": "Rockstar Reveals 35 New GTA 6 Features VICE"
+   "summary": "Rockstar Releases New GTA 6 Screenshots & Radio Stations Early VICE"
   },
   {
-   "id": "gn-1yw5l5s",
-   "title": "Xbox Rejects ‘GTA 6’ PC Streaming And Exclusivity Report, Though Questions Remain",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkdUbVhGVTFyeHpEQVVRWklfZFd2TGhwT1FFdms5UFlsdHIwdkduOUFzVlRtMnJ5VnZ1TUZoUUNlVS02d1dkdGNVVmZab2lLN2R4bmNJalhUQmdZS2g4V3hMY2JhRTBjUExDNC1DMXFUcVlET0Z6Y3RnYlhCTzhZRVV4dXRIY0kzMzVsenc1RnRNNUlUQUpJNTVuSm5QM0F3ZzdjWUg0eEtwbVFxTzlOd2QtWXhZb0ZGV0NJZXhlMVJIdnZrSDNVVA?oc=5",
-   "date": "2026-10-07T14:18:12.000Z",
-   "source": "Forbes",
-   "summary": "Xbox Rejects ‘GTA 6’ PC Streaming And Exclusivity Report, Though Questions Remain Forbes"
+   "id": "gn-w7cily",
+   "title": "The First Six Radio Stations Have Been Revealed For GTA 6, Complete With Audio Previews",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQlM2cFNzWFpLdnM0OU1mbjF5bWV5SEdUdDloNFNicFJJTzQ4SGU3WGhreExDcXMwMkxVYlQzQzQ0Z2FSM1lhblk5cExMMm0zZnZGUnQ0a0lzZ2t1TFdCZ29HZi1QQi0xVlMtNFYxTG9VWTI5Z3pMRGUwRFJhdUUyTGplQ2UwVEhGSXprbGpyb3BLbXF2cmlFLU1EQnFHVVRUSHVOazBnODVwMnBGdmdSaktaNWxHMG1aZVh5V3Z4OUVaUQ?oc=5",
+   "date": "2026-10-08T14:45:00.000Z",
+   "source": "Pure Xbox",
+   "summary": "The First Six Radio Stations Have Been Revealed For GTA 6, Complete With Audio Previews Pure Xbox"
+  },
+  {
+   "id": "gn-buh9gw",
+   "title": "6 in-game radio stations from Grand Theft Auto VI revealed",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjNpY3JHVlJkQkxXWTJMTWJ6OW9sSGhSXzZsUkhDRkdSQWtHZGxLNEV2UXdTb2F4T2cwSFF1RXNxTGpmS253ZUNwaEV4cS1tRVRXeGFPaDgzSWVYNXNPT2NvX2ZSODZRb09zdGJrd29UXzY4ZjUybEpfVFhueGtUODlrQ1lNSEpFVWZsdEVKVkpSTWRqWFduRk0zLWJjaEN4TUYwa3ZvUGZJTW9zbFZ0aG5WcVU?oc=5",
+   "date": "2026-10-08T14:45:00.000Z",
+   "source": "Paste Magazine",
+   "summary": "6 in-game radio stations from Grand Theft Auto VI revealed Paste Magazine"
+  },
+  {
+   "id": "gn-1exk9u7",
+   "title": "GTA 6 will have the franchise’s largest radio section, new stations revealed",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXRzBUaDFCbkdlbFdkTVhZN2tRRUNobF84d08yZHpjZGx2SlFWTFg5eWlKVXN0WHdDLU9Jc0lxTnN4TFZ4aW4wbGJRNW1iXzZad3ZTb0s5bHg4dHJYLUFhUDI4THp3SHNGeEhaYXdR?oc=5",
+   "date": "2026-10-08T14:42:00.000Z",
+   "source": "Shacknews",
+   "summary": "GTA 6 will have the franchise’s largest radio section, new stations revealed Shacknews"
+  },
+  {
+   "id": "gn-1ozz8vv",
+   "title": "GTA 6 Radio Stations Info Revealed, On-Demand Podcasts Confirmed and Can Be Listened to Even on Foot",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMDVOaWhGZzhEeFlOU250VGgybGlkeDVFbzJrSDl5WjNyQnRLUkdpZTkwbmQ1UTk0VFp2Z0Rmdl9qdVZBQ3pDWTV4R1FHeVpJSTZUQXZ2V2N5UG5ESjVlZl9zY3JmTnlNbFpFU3k1ZGNVR05abkdhLU1vVXBRR0NXd2pVWFFaejJJOWVreEplNTZSYnVhbWZzcFB3NFlNblY5SDUwMnFWS2twS3pYbkE?oc=5",
+   "date": "2026-10-08T14:41:38.000Z",
+   "source": "MP1st",
+   "summary": "GTA 6 Radio Stations Info Revealed, On-Demand Podcasts Confirmed and Can Be Listened to Even on Foot MP1st"
+  },
+  {
+   "id": "gn-1u9nxpv",
+   "title": "GTA 6 Lets You Listen to Radio On Foot, Details 6 New Radio Stations",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYVZhd0M1Qi1vSEo1YzN2bGlTeHhJUWl5NU10a0VfMmt2UUs0MjR0dDhncUc5dG1kaGRpcFVZUWk0M1RwZ0ZlbjRvX2NWQmsxT3ZTSlcxZW54a2xQWDdxd2k5MHZrNGxGZDZjbkhzN0Z4UkZyOG5aWmpwQ285UDBtSEtaVW56MmZpalJjLXNkbUlDc2hG?oc=5",
+   "date": "2026-10-08T14:41:16.000Z",
+   "source": "GamingBolt",
+   "summary": "GTA 6 Lets You Listen to Radio On Foot, Details 6 New Radio Stations GamingBolt"
+  },
+  {
+   "id": "gn-13az40k",
+   "title": "GTA 6 Reveals 6 Radio Stations, Plus Podcasts You Can Listen To On Foot",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0M3c1NnV0Z4bVItUzFRWG53Z0pVYllPVkRxWXZUWE9VOXpVR1dLcGpJM283aUJ1cVhkTzMwLTlNT19TenpKX2tWOGlhYmNoSHp4UjByMU4yQTJDLTBlcnl5Vm9UbzNPd3BaQ0VlSmI2UklaZy1PMTBmUVNNcUljNElQcXdDYURnMi1ib25iT3NxZTZHM2tPbUtudUxXbnVTSzEyQ25sbUM?oc=5",
+   "date": "2026-10-08T14:40:31.000Z",
+   "source": "GameSpot",
+   "summary": "GTA 6 Reveals 6 Radio Stations, Plus Podcasts You Can Listen To On Foot GameSpot"
+  },
+  {
+   "id": "gn-1mfpwhg",
+   "title": "Grand Theft Auto VI Previews A Selection Of Radio Stations Dedicated To Country, Heavy Metal, Pop & More",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb19JdEtHUHEtWkVzX0VhQVgza29nMHFuT1hEXzF4b280ZDJ2R1FqOWJqLU8tREQyM0x4LU9aRFpBSGhQZGt0UldtSC1iQkF6NzJ1UUdiMDE0bDZJaTdXZEpVaE9RWGpNU2pIYUNlbk9YdFJBWkVBQXpKcnBIV0w3QkZXb29jUUNIYmtrb2hVN0YzYWNFbENiaGR0NWdwTnNxd0haTW1Qd2JOR2VGdUFCNG1kQnM4bDFZc09zR0ZFcG1PTF9n?oc=5",
+   "date": "2026-10-08T14:38:57.000Z",
+   "source": "PlayStation Universe",
+   "summary": "Grand Theft Auto VI Previews A Selection Of Radio Stations Dedicated To Country, Heavy Metal, Pop & More PlayStation Universe"
+  },
+  {
+   "id": "gn-odp0yt",
+   "title": "GTA 6 Radio Stations Officially Confirmed, Hosted by Celebrities Like Lana Del Rey and Morgan Wallen",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHE1ek9lYmg4WGJfWHdJUGFHRzdMbndLNEx1WWNTUHJZZXJxWkYtWHRtSkI2MTdPclVtOGVWQ0Rpc2VEVTFIS2ZxNGZ0MThrR0VSblVQbE1xU0kyUGtoLWpLZTdTcXB0aTZGQzhoU19XcDE3QjhEekRHSjdJRkZ4VjdkVjBNYUpZeGdjSXdzTS1zZG5sYS13V2Mxc1ctRi1tYzJB?oc=5",
+   "date": "2026-10-08T14:37:57.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Radio Stations Officially Confirmed, Hosted by Celebrities Like Lana Del Rey and Morgan Wallen IGN"
+  },
+  {
+   "id": "gn-12pgzx0",
+   "title": "Grand Theft Auto VI Soundtrack Reveals Metal Radio Station Hosted by Kerry King & Tom Araya",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNWJTdjZlLWR0X0V1ZFVpaUNCLU9rZEJSX3phQm0zZTUzN2o2ZkRmNklZZlFYUlZmZVdnRkMtMWJEYzRmZTVoalUyYlV1WHRtUUdtWDl2RUYyY0dmNDdFVmFBdHVDVldlbXprT1FaYVlMSDFoeDZvcHFiX2RFeW9WdU5ONXZnVk9WOHpHb1NlZ1RLcmx2MWpvNzBJcktNTkZpSWRxQnBQajRTc242bnRTWU5WMkFIbzBKUXJfcTF3?oc=5",
+   "date": "2026-10-08T14:33:36.000Z",
+   "source": "Metal Injection",
+   "summary": "Grand Theft Auto VI Soundtrack Reveals Metal Radio Station Hosted by Kerry King & Tom Araya Metal Injection"
+  },
+  {
+   "id": "gn-10r0hov",
+   "title": "GTA 6 In-Game Radio Stations Announced, and You Can Preview Them Right Now",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDNfcW52b0lLN24xb0lZR0JTQWtOM2tZY25nWkFXaC1kb0tsSWpaTV9mTmo2VURNWWlYLWZkMDVSZUNMQnBjSjhhSmRyUmRNVXF3N3djMmtWLUlWbldEcWJtRjY5V3hCckFMU05HTzJxWVd2N0VJZjZWRDZaMjk0OGtUak9mcU9saTBsYko2bUUyVEJ6ZGtKYkYzcUk3X2dHM1hWZ05mMWVqUGlsbUVsS0hwcw?oc=5",
+   "date": "2026-10-08T14:30:00.000Z",
+   "source": "Push Square",
+   "summary": "GTA 6 In-Game Radio Stations Announced, and You Can Preview Them Right Now Push Square"
+  },
+  {
+   "id": "gn-1nt9r8n",
+   "title": "GTA 6 Online wishlist: What we want to see in multiplayer",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PU00zV3ZjUkZMWlpIUG9aOFFkNm9USTBSZFU2Q1JoOGQ2cnZHUE14ZDZZZklOZ2R5RlpEeGdfUThiMXN3LVI0WGtBbThxT2JKS3BmTmlMak5vYlF1YWszeA?oc=5",
+   "date": "2026-10-08T14:29:37.000Z",
+   "source": "Red Bull",
+   "summary": "GTA 6 Online wishlist: What we want to see in multiplayer Red Bull"
+  },
+  {
+   "id": "gn-lxknm4",
+   "title": "Rockstar Reveals Some Of The Radio Stations And Songs In GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc0phU2cxLUJwSHBDUWRJMTdtN0k4elljaFVZUVdrVE1xdXNLbC1XRkxobGZ1WnBnWnZxSS1na2gtRVBqb0JubGU1NnN6ZldGRURxV0ZzWWo4VXRueWY1OHNISnNvbFc1MTdDa0ljZW1MWHJjVWVveVVIV2dRdlNabDREQlNKYmIwSVBFV3RVZlhrX1VjRzFV?oc=5",
+   "date": "2026-10-08T14:29:36.000Z",
+   "source": "Kotaku",
+   "summary": "Rockstar Reveals Some Of The Radio Stations And Songs In GTA 6 Kotaku"
+  },
+  {
+   "id": "gn-rcynz8",
+   "title": "Bad Bunny, Lana Del Rey to Light Up the Leonida Airwaves as ‘GTA 6’ Radio Hosts",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTmd4SnBEa0Q5dUdRdzZGWmNMcWI0eTNMVGJqS0JrT2tXYWtjSUhsTzVhMWNEZHdEcXl4V2RVVFRkOC0wbzNUd3lZMVRuUWxnRTJZVjdpMWlQQkRRUldBNUkyVnlkekVyb2d0SnJma3ExTnlpRS1sUVFaVkRwcHBtbW00SlREVGI5WEZYM00zYnJ3a21KT0I1RDdrTVA0b3BmZGxr?oc=5",
+   "date": "2026-10-08T14:29:06.000Z",
+   "source": "Rolling Stone",
+   "summary": "Bad Bunny, Lana Del Rey to Light Up the Leonida Airwaves as ‘GTA 6’ Radio Hosts Rolling Stone"
+  },
+  {
+   "id": "gn-v01v4k",
+   "title": "You can now preview GTA VI's radio stations, with Bad Bunny, Robin, and Lana Del Rey confirmed hosts",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ2VXNC1zOWN4dkt4ZE9XQnJvaVZFSXpqYTBUcGJvemRDUFNtak1rUTIxSmZNQnpwdkhENFVjUXFkMjE3YVlCNWJ0dVRrdVhIemZFTGdpa2FJc0dZYzRPLUtfOGVCNWNpZ1ZLVDhNbzZwV1YyYzI4aGMyVkdsVWFRMi1ycDZXNTgyY3NrdzlYZXpUZXliaUg2M0htcDBRNkhieS1CVHFCb0l2OVpXdHdiRHE3ZkVnRmQ3R2Q2QmcyTFVORktsWEhYZFB2T2xETHdkNEN5QTRYRFIxNGdt?oc=5",
+   "date": "2026-10-08T14:28:31.000Z",
+   "source": "GosuGamers",
+   "summary": "You can now preview GTA VI's radio stations, with Bad Bunny, Robin, and Lana Del Rey confirmed hosts GosuGamers"
+  },
+  {
+   "id": "gn-37izh8",
+   "title": "Bad Bunny, Lana Del Rey, Burna Boy, and More Are Taking Over the Radio in 'Grand Theft Auto VI'",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VbWJINURsQ1hTMXowUjFPNmVmZDFLNlRNSEEtaUVUb19HVk5xUDVmOERxSkpxOTlaTVM4eVcxZURRb2lhV3NZVTdfZDRiX00wQ01aYUtZX0c4WEozX1pueWxrTklnR0lWN01scEVYN2Z2R0xlZC03MlR3?oc=5",
+   "date": "2026-10-08T14:22:24.000Z",
+   "source": "Hypebeast",
+   "summary": "Bad Bunny, Lana Del Rey, Burna Boy, and More Are Taking Over the Radio in 'Grand Theft Auto VI' Hypebeast"
+  },
+  {
+   "id": "gn-1gwlxc7",
+   "title": "Another Huge GTA VI Leak Reveals It All, Including Naked Jason",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VbkhlbzZEWnptckdxeWRCUW5QeFdCTVhGbkt2YVhNcEl3YlBBRUdLYktVY0hmRW9qVEh1N0lsUmVOZTI0VEVjYWZBbllQV3MtTzF1RF84SklZN25FSUU5elhmeWFwMUxyTmc?oc=5",
+   "date": "2026-10-08T14:21:37.000Z",
+   "source": "CGMagazine",
+   "summary": "Another Huge GTA VI Leak Reveals It All, Including Naked Jason CGMagazine"
+  },
+  {
+   "id": "gn-16b9saq",
+   "title": "Rockstar Reveals GTA 6 Radio Stations and Podcasts with Previews",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2FBX0ZkX1JCLVhnSGM4ZlNCY1JQTEFSd2VxYjFLUFhaMDZpOUlpeERwSnFKYnRGU2xUV1lxbERjN3ZyYUh2ekd3RHVmUzVnanFJeXZQTld5eWlSemNNNGJ3dFVFSzFaOU9lUVVadGJucE5LYUlRX3d0Ql9HMWxwc0RMU3ViaGF5dGVaS1NqeUdiUWtqX1pJ?oc=5",
+   "date": "2026-10-08T14:20:09.000Z",
+   "source": "Insider Gaming",
+   "summary": "Rockstar Reveals GTA 6 Radio Stations and Podcasts with Previews Insider Gaming"
+  },
+  {
+   "id": "gn-18tlhrz",
+   "title": "Cyberleek Returns With 25 Minutes Of Leaked GTA 6 Gameplay",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1JzcnRrQ3VMYnZESlotVEJ6dlh5ZTNDVWlCWHRPdWJVOVlGZ2ZzbUctajZqMmg4QWFKN2Z5Q2Q2blloV2pjdkVHZnU1N2hDYUdFbXFhSGZtYmpvVU5wbW1ZdEFGaUZvd2NvdkVzOTdtYllteXV4R0pnWWM5TWpnZXppTURJZGVyaTVBSllfc2dLeFkzeWVwUWtFekpCQm8?oc=5",
+   "date": "2026-10-08T14:16:46.000Z",
+   "source": "Wolf's Gaming Blog",
+   "summary": "Cyberleek Returns With 25 Minutes Of Leaked GTA 6 Gameplay Wolf's Gaming Blog"
+  },
+  {
+   "id": "gn-a91epz",
+   "title": "You Can Preview 6 Of The Radio Stations In Grand Theft Auto VI Right Now, Plus New Details About In-Game Podcasts",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN1U3MUdFOHRiRTlab0k5b2lSNUdQY1ZwQ2dBWUVZUkREblZFdlIzcWpya0l4bjFGNml2cmF4a1g3WFI4c3dSeWZQYU9USDAwVVc3ZHVNRnhTbHphM3p5cWo3RHZIVEhQeFo0eVZGRlZMS0dWd2h0ZzdvWkNCTng5aUZsc0VFNVBuNTZra2hPdlZma0daX2RlX0YwVzdqdmhkVUdiV01XdXVWQkNscDFsSmUzUHpxaTdZ?oc=5",
+   "date": "2026-10-08T14:10:38.000Z",
+   "source": "Game Informer",
+   "summary": "You Can Preview 6 Of The Radio Stations In Grand Theft Auto VI Right Now, Plus New Details About In-Game Podcasts Game Informer"
   }
  ],
  "community": [
+  {
+   "id": "rd-y77zk3",
+   "title": "New merch",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0uzzz/new_merch/",
+   "date": "2026-10-08T16:09:02.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/just_a_cat_meow [link] [comments]"
+  },
+  {
+   "id": "rd-1rwqm7o",
+   "title": "The DJ's for The Chamber 106.6 are Tom Araya & Kerry King from Slayer",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0u807/the_djs_for_the_chamber_1066_are_tom_araya_kerry/",
+   "date": "2026-10-08T15:39:49.000Z",
+   "source": "r/GTA6",
+   "summary": "It says the station is hosted by \"DJ Tom\" and \"DJ Kerry\" and after listening to their voices, that's definitely Tom Araya and Kerry King from the band Slayer as those DJs. Also, there's a Slayer song "
+  },
+  {
+   "id": "rd-z2kz57",
+   "title": "Aquarium Confirmed?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0trfq/aquarium_confirmed/",
+   "date": "2026-10-08T15:22:14.000Z",
+   "source": "r/GTA6",
+   "summary": "The sign says: \"Oceanarium entrance ->\" The Golden Dome building is most likely an Aquarium submitted by /u/OsOs-Q8Y [link] [comments]"
+  },
+  {
+   "id": "rd-db5j35",
+   "title": "How are you planning to play GTA6?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0toz6/how_are_you_planning_to_play_gta6/",
+   "date": "2026-10-08T15:19:35.000Z",
+   "source": "r/GTA6",
+   "summary": "Ahead of the highly anticipated release of Grand Theft Auto VI, we're asking people how they're planning to play the game. Whether you're a school nurse in your 50s or professional athlete, NBC News w"
+  },
+  {
+   "id": "rd-1a3sj7c",
+   "title": "Thursday morning Mural",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0t743/thursday_morning_mural/",
+   "date": "2026-10-08T15:00:39.000Z",
+   "source": "r/GTA6",
+   "summary": "This is a WIP the letters are not painted (so dont talk shit until theyre painted ;p Nothing has linework yet... still in the basing in colour phase for moat of the day. Hopefully finish Friday. submi"
+  },
+  {
+   "id": "rd-jtz06p",
+   "title": "Jason and Lucia are hiding in every picture",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0t5a9/jason_and_lucia_are_hiding_in_every_picture/",
+   "date": "2026-10-08T14:58:47.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Neyken-I [link] [comments]"
+  },
+  {
+   "id": "rd-1tl08tr",
+   "title": "The new artworks for the radio stations",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0sk0s/the_new_artworks_for_the_radio_stations/",
+   "date": "2026-10-08T14:34:53.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Zipo92 [link] [comments]"
+  },
+  {
+   "id": "rd-1nrguxk",
+   "title": "2 Fast 2 Furious + GTA 6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0sio1/2_fast_2_furious_gta_6/",
+   "date": "2026-10-08T14:33:15.000Z",
+   "source": "r/GTA6",
+   "summary": "Now this is probably an absolute coincidence… but the first song (Like a Pimp) they chose for the Dirty South Classics station was also the opening song for 2 Fast 2 Furious which was also based in Mi"
+  },
+  {
+   "id": "rd-mnknah",
+   "title": "Jason & Lucia spotted in new screenshot",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0schu/jason_lucia_spotted_in_new_screenshot/",
+   "date": "2026-10-08T14:26:25.000Z",
+   "source": "r/GTA6",
+   "summary": "Well, look at that! They are getting their Outrun on💯 submitted by /u/BlackChamber007 [link] [comments]"
+  },
+  {
+   "id": "rd-1dmnnu4",
+   "title": "Ocean Drive in 2023 vs 2026",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0sb3n/ocean_drive_in_2023_vs_2026/",
+   "date": "2026-10-08T14:24:58.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/ADeadlyAlien [link] [comments]"
+  },
+  {
+   "id": "rd-xgwgq7",
+   "title": "Lana Del Rey (+ her husband Jeremy) & Morgan Wallen will host the country station named Back Country Radio.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0sahq/lana_del_rey_her_husband_jeremy_morgan_wallen/",
+   "date": "2026-10-08T14:24:20.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Training-Snow8897 [link] [comments]"
+  },
+  {
+   "id": "rd-1asp246",
+   "title": "Vice-Dale Fire Rescue Truck spotted",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0s9uy/vicedale_fire_rescue_truck_spotted/",
+   "date": "2026-10-08T14:23:38.000Z",
+   "source": "r/GTA6",
+   "summary": "Among the new screenshots posted today, we've now got our first ever look at a fire truck in official media. submitted by /u/madasafish2010 [link] [comments]"
+  },
+  {
+   "id": "rd-195m11v",
+   "title": "Metal Station Confirmed!!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0s9nw/metal_station_confirmed/",
+   "date": "2026-10-08T14:23:24.000Z",
+   "source": "r/GTA6",
+   "summary": "About damn time. submitted by /u/PapaXan [link] [comments]"
+  },
+  {
+   "id": "rd-1et848z",
+   "title": "Rockstar confirms u can listen to music/podcasts on foot with headphone and earbuds !!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0ry0z/rockstar_confirms_u_can_listen_to_musicpodcasts/",
+   "date": "2026-10-08T14:10:29.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/SamikQlifa [link] [comments]"
+  },
+  {
+   "id": "rd-mrcy4o",
+   "title": "New image from the website (in the music section)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0rxos/new_image_from_the_website_in_the_music_section/",
+   "date": "2026-10-08T14:10:06.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/-imbe- [link] [comments]"
+  },
+  {
+   "id": "rd-1tigt0s",
+   "title": "New Radio Stations and Podcasts",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0rw3h/new_radio_stations_and_podcasts/",
+   "date": "2026-10-08T14:08:20.000Z",
+   "source": "r/GTA6",
+   "summary": "Six stations and their hosts are available to preview today: Cocoteo FM: Leonida's home for the best of modern Latin music. Hosted by El Martillo and La Gata and featuring everything from bachata and "
+  },
+  {
+   "id": "rd-1tmxzn1",
+   "title": "New GTA VI Screenshots",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0ru0h/new_gta_vi_screenshots/",
+   "date": "2026-10-08T14:06:06.000Z",
+   "source": "r/GTA6",
+   "summary": "https://www.rockstargames.com/VI/music submitted by /u/New_Low_6187 [link] [comments]"
+  },
+  {
+   "id": "rd-18y2hhn",
+   "title": "New GTA VI Screenshot",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0rrl5/new_gta_vi_screenshot/",
+   "date": "2026-10-08T14:03:20.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/yourfavchoom [link] [comments]"
+  },
+  {
+   "id": "rd-a3hjcw",
+   "title": "Today's leak shows my most requested feature is in the game!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0q8cj/todays_leak_shows_my_most_requested_feature_is_in/",
+   "date": "2026-10-08T12:57:38.000Z",
+   "source": "r/GTA6",
+   "summary": "In today's leak we can see that asphalt handling and off-road handling are separate stats. I hate how in previous GTAs you can use any supercar etc. off-road without much thought. I always wanted the "
+  },
+  {
+   "id": "rd-1c3itbf",
+   "title": "GTA 6 Finished Artwork (no Ai) Rate it from 0-10",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0pa5g/gta_6_finished_artwork_no_ai_rate_it_from_010/",
+   "date": "2026-10-08T12:11:24.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/TheParsaLife [link] [comments]"
+  },
+  {
+   "id": "rd-1rzutd",
+   "title": "Today’s GTA 6 leak without context",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0p35k/todays_gta_6_leak_without_context/",
+   "date": "2026-10-08T12:01:29.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/climaxx- [link] [comments]"
+  },
+  {
+   "id": "rd-1rq3rh4",
+   "title": "Almost complete!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0orzy/almost_complete/",
+   "date": "2026-10-08T11:45:46.000Z",
+   "source": "r/GTA6",
+   "summary": "Mural is almost done! Posted on X by R3XQ8 submitted by /u/LettuceJr [link] [comments]"
+  },
+  {
+   "id": "rd-4lkpjc",
+   "title": "GTA 6 will have first-person gameplay as confirmed in the new leak.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x0ocg3/gta_6_will_have_firstperson_gameplay_as_confirmed/",
+   "date": "2026-10-08T11:22:00.000Z",
+   "source": "r/GTA6",
+   "summary": "GTA 6 will reportedly feature first-person gameplay, as confirmed by the new leak. Jason is seen in first-person while both driving and walking around the world. submitted by /u/Natural_Helicopter15 ["
+  },
   {
    "id": "rd-14h7g3n",
    "title": "At 11 years, GTA VI has the second-longest development time of any Grand Theft Auto game — just behind the original, which took around 4.54 billion years to be released",
@@ -798,190 +1008,6 @@
    "date": "2026-10-07T16:07:37.000Z",
    "source": "r/GTA6",
    "summary": "My coworkers told me the internet would be excited to see the progress of the mural we are working on so here's today's progress submitted by /u/Omfish [link] [comments]"
-  },
-  {
-   "id": "rd-kmhdpl",
-   "title": "Rockstar says it has blurred the line between open-world activities and main missions",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzylql/rockstar_says_it_has_blurred_the_line_between/",
-   "date": "2026-10-07T14:53:23.000Z",
-   "source": "r/GTA6",
-   "summary": "I think this is one of the most intriguing and exciting details with GTA VI. We’ll see how exactly they executed on this, but if they’ve managed to really pull this off, it’s going to be another level"
-  },
-  {
-   "id": "rd-1jqk107",
-   "title": "Wednesday Morning Mural Update",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzy8r3/wednesday_morning_mural_update/",
-   "date": "2026-10-07T14:39:12.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Salty_Scrotum [link] [comments]"
-  },
-  {
-   "id": "rd-1oh194s",
-   "title": "NEW IGN INTERVIEW DETAILS WITH ROB NELSON",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzxeiu/new_ign_interview_details_with_rob_nelson/",
-   "date": "2026-10-07T14:04:28.000Z",
-   "source": "r/GTA6",
-   "summary": "IGN has published a full interview with Rockstar's Rob Nelson, revealing some pretty exciting new information about GTA 6, while giving more information on stuff we already knew. Here are all the high"
-  },
-  {
-   "id": "rd-14s85qv",
-   "title": "\"The game is so big, I don't know that there's anybody on the team that knows all of it\" - Rob Nelson to IGN",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzxd99/the_game_is_so_big_i_dont_know_that_theres/",
-   "date": "2026-10-07T14:02:53.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Zipo92 [link] [comments]"
-  },
-  {
-   "id": "rd-17hkzmq",
-   "title": "New GTA 6 Details Via IGN",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzx9is/new_gta_6_details_via_ign/",
-   "date": "2026-10-07T13:59:01.000Z",
-   "source": "r/GTA6",
-   "summary": "- When switching to Jason, you can sometimes find him naked in the shower - Lucia can encounter a lawyer living in a dumpster. You can give him pills, return later for legal advice, or even get inside"
-  },
-  {
-   "id": "rd-10mv66v",
-   "title": "Attention to Detail in Extended Trailer I didn't notice until today",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzvn0f/attention_to_detail_in_extended_trailer_i_didnt/",
-   "date": "2026-10-07T12:48:22.000Z",
-   "source": "r/GTA6",
-   "summary": "When Jason and Lucia both answer \"Pickup\" the San4San guy chuckles at the jinx and Lucia smiles at Jason, who doesn't react, and she quickly turns away. This kind of subtlety is common in games such a"
-  },
-  {
-   "id": "rd-41x2l0",
-   "title": "Lana del rey is probably teasing her Song in Grand theft auto VI The Album",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzv6lk/lana_del_rey_is_probably_teasing_her_song_in/",
-   "date": "2026-10-07T12:26:39.000Z",
-   "source": "r/GTA6",
-   "summary": "Last time she did song for the 007 first light submitted by /u/mateusz11120 [link] [comments]"
-  },
-  {
-   "id": "rd-u89yj8",
-   "title": "Jason is just a chill guy",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wztw9w/jason_is_just_a_chill_guy/",
-   "date": "2026-10-07T11:19:32.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
-  },
-  {
-   "id": "rd-l07po9",
-   "title": "Yeah, shoar... See you \"tomorrow\".",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wztgk2/yeah_shoar_see_you_tomorrow/",
-   "date": "2026-10-07T10:54:38.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/El_Pintor64 [link] [comments]"
-  },
-  {
-   "id": "rd-vpbtxa",
-   "title": "Loved Brian’s carousel story paired with the montage in the extended look",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzsz5a/loved_brians_carousel_story_paired_with_the/",
-   "date": "2026-10-07T10:24:58.000Z",
-   "source": "r/GTA6",
-   "summary": "It seems like a whole lot of foreshadowing and Rockstar paired specific scenes with specific parts of the story in the montage. submitted by /u/ohyoudidntknooow [link] [comments]"
-  },
-  {
-   "id": "rd-p2k7ec",
-   "title": "Thoughts on potentially no gambling in GTA 6 story mode?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzr3qy/thoughts_on_potentially_no_gambling_in_gta_6/",
-   "date": "2026-10-07T08:23:21.000Z",
-   "source": "r/GTA6",
-   "summary": "Come to think of it, Vice City and Vice City Stories didn't have it either. The only GTA game that launched with gambling in single-player was San Andreas, and it was predominantly found in Las Ventur"
-  },
-  {
-   "id": "rd-1ab6xnu",
-   "title": "Even the Australian Government is getting prepared for GTA 6",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzq76o/even_the_australian_government_is_getting/",
-   "date": "2026-10-07T07:22:37.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Stogor [link] [comments]"
-  },
-  {
-   "id": "rd-v9penc",
-   "title": "Boss finally agreed to do this",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzp1ws/boss_finally_agreed_to_do_this/",
-   "date": "2026-10-07T06:09:08.000Z",
-   "source": "r/GTA6",
-   "summary": "I have been talking with my boss to hang these in my office. He finally agreed! wdyt guys? submitted by /u/justarandomuser97 [link] [comments]"
-  },
-  {
-   "id": "rd-rrdv4m",
-   "title": "Xbox streaming on PC Rumor debunked",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wznn2k/xbox_streaming_on_pc_rumor_debunked/",
-   "date": "2026-10-07T04:43:18.000Z",
-   "source": "r/GTA6",
-   "summary": "https://preview.redd.it/pz1y4whq5zth1.png?width=595&format=png&auto=webp&s=89db2f150e1738248a2f2edb86f59dadc1ed9f61 Matthew Ball addresses the rumor and clarifies that streaming will not be for pc. Bu"
-  },
-  {
-   "id": "rd-15ssyzu",
-   "title": "Do yall think GTA 6 Is gonna have a Scarface Inspired house like Vice City.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wznkrf/do_yall_think_gta_6_is_gonna_have_a_scarface/",
-   "date": "2026-10-07T04:39:36.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Trick_Hedgehog_6664 [link] [comments]"
-  },
-  {
-   "id": "rd-199c1oz",
-   "title": "Dre and Jay",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzlne3/dre_and_jay/",
-   "date": "2026-10-07T02:52:19.000Z",
-   "source": "r/GTA6",
-   "summary": "I like Dre'Quan and Jason's bromance ( pause ). Dre seems cool as hell, even his little argument with the DJ in the Jack Of Hearts from the 2022 💦. I hope they don't make him turn out to betray Jason"
-  },
-  {
-   "id": "rd-d4v1t",
-   "title": "schizotheory about trailer 3",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzjw4q/schizotheory_about_trailer_3/",
-   "date": "2026-10-07T01:22:30.000Z",
-   "source": "r/GTA6",
-   "summary": "They said they were scheduled to finish by Thursday—what if this mural is actually the cover art for a third trailer, which will be released alongside the completed wall mural? (A wild theory about a "
-  },
-  {
-   "id": "rd-18pvrof",
-   "title": "According to a well known discord dataminer, discord is going to be starting a gta 6 promotional even starting November 17th",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzjkri/according_to_a_well_known_discord_dataminer/",
-   "date": "2026-10-07T01:06:54.000Z",
-   "source": "r/GTA6",
-   "summary": "Wumpus central is a well known discord dataminer who datamines up coming features and such for discord, and is even followed by the official discord twitter account submitted by /u/Kn1ghtV1sta [link] "
-  },
-  {
-   "id": "rd-5hurgh",
-   "title": "Xbox has secured the cloud streaming rights for Grand Theft Auto 6. Xbox Cloud Gaming will be the exclusive streaming platform for the title, which would allow players to stream the game to their PCs. Xbox’s, TVs, and more",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzhxwi/xbox_has_secured_the_cloud_streaming_rights_for/",
-   "date": "2026-10-06T23:48:11.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Automatic_Ad1665 [link] [comments]"
-  },
-  {
-   "id": "rd-7340dl",
-   "title": "GTA 6 officially has an age rating in New Zealand as of October 2",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzhmty/gta_6_officially_has_an_age_rating_in_new_zealand/",
-   "date": "2026-10-06T23:33:00.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/russisbookermother [link] [comments]"
-  },
-  {
-   "id": "rd-15b062n",
-   "title": "Tuesday Morning and Evening Mural Update",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzgmdv/tuesday_morning_and_evening_mural_update/",
-   "date": "2026-10-06T22:45:33.000Z",
-   "source": "r/GTA6",
-   "summary": "If these updates are getting annoying let me know and I’ll just post when it’s done submitted by /u/Salty_Scrotum [link] [comments]"
-  },
-  {
-   "id": "rd-2h4b5a",
-   "title": "Xbox has secured exclusive GTA 6 streaming rights",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzgetq/xbox_has_secured_exclusive_gta_6_streaming_rights/",
-   "date": "2026-10-06T22:35:55.000Z",
-   "source": "r/GTA6",
-   "summary": "This means you can play GTA 6 on PC using the cloud submitted by /u/rodomg122 [link] [comments]"
-  },
-  {
-   "id": "rd-l87gby",
-   "title": "Implementation of the watch mechanic",
-   "url": "https://www.reddit.com/r/GTA6/comments/1wzfw00/implementation_of_the_watch_mechanic/",
-   "date": "2026-10-06T22:12:36.000Z",
-   "source": "r/GTA6",
-   "summary": "I don’t know if this has already been discussed here or not. What do you guys think? I don’t know how many times this has already been discussed here, so don’t blame me. I’m just curious Since we can "
   }
  ]
 }
