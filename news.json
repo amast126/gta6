@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-10T06:10:51.707Z",
+ "generated": "2026-10-10T12:50:52.983Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 8,
    "scanned": 40,
-   "checked": "2026-10-10T06:10:51.707Z"
+   "checked": "2026-10-10T12:50:52.983Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-10T06:10:51.707Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-10T12:50:52.983Z"
   },
   "googlenews": {
    "ok": true,
-   "count": 99,
-   "checked": "2026-10-10T06:10:51.707Z"
+   "count": 100,
+   "checked": "2026-10-10T12:50:52.983Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-10T06:10:51.707Z"
+   "checked": "2026-10-10T12:50:52.983Z"
   }
  },
  "official": [
@@ -209,6 +208,86 @@
  ],
  "press": [
   {
+   "id": "gn-uzoawq",
+   "title": "5 Games to Play in October Before 'GTA 6' Takes Over November",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SaVA4ZDZIYUQzTW02cVJWLUJoZkhUZjF0WEVqclBxNVRWUUVZeWJsTlFrNjlseVVQZ0w0U3I4elBzaGhtU0ZLUHdyMkNYQ2hqY0JqM1hQWWN5RHpBeFpuTnBGelRZUU9ORlpJ?oc=5",
+   "date": "2026-10-10T12:46:11.000Z",
+   "source": "Collider",
+   "summary": "5 Games to Play in October Before 'GTA 6' Takes Over November Collider"
+  },
+  {
+   "id": "gn-qpwkls",
+   "title": "Grand Theft Auto VI may get a 60 FPS mode even on the base PlayStation 5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWVBeDd0dF80ZzNDMlZ4WGdGcnJpcmhBajBjRDdXbWxpeXNZdHlTa0lyMGpZbkRZMXpJVGdUc3hkUTZRanFUS2c2SnJPcHFKWVVRUFc0MjhFUE9mS190MzB4NHl2WDdrYW9MU01CRWxBSUZPMlNaSDRLbW5vNGtjaDVlWmp4bHZHbHVmcUtpQy1QdXd1c0JZUFdGWmxxeTJmX3lsYVpTUml4Y2ZmRmNUbnFybHFPZTQ?oc=5",
+   "date": "2026-10-10T12:29:49.000Z",
+   "source": "GameGPU",
+   "summary": "Grand Theft Auto VI may get a 60 FPS mode even on the base PlayStation 5 GameGPU"
+  },
+  {
+   "id": "gn-14yce9e",
+   "title": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOF9YeHYxc3pDOEI2OHEyVHFmNFB0STF1bkpxZnB4ZkJJWVJESWl2eWRVQ1ZzQVFMdTRiRUp1SnZPdy1TWWdGT0huc1MyUnhMMmlBQThiX2p6bUF5bmxGdVlxdTRHY0hSZHNGTlNKX2FObjdnT1lRR05aTXNoX0hLcV9LUkFoRW12VUU3ZFpEQ1huQVVCVkM0R2dFSTd3WHc?oc=5",
+   "date": "2026-10-10T12:07:44.000Z",
+   "source": "Video Games Chronicle",
+   "summary": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying Video Games Chronicle"
+  },
+  {
+   "id": "gn-8cp34z",
+   "title": "GTA VI Radio Stations to Feature Reggaeton, Rock, Metal, Blues, and A Franchise-First Feature",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ1M2bnYzWG8tRW5pcEZzcE55bGFQRE5Pb0ZRcGNKQ1hScnBGdXZlVWdUVktGZUJhZWpKX3REcWFFT2pNd0ZTLWJ3TUxHUXVPR2lOT3Fzc2NGQllHcHlmdElRUWlyVUFxZ2htYnp4RmpnbXhPb0xtdnNCVXVuWW5UNWRBd3RFano1YWxxVmpvUWhtUVhReHd3ZU56NklqaG45NmlGbzdUV2VISGFkc05GYjJLX1RZYW5NVG1fY25iRQ?oc=5",
+   "date": "2026-10-10T12:00:01.000Z",
+   "source": "www.levelup.com",
+   "summary": "GTA VI Radio Stations to Feature Reggaeton, Rock, Metal, Blues, and A Franchise-First Feature www.levelup.com"
+  },
+  {
+   "id": "gn-1sq30kf",
+   "title": "Nintendo president eyes a GTA 6 Switch port much quicker than Red Dead Redemption's",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObzUtR2pTSnk5WGlFUzJzckVzcmJ6akRmZmFubnNvMjZ2MDk1aThxdnRXUjZCTlZYYzZmZTRKOVNnZVdMVkZUbHRuZkNncG5ybTQ4OGVSekdYTU91NjhWY1g1NlBzNTRGd05iY2ZXbjk5YUpYUkRXLXV5WG1yY1hlZU5nRUxZWXRkRmt5WkZyenhiN19NVlJ6cjhVR1BhTU1MWHhxRGVR?oc=5",
+   "date": "2026-10-10T10:08:04.000Z",
+   "source": "GAMINGbible",
+   "summary": "Nintendo president eyes a GTA 6 Switch port much quicker than Red Dead Redemption's GAMINGbible"
+  },
+  {
+   "id": "gn-1nuyz9k",
+   "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODVlRTVONzRxbW83VUREbU1RTTFCaXZDdkY0NWJfUXZPU1MyMzZ6NjZwdHJSVmJtY1U3c2JjU2dYbVNhejFkbUZ3Yk9hR21zeURWR1RtQTlRSW1OdjcwZnVoNjkwSksyRnlKTnJtQ29uYmJZVzFJOG5NTXo2WF85NzlzMjNHQlJnS3VlZWp3TTU?oc=5",
+   "date": "2026-10-10T10:03:38.000Z",
+   "source": "Mashable",
+   "summary": "GTA 6 Cyberleek update: Everything leaked so far, what might be next Mashable GTA VI leaks continue with a lengthy (and very nude) gameplay video The Verge Careful Out There: Latest GTA 6 Leak Has Major Story Spoilers Engadget"
+  },
+  {
+   "id": "gn-snl181",
+   "title": "GTA 6 on Nintendo Switch 2? Nintendo executive speaks out for the first time",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNnJmcVdvMVFvaHhVUElwWkRXbG5rSXRXTzFpUlJvdVBjcHVQbVJ1NS1mWXVvamc1NTd1NU1JWTNvR1NVZTQ2VVlsR3RJQWRqZFlYQlJsVjR1NHVYUGFMd3F3bTVkMXBWQTFTb010WDJocUdLeEk0QkdBOFpjYnJvWlM1Z1RORWhnazVUMl9mZEJmNXVBdzNIVmJ5RmpxbnNKQXRkOG9FQ0pjckhXc29GNGQ4REwtYUtHWHgxYw?oc=5",
+   "date": "2026-10-10T09:13:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "GTA 6 on Nintendo Switch 2? Nintendo executive speaks out for the first time Notebookcheck"
+  },
+  {
+   "id": "gn-1okix7t",
+   "title": "Nintendo Says the Switch 2 Can Run GTA 6 , but a Port Is Up to Rockstar",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdGdVNzhqRVZjUzRhWWZMTDJsbTBPTnJZOFg3UUZGQ3l3eUVFU1M0SUVhenNQNnhfNlNQMmJWYTdSc2JpbjNUVG13YkNfcENyMjloVzRxYzhpeElvV09sZFByS3kzeU00Z1U2T0d6NVFicmgzZ1d6V1BRcWFSallyZUNJNGhxS0VsSzZtbDUxWG1fOFpodDdhYVFiUGhHVWs?oc=5",
+   "date": "2026-10-10T09:05:38.000Z",
+   "source": "GTA BOOM",
+   "summary": "Nintendo Says the Switch 2 Can Run GTA 6 , but a Port Is Up to Rockstar GTA BOOM"
+  },
+  {
+   "id": "gn-19235oa",
+   "title": "GTA 6 could turn the American Dream into one of gaming's biggest cautionary tales",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWJWaEpyalBNUDM5QWpyTnhKQnRRRnktU0xScmpKVW5XMmFnSmI0OHg1RHNDQ2hBZjFXeV9HclRncFVzYm8zLXl2dTZBc2U5S3NTZnloV1Bsa21uQTBnT29nTXlvVUZzMHFPX1BTOWZVU25lMDVaT0t5RUxWOFVaOHpFY3FYWnNzWFhWdV9ma0hJSlQzcWxSOWJBWm1aTkVnRTY5RTV3SkU?oc=5",
+   "date": "2026-10-10T07:00:01.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 could turn the American Dream into one of gaming's biggest cautionary tales GAMINGbible"
+  },
+  {
+   "id": "gn-1c39v9d",
+   "title": "Nintendo Says GTA 6 on Switch 2 Is Not Its Call",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeXJFcUdCdkpycEFvOXg1MWZ4NDMxREhIRC0zV2NDMmpuU2p1aGkyM1dQbE5zV3lqQ3ZMc2E3YUcxQU1ZZFZpdXd5X3c3U1NxMlowRXhveFNDbnNMNUw1bnU1Uk1yOXRMZDJMRjhGRGFIMW9HbTRrUWFHSWdXSUUyQW9UTmNCOWkx?oc=5",
+   "date": "2026-10-10T06:54:52.000Z",
+   "source": "OpenCritic",
+   "summary": "Nintendo Says GTA 6 on Switch 2 Is Not Its Call OpenCritic"
+  },
+  {
    "id": "gn-ft67w5",
    "title": "'GTA 6' official merch is live, and it's already selling out: Where to buy",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnRrenQzLUk4MjExZ1AtaWVRbkdsV2lMOExfckd1cGRXblpBRkxmX1JQOE9MWUNzb3NzaEVEQkpXUFdFcFlUVkZubzlvWWdsVUs4VlR5T00xZjFmU2JxYk9vVDVxanlpdFNsTy1MczBic2lJMXhIeE9XRUo2Wk1pd0k5dHkyZw?oc=5",
@@ -220,7 +299,7 @@
    "id": "gn-p5pfly",
    "title": "Cardi B - Don’t Chart (From Grand Theft Auto VI: The Album) The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spanning Fashion, Gaming, Movie",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSkFsTGxpVlBYY3I1VllQVEd6MExsdnJObWNYNnQtT2Z3dm1lV2Q0Qi1xeUNvVWhSY0hKbFppcl9raW54cndLXzRlRC1NaWVHQUt6UzZTY0NPNl9INUVVMFNzVmFWeFpWNGZmUXBSNncwYXM0bXJuNUtqQml6SXRkX0tfbFhOS1QxNEw1ZUZSdnUtUQ?oc=5",
-   "date": "2026-10-10T02:18:20.000Z",
+   "date": "2026-10-10T02:19:17.000Z",
    "source": "The Hype Magazine",
    "summary": "Cardi B - Don’t Chart (From Grand Theft Auto VI: The Album) The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spanning Fashion, G"
   },
@@ -295,6 +374,14 @@
    "date": "2026-10-09T21:09:35.000Z",
    "source": "GoNintendo",
    "summary": "Nintendo president says they have \"nothing to announce\" concerning GTA 6 on Switch 2, suggests asking Rockstar and Take-Two GoNintendo"
+  },
+  {
+   "id": "gn-fltb8n",
+   "title": "Nintendo Of America President Leaves Switch 2 GTA 6 Question To Rockstar",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEVpVDhISmhxZS01WDYyclV2UFZBQnNaU2pOS0FBNmNnU0ZZTmpDaWEyRklwRlFESEszeXMzTkZXdktxRDducW4zTzFTd1ZwSXFlZmJETUx5eUczNlNSNVJzb0J5TVRybnhvUUllSVBLM1dvLUJINC1WcWZBeTZ4OGxNWDhrNGU2anhsYi1JemtpOGNleS13MXJQYUhfNGJHeldQa2ZYcmZiNXFIUXlqRQ?oc=5",
+   "date": "2026-10-09T20:55:39.000Z",
+   "source": "Northeast Times",
+   "summary": "Nintendo Of America President Leaves Switch 2 GTA 6 Question To Rockstar Northeast Times"
   },
   {
    "id": "gn-ng8hjr",
@@ -599,97 +686,25 @@
    "date": "2026-10-09T15:17:42.000Z",
    "source": "IGN India",
    "summary": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says IGN India"
-  },
-  {
-   "id": "gn-v3780e",
-   "title": "GTA 6 Leaker Hosts Another Poll, and Voters Want More Lucia",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jRzRiZXV6QmxsdzJXcFhvNm1SZzQybUd2NDlzakNzamdCdXVsT3ExS05ncWR3TG1DRkxTRm5HUXo4Yl9JaU9GUjBibEltc29BeVBISU12Ym1NTHZRYkN1c20wdjBFWlZ3d1BaLV90RmptN0g4OW1V?oc=5",
-   "date": "2026-10-09T15:11:49.000Z",
-   "source": "Insider Gaming",
-   "summary": "GTA 6 Leaker Hosts Another Poll, and Voters Want More Lucia Insider Gaming"
-  },
-  {
-   "id": "gn-f6wf7p",
-   "title": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jX2JpbkRFOUxpLXZTSkdMNHllY0IzVFJTTm9OZThJY0dKbnFRSkp1SnY2bHdtZ2dSZTFmTHpadUlNSE5HS2VBakVLMVpNMGVsbXZ0MmoxdEhEM0FqM2k5S2tfdUNqNS1qM3dadlloWQ?oc=5",
-   "date": "2026-10-09T15:04:17.000Z",
-   "source": "IGN",
-   "summary": "GTA 6 on Switch 2? 'That's a Conversation for Take-Two and Rockstar,' Nintendo Says IGN"
-  },
-  {
-   "id": "gn-xwd7p4",
-   "title": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHBxenRBUERuM2tsdVIybTN3endGYzJsWmpxU2pXalFSRllqdGVjNHY1aWRvTEJTT3lVUzZDSVA0d2ZIZ1IteEdnb2tTaTRBWWt5bTRUTDdxbFJJNWdGMDBqa2MwRHFHbUxMckZQa21RLWZiRC1YSGdGOF8xYTRJR1M0Q1p4WmRMbXQ1Y3AxQ25scGs?oc=5",
-   "date": "2026-10-09T15:03:38.000Z",
-   "source": "GameSpot",
-   "summary": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says GameSpot"
-  },
-  {
-   "id": "gn-xips9u",
-   "title": "Grand Theft Auto VI radio station hosted by Miami's own Trina, Trick Daddy",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGFMX25nX3VsOWdFNVNGdVBnUkNzOXl1MzdCTFhZT1dfcjljX1NESzQ5VmVYbkQtNmNaRFZlR3RhWGV2M2JxWVZrR2x3WjJobktmd3VYUEdlbEhlVDN4dEZTOXJnakxHWVdEVGVlYzNOVlNja1otVnM3V291RUMtNTRSZkt1ZTlfbFB5Z2Mtc1hQdWstME5Ic2hXOWhFdmoxYUE?oc=5",
-   "date": "2026-10-09T14:38:38.000Z",
-   "source": "CBS News",
-   "summary": "Grand Theft Auto VI radio station hosted by Miami's own Trina, Trick Daddy CBS News"
-  },
-  {
-   "id": "gn-qpgkg5",
-   "title": "Hip-Hop Star Cardi B's GTA: VI Track, \"Don't Chart,\" Released",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObjZBakVXOUZWUDlEeERKMmM4TTk4enJxaFJqQk9aOEpfUnBoSGY0U05hREtqazNmQWF5ZUpjSFNhTEVxOHBYVkVkY2NlSG8wWXotdkFkbjRhQzFVTi1ZUTQ1R25Ocl9YX2dXMy1sbjZycjlTZzIwdU5xdEhyam5PNy02dzlDel9ZUEE?oc=5",
-   "date": "2026-10-09T14:09:20.000Z",
-   "source": "HOT 97",
-   "summary": "Hip-Hop Star Cardi B's GTA: VI Track, \"Don't Chart,\" Released HOT 97"
-  },
-  {
-   "id": "gn-1r5bzpf",
-   "title": "GTA VI radio station features Miami’s own Trina and Trick Daddy",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWVNak1FWW1CbTlyWEZkUXVHenRVc3g0MUgyU0pkb3NvTlFGaTF5UXBieDd2VVBHY1I2ZUZnRVFFNEVaOTk4VXowRlZMVktKTFl4TENPa0VkSnNxWmdqOUdpYkU5OHp0dTl2S2hMNlFLemVqRjVQZl9RcGFGNXNodVRBNkptQUc3Y3BzendEbFlZNktYa3NOS0xVQTNyN2FETTlV?oc=5",
-   "date": "2026-10-09T14:06:00.000Z",
-   "source": "CBS News",
-   "summary": "GTA VI radio station features Miami’s own Trina and Trick Daddy CBS News"
-  },
-  {
-   "id": "gn-1krszxr",
-   "title": "Nintendo of America Chief Breaks Down Her First Year: ‘Zelda’ Live-Action Movie, ‘GTA 6,’ Third-Party Game Goals and More",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaVJ6RTlmbWsybkp4bEtfemtWS2IxYmoxMHFZOVJRUHlhb2hNSTFLZHpUaklEQm9oY19SYjNQdTlUZi1UZ3FmWWFLNXBsMWx2ZS1ONlo5ekt4T2FqT3JUVTMwU1BzcnRNRHhtd2kxMWtxS0Y0c1dvTVBJbE5YaFQ5U3UydUZpenVETzdNMTJOUnViamFhUzBmdkRLcVBua2tteUx6MnFmeXI4Ym1qaU5FRw?oc=5",
-   "date": "2026-10-09T14:00:00.000Z",
-   "source": "Variety",
-   "summary": "Nintendo of America Chief Breaks Down Her First Year: ‘Zelda’ Live-Action Movie, ‘GTA 6,’ Third-Party Game Goals and More Variety"
-  },
-  {
-   "id": "gn-1d4e0hw",
-   "title": "Rockstar Games Issues New Official Statement on GTA 6's Jason",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjVHcHh4QmdTcmZCZTJlaUxVVFlkTnRNZHhLUXI3djdKNWJwTEdiTzZhdEJ5c1ZjRmV3cVR5b3Vna1cxSmk4WlpvNUdFLTlpYUJCdjlFeWhWb21DcGNEeWFDTWo5S19Bd1VNcjFlRFMxTVZKNjcyR3F1QTJQWUlVQ2VhQVpHdmNkMWRzemZKVXdMWUJrRGxkT0tR?oc=5",
-   "date": "2026-10-09T13:59:45.000Z",
-   "source": "OpenCritic",
-   "summary": "Rockstar Games Issues New Official Statement on GTA 6's Jason OpenCritic"
-  },
-  {
-   "id": "gn-1rcjxi8",
-   "title": "Rockstar pulls back the curtain on the boldest GTA 6 ideas, from smarter NPCs to real consequences | Technology News\n(HT Tech)",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdDJVWHZKR3NMeV9TQ0FGTGhzVFVKdkxWb3I5Z1lrbVBnODdmU3lJY1p3eWIwa3NXbGtlQURTY1oxdk9GS2RfV0RMbjN2WWVWQzd4RVUxS2xNcWxob3pxelY2YkY5bGFyaVFZWjN3UG03S3lRWWdFWUlNdmg4QjB1WVhmcnRRVVVZcDFIZXdUWnJFTGlKVVdJbkpnYjdsaWwwOEp6SS1lS0llaWxFc18zdFpCWXFfeFU0ZXVKbTluSDQwTjBZMmJpWThLTV9XTTFCdEV5OEU2YmdZdktjc1NOUl9pc0VKSXhOWlB1LTMyUDdpQdIB9wFBVV95cUxNcU1OZXVUTGRPdmR0YkFEQURBX2lpdEE4eXNQY2hnRHR5M1FRVmhiQzRYWldSUTdJSHlwM3FUOE5KRC1oMG54QWpaYV9CYlBZNlJvNHhTVVd5RWxISFdpLTNCZExIUUFQdzZMV3J6VHZUT2llMzBaeDY0WlluOF9ON0x1b2lFTlhPLXUzYm1GU2d1OW9IQmpGWG5UelZxd0R3MUE1aEpTdGlQWXlVdUNjV3lWMzBWaTdhc0s3ZnltTTNaZXJHQlFOT1RXczkwRmxTZWx3Y1JYc3hpZnZLYnFKTXBlS3ppN09WREVrVHR2dkFSQkxIYnF3?oc=5",
-   "date": "2026-10-09T13:51:35.000Z",
-   "source": "Hindustan Times",
-   "summary": "Rockstar pulls back the curtain on the boldest GTA 6 ideas, from smarter NPCs to real consequences | Technology News (HT Tech) Hindustan Times"
-  },
-  {
-   "id": "gn-pdj207",
-   "title": "GTA 6 To Let Players Hear Music And Podcasts While On Foot",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHZtdjJQRmQyekNVLVhPUDFya2VJZndLN1g1TUozMnVyamdmQ3JEUEJra0toMUNPUHg2V045b2JjMnFTeW5YdFgtUjlRajJrTnBYdGNwejI0T2NmRzREYlplU0dOZ1EtOHhrTEFUQWlVellLQ2N4OTl5c1h1ZzMteUtaT25KcnNEZlBZSGFnMDU4LWdRU3gxNkJFUzh5c2dHS2oxcUV5QVV0dGpaYk0xSVkwaldDWjdMN0dRaDRRUnVHbWExc0HSAcsBQVVfeXFMT2NoU0tkaEwxR2FfTmtNU0JYZ0FFMWgyWHJ0cGpqSmduajk3TlBwT2tjbDhfN1hENS1qNF9ORF9CUVJyMGlFUm8zcnJIYTVncjVDYnFVcFRTNzBXc2l5Q2d3NWEwclVrN3lBblJtcWtlcm8ySVk1N2c3ZXFLNnRDZVJuckZZQjFkcHlCamJQTlQ5ZDVYRnpHNFJTZmxXTm9XY2s3aWZxYmZyaFZhLXM3WVJTTlQyUzUtRTFnSWtwbnE2VVlaZHZJU0tzRkU?oc=5",
-   "date": "2026-10-09T13:46:57.000Z",
-   "source": "ETV Bharat",
-   "summary": "GTA 6 To Let Players Hear Music And Podcasts While On Foot ETV Bharat"
-  },
-  {
-   "id": "gn-o8586u",
-   "title": "GTA 6 radio stations to be hosted by Robyn, Palms Trax, Bad Bunny, more",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWctem93N3daZjFxYzYwNU5TWDRxcUhsRk5TX0wzcS1zSDlBakxBbDhqVnhrT2VZRVhiWThyb1BKeE5sdl9WNUIxX3I4aTI2RDVmLVJFUHdHcWUwLWhGSkVwT3NsalgzV2hqUkpJalFKLXNmQTFscmRzUjJBQng4MjFId01ScE5ZS0picFFn?oc=5",
-   "date": "2026-10-09T13:40:16.000Z",
-   "source": "DJ Mag",
-   "summary": "GTA 6 radio stations to be hosted by Robyn, Palms Trax, Bad Bunny, more DJ Mag"
   }
  ],
  "community": [
+  {
+   "id": "rd-1y2u3r2",
+   "title": "Is the bag Jason picks up off the ground for Boobie : optional or scripted?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x2cbkb/is_the_bag_jason_picks_up_off_the_ground_for/",
+   "date": "2026-10-10T10:51:22.000Z",
+   "source": "r/GTA6",
+   "summary": "Is the bag Jason picks up off the ground for Boobie at the start of the extended trailer : optional leading to different dialogue or is it mandatory and scripted? submitted by /u/CollegeFlat399 [link]"
+  },
+  {
+   "id": "rd-13skvxd",
+   "title": "Small thing I noticed in the Extended Leek...",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x27kgz/small_thing_i_noticed_in_the_extended_leek/",
+   "date": "2026-10-10T05:57:07.000Z",
+   "source": "r/GTA6",
+   "summary": "Wyman's truck in the Extended Leek was carrying the Ultimate Edition exclusive '67 Vapid Dominator buggy. Later he can also be seen getting in the buggy to take part in the race. SPECULATION: This cou"
+  },
   {
    "id": "rd-qgnbzp",
    "title": "Fini (finally)",
@@ -705,6 +720,14 @@
    "date": "2026-10-10T03:17:27.000Z",
    "source": "r/GTA6",
    "summary": "Everyone has the right to their own opinions, nobody can force you to like something. And if you don't like something you can just ignore it and continue. But this people being like \"GTA 6 will flop a"
+  },
+  {
+   "id": "rd-i8kdhs",
+   "title": "Does anyone remember the 90s/00s NYC immigrant \"striver\" story? Sans/Susu/Tanda?Fighting to get your family out? I think that's Lucia.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x24j1k/does_anyone_remember_the_90s00s_nyc_immigrant/",
+   "date": "2026-10-10T03:04:47.000Z",
+   "source": "r/GTA6",
+   "summary": "I'm curious if anyone else recognizes this, because I think it's an actual cultural phenomenon that's gotten lost. Obviously we haven't played the game yet, so this is based on what Rockstar has shown"
   },
   {
    "id": "rd-up4hig",
@@ -985,30 +1008,6 @@
    "date": "2026-10-08T19:21:08.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
-  },
-  {
-   "id": "rd-1k376ym",
-   "title": "The legendary Flash FM is back!!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x0yopz/the_legendary_flash_fm_is_back/",
-   "date": "2026-10-08T18:29:09.000Z",
-   "source": "r/GTA6",
-   "summary": "Looks like Non-Stop-Pop FM is about to have some competition submitted by /u/noimportantmatter [link] [comments]"
-  },
-  {
-   "id": "rd-8nn08c",
-   "title": "Full frontal was a misunderstanding from the article",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x0xof9/full_frontal_was_a_misunderstanding_from_the/",
-   "date": "2026-10-08T17:50:47.000Z",
-   "source": "r/GTA6",
-   "summary": "As far as the leeks go, i think it was him able to do that because of the build he has, having said that wont want to discuss leeks any further because in my humble opinion the less attention given to"
-  },
-  {
-   "id": "rd-y77zk3",
-   "title": "New merch",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x0uzzz/new_merch/",
-   "date": "2026-10-08T16:09:02.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/just_a_cat_meow [link] [comments]"
   }
  ]
 }
