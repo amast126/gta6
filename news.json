@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-10T00:11:35.357Z",
+ "generated": "2026-10-10T06:10:51.707Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 8,
    "scanned": 40,
-   "checked": "2026-10-10T00:11:35.357Z"
+   "checked": "2026-10-10T06:10:51.707Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-10T00:11:35.357Z"
+   "checked": "2026-10-10T06:10:51.707Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
-   "count": 100,
-   "checked": "2026-10-10T00:11:35.357Z"
+   "count": 99,
+   "checked": "2026-10-10T06:10:51.707Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-10T00:11:35.357Z"
+   "checked": "2026-10-10T06:10:51.707Z"
   }
  },
  "official": [
@@ -208,12 +209,52 @@
  ],
  "press": [
   {
+   "id": "gn-ft67w5",
+   "title": "'GTA 6' official merch is live, and it's already selling out: Where to buy",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnRrenQzLUk4MjExZ1AtaWVRbkdsV2lMOExfckd1cGRXblpBRkxmX1JQOE9MWUNzb3NzaEVEQkpXUFdFcFlUVkZubzlvWWdsVUs4VlR5T00xZjFmU2JxYk9vVDVxanlpdFNsTy1MczBic2lJMXhIeE9XRUo2Wk1pd0k5dHkyZw?oc=5",
+   "date": "2026-10-10T03:11:15.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' official merch is live, and it's already selling out: Where to buy Mashable"
+  },
+  {
+   "id": "gn-p5pfly",
+   "title": "Cardi B - Don’t Chart (From Grand Theft Auto VI: The Album) The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spanning Fashion, Gaming, Movie",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSkFsTGxpVlBYY3I1VllQVEd6MExsdnJObWNYNnQtT2Z3dm1lV2Q0Qi1xeUNvVWhSY0hKbFppcl9raW54cndLXzRlRC1NaWVHQUt6UzZTY0NPNl9INUVVMFNzVmFWeFpWNGZmUXBSNncwYXM0bXJuNUtqQml6SXRkX0tfbFhOS1QxNEw1ZUZSdnUtUQ?oc=5",
+   "date": "2026-10-10T02:18:20.000Z",
+   "source": "The Hype Magazine",
+   "summary": "Cardi B - Don’t Chart (From Grand Theft Auto VI: The Album) The Hype Magazine: Unveiling the Pulse of Urban Culture - From Hip Hop to Hollywood! Explore a Diverse Tapestry of Stories, Interviews, and Impactful Editorials Spanning Fashion, G"
+  },
+  {
+   "id": "gn-1j5pm2y",
+   "title": "Six quick, free Platinum Trophies on PlayStation Plus to squeeze in before GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmxmTmUwYmdTMnNxZWdwRmY4UHZ5dFlxeWF4TU01M1duODlsQnhWXzNZY2xheE0xazFmT25fRGYxQnpzdEo0d2VhWEc3ejlseW8tWXhhRWZKRTh5VVVyY2ZRMGRNMlNpeEZpYTRqSWwwU0VLTEZaM1JYOUNWSjJCNDl5NDVodGZMRzItWl90X1ZvVE1SLXJ1elpkRy05R2tTTFRFR1lFaVlid1RpZ2lhMHltN0FwVlc2ZWlfeDhMTzk?oc=5",
+   "date": "2026-10-10T02:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "Six quick, free Platinum Trophies on PlayStation Plus to squeeze in before GTA 6 GAMINGbible"
+  },
+  {
+   "id": "gn-1d493nk",
+   "title": "Nintendo President Doesn’t Rule Out GTA 6 Coming to Nintendo Switch 2",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3UwQ1FGSDR3RDhZUnBNb3RTZzIzajhIWVlDTU9WQmNpeTNDUlBtT1AtVWtoVnJLUkZjN1FXMEtvRDZLVzYzY1JhbG00LXk5dEY4MlM4VGFsQ3ctbjQzenNSX0VKTk9qT0c4OE5vRGJLZHExUEcwRThPZG1CVDNHTWQ4dGdYMkRZelhkU1REWWpyN3JKOHpra21DNFJ0MVprWm9Wb3VWcFZLU1FZTzB3?oc=5",
+   "date": "2026-10-10T00:38:00.000Z",
+   "source": "Men's Journal",
+   "summary": "Nintendo President Doesn’t Rule Out GTA 6 Coming to Nintendo Switch 2 Men's Journal"
+  },
+  {
    "id": "gn-doau3l",
    "title": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSnNlNm1vZFJwanlyMWttYjYzemhHdV9XZ0h2MWdVZG01TVVSa3BGVnN6NTBLTWpJVDcwc0xNYzkyMkpEUkpOdlNNbjBqZUZCVkZGNnFiLVNMWlVOSjAyZFh0TTV2MVRISHQ4d0QxRThxQTJ5Y0FIMERvTjh2cTVVN3c2Uy1NMGdXN19FX3hHdTBKb0M2SWpoMzVEVUNIbHE1UFJsZXR5V2ZiYjVFZ0k0N29UNGhKQmh4YWphOVNIdUxxZU84R1pvN1JXTUJDZw?oc=5",
    "date": "2026-10-10T00:08:04.000Z",
    "source": "IGN Pakistan",
    "summary": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely IGN Pakistan"
+  },
+  {
+   "id": "gn-165xba",
+   "title": "GTA 6 Fan Says They Asked Rockstar to Send Them a Poster All the Way to Brazil — So They Did",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTREcTBRRFBkcUxjbFh3OGtHdVBjdlRteGRKcmUtbVhlY3BfZnhKbGxtVWl3cFZuYklfU3Q1YzgyWm4xajNhcDc4bnE3My1XMFdLalFDZFR0TWg1WTBMREtHamEwSXdDSVN5aV9kX0gybkVnMEhuSFIzQlVTek00X016dHd5TzdURS1jM05kd1p4NkZoaWVxTmFudXJCWTdTOVExUQ?oc=5",
+   "date": "2026-10-09T23:56:24.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Fan Says They Asked Rockstar to Send Them a Poster All the Way to Brazil — So They Did IGN"
   },
   {
    "id": "gn-acy8lj",
@@ -238,14 +279,6 @@
    "date": "2026-10-09T22:19:54.000Z",
    "source": "Polygon.com",
    "summary": "GTA 6's Nudity Sure Sounds Hopelessly Outdated Polygon.com"
-  },
-  {
-   "id": "gn-1nuyz9k",
-   "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODVlRTVONzRxbW83VUREbU1RTTFCaXZDdkY0NWJfUXZPU1MyMzZ6NjZwdHJSVmJtY1U3c2JjU2dYbVNhejFkbUZ3Yk9hR21zeURWR1RtQTlRSW1OdjcwZnVoNjkwSksyRnlKTnJtQ29uYmJZVzFJOG5NTXo2WF85NzlzMjNHQlJnS3VlZWp3TTU?oc=5",
-   "date": "2026-10-09T21:59:17.000Z",
-   "source": "Mashable",
-   "summary": "GTA 6 Cyberleek update: Everything leaked so far, what might be next Mashable GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern IGN Nordic GTA VI leaks continue with a lengthy (and very nude) gameplay video Th"
   },
   {
    "id": "gn-175dq6k",
@@ -288,20 +321,20 @@
    "summary": "GTA 6 On Switch 2 ‘Up To Take-Two’ Insider Gaming"
   },
   {
+   "id": "gn-oiasd9",
+   "title": "Cardi B Drops New GTA VI Soundtrack Single “Don’t Chart”",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oREd4ZEVudWU2X2RqMHNMYlU2cm4yM3BYbUgxOVhMS0lrMFlid2ZQZ3drLTlJYkUwMEQzSVJYbUJLMEF3NTNkbHYzM3FQZVJEOWJRQ2tBdHR2WWdfUzE2ZUVjQWc5UFdjYWFJYzFLU3VpeXNtb2xCZmhlVQ?oc=5",
+   "date": "2026-10-09T20:14:40.000Z",
+   "source": "Ratings Game Music",
+   "summary": "Cardi B Drops New GTA VI Soundtrack Single “Don’t Chart” Ratings Game Music"
+  },
+  {
    "id": "gn-4g8w9",
    "title": "GTA 6’s Audio Follows Jason and Lucia Beyond the Car",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QR1ZrS0RXaUhuTnpDUTM1VzE4bFZmRVhNdkNwYUlQaF9sWVZsQzBKd1BLTXRFSnBlcWpmMGwzZmdlUUliYVVfdVQzUmtmWUlEWVF3YlRFVHItMTRMMDFN?oc=5",
    "date": "2026-10-09T20:00:00.000Z",
    "source": "Gamereactor UK",
    "summary": "GTA 6’s Audio Follows Jason and Lucia Beyond the Car Gamereactor UK"
-  },
-  {
-   "id": "gn-oiasd9",
-   "title": "Cardi B Drops New GTA VI Soundtrack Single “Don’t Chart”",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oREd4ZEVudWU2X2RqMHNMYlU2cm4yM3BYbUgxOVhMS0lrMFlid2ZQZ3drLTlJYkUwMEQzSVJYbUJLMEF3NTNkbHYzM3FQZVJEOWJRQ2tBdHR2WWdfUzE2ZUVjQWc5UFdjYWFJYzFLU3VpeXNtb2xCZmhlVQ?oc=5",
-   "date": "2026-10-09T19:12:31.000Z",
-   "source": "Ratings Game Music",
-   "summary": "Cardi B Drops New GTA VI Soundtrack Single “Don’t Chart” Ratings Game Music"
   },
   {
    "id": "gn-mfid5n",
@@ -331,7 +364,7 @@
    "id": "gn-oxpclq",
    "title": "Fastly Stock: AI Agent Traffic and Grand Theft Auto VI to Drive Growth",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWElpWlNwdms3aF91M0k2UV90d1BncWFVY1piV0NmY25pN2FpNXJWbTMtdXV4blYzLXNrUGlFd2dvRkp5WGdPT21PdGNZZzRwa3VGQmloeXB6dTVzTF9USnZBVE1fWE5rMzdWd09rdkhiaUJ1OHhrcHFBRjVuMEFRLUVVMExOY0tjWFg0?oc=5",
-   "date": "2026-10-09T18:26:03.000Z",
+   "date": "2026-10-09T18:25:00.000Z",
    "source": "Barron's",
    "summary": "Fastly Stock: AI Agent Traffic and Grand Theft Auto VI to Drive Growth Barron's"
   },
@@ -382,6 +415,14 @@
    "date": "2026-10-09T17:58:34.000Z",
    "source": "Polygon.com",
    "summary": "'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak Polygon.com"
+  },
+  {
+   "id": "gn-vjhk75",
+   "title": "Bad Bunny, Trick Daddy, Trina & More Will Host ‘GTA 6’ Radio Stations",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPN1R2RU5EaEdFTzJMNFZNQ2ZFVkhveGw3ektnVWpFX0JyM2FHX0IyNW1HdGNlU3V0d20wTDNOX2l4WThudG5qUU9hWWE3OXZGWGI1Z192aVBiZTZMMGV2VDFMaGZzQkFtOGVsX2IxTzROTk1kbWNwM1FmcXZ0bUJwODhvalJGZ2FWNFEta2pxbmlCM2I3Q1lINllEMHJhWDJ4dURtdzNLNll0UENhUTQ5VQ?oc=5",
+   "date": "2026-10-09T17:55:30.000Z",
+   "source": "Hip-Hop Wired",
+   "summary": "Bad Bunny, Trick Daddy, Trina & More Will Host ‘GTA 6’ Radio Stations Hip-Hop Wired"
   },
   {
    "id": "gn-11rt2j4",
@@ -584,6 +625,14 @@
    "summary": "Is GTA 6 Coming To Switch 2? Ask Rockstar, Nintendo Says GameSpot"
   },
   {
+   "id": "gn-xips9u",
+   "title": "Grand Theft Auto VI radio station hosted by Miami's own Trina, Trick Daddy",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbGFMX25nX3VsOWdFNVNGdVBnUkNzOXl1MzdCTFhZT1dfcjljX1NESzQ5VmVYbkQtNmNaRFZlR3RhWGV2M2JxWVZrR2x3WjJobktmd3VYUEdlbEhlVDN4dEZTOXJnakxHWVdEVGVlYzNOVlNja1otVnM3V291RUMtNTRSZkt1ZTlfbFB5Z2Mtc1hQdWstME5Ic2hXOWhFdmoxYUE?oc=5",
+   "date": "2026-10-09T14:38:38.000Z",
+   "source": "CBS News",
+   "summary": "Grand Theft Auto VI radio station hosted by Miami's own Trina, Trick Daddy CBS News"
+  },
+  {
    "id": "gn-qpgkg5",
    "title": "Hip-Hop Star Cardi B's GTA: VI Track, \"Don't Chart,\" Released",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObjZBakVXOUZWUDlEeERKMmM4TTk4enJxaFJqQk9aOEpfUnBoSGY0U05hREtqazNmQWF5ZUpjSFNhTEVxOHBYVkVkY2NlSG8wWXotdkFkbjRhQzFVTi1ZUTQ1R25Ocl9YX2dXMy1sbjZycjlTZzIwdU5xdEhyam5PNy02dzlDel9ZUEE?oc=5",
@@ -638,57 +687,49 @@
    "date": "2026-10-09T13:40:16.000Z",
    "source": "DJ Mag",
    "summary": "GTA 6 radio stations to be hosted by Robyn, Palms Trax, Bad Bunny, more DJ Mag"
-  },
-  {
-   "id": "gn-kw14p7",
-   "title": "“Video Games” Singer Can’t Wait To Play New Video Game GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUFKUS1lUGp6NHNkb3FNZTNUektKTDJiTHJUT1FCeTY3b3pCTlU1WU9mVWJnaEJaWVhzQnlzOHpDTVlKVVE3blBmSWhPYlYzWnlxa3JYZnlUZjQ5X1N0VVdXUk9QazBRRlpVcmhnMEFVX29xay1ORnhjQzR0eGt4eVZGYTVlRy1Ock5MRUxNUTAyT1VvLUx3?oc=5",
-   "date": "2026-10-09T13:16:55.000Z",
-   "source": "GameSpot",
-   "summary": "“Video Games” Singer Can’t Wait To Play New Video Game GTA 6 GameSpot"
-  },
-  {
-   "id": "gn-1kgk3fj",
-   "title": "GTA 6 Leaker Returns, Reveals Lucia and Jason Nude Gameplay",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT2tQVC01dnU1M2t5YUFGZGpPQWcxTFhseWl6THhjcFBrMk5lOEVBSXJlX3JsTUVDLWxHV2xSNWxIZ0FYWDBtUU5wRjJ3N3hHLTRXMkxXLVNaVGR2Tl9LNGczVElhTzFpTUc3bnBrZE51Rjh3NUU0LTZMX190aVNrRHdsT3Fsal9GcTNRTkc0aWVSUWtucXp0ZFdiTjZVVklla3c?oc=5",
-   "date": "2026-10-09T12:42:28.000Z",
-   "source": "Men's Journal",
-   "summary": "GTA 6 Leaker Returns, Reveals Lucia and Jason Nude Gameplay Men's Journal"
-  },
-  {
-   "id": "gn-1ufbu6m",
-   "title": "New GTA 6 Screenshots Show How Much Rockstar Has Polished the Game",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rR0pHckN4R3BLUnJHUVU2YzVMRGRaYTVNWjBmNTc5WmVyNVlKMjlVZWRQTEE0dU5saVRnQWtXdnhVUWZiMUZJdUVUenpwMlBqZUZVQ3B4X1hGbVRWMTFjQ3pYTnFhQ0J6ZDU1QzdHaVZNeUxjZGNRaUdB?oc=5",
-   "date": "2026-10-09T12:29:02.000Z",
-   "source": "VICE",
-   "summary": "New GTA 6 Screenshots Show How Much Rockstar Has Polished the Game VICE"
-  },
-  {
-   "id": "gn-vg2ne8",
-   "title": "GTA 6 is creating PS5 Pro shortages. Sony's solution? Prove you're a real gamer to enter a lottery to buy one",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc09zUGUyeGJaejFra2VoSlRUOGtsOHFpNkJrTzhBUE43T1RIX3VpTVRzN0lKdjVQeWNqcmJRU2hxYkdaWlE4aC1udHpTdkdXQ0x5eENEcUdTMWluYkRrWE1yN3RQV0taVVhrZV9rNk9SOG9vYjRvSlFfYVpkbkV4alJRUQ?oc=5",
-   "date": "2026-10-09T12:28:26.000Z",
-   "source": "Mashable",
-   "summary": "GTA 6 is creating PS5 Pro shortages. Sony's solution? Prove you're a real gamer to enter a lottery to buy one Mashable"
-  },
-  {
-   "id": "gn-1xtl7cm",
-   "title": "GTA 6 radio stations, songs, and hosts revealed by Rockstar Games, here's what we know so far",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa3ZxcWFQdndiQU5MRkxHNkVETXVmQXV4bzlybUV2SHp2bzAyb1ZsWUJOend0NjhmcDN2V0d5aU9BVzNjQi11LXZMd0ZrRFUxZ3h1YllPX0w5akljMjVUR1ZkTzdjRFNCaDNZLVMtYjdSN3g5V0xuSWFrY0U1bGZxTy1RMFZOckdVREl5amtHWkFrTlFoNC1vMnVlX0pMQURKZDEwT3h2WG5CSE1HNEkzVGhGNkVBZlJfc3FoTEV2ZENQd0ZlaXVPTHRndUtHMW1HV2Y3X0pYMA?oc=5",
-   "date": "2026-10-09T12:21:57.000Z",
-   "source": "PC Guide",
-   "summary": "GTA 6 radio stations, songs, and hosts revealed by Rockstar Games, here's what we know so far PC Guide"
-  },
-  {
-   "id": "gn-x5o4dg",
-   "title": "GTA 6 Radio Stations Revealed: 6 Named, Flash FM Back",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84Qm9OMV9tZ3BSN2N5YlFrRHJGOVdqelZvNUdDWFB4SWkxdkJVU2J3QkpTUzFkT3NUdnZfZTEwN2k1ZTRTR2NtWEhHLTFQYmotZTBSMl9zNi1fQnNkZkhYSHRXZFhLUDdUNWpTU0RhYzB4RFRGTk5SVQ?oc=5",
-   "date": "2026-10-09T12:12:55.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 Radio Stations Revealed: 6 Named, Flash FM Back https://tech-insider.org/"
   }
  ],
  "community": [
+  {
+   "id": "rd-qgnbzp",
+   "title": "Fini (finally)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x258q5/fini_finally/",
+   "date": "2026-10-10T03:44:43.000Z",
+   "source": "r/GTA6",
+   "summary": "Finished late tonight so unfortunately the lighting isnt ideal but Im sure someone from this sub will photograph it in daylight tomorrow and post it but here it is for now. The homie will put together"
+  },
+  {
+   "id": "rd-1umpbq8",
+   "title": "I don't get why so many people are madly obsessed on hating on GTA 6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x24r5o/i_dont_get_why_so_many_people_are_madly_obsessed/",
+   "date": "2026-10-10T03:17:27.000Z",
+   "source": "r/GTA6",
+   "summary": "Everyone has the right to their own opinions, nobody can force you to like something. And if you don't like something you can just ignore it and continue. But this people being like \"GTA 6 will flop a"
+  },
+  {
+   "id": "rd-up4hig",
+   "title": "Same place, 13 years apart",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x23xah/same_place_13_years_apart/",
+   "date": "2026-10-10T02:32:46.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/gabrielripa [link] [comments]"
+  },
+  {
+   "id": "rd-1ckqf0c",
+   "title": "My GTA6 Acrylic Painting🏝️ Varnished with matte and high gloss lmk thoughts :)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x22r6t/my_gta6_acrylic_painting_varnished_with_matte_and/",
+   "date": "2026-10-10T01:31:44.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/TheProphetsArtistry [link] [comments]"
+  },
+  {
+   "id": "rd-1s3ozub",
+   "title": "Doing coke, getting fat, and running naked",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x211xa/doing_coke_getting_fat_and_running_naked/",
+   "date": "2026-10-10T00:07:10.000Z",
+   "source": "r/GTA6",
+   "summary": "If the rumors are true about all three of these things I cannot tell you how excited I am to run around vice city as a butt naked jason doing bumps of coke while being morbidly obese. This game will b"
+  },
   {
    "id": "rd-up52t7",
    "title": "Almost complete",
@@ -968,46 +1009,6 @@
    "date": "2026-10-08T16:09:02.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/just_a_cat_meow [link] [comments]"
-  },
-  {
-   "id": "rd-1rwqm7o",
-   "title": "The DJ's for The Chamber 106.6 are Tom Araya & Kerry King from Slayer",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x0u807/the_djs_for_the_chamber_1066_are_tom_araya_kerry/",
-   "date": "2026-10-08T15:39:49.000Z",
-   "source": "r/GTA6",
-   "summary": "It says the station is hosted by \"DJ Tom\" and \"DJ Kerry\" and after listening to their voices, that's definitely Tom Araya and Kerry King from the band Slayer as those DJs. Also, there's a Slayer song "
-  },
-  {
-   "id": "rd-z2kz57",
-   "title": "Aquarium Confirmed?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x0trfq/aquarium_confirmed/",
-   "date": "2026-10-08T15:22:14.000Z",
-   "source": "r/GTA6",
-   "summary": "The sign says: \"Oceanarium entrance ->\" The Golden Dome building is most likely an Aquarium submitted by /u/OsOs-Q8Y [link] [comments]"
-  },
-  {
-   "id": "rd-db5j35",
-   "title": "How are you planning to play GTA6?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x0toz6/how_are_you_planning_to_play_gta6/",
-   "date": "2026-10-08T15:19:35.000Z",
-   "source": "r/GTA6",
-   "summary": "Ahead of the highly anticipated release of Grand Theft Auto VI, we're asking people how they're planning to play the game. Whether you're a school nurse in your 50s or professional athlete, NBC News w"
-  },
-  {
-   "id": "rd-1a3sj7c",
-   "title": "Thursday morning Mural",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x0t743/thursday_morning_mural/",
-   "date": "2026-10-08T15:00:39.000Z",
-   "source": "r/GTA6",
-   "summary": "This is a WIP the letters are not painted (so dont talk shit until theyre painted ;p Nothing has linework yet... still in the basing in colour phase for moat of the day. Hopefully finish Friday. submi"
-  },
-  {
-   "id": "rd-jtz06p",
-   "title": "Jason and Lucia are hiding in every picture",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x0t5a9/jason_and_lucia_are_hiding_in_every_picture/",
-   "date": "2026-10-08T14:58:47.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Neyken-I [link] [comments]"
   }
  ]
 }
