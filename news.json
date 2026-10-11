@@ -1,28 +1,28 @@
 {
- "generated": "2026-10-11T00:19:00.759Z",
+ "generated": "2026-10-11T06:08:39.625Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 8,
    "scanned": 40,
-   "checked": "2026-10-11T00:19:00.759Z"
+   "checked": "2026-10-11T06:08:39.625Z"
   },
   "youtube": {
    "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-11T00:19:00.759Z",
-   "error": "HTTP 500"
+   "checked": "2026-10-11T06:08:39.625Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-11T00:19:00.759Z"
+   "checked": "2026-10-11T06:08:39.625Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-11T00:19:00.759Z"
+   "checked": "2026-10-11T06:08:39.625Z"
   }
  },
  "official": [
@@ -209,12 +209,52 @@
  ],
  "press": [
   {
+   "id": "gn-hesz4u",
+   "title": "Cyberleek Returns With 25 Minutes Of GTA 6 Gameplay Leaks Including A Naked Jason, Thrillbilly Mud Club, And More",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUGxSemZETmtiTDdPUzVmUE9PSXQ1YjhLaTIzbnZlZkM0YmhyZVhfMHRYdDhuQnBQODFyODJZYTdKX1JacmN1ZnRHdm1jeWpNU0Z5VlZEbWtMMXkxUF9BMjVYN1ZiQ0lHQjRIMlp3ZnNLczMtWFNGdTROOFN3dkpWcWF1bG5ISGNaaGprS1ZKVUtFaFN1Ty1VMm81dmpEUTl5NGE3a2pLeXB1SzR6S2U5U2hEcTY1NGJyLTZUYnNIWVpCT1V2Mm5fcW1Zakcza1BsMWdj0gHgAUFVX3lxTFBHMnlpRXRjR21jTmVyYVBUYThaaFN6SXphaW9tWG9vSXowTlI1Mk5GaDZabTk2aG1TYms2QU5PcnluVTlMekJ6a3NEb2RPUm1UREMzZnBZSDRndVlaUWdvSldaRGJJNmZqMm1Md0RnMVFOMVRaTERsU1ZoU1hWMVJWMVd4YjB5MEtVZ2h2T2VpaVNzaGw0bENkc0dQTHZpMDJMU29JVVVvWE5Cc1NiajkwTnhkd0Y4TVdMdldJTmhZTUI1NGYtdlh0eTI4NHhyVHg5V0RRODNMbk16akZseDhX?oc=5",
+   "date": "2026-10-11T04:22:15.000Z",
+   "source": "Esquire India",
+   "summary": "Cyberleek Returns With 25 Minutes Of GTA 6 Gameplay Leaks Including A Naked Jason, Thrillbilly Mud Club, And More Esquire India"
+  },
+  {
+   "id": "gn-6kehbo",
+   "title": "GTA 6 Leaker Threatens to Release a Full Story Mode Build Unless Take-Two Offers Physical Discs",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0IxQzg4Q21oRjUxWkdpVU9faExvc2ROMl8xblhrLVVFalhBZWl3T05KNmxyTWx4YXJIWnlZMzdBSWF3LXgxXzBrVWl3cnk4YjF2aS1BY19DVU5ZY0ZIek5DOE5mb0pqc011TVRmeUdxRFVPeHZDX2dJYS16WWNRZEx6eDV0MWcxczRTTC1fS3RybFNJbGtHSVVTUUdBYVVIUXQ3WXpNaWRDMlZHb2FsSzIxRHA0STRULWJJaC1LbHFyVE9hWml6Sk53?oc=5",
+   "date": "2026-10-11T03:50:19.000Z",
+   "source": "gHacks",
+   "summary": "GTA 6 Leaker Threatens to Release a Full Story Mode Build Unless Take-Two Offers Physical Discs gHacks"
+  },
+  {
+   "id": "gn-1ygyaj6",
+   "title": "The creator of The Last of Us and Uncharted 4 admitted he is afraid of GTA VI",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTAyQVk1YVhZd3gwNkpkQl9CaENoVkRIVWRqVFU2djBlYVVBOG9QX0hJc2w0b1ZUcW9TRkJTTUtNTkRoc09uXzQ1X0tmR1A5UDVUMGtPZkNSWHA5LVNZdGZlWFlGNlNqQ0dHekZsMVU4V1ViQWpjLTFkak1PLVJYYWFfOEQzUjhsNmpscFd6WjVEQmFiaTdUUmNLeWxmQU1xQkNCNXV6Q3VpaTNaMVpJ0gG0AUFVX3lxTE9SLWIwU1BPVnJsN1EyUWJidjFJNEJma09ERkNXUlM3dWZBZUVfWkItU2EyeUZ3eUwyQnMyR2VPMzlaZE1lejdUYl9oQ19qNUxJV3pUbHBWTkJ1OWNCYVB4eTdubDFNSldnZFlNVlJRSXRnRDdqSjRhMXhEWFFhMHRjVHJpZWpUTHNQM0VZbjdsbmhEQURBYUUyRHVaMjY2M1V3dWFkaDNpdm52bDFpV3RnUmJlbw?oc=5",
+   "date": "2026-10-11T00:39:12.000Z",
+   "source": "iXBT.games",
+   "summary": "The creator of The Last of Us and Uncharted 4 admitted he is afraid of GTA VI iXBT.games"
+  },
+  {
+   "id": "gn-1hikyfu",
+   "title": "GTA 6 Leaker Ties Alleged Build Release to Crypto Target",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0x2MFY1eGR5LTUwaE80OGZFdjBsbVdzbjY5Vmt1bjM2aDFXQUNNY2c5RHQyOEVKMmFycFhJUk5lQzZCMFZsWTgtVTRudW1tdGo5V2FuZEk1OW1sLXpPaUVaYlh6Y3VFOTJnd3g5cFRGRW53bHVJWlF3UWhia1BSZHdWcmrSAYwBQVVfeXFMTkwzcllfRF85LTNqOGtWa0NRNnBnVndTSDdSV1pET0ZUOXNLWnA0MU91Uy1Za3VRUGNMRHRaZ0pLbkJFeVNqZnhZUDl0aVdTaWM1aF90MmwyNmFZNnBMU3dWZlNLOWRoMElraTlOMWlVZlc0N2dXZmlPYUpWNElnLXJHSkp5RlRJSXBwTm0?oc=5",
+   "date": "2026-10-11T00:35:27.000Z",
+   "source": "FindArticles",
+   "summary": "GTA 6 Leaker Ties Alleged Build Release to Crypto Target FindArticles"
+  },
+  {
+   "id": "gn-369sga",
+   "title": "GTA 6 Leaker Claims to Have Full Build, Threatens to Release It Unless Take-Two Apologizes",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2M3LUJ2eE1HX2NzUTU3SXNlZ1ZyMUszN2g4N0JwOXd4Wk9pSkV1dFZsVXU2aWlaSHRud2c5YTQzUTg2RFprb0JkdFYxRUszMnJDYkNoZUY1UTV1NjB1Wkd1TU9zb2h0ZEhFTUgtUjhhOHJSUzFBWXM3dWFzRlFmZE9UZVhqa0sxN0RxQWptR05nT1dJNEpvTmxSclFGdVpnZk5jZEJBdjBHYVA4TFNvaVNUTkV2RmdNYzFrRFNUVGRCd9IBxwFBVV95cUxQV0pUSWpHWl9NZ2ZNTUFCekpSSWswMy1MMUcxTGhNN1BSTm5KWVhlTXViVXVFNklTZDk0MUJjVl9IQnVQOUhhTVZibW5ySWtlb1U5Y0dvcjJTZ2JaM1BUcmtEYWdmVWlqQmJCbjROeWtyam1zX0k2cVgtTFZnVnFnM1c0eEU4NFFaNlpVNjBDeDlpWEJ3cmxNZUh0SDZYWlNMejhDd0hBYnhFNWVkMlpaOUFKUi1pS1hJdEQxVUhybEpWRk92VVlN?oc=5",
+   "date": "2026-10-11T00:21:37.000Z",
+   "source": "TechPowerUp",
+   "summary": "GTA 6 Leaker Claims to Have Full Build, Threatens to Release It Unless Take-Two Apologizes TechPowerUp"
+  },
+  {
    "id": "gn-1gjs2ci",
-   "title": "GTA 6’s CyberLeek Threatens A Full Game Leak If Its Cryptocurrency Reaches $30 million Market Cap",
+   "title": "CyberLeek Threatens Full GTA 6 Game Leak If Its Cryptocurrency Reaches $30 million Market Cap",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdzdFb2pZaF9aZ21TdGpvSG1LRTJKVzNubWZPSHFyT2thRFRmZF85NUtPR2dXbjJwZzJtZV83TzhhZEpaTDJXSUl5cUJrWnB1VDlaM3JpandsdVE5ZXZMTEpvQmdScTR2MDJsQmRMbmgwZ0F1cWdnUUNwSzdoV0lOY3pmUUI0cEVOZnlETVdrR0RieVpOd0RHQmh3alFFbjBGVk0wWTRfUFBndnQwc0lKNUtqN0FBSGwzTS1hUDlFRG95SkdhS0RaOW00VXpibTRf?oc=5",
    "date": "2026-10-10T23:45:57.000Z",
-   "source": "wolfsgamingblog.com",
-   "summary": "GTA 6’s CyberLeek Threatens A Full Game Leak If Its Cryptocurrency Reaches $30 million Market Cap wolfsgamingblog.com"
+   "source": "Wolf's Gaming Blog",
+   "summary": "CyberLeek Threatens Full GTA 6 Game Leak If Its Cryptocurrency Reaches $30 million Market Cap Wolf's Gaming Blog"
   },
   {
    "id": "gn-tr2fld",
@@ -241,20 +281,28 @@
    "summary": "GTA 6 Hacker Arion Kurtaj Heads to Trial Days Before November 19 Launch GTA BOOM"
   },
   {
+   "id": "gn-rmerkv",
+   "title": "GTA 6 Leaker Cyberleek Vows to Release Full Build if Memecoin Hits $30M Market Cap",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamF0dU5zWFJyTWV6WFN2NGNxcTE2Y042SGtZRk1TcHBQUkFDaWl1MHRmR3FFc21rbUcwejNXSzV4aXR5clZyd2JCdjJjOGZjdTROS2JCeERzNF9Hek5jcUFCcmhGYmZBMzVJQThBSVVTVFFSR0h5cHJOQ29ucmZVdnNxbzBPdjE2LUFUYm5Rb3VxcldEMDM3T3lwdEhWZ2JaUUtvSXBlNkZPOHU1dDFvRmMtbTUzaUdwZTktSC12Vnprdw?oc=5",
+   "date": "2026-10-10T20:56:19.000Z",
+   "source": "Inven Global",
+   "summary": "GTA 6 Leaker Cyberleek Vows to Release Full Build if Memecoin Hits $30M Market Cap Inven Global"
+  },
+  {
+   "id": "gn-1v6coks",
+   "title": "Rockstar Games Is Reportedly Sending Free GTA 6 Posters to Fans Who Email the Company",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1VNOWp6SDdXaWZGeFlnTXdDanRvY2x4QVRKMEN0Um1EQmFMZHZBWlBLTDJZOXFSTW9hOHRSZEppdENoRW5NRG9aN3dtZ3hYcHBvakZ5bTF0Rm0tWHdLSFBVTm9ES0tHQkJ3RDUzRlRhcmFGa25hUGl3X2x3Tkp3akZ4R0FoZWc0ejUwTlNaUEotNDBNQjM4b0pscFRCUVdqWEhucmgzUDNPdWR6QXVr?oc=5",
+   "date": "2026-10-10T20:53:49.000Z",
+   "source": "eTeknix",
+   "summary": "Rockstar Games Is Reportedly Sending Free GTA 6 Posters to Fans Who Email the Company eTeknix"
+  },
+  {
    "id": "gn-1qdyn5q",
    "title": "GTA 6 leaker threatens to drop fully playable build if crypto goal is achieved",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjRWdEtiYnNkYjRLM0d4NkhQd0gxTWRhaTkxMHBQbEtrbDFZdXo5N1ludTdiUnVTVmJ2dzE0UWl0Ym9rVEl6anNyWmx2cVRxWjNMZ0w3X002WXQ4SVdfc3ZzWUNMNm5TVVVUVDJoQTY1NFVodVh0OW1Hay1LN0Uybzd6NWdXQkEzdEYwel9Ib1lVaWhhS3J6R0lVSWJaUUQ5eEF5QXVYZWRiVW8?oc=5",
    "date": "2026-10-10T20:40:00.000Z",
    "source": "Neowin",
    "summary": "GTA 6 leaker threatens to drop fully playable build if crypto goal is achieved Neowin"
-  },
-  {
-   "id": "gn-1v6coks",
-   "title": "Rockstar Games Is Reportedly Sending Free GTA 6 Posters to Fans Who Email the Company",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1VNOWp6SDdXaWZGeFlnTXdDanRvY2x4QVRKMEN0Um1EQmFMZHZBWlBLTDJZOXFSTW9hOHRSZEppdENoRW5NRG9aN3dtZ3hYcHBvakZ5bTF0Rm0tWHdLSFBVTm9ES0tHQkJ3RDUzRlRhcmFGa25hUGl3X2x3Tkp3akZ4R0FoZWc0ejUwTlNaUEotNDBNQjM4b0pscFRCUVdqWEhucmgzUDNPdWR6QXVr?oc=5",
-   "date": "2026-10-10T20:39:56.000Z",
-   "source": "eTeknix",
-   "summary": "Rockstar Games Is Reportedly Sending Free GTA 6 Posters to Fans Who Email the Company eTeknix"
   },
   {
    "id": "gn-35xkyd",
@@ -321,12 +369,28 @@
    "summary": "GTA VI leaker threatens to dump a full playable build Gagadget.com"
   },
   {
+   "id": "gn-ft67w5",
+   "title": "'GTA 6' official merch is live, and it's already selling out: Where to buy",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnRrenQzLUk4MjExZ1AtaWVRbkdsV2lMOExfckd1cGRXblpBRkxmX1JQOE9MWUNzb3NzaEVEQkpXUFdFcFlUVkZubzlvWWdsVUs4VlR5T00xZjFmU2JxYk9vVDVxanlpdFNsTy1MczBic2lJMXhIeE9XRUo2Wk1pd0k5dHkyZw?oc=5",
+   "date": "2026-10-10T18:03:56.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' official merch is live, and it's already selling out: Where to buy Mashable"
+  },
+  {
    "id": "gn-j5z4u5",
    "title": "GTA 6 Really Said the Gays Deserve a Little Treat",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lX2FvUFJWVGREOEk4TEVZa0JzbEtPd1N0dzQyT2hPVnRzREY1bV9pQXNrYmZVVERLVERGRDhrQ0dYOFljRktVU0doZkFRaW9aV0VWNnlwZnFybk5FdWtWUXZZeTg3QQ?oc=5",
    "date": "2026-10-10T17:46:46.000Z",
    "source": "Instinct Magazine",
    "summary": "GTA 6 Really Said the Gays Deserve a Little Treat Instinct Magazine"
+  },
+  {
+   "id": "gn-19sj97r",
+   "title": "'GTA 6' updates: Everything new we learned this week",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2ZyRndDdVNBemNseU9jN1VjRlJ2VW12N2NoTnFMOFdwdzBHRWJPVjUtM241a2djT1hRajFHVDh1NU9RaWdKQWZUV3UxdGlGZm5tS1d1M3c3d25yc3dWX0VvaERSd3c5MkhrTzU2VjZPeUJyNVFTaDdQZEsyNUJ0eTNkMXhwREE?oc=5",
+   "date": "2026-10-10T17:44:55.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' updates: Everything new we learned this week Mashable"
   },
   {
    "id": "gn-r64iok",
@@ -346,11 +410,11 @@
   },
   {
    "id": "gn-t2ts72",
-   "title": "GTA 6 Build to Be Released With Full Story Mode If Cyberleek Hits 30M Marketcap; Unless Take-Two Release Game on Disc",
+   "title": "GTA 6 Full Build Promised if Cyberleek Hits $30M Market Cap",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTGJuelY2XzBuWk4xY2dGZHBzbzlpRjZUQlZqbFNTNkdMTVIxczJIVkc2cVNpZHM3Nkh0cGg5dzdNeTZEVXZaVE9tVjZ5Uzh3MHlSZE9qUjEzYTR4Wjl6Zl90dzF3dEJCSjNMSl9hT2dYMjRKZWxERGk0c1JXYzNCVVEyeUtCdWg2NHVPNDNnZzJ5RkQyYWlyRWRidlM0ZkdodTl6clR4SHpuV1VOV3h6NFVUZVhmUlVFc3p1ZHJYQ09RQTRuVFpBMkJnVVpuUFdpbExmRFhR?oc=5",
    "date": "2026-10-10T17:25:47.000Z",
    "source": "MP1st",
-   "summary": "GTA 6 Build to Be Released With Full Story Mode If Cyberleek Hits 30M Marketcap; Unless Take-Two Release Game on Disc MP1st"
+   "summary": "GTA 6 Full Build Promised if Cyberleek Hits $30M Market Cap MP1st"
   },
   {
    "id": "gn-e5y6rf",
@@ -497,14 +561,6 @@
    "summary": "Cardi B Drops New ‘GTA VI’ Song ‘Don’t Chart’ DancehallMag"
   },
   {
-   "id": "gn-ft67w5",
-   "title": "'GTA 6' official merch is live, and it's already selling out: Where to buy",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnRrenQzLUk4MjExZ1AtaWVRbkdsV2lMOExfckd1cGRXblpBRkxmX1JQOE9MWUNzb3NzaEVEQkpXUFdFcFlUVkZubzlvWWdsVUs4VlR5T00xZjFmU2JxYk9vVDVxanlpdFNsTy1MczBic2lJMXhIeE9XRUo2Wk1pd0k5dHkyZw?oc=5",
-   "date": "2026-10-10T13:53:48.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' official merch is live, and it's already selling out: Where to buy Mashable"
-  },
-  {
    "id": "gn-1czcv9s",
    "title": "Burna Boy Joins Bad Bunny and Lana Del Rey as ‘GTA 6’ Radio Hosts",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa1h0a2NwZ25SZ3lvUmRXRnRXSlptT0dlQjU0a0FVb1ZMM3FXUFFhRUtLMWdnb2l4TnJXUTFjLU1PNHFBeHdaM2JSZmUxVVVkb1ZFZlU3UWd0UmIwVlpmSmFWaUF6NFljVm9lcEFZR0dKajZ0ZDM0eXNaYXRoYVNCQzZsOHdIT1RTVUYxX2E3M1ZJUmFKdml4d01ZbmRQakRpNExKV2h2Ymw4aS1pWTNOV0FZSQ?oc=5",
@@ -631,62 +687,6 @@
    "date": "2026-10-10T00:08:04.000Z",
    "source": "IGN Pakistan",
    "summary": "GTA 6 Fan Says Rockstar Sent Them a Poster Just Because They Asked Nicely IGN Pakistan"
-  },
-  {
-   "id": "gn-165xba",
-   "title": "GTA 6 Fan Says They Asked Rockstar to Send Them a Poster All the Way to Brazil — So They Did",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSTREcTBRRFBkcUxjbFh3OGtHdVBjdlRteGRKcmUtbVhlY3BfZnhKbGxtVWl3cFZuYklfU3Q1YzgyWm4xajNhcDc4bnE3My1XMFdLalFDZFR0TWg1WTBMREtHamEwSXdDSVN5aV9kX0gybkVnMEhuSFIzQlVTek00X016dHd5TzdURS1jM05kd1p4NkZoaWVxTmFudXJCWTdTOVExUQ?oc=5",
-   "date": "2026-10-09T23:56:24.000Z",
-   "source": "IGN",
-   "summary": "GTA 6 Fan Says They Asked Rockstar to Send Them a Poster All the Way to Brazil — So They Did IGN"
-  },
-  {
-   "id": "gn-acy8lj",
-   "title": "Hacker who leaked GTA 6 gameplay goes on trial 10 days before release date",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDk5T2hIcVdhV0hkWjVTcTA4bVcwdUctZjhYTHExc003OGtDY1MzZHNBT1RFai0yLWJWQzh0VlpCZldoaDVCeGl2dTFVN3FYREd1RWdxS3FLYWhRZ0RhZS1oLTYzOVB0WHdLY29rVVJOMEk1RGtPejFYeUllcWxUUzNXU2hIWHhRd1BpeHdxclRnQ1IxTkhFNGE3bFVYOEdZbC1ZdTJidnlMaC16NGprOENoQ2RrUjFoQ0dj?oc=5",
-   "date": "2026-10-09T23:18:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "Hacker who leaked GTA 6 gameplay goes on trial 10 days before release date Notebookcheck"
-  },
-  {
-   "id": "gn-11c24rg",
-   "title": "Grand Theft Auto VI Performance Comparison on Xbox Series X and PlayStation 5 Consoles",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYi1DcnA0N3BrZ2o5VGcxY29UejdabU52QmlIRnpLUWVwYU9zTXB0N3pHdlNTWXpMbFlyWko4Z2xuYjMxME1GN2tuU3ZwVFl3SHZLNWxEUVNtR3I1a1FwUzZDZG9pbF9kNDVUaEFaYlNZM1lvbVVGMkZOVjN0eDlVWXNiWHN0WDNudVQtV2ZfckRhQWVpMjVEVlBuRkxQV2FXdVdicy1Ld2VjbDBlVTNKcG9CZ3RSTzV6SGh2Z0d0NA?oc=5",
-   "date": "2026-10-09T22:21:37.000Z",
-   "source": "GameGPU",
-   "summary": "Grand Theft Auto VI Performance Comparison on Xbox Series X and PlayStation 5 Consoles GameGPU"
-  },
-  {
-   "id": "gn-1doxm9x",
-   "title": "GTA 6's Nudity Sure Sounds Hopelessly Outdated",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbnpzZ1FfMTI3ZjF5SFVsYXY2WG1lLXQ5aGFzUUZuY0U4SmxvSDZCQWVqbnhkeVIxN2hBRVZldEtUaXFOWmhLUGVFNUNidDdPekJiRngzNzZHVVpZOWIwYzlKd19jV0l6a3l1VXpnWDh0S3k3R19vakVNWWJpVmxkWUxB?oc=5",
-   "date": "2026-10-09T22:19:54.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA 6's Nudity Sure Sounds Hopelessly Outdated Polygon.com"
-  },
-  {
-   "id": "gn-175dq6k",
-   "title": "Nintendo of America President Talks About the Possibility of Grand Theft Auto VI Coming to Switch 2",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNXYtcmpWN3lucmdnZEdKQlhqdXhMOW1zb2lodFYydFE1Y2JDYWo2SGVhSUcwcGNNV0lkN0tucHBlZ3VZWEp5ZHQwczloNW8xTElMWkZpZkwyenJYUTRiUUJlY0dNRXdRS215V0ZfMjlHMEFIWTlKUVpfV0Q5aTBTcVNJRThISTg3ZUR3MlRQb1ktUllFal9NaW96R09Fb2JQZUg2QnFLeTNIVVdiY2dDaWY3ZGVXNi11c0k2V0VBaHlKU0RJZXRVWlNDYw?oc=5",
-   "date": "2026-10-09T21:39:12.000Z",
-   "source": "Nintendojo",
-   "summary": "Nintendo of America President Talks About the Possibility of Grand Theft Auto VI Coming to Switch 2 Nintendojo"
-  },
-  {
-   "id": "gn-1tjsr5l",
-   "title": "Nintendo president says they have \"nothing to announce\" concerning GTA 6 on Switch 2, suggests asking Rockstar and Take-Two",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGNoQ0RpeGVFMU1YN1BCN01JYi1QckdGV1JjellJLTRrY3ZpNHB5X3ZDOGo3QkZFbUtNVFhxNFp1ODR1RkZWYlE5aExjVVRUbU9ZaEV4b1Q0STdid3BaN0hqTEVWMmY1Tko5enZCNFY4bEFiQkJPR1FVNVdDOXpZckQySmdmRzJxdFl2QUV6VjRnVDRTTGp1d2t3OWN4QlRfSDQ2UWViVnZ0OS0tcG9nWUwwQTBKZWx0SnA1aQ?oc=5",
-   "date": "2026-10-09T21:09:35.000Z",
-   "source": "GoNintendo",
-   "summary": "Nintendo president says they have \"nothing to announce\" concerning GTA 6 on Switch 2, suggests asking Rockstar and Take-Two GoNintendo"
-  },
-  {
-   "id": "gn-fltb8n",
-   "title": "Nintendo Of America President Leaves Switch 2 GTA 6 Question To Rockstar",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdEVpVDhISmhxZS01WDYyclV2UFZBQnNaU2pOS0FBNmNnU0ZZTmpDaWEyRklwRlFESEszeXMzTkZXdktxRDducW4zTzFTd1ZwSXFlZmJETUx5eUczNlNSNVJzb0J5TVRybnhvUUllSVBLM1dvLUJINC1WcWZBeTZ4OGxNWDhrNGU2anhsYi1JemtpOGNleS13MXJQYUhfNGJHeldQa2ZYcmZiNXFIUXlqRQ?oc=5",
-   "date": "2026-10-09T20:55:39.000Z",
-   "source": "Northeast Times",
-   "summary": "Nintendo Of America President Leaves Switch 2 GTA 6 Question To Rockstar Northeast Times"
   }
  ],
  "community": [
