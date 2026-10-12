@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-11T22:14:32.127Z",
+ "generated": "2026-10-12T01:30:39.933Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 8,
    "scanned": 40,
-   "checked": "2026-10-11T22:14:32.127Z"
+   "checked": "2026-10-12T01:30:39.933Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-11T22:14:32.127Z"
+   "checked": "2026-10-12T01:30:39.933Z",
+   "error": "HTTP 500"
   },
   "googlenews": {
    "ok": true,
-   "count": 102,
-   "checked": "2026-10-11T22:14:32.127Z"
+   "count": 100,
+   "checked": "2026-10-12T01:30:39.933Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-11T22:14:32.127Z"
+   "checked": "2026-10-12T01:30:39.933Z"
   }
  },
  "official": [
@@ -208,6 +209,30 @@
  ],
  "press": [
   {
+   "id": "gn-rozru4",
+   "title": "Games Inbox: Will there be a new GTA 6 trailer before launch?",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVJYLWRGY3c2aHZ4bjZXbkpaM2xEdlRwMHFqTURnblp2SzNjSy05QTU0dThJdjM4Y0dRVU1ZQVNnNUZvQ0xieThBa1FHdWFWTFRXd1liNFlaQmVLV0IxdHhhUVpwMXpPNXcxUmV6eFRjNklTUTdiVGVHWTlhQm1QTDI4VWI3OVE3YU5hd9IBkgFBVV95cUxOVzdsZl96QnR6STA5bGU2NzRFM3J1WXVjSVk5R3lvUzh4UWxVZFhncUlEMkxXdVY1VUN5RXh4d2tzek94ZDZKZXZaVmNaeUh2M2hUWGZ5aGkwX3ZnMXZEdlYtSExlWTNRS0NzazlUX1FVa1lWcnhuYUlWSVY3b1EwUk5PTzZnMWRJbzhOdDVPZ2dOZw?oc=5",
+   "date": "2026-10-12T00:10:00.000Z",
+   "source": "Metro.co.uk",
+   "summary": "Games Inbox: Will there be a new GTA 6 trailer before launch? Metro.co.uk"
+  },
+  {
+   "id": "gn-1qzkswt",
+   "title": "Rockstar Mailed a GTA 6 Fan a Poster After He Simply Asked for One",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcThLZ0hWTFltcjFWR1lKUjJ1OG9LQW5pNjd0MUpqZXJKWElTajVQM1ktQ0V2VGtZaDdyOXZhYkh4Mld1QklWQzdFS09vbDQ3RVlORUtIY3hKQ2NGYmtLRDV6NzQ3MWM1M1paYmdmeFBncVlOQUl5WDVEM1ViYmpZd1RPajBhcHcwQmlvVnZBeGhEcHU5S1JQVndqNA?oc=5",
+   "date": "2026-10-11T23:32:54.000Z",
+   "source": "GTA BOOM",
+   "summary": "Rockstar Mailed a GTA 6 Fan a Poster After He Simply Asked for One GTA BOOM"
+  },
+  {
+   "id": "gn-xilvmu",
+   "title": "GTA 6 Leaker Turns Nude Lucia Into A $30 Million Threat",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HOVBCeVVqd0pqZEtzV1owVW1lT2pVdE5KOFFLZEgtVElCcnNfUjVHS05CZGs5ZV9NbC0xbXBKZlVyYWMtclRfWVVqem5QVW9DTk9Lb3NfUEVoQQ?oc=5",
+   "date": "2026-10-11T23:03:35.000Z",
+   "source": "HotCars",
+   "summary": "GTA 6 Leaker Turns Nude Lucia Into A $30 Million Threat HotCars"
+  },
+  {
    "id": "gn-1po0gx8",
    "title": "Cyberleek’s 24-Min GTA 6 Leak Puts Focus on Lucia [2026]",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iN1NmUVd4UWs4dHh4eG45RllvNXBaR1VBTi1pLUZDY1U2RmhVLXNlbVFwUGNQNGh3TTBWbm5wVGhTMWpEYnlxMUozOXNZWTNZcnRSaWtqNTNZbUJvbjZGSjVZSW5IVGVmZXQ4RThaSmducl9oRnc?oc=5",
@@ -232,12 +257,36 @@
    "summary": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M TradingView"
   },
   {
+   "id": "gn-e847xi",
+   "title": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M (TTWO:NASDAQ)",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnpzWS1uRFlPRDNqT3Y5YjV4al9oRXJxQ2ptS0QzTEpJWXVnQjhWdTJpeWpHOU1sSGRJMVc4WWxBSUFjOHA3aTMtcGJqQVVXdGpLUk9fa2pZa1pzdXBvTlhKVkFFNk9fUGNENEwtVmJ1aTZFS0s2WGwtMkdYYVdBTUI1cnJwdUNiTV9PZkxpc0tyRmdQbGpabi05V0dlazNMc1lFY3RB?oc=5",
+   "date": "2026-10-11T21:15:36.000Z",
+   "source": "Seeking Alpha",
+   "summary": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M (TTWO:NASDAQ) Seeking Alpha"
+  },
+  {
    "id": "gn-18f56hp",
    "title": "Elon Musk Grok AI Predicts GTA 6 Leaker’s Meme Coin CYBERLEEK to Hit $2",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2xqbHdCVFdkc1JxMTJ0cFdyb0NrUHhka3lFaC1GYU5ZNVhNMG5SRHZwc2R4c3FjbnFsdDdseGdZaWlyQWJvT25zZnJKcDYzZTRGVnByRVFlbEMzQTJsZnNhcnNlMlZfajlVV1RSc250Z3psemZhVHB6WlliRkZIVmJjV3c5dmJrZE5UMktJM1JCT2prOHVPOFNBRlE5Q2J4cmtDR3MtSjE?oc=5",
    "date": "2026-10-11T20:37:30.000Z",
    "source": "99Bitcoins",
    "summary": "Elon Musk Grok AI Predicts GTA 6 Leaker’s Meme Coin CYBERLEEK to Hit $2 99Bitcoins"
+  },
+  {
+   "id": "gn-1awqefs",
+   "title": "GTA 6's Leaked Naked Lucia May Not Be in The Game",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3Z1SVlSRzFORmNwQ00tM3U2d0htYm1UWnZrY2oyT0RHT2QydWt1NDg5c0U2TF9DMUN2YS1ObUw5UGZLdjZWWktwQVVHaGl6ZVAwenlBRG1acE5XZzZTdHBVamxxR1J3ZmZYTzBwQ25XYlhsZTFtdk0tT053enpqLXA0bm93Tk9CZ3c?oc=5",
+   "date": "2026-10-11T20:09:55.000Z",
+   "source": "OpenCritic",
+   "summary": "GTA 6's Leaked Naked Lucia May Not Be in The Game OpenCritic"
+  },
+  {
+   "id": "gn-phstlg",
+   "title": "Rockstar Games Announces GTA 6 Feature No Grand Theft Auto or Red Dead Game Has Ever Had",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTk5a29LOXNYdmQ2dmVNNjNnVk15aG42dlI2eFN6eXZEOC0wb1pGMnlQUnNyZUF6UEpHMUU3QmdHRTNKbS14eWoyMjQ5WmZfbFBxc0FWelpDbk9ZZVJ4V2ZqY1g5QWNlMHFSLThrOS1FX1hERGRfS0tHdTVMOURSSmVfWnItQTIyRm9yOHJjZEk5RXY1cFhBWTlzcllBVlhIWXhRM3o0NVBEUQ?oc=5",
+   "date": "2026-10-11T20:05:57.000Z",
+   "source": "ComicBook.com",
+   "summary": "Rockstar Games Announces GTA 6 Feature No Grand Theft Auto or Red Dead Game Has Ever Had ComicBook.com"
   },
   {
    "id": "gn-45mda8",
@@ -280,14 +329,6 @@
    "summary": "Will GTA VI Come to Switch 2? Nintendo Finally Addresses the Possibility levelup.com"
   },
   {
-   "id": "gn-1awqefs",
-   "title": "GTA 6's Leaked Naked Lucia May Not Be in The Game",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3Z1SVlSRzFORmNwQ00tM3U2d0htYm1UWnZrY2oyT0RHT2QydWt1NDg5c0U2TF9DMUN2YS1ObUw5UGZLdjZWWktwQVVHaGl6ZVAwenlBRG1acE5XZzZTdHBVamxxR1J3ZmZYTzBwQ25XYlhsZTFtdk0tT053enpqLXA0bm93Tk9CZ3c?oc=5",
-   "date": "2026-10-11T18:55:34.000Z",
-   "source": "OpenCritic",
-   "summary": "GTA 6's Leaked Naked Lucia May Not Be in The Game OpenCritic"
-  },
-  {
    "id": "gn-137gyvn",
    "title": "Turn up the radio: 6 stations in 'GTA 6' that bring Leonida to life",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGdqdTY2MkJTVkJJYUhkQ3hlM25CQ1dqLS1iLXVjaVVtMU1PRkp0aFplZnkxUW1GdllaR21wd1pNMkpBdEs4TXN1UDBkd3hrWGEyR0hVSklrck5uTWxQVnc1NEhBWnJBWHN2WmZBNE1xV3JaZ2pQZktwWnd1ZHl0RmRrSHo5ZHctRjFqcUNCMFhNRDlrOGdoOW5WVmYwYXhzOFkxUm5Bamp6RVQ0S1ItWXFuamMySFh20gG-AUFVX3lxTE9heFV0ckVhNmFra0l3V0lNTUpPZndhZVVGSHdlNUNYd1QwWE5wY2ZibWVIT3dncndsOElCc2tFdE5MOXNBQVBORzBjUEVOU0xUS2Zzc2x6b3hsSTdPR040NjBGUGk5ZFdJTGlXUDBqa0pMbGhvR3JqYWRDMmJVNWhDWGFLVG1rSXd4c0ppcUdmOER0dVQ3b1E5LWtPZWJyVm1wWUF4ZHJpejNvai1YTlc3Xy1Fc195dXJkNXVqb0E?oc=5",
@@ -321,17 +362,17 @@
   },
   {
    "id": "gn-1h2m8pm",
-   "title": "Your GTA 6 Pre Order Comes With a Free GTA+ Month Before November 20",
+   "title": "How to Claim the Free GTA+ Month With Your GTA 6 Pre-Order",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVGdjUVhqQTBPUXRydDJHTy1Lc0JTc1MwNWd5aTR5ZlJlem1TdFJaNVFYb3BwU080T0tLYVNNcEprWjhkTDJ1aEJEbF9YQVU2c0JmZUQ5RTJ5TlZ1RWFKaFRqYXFCbFpBZDhSUDAwWXhuTjVaMmV6SUZMTkdlSWk4VDZqcWFndHdqMW1YdGNPUQ?oc=5",
    "date": "2026-10-11T17:15:59.000Z",
    "source": "GTA BOOM",
-   "summary": "Your GTA 6 Pre Order Comes With a Free GTA+ Month Before November 20 GTA BOOM"
+   "summary": "How to Claim the Free GTA+ Month With Your GTA 6 Pre-Order GTA BOOM"
   },
   {
    "id": "gn-1l4tqmv",
    "title": "Cardi B Shares 'Don't Chart' From Grand Theft Auto VI: The Album",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEZrQTNnT2RFbmFURENRMzBsbFBiS1BiRVhuRkk4R3U5V1N3SzRUMmNrb2VLMk5wZUZRZzY3bWswbHJuOXllLUxwMmd3VGtzMF9QdGMzOFREWS1zempVSmdhakRXd3M0MXJWSTFOWVBpdEtjMEZwYXBrTnU2V0ItVExTR0ZtZnZ1LUI4YksyS21uWUNQaHFRenNKbXg2cmtnclltdQ?oc=5",
-   "date": "2026-10-11T16:55:47.000Z",
+   "date": "2026-10-11T16:56:49.000Z",
    "source": "antiMusic",
    "summary": "Cardi B Shares 'Don't Chart' From Grand Theft Auto VI: The Album antiMusic"
   },
@@ -646,49 +687,25 @@
    "date": "2026-10-10T23:45:57.000Z",
    "source": "Wolf's Gaming Blog",
    "summary": "CyberLeek Threatens Full GTA 6 Game Leak If Its Cryptocurrency Reaches $30 million Market Cap Wolf's Gaming Blog"
-  },
-  {
-   "id": "gn-tr2fld",
-   "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXhwUFlqeFFUbklTRVBnMmNnRUNZRWtnQm9DRkRQZ2pUb25hZzNpYTh3a3lZVVVLUUo1Q2RRV05yWlZxRFdDWU8zNXNmOEFMZ1d5b2tDcXJ6QU5yU19iSnJaOXZJSHJnQnpvbFJpTFRqTEQzUTNzRWZxN0FlZXFJSDAxQ3p2SFdtbzVJbWJmcjVqUnhINDRya0g2eFVlbWQyQ29qeVVHeDhwSlhGbFE?oc=5",
-   "date": "2026-10-10T23:32:29.000Z",
-   "source": "PC Gamer",
-   "summary": "GTA 6 leaker threatens to upload a build with 'full story mode' PC Gamer"
-  },
-  {
-   "id": "gn-so1d3u",
-   "title": "Nintendo leaves GTA 6 Switch 2 possibility up to Rockstar Games",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOelBwTE90RFJncFBuTWo5QU5xRWZ0dDhjNmF5Q0pJQnFTVTZOUW5kWXE4REF6UGQ4eEp6cUd4dFh6LVdwVjk5Ukg3ZE1KcnhfRDRyeV9hU2tHdHVGMHlpcHQ3elY5Zk1ueHQ3NGxITW1pVkpSWHNBcTFQX01HVm1XQ2ZqdjAzOVNaTnd4Q3YyNGVvV0E2V1RlRndKZ3ppZlBUVGfSAaoBQVVfeXFMT2E3a09BdEdkb3lvSHZzYmxnSG1YbzJiYV85YjRxTHZaVmRhTko2S0kwci1lTE5WV21lVXl5ay03TUNGZjg2YjVQLVZhOU1jMHAxTDZsZ1I1cjdwelpFS19lQTBrNmpjckx1UGlScEh0Y09SSVFxb0xDS0h4WW5JQU1vTjJRbi1oLVNxM3hFSF8xckI0Tmt0NExMMDJ5aEo0SHh5X0dBSk9NMFE?oc=5",
-   "date": "2026-10-10T22:08:33.000Z",
-   "source": "The Express Tribune",
-   "summary": "Nintendo leaves GTA 6 Switch 2 possibility up to Rockstar Games The Express Tribune"
-  },
-  {
-   "id": "gn-3bi9pi",
-   "title": "GTA 6 Hacker Arion Kurtaj Heads to Trial Days Before November 19 Launch",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYklzLTVCYThtY2VWX1NObFpRNEpNMENoNHFoUVFGZWdOSkNsN1VPLWpKakhIVndVRWJJZ1dzR281ZzVfUFJjU1NZOEE4Y3NCXzV0ZjlQdmozM3l6cVhLeU9CcEVtNTFSd0kyZnVEdW9RWW9lbXczQ3Y5cmZzUUVKN2dXOV95Uzdxak04MS0wZWl4QTA3c2sxWWdvd09fdw?oc=5",
-   "date": "2026-10-10T21:18:12.000Z",
-   "source": "GTA BOOM",
-   "summary": "GTA 6 Hacker Arion Kurtaj Heads to Trial Days Before November 19 Launch GTA BOOM"
-  },
-  {
-   "id": "gn-1v6coks",
-   "title": "Rockstar Games Is Reportedly Sending Free GTA 6 Posters to Fans Who Email the Company",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1VNOWp6SDdXaWZGeFlnTXdDanRvY2x4QVRKMEN0Um1EQmFMZHZBWlBLTDJZOXFSTW9hOHRSZEppdENoRW5NRG9aN3dtZ3hYcHBvakZ5bTF0Rm0tWHdLSFBVTm9ES0tHQkJ3RDUzRlRhcmFGa25hUGl3X2x3Tkp3akZ4R0FoZWc0ejUwTlNaUEotNDBNQjM4b0pscFRCUVdqWEhucmgzUDNPdWR6QXVr?oc=5",
-   "date": "2026-10-10T20:59:07.000Z",
-   "source": "eTeknix",
-   "summary": "Rockstar Games Is Reportedly Sending Free GTA 6 Posters to Fans Who Email the Company eTeknix"
-  },
-  {
-   "id": "gn-rmerkv",
-   "title": "GTA 6 Leaker Cyberleek Vows to Release Full Build if Memecoin Hits $30M Market Cap",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamF0dU5zWFJyTWV6WFN2NGNxcTE2Y042SGtZRk1TcHBQUkFDaWl1MHRmR3FFc21rbUcwejNXSzV4aXR5clZyd2JCdjJjOGZjdTROS2JCeERzNF9Hek5jcUFCcmhGYmZBMzVJQThBSVVTVFFSR0h5cHJOQ29ucmZVdnNxbzBPdjE2LUFUYm5Rb3VxcldEMDM3T3lwdEhWZ2JaUUtvSXBlNkZPOHU1dDFvRmMtbTUzaUdwZTktSC12Vnprdw?oc=5",
-   "date": "2026-10-10T20:56:19.000Z",
-   "source": "Inven Global",
-   "summary": "GTA 6 Leaker Cyberleek Vows to Release Full Build if Memecoin Hits $30M Market Cap Inven Global"
   }
  ],
  "community": [
+  {
+   "id": "rd-1pujk6o",
+   "title": "Valentina?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x3mlgq/valentina/",
+   "date": "2026-10-11T23:24:41.000Z",
+   "source": "r/GTA6",
+   "summary": "I might be wrong but I sense backdoor energy from her. First of all, when meeting Jason and Lucia at the airport the hostess offered tea,coffee or champagne. Valentina requested 3 champagnes then Luci"
+  },
+  {
+   "id": "rd-1kodbgv",
+   "title": "Decided to visit Vice City before release day.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x3ldlv/decided_to_visit_vice_city_before_release_day/",
+   "date": "2026-10-11T22:27:01.000Z",
+   "source": "r/GTA6",
+   "summary": "The new mural in Wynwood is almost done and came home with some merch. submitted by /u/Brilliant-Ad2155 [link] [comments]"
+  },
   {
    "id": "rd-3kibd0",
    "title": "GTA 6 is currently sold out on Amazon",
@@ -992,22 +1009,6 @@
    "date": "2026-10-10T01:31:44.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/TheProphetsArtistry [link] [comments]"
-  },
-  {
-   "id": "rd-1s3ozub",
-   "title": "Doing coke, getting fat, and running naked",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x211xa/doing_coke_getting_fat_and_running_naked/",
-   "date": "2026-10-10T00:07:10.000Z",
-   "source": "r/GTA6",
-   "summary": "If the rumors are true about all three of these things I cannot tell you how excited I am to run around vice city as a butt naked jason doing bumps of coke while being morbidly obese. This game will b"
-  },
-  {
-   "id": "rd-up52t7",
-   "title": "Almost complete",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x20tit/almost_complete/",
-   "date": "2026-10-09T23:57:17.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/GTA_Customs [link] [comments]"
   }
  ]
 }
