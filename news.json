@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-12T08:29:55.719Z",
+ "generated": "2026-10-12T18:09:45.837Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 8,
    "scanned": 40,
-   "checked": "2026-10-12T08:29:55.719Z"
+   "checked": "2026-10-12T18:09:45.837Z"
   },
   "youtube": {
    "ok": true,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-12T08:29:55.719Z"
+   "checked": "2026-10-12T18:09:45.837Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-12T08:29:55.719Z"
+   "checked": "2026-10-12T18:09:45.837Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-12T08:29:55.719Z"
+   "checked": "2026-10-12T18:09:45.837Z"
   }
  },
  "official": [
@@ -208,6 +208,390 @@
  ],
  "press": [
   {
+   "id": "gn-14wn3df",
+   "title": "Grand Theft Auto VI may get a full first-person camera mode.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVdObTdQYTdXRkJPVFJPX2xCbUs0am02UzYzaHNzckQ2TUk5NThTbi1qblktcXlqYWc2Ni1VR0hzeDB1SmxKTWRJM2JhZDA0c0VTek54MGNQN0l2bDZ6R2R2S0tTREcwLURuZG80dFZkX0hlbjZZaTFZcTVOclZnclQ2SVZfbUhyRHVkakt3QzNwam1uNzZ3UzR6LUZfZVVsVExTU2ZuRkpmN2hkSnBJNHBB?oc=5",
+   "date": "2026-10-12T17:39:10.000Z",
+   "source": "GameGPU",
+   "summary": "Grand Theft Auto VI may get a full first-person camera mode. GameGPU"
+  },
+  {
+   "id": "gn-1mep8k",
+   "title": "Australia just answered a question millions of GTA 6 fans are asking",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTdCZGRjLVpGeVZ3SGhIOENIUlBzWUd2S1k4T2R1N0xLeGZWQzB5VWZWMktZcl9HYklJWm5KaUZ2d0JQUFZNZEhVUDF2bzdsNzJEcjVSeU5nOEVKMmlscFZTbWd2MDBCWmx0MEx4eUZ2SzVBSzdab2xfN0RpUHVlVjYwQXA5T0JuMG1pdEdURkRTaTJkb1BoSlNHTUdHSnRJRV9QU19OUjR6bXRwQ0ZlakNB0gHGAUFVX3lxTE9sWEhlN3dXX0dXMzJHSDU0ZnBOVmJzdGlYd21yUjQ5TFJsZW9xU2UtMWhoZjNzN1B5UGtCdHpYZGlRNm9lM01aQmNveDFlSjJCTU9Iemhxa2ZKOFJ4RThCU2duV0RLTVVEUW5VNW1GdkZVa0FWTWExOWs3b1k4TG9WcDRQdVNOR0ViWGlGTW9MVjdBa0hJWmFrX3dHZHNnSHUzTXdfZWJra25PVGg5Qy1uenJSUk1xaXM1VXRsVXkwcjRmSGlOQQ?oc=5",
+   "date": "2026-10-12T17:38:00.000Z",
+   "source": "Cleveland.com",
+   "summary": "Australia just answered a question millions of GTA 6 fans are asking Cleveland.com"
+  },
+  {
+   "id": "gn-1a4l1lz",
+   "title": "Grand Theft Auto VI Leaker Threatens Rockstar Games Again",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSWM3XzZjOTFZekI1RFpiRnA0U0QycXFMWXNKMGlXMzN2SkFLTk93VFN2VTltejREMGFZdXhub09kZHNqaVMtaUNSWlV0ZEIxYkJ2cE1pOU5OQ1ZZcjdQbEs2YXdKVmdiUHBXYldkV3pWV09SQks3Zlp3MFBjN0Q3V256bEJNNTJ0M3hleXVZOA?oc=5",
+   "date": "2026-10-12T17:30:31.000Z",
+   "source": "psxextreme.com",
+   "summary": "Grand Theft Auto VI Leaker Threatens Rockstar Games Again psxextreme.com"
+  },
+  {
+   "id": "gn-1ioe2vv",
+   "title": "GTA 6 updates: CyberLeek posts new Lucia leak and reveals leak roadmap",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLXFxWFFvRGROSUYtT3dYby1mS1AyU3RyYUtQZEZUNnVrY01FVk1kZklSYkFBQXhzaXd2RHJ0T2F5NVY4TEt4VFlGSW9qVHQyWTRuLTJ2Z25XTWpDTE5KdXY5ZmdyaWJPTXFIZXUyVXBEYTJSdkhDcl9ES3dOd0kzR3l3OUpsYVk5UFZXN25TNmxhLU5pSmZYZlRnNlhsQmxZandqdWNhQTBNdnhOdzBIZ3NBN0dOV2pRQzJDTnd4eWJ0cFdzOFRnaGNLV1ZadGdvY3c1el9nU20wZ0NqRFN3Mzl2Qm_SAeoBQVVfeXFMUEx4cDk1eFZoRkpGR0paVl9hZXV6ckpqMFZKOU1sY19DMWdZQUtsbWRjc21kOXZHSHVfbnhTYTdMMlYxTXBWNjVhZl9OaFQ3MDFDTFU0cEF2N09ubTdFY0M4bWU4Qk1vR2UzM01wSm1IeHliT1k4UVI3WnhqWVNyYXM5RFpacHM5a21lRGZuV1BKZUNLZEl4VkZRczNlQVdfRXZYTjAxNkc2SHVURkZzN2xiTEEtYVJNU1FOcDhrZFFLdHBxbi04ajJjNzVXUkRncHFsY3NqQlhPZmZLUXZWN21BQ2h5RjNZdW5R?oc=5",
+   "date": "2026-10-12T17:30:00.000Z",
+   "source": "The Times of India",
+   "summary": "GTA 6 updates: CyberLeek posts new Lucia leak and reveals leak roadmap The Times of India"
+  },
+  {
+   "id": "gn-18kjg2f",
+   "title": "SNL's viral Zelda: Ocarina of Time vs GTA 6 sketch probably went down fine at Nintendo, former marketing leads say, even if it framed Link as being \"for nerds\"",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPekxnWndIV052NzZLbkhiT1lMV2w3Q1RtenhyRFBuemZxejd6ODZ0U3doYlFNWmdrMmtXTmVDcHJnY2JtYW5DUXdlaUpGd3ZSWVZIdG00Y3p6cUpCZVVCOG5oRlkxRHlUeE5YY0JhUWVIOEszclp4NzNyYVh5VFU2SEloeEEtaE9rYmVBdm83T1lhSFdrNExVdDd5blU4bHJ6RnBLMGtvRmYzaWVfYS1oTjk4S1NTQk9xNEE1NkFiYkdIZ01GUEI1SEVzbzd0eFNhRnBHNV9hMHJyRlJXWVBWbml6eTRqb0FfZk9zWHVERUtyc1VUTndXcWh6OW96Wm1QcVlMNjZySW9NYzZxSnFFNy1NT0FxanYwRFBvMER2UExIZTlqOUVNT0lwTTVnMEFK?oc=5",
+   "date": "2026-10-12T17:00:00.000Z",
+   "source": "GamesRadar+",
+   "summary": "SNL's viral Zelda: Ocarina of Time vs GTA 6 sketch probably went down fine at Nintendo, former marketing leads say, even if it framed Link as being \"for nerds\" GamesRadar+"
+  },
+  {
+   "id": "gn-1t2weq1",
+   "title": "GTA 6 Branded Airship Spotted Leaving Ohio, Tracked Live Heading South",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZ2FBckhvZDlCWW11ekVYNF9ScTlTalpkN1Q3OW15VG8yeUtZX0VBZkpKRFdFa1JodUtucFIxYl9RSV80VHpVMktqMVY0U0pwRnZMeU9DXzE4VndRbWx6NmtrT3BTTkVYbWJfbE9iZFBnVUJmcTFiX0dZZ3djMEJMSWtDRXNQcjZqbXBpRm0zaDRqLUhyREVLV0hB?oc=5",
+   "date": "2026-10-12T16:46:35.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6 Branded Airship Spotted Leaving Ohio, Tracked Live Heading South GTA BOOM"
+  },
+  {
+   "id": "gn-1f3vp16",
+   "title": "GTA 6 leaker threatens to release the full playable build of the game unless their demands are met",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSkNWNUNKZ1NQLTVxemV4YlpqQXRZNFVXM0FZNjhuNFVJRGFWRXZoUm9KNzBHWjZqT3dzRDNSQld3YnVsSWJqMHA0S3JFZVpTb3dZdDlKbUNseEk2a2dNUWNJZUVLWnlfY2xrRGI5ckNwUTlJMEk5eWhEb2xRam05RjJGUUNwYVFiVTNlTmxPVXhDa1E2cFhjVFYxTTFrQzZWNkEzS3BUalNGdXZBa3pLbEY1QVNPOG1wbjdVSlhIY29KdDM4SzBZ?oc=5",
+   "date": "2026-10-12T16:45:02.000Z",
+   "source": "The Shortcut | Matt Swider",
+   "summary": "GTA 6 leaker threatens to release the full playable build of the game unless their demands are met The Shortcut | Matt Swider"
+  },
+  {
+   "id": "gn-1qagdkt",
+   "title": "'GTA 6' Leaker's Naked Lucia Gamble Just Backfired Massively",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3RwbVlHVWNTNzJyUUdydzBUd2xXWHVGTGpkS0hrNzhLYUllSGVsdXZ4WThiRnI3MGxjLWpwSGFWQmNsck8wanF1bUlsUm5aSmR1d3NFdThuRGFDMlZGVEd1NWZ0ZGh0LURmNlRMZlVVQnhSOXU3NXVRc2FBaHFaYXJzUW8?oc=5",
+   "date": "2026-10-12T16:07:38.000Z",
+   "source": "Polygon.com",
+   "summary": "'GTA 6' Leaker's Naked Lucia Gamble Just Backfired Massively Polygon.com"
+  },
+  {
+   "id": "gn-21atrx",
+   "title": "Cyberleek says GTA 6 build is 200 GB+, hinting at massive PS5 and Xbox file size",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMXVIdDVjSm0zWmJfb2VwZTVXTEg0bEdxSktsMTJIc2pXMGtzZnRZR0Z2cVUwNXlGMGUxRFVaQ1E3enZXXzd5d0tsTzlWYjRlczJlRVZLaGo1anlRT1BDN3FtamliUF9kdF96ZXJZeVNRRGVxSTNuakNycWI4aFp3VTY2dnM1OTVWSHpCY1NZOEx2dmd5aWxNZzBZMmpza3FtWURoLVpRckMtWGdWNmtkeG9YRTdvLVNOVzFtdUVIY1o?oc=5",
+   "date": "2026-10-12T16:05:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "Cyberleek says GTA 6 build is 200 GB+, hinting at massive PS5 and Xbox file size Notebookcheck"
+  },
+  {
+   "id": "gn-14g5665",
+   "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5UYVdfU1A1SkNsQ3V3d3VkREkzYXlVOVJVd0lEMF9GLVVjeEhKcndlNUNPNDdoUFJhRzVvTFNRSkN0NHp5UmRKbTJuNENqMGd2UTBJMnBRcExzTTVoaFNHd2dGREZ3Tnk1eENaSHdXY2p1OGQtcHJhWVB4SFRRenI3Um1iSi0tWFpWR3hRNlpUTjVvWDFyNTdpT1U?oc=5",
+   "date": "2026-10-12T15:15:24.000Z",
+   "source": "Mashable",
+   "summary": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full Mashable"
+  },
+  {
+   "id": "gn-u39c8e",
+   "title": "Nintendo of America President talks about GTA 6 on Switch 2",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV2lOLXQzRWdnb09ObkZPUkxndVNOMk5xalFic2pPa0ZpSmVHOXdSazJ5X1BoYTlfOFV4Z1hmOE84OFQ4c2RfcTdPOEdNeE93U2k2V2lHTk5ySFFhMTFCTGszVGJJSGJoQnhVNUFCei1jWXNiM0ZScFZoWTFJTkhUc05EU2pQV3hCQlhRV2dDM2Q2NmtZaG5Pc1FnZzhOQmZOcEZFY05RZnA?oc=5",
+   "date": "2026-10-12T15:11:09.000Z",
+   "source": "Android Headlines",
+   "summary": "Nintendo of America President talks about GTA 6 on Switch 2 Android Headlines"
+  },
+  {
+   "id": "gn-kf4egf",
+   "title": "PS5 Pro stock shortage: why is Sony’s PlayStation 5 sold out?",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQby1NVHpyZktJRDhPOFV6UjMzNzNYTDFiYktyTjI5TkpLd1BPci1yUHpjcEhGRll3ME9XX2J5Z2ZWQjlCcHpScGhYTE9Pa01pLVFjeWdSSmV1WkVWdW1lVTdlY1lpbFVvYm1NWVQyVkNSeWpLZ3lmLUhUak1rN0VPV0xJODhPZU5fejNOOHVmcWdBQQ?oc=5",
+   "date": "2026-10-12T15:03:11.000Z",
+   "source": "The Shortcut | Matt Swider",
+   "summary": "PS5 Pro stock shortage: why is Sony’s PlayStation 5 sold out? The Shortcut | Matt Swider"
+  },
+  {
+   "id": "gn-nl7xn4",
+   "title": "GTA 6 offers an 'in-depth' gameplay upgrade that'll catch every player off-guard",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS1FmSlpORU1Qdl9ZeXlLMVl6ZjFnUXhfd3RUbUhkZUdmWHR1WDgxanR3QndjSWVpMzhnenZGUVVyaVJmVWlhVEJRNm9uQW9leGg2OXFqM3I1VkczMnJMcUZPX2pHaU5BeFRKTTd1VjR2NDBSRUZ4cDFoNXRBZjZWWUxFNFUzVnozUzUzaWhtQ3g0LXg0RnVhcHBHOA?oc=5",
+   "date": "2026-10-12T15:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 offers an 'in-depth' gameplay upgrade that'll catch every player off-guard GAMINGbible"
+  },
+  {
+   "id": "gn-hsjpe7",
+   "title": "Hub: Video Game IP Capturing Crossover Hollywood/Fandom Appeal",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTJTaDROQnAzTTduNVh2VFoxWHlueEZjQThWSjlGYXRQSWJxbTR6Z1QyMlQzQVAwZFMwVkRtMVNrZ2JsRVdiUkpLZzl3MUJpYTdxbko1eGdJZVdsbVV5eE1yaXQtQ0NlY2RCSW1SYlRkb2FVYmFuVW9wdmFWQkxYMF9RLTk3V204Y2x6RmF1bm9wdkNvQVc0?oc=5",
+   "date": "2026-10-12T14:51:24.000Z",
+   "source": "Media Play News",
+   "summary": "Hub: Video Game IP Capturing Crossover Hollywood/Fandom Appeal Media Play News"
+  },
+  {
+   "id": "gn-hbbuox",
+   "title": "GTA 6 Leaker Teases 'Playable Build' Launch, Doubles Down on Crypto Scheme",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFpid0FNVjB3UXNWUXdtMmJSQWMtRkxzTktRcENNRy1QX3FDcVg5My1pV2RsOHVHeWZLRnprTXV1SjZ6dTNlV1NlSjB2djlCSF9hQ3p5cFpiQzM3RXQ0d2dET2FnZ1lKcVRxVEQ0dE40LXM5eWpJZlFBaFpGQ1VaTWlVNFdIcWJ5T2Zzc2hSejNaenVPeVNEQVlvbFFXd2c?oc=5",
+   "date": "2026-10-12T14:33:26.000Z",
+   "source": "PCMag",
+   "summary": "GTA 6 Leaker Teases 'Playable Build' Launch, Doubles Down on Crypto Scheme PCMag"
+  },
+  {
+   "id": "gn-10g91lo",
+   "title": "GTA 6 Could Deliver What GTA 5 and Red Dead Redemption 2 Were Missing",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlI1akswMDhYR3BVTmJBTC1raDR6U1dURklBTzI1WTEyODROOVJhUVdud1F0UTl4ajFGVkxEaXJGZmttbGZXTzF5ZmhyY2ZFTWFZSzFkamMySGxWMEFTNmZXVGowajE1YTYwLUk2dG1vMEJxa1RlN2R2SWlKTGZLWFBJNDZvM0ljSk1JY2cwOWhybEVteVVv?oc=5",
+   "date": "2026-10-12T14:26:12.000Z",
+   "source": "GamingBolt",
+   "summary": "GTA 6 Could Deliver What GTA 5 and Red Dead Redemption 2 Were Missing GamingBolt"
+  },
+  {
+   "id": "gn-1g4kct9",
+   "title": "More GTA VI \"Vice City\" starting to pop up across Miami, including at Dolphins game",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ1lkbFFUcUZuTFRUNTNDX2dSUXJIM1pNV3V3S2lqeC1CaUVOVFFKczJjeGJyMzRNZ3lFMWczUzFfbnd5V2RINWI4OVp1Y2FDLXdUYnNXNDNUQmdXRE1wNmRtUDZhOEpNRWQtZngwR2V4SHE5N05feklMMHNleXpuSFJjeGgzMjVXQ05VYzlubw?oc=5",
+   "date": "2026-10-12T14:20:30.000Z",
+   "source": "CBS News",
+   "summary": "More GTA VI \"Vice City\" starting to pop up across Miami, including at Dolphins game CBS News"
+  },
+  {
+   "id": "gn-wcg5io",
+   "title": "Rockstar Games has a whole team of writers for GTA 6 pedestrians, says exec, \"No one you meet is an extra\"",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT3lUeDZLYzNkVXp5Z2dPMVlTZ2lLcm5oa3E5dC11RjUwLVJaUFdUZEpHYndkSXluT1VzMkJiMEtHV3MtREZJS0dPc2J0bmxJbzVqT0hYaWdSX2MwWXJwaFJQd0U5OEYzd2xBa2xfQUE0aXBCaHdNdm9vU3d1SGd3WEtPQXNIQ1JTUnNqMUs4OG5ucF9qWkhGYXNFdm1rRnNoVXdYMmZzVmlrbF9adlc0d19POWkxZm1nU2pDRWdLQjUwNHRjelY1NWYzRlQ?oc=5",
+   "date": "2026-10-12T14:02:03.000Z",
+   "source": "PC Guide",
+   "summary": "Rockstar Games has a whole team of writers for GTA 6 pedestrians, says exec, \"No one you meet is an extra\" PC Guide"
+  },
+  {
+   "id": "gn-zfmcr8",
+   "title": "GTA VI makes appearance at Hard Rock Stadium",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWpUd3lQcURSaXdtUFJKc1piSkp4WDdGaU92ZmFCd2NVVVY0X0Ftd3p5a1pab0dJRHNkSFFZMlY4ZnFnanR3aHZsbnNSSHQ1QkRfbHlfOXB3Y1lTckVIeTMydm5NVU5wUl9aNXlnYjR0Vmcxdkx0SzF3TTlTZHdnMlZ5OXdxdDdJ?oc=5",
+   "date": "2026-10-12T14:01:00.000Z",
+   "source": "CBS News",
+   "summary": "GTA VI makes appearance at Hard Rock Stadium CBS News"
+  },
+  {
+   "id": "gn-n64v03",
+   "title": "Latest Leaked GTA 6 Video Shows Lucia Fully Naked, Sparks Fan Skepticism",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUF9HSTFKal9zMkNKdWVGSGktRWdEWnNTWngtZkVaWFdvREZ2NEZTOVcwVEI1NEdoQjk0Y1YzbUdXLXBmclFjOGI3M1QwYVk3bWZzYXE4TU95SWRrRlZGQzBsZVlQaGptWXB5VVB5TmRZY2tjZy1CSjF4X2ZrMFRuWl81ZkwtTUsyN3diN2Nyc25XNFJyN0VSYjN5OVdScjhXR3c?oc=5",
+   "date": "2026-10-12T13:16:39.000Z",
+   "source": "IGN",
+   "summary": "Latest Leaked GTA 6 Video Shows Lucia Fully Naked, Sparks Fan Skepticism IGN"
+  },
+  {
+   "id": "gn-8zy11t",
+   "title": "A new GTA 6 leak shows Lucia robbing an ATM and parachuting off a roof - naked",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzlqMlBLekRPeGUzU3VKMGh5SEJUcGRCdHFKTUY3QVpqRTJpeWlERmZ4S0RTYWEtNTFhM201SlRLNWJuYlBVdzJLV2FVb2hPczlpczhkejVZTGNrc2RZQnFFNUVOdWZ5WWNpVW1tYU1hZFNTMUk2QmV0dEVhQjFHcm1n?oc=5",
+   "date": "2026-10-12T13:09:18.000Z",
+   "source": "Eurogamer.net",
+   "summary": "A new GTA 6 leak shows Lucia robbing an ATM and parachuting off a roof - naked Eurogamer.net"
+  },
+  {
+   "id": "gn-1ameg2l",
+   "title": "‘GTA 6’ Leaker Fully Reveals Lucia, The Game Build Size And Leak Roadmap",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXE1RDNWVnR6MTBua1ZqQ3Jhd3B5ek8xcTNVOWFsM3RHTTFwbUFkNUFMT3RJM2ZSbG9sNkhycmtQYjFWTllWdDJLQUctVW0tcWVGZEhNTUtubDdGMGtKWWZXTGJMTnJZcUhNZVQwbV93SFA3VTRveE9CVHd6a2VSaVA5bnNxNVh4OWJXT0F2WmpUMXFLZGFiV1FhZDNHVHRESGlBdXhTc095aWNnR091WUFxY3NXZWtLNFZaWQ?oc=5",
+   "date": "2026-10-12T13:08:52.000Z",
+   "source": "Forbes",
+   "summary": "‘GTA 6’ Leaker Fully Reveals Lucia, The Game Build Size And Leak Roadmap Forbes"
+  },
+  {
+   "id": "gn-lue0gx",
+   "title": "Xbox Series X console shortages are increasing in European stores ahead of the release of GTA 6.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSFdVOW14Mk9fdDVTV2pfclI1MnV1NElGcktBcHAwQ1pSSnVZR2FtaFV0bWlCZTJUc3QxbGFWX09vOEZrMG9SMmlDV18zTk1LUzMzUlJtdDhDaUJzSURkX0RhWHlKZVB6anpFQnFNUGd0Rm1TMmtOTzNtZUtkNnZqaktBd2NwTVBlOV9jMmE0d3NhaEJ5dmVOcjU1ZEVNbmpmMnpuSGNfYWhrcWZIaTkwZkstY2RvZXEyTC1hMw?oc=5",
+   "date": "2026-10-12T12:45:41.000Z",
+   "source": "GameGPU",
+   "summary": "Xbox Series X console shortages are increasing in European stores ahead of the release of GTA 6. GameGPU"
+  },
+  {
+   "id": "gn-1uxy9s2",
+   "title": "GTA VI previews in-game radio stations – and introduces podcasts",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ2FXa0dtVm4zWW03Wk9QckQyeEU0cXd3SkJLbFIyMXpJcU02MVVGVDJkd082RTZ0Sm9HMF83MDhMSy1LdmxXVHRzVFhKRVoyQTZtQnA5M05NSVNuQk1pSVhZOTk4RXRXck5XbWpZTmZybDNpYVdHeFZPaU1SbmJPdEFIMURoZFNtcGZkdmZKU3NfWnFISFA5M0NWN2E?oc=5",
+   "date": "2026-10-12T12:45:00.000Z",
+   "source": "Music Ally",
+   "summary": "GTA VI previews in-game radio stations – and introduces podcasts Music Ally"
+  },
+  {
+   "id": "gn-1we7jad",
+   "title": "The group responsible for the leaks of \"GTA 6\" is threatening to release what they claim is a complete version of the game, including the story mode",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5OR0FNRkI0THYwV1U4c3gyOEVYdG1kSGpiQjZMWUlYQXpZdGkxSzVNQ0xNM1JCeUpLM0Y3X3RTa0N4UmtrZExpQjNUc2ItVG8?oc=5",
+   "date": "2026-10-12T12:26:15.000Z",
+   "source": "WN Hub",
+   "summary": "The group responsible for the leaks of \"GTA 6\" is threatening to release what they claim is a complete version of the game, including the story mode WN Hub"
+  },
+  {
+   "id": "gn-1ebgl1a",
+   "title": "Today’s GTA 6 Leaks Contain ‘Lucia 4K Close-Up’, And It’s What You Can Imagine",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRDV1Vm51bWVZVmp3YkhmUlY2TjB6WTA4R3hlUmtvVDFrQTBDa1Y2aDI0M3NYVlhDc2p3dTdGV0VyQUw3NThmaDY5NklmYVBVajJWTHAySlhmdU4wTW5FYUNjOWptam9XckdkSjNGT1ZiOUxjMEVsM2UxYWg1aFFnNnJRMVJQN2VtWVhkRkFmMHc?oc=5",
+   "date": "2026-10-12T12:25:25.000Z",
+   "source": "Insider Gaming",
+   "summary": "Today’s GTA 6 Leaks Contain ‘Lucia 4K Close-Up’, And It’s What You Can Imagine Insider Gaming"
+  },
+  {
+   "id": "gn-teltps",
+   "title": "GTA 6 Leaker Follows Through On Their Promise Of A More Detailed Lucia Clip",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV2dveXJ2bXo4ZWpjbzJsOWNsMzU2bHJEZUpOYkNsMUdtdXlXUUxoMEx1REhveEcwa0dTakMyNkJPQlN0cXFfdEhienl3RGo2MXlzX1UwN0VTaXF0aHhxYThzaFFEQUhOYi1sallrRE90SGltNE80ZUpEdklTRTZ6b2U2X1gyMU1NYkxTc01zSTFTRV9mY0VhNUZTTHl3M2xPMzAwNk1lWVZpb2Z4VHc?oc=5",
+   "date": "2026-10-12T12:24:57.000Z",
+   "source": "OpenCritic",
+   "summary": "GTA 6 Leaker Follows Through On Their Promise Of A More Detailed Lucia Clip OpenCritic"
+  },
+  {
+   "id": "gn-2180yw",
+   "title": "Group Threatens to Leak Full GTA 6 Build Over Discs [2026]",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmVkR0lSNDVQdEwyaUxQLV9jNDJyamVyTHdRWWJURm9ZazQyV2J4aHlqM3BzdHNfOFJ2dUloS21qbWk1bEdIMnl3RGxncXQ5WmxHMngyTzJiQUJqQUFLazBuM1RLYi1FTUpZS1hneE9fUjdKbzlQcWx4NFlrZnhlTkVmbnpMNzg4bFFzYQ?oc=5",
+   "date": "2026-10-12T12:12:33.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "Group Threatens to Leak Full GTA 6 Build Over Discs [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-1lp9jk0",
+   "title": "GTA 6 Is Already Sold Out on Amazon",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrX05sb3BnRlFTNExlNnBrR3hqU1U1dVJ2X3JkaWdBWjhFX2R4SElRWkpFalUtRjdOOWRpWkVrX3g2c2VqWEhuekNPMzJHQ01FZG5WaWYxUUF0OVRid3ZfQUdBc04?oc=5",
+   "date": "2026-10-12T12:07:58.000Z",
+   "source": "VICE",
+   "summary": "GTA 6 Is Already Sold Out on Amazon VICE"
+  },
+  {
+   "id": "gn-zx3duv",
+   "title": "‘Grand Theft Auto VI’ Reveals Six Radio Stations and New Podcasts",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5UVhUU0lVWnFYaVRlOFB0RnNkU1BBOXhOUVlLei00VHpRaHMyVl9KVEFiYjltcWJrTEdQcjUyQVFBUDNldTBPalNmRXJKZEJSZnFmVlBxbTNrMGF0X08tVWllWFA1cmFtV3lzakR2TnZ6Zw?oc=5",
+   "date": "2026-10-12T12:04:34.000Z",
+   "source": "The Source Magazine",
+   "summary": "‘Grand Theft Auto VI’ Reveals Six Radio Stations and New Podcasts The Source Magazine"
+  },
+  {
+   "id": "gn-bliq34",
+   "title": "\"So f****** peak\" - Fan who made incredible Lego GTA 6 set is at it again with the perfect PlayStation diorama",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjhLUTNsenByR1l6RHAyYlhpdmtobkgzNkZWUmJWYXdRZ3VhT3FvZVNTV1E4Ni13S2NqS0V3ZkFGNDdxMGZveGcwYXRRNUdkX2M2ZkJYR2l6eU41eTE0WDlGX0lwa2xqc3lXdWZmU2ppVmZFTVhlaDhaRkpWbEhTdjZNU3MxelFNR2VqX0Y5SUNWY3JfSTJfZC1UcFVqemtGOUlYR3FyVTdCTUFDZjRHck1Ob0NjbmZrVEdDWXZIcjhpamxGV0lfUERWZnR3alBvU19tX2wyMlV6dmh1VnNN?oc=5",
+   "date": "2026-10-12T11:41:56.000Z",
+   "source": "GamesRadar+",
+   "summary": "\"So f****** peak\" - Fan who made incredible Lego GTA 6 set is at it again with the perfect PlayStation diorama GamesRadar+"
+  },
+  {
+   "id": "gn-1e0e2kc",
+   "title": "Hackers are going to leak a fully working build of GTA VI, Gears of War 3 can now be fully completed on PC - the most interesting of the week",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQQUFqVWtfOU5UaFhWWE53V0RwRnNoUDdRTDdLVkpxTWpBWm83anVRSUNEbEl4R2VfdmdZQkktbl9BcV9qQXB3V28xVjNOak5leFlITUtrSm1FR0FMNkhqUU9vdS1nMFVROXdic09XdnBZY0RqT3BraUNhOUE5ZHBqamlfSXEyUEl4ZC1abUd6N1BaQkhtRllLYThQR1RULTJVV3YxT05pNEVVdWhfeGNUUDV4MGVLaHNPYUJSbUlLZlVLMDNmN2E0ampPN3Z1Q0pqcUZpSjN5X0NsWnpZM0ZWeGFGU1VsWDFYVnV2VVBBOVNoTW9uTWN3T3RaTi1JN3VSRGk40gGIAkFVX3lxTE5oRThZRnVrOFRrUVd3NlIzaEN1U1RaM3RNQm5lLXYtOTNacVdhLW9KRGZ3MjdCZUZrN0hVVk9RWXBRYm5zMVZUVWFrbFg5WFBsSnBlbExMallxU2xhT3NrdWkyWmJCMHZFdWpDZjdnNHVlYmRpVWxwRkVLUFFNRVVlZnR3aGVYdDNGbk5nUm5kTzFFU3pHQVlqcDVOSlpDOU9iRzJLcnc3QU9BS0tReWRLYmdJYTB3eTUzTHQzTk9CZVV4aFhobG53cjhGakxqMENUM1huRFRqZ0hmT1RGZzZmUEFVUnB4TjNGNkVhUmd2a0JhMFVFbFV4QkNZclU4Tk9mRzJ5VjdZMg?oc=5",
+   "date": "2026-10-12T11:39:25.000Z",
+   "source": "iXBT.games",
+   "summary": "Hackers are going to leak a fully working build of GTA VI, Gears of War 3 can now be fully completed on PC - the most interesting of the week iXBT.games"
+  },
+  {
+   "id": "gn-seikxk",
+   "title": "‘I hope Sony takes notice’: Nintendo says it has ‘no plans’ to ditch physical media as GTA 6 goes entirely disc-less",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPc0g1VkZQOHN4X0pIWlJ6OERzakZHSUNsd2VfT3MySl8wb1I1Rzh2amp3RlRuQzhCblBScHJIdTNWbnpPR1A4OXp0RFRCcHFqYzVzTFBlbVZlMUFQd1BiSmtLSWtTenBqVUtwNWExZE1FV19GTWlzTkVPLTFITVBIUi0tQTdHM2lrU19tak9neEhDNm9EcVo0b2ZKZV9GQWdXX0s1aEktSGxGaWdTVjVUU24zSG5yZ2pXYmM2LVFWSk1nVnVNenhLZDdjSnZ2ZGxEaGJQSDRVTXpWYmNaQmRYQkRCdnpmUkc4?oc=5",
+   "date": "2026-10-12T11:38:44.000Z",
+   "source": "TechRadar",
+   "summary": "‘I hope Sony takes notice’: Nintendo says it has ‘no plans’ to ditch physical media as GTA 6 goes entirely disc-less TechRadar"
+  },
+  {
+   "id": "gn-r2phj7",
+   "title": "Get Ready for GTA 6 While These PlayStation Pulse Explore Earbuds are Just $149, Their Best Price Yet",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBZHp6dG9LZ1FWNlpFMENvcXFIWDFmX01SaTdFclJnYVI5NFozTzlaRHlFRXU3aW1EVkN6OXZuMmxfTFFidFNVaDJtQS1MNnBtOFowTHB6NGJ0SkZRZWFSMXM5VW0xel9pQ1R2YzFyNjI3bDRRclQ0RldiSVg?oc=5",
+   "date": "2026-10-12T11:32:00.000Z",
+   "source": "CNET",
+   "summary": "Get Ready for GTA 6 While These PlayStation Pulse Explore Earbuds are Just $149, Their Best Price Yet CNET"
+  },
+  {
+   "id": "gn-3wrz9o",
+   "title": "GTA 6 has somehow 'sold out' despite being offered only as a digital game",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzJXX3U0R3I2Um9kN0FqMVJJeDVySUhOOUtfZkNhd3ppcTgwZlBBbF9OdGNRaUZleGYyMzIxalpHMlJqc3ZsamVDaEJmaU5mQmxickM5cjZpdER0bVNHcTZSQXFycncxNVNZZDdsQmhvZHI4NWdIX0phYVpHa1hFRFFIZjY0Y20wd3JIbEdNanpUUXc?oc=5",
+   "date": "2026-10-12T11:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 has somehow 'sold out' despite being offered only as a digital game GAMINGbible"
+  },
+  {
+   "id": "gn-gfl0ur",
+   "title": "Rockstar HR Manager Tells Tribunal He Had 'Little Interest' in Workers' Union Status",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGNhX2VUTGRTN3Rhb3h2eUN6SU9ueTRBZWw2T2NpZ1dTUy1rZGpXeFJiTjNMLVpmTTU2V2FUb1dPRFFHMzZ4dlpJUkttOVN2VVZKTG9IX29FMEpfbWdyYUJOZnNmeHhjYUJsR0RCOWFUT1NuSXhQbFRxWHd6R0luRGtkaFhnRDYyU01ydWZodGtvWDlhVVBsdHVqUnRKOUJJaHIyUlRGSXRRMHZoUm9r?oc=5",
+   "date": "2026-10-12T10:46:00.000Z",
+   "source": "GTA BOOM",
+   "summary": "Rockstar HR Manager Tells Tribunal He Had 'Little Interest' in Workers' Union Status GTA BOOM"
+  },
+  {
+   "id": "gn-e2vzlx",
+   "title": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFhTNDhIaW9ZUGtrWkRZN2RURDNGWDJNWVk3RFJPSUFiVG8yZWJnNWliV1kySEc2UHFZbUoxLUFaSURXdUdHQ0JmV3Z6cjQ0NzVYdnp2U3dDQms4YkliSXY5Zjk2ZEc0Q1k5QVREQVd2Mkl6NEk1OTQzMmE5d3pVaEdrVDE1bk1DV00tOEFWall6TjBQQ0MwT2w3TjdKZDM1bklKd29keWRRampmZXJ0cUh3eHdxdVkwcVB5WkxQTERwa1E?oc=5",
+   "date": "2026-10-12T10:35:08.000Z",
+   "source": "GameDev.net",
+   "summary": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode GameDev.net"
+  },
+  {
+   "id": "gn-pb3b5n",
+   "title": "Rockstar Games Integrates Advanced Ray Tracing for GTA VI",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbjNuNURKLXAySHljQWJlUjdnM2xQUlVZUmpYc3Rvbk5GNVFUTm4yQS0wZGEtU3BJRF9FZWg4YkhjRFoxYVllSG5mTkQ2anNzV29HcERLUi02c0c2azhmRWxnUU90R0lVelFsbTZnVTJtR3hWcnE1Z0RzR2dZc2ZqZVdhazNzSzZsNmc?oc=5",
+   "date": "2026-10-12T10:33:45.000Z",
+   "source": "Goomba Stomp Magazine",
+   "summary": "Rockstar Games Integrates Advanced Ray Tracing for GTA VI Goomba Stomp Magazine"
+  },
+  {
+   "id": "gn-1v5cdtg",
+   "title": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM3ZoTm83Z2lDMS1EVjVBVG4taU9uMFROZ0VMUkFhUnd3S2RwUWxFbm5MNXJmdmpYWFhRd2ZJSFBlQjVkbWgyR1ZpMmlxTFJnNDZHU2lmNlFTcThCZ0VvaEVvbVI2dGJ5VFA2U3pGU0JQcWgwdHhoLTZ3ZWtMbzZXRVlvZVBlWGZiY01FeEJCWmJCYlpYS2hTbDdYRk05eHk5RGxYY2tPYUhUM3RrWmZNZWdXNUJ3cFU1cnQwRFBzZHY?oc=5",
+   "date": "2026-10-12T10:32:50.000Z",
+   "source": "GamesIndustry.biz",
+   "summary": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode GamesIndustry.biz"
+  },
+  {
+   "id": "gn-1bwix8y",
+   "title": "Despite new GTA 6 leaks, Cyberleek's cryptocurrency remains over $20 million short of its goal amid threats to release Rockstar's next game early",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQYVhpN0tYMm5rVkRHdmhUeTFZd1QxQzdyTEhzdE5ubEt1VWloOFkwdnlnc2Z6S1k2b0VBcnp0MmtMQzBKeGtjWWRJVlkwRHByUHFhRjdOR2pvcDdGaXRkRzVmN0xGQmsxTVhBZXo4UTdKdjBSTy1oaXdDMzZQbFVmelZzYUx6RmtMazZxU3llMmRmZEpIb2hLZlYyOWxQVENUMGlIRjJjSFVUNmwwVWlVei1ROWNRSlNwdHdmelZxbUFxMkhXQmFFN2dZSG1NeG5nOWRKN3pVM2Rwa1QtMDM1eEkxczRHSXVMNkR6RENEZ1BxMUtSTy1wbFZuajZha0hxQVNFSlhTNDJ1dDc2WUw4MlNwOFhiZVIwdkV5VHFWdkM?oc=5",
+   "date": "2026-10-12T10:27:22.000Z",
+   "source": "GamesRadar+",
+   "summary": "Despite new GTA 6 leaks, Cyberleek's cryptocurrency remains over $20 million short of its goal amid threats to release Rockstar's next game early GamesRadar+"
+  },
+  {
+   "id": "gn-v1ouvf",
+   "title": "October 15 Officially Marks the Next Big Update for GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEhxUngyUGpTdGdKTTd3eU1KXzFIVzJjOEMwMWI1NWdneW56OGhmajdDWHRVdi1kVlRTbGVTRUVXRG9qWC1MWFRUUjZFeFZPWk5XcHZVOHBvT09MbUloUC1rdDZrR29RRHFBYnVPWFVTeUhTUUtnT2RuR0JVeEtoU1BRUTEwVGo2b0lmY2dxLU9FNFZlZFE?oc=5",
+   "date": "2026-10-12T10:15:36.000Z",
+   "source": "OpenCritic",
+   "summary": "October 15 Officially Marks the Next Big Update for GTA 6 OpenCritic"
+  },
+  {
+   "id": "gn-encob6",
+   "title": "A New 5-Minute GTA 6 Video Has Appeared Online",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWlqZVlxRnNCT3NkclozSDlfSW5XZnh6RU14UURtZ010ODNveTZWbno4WXA1dU9DSjIxT3dWa3Y0UWpMNEZkMktBRXFvVjN0RnhodGloYUR5X0FmbG8xY2JZX3lGUWluMXBGQzFhZnQ2bWpaOGx2YnhadllHZUxMTGVkc0J6MFZV?oc=5",
+   "date": "2026-10-12T10:07:23.000Z",
+   "source": "Root-Nation.com",
+   "summary": "A New 5-Minute GTA 6 Video Has Appeared Online Root-Nation.com"
+  },
+  {
+   "id": "gn-bxpjc0",
+   "title": "Grand Theft Auto VI leaker threatens to release full story mode",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWVBN0FXbUs1YlZ0M3VYam1DUlloTkhIZHlDeEZTTmsxdGtfc1hBa2l2OVFTVXkyc3l6alc5TzZOejMtOGx1d1AyUHYyQTdWdUF5azUwZjNFOWthYklEZlpQQ3hkbHAzbzFhbGxyXy1HVWNZR18yMjk3OWg5Qk9PMEhEUk5DWmxudklnUVR3dkVxOUg4V3dTeFJXTHpfMUpkRV8xTTlpVEhIQQ?oc=5",
+   "date": "2026-10-12T10:00:19.000Z",
+   "source": "Female First",
+   "summary": "Grand Theft Auto VI leaker threatens to release full story mode Female First"
+  },
+  {
+   "id": "gn-cv07oi",
+   "title": "Morgan Wallen, Lana Del Rey, Bad Bunny To Host ‘Grand Theft Auto VI’ Radio Stations",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazVMV3pKOWxpcmctbHpETWhyQkdOQW1TMGRyYm9hT3M2ZVlhOWhyTVZ5amotaEdia2t4MlVWa3lacW1FSWlfWlExTExTV1huXzN5ZzdKNEpPVzJWQnFfZ2ZYdTlaNUNXajhfUThYckVzejktQVh3NkRBTm1QalA4blBDMHRVSHBVX09BZkFTUmZETWFVREVrbElJRzdjc1Y1ak8yckZWZUZuTFdXbVhMMl9RaHY2Yk0?oc=5",
+   "date": "2026-10-12T10:00:00.000Z",
+   "source": "Maxim",
+   "summary": "Morgan Wallen, Lana Del Rey, Bad Bunny To Host ‘Grand Theft Auto VI’ Radio Stations Maxim"
+  },
+  {
+   "id": "gn-nx2hsb",
+   "title": "No, the GTA 6 Nude Leaks Do Not Confirm Full Nudity in the Real Game",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjRBNThPYkg3Mm9KOTY0elE1dXhjM2llbHk3QkdEYXRMaHc2N0EzdlpWdVU2ZHBkeGZEZUhlN0U1Uks1M3pfaklHcXlENzJEZ3dzVnk2dXRiOERHTl96VVBxTGYwNk1rdXlIYk5xSlBHVW5XVmVDRTgxTFZKRDR4cmY4RVBJNjZjQ2pYWWl5WE9xZHdoYTd6SUNlXzI?oc=5",
+   "date": "2026-10-12T09:45:04.000Z",
+   "source": "GTA BOOM",
+   "summary": "No, the GTA 6 Nude Leaks Do Not Confirm Full Nudity in the Real Game GTA BOOM"
+  },
+  {
+   "id": "gn-1bhjpov",
+   "title": "GTA 6 leaker threatens to drop entire game as 6 new features confirmed in Lucia gameplay",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFI3R3pXYzVWSkE0ZEtXUnBNVmdjRko3VFA2QmY5NGxQejJrUU41cFo4cE45aXVRa3ViaDkzMFl1MEFWZ1FKUnNDOS13VXllSzBGekNaWmtQTDRCeDZFWlBfOE9pYmRqOHhXdVdHQUVJUnBTeElUT0c1U0ZZOGpCZmg2UTZWbUJISVB6QkVUMGJ2OU9OTk9GbV81MWVUWkM3QlE?oc=5",
+   "date": "2026-10-12T08:59:37.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 leaker threatens to drop entire game as 6 new features confirmed in Lucia gameplay GAMINGbible GTA 6 Cyberleek update: Everything leaked so far, what might be next Mashable GTA VI leaks continue with a lengthy (and very nude) gameplay"
+  },
+  {
+   "id": "gn-19dl36j",
+   "title": "GTA 6 Editions Compared: Standard vs Ultimate and Why There's No Deluxe Edition",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFRYci10Q25qRmlGRVpXeEtGbVN3RFY0Z2dDX2ZvT1NzLXpudUdCYTRyenNydVJXSzc3UTB2LVJfZE1PWjZwMU1zTXMxcWxHNElXTm5BakxaQV9ubFVoOEUwaVRpeEhYVjNld1FRZlFlZWpZR1QtdVNQNjczYUliU2NTWXlRS0dUYVBfNF9zeEJDQQ?oc=5",
+   "date": "2026-10-12T08:39:34.000Z",
+   "source": "DLCompare.com",
+   "summary": "GTA 6 Editions Compared: Standard vs Ultimate and Why There's No Deluxe Edition DLCompare.com"
+  },
+  {
+   "id": "gn-kuvgew",
+   "title": "GTA VI Switch 2 Port: Nintendo Names 2 Companies [2026]",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YVnV0QVhNM3JWMkRrVTRMMnFuY0pRRWozemZKLXJRUUNJejNrNDhlRHlJd1ZjQkdFZW5LVFZheHNRdlF5aE5yX0UyTFE5cXVNOVZQSnB0OU4tcHFtX3hQMlJ4NThfVWMxRWp6U21rczA3X29SRVdRNWw4QXI?oc=5",
+   "date": "2026-10-12T08:26:35.000Z",
+   "source": "shattered.io",
+   "summary": "GTA VI Switch 2 Port: Nintendo Names 2 Companies [2026] shattered.io"
+  },
+  {
    "id": "gn-10j7ya",
    "title": "GTA 6 Leaker Says They Will Release a Complete Game Build If Demands Aren't Met",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMnh0WEZ4TmFTQnhBTkNfVGVWWVJmcGpOOTdRSnp1a0RjU1RXWDFMRXdEd0hacFpzMzItelc4OGhjdFVFMkdvSjNldmNKR3VWb3NlUDBxOTIyMXJwMUxIUl9DX2ZvSTl6V3o4djE2V2xZLWtyV3dHTlRVZjBuc3JTbWx3MXUyQ3gwYUVlaVNXRHJ1WERGb3h1QmxiOEhRY3FxYmViMg?oc=5",
@@ -222,6 +606,14 @@
    "date": "2026-10-12T07:47:33.000Z",
    "source": "Asaase Radio",
    "summary": "Pat Thomas’ \"Gye Wani\" makes it to GTA VI official soundtrack Asaase Radio"
+  },
+  {
+   "id": "gn-12c9y1s",
+   "title": "Cyberleek Threatens to Leak Full Playable Build of GTA 6, Releases New 24-Minute Gameplay Clip",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOGZxZENtbnFTNlRSZnVDWFdzamQxRnh5WVJjN2xFN0lpMkl4eTl5R3dKTDVPSkgxZW1ldjNHR0Y2SzlLbWNHZ1dxNGxzNzMwRFlJUV9NcmUyTWhiYmdsWEUxQkk3Nlk5VlpMczNsZE4zLUxuc3VHaEtaeVF3U0M3X0NRZnBIMTBrRlhoUkdyWDFtcjRPZENzVThqXzVMcVljUFp6NGFSUjhGa3FFQ0hYOWM3aFNLSERN0gG-AUFVX3lxTE94b21kalpOVHloOWtnYjc0blpRQ0Fiam1ZREJ5Ri1FMDlHd1c5U0s0QzBOQjk0SjdVUFJqaC1ITnpqckNLRXEzXzlmaG9tSjl4V1JRZnhtTTh1a3R2VkJyNXRYWFVqdHJkcmF6NDVReWRiTk94eklvMkczMy0zN0tYYklUZlBxMGxlb3MtQUI4OGdmVUZDZGVUM3k1dlpncWxKcWEwMW5Fc3JteUd4VjlQZXJCak9Ma01FX2d6cEE?oc=5",
+   "date": "2026-10-12T07:25:39.000Z",
+   "source": "Gadgets 360",
+   "summary": "Cyberleek Threatens to Leak Full Playable Build of GTA 6, Releases New 24-Minute Gameplay Clip Gadgets 360"
   },
   {
    "id": "gn-axoq6t",
@@ -240,12 +632,28 @@
    "summary": "GTA6 Features a Dedicated Writing Team Just for NPC Dialogue Inven Global"
   },
   {
+   "id": "gn-iojd16",
+   "title": "GTA 6 Leaker Demands $30M Meme Coin Market Cap to Release Full Game",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnV5cnVaVkFhUnhWRUJDLV9GS0dqc1NyeWZ6aWVhMUZLaXRSejIzMlpSNkV2RlRhYmlJZzBrWDJNelhrdWZkTnJ6eVpfXzFDMk9Sb0Exb3ZwZHRodVI0NnNrdTN1ODh2VlMwV1VaRHlJVDBmNWswNGdpR1BGNFBuZWVRT3FQZnpPbjJzMmc0VHBRMUg0VnduOGhyamIwOU5lbWpQc19wSFNIVEEtUTJITWZLRGhianNWc3fSAb8BQVVfeXFMTVNscndmWk93WGgyQjI2V3lneUVZMm1NUm9BbXlyNm0zVDhmZlIyQjhuQlhMMTQ3dTVNb3YySnF6M2ctVTJldENVR0hGaUo2NnJYRnB1c1h5STlGYTZzbUk4Nm5DWWlPWksxaWwwNTUxN1NuRk05a1NMZi1GNkN3a3hYck1BOFRTSzV5UzBiUnhDTWRSQVVEQ000SU9Mclhwd3N4aUl2OGx6QVlLSzdaSnRnRm1JZUR2cDE1Um5uYXc?oc=5",
+   "date": "2026-10-12T06:42:51.000Z",
+   "source": "Security Affairs",
+   "summary": "GTA 6 Leaker Demands $30M Meme Coin Market Cap to Release Full Game Security Affairs"
+  },
+  {
+   "id": "gn-gep3d5",
+   "title": "You Can Now Listen To New Radio Station Previews From Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHY5bk1HWXdZMnBWTnVOYnZFX3BTMV9ERjI5a1RNOXltUHJWcXU0dWJ5ZG1YUGJlaE41cGw2WUZ5RnlHX3VwalJrbmx6N1RvQWRxWTBrbktXb1ZyV19DMjlJYTZYYWpTc3gzd29lZGZJVDhVckJHMmxIeHNVa2FzYWZVYjcyb3hqb1I1UmQxeUtLdkYtYjQzeEkzOGFnLUJSTFNWWWNoOUhVNEE?oc=5",
+   "date": "2026-10-12T06:10:56.000Z",
+   "source": "THE MAGIC RAIN",
+   "summary": "You Can Now Listen To New Radio Station Previews From Grand Theft Auto VI THE MAGIC RAIN"
+  },
+  {
    "id": "gn-1piwng7",
-   "title": "GTA 6 Ads to Expand Across Miami on October 15",
+   "title": "Miami Clears GTA 6 Branding for Beach Chairs and Downtown Banners",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSl9YVy12WE0yRGpYRTRlWnNRc203Tl84dl9xS0dkWjhvNzlpRUQ2d21WNXJtckhNRGs1LXlJMV9Tel9XNTNnQ2pUa1lkUFUyQkk0NVdIN3AzRDg0M0JWOHNMdWJfQjQwM09mTGlyXzZCZk1uUjhmUzlsOWw1YnZmOE5LTUp5bnZOVDBQZm1NVXZWNERBRVo0eXdZY2xFZw?oc=5",
    "date": "2026-10-12T05:50:04.000Z",
    "source": "GTA BOOM",
-   "summary": "GTA 6 Ads to Expand Across Miami on October 15 GTA BOOM"
+   "summary": "Miami Clears GTA 6 Branding for Beach Chairs and Downtown Banners GTA BOOM"
   },
   {
    "id": "gn-sp61gd",
@@ -275,420 +683,132 @@
    "id": "gn-bdudqy",
    "title": "GTA 6 Leak: CYBERLEEK Ties Build to $30M Crypto Bet",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwWDhBNUhSRnV0UWNKWFNWeWlaaXFfMzdMR25ucUxicmVNVllJR3VreG43eVZ0VGY5b0RiWWFrYmJEQlc3MTlnd1ctU2FPYUd4V3BFdGRGcnRpZV9oWG92QXRjYTZ2bkxqUnBmQUdhUDlWd0U?oc=5",
-   "date": "2026-10-12T03:17:44.000Z",
+   "date": "2026-10-12T04:21:05.000Z",
    "source": "shattered.io",
    "summary": "GTA 6 Leak: CYBERLEEK Ties Build to $30M Crypto Bet shattered.io"
-  },
-  {
-   "id": "gn-1ipr6n6",
-   "title": "‘GTA 6’ introduces radio, podcast listening outside of cars",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEF1VlBXeS1qY3pfeHp3cm53ODZ6M0taN3BjRk9HLVFyNl9UVFVsWUMxWXcxcDhoM28xUVBGTDFCTTFJUDczX0dhT2M2OXAxVXJ2eWdvU193SDBheVpfQmc0c2draEdGbEJUejk5X3Jwa3lQeG84ekNYNDVESEk0ZDhPOUthN1BJSTFIOHhWREdOMnJ5d2s1VzRMNEwzeEhiM1NQcWIzazZVWnlEY2l2eVd3?oc=5",
-   "date": "2026-10-12T02:41:00.000Z",
-   "source": "Top Gear Philippines",
-   "summary": "‘GTA 6’ introduces radio, podcast listening outside of cars Top Gear Philippines"
-  },
-  {
-   "id": "gn-rozru4",
-   "title": "Games Inbox: Will there be a new GTA 6 trailer before launch?",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMVJYLWRGY3c2aHZ4bjZXbkpaM2xEdlRwMHFqTURnblp2SzNjSy05QTU0dThJdjM4Y0dRVU1ZQVNnNUZvQ0xieThBa1FHdWFWTFRXd1liNFlaQmVLV0IxdHhhUVpwMXpPNXcxUmV6eFRjNklTUTdiVGVHWTlhQm1QTDI4VWI3OVE3YU5hd9IBkgFBVV95cUxOVzdsZl96QnR6STA5bGU2NzRFM3J1WXVjSVk5R3lvUzh4UWxVZFhncUlEMkxXdVY1VUN5RXh4d2tzek94ZDZKZXZaVmNaeUh2M2hUWGZ5aGkwX3ZnMXZEdlYtSExlWTNRS0NzazlUX1FVa1lWcnhuYUlWSVY3b1EwUk5PTzZnMWRJbzhOdDVPZ2dOZw?oc=5",
-   "date": "2026-10-12T00:10:00.000Z",
-   "source": "Metro.co.uk",
-   "summary": "Games Inbox: Will there be a new GTA 6 trailer before launch? Metro.co.uk"
-  },
-  {
-   "id": "gn-1qzkswt",
-   "title": "What Happens if You Just Ask Rockstar for a GTA 6 Poster?",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcThLZ0hWTFltcjFWR1lKUjJ1OG9LQW5pNjd0MUpqZXJKWElTajVQM1ktQ0V2VGtZaDdyOXZhYkh4Mld1QklWQzdFS09vbDQ3RVlORUtIY3hKQ2NGYmtLRDV6NzQ3MWM1M1paYmdmeFBncVlOQUl5WDVEM1ViYmpZd1RPajBhcHcwQmlvVnZBeGhEcHU5S1JQVndqNA?oc=5",
-   "date": "2026-10-11T23:32:54.000Z",
-   "source": "GTA BOOM",
-   "summary": "What Happens if You Just Ask Rockstar for a GTA 6 Poster? GTA BOOM"
-  },
-  {
-   "id": "gn-xilvmu",
-   "title": "GTA 6 Leaker Turns Nude Lucia Into A $30 Million Threat",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HOVBCeVVqd0pqZEtzV1owVW1lT2pVdE5KOFFLZEgtVElCcnNfUjVHS05CZGs5ZV9NbC0xbXBKZlVyYWMtclRfWVVqem5QVW9DTk9Lb3NfUEVoQQ?oc=5",
-   "date": "2026-10-11T23:03:35.000Z",
-   "source": "HotCars",
-   "summary": "GTA 6 Leaker Turns Nude Lucia Into A $30 Million Threat HotCars"
-  },
-  {
-   "id": "gn-1po0gx8",
-   "title": "Cyberleek’s 24-Min GTA 6 Leak Puts Focus on Lucia [2026]",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iN1NmUVd4UWs4dHh4eG45RllvNXBaR1VBTi1pLUZDY1U2RmhVLXNlbVFwUGNQNGh3TTBWbm5wVGhTMWpEYnlxMUozOXNZWTNZcnRSaWtqNTNZbUJvbjZGSjVZSW5IVGVmZXQ4RThaSmducl9oRnc?oc=5",
-   "date": "2026-10-11T21:50:28.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "Cyberleek’s 24-Min GTA 6 Leak Puts Focus on Lucia [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-11utn1u",
-   "title": "GTA 6 Leaker Posts Grainy Footage Of Lucia Skydiving Naked To Sell Crypto",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSDN2QlZsSUozYkpfT19oUXB3VjZnX2hOOXhoSzhvYWlBVGlvU3JVLW5vQlNHdUI5ck5ndjVKZGxVVUdCcGl5Uy1sSU85blZtajAxOUd3WG05U2ExWDktVklVX2JjY0c1ZzFtVUVJV05rcHVtLWxWeDVNbEVVbDYyTW93ZzJHRnNtSzZUT2J3?oc=5",
-   "date": "2026-10-11T21:30:59.000Z",
-   "source": "Kotaku",
-   "summary": "GTA 6 Leaker Posts Grainy Footage Of Lucia Skydiving Naked To Sell Crypto Kotaku"
-  },
-  {
-   "id": "gn-8kwjif",
-   "title": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMExydEF4VkgxQ1RXZVA4b1F6MVQ3UjlrUnlJeklDcEkybnFzdUVzMmFPeDB6S1dSWlZKRmpFczNNNVI0NUM2VmNwd0RMOW9XX25PNlNFU0ZZaU1QU1FGT2xseHFDbVVNeXkxc256eHBMYU5tUkxudE1yNlprQlRvUWlDRlphT0lhRDQtOU01VU9FOHVPc1lwZ1VZZ0J0ZFVoRzNFUjdOc3NzcWk2aTBCQVR3ZElHTVl5bEtLZ0pEUWs0ZTJJYmRn?oc=5",
-   "date": "2026-10-11T21:15:36.000Z",
-   "source": "TradingView",
-   "summary": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M TradingView"
-  },
-  {
-   "id": "gn-e847xi",
-   "title": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M (TTWO:NASDAQ)",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnpzWS1uRFlPRDNqT3Y5YjV4al9oRXJxQ2ptS0QzTEpJWXVnQjhWdTJpeWpHOU1sSGRJMVc4WWxBSUFjOHA3aTMtcGJqQVVXdGpLUk9fa2pZa1pzdXBvTlhKVkFFNk9fUGNENEwtVmJ1aTZFS0s2WGwtMkdYYVdBTUI1cnJwdUNiTV9PZkxpc0tyRmdQbGpabi05V0dlazNMc1lFY3RB?oc=5",
-   "date": "2026-10-11T21:15:36.000Z",
-   "source": "Seeking Alpha",
-   "summary": "Cyberleek memecoin jumps as GTA 6 leaker taunts Take-Two over $30M (TTWO:NASDAQ) Seeking Alpha"
-  },
-  {
-   "id": "gn-18f56hp",
-   "title": "Elon Musk Grok AI Predicts GTA 6 Leaker’s Meme Coin CYBERLEEK to Hit $2",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2xqbHdCVFdkc1JxMTJ0cFdyb0NrUHhka3lFaC1GYU5ZNVhNMG5SRHZwc2R4c3FjbnFsdDdseGdZaWlyQWJvT25zZnJKcDYzZTRGVnByRVFlbEMzQTJsZnNhcnNlMlZfajlVV1RSc250Z3psemZhVHB6WlliRkZIVmJjV3c5dmJrZE5UMktJM1JCT2prOHVPOFNBRlE5Q2J4cmtDR3MtSjE?oc=5",
-   "date": "2026-10-11T20:37:30.000Z",
-   "source": "99Bitcoins",
-   "summary": "Elon Musk Grok AI Predicts GTA 6 Leaker’s Meme Coin CYBERLEEK to Hit $2 99Bitcoins"
-  },
-  {
-   "id": "gn-1awqefs",
-   "title": "GTA 6's Leaked Naked Lucia May Not Be in The Game",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT3Z1SVlSRzFORmNwQ00tM3U2d0htYm1UWnZrY2oyT0RHT2QydWt1NDg5c0U2TF9DMUN2YS1ObUw5UGZLdjZWWktwQVVHaGl6ZVAwenlBRG1acE5XZzZTdHBVamxxR1J3ZmZYTzBwQ25XYlhsZTFtdk0tT053enpqLXA0bm93Tk9CZ3c?oc=5",
-   "date": "2026-10-11T20:09:55.000Z",
-   "source": "OpenCritic",
-   "summary": "GTA 6's Leaked Naked Lucia May Not Be in The Game OpenCritic"
-  },
-  {
-   "id": "gn-phstlg",
-   "title": "Rockstar Games Announces GTA 6 Feature No Grand Theft Auto or Red Dead Game Has Ever Had",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNTk5a29LOXNYdmQ2dmVNNjNnVk15aG42dlI2eFN6eXZEOC0wb1pGMnlQUnNyZUF6UEpHMUU3QmdHRTNKbS14eWoyMjQ5WmZfbFBxc0FWelpDbk9ZZVJ4V2ZqY1g5QWNlMHFSLThrOS1FX1hERGRfS0tHdTVMOURSSmVfWnItQTIyRm9yOHJjZEk5RXY1cFhBWTlzcllBVlhIWXhRM3o0NVBEUQ?oc=5",
-   "date": "2026-10-11T20:05:57.000Z",
-   "source": "ComicBook.com",
-   "summary": "Rockstar Games Announces GTA 6 Feature No Grand Theft Auto or Red Dead Game Has Ever Had ComicBook.com"
-  },
-  {
-   "id": "gn-45mda8",
-   "title": "Why GTA 6 Can Show Nudity When Indie Games Get Delisted",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUZ3bHRURFg5YnRGMGhOS2lKbGhha0dwQWtJbnZhSl92ZlBRNjQ5bGZ4Njk5OHNXQWtWSXhtbU1oVUhndzRGZFF4UnIzZVBwd2Jxc2laLWtLdk5CZmIxdm1FMlVqMExjQUZWWHNpUDdoT3pPTDZkeElWTUhEQjE1dA?oc=5",
-   "date": "2026-10-11T19:27:47.000Z",
-   "source": "eGamers.io",
-   "summary": "Why GTA 6 Can Show Nudity When Indie Games Get Delisted eGamers.io"
-  },
-  {
-   "id": "gn-1nb3jzz",
-   "title": "Australian Government Helps Workers Take Time Off for GTA 6 Launch",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTjNQdFBacVgtamZ6a2dxakNnSkV5dkdORTM0bE9Ka3ZRcDliVFJvOTNfUVhoRVdDS3dUbFZrTjZCTDB0VlQ1cS0ySGtKc016OUNyQzRUVlVma2k4SFdOM09VRzVaUG5kN0FaNU1qcmJ4ZFQ4NV9DSURadE9zdEtFQVc5QUI1OE1qLVphMzJWc1dIRUlzV0dqMVNZcXh5a2JRVlE?oc=5",
-   "date": "2026-10-11T19:14:55.000Z",
-   "source": "OpenCritic",
-   "summary": "Australian Government Helps Workers Take Time Off for GTA 6 Launch OpenCritic"
-  },
-  {
-   "id": "gn-1jncaxa",
-   "title": "GTA 6 leaker Cyberleek threatens to leak full playable build if Take-Two doesn't bring back physical discs",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTW0ycTlLZFFjZEc1bzNWSFA5S1o2VTdpR0RPVzdnTWlCeEJfenc4eUpzQllUZG1wQnltcm1fZE52XzR2ZE1iS2MydGFqSFpLMEVZQy1SaGZOVm5RVkxoM1A4TWlvWmNhcmNoR1A2MlJmUDRHeFA3aUJMXzFwOHhKVlBCa05Vcmgxek9GblhGYTNRRUt4Mi1paHdBeEdwYUtQekpvTDMzUlAtdnBjTjFzbFhLRFlucC14d21DZW9yS2VJd1k3Szd5R01wNElsT0JxaHpqYnYtLWVKTHgxalk5N184R2hySm1Ta3c?oc=5",
-   "date": "2026-10-11T18:57:14.000Z",
-   "source": "TweakTown",
-   "summary": "GTA 6 leaker Cyberleek threatens to leak full playable build if Take-Two doesn't bring back physical discs TweakTown"
-  },
-  {
-   "id": "gn-1p928sg",
-   "title": "Can You Take Leave on the GTA 6 Release Date? Australian Labor Authority Weighs In with Answers",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObi1mOGhsemZ2N0RZc1pKajJVX3NxbWEzSW9wSHAxSVdBNUw5Nl93cGpGLTdlTEM0TXBEbFZvNG9tQ1ktOHppZEZWbU51Z3FubVZBQnQ4bHpGbWUySjZXQTFIT0hKOFhTbWpseUJZem11VzR2WlNkYUE0Ny1MUEQ3aTdYeHlETlhlVU1Pb250YUhxQlBvM3pINFNkYjBINUVJa0plYnZoRWh6R0xFdjFzXzZTRFVlQU53ZEpPMW5iZmdWYkFfRDRRTWhqSHYyb09hbVQ0?oc=5",
-   "date": "2026-10-11T18:56:43.000Z",
-   "source": "Inven Global",
-   "summary": "Can You Take Leave on the GTA 6 Release Date? Australian Labor Authority Weighs In with Answers Inven Global"
-  },
-  {
-   "id": "gn-adjxev",
-   "title": "Will GTA VI Come to Switch 2? Nintendo Finally Addresses the Possibility",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUd4ZC1Lc1FfVThBRGFaRFFWYllsQlVPSFBsZGRmcXpCLTlnTzBpVkJDNXNLQ1NVOE9pYi1RWGRVN3dRNlFtXzB0UHg2aHJiVExOaFpRTkZRcXppaEd5TW9fNE9sODROUkZpa0d5dl9vY0NxSi0wRVNoRWhJdEU2SFVKYlR5UnVuQ0FTbzI2aDdJUmdQQ3Q5VFBYVHNVS1dFQXllaTV5QQ?oc=5",
-   "date": "2026-10-11T18:56:00.000Z",
-   "source": "LevelUp",
-   "summary": "Will GTA VI Come to Switch 2? Nintendo Finally Addresses the Possibility LevelUp"
-  },
-  {
-   "id": "gn-137gyvn",
-   "title": "Turn up the radio: 6 stations in 'GTA 6' that bring Leonida to life",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZGdqdTY2MkJTVkJJYUhkQ3hlM25CQ1dqLS1iLXVjaVVtMU1PRkp0aFplZnkxUW1GdllaR21wd1pNMkpBdEs4TXN1UDBkd3hrWGEyR0hVSklrck5uTWxQVnc1NEhBWnJBWHN2WmZBNE1xV3JaZ2pQZktwWnd1ZHl0RmRrSHo5ZHctRjFqcUNCMFhNRDlrOGdoOW5WVmYwYXhzOFkxUm5Bamp6RVQ0S1ItWXFuamMySFh20gG-AUFVX3lxTE9heFV0ckVhNmFra0l3V0lNTUpPZndhZVVGSHdlNUNYd1QwWE5wY2ZibWVIT3dncndsOElCc2tFdE5MOXNBQVBORzBjUEVOU0xUS2Zzc2x6b3hsSTdPR040NjBGUGk5ZFdJTGlXUDBqa0pMbGhvR3JqYWRDMmJVNWhDWGFLVG1rSXd4c0ppcUdmOER0dVQ3b1E5LWtPZWJyVm1wWUF4ZHJpejNvai1YTlc3Xy1Fc195dXJkNXVqb0E?oc=5",
-   "date": "2026-10-11T18:49:21.000Z",
-   "source": "The Week",
-   "summary": "Turn up the radio: 6 stations in 'GTA 6' that bring Leonida to life The Week"
-  },
-  {
-   "id": "gn-1t8v5vq",
-   "title": "GTA 6 Hacker Says Full Game Build Will Go Public If Its Crypto Token Reaches $30M Market Cap",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlN3SGQ5WUxlazNya21aTVBqM2tFMWN5a1l5T0wwOW9RMmhsb1RmWE1YeF9HMjA3bkpwN1hkbTMzbk1jLTl4ekhic3hTb2F1UGd6dkpqUFJrS043SDNXRzFfOTRKWmNhckV4YXd4R2s2b2ZabXI4QVZjS0lQejRteHZBQnVselFydlJ3TWFYLU5VUHdUQzU3c0tiWWFvTlY1NWtjNFFtcmswWF9nSW5Ecw?oc=5",
-   "date": "2026-10-11T18:27:46.000Z",
-   "source": "eGamers.io",
-   "summary": "GTA 6 Hacker Says Full Game Build Will Go Public If Its Crypto Token Reaches $30M Market Cap eGamers.io"
-  },
-  {
-   "id": "gn-7jnuje",
-   "title": "GTA 6 on Switch 2 is “A Conversation For Take-Two and Rockstar,” Says Nintendo",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUDJKZjM0OTkxMHNMakxWc3lHUVo2cTQ4TGpzVVhDVkN3MldsM3U5OGg2NHBIcWFCRWRrQUZGc0cySjFFSVJHaS1UTU13dzIwS2NnWFJ6aU56dGFzYUpnZWQyaFFMTWJETnBBMC1ka2VqMnNHX19fVXVHR2p2a2h1dHg1QUo1YU9oZDdYQTRVbGpNNTJUdnBqempIa1lfWkU?oc=5",
-   "date": "2026-10-11T18:25:59.000Z",
-   "source": "GamingBolt",
-   "summary": "GTA 6 on Switch 2 is “A Conversation For Take-Two and Rockstar,” Says Nintendo GamingBolt"
-  },
-  {
-   "id": "gn-12nljwb",
-   "title": "I Turned Off Friction, Help! - Modding GTA 5 Into GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmlvXzFMc2x5WUU0aVJoUWRELTlUb1BNWHdjOHV0dEt5ZEZsTUtuLVNCY19lTUVrRzZjTXdqQzE1c1FQUm1yeWVZQWk2c1VQVzMtV0JLLWN5X0Y4RUtCUjJZajlCS3hzXy1OSEdTX2VZTWtkVkJ1S09Tc0pZcTRrLS1GSQ?oc=5",
-   "date": "2026-10-11T18:10:00.000Z",
-   "source": "Yahoo Tech",
-   "summary": "I Turned Off Friction, Help! - Modding GTA 5 Into GTA 6 Yahoo Tech"
-  },
-  {
-   "id": "gn-1h2m8pm",
-   "title": "How to Claim the Free GTA+ Month With Your GTA 6 Digital Purchase",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVGdjUVhqQTBPUXRydDJHTy1Lc0JTc1MwNWd5aTR5ZlJlem1TdFJaNVFYb3BwU080T0tLYVNNcEprWjhkTDJ1aEJEbF9YQVU2c0JmZUQ5RTJ5TlZ1RWFKaFRqYXFCbFpBZDhSUDAwWXhuTjVaMmV6SUZMTkdlSWk4VDZqcWFndHdqMW1YdGNPUQ?oc=5",
-   "date": "2026-10-11T17:15:59.000Z",
-   "source": "GTA BOOM",
-   "summary": "How to Claim the Free GTA+ Month With Your GTA 6 Digital Purchase GTA BOOM"
-  },
-  {
-   "id": "gn-1l4tqmv",
-   "title": "Cardi B Shares 'Don't Chart' From Grand Theft Auto VI: The Album",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEZrQTNnT2RFbmFURENRMzBsbFBiS1BiRVhuRkk4R3U5V1N3SzRUMmNrb2VLMk5wZUZRZzY3bWswbHJuOXllLUxwMmd3VGtzMF9QdGMzOFREWS1zempVSmdhakRXd3M0MXJWSTFOWVBpdEtjMEZwYXBrTnU2V0ItVExTR0ZtZnZ1LUI4YksyS21uWUNQaHFRenNKbXg2cmtnclltdQ?oc=5",
-   "date": "2026-10-11T16:56:49.000Z",
-   "source": "antiMusic",
-   "summary": "Cardi B Shares 'Don't Chart' From Grand Theft Auto VI: The Album antiMusic"
-  },
-  {
-   "id": "gn-hh1rfo",
-   "title": "Rockstar Nemesis Cyberleek Returns With Fresh GTA 6 Footage",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUNvaWIzZU1BX1ZPUzcwVU5kNWFwcUw4QkNVc3dENHpyN05Kb2JsMVZ6eDBEVXQ3UnVNbXJTMF9EcWgzQ0xWZ3RkSW1CNk5WdUdaMzZOUERnckpxeTd3QnV1Yjk5LUJibVkzUVVjZjg2ZXl4cU9mQzVWSTJ6UVdXSDJMZUtWbFJ1azZLTkpkem5PQQ?oc=5",
-   "date": "2026-10-11T16:30:00.000Z",
-   "source": "Cryptonews",
-   "summary": "Rockstar Nemesis Cyberleek Returns With Fresh GTA 6 Footage Cryptonews"
-  },
-  {
-   "id": "gn-zkkdg2",
-   "title": "Cyberleek threatens full GTA 6 build leak unless Take-Two apologizes and his $30 million crypto memecoin goal is met — leaker demands physical release while pumping Solana memecoin to $30M",
-   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPaTEwRDFIS01yNFkzR3NGS0Z4Vk1lSVE4bUt3V2lvbDlua2tuZmpzZFBBejN1dTlDY2hxVXhCbW5SUDdHam9zV2x5VW5nb2tzZ2tSUV9iSVM4Y2VyVXNXSlNZVXcxLS03d0I1OGhSRVBlWnNnYzNpSU1wQTV6WnB6YWhxeEtlNUJLWmJlQ1FYSWRQN0dETXM3OEJOeUJvU3BKMzk5dFBwazl4Ym5pb3Q5OXVBR3JvbTdSMXJCb1pGRE8xanpISmZ2ZUZoWF9ybERiVElzWTdFVnFhVURtTV9TYkU5WXQ4aDRMblNvSWh5YWZjX3p6UHJYdTh5dVJOMFFhQ0pPLUZobF9zZzJFZE00SEUtS2tyR1RQVmM2NktYdkZkZFZUNEFwOUZYaW9GWTdIVEEyLUFHS09PQktiMkQ5dUdtcXRyWjlLZ2pHUjlKVFVyT2tO?oc=5",
-   "date": "2026-10-11T16:10:00.000Z",
-   "source": "Tom's Hardware",
-   "summary": "Cyberleek threatens full GTA 6 build leak unless Take-Two apologizes and his $30 million crypto memecoin goal is met — leaker demands physical release while pumping Solana memecoin to $30M Tom's Hardware"
-  },
-  {
-   "id": "gn-1cwql3l",
-   "title": "Rockstar Games showcased impressive ray tracing work in Grand Theft Auto VI.",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaUNoVzJveXE5ZThzSzllUklnQ0FteTlrRkhjM3ZEWEVDcEFwYlhpWi02engwWUh4d3dUSEQtejFPdUNBV1U3cENhWFJQbmFieUtFeUp4eC03emotN3NXOWVtc0RHb2NQTFB0a1pjbkhrUTB3bEYxelpmOW5tZkU4MEZPaldlZVoyMVN2ZmxoN3RNZGpuR3hlSlMteU5wd2dnS3JCXzY5QXpWSG9kTnctb05VdU5raU1KNWxmNXZBNVhCQQ?oc=5",
-   "date": "2026-10-11T15:08:02.000Z",
-   "source": "GameGPU",
-   "summary": "Rockstar Games showcased impressive ray tracing work in Grand Theft Auto VI. GameGPU"
-  },
-  {
-   "id": "gn-xblau9",
-   "title": "Solana Meme Coin Tied To GTA 6 Leaker Jumps After Threat To Release Full Game Build",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV3JNMFpDam9BSmh5azU2azJjZVplZW5nMDVJQ2NUbFNCWlJHT05oZU5Xc2RCeXRMakV5ODBNcHY3U0dKMzZKTGhuTU9jT0I3aFk5OEZBZENlRk1fUFFXdGNlWF9vTXBLdjRROWVfLWotWGpBWkVwUXBldjcyMTJCcXNUZjc5ZlVrdE9nVTJKWmhtSU8x?oc=5",
-   "date": "2026-10-11T15:04:54.000Z",
-   "source": "Yahoo Finance",
-   "summary": "Solana Meme Coin Tied To GTA 6 Leaker Jumps After Threat To Release Full Game Build Yahoo Finance"
-  },
-  {
-   "id": "gn-834pj2",
-   "title": "Cyberleek’s New GTA 6 Leak: Naked Lucia, $15K ATM [2026]",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGgzRWl0Z19OV1JMT21vZzc3VmlpT0hsUlVBWDVzcmVVOTR6SnRtcVRseTNoeUYwQVNtd1VITnByRmhaTnZSczRQcF9lSktCcm9jU25fTFczVThfTFVKWklCeUNTWWdOeklmVDdOaUtGNmo1bVRpN19DdGNmdW1LNzBBcw?oc=5",
-   "date": "2026-10-11T15:02:25.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "Cyberleek’s New GTA 6 Leak: Naked Lucia, $15K ATM [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-5gjnft",
-   "title": "We're In The Middle Of A PS5 Pro Shortage And GTA 6 Will Only Make It Worse",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTmlYZkw0cTJQclVZSF8tdEZFRk12cXExRUU0dDlPWEowTFozZ1ZOVmVwOElWNzFhNk8wY0FEekkwbEdQaDdSeVg5UjNhZ1hFYWh4RWU3Z0ZNcGpJRW01eUI5dTlqb3dRLUZvSGtYSm4wbE84a2dQWkhFbHFqMVktQTJvZDFpNnB4M0E?oc=5",
-   "date": "2026-10-11T14:45:00.000Z",
-   "source": "Engadget",
-   "summary": "We're In The Middle Of A PS5 Pro Shortage And GTA 6 Will Only Make It Worse Engadget"
-  },
-  {
-   "id": "gn-x1ksyx",
-   "title": "Rockstar has a whole team of GTA 6 writers dedicated to pedestrian dialogue: \"There are no shortcuts when it comes to building a world like this\"",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNcGZOZzdReHRmZ01zUm5QLTZOWVZVak0yR2F3ODlmZWZzYV81VnRkNF9pNnhRY2RDZ1BuUnNhbk00TUZ5UkJ5MWhqM0Z4Y1otTjAzWVRUN1ZFUk1uc2lTUVJwbjFTVVB2LThtRlBzYnV6aHVEWlNiMW1WOWEtbVNHQnhteFdDMnhsY0VWdXlCWEM2bEJudGZEZG5xZUR6S1U2eXIyX1c3d2JtQS1Mb0Z2UlFKMzg2VkNPX21OczNpbUl0c3lEdDhXNEpJNkhTUjB2bTQ3YmMyOFZpdXl0Nkgtd3F2NEpwTk5jZy1YcndZNGExMTlZQk1oWTluWm1Ea3dzVG1odzFTWVRPbE5odGJ0elg1Tjh5SkltUS1nZTNR?oc=5",
-   "date": "2026-10-11T14:36:27.000Z",
-   "source": "GamesRadar+",
-   "summary": "Rockstar has a whole team of GTA 6 writers dedicated to pedestrian dialogue: \"There are no shortcuts when it comes to building a world like this\" GamesRadar+"
-  },
-  {
-   "id": "gn-fnmj2o",
-   "title": "How GTA 5 Took Over the World",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTV9NYlZpS3pjZzRQekdONmliYlA4aUFsN2FBb01tcVZNZjVGVGxvY19ocUR4MWJRd1ZtQ2lhcWVNNS1WcmZuMkJhb2JZdHZUV2hmR2p0aHhZVkFZam16QzRSd0c4NjNpWllXZG82a0I4ZEdyN09xcVF1WXVYVE5VbmRiS0dBVlZhZGtpUXdFM09zRzFu?oc=5",
-   "date": "2026-10-11T14:30:00.000Z",
-   "source": "IGN Southeast Asia",
-   "summary": "How GTA 5 Took Over the World IGN Southeast Asia"
-  },
-  {
-   "id": "gn-f0u23h",
-   "title": "Where to Buy GTA 6 Cheapest: Pre-order Deals Compared",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaTZPeU5fT1JMSTdBQVZJZTFXOE13TXNPNTZNS2NzRDRBQmFMRHFmbDJEclN5V1Y5QzZhZzYtMjhpaWhFOGpYQkdkMXA1SEN3UXFMTGZwa3g3bkRYWmpsdURta2drQjlDN24tLWtWazVteEdHeUVyUDlpcENxaU5vM0ctOTF1bEprOWJkVElPVk84blNH?oc=5",
-   "date": "2026-10-11T14:30:00.000Z",
-   "source": "DLCompare.com",
-   "summary": "Where to Buy GTA 6 Cheapest: Pre-order Deals Compared DLCompare.com"
-  },
-  {
-   "id": "gn-1lmbzdm",
-   "title": "How GTA 5 Took Over the World",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNHh2aW1ybXlRTHpBZ3NKZldKY2ZRZzlhaEF3NGRTeWptajJvcWdDb3QxQngtRHlGMU1sN2hoT3VSVXRFRlBvQVhmOHlUZER0dWtTR2g1MFhnQmkyZmdOYWZnU1pNU2U1Z0pKYkdCYmxUdXpRMlBFVV9KOVg5bHM1Uw?oc=5",
-   "date": "2026-10-11T14:30:00.000Z",
-   "source": "IGN India",
-   "summary": "How GTA 5 Took Over the World IGN India"
-  },
-  {
-   "id": "gn-iscoy",
-   "title": "'GTA 6' Leaker Posts Nude Lucia Video As Threat To Release Full Game Early Looms",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUU2ai14cGliOUdvRWhMd2Jma3lZN0JyemZMWXI5RkZOSVViYWp2SVZOMWxYSmQ4U3JQQ0pOTklDc2hUSkVoNUpMaGxhUTNKam11QjAyamc5djhxU0Q5UlNfN0dRa3kzTUJRZWU0RjNQemdfUW12T0dmUFJOR25IblIwbzBldnE1bWlkZFhEREtBd3J5dlZkeGhR?oc=5",
-   "date": "2026-10-11T13:27:56.000Z",
-   "source": "Polygon.com",
-   "summary": "'GTA 6' Leaker Posts Nude Lucia Video As Threat To Release Full Game Early Looms Polygon.com"
-  },
-  {
-   "id": "gn-1g4ej1q",
-   "title": "GTA 6 Leaker Threatens To Release Full Game Build Before November Launch",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeVptcUEyMnhIOU0xT3ZkRDQ0RnBUdFhVMmlwRUppdmlvZkNxZUxLUnNsX3BlalN0RmdMVHhuMnpPNHFaeXVudzUta3hhcmo5dUZLN0x0RTJ2RmZkTHpuNW1DNGlxX3BXRGQ1LVdGWmRwNEpwTDQ1eGU4dDZPUkRuTEdaYlBwQ3hIMU4w?oc=5",
-   "date": "2026-10-11T13:26:18.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA 6 Leaker Threatens To Release Full Game Build Before November Launch Polygon.com"
-  },
-  {
-   "id": "gn-1d5c5qp",
-   "title": "GTA 6 Leaks: Rockstar Stays Silent 3 Days Straight [2026]",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfSklSUE5oSmxGUFNiUl9rSVprdm1uZ3FJVGYtNFpSLWo5Qk03NlRKSlpVMnU5Y1pjOXlsRjFhdU1EaEVrRk40MTgtYnhra0UwMzlZaG5yQ253M184ZUpRN2w4UDdoR292Y3pjUVhB?oc=5",
-   "date": "2026-10-11T13:21:03.000Z",
-   "source": "shattered.io",
-   "summary": "GTA 6 Leaks: Rockstar Stays Silent 3 Days Straight [2026] shattered.io"
-  },
-  {
-   "id": "gn-17krdrj",
-   "title": "GTA 6 Leaker Guns For Take-Two With Disc And Apology Ultimatum",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPanJxSkRsZDdYQWZNUGhKNmxlb2t3QV9nMS1hUEh5dWIyaXZIYWtPV1M5MlJVVS1nRDdxaXdjSndjenZrcHgxdUpxRE9UVkZlQ2dpNDFjeGcybVVjTmczMGdBYlRJNWliTXg2TG0yTzdOY1pRUGxuNjFzSnNpN0t0UU5BeTA?oc=5",
-   "date": "2026-10-11T13:05:00.000Z",
-   "source": "HotHardware",
-   "summary": "GTA 6 Leaker Guns For Take-Two With Disc And Apology Ultimatum HotHardware"
-  },
-  {
-   "id": "gn-hysonu",
-   "title": "GTA 6 gets a pass for nudity that indies don’t — for one weird reason",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JbWZxZVQ0WmFObTVBNy1zSEpMOTlSanBJbTl5bU0tUHlKOTRWdU9mNUtSeUd2ZncxOENybXZlakQzXzlQTDd5LTh6cjQ3UDVMQTVOdUo1aUVMS1AzSklwM3h1VTFKcWR1X1E?oc=5",
-   "date": "2026-10-11T13:00:16.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA 6 gets a pass for nudity that indies don’t — for one weird reason Polygon.com"
-  },
-  {
-   "id": "gn-144vx1e",
-   "title": "GTA 6 Leaker Threatens to Release the Full Story Mode if Its Memecoin Hits $30 Million",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUVxUExKREVDa3ptbmhIUnJ2TWZwQU9tUEdJQlZlYTI1eVZ1dDZvRkNqdmNnODRVM3FFWTZwd3F0UWtwLW9xSXlucmlLSExDT1oyVEo5Sm4wY2F0ZE9XUnlwOFpYMDFTUVVuMHBCUVJwY1JCb1h5QUo4TUR0R3hiNHU1Q0tXOXdJLTd1NA?oc=5",
-   "date": "2026-10-11T12:41:13.000Z",
-   "source": "Martin Cid Magazine",
-   "summary": "GTA 6 Leaker Threatens to Release the Full Story Mode if Its Memecoin Hits $30 Million Martin Cid Magazine"
-  },
-  {
-   "id": "gn-8zy11t",
-   "title": "A new GTA 6 leak shows Lucia robbing an ATM and parachuting off a roof - naked",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVzlqMlBLekRPeGUzU3VKMGh5SEJUcGRCdHFKTUY3QVpqRTJpeWlERmZ4S0RTYWEtNTFhM201SlRLNWJuYlBVdzJLV2FVb2hPczlpczhkejVZTGNrc2RZQnFFNUVOdWZ5WWNpVW1tYU1hZFNTMUk2QmV0dEVhQjFHcm1n?oc=5",
-   "date": "2026-10-11T12:27:09.000Z",
-   "source": "Eurogamer.net",
-   "summary": "A new GTA 6 leak shows Lucia robbing an ATM and parachuting off a roof - naked Eurogamer.net"
-  },
-  {
-   "id": "gn-1aqahqm",
-   "title": "GTA 6 Leaker Just Posted Footage Of Naked Lucia Parachuting",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2ZueVRZX1JMNkVEZENQWkFsdHFNTHhpcTItWUdudGR6YUtaZW1CRlZndGJla2Z0NGtpakVKbTg5aDBxSGVMT1hCSThlV29UUmNFQlpaOHNrZEF2enVlaWJ5XzgwWEhFZXpSRloyMU0xaGRIY2lsYW1mbUpJZ1NQdWFuR2w0eHd0TENtS2tIWGY1Y1hjTVBWRA?oc=5",
-   "date": "2026-10-11T12:24:52.000Z",
-   "source": "OpenCritic",
-   "summary": "GTA 6 Leaker Just Posted Footage Of Naked Lucia Parachuting OpenCritic"
-  },
-  {
-   "id": "gn-1cpf25f",
-   "title": "Even More GTA 6 Gameplay Footage Leaks, This Time Showing Off Lucia",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmVOZENQR3ZIRDRfVGJPbk5DTFcwZ3Z0OExMSW5jWkpjZGxWWWUwYkw5dTQ2NVdzNWVaMDRTU2NILUFLVV9JMlVxLXJnMy1PbjhfdEl0V1pILWo2X3M3LVJySkdnUXhUVXBFazV6Ujk3RlcxUXVMaXRXdERIcDJmSGZ2bHp3aDM3QUV6dVZoZkNrOXBkbmE1RDF6SC1zTjhLVXM3VGVrTGxRdw?oc=5",
-   "date": "2026-10-11T12:21:22.000Z",
-   "source": "Wolf's Gaming Blog",
-   "summary": "Even More GTA 6 Gameplay Footage Leaks, This Time Showing Off Lucia Wolf's Gaming Blog"
-  },
-  {
-   "id": "gn-o1yu1v",
-   "title": "GTA 6 leaker threatens to release a build of the entire game start to finish, but gives Take-Two a way out: \"Physical disks and a public apology\"",
-   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRHZTamR1Q0VIT0ZObzQtLWxYTlZ4Y0dHTU9uWS0tejdNclI1RVdpNGcwNG8zajMwa29rQm1wb0swV3hFVEdtUHY3YjlOMzRiWFJzcGNqc1hoeWVYTEo5czIyb2Z3ZnpDYkdRODZtRHNvZFROVzkwV0tjR1dVSEducl9rVjBpdWV5Mnp0T2k0V3Rxc0I0a1hVd2R5Z1pLS0NTbTgtWnREcVV0aTdfSlE1SUVOZTMtd0FoZmlrUzBfYkZJYkxjaDIwc3N4dThhbkFKaTJQS3pKMzNsdm9sV2JNODM2SGhFUy1FNEJDNzluRGJYOWhrWlhCTkxvVHZScDM0WTBqMVF5T01ORXVoWWFBbHhocUZUZUsyOHVjWQ?oc=5",
-   "date": "2026-10-11T11:35:57.000Z",
-   "source": "GamesRadar+",
-   "summary": "GTA 6 leaker threatens to release a build of the entire game start to finish, but gives Take-Two a way out: \"Physical disks and a public apology\" GamesRadar+"
-  },
-  {
-   "id": "gn-1ib4e47",
-   "title": "GTA 6 updates: CyberLeek threatens to leak full game build if memecoin hits $30 million",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeWo3aTVrSDlVV0g2Vm03LS1LX1BRSGhFaGxwWDhaNVJkbG45SVYzVTRYQVJTS1NOOVoyMEI0WUtZYmY2ZUx2SWFnVUVSWnBPbFRfaEhQYnR1VU5OMk42TVBRM0Y0ZXk1QVBvay1qNXUxakVVOG1VNWVobVNiZUFfWThUUXA0REwwQWhWeHJFdFdPWVlQRElHWUlxRVlERHlscVp2Q3oxNkw5b1FpR1h1aGJ1alhkUDV1RHEzNUhSdWtsY2gzQV9XOXFFTDdiM3hHMVRmZGJ5ak1QQmVGbTJMdFoxa1QwbnUtVURseDMteVdPOWk0bVd4Z2ViZ9IBgAJBVV95cUxQbEdZU3Zkb244X0VhSVJVczM1VWprMDFkZ0d4WUQ2WVlYVDlfaEgxYkZrVG95Q2ZDTng4dUd1VjIyamNOMnVfeTI0aXBRSmh5R0VyTE9vTEoyM3NaQmluLTU5Z0Vha1VNR2sxYllJRDBMb3FLMlJlb0FBNDNYVGY3UXNlWGs4aE9zVW5GUlh4dE9XN1BneEdmcmppWDZjbHhHMk1FRHdXTzJ3ajlvaENWZl9pRE5mU2pVSzZlZk0yM3RVTFowanltaUpiWEJBeEFpOG81RDNCRW9QTUZ3N0VxeHpsd291MGM0YV9xUjhUTlNySHRKWXlHcDVZUng2R0Rl?oc=5",
-   "date": "2026-10-11T11:30:00.000Z",
-   "source": "The Times of India",
-   "summary": "GTA 6 updates: CyberLeek threatens to leak full game build if memecoin hits $30 million The Times of India"
-  },
-  {
-   "id": "gn-yx2gzl",
-   "title": "GTA 6 leaker ties full game release to $30M meme coin",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9MMG5PcUlMcTNzVXd1UjRIQkJnbEZhOVpfbXU1WEcwYW1YUHZfQ3prR2tvV0g1NVNlMGNPQ0VQczZRU1lKTnZZRDQxXzYxTXY2R0xTQWc2dllFa0MzRGZ5aHYyTEU0dVVjbjZZZFVHOUliT0IxU3pUTUVHX05GUQ?oc=5",
-   "date": "2026-10-11T11:24:29.000Z",
-   "source": "Crypto News",
-   "summary": "GTA 6 leaker ties full game release to $30M meme coin Crypto News"
-  },
-  {
-   "id": "gn-1qpzltm",
-   "title": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVlNVlqRHN6TTRMNXAtWF9oU3FxQWxHenk1TjUyUnhGY3FQZTByUUItcXJqSW1TaDBucWVlRUJCY2x5V2xnOVF4UHlvQnc2MzdsbEFQdWw2d1RVZ0M1V3ZyY2pMWG42SGNvMjZCbmtYUFc0eE5wNWkxRnNndFBTU3R2OTM0RXZTVnIxUTI0UHNobnJZRkpBWlNMYmliSlRBVk5IZVBiNjhrbGF5LVZIS0gyUjhiZw?oc=5",
-   "date": "2026-10-11T10:35:55.000Z",
-   "source": "Video Games Chronicle",
-   "summary": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed Video Games Chronicle"
-  },
-  {
-   "id": "gn-1la6yly",
-   "title": "GTA 6 Leak Takes Bizarre Crypto Twist",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcXNicmVwaXRfZDNoVGIwU2t1dGVkOTdPQUM3WmFDOTN2bDZDYUNGZVNDUTNGTUE5ejktUUY2LWM0c3ZHMS10R2RIM21LazROVmNuLWpCcHhDVkdUd2dYc05xcjBMS0x1dDNna2Z4Y3NoVzRJUXdySGc5YUhRM1huVWtaNWs0aFRhZjJBdWxlTDlsOEdranRXR2FVUQ?oc=5",
-   "date": "2026-10-11T10:30:51.000Z",
-   "source": "TradingView",
-   "summary": "GTA 6 Leak Takes Bizarre Crypto Twist TradingView"
-  },
-  {
-   "id": "gn-1u7bb76",
-   "title": "GTA 6 Official Rating Revealed",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZcnRSR2ViN3ZINmQwMFZGanhQRDRoZktCNmJwTTVhWHI1ZjRyb0tsWFk4RnBpLU9HaTlZN0VzTkJrWThhUWdzdnhER0h4MHU4bXMzVEVVcHhIYXljXzI4TncwZDVTZjc0aFIyOC1LN2JVUQ?oc=5",
-   "date": "2026-10-11T10:14:52.000Z",
-   "source": "OpenCritic",
-   "summary": "GTA 6 Official Rating Revealed OpenCritic"
-  },
-  {
-   "id": "gn-6x1uor",
-   "title": "GTA 6 leaker threatens full game release if memecoin hits $30 million",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFZQOWZDX0U2YnpzbVFqams5eFNCSTZNcTFPQzFTRzFKb0stMjZFanNuRU9ta0xtSGR2Zi0yZFdRSUs5ekh2N2c5ZFdSNTFWc1BLVUxZMGM4MXRFVmtMR2ZySW5ZcWU5RVRLXy1hejBSS2d0eFQ4amR0RjBhcm5vaWN5a1BZbU1VNDF2Z2Yzd2NDdVBBb20tTlF6QUjSAZgBQVVfeXFMUF93QTNhRlhGV2ktLVI1aHlncE16T08tVEFnTEs1WVdrMXVqb0REUVVOUml1ekRGb0k3S3NVeUFBdXo2ZVpXRlBNUmxsX3BDUTN3VUNpRkxKZFFnV1dPWWdWaDBkN3AxbnpwXzVqUmlnWmJqdkUwazhXRTFLMzZOZGd2TldVeXZnT2JZdEhmU3hJNVJCd2VubkE?oc=5",
-   "date": "2026-10-11T09:28:37.000Z",
-   "source": "The News International",
-   "summary": "GTA 6 leaker threatens full game release if memecoin hits $30 million The News International"
-  },
-  {
-   "id": "gn-1xf26hc",
-   "title": "GTA VI leaker Cyberleek threatens Take-Two Interactive with leak of full playable build",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUFdsSGxzaVF6M3lDSVJnTThpdzBBa2FQZ0RLOFktbGZjeGdmSERpbVZMUklISXl6azc3Vmk1SFlhcEV0ZEQ4Y2Q5TUt3M0xRY1cyTzFpaC1od1ZCcUhsWklNdjV0S1ROaVJTcE1sblFORWh2Z21hbDhoRERaa1NRVnJWdlV3Tjk0bTZUN2F4dmdZRXRKMlV1c2hHWHEyaks4OUdUTlRCQk9TanlhNzJJblNBTVJ0RzQ0MzJBZ2huNzc4RmdrLUtiZ3FR?oc=5",
-   "date": "2026-10-11T08:39:22.000Z",
-   "source": "Checkpoint Gaming",
-   "summary": "GTA VI leaker Cyberleek threatens Take-Two Interactive with leak of full playable build Checkpoint Gaming"
-  },
-  {
-   "id": "gn-ky6wjw",
-   "title": "Technical difficulties will prevent Grand Theft Auto VI from running on PC using emulators.",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ2NFa1QxWS1PSFVrZU1VRjh2OHliSXJNNlhuam9ySDRUOVU5SGctNEs5S09aY1NhYm1mTEZ5b3czTmZhZ2V0RzJobC11dHUzMVZVVjk5V3p1dEF3eTZsYlJpZVNtRG5yWC1OT0lpYWYtZHJVbzBCWWdMdWVBY2dESWs2dXNtdjA4Y0lBZ2dvT29vaUw3QVp3NVJ5Z3NmX0IyRVpGemZVNzJJM1dQYnJDS3lZajd6eC1kV2c?oc=5",
-   "date": "2026-10-11T08:24:45.000Z",
-   "source": "GameGPU",
-   "summary": "Technical difficulties will prevent Grand Theft Auto VI from running on PC using emulators. GameGPU"
-  },
-  {
-   "id": "gn-1tfp1cr",
-   "title": "What the GTA VI leaks can teach us about securing digital supply chains",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkFyZkg5cWNYeWlkbzRvdnVWcUk4ZlJTMG9YQjdjVkxjZzlhaEZZVHFzc0w2eE1nclY4ZEJOTThuenptUlRteVd3UzJNWDY2UkxZaVRjRTJUZ19GMUwyaHRRZ0VjODl4SmZ4MDMwaUtDcmhiakc5TFFCcW1PTmhEN20tRjBjVnJhZUFidkV4SDRIaWxXQUdhQ0pDaG5MZWZmdk1nQnlXZkdFRmV0bE0wcA?oc=5",
-   "date": "2026-10-11T07:43:51.000Z",
-   "source": "Cybersecurity Insiders",
-   "summary": "What the GTA VI leaks can teach us about securing digital supply chains Cybersecurity Insiders"
   }
  ],
  "community": [
+  {
+   "id": "rd-np03sa",
+   "title": "GTA 6 Code-In-Box Release to Come With “Physical Collector’s Map”",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x48k4y/gta_6_codeinbox_release_to_come_with_physical/",
+   "date": "2026-10-12T17:44:25.000Z",
+   "source": "r/GTA6",
+   "summary": "Saw these signs posted up in my local Gamestop in PA. Asked the employee and he confirmed it. Haven’t seen this mentioned ANYWHERE. submitted by /u/Small_Masterpiece892 [link] [comments]"
+  },
+  {
+   "id": "rd-xx44as",
+   "title": "Article of the Day #42: Vice City Manatees (Miami Dolphins)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x47tqj/article_of_the_day_42_vice_city_manatees_miami/",
+   "date": "2026-10-12T17:16:49.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/gtawiki [link] [comments]"
+  },
+  {
+   "id": "rd-1h2wwf3",
+   "title": "Remember when people freaked out over the Ferris Wheel Reflection.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x47l4x/remember_when_people_freaked_out_over_the_ferris/",
+   "date": "2026-10-12T17:08:11.000Z",
+   "source": "r/GTA6",
+   "summary": "https://preview.redd.it/eykjl69qi2vh1.png?width=1600&format=png&auto=webp&s=e258dfd392c7db71bffbce693c445b69ffda7de9 I saw the reflections from the new screenshots, and it made me remember how outrage"
+  },
+  {
+   "id": "rd-fl5zny",
+   "title": "Just came in today",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x477mk/just_came_in_today/",
+   "date": "2026-10-12T16:54:42.000Z",
+   "source": "r/GTA6",
+   "summary": "Just waiting on controllers and vinyls submitted by /u/Floyd_41583 [link] [comments]"
+  },
+  {
+   "id": "rd-1datu10",
+   "title": "First bit of merch has arrived",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x46z6v/first_bit_of_merch_has_arrived/",
+   "date": "2026-10-12T16:46:03.000Z",
+   "source": "r/GTA6",
+   "summary": "Still some more to come but this was a separate order, looking forward to getting the zippo and money clip. submitted by /u/CDaCosta97 [link] [comments]"
+  },
+  {
+   "id": "rd-psrah1",
+   "title": "Sessanta Nove wallet — GTA-inspired personal project",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x46ip4/sessanta_nove_wallet_gtainspired_personal_project/",
+   "date": "2026-10-12T16:29:06.000Z",
+   "source": "r/GTA6",
+   "summary": "wasn’t really satisfied with the $500 Collector’s Edition, so I decided to make some little GTA pieces myself. This is the first one I received — a custom Sessanta Nove wallet . What do you guys think"
+  },
+  {
+   "id": "rd-b9f8wv",
+   "title": "Crazy marketing from Rockstar re GTA 6 costing at least $150M, which was expected now being this close to release.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x446s2/crazy_marketing_from_rockstar_re_gta_6_costing_at/",
+   "date": "2026-10-12T15:01:34.000Z",
+   "source": "r/GTA6",
+   "summary": "Source: https://www.themiamian.net/p/miami-dade-vice-city-campaign-in-peril submitted by /u/Pistoluislero [link] [comments]"
+  },
+  {
+   "id": "rd-2zny4e",
+   "title": "Orange orchard",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x432nw/orange_orchard/",
+   "date": "2026-10-12T14:17:38.000Z",
+   "source": "r/GTA6",
+   "summary": "Looks like the orange orchard is just southwest of Ambrosia, same watertower in the screenshots submitted by /u/rio-333 [link] [comments]"
+  },
+  {
+   "id": "rd-1wwqzn1",
+   "title": "I think one of the best things about GTA and Rockstar is how they seem to always exceed expectations",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x42x52/i_think_one_of_the_best_things_about_gta_and/",
+   "date": "2026-10-12T14:11:26.000Z",
+   "source": "r/GTA6",
+   "summary": "Maybe it just me, but I’m confident it’s not. No matter how massive my expectations are they seem to always go above and beyond what I think is cool or even possible. I had zero expectations of GTA II"
+  },
+  {
+   "id": "rd-a752na",
+   "title": "If GTA 6 Launches like CyberPunk 2077",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x42bdj/if_gta_6_launches_like_cyberpunk_2077/",
+   "date": "2026-10-12T13:46:50.000Z",
+   "source": "r/GTA6",
+   "summary": "Edited by - SkilllssueGamez on YouTube submitted by /u/Jealous-Beautiful599 [link] [comments]"
+  },
+  {
+   "id": "rd-1mkfdli",
+   "title": "Goodyear Blimp N3A in Florida new livery as part of the marketing",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x40ibi/goodyear_blimp_n3a_in_florida_new_livery_as_part/",
+   "date": "2026-10-12T12:27:00.000Z",
+   "source": "r/GTA6",
+   "summary": "From: Cecil Richmond (Facebook) submitted by /u/Julian-1577 [link] [comments]"
+  },
+  {
+   "id": "rd-17htgfm",
+   "title": "In exactly one month we'll have gta vi in our consoles (pre-loading)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x40dzt/in_exactly_one_month_well_have_gta_vi_in_our/",
+   "date": "2026-10-12T12:21:16.000Z",
+   "source": "r/GTA6",
+   "summary": "We'll have the files but will have to wait another week to launch it unfortunately submitted by /u/pablo98marin [link] [comments]"
+  },
+  {
+   "id": "rd-ihq0vx",
+   "title": "Today’s GTA 6 leak without context",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x3zqpc/todays_gta_6_leak_without_context/",
+   "date": "2026-10-12T11:48:37.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/ArachnidLive159 [link] [comments]"
+  },
+  {
+   "id": "rd-vvk9dx",
+   "title": "Wallpaper I put together from the Extended Look",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x3xpsu/wallpaper_i_put_together_from_the_extended_look/",
+   "date": "2026-10-12T09:51:53.000Z",
+   "source": "r/GTA6",
+   "summary": "As nice as Lucia is, I thought the city was nicer so I removed her. submitted by /u/plipoot [link] [comments]"
+  },
+  {
+   "id": "rd-1dc1hbr",
+   "title": "Free roaming with a companion is creates a new dimension",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x3worf/free_roaming_with_a_companion_is_creates_a_new/",
+   "date": "2026-10-12T08:46:23.000Z",
+   "source": "r/GTA6",
+   "summary": "With the possibility to free roam with Jason and Lucia together, it opens up so much of the world exploration. I'm really curious how your companion reacts to the actions you do in free roam. From exp"
+  },
   {
    "id": "rd-n3ro3j",
    "title": "New vehicle 'rating' system in GTA 6...",
@@ -888,126 +1008,6 @@
    "date": "2026-10-11T11:39:37.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/sabbasb [link] [comments]"
-  },
-  {
-   "id": "rd-131oa0p",
-   "title": "Staying occupied while waiting...",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x33b25/staying_occupied_while_waiting/",
-   "date": "2026-10-11T08:55:57.000Z",
-   "source": "r/GTA6",
-   "summary": "Little 3d print I made today. submitted by /u/Illustrious_Nerve500 [link] [comments]"
-  },
-  {
-   "id": "rd-lsmqsk",
-   "title": "Guys new GTA 6 trailer",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2zj8f/guys_new_gta_6_trailer/",
-   "date": "2026-10-11T05:06:00.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Next-Scale-9137 [link] [comments]"
-  },
-  {
-   "id": "rd-dor2ll",
-   "title": "My fiance getting ready for Halloween",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2sgpw/my_fiance_getting_ready_for_halloween/",
-   "date": "2026-10-10T22:55:20.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Distinct_Praline5208 [link] [comments]"
-  },
-  {
-   "id": "rd-x7v6fq",
-   "title": "Trailer in kaseya center in Miami",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2sd9v/trailer_in_kaseya_center_in_miami/",
-   "date": "2026-10-10T22:50:36.000Z",
-   "source": "r/GTA6",
-   "summary": "It has arrived in Miami we are getting close 👀 submitted by /u/Brief_Rutabaga6018 [link] [comments]"
-  },
-  {
-   "id": "rd-17oa90g",
-   "title": "My LoFi GTA 6 Illustration",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2qdyz/my_lofi_gta_6_illustration/",
-   "date": "2026-10-10T21:19:10.000Z",
-   "source": "r/GTA6",
-   "summary": "So, before Cyberpunk came out I made a LoFi illustration for the game. And I decided to create a new one while waiting for the release of GTA 6! Hope you like it! Can you find all my hidden referances"
-  },
-  {
-   "id": "rd-a2znjo",
-   "title": "Who is Redeeming free GTA+",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2odux/who_is_redeeming_free_gta/",
-   "date": "2026-10-10T19:53:25.000Z",
-   "source": "r/GTA6",
-   "summary": "Not sure where to ask, figure id try here as well! Just pre ordered gta6. Who here is redeeming their gta+ ? And if you're saving it, why? Id like opinions. I've been paying gta+ for a few years off a"
-  },
-  {
-   "id": "rd-y9jy3u",
-   "title": "License plates from GTA 6 vehicles",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2njc5/license_plates_from_gta_6_vehicles/",
-   "date": "2026-10-10T19:17:02.000Z",
-   "source": "r/GTA6",
-   "summary": "I created several license plates from GTA 6 vehicles to be printed on a 3D printer. You can find them on Makerworld submitted by /u/AppealPlus [link] [comments]"
-  },
-  {
-   "id": "rd-rtly72",
-   "title": "Youtube ads on GTA VI are now live",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2md2q/youtube_ads_on_gta_vi_are_now_live/",
-   "date": "2026-10-10T18:27:51.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/ZamnBoii [link] [comments]"
-  },
-  {
-   "id": "rd-124bbwp",
-   "title": "The r/GTA6 wiki has received major updates!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2m2zf/the_rgta6_wiki_has_received_major_updates/",
-   "date": "2026-10-10T18:15:59.000Z",
-   "source": "r/GTA6",
-   "summary": "Hey everyone! We've given the subreddit wiki a complete overhaul to make it more useful as we get closer to the release of GTA VI. The wiki is now a central place to find information about the game, i"
-  },
-  {
-   "id": "rd-1c64fni",
-   "title": "I'm so ready",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2m03v/im_so_ready/",
-   "date": "2026-10-10T18:12:39.000Z",
-   "source": "r/GTA6",
-   "summary": "I recently upgraded my gaming setup and bought this custom Vice City neon sign from Neonsfeer, inspired by the Kaseya Center's Vice City logo. It wasn't exactly cheap but it was definitely worth it! :"
-  },
-  {
-   "id": "rd-1br7qry",
-   "title": "An NPC Detail I’d Love to See in GTA 6",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2lijc/an_npc_detail_id_love_to_see_in_gta_6/",
-   "date": "2026-10-10T17:52:27.000Z",
-   "source": "r/GTA6",
-   "summary": "I was just thinking about how cool it would be if NPCs in GTA 6 actually had realistic dialogue when they get shot but don’t immediately die. Like imagine shooting an NPC in the stomach or leg and ins"
-  },
-  {
-   "id": "rd-1bkwxut",
-   "title": "It looks like the \"Pegassi\" Zorrusso will be rebadged in VI like a few other vehicles we've seen",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2is05/it_looks_like_the_pegassi_zorrusso_will_be/",
-   "date": "2026-10-10T15:58:40.000Z",
-   "source": "r/GTA6",
-   "summary": "I can't find a higher res version of this screenshot, but whatever that word on the back is has more letters than Pegassi or Zorrusso, so I think that confirms another manufacturer. It's not really le"
-  },
-  {
-   "id": "rd-aiav00",
-   "title": "Article of the Day #40: Airboat",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2f2gg/article_of_the_day_40_airboat/",
-   "date": "2026-10-10T13:16:02.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-1y2u3r2",
-   "title": "Is the bag Jason picks up off the ground for Boobie : optional or scripted?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x2cbkb/is_the_bag_jason_picks_up_off_the_ground_for/",
-   "date": "2026-10-10T10:51:22.000Z",
-   "source": "r/GTA6",
-   "summary": "Is the bag Jason picks up off the ground for Boobie at the start of the extended trailer : optional leading to different dialogue or is it mandatory and scripted? submitted by /u/CollegeFlat399 [link]"
-  },
-  {
-   "id": "rd-13skvxd",
-   "title": "Small thing I noticed in the Extended Leek...",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x27kgz/small_thing_i_noticed_in_the_extended_leek/",
-   "date": "2026-10-10T05:57:07.000Z",
-   "source": "r/GTA6",
-   "summary": "Wyman's truck in the Extended Leek was carrying the Ultimate Edition exclusive '67 Vapid Dominator buggy. Later he can also be seen getting in the buggy to take part in the race. SPECULATION: This cou"
   }
  ]
 }
