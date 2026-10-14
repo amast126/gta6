@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-13T20:46:24.084Z",
+ "generated": "2026-10-14T00:05:49.154Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 8,
    "scanned": 40,
-   "checked": "2026-10-13T20:46:24.084Z"
+   "checked": "2026-10-14T00:05:49.154Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-13T20:46:24.084Z"
+   "checked": "2026-10-14T00:05:49.154Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-13T20:46:24.084Z"
+   "checked": "2026-10-14T00:05:49.154Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-13T20:46:24.084Z"
+   "checked": "2026-10-14T00:05:49.154Z"
   }
  },
  "official": [
@@ -208,6 +209,118 @@
  ],
  "press": [
   {
+   "id": "gn-1yi6bb9",
+   "title": "GTA 6 PC Release Date Status and Recommended Specs",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanZ2Y3FNeFZMOS1EWFRxbGVMNmNha2tLTERUME1tQjBLTnV5V3djREZPdUtDbnNKNU9DVUg5cmphZnoxdWswOEVZR0ExeHc2eTdaakNuYkZyOE96TGJQaklrV2dnbXNtbE9UWVpSTzNMUVNnYzE4RVpOVzdqUTNqTS1BUGZGSUhNeXFQSV92eVUzR2VCb2p3X3ppaUFyNkVqUHhHTkVTWmRBdkF4V3RhcnlMNG1SU2FFM3ZYd1hmV0ZzY0JfUmFLWg?oc=5",
+   "date": "2026-10-14T00:00:15.000Z",
+   "source": "Forbes",
+   "summary": "GTA 6 PC Release Date Status and Recommended Specs Forbes"
+  },
+  {
+   "id": "gn-1ckgx0y",
+   "title": "Report: GTA VI PC port coming Jan - Mar 2027",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdG4wMlpmcFpKYk0zSGd3R1RaRC02WExsQmQ5TlQ3dnNuTkxiTzVWWm43WWMwR2stYlZGNXdQUmJVTUFjcXNSSmZLUV9ZMXZHMmI2RkUzbzlJV3FIMmpfUmUyekFwam5QMDY3SWZuQTNSclBiY2dGRlRoQklOaUoyQzN0MXcySjhvVk51ODVrNW1DdHpv?oc=5",
+   "date": "2026-10-13T23:36:13.000Z",
+   "source": "TweakTown",
+   "summary": "Report: GTA VI PC port coming Jan - Mar 2027 TweakTown"
+  },
+  {
+   "id": "gn-1qd1np0",
+   "title": "PlayStation’s $149.99 God of War Laufey Collector Box Ships Without the Game, and Fans Call It Another GTA VI Scam",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56NlZrSXhxOWotYzZpWENpckZvakdINDVnNnl5dXp3elRJU0tLWWRHZ1FmZUhua0hqUE1CZTBFRWxBdXppeWtCMTRnLTJKUjRmYVNaUkMzZkVSalRjZ0VkWndVc2l3aUJ0QWFrWWxyakxnSk9D?oc=5",
+   "date": "2026-10-13T23:01:39.000Z",
+   "source": "Fandom Pulse",
+   "summary": "PlayStation’s $149.99 God of War Laufey Collector Box Ships Without the Game, and Fans Call It Another GTA VI Scam Fandom Pulse"
+  },
+  {
+   "id": "gn-xj31jf",
+   "title": "Elon Musk Agrees: GTA VI Could Be 'Swan Song for the Big Studio Era'",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOExGQ003Y2Zkb1RHdVowMmZRSVF6T2dDOEF3aTdwT0xuZW1RcFFBbTFzQUsxdnV5TXpHNGFTOTl4bk9CUmc3VDlXYzROVU9yUmQ4QXk4ZmZodEotWWdYQWJhV05neGpGd2NsZElRQzlFcEYzX3A0c2NMZnhZWWNKQnphU0s1Yk9OM1RLRi1POFBUaHpjRXl6MmdyNlc3cHl1LWp3b19HM3ZSWGVlbmFMYTh3aTBOU0tV?oc=5",
+   "date": "2026-10-13T22:43:34.000Z",
+   "source": "Benzinga",
+   "summary": "Elon Musk Agrees: GTA VI Could Be 'Swan Song for the Big Studio Era' Benzinga"
+  },
+  {
+   "id": "gn-1500g08",
+   "title": "Cyberleek Claims 200GB ‘Playable’ GTA 6 Build [2026]",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kdkFMMHhsd3pZRDlPZU9lQ2xGTnFTblJyOUxuakpZbVdqVmtQOWZOZktKZy0tWDlGaWFFM3B6QlZZLW1zMVk1S1pvQk51R09hOXFtTUxzWE5FUzRqQ1JSTFZ3LVVsRnhidW1OX2lkQjI?oc=5",
+   "date": "2026-10-13T22:30:32.000Z",
+   "source": "shattered.io",
+   "summary": "Cyberleek Claims 200GB ‘Playable’ GTA 6 Build [2026] shattered.io"
+  },
+  {
+   "id": "gn-spzcmc",
+   "title": "GTA 6 Day Gets Its Own PS5 Midnight Black Edition — But It’s Going To Be Almost Impossible To Buy",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QU0x2MndnRUo3UkRLeGlJSk94Y0NJZ01fazgyRFFBTlo1clIwQkFkNU53MHJOeDU2ZG4teVQxcVU4dGZaTWJoNjF4MERrUjZSS2pWMVVYM0ptYlpZdm45b1A1X3JCQ2lYeFhmc1BYZkd5WlptY1J0am1CQWI?oc=5",
+   "date": "2026-10-13T21:51:22.000Z",
+   "source": "Yahoo Tech",
+   "summary": "GTA 6 Day Gets Its Own PS5 Midnight Black Edition — But It’s Going To Be Almost Impossible To Buy Yahoo Tech"
+  },
+  {
+   "id": "gn-10d1v88",
+   "title": "Midnight Black PS5 GTA 6 Release Date Price",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU0dWY0UtY1B5Q0xUREp3c2ctX1FWUFVMenM5UVFrRTlldVJCN0QtLWdPdzlPbE9jcVZNM2tiY3A2dlR1V3ZoS0hZem9TR1d6U1BvdmJMZGVyUEZVNlVTbWoxZ2pnTE9KTnQ1WWVvUmZpVVdoUGJEM1cyTE0wTUtSOGVndTJSYUoxUmFrQndfemZCT0pmSkdIUjBkeDU4M2d6V2E3XzczczU0d2MtWmVwd3pMRVEyMlgwZmItaFJYSktpZjNtanNRRkVGYmowQlNwSmRjZzEzd2ZaR0cyWmNFV0QzLXU?oc=5",
+   "date": "2026-10-13T21:51:22.000Z",
+   "source": "Forbes",
+   "summary": "Midnight Black PS5 GTA 6 Release Date Price Forbes"
+  },
+  {
+   "id": "gn-zk3511",
+   "title": "\"GTA VI\" team grants Miami locals free access to Wynwood Walls",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMFpwZDhBYW8zX2g2a2FvQ3BONW85eUwyQ0FLOFQwY29BOVQ3dVJyZzh4VnRoN2tSUS1YXzRhakZnRG8zSHRENkUtd196c20weG9OdnEwdjhyY18tNnFDRXJVdjBPdmkxU3dpb0FKOWFHbjB4dGtlV1JlZVc1ZkJOZFZ6WExiY0g4R01lWGpVdFhXVk1teTlXdEU5b0ctb2tjUWdqQUtKY3JGWVo5ejBV?oc=5",
+   "date": "2026-10-13T21:35:10.000Z",
+   "source": "Miami New Times",
+   "summary": "\"GTA VI\" team grants Miami locals free access to Wynwood Walls Miami New Times"
+  },
+  {
+   "id": "gn-r1qfoj",
+   "title": "PC Gamers, Rejoice: GTA 6 PC Port Could See Release in Early 2027, Report Says",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWi1nbk1mMmREVVBVTGY5UFBwNG5ISzdlMEZsa0VtbWNENmhPVWg0RUJhb1JpYU5qRmJHNXBwaFlQQWJjOU5LcHZ3NWliQTNDWXA1RFN2RUc1SE1CQndINEVGaWkwVlRwNVRBbm9kOGFlLXVGdEJCS0tWRUJRelZoTTBCWG1YZw?oc=5",
+   "date": "2026-10-13T21:22:45.000Z",
+   "source": "CNET",
+   "summary": "PC Gamers, Rejoice: GTA 6 PC Port Could See Release in Early 2027, Report Says CNET"
+  },
+  {
+   "id": "gn-2actna",
+   "title": "GTA 6 could be coming to PC in early 2027",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYTl0UzJHWW1wQWNHQ3o4RElwVkw3UTg3R0xzWW02ZDZNZlNSeTJ3OUQ3WlBNcW5BVS00d2wwQXdYZE1RbF9qSXZrc0pLN2xEblBqWFBOanVXWXRrQ1lfaDVGdG5IeTRLQm54ZTNiaEc3WkZ0N0UyYzFHVTJibl9UTnVhVEU1Zw?oc=5",
+   "date": "2026-10-13T21:22:14.000Z",
+   "source": "Digital Trends",
+   "summary": "GTA 6 could be coming to PC in early 2027 Digital Trends"
+  },
+  {
+   "id": "gn-1biwjht",
+   "title": "Latest GTA 6 Leak of Nude Character Is a Bad Crypto Scheme Fundraiser",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUJ1d3BUTW90N1lTVXJ3SGd3ZzlrWjZfVHFxZk5mN0Q3RlVYU2tDRHpsTWNZTDFjbVk3SmhLdGJvVWhLZmcyWVhlSS11UC03dXA0Mlcxd2tmc3JJMmVrVW1hdnF3UDdLaWRXTHdwellIYkgtcWhNX1lpQ3JkNEpMNmNiRkh2bTVJZFBKVA?oc=5",
+   "date": "2026-10-13T21:14:19.000Z",
+   "source": "CNET",
+   "summary": "Latest GTA 6 Leak of Nude Character Is a Bad Crypto Scheme Fundraiser CNET"
+  },
+  {
+   "id": "gn-1cm8zcx",
+   "title": "GTA 6's PC Release Is Reportedly Q1 2027 - IGN Daily FIx",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaGw4VWlCNGV6dFRNQmdoNUNtUnVkYXhpWTh6RlBlUFdjTmxFeWlVUmN3Z3dVWTlieTE2MnFyRDVlZk82SEIwMnBPVDU2eDFPM3JSM3lLV2N0akUzY1BGdk1hOWI1VDdnNjJaaU9ybUh5UWNlc24wLXB0WTdacDVpQkZWS2U2dHY2QXZtQjhwZWNfYmhhVGNSZ09aMG5ENUlsRGF1Y0tjOGZNSnNvVzFHZnRKcUU?oc=5",
+   "date": "2026-10-13T21:13:56.000Z",
+   "source": "IGN Southeast Asia",
+   "summary": "GTA 6's PC Release Is Reportedly Q1 2027 - IGN Daily FIx IGN Southeast Asia"
+  },
+  {
+   "id": "gn-122gwa9",
+   "title": "Jason Schreier announced the publication of an article about Grand Theft Auto VI.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMU9XcG5nU253RkdCUjdEQk1pSHpjR3I3VG5QQmRmcUNfUDlnT2dyLVdLU21qUUtjMFdUX3FoUXNjblJyNTlHVzl5bTNUNVdUNVV1QWVOeWlaREZvNDJiWE1jc2pYaXRRVFFINGN6a1lEU215LVY5T3VNU3dzblpBb1A3bkNEcFlISE92ZFNfLUp3WUl3MEVZalBvbmZadVBsVGtFYg?oc=5",
+   "date": "2026-10-13T21:11:59.000Z",
+   "source": "GameGPU",
+   "summary": "Jason Schreier announced the publication of an article about Grand Theft Auto VI. GameGPU"
+  },
+  {
+   "id": "gn-55sm1z",
+   "title": "GTA 6 Is Finally Releasing Next Month: Are You Taking Off Work or School?",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRUhwRVZVOWl5U1hNN2dJU0JqenpjYTBZV3ZENmhlX2JocDNvdHpFYV82UkRpZXVhaG0ybnFGaVMyTXlWbkJaQlVZdS1CLUVaVkRGR1k3Y0dQT2lVeHUtUTloS1R3YzlkVjNWWmNUVDNVUXlxZlQ1UXFiVlRLS0lPOV9wSVdYMjBGMXgyS0J2Z2NZYUNSWnJmbWZIQTBRbEd3aDNj?oc=5",
+   "date": "2026-10-13T20:47:10.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Is Finally Releasing Next Month: Are You Taking Off Work or School? IGN"
+  },
+  {
    "id": "gn-1375aak",
    "title": "The $350 Japan Only PS5 Is the Cheapest New Console for GTA 6",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVzZmcGJvX3hHTHVPUzRubUpfdGVXUm4yMlVsQ2FsekYxem96NUY1ZGVnQnhxWUFEUmd1SjRaR3VTZXllR1JRTnFuM2xwc2NPc1JxaTliZlNmY1pnZmpEV0ZMbFV4bzFoYWw0ZEx2YnhYXzBPTnJEeEU0MTY2V2EwaUNNc2d1ZTlBYXNCQUV5V1R5NDZOand2blg4ejRxSFhf?oc=5",
@@ -222,6 +335,30 @@
    "date": "2026-10-13T20:31:17.000Z",
    "source": "80 Level",
    "summary": "GTA 6’s PC Release Is Reportedly Planned for Q1 2027 80 Level"
+  },
+  {
+   "id": "gn-1e33dmi",
+   "title": "‘Grand Theft Auto VI’ Reportedly Set for Early 2027 Release on PC",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWjRPNlNhbTlKYUhna25HZEJXd3JGUmN3UEgwaGJBdUhkdUgwME5fY0pUSFQ3WVoweUd0Wk9lNURrWlhNa1JHXzhPMnNhWlg1b21BaWxhRVk0SnVWQWxUWmtwSThNMWhiV004eXY1S0txRFAwc3NxSEhGNi02OVNXOEpHeVR6VjFwalpZ?oc=5",
+   "date": "2026-10-13T20:28:41.000Z",
+   "source": "Complex",
+   "summary": "‘Grand Theft Auto VI’ Reportedly Set for Early 2027 Release on PC Complex"
+  },
+  {
+   "id": "gn-14g5665",
+   "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5UYVdfU1A1SkNsQ3V3d3VkREkzYXlVOVJVd0lEMF9GLVVjeEhKcndlNUNPNDdoUFJhRzVvTFNRSkN0NHp5UmRKbTJuNENqMGd2UTBJMnBRcExzTTVoaFNHd2dGREZ3Tnk1eENaSHdXY2p1OGQtcHJhWVB4SFRRenI3Um1iSi0tWFpWR3hRNlpUTjVvWDFyNTdpT1U?oc=5",
+   "date": "2026-10-13T20:16:46.000Z",
+   "source": "Mashable",
+   "summary": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full Mashable"
+  },
+  {
+   "id": "gn-1rpqf6e",
+   "title": "Video games to play this fall, including Control Resonant and Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc0xOTVFxZzg1cktQZFA1OHRDdldYeXZyZUVLR01McHRFT2dDMTFqYkgtRTljTG05Z2xmVS1STkJIcUgtb2tKTnk0a1ozbzM2aktnRHdWWDFlOXVqbGx4QW9HeUFnM2R3S1FyRmFiOU4xbzlaSldkelJGWGV1a0ZUZlVaaS10ZWNLXzJvYnY3MnVSLVlOZmd0M2NMMklRNTZDSVlUeUJjeUFnb21xTFZHT1UtemlMLWFtaUZR?oc=5",
+   "date": "2026-10-13T19:03:16.000Z",
+   "source": "The Week",
+   "summary": "Video games to play this fall, including Control Resonant and Grand Theft Auto VI The Week"
   },
   {
    "id": "gn-1n25qjr",
@@ -245,7 +382,7 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalFpNmVTbWtOUnBScVB0T2tFRUNyNnMyWFVTNXFuOHhCcWhiTE1ZZ3paZFJyVUdqNjljOUxPVDJkT25VTlQ0TzdPVUNfbU5NdHcycGs3bVQwenBfb1NiRkRHTFE0OGItS2FBV1lkRkpKQ3VDZm0xNWtITDdCSW8wTVJCNFpCcTh2c3J6VWRwb2ZKd29CdEE?oc=5",
    "date": "2026-10-13T18:55:48.000Z",
    "source": "Mashable",
-   "summary": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail Mashable Group behind GTA 6 leaks threatens to release alleged full build of game including story mode GamesIndustry.biz GTA 6 LIVE: New Lucia nude 'leaks"
+   "summary": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail Mashable"
   },
   {
    "id": "gn-1ojqecw",
@@ -296,12 +433,28 @@
    "summary": "GTA 6 PC Release Date May Be Sooner Than Expected OpenCritic"
   },
   {
+   "id": "gn-1m50dtt",
+   "title": "Report: GTA 6 Is Coming To PC In Q1 2027, Just Months After Console Launch",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdmFRMTZSdmRNQ2VyLUFHTlNmTDVsMklYMTlJRUVoaEdxS1BWWHl2WGtQSlhJcUtjVHlXNkVvSkozOG9qSXhIeFhuY0M0ZlRUTlJBSUZHenRscEViLWJmWHBnRmZ1OEJDQklOYllYaDNfeGRmZ2tTYmNFcFFXM0dmV3V3?oc=5",
+   "date": "2026-10-13T18:24:19.000Z",
+   "source": "Yahoo Tech",
+   "summary": "Report: GTA 6 Is Coming To PC In Q1 2027, Just Months After Console Launch Yahoo Tech"
+  },
+  {
    "id": "gn-11yihuj",
    "title": "Report indicates 'GTA 6' launching on PC in early 2027",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlh0b1NJOTZuQlk3NHhucnNibnpnLVo2MzJvZGZBRG5Id0xaSDlxTDVHdldYVWl1X2JWMmJmZnlLaTRrWjdMTTJvdnJVMkFuUnNrbEZ5b29laUtsM2IxczllNFdtNHVZa1M3UDAtVjJ3WkVTZzlSU2J1aG1GSGVQYU5PUVM?oc=5",
    "date": "2026-10-13T18:23:45.000Z",
    "source": "Mashable",
    "summary": "Report indicates 'GTA 6' launching on PC in early 2027 Mashable"
+  },
+  {
+   "id": "gn-ft67w5",
+   "title": "'GTA 6' official merch is live, and it's already selling out: Where to buy",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnRrenQzLUk4MjExZ1AtaWVRbkdsV2lMOExfckd1cGRXblpBRkxmX1JQOE9MWUNzb3NzaEVEQkpXUFdFcFlUVkZubzlvWWdsVUs4VlR5T00xZjFmU2JxYk9vVDVxanlpdFNsTy1MczBic2lJMXhIeE9XRUo2Wk1pd0k5dHkyZw?oc=5",
+   "date": "2026-10-13T18:19:10.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' official merch is live, and it's already selling out: Where to buy Mashable"
   },
   {
    "id": "gn-1pq9bsw",
@@ -353,11 +506,11 @@
   },
   {
    "id": "gn-304gej",
-   "title": "GTA 6 PC Version Reportedly Coming Q1 2027, Sources Tell GamesBeat",
+   "title": "GTA 6 PC Release Reportedly Landing Q1 2027, Fastest Ever for Rockstar",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01TnZKdlVfQk9XcXVVNWMzaHBoWExQM19MTU9hZDJDM3EzX2NyTnRjYm80UlRXSE03ZEQxalhIeGJwbmJ3c2QyT25maTFTclVFTzZqT093Ylg4aFI4eTZqcHc5WW1BYUQzSTJHLWRIbW5JWXVXZWdYQnBreUYxdw?oc=5",
    "date": "2026-10-13T17:03:32.000Z",
    "source": "GTA BOOM",
-   "summary": "GTA 6 PC Version Reportedly Coming Q1 2027, Sources Tell GamesBeat GTA BOOM"
+   "summary": "GTA 6 PC Release Reportedly Landing Q1 2027, Fastest Ever for Rockstar GTA BOOM"
   },
   {
    "id": "gn-5n50v8",
@@ -416,12 +569,28 @@
    "summary": "GTA 6 could come to PC as early as Q1 2027, report claims — January-March launch window a huge improvement over 18-month GTA V wait Tom's Hardware"
   },
   {
+   "id": "gn-y36yg8",
+   "title": "GTA 6 could come to PC as early as Q1 2027, leak claims",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZDRJU0NyOW5fWEZ4Sjd6MlBMNnJtSnlmcWdkUVctY2w3ZzhjcU1WYW53TVdsSEFGaktQdnR3cXpTQkxUQU01cmxpVHVDXzJHcngwVk1KSURJTmM4MmZCS0cxS3FkdTF2MVlYRnNIbUtQUkZ0VkQ0amRZR2wzUQ?oc=5",
+   "date": "2026-10-13T16:22:10.000Z",
+   "source": "Yahoo Tech",
+   "summary": "GTA 6 could come to PC as early as Q1 2027, leak claims Yahoo Tech"
+  },
+  {
    "id": "gn-1p6fg3t",
    "title": "‘GTA VI’ Radio Stations Feature Bad Bunny, Burna Boy, Lana Del Rey, More",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMjBEdktVSFpCZTFjVE5udzdVNzJ0MVI3TXYxSjYwZm1SdDloNEZKdnhKOFAxVTRQUVpIVzhlSVZuWVZuMDZxUW1VYlhrcGtxWWdlM3JvbWIxSVdrdk5fbW5mVTRqbEVLMjFDMUNURnk2ZWpKQmRIM1dnZ1pWN29iS2E4STBvVmhvZXVr?oc=5",
    "date": "2026-10-13T16:20:47.000Z",
    "source": "Yahoo Tech",
    "summary": "‘GTA VI’ Radio Stations Feature Bad Bunny, Burna Boy, Lana Del Rey, More Yahoo Tech"
+  },
+  {
+   "id": "gn-k1pd8r",
+   "title": "GTA 6 scams target gamers ahead of highly anticipated release",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOW5ESy01dGJlcU8xNlV0cURhSXZlVVlQY0FnQ2NmZ2FMRjFJMF9CdHBxQkZ3UlRQS0NxZ21jSVBwRlNzSkxQWk1TZkd2MURMTW1OUkFweDdXU2k4ZUJhbVQzSUxfVHJMdS1wckdaOFZzeUtON1BaYTh1YU9YMXJ5OVR0SUE2UlM5RXBpVGViSXB2LS1Nc0R2bVRiNUNUODQzdWVMOEVR?oc=5",
+   "date": "2026-10-13T16:16:39.000Z",
+   "source": "Scripps News",
+   "summary": "GTA 6 scams target gamers ahead of highly anticipated release Scripps News"
   },
   {
    "id": "gn-1w7vjov",
@@ -454,14 +623,6 @@
    "date": "2026-10-13T16:09:54.000Z",
    "source": "GAMINGbible",
    "summary": "PlayStation Plus issues November free game update early to get ahead of GTA 6 GAMINGbible"
-  },
-  {
-   "id": "gn-14g5665",
-   "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5UYVdfU1A1SkNsQ3V3d3VkREkzYXlVOVJVd0lEMF9GLVVjeEhKcndlNUNPNDdoUFJhRzVvTFNRSkN0NHp5UmRKbTJuNENqMGd2UTBJMnBRcExzTTVoaFNHd2dGREZ3Tnk1eENaSHdXY2p1OGQtcHJhWVB4SFRRenI3Um1iSi0tWFpWR3hRNlpUTjVvWDFyNTdpT1U?oc=5",
-   "date": "2026-10-13T16:09:06.000Z",
-   "source": "Mashable",
-   "summary": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full Mashable"
   },
   {
    "id": "gn-gocehs",
@@ -521,174 +682,54 @@
   },
   {
    "id": "gn-w4lbbu",
-   "title": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following its Debut on PS5",
+   "title": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following Its Debut on PS5",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnRpSG9yUFByVmoxZ3FPOU1INjhOSVlsNzVwblBwaHdYekhKUXpCSWJpYVlxcDgyei1ycGk0M25zcHIwbHFzRHJWVjJtem82MGZtSm1HLU4xUmE5c3BiVWNhclNnNW5HMEIxUjAwWXd1aE5XRXlZZmp0UHQ0eFFIU3NyTlhQN0hJeEI1c2JPaGJ1amFfeGJESG5hRDllN285R0FITjhiVm9ObFBSVTdlYU9uLUM5UQ?oc=5",
    "date": "2026-10-13T15:15:00.000Z",
    "source": "Push Square",
-   "summary": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following its Debut on PS5 Push Square"
-  },
-  {
-   "id": "gn-1seav0d",
-   "title": "Grand Theft Auto VI Reportedly Coming to PC in Q1 2027",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUpybExuUjhyTVRrQmtyUjZVVC0xamRBNGF3anlTYjNDT09OenJXOFNkX2dlancwYk8zMUNKeTg4bXN2SDNxMWNhZmgteXpkNGJ4Wkh1RUNZN2FYUmFLUVdRMlRDdlFfTnI5eGI2NFJRSndVSVZsZk4tMEhmWEdoSDNVaFRJS213bTlmOHhhazBUY01CM21yM1Nsaw?oc=5",
-   "date": "2026-10-13T15:13:55.000Z",
-   "source": "VGChartz",
-   "summary": "Grand Theft Auto VI Reportedly Coming to PC in Q1 2027 VGChartz"
-  },
-  {
-   "id": "gn-1xhsgn2",
-   "title": "GTA 6 Sets PC Release Date, New Report Says",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qQ2c5R0kwMERxVHJBNF9wUU5NUDVjVzRya09xOHRsWDI5TTlfakdVZ2hrM1VfSjFqMGt6YVVMODdxQ1cyaUtzN25YYmhzT3JaT2VSakdDWnNMZHdicHR1OHZSRXFCUQ?oc=5",
-   "date": "2026-10-13T15:11:46.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA 6 Sets PC Release Date, New Report Says Polygon.com"
-  },
-  {
-   "id": "gn-1c8pbot",
-   "title": "GTA 6 on PC may arrive sooner than expected, with a possible early 2027 release window",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaDlwb2VqV2loV3l0YVhBN2tIN3pBdmJLYkhGS1hJMWUyc2RZbEhlZS10N29fYUZodXR6czFwNEpmSGltR1JuX2JlYjBjOENPR251aTRMRk1wWTlabVJJOHI4d0RSYUZaTGQzWTNIdWVlX1FwYnFaM2NhS3BKeEVsMlZlZHBtWUo0d1ViMDVwb09VZUlERG5FcDdkdzU3SmRXWVZUbjYwa1VHQnVTcFdPeUcxMzVUbG11UFhtWXZYWWNpQVBoazJQSDVrc9IB3wFBVV95cUxOTWVEME9YV2ItUlBHMW9NeWJzanBUeGFOcnJvWDRnNXJ5ektNc1FMcHVzM2lNcGxjWDhZVy1FckRibDQwOUhyM3pFbmJqMTMyazl3R1N6UlJkS3hBUk1KaHA3UXBFcGlfNXhnckxucUd0ZWZIZkg3QmoyRnVVMm1kRV9Zd0c0ZDFlU19fMEhiRXNMcDEweUFycUpEdWphaGhLcndObS0xMTNENWx1UkF4dmVBY2xwR0tnTHFvM3BtVmt0Z2s0eGxzdUh4bmp1eGdzRTJBRDIwM0ZGWUR3dTRv?oc=5",
-   "date": "2026-10-13T15:10:34.000Z",
-   "source": "Diario AS",
-   "summary": "GTA 6 on PC may arrive sooner than expected, with a possible early 2027 release window Diario AS"
-  },
-  {
-   "id": "gn-k1pd8r",
-   "title": "GTA 6 scams target gamers ahead of highly anticipated release",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOW5ESy01dGJlcU8xNlV0cURhSXZlVVlQY0FnQ2NmZ2FMRjFJMF9CdHBxQkZ3UlRQS0NxZ21jSVBwRlNzSkxQWk1TZkd2MURMTW1OUkFweDdXU2k4ZUJhbVQzSUxfVHJMdS1wckdaOFZzeUtON1BaYTh1YU9YMXJ5OVR0SUE2UlM5RXBpVGViSXB2LS1Nc0R2bVRiNUNUODQzdWVMOEVR?oc=5",
-   "date": "2026-10-13T15:09:41.000Z",
-   "source": "Scripps News",
-   "summary": "GTA 6 scams target gamers ahead of highly anticipated release Scripps News"
-  },
-  {
-   "id": "gn-14ryi9k",
-   "title": "GTA 6 could get a PC release in early 2027",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SbEw1R0JxT2Z0UTY1UnVFVV9GdlNKMmRGUlFjd21pbDR2cWVHUGFLVms0ODJyQ3pBTW9NejI4SkVTWUozLTcwcmlmT1FKUDZhaVhRYVFtY3AzZjY0eU9rdG9wUWp5Z9IBa0FVX3lxTE5qc3E4WnVpZzNZWWk3djl2em1XTHVVSUhmNWtDNlc4anFZczZZVDg3MDd2YTBhU25uTjNtM2Y3Z09LbVRROWF6Ujcyd1dFMmp3UU9SZnJ0cDI1amFjR2o0bmZBTHMzempfejhZ?oc=5",
-   "date": "2026-10-13T15:08:00.000Z",
-   "source": "Mezha",
-   "summary": "GTA 6 could get a PC release in early 2027 Mezha"
-  },
-  {
-   "id": "gn-1sljf4o",
-   "title": "GTA 6 scams target gamers ahead of highly anticipated release",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcXlzMXlwQVVkRm9vdjdXNGFOQVRXR1ZmTzlzTG1IbFJEbWoyX3JBY2tLTjAwb3VNZXlHN2VjZUV5dHhFUXFVMnd4cWdrTC1wcENMbjhrcHVGRldubmlyaWJxWnByRTJ1YmRIQXkyOWlxVW5WX2hfYzZnSnM2RkRWTllFaW9ERzVUUnZocVRZVk1PejEyNGJhcEhIcjc2b04xaFZGZFdIUXVRbDRFUm04?oc=5",
-   "date": "2026-10-13T15:06:20.000Z",
-   "source": "Scripps News",
-   "summary": "GTA 6 scams target gamers ahead of highly anticipated release Scripps News"
-  },
-  {
-   "id": "gn-mc0mgq",
-   "title": "'I Feel Really Uncomfortable With This Whole Thing' — Miami Officials Express Concern Over Rockstar's GTA 6 Takeover",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcklxZzU4endMQ0NjaDYyQWlJM3o3c0VxM3V3ZUs5SkpXc0lhalZiMkEzRTJyX2JDam9ORk1OTFVjeEoxRkdkT3hmMU5xa3pwQVREbXR3Q2g1RVhUeHIyem1oTm5haWZ4bTRBNmZwdzFhY0paNnlnQmR3R3J6dm82TVpsMk5TcTBnSERHckxPWWUyZ19nVDlMTEhKTGMySzluMVhSN183bllsSENBYlN2Z1dVWGI2MGNkR1BnUGVGaUZzSnJ0N0pPZzZaYkZ6dzI1U3N3MUpmOGlsaUZEY1BXWHJvRVpiQ0Jq?oc=5",
-   "date": "2026-10-13T15:04:38.000Z",
-   "source": "IGN",
-   "summary": "'I Feel Really Uncomfortable With This Whole Thing' — Miami Officials Express Concern Over Rockstar's GTA 6 Takeover IGN"
-  },
-  {
-   "id": "gn-pg9sl9",
-   "title": "Rockstar Games plans to release GTA VI on PC in early 2027.",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUZMRU9zM2RIVDI0YUttSVpKVFlFM1NYODliaW1RX21SeEc1Qk01X0d0X3pTMmZLc0R5a1I2U0RaSVN0cFVSclhiZWxMRnhWQnFvTUJfU1YyTTFKUFkxTXdsVndQNWt2YldaUlpXN1QtT2cxc1VYV3JvZ2RxMnRhbnljNXFTMVVnbDRYRjRWWDF2RjVUdDRIaUlJd3pGMHY1?oc=5",
-   "date": "2026-10-13T15:04:21.000Z",
-   "source": "GameGPU",
-   "summary": "Rockstar Games plans to release GTA VI on PC in early 2027. GameGPU"
-  },
-  {
-   "id": "gn-hrerk6",
-   "title": "GTA 6 scams target gamers ahead of highly anticipated release",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclNaVkFBcktybE5teE5pRER2WGZFWkxCLThPVVdITTlnWllxTVVENVZMXzBnMktlMEI4NUl0eFY2S3VaY1Zlbl9ob3Y2VTNCX2YwNW1oSldEUTMyTEh3eWRwMWtHTzBkTlVzVFBKb1VKbXE3dDNQNTZwRTVpc3BOLWZRT3E0NWpWMTlHbm5pZGNqdVpGSU0xeVZrd3J6dWczQ1hjTGxpbHI5dm5s?oc=5",
-   "date": "2026-10-13T14:55:35.000Z",
-   "source": "KPAX News",
-   "summary": "GTA 6 scams target gamers ahead of highly anticipated release KPAX News"
-  },
-  {
-   "id": "gn-1yxqqi7",
-   "title": "GTA VI: the PC version is reportedly scheduled for the first quarter of 2027",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQlBXdUJ6dmE5M1BHTTEtVURQSWV5eEhPMWFaU01CQVRnckE0MUNfWEF3VlcxNHZnOG54MW5QME0yRTR5ZFJLdGppRFVUR29uMDlsZk4wV29Uc2ZrX2pSbWNPQjEtRnZwcnlDMGwzSkl5NkNEOUdLNE5XTkx5UHctdFplM003d3JQZy1pWUV4c3UxMXNrMjR6VHBFQkZlZVBXMkcxTWM0eTdtT0hMMExqZHBlODhTZWMzWDZJQUhGTzEyYTA?oc=5",
-   "date": "2026-10-13T14:52:21.000Z",
-   "source": "Instant Gaming News",
-   "summary": "GTA VI: the PC version is reportedly scheduled for the first quarter of 2027 Instant Gaming News"
-  },
-  {
-   "id": "gn-1o64etx",
-   "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNak8wMTM2aVhpcElWSGhXdi1USGl6SU5TeWsxcGRNeUxVb0FwNU94NTU5NVowR2VaUFNWQXNfdVlqTGhfSjFheUg5cDNmRXFtanQwRWNzcXU1Z3YzVUJxQWEwMVhRY0U5V1BORXNBb1h2Vm9YMDlPWEE4aDdxLXBlb3FoeWpNTTNoWWVxYjA2X0FhTmFSN2FZSWpWaw?oc=5",
-   "date": "2026-10-13T14:51:28.000Z",
-   "source": "Decrypt",
-   "summary": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch Decrypt"
-  },
-  {
-   "id": "gn-pzaaus",
-   "title": "New GTA 6 Merch Released Alongside Art Museum Exhibition",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb1dYTGhXVkN5b1dRLWMyMFdudnlVcUNZdTh1SDYtQ1VPYlVvbE9TaTJWcGIwMmJRZjhsckM2blhjRnFCLVQxYW9rc21tcnQ1dDBmYjB0VC15ZjlMZzI4SHllSVdKQUtMc2hEUkdaS1plcmtqejR2RlFIU24taEN2M2l1V0ZpN1Z3VEhN?oc=5",
-   "date": "2026-10-13T14:43:54.000Z",
-   "source": "RockstarINTEL",
-   "summary": "New GTA 6 Merch Released Alongside Art Museum Exhibition RockstarINTEL"
-  },
-  {
-   "id": "gn-1rzj4v3",
-   "title": "GTA VI PC release reportedly planned for Q1 2027",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa1B4cHV6ZlZxQnpXVXNQaU1HVDNicWNKai1YWTdBZG5DUFRoMERVMVRucEcxTm90aVZka3VLQldTOXpBUTJaMlFST240eVRWVVJDZ0ZJZHloMGNtWDRCTWZ0dklSMmh1S3hkNVJselU3cFdlbURqcml6ajdpclJVSV9B?oc=5",
-   "date": "2026-10-13T14:38:37.000Z",
-   "source": "VideoCardz.com",
-   "summary": "GTA VI PC release reportedly planned for Q1 2027 VideoCardz.com"
-  },
-  {
-   "id": "gn-6zznog",
-   "title": "GTA 6 PC release confirmed for early 2027, according to new report",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbS1HbTZ3QnE1TTRHYkhCM09lYkFkdlhwZGVhNmM1eDlJcS01RUFSWFk1enlSU2xPa3hxSUJkQXJuODBYaTBIc3FlRkFhUEp4QXdQdXpmejZ5bzJVc015dzgyUm5iLWdmUzk4UzVua2RGNjQ3ZXQtN3MxV0QzMExtOUJFdDhDNEc0VmR5dDB6aWtTV185c3BhMTloRQ?oc=5",
-   "date": "2026-10-13T14:37:19.000Z",
-   "source": "The Shortcut | Matt Swider",
-   "summary": "GTA 6 PC release confirmed for early 2027, according to new report The Shortcut | Matt Swider"
-  },
-  {
-   "id": "gn-osvao3",
-   "title": "GTA 6 PC release window leaks as Rockstar learn from Red Dead Redemption 2 error",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0taV2JEMUtfb2FCNlBFSTRZS3JyNjFGckxvbWZXZUpiMnV0Ujd4RVVDV2NnTDBDdGdxXzItcGdFdDVOZEQ0Ylh0eGN4WVY4SjhJd0xVN05XaHU1LWZUNTFpVlVwYUw4WnFYUS11Z0QwWFlZMUpfa2FCSTJEeXdla0F3VFc?oc=5",
-   "date": "2026-10-13T14:35:39.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 PC release window leaks as Rockstar learn from Red Dead Redemption 2 error GAMINGbible"
-  },
-  {
-   "id": "gn-ndav0w",
-   "title": "GTA 6 Will Hit PC Just a Few Months After Consoles, According to a New Report",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qam9zYW1YMHF5UFZTRUdPekZ1Z243aHgzdWFMamJUM2p0clQybkwxR2paMGFzaEY1Y3BodFhXSDFqb1I0cHpRdU54RDA4VFpuRzNCaU9BYXpPQTE3OVlHRWNmd1hRLVI2X3kwOGlpblR4dw?oc=5",
-   "date": "2026-10-13T14:29:49.000Z",
-   "source": "IGN",
-   "summary": "GTA 6 Will Hit PC Just a Few Months After Consoles, According to a New Report IGN"
-  },
-  {
-   "id": "gn-1fravh4",
-   "title": "GTA 6 Will Reportedly Come To PC Much Earlier Than Expected",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjVVd0hIdnFxTW84cUVBbl8tRkxORjl2U29GQUxQQ1NwOVZ3OGJiLUltNF9zYnhtdWdXV1BhTnVIMXkzNlVwcVdjTFJBLTQ0LWZKUmJadU8xcTZlanVGSVRPY2h0U1dJc1NxUnZUVnVXaXpXNDFsTVJzOEdUT3I3MmhLZzNUQk5WT0hRMDczNzZhX19DMUk4aGZn?oc=5",
-   "date": "2026-10-13T14:25:31.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Will Reportedly Come To PC Much Earlier Than Expected GameSpot"
-  },
-  {
-   "id": "gn-1e719sv",
-   "title": "GTA 6 Reportedly Set for PC Q1 2027",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzE0UHhTeVVRUHRKbFR4SzRvTEpvdU5tMkhLWi0xcFRjZXVjUWY0Szh1UGNmeGNJNFI1SHNHelMtVC1mTElFNXVvQWNaSTZjMVFYR21VcHNPbWs2OEZqdlNkcm1PNkZFUFJRYlVTcFN2WjB5NHFnWGpBV1MxNXFwMjBTZlViZHJWOUs0c25yXy1wZXg0a1Jvc1luRW4?oc=5",
-   "date": "2026-10-13T14:23:47.000Z",
-   "source": "IGN Southeast Asia",
-   "summary": "GTA 6 Reportedly Set for PC Q1 2027 IGN Southeast Asia"
-  },
-  {
-   "id": "gn-n4wmdk",
-   "title": "The ‘GTA 6’ PC Release Date Window Revealed, Says New Report",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQejZUbC1YTk1IN3gtZEw5ZHNhbXdzSV9iOWZYbkFOMTg0OGl2SEwzQVhQeGczSWZJWFgycVlVUVJMM2ViX2pSNFdWQUtMOXhXSnhNTDlaQThFdTNuaEVSdkZmeklQdmEyR0RUUjQxaDRubktudzgwejY3Tll4cUtlc1RkLS1UMXc2M1ZqdEFMelNCXzV2cVV2M2c0RFBnOGZldXJHc1JoWHNBNlBL?oc=5",
-   "date": "2026-10-13T14:19:41.000Z",
-   "source": "Forbes",
-   "summary": "The ‘GTA 6’ PC Release Date Window Revealed, Says New Report Forbes"
-  },
-  {
-   "id": "gn-1td2jv9",
-   "title": "GTA 6 is coming to PC in just a few months according to new report, with Rockstar moving much faster than it did with GTA 5 and Red Dead Redemption 2",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPWGx4b3IwYmtTb0ZZb3A3Rl9Mamo2bWlSLVZERlFRLWNtaGFwNVQ4eDg1QXA1eUtQaDZaLXluTlpadkRBdk9KamZRWlJsbmVZSWhVOGh6clFCM2t0TS0tVndCbW5hUjZscnJ0V2lDWTVObk9ldEFvTWhrLVlCNExrUm5PbEcwOUp4aXZKSVN5N1oxNzRCUEZKT2pDYzdBNS1RUlJRaHRsVmQ2ZzUwbk1kNTc1LTMxNklXNENwTTlCVVU0Y0VxUXNyODhhVlNZSWRHaHRybXhCaG1yTm5sZHB1MGhCT3NKcUV5YkhBakhqYlpiUmhpYnV0bUI0X1NHWU1lLXZOTzZQbG5NRFBwRTNUV01jYzd0Z3Fnckt3SlVxVThzN1pxUGc?oc=5",
-   "date": "2026-10-13T14:19:09.000Z",
-   "source": "GamesRadar+",
-   "summary": "GTA 6 is coming to PC in just a few months according to new report, with Rockstar moving much faster than it did with GTA 5 and Red Dead Redemption 2 GamesRadar+"
+   "summary": "Rumour: GTA 6 Will Be Ported to PC in Record Time Following Its Debut on PS5 Push Square"
   }
  ],
  "community": [
+  {
+   "id": "rd-mr9p8v",
+   "title": "GTA 6 door sign",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x5cax4/gta_6_door_sign/",
+   "date": "2026-10-13T23:40:03.000Z",
+   "source": "r/GTA6",
+   "summary": "hi all Getting ready For GTA 6 My coworker Made this door Sign For $15 and He gave me the black one for free🤩 i cant wait 5 weeks 2 days submitted by /u/TaroNo805 [link] [comments]"
+  },
+  {
+   "id": "rd-6oci4c",
+   "title": "I think that's the same guy",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x5bhkz/i_think_thats_the_same_guy/",
+   "date": "2026-10-13T23:02:53.000Z",
+   "source": "r/GTA6",
+   "summary": "He's definitley going to be a major character submitted by /u/Sthlpelicam007 [link] [comments]"
+  },
+  {
+   "id": "rd-1wzyk8p",
+   "title": "Was not expecting this...",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x5av3j/was_not_expecting_this/",
+   "date": "2026-10-13T22:34:28.000Z",
+   "source": "r/GTA6",
+   "summary": "Was not expecting to see this while at work today... Just south of Jacksonville, FL headed to Vice City submitted by /u/SlinkyNormal [link] [comments]"
+  },
+  {
+   "id": "rd-hk7fvh",
+   "title": "Spotted the Vice City Airship on its way to Miami",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x5an2a/spotted_the_vice_city_airship_on_its_way_to_miami/",
+   "date": "2026-10-13T22:24:27.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/TubeMeister [link] [comments]"
+  },
+  {
+   "id": "rd-1rsb0mr",
+   "title": "How is Character Customization Going to Work?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x598zy/how_is_character_customization_going_to_work/",
+   "date": "2026-10-13T21:25:42.000Z",
+   "source": "r/GTA6",
+   "summary": "So I’ve been thinking about the customization a lot lately and it sounds like each store is going to have unique things for us to buy which got me thinking about clothing specifically. I highly doubt "
+  },
   {
    "id": "rd-qss0rz",
    "title": "Here's what we can expect from Bloomberg's cover story tomorrow",
@@ -968,46 +1009,6 @@
    "date": "2026-10-12T12:21:16.000Z",
    "source": "r/GTA6",
    "summary": "We'll have the files but will have to wait another week to launch it unfortunately submitted by /u/pablo98marin [link] [comments]"
-  },
-  {
-   "id": "rd-ihq0vx",
-   "title": "Today’s GTA 6 leak without context",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x3zqpc/todays_gta_6_leak_without_context/",
-   "date": "2026-10-12T11:48:37.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/ArachnidLive159 [link] [comments]"
-  },
-  {
-   "id": "rd-vvk9dx",
-   "title": "Wallpaper I put together from the Extended Look",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x3xpsu/wallpaper_i_put_together_from_the_extended_look/",
-   "date": "2026-10-12T09:51:53.000Z",
-   "source": "r/GTA6",
-   "summary": "As nice as Lucia is, I thought the city was nicer so I removed her. submitted by /u/plipoot [link] [comments]"
-  },
-  {
-   "id": "rd-1dc1hbr",
-   "title": "Free roaming with a companion is creates a new dimension",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x3worf/free_roaming_with_a_companion_is_creates_a_new/",
-   "date": "2026-10-12T08:46:23.000Z",
-   "source": "r/GTA6",
-   "summary": "With the possibility to free roam with Jason and Lucia together, it opens up so much of the world exploration. I'm really curious how your companion reacts to the actions you do in free roam. From exp"
-  },
-  {
-   "id": "rd-n3ro3j",
-   "title": "New vehicle 'rating' system in GTA 6...",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x3w6ox/new_vehicle_rating_system_in_gta_6/",
-   "date": "2026-10-12T08:13:12.000Z",
-   "source": "r/GTA6",
-   "summary": "So I noticed in the Extended Leek when jason is browsing the dirt bikes to rent one, a bunch of info about the attributes of the bikes pop up on the right. At the very bottom of that attribute UI, the"
-  },
-  {
-   "id": "rd-uaaowa",
-   "title": "The Final Drive (video contains Breaking Bad spoiler)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x3vjzw/the_final_drive_video_contains_breaking_bad/",
-   "date": "2026-10-12T07:33:03.000Z",
-   "source": "r/GTA6",
-   "summary": "That last drive around Los Santos with the guys will be a crazy feeling… submitted by /u/Outrageous_Truck_880 [link] [comments]"
   }
  ]
 }
