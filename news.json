@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-14T19:33:40.843Z",
+ "generated": "2026-10-14T22:56:43.625Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 8,
    "scanned": 40,
-   "checked": "2026-10-14T19:33:40.843Z"
+   "checked": "2026-10-14T22:56:43.625Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-14T19:33:40.843Z"
+   "checked": "2026-10-14T22:56:43.625Z",
+   "error": "HTTP 500"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-14T19:33:40.843Z"
+   "checked": "2026-10-14T22:56:43.625Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-14T19:33:40.843Z"
+   "checked": "2026-10-14T22:56:43.625Z"
   }
  },
  "official": [
@@ -208,6 +209,102 @@
  ],
  "press": [
   {
+   "id": "gn-qxvd5a",
+   "title": "Cyberleek Returns, Posts More ‘GTA VI’ Footage, Promises Not to Return Again",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOXzZtVzNWR0ZJYVB3aGQyZVJnV1hQWUNuQ1ZpQmZXekZua0ZuNW4wbFZhXzFpclF2b21fNHlBN0NqQTNjMzlCZm1tR0VoSEpRbDFPWlUxblBWWkpTUU9Bc3lRYk9WaG1GR3ZLbjlIakJfcGdWZzlZYlRQbFp6SnZULW5Nc212YVpEVmlMMzhJQkVFVGlwMFZMUUlrZUJoYmx0ZERDOFNB?oc=5",
+   "date": "2026-10-14T22:10:07.000Z",
+   "source": "Gizmodo",
+   "summary": "Cyberleek Returns, Posts More ‘GTA VI’ Footage, Promises Not to Return Again Gizmodo"
+  },
+  {
+   "id": "gn-dzd7em",
+   "title": "Rockstar says its future games won't take as long as GTA 6 to come out",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzJqY25uVkltRzFFQU1OYmo4U292cWU4Q1U5QkJSNFRoY0NUNTJiQkJpeFFseHRzSXV5cUplQWNKY3hFaW5QczU0S3k1dlRTNVpocmppeUtiRTdsQXZYUWUzTXlPWkhZdk9iTl9jV3JYUkptSzNURGh6dEZOenVCMzJwQThlcGkwLW5sSktoNU9iN3NHLVdWaXo2Zm9Ud0U?oc=5",
+   "date": "2026-10-14T22:00:00.000Z",
+   "source": "Neowin",
+   "summary": "Rockstar says its future games won't take as long as GTA 6 to come out Neowin"
+  },
+  {
+   "id": "gn-lq1sh2",
+   "title": "Grand Theft Auto VI Hype Keeps Building Ahead of Launch | Chart",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPekp0aGxwTjJSZ0JaWGxzYS1BeTFqdWhZd0NWU0xyVXVuLVl4aGxBdU5vbjFIS05aVFBfWlZlcklib1BucWRwVXNwb01DaFVfWURBaERCcVJzUHh0V3l5bnBBb052b3ZmMm9Rb2E5Y1FmOFRfOHo3a0s2X3N6VlZuLWFWazVWTUl3RzgtSnUxUFZhdW9NTG1rUXNzQWFId0dVQ2tubDN1alBHcElqN191WFZn?oc=5",
+   "date": "2026-10-14T21:55:48.000Z",
+   "source": "TheWrap",
+   "summary": "Grand Theft Auto VI Hype Keeps Building Ahead of Launch | Chart TheWrap"
+  },
+  {
+   "id": "gn-uhhnhx",
+   "title": "Major 'GTA 6' upgrade: The SteelSeries Arctis Nova Pro Omni gaming headset is the cheapest it's ever been",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3lYczFOQmtuV1QzdDljYTRmNEpSS0J3YmJuTTlaNnhJSHZYd3FSTkowLXRkS18yT3IxdVpMNTdHSnU4QlBnZ180MW5iVlM2UmxWbTRLTUN0YmlDT0hzYVdjdFBaT3p3a2o3Qy1kRndBUjBaektDRGNhelJvaEJpUERxY0pRRVZrdTU1MENn?oc=5",
+   "date": "2026-10-14T21:17:45.000Z",
+   "source": "Mashable",
+   "summary": "Major 'GTA 6' upgrade: The SteelSeries Arctis Nova Pro Omni gaming headset is the cheapest it's ever been Mashable"
+  },
+  {
+   "id": "gn-iql9d3",
+   "title": "GTA 6 Cyberleek update: Leaker linked GTA 6 reveals to crypto play. It’s crashing spectacularly.",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODc2RXdOR1ZPNGdsQm9xUk1XUTJlOGo4UHI4WkVOcFJWOHNGMTFBOWl0RWw1ajNnZnB5ZmVqUVg4U2RuTmJ2cUxhb1JmYkE0Mmx4ZkExVzA0clFENlQzYXlkV2VuUVg3MUFPcHAtY1pOUnRyeHRxekx4bk5hZ25zbzB2SXNPcXpjd3NLV1pn?oc=5",
+   "date": "2026-10-14T21:17:45.000Z",
+   "source": "Mashable",
+   "summary": "GTA 6 Cyberleek update: Leaker linked GTA 6 reveals to crypto play. It’s crashing spectacularly. Mashable"
+  },
+  {
+   "id": "gn-hou90v",
+   "title": "GTA 6 Delays Officially Explained By Rockstar Games",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lRXJHT2J2VW0zNXZSeEllV2xLV01leC0yWktwdG5fbW5LU1czLU1FZTd4Ul9HX2VXYXFpLVhZeVdub2xZZ3lSQlpQelZuRFp4Wmg4UzZQVTF2cUFrcUpYanNBUV9OMUVMd01vU1hlenF5dHFP?oc=5",
+   "date": "2026-10-14T20:21:20.000Z",
+   "source": "SVG",
+   "summary": "GTA 6 Delays Officially Explained By Rockstar Games SVG"
+  },
+  {
+   "id": "gn-kigefi",
+   "title": "Rockstar Games Originally Planned to Develop GTA 6 Alongside Red Dead Redemption 2, But Plans Changed",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYm1kd1hjclRGeGFCWFdQR012elZnOEVLSmV0ZFh1Vzh1enN5d095YzNOVTFKYlktQUVNU2JQZ2FXWGluajdHZUY4Vm1ZY0diREwzdXlDRUpVWUFTcUI2X0dZSVk3RFFuQ3k2aU9qVjhoMUctRXNQdXhHYllyMG9TZUVFN3RyMTlvNmJ5eFJmb1VVUnZoTWNfN00tQQ?oc=5",
+   "date": "2026-10-14T20:15:11.000Z",
+   "source": "IGN",
+   "summary": "Rockstar Games Originally Planned to Develop GTA 6 Alongside Red Dead Redemption 2, But Plans Changed IGN"
+  },
+  {
+   "id": "gn-w4laac",
+   "title": "GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year...",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVdiWF8tQ0RNWW5jSEtEbjBDSFpDN0FDbWJaN3JnSTVJSGV3ZG8yOTRpckxoWkJmbkRDeGtLSmlqa0V2My05LU83QzhDeldJTW05UEVlY1ZzSGpfYng5MmcxOXVjMjJITV9meVktZWFwZTVIV0hVbGdMRzdzUEZYbHhWMjFlZUZFUnlqb1ZjTDFraVdPT2Q0YnMwdThpa2NfcC02RVpwUWdaUQ?oc=5",
+   "date": "2026-10-14T20:01:39.000Z",
+   "source": "Polygon.com",
+   "summary": "GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year... Polygon.com"
+  },
+  {
+   "id": "gn-1qv8yvm",
+   "title": "GTA 5Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZmlNc0ZnS2pLS3JJVFJGNFdaZTNKYUJuamg4YmlVTk1ya0RwWDZpSXdUZFhqdFNQVG9tcE4waFltZTVYMm90Y1N5Y1VYY2hJSEdqSlFqM2p1LVpVQ0xQRVN6dzlRNWlmLXhxdUloQ3FNYmFWaUxZNW4tRU9UMlVTdA?oc=5",
+   "date": "2026-10-14T20:00:48.000Z",
+   "source": "Kotaku",
+   "summary": "GTA 5Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches Kotaku"
+  },
+  {
+   "id": "gn-1mnl7v2",
+   "title": "GTA 6 leaker threatens dead man’s switch for endgame spoilers",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVBFYnZlTy1obGUzWklMckx5bk1VaTdMRnV1akp3a2hQdzRvNWRkWUxraTBrdFctR00xSWFtZU5wVGduT09Sc3habjR2bms2aGQ1RUxmNGs3Y1UzeURPYXdmdWt4eWFCMjFVM2cwOVpKdElDLWZFbGlGdW01cVQtejYwZlg3a2c?oc=5",
+   "date": "2026-10-14T19:50:28.000Z",
+   "source": "Protos | Informed crypto news",
+   "summary": "GTA 6 leaker threatens dead man’s switch for endgame spoilers Protos | Informed crypto news"
+  },
+  {
+   "id": "gn-17gm21g",
+   "title": "Rockstar's GTA 6 Follow-Up Won't Take 8 Years - IGN Daily Fix",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPak1hYk1ZZGd2QXJZdTBPVTVFbmVNY3AxX1dKT2FUcURsdjhPMjY4RkhKSWRhQ2ZRMjIxV0ExMlluS1BDWElMTUNaMmhuYWE3VFBXeHZOTVZqQmZwam0xUFVyWGFyRXpjMHI1Mlo3NnJPV0Y5T2Z5QW5fcFBSX0tsSG05dVlKVnh2elZ5emJNMGZYSG5PQlhRN1FNVHRFTWZCTy1YU1c3bWhNVkpEVHhTczNzX2FXa095MnF0ZFJZb2EtMDQ?oc=5",
+   "date": "2026-10-14T19:41:43.000Z",
+   "source": "IGN Southeast Asia",
+   "summary": "Rockstar's GTA 6 Follow-Up Won't Take 8 Years - IGN Daily Fix IGN Southeast Asia"
+  },
+  {
+   "id": "gn-5ag6k4",
+   "title": "GTA 6 Cyberleek update: Leaker linked GTA 6 reveals to crypto play. It’s crashing spectacularly.",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTBFcXBwZDVxbS13QjNsYVF2UjVlZWVveUxURklPQjhIbG9PeXcyTTVqWk5Ec1JqUWNJeE42NXlCU1dhNExDdDlMZlZMUzVjdjhISGMwNVFSRXdqQTBOY0pJMUhSODlQbUlNZ0tjbGJVOHpWYUd0UE9MN1hZXzVNSFJhQUZZN2xYRUJGMUEtclZocHVVZ25USjdzX3hlMlUtTXJwdGhuX2Q4LTJNZFNBeGVCS3pqX0lwMlo2WUlZSkxfQjYweHY4?oc=5",
+   "date": "2026-10-14T19:40:59.000Z",
+   "source": "Mashable SEA",
+   "summary": "GTA 6 Cyberleek update: Leaker linked GTA 6 reveals to crypto play. It’s crashing spectacularly. Mashable SEA"
+  },
+  {
    "id": "gn-y7zrop",
    "title": "Thanks to GTA 6 Foundation, Rockstar Promises Next Game Won’t Take as Long to Release",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb09taWFIbFA3N0oxZFlnd0xua3ZJQzU2RWNIRzJRc1g0QjQzNVRaZUhYMTJ1T0ZHYWltWTBsQUFKY1VKRlREWVlnbGU1YjdVZzVwUnJ1Q2llLVdBQ1VwV2kwNFItRFB1aXNWNFZuQVRfTEUwWWdHUzdXWkMxQ3dMUHpvWU5xclQ1ZkZtaGxpM0ZScTNjZXQ0cndJMGEteVJvd1E?oc=5",
@@ -216,12 +313,28 @@
    "summary": "Thanks to GTA 6 Foundation, Rockstar Promises Next Game Won’t Take as Long to Release MP1st"
   },
   {
+   "id": "gn-yyh0um",
+   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
+   "date": "2026-10-14T19:05:05.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
+  },
+  {
    "id": "gn-13lv7a1",
    "title": "GTA 6 Reviews: When They Could Be Released",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdkxacHZwZTJBc0VERFNXTVNSa3ltdmdiaENid2Q5ZUxBdlduUmkteVJnRHhuMlY5eC1qSGE1X3UwWHdWaS1vLUhhWGd0QXlpMFoxTXFqMjJHRFVwRVFUUXE4NW9BR1hfZnJleno0WHBoSWM1Vk9LdHVNd3lYbzRjZWR3?oc=5",
    "date": "2026-10-14T18:55:37.000Z",
    "source": "GameSpot",
    "summary": "GTA 6 Reviews: When They Could Be Released GameSpot"
+  },
+  {
+   "id": "gn-1wd17vb",
+   "title": "GTA 6 Reviews: When They Could Be Released",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMGNYYklIR0VGOG9zdUhkSE9QYnJqVVlMaHNFRVYySXlfaGpLOWxfaG1EVmlJNnFCRHc1bFNmbVlZb080alhEZER4cVB0YnVIVFF4d0JnQXFlWEV0R0psWi1HRHg5elV2UHdwVjJuUVlMd2swSkJxejk5VF9yX0NRdzFxUTR3M3FTRVE?oc=5",
+   "date": "2026-10-14T18:53:45.000Z",
+   "source": "Yahoo Tech",
+   "summary": "GTA 6 Reviews: When They Could Be Released Yahoo Tech"
   },
   {
    "id": "gn-ky4xul",
@@ -368,14 +481,6 @@
    "summary": "Take-Two shares could reach $300 as GTA VI upside remains unpriced, says Jefferies Yahoo Finance"
   },
   {
-   "id": "gn-uhhnhx",
-   "title": "Major 'GTA 6' upgrade: The SteelSeries Arctis Nova Pro Omni gaming headset is the cheapest it's ever been",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3lYczFOQmtuV1QzdDljYTRmNEpSS0J3YmJuTTlaNnhJSHZYd3FSTkowLXRkS18yT3IxdVpMNTdHSnU4QlBnZ180MW5iVlM2UmxWbTRLTUN0YmlDT0hzYVdjdFBaT3p3a2o3Qy1kRndBUjBaektDRGNhelJvaEJpUERxY0pRRVZrdTU1MENn?oc=5",
-   "date": "2026-10-14T16:30:46.000Z",
-   "source": "Mashable",
-   "summary": "Major 'GTA 6' upgrade: The SteelSeries Arctis Nova Pro Omni gaming headset is the cheapest it's ever been Mashable"
-  },
-  {
    "id": "gn-1n25qjr",
    "title": "'GTA 6' Cyberleek release update: New leaks, development build, and roadmap of what might be next",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOU9KUXk5VWxSS2lQMGhrakdEdGcwVGU3eE95TEVqMDBLOVpERGVJQTV0aFhFQVUzQXZCZ0dIY2ZmbVFnTWpzSkMzZEJvaVphUy1WRkhwTmlIWnZUalU4Q09qaGxLNXhwLWo3YmZlSUQyU0xoQXRURWgwd21rX1BEdjVtV054aGxvMEE?oc=5",
@@ -392,20 +497,20 @@
    "summary": "As the release of 'GTA VI' looms, Nintendo bets on 'The Legend of Zelda: Ocarina of Time' WLRN"
   },
   {
+   "id": "gn-11q7ocl",
+   "title": "As the release of 'GTA VI' looms, Nintendo bets on 'The Legend of Zelda: Ocarina of Time'",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1hWV3R2S0VXT1hiTWZXLWNUY19ZY3l2dDhMeV9XbS1SbW03cFJOZ0N0VUdRSHl0MWxJT1kzdzJneGI2OEx4SmJuSU9XMllZUGxsZnNSN19VOUR3UWEtNGlKM3FNczNmUmdTS1htV20zU0doSVpUdXpkSjluV0swa1FvSU9jWlZRTjVxQjZXbUpuUmozRXY1eklTTk5XdE9CSnV1a1Q4LTJqQjhfWWZGSkZZYzhpUQ?oc=5",
+   "date": "2026-10-14T16:06:00.000Z",
+   "source": "WVXU",
+   "summary": "As the release of 'GTA VI' looms, Nintendo bets on 'The Legend of Zelda: Ocarina of Time' WVXU"
+  },
+  {
    "id": "gn-h4hp8h",
    "title": "GTA 6 Leaker's Latest Effort Appears To Flop As Group's Meme Coin Declines",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSzVMbE02eEZyaURxM2xCcVJScEFXQmpjd3M5ZTJJMUlQSGpRU2hCUFVIUlc5VHRwUnBTbDQxWVJHX0hTeWNIYmRPdVYtTnQ4VE5KanQxYjl4ZWcyUDVETGJ0OGk0d3JlWmJkSGoxSlVhblk4NlNsdHFaVnZ4ZnQ3R1JONHhjX2U0TFE1eEJJdVlJLS03OGRiRUlMNmowUkZn?oc=5",
    "date": "2026-10-14T16:04:43.000Z",
    "source": "PCMag",
    "summary": "GTA 6 Leaker's Latest Effort Appears To Flop As Group's Meme Coin Declines PCMag"
-  },
-  {
-   "id": "gn-yyh0um",
-   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
-   "date": "2026-10-14T16:04:33.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
   },
   {
    "id": "gn-105jb22",
@@ -464,6 +569,14 @@
    "summary": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch' Mashable"
   },
   {
+   "id": "gn-9dn88u",
+   "title": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch'",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd21XbFNKdmExcEF5VXJCOHFMZTM4YjZPdlVDekdKYmYyWW9DcWVMd0xNeDhDTkRDWlUyVmIxcnFxNDZyWDF3cUYxaUNOR0R5Qlk5X05CRHp6N29TS2M4U1NMSnpQem1VNzJUUEdxUVk5T3Z2WV9WZDREUDhDNmxNdzRsTjlBdEpDTnFjZzVVTXpWNjZrX3N3T2JDbzJYcXFEektROGR5cnI0dw?oc=5",
+   "date": "2026-10-14T15:31:58.000Z",
+   "source": "Mashable SEA",
+   "summary": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch' Mashable SEA"
+  },
+  {
    "id": "gn-1gbk9sg",
    "title": "The next Grand Theft Auto won’t take 8 years to make: ‘we’re not going to rip it apart’",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTTh3eDBzdFc0QXNPVEVzSC12M3U2a2ljLUpncHM0S01HS0VaWVFOZU1FZ1NOTHE5YlZPc1dhY0tpbE9nVFUxVnczTDJ2dXpMMDJoTkxtRS13RDk4UWwtRnNFeVJ0UVhqV3NSd3d6ZENteG5pQzA1ZlJTYVFMTVZfWW9tTGtpQ0RkcjN0RUpRV1JMNXp0am1EU0R1LWctNF83Z0NwWWFFdlFTYXc2U2V5NlBPVXY?oc=5",
@@ -512,6 +625,14 @@
    "summary": "7 Major New GTA 6 Details Officially Revealed by Rockstar Polygon.com"
   },
   {
+   "id": "gn-1ua9b8y",
+   "title": "GTA 6 PC Players Could Face a Shorter Wait",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rSmtrVG41REFxanBGdWNKb2dyOWdaVVhLTUpHQ1RaYTl0SHc4bjhlMktsT2ZsYWtmSU5SMzNUZVVUbUZsd09pb21FaFFZWkhoOHBDU0E3Zw?oc=5",
+   "date": "2026-10-14T15:00:00.000Z",
+   "source": "Gamereactor UK",
+   "summary": "GTA 6 PC Players Could Face a Shorter Wait Gamereactor UK"
+  },
+  {
    "id": "gn-1p10yly",
    "title": "GTA 6 Leaks Are Still Coming, Rockstar Labels The 2022 Hack \"Weirdly Invasive\"",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTI3NDVPR05mNlhnVXlPMWNCMjZwUXNhOEwtVjdoRGk3SVV6Ukt3bHdTc28xSzRWV1ZTdVVoUkxXMnhNZWExUGM2clFPUExBNTRoMlVZTkpaX1VMdEtjZjJDZlM1NkdlZXNET1MwQ09Wc0dBUWEzWDE1TTg5aDNBS19hUTIwdF82dkF2MmRKWkxDcW5pX2pRaFVZWG9ET0FNR214bVJDQWYzdGVEaVBB?oc=5",
@@ -526,6 +647,14 @@
    "date": "2026-10-14T14:53:44.000Z",
    "source": "Polygon.com",
    "summary": "GTA 6’s Most Unbelievable Rumor Confirmed Actually Real Polygon.com"
+  },
+  {
+   "id": "gn-iaz8zy",
+   "title": "GTA 6 Leaker's Latest Effort Appears To Flop As Group's Meme Coin Declines",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlRYR3VzUnpEUjg1V1NObmhlS1N6dUpEN1ZtUm5GaldjUFBJUGM5b1I1UjZ0dlRRZ0dOZnFibWtHZXRXNXQ5blRiSTNscEs3dFdRSkVka0QtTnpXcVh5VFI0YXdJcFE2VTU1eHFTdFRQeVJJREJSRXEyVllXOXEtTjgteXFSMDNqbkUyU2Qyei1nNHlzUXVXbzllNk0xRVhhSlRSSVJJd2Y0SS1GYWc?oc=5",
+   "date": "2026-10-14T14:49:13.000Z",
+   "source": "PCMag UK",
+   "summary": "GTA 6 Leaker's Latest Effort Appears To Flop As Group's Meme Coin Declines PCMag UK"
   },
   {
    "id": "gn-1uzrck2",
@@ -558,137 +687,25 @@
    "date": "2026-10-14T14:39:00.000Z",
    "source": "HotHardware",
    "summary": "GTA 6 Could Land On PC In Early 2027 Before The Console Hype Fades HotHardware"
-  },
-  {
-   "id": "gn-1my9z54",
-   "title": "New GTA 6 Leak Shows Off 5 Minutes of Lucia Customization",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMFBWcTgtVjZaNXU4Yk9NREt1UmFINXpXRVlZUkg4bW82QVVsYjhjNDVvdGhLQlZ5ZkNmbTRhQkVqSHNPWUw4eVFGWW1lbXBrb2x0eXc2S2hVWktmS0xUOWJSLUlIYnlIWWhxdHRqZUNDX2ZKUENJUnduaGh6dUI3SDZqak5GZnY3U3pjM0xLNFJpemRDM0E?oc=5",
-   "date": "2026-10-14T14:24:58.000Z",
-   "source": "OpenCritic",
-   "summary": "New GTA 6 Leak Shows Off 5 Minutes of Lucia Customization OpenCritic"
-  },
-  {
-   "id": "gn-9r67w4",
-   "title": "GTA 6 took 13 years but Rockstar Games says GTA 7 won't",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TTzFRN2pSMkRhb0JTTTZjYkh1Vk1lbjZ0MVVwdFJYLXdIU1R1NmV4U2ZhUmNlODk2YTZ3eW9EUlZfUkxJcy1WM242cV9Ec0Y2QjUyeWN2d25FYUlzNHV3OEVidHktZDUwaVpDR2xtNUpjQQ?oc=5",
-   "date": "2026-10-14T14:21:36.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GTA 6 took 13 years but Rockstar Games says GTA 7 won't Yahoo Tech"
-  },
-  {
-   "id": "gn-m54137",
-   "title": "Rockstar Issues Rare Official GTA 6 Development Update",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4ZHZWa0lCUjA5UlVlZ3NaaTZLWERCV1Z1NHhsVXpTemNJd3JObHpjLTBZTm9mMXIxd2luVm1yRGZWNVRXWl9GbkxmZVoxNlpFeVg4QmcxRFZGc2VUTjdrSmJQSWs2THA2TXB5aFlQZWptdkxZVEE?oc=5",
-   "date": "2026-10-14T14:17:51.000Z",
-   "source": "Polygon.com",
-   "summary": "Rockstar Issues Rare Official GTA 6 Development Update Polygon.com"
-  },
-  {
-   "id": "gn-c8dd0t",
-   "title": "GTA 6 Leaker Announces They Won’t Release The Full Game: ‘The Leeks Stop For Now’",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlRuWjQ1MmdJdl96dl9vbFc3a2VydWpjOWtLdE1RdlRVbE1WSldrRGJWajJxZmZGQlNtSHd4WEhGS3ktdUNIaTJMMnEzak5EN3VyT2ZnMEZEd0IzcmRPcjZ6LVNhM1hfdF83bE9SU29hUTRrS0dhOWJjX2ZHN0ZValgzN05teElvVzNrSi0yck9JOERRZlBlMWRRNmJTZUxpMDNLamlicw?oc=5",
-   "date": "2026-10-14T14:17:10.000Z",
-   "source": "Kotaku",
-   "summary": "GTA 6 Leaker Announces They Won’t Release The Full Game: ‘The Leeks Stop For Now’ Kotaku"
-  },
-  {
-   "id": "gn-5orrez",
-   "title": "Rockstar almost doubled in size while building GTA VI",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaU1iRXM0YURBVTVSb2k1R0tydlNXWF9ZUEJJNW1XNVZacVU0ZVFsa3VyNXBXOXNBakJSdERvdzZWb1JzZWh0M2oxWHlxbml4UVoyM0w3RFctWHV1N0daaGtKRThCZWNRdEhaR3ZocmNNeGlCMk54UG1SUWpQcXVpMnVHTDV0QjhuVEd2bEdmV2JLdlRVS3FscG84eERPRjVndUE?oc=5",
-   "date": "2026-10-14T14:15:01.000Z",
-   "source": "KitGuru",
-   "summary": "Rockstar almost doubled in size while building GTA VI KitGuru"
-  },
-  {
-   "id": "gn-9k2end",
-   "title": "Rockstar Says Next Game After GTA 6 Won't Take Eight Years to Make",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTXVwN1NDakltQ3RPSVk0UE1YWWZiWHU4N0IyRXZjUmU3cjJHUERFSVdZeUNSZWV4X241LTFFT3VoREEtUUk1YjIxV25TV0dmV050VHhLLWRjSTh3UFdYWFprRkotNHVYMzlfUnpiN1Ywa1N4TE5lQ3VtVU1TU3dUcnpmR1hLLU9wb2loNzVRZE9FMGtsaHRKQzVOUEFwTFNIR2htVGYyUVpHdw?oc=5",
-   "date": "2026-10-14T14:12:32.000Z",
-   "source": "VGChartz",
-   "summary": "Rockstar Says Next Game After GTA 6 Won't Take Eight Years to Make VGChartz"
-  },
-  {
-   "id": "gn-1r77kfc",
-   "title": "GTA 6 Team “Changed Things” Even in the Last Few Months, Initial NPC Projections Were “Horrifying”",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2F6aW5WVUhTeWdGb25KYXJYREMxUFB1ZzlvMVotb0lhbU0zS1NTcHdEalpMc3JXRUxWVEVPM08xUllBX0NzeFNubTBOTTl5MG9ua0oxb09UM0tYZFVMdXZSUnBydGxLMFRhaGRBQWkzd2pJanZHbE1vYjNmbHlZMTl3clVCdG9aWEd3OWtnaWhXYnpkSWVMYzdSM1hfTGZoTHJqbmtOdi1Wc2FmcXc3dDkzcndUZ0E?oc=5",
-   "date": "2026-10-14T14:12:17.000Z",
-   "source": "GamingBolt",
-   "summary": "GTA 6 Team “Changed Things” Even in the Last Few Months, Initial NPC Projections Were “Horrifying” GamingBolt"
-  },
-  {
-   "id": "gn-1t1k0mw",
-   "title": "GTA 6 Could Have Been Even Bigger And Released Years Sooner, But Then These Things Happened",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUt0Wnhwbm9vQk9qSWhqaS1hVmI3aHVSMm82cUMxQUZYU09xcl9xVkotNzRHVHBSUm5mMXFRNG05VXZwLWRiQ25EeDBSREZ1TWVkSVRjUEJ2UDhBREhvWkhwb0JWOTRWd1hpS2FFR0hLd3dLb2U4aF9BVFNmemRJR2RNZnRqQjNFRzZNTTU4am0wajlQX1ZEUGZpdHh0SElCSzZBM1pfNmQ0cDB5R1h4UXl0Uldic25NclJjMk1rQjR0OTQ?oc=5",
-   "date": "2026-10-14T14:05:21.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Could Have Been Even Bigger And Released Years Sooner, But Then These Things Happened GameSpot"
-  },
-  {
-   "id": "gn-1cdlghz",
-   "title": "Rockstar says its next game after GTA 6 won’t take as long to develop",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRW9NTnd2SUVBOEV6dEw1cDhuc1VPcGdfUDJ6VkEwdmtNMFlTb2Zoa0NRSHA5MTVMNVFrYlZEUEw1bHpDTlZCTGhmcDMyZS04TkxMc0twLVY0Tld1cERNTGZfdjBpR3NlbXhkaDNkLU54UXlzSFVZQ0hxZXQtNGZpWHZ0VQ?oc=5",
-   "date": "2026-10-14T14:04:00.000Z",
-   "source": "Shacknews",
-   "summary": "Rockstar says its next game after GTA 6 won’t take as long to develop Shacknews"
-  },
-  {
-   "id": "gn-1wnqupz",
-   "title": "Cyberleek posts last GTA 6 leak, opting against PC build or story spoilers upload",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTWIwdEtvTTZzNk5GUTd0SGN5U0hWd0E0V091dlE4OVVhbldibmR0a2FvY3dhYWVZWUw0dlk5cDhETVFxZE95UnNOaXVmLU1yUjlaV0duNVBPTHVETE52R29pNUVrQVQzTzF1U0k5S0s2MXRGN2s3elpXNlkzcmpqM0ZMV255WElNTUhWd2RYdi1RTVE0UWx5QVNJSC1rNHkydlVZMTdzMXh0ZFN5YmtQdncxNUtyM1BucEdMV29aTTNuM0U?oc=5",
-   "date": "2026-10-14T13:59:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "Cyberleek posts last GTA 6 leak, opting against PC build or story spoilers upload Notebookcheck"
-  },
-  {
-   "id": "gn-gp45ks",
-   "title": "GTA 7 timeline mapped by Rockstar, the scene has been set",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1OYXBjNTNkNWxIaFBtbHMtb2R6WFRuRmdyVzJzcFF4T0VKUlRSeVBseUxBNkZFblVYc0ZWUXZhUXZxWmRrTFFnZFJFNE5UamgwTVYxQTlLak1XSWF0Sy1SdHhBcDdCck82NmNVY0FISUo2eTBuWWdJWU53?oc=5",
-   "date": "2026-10-14T13:58:33.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 7 timeline mapped by Rockstar, the scene has been set GAMINGbible"
-  },
-  {
-   "id": "gn-16u5bes",
-   "title": "Red Dead Redemption 2’s Crunch Made GTA 6 Studio Say “We’re Not Doing it Like This Again”",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaF9uTkw2aGZ5dDJkdUlucW1jM2hZdHBzWnJxc3p6cTdEd0h2eXk5Y0stX2xDY2lCOUhRRG5vbXYyMXp6VVhDNE1yejlEenMxYWtZZjNGOGsyN0NYaHhnLUJYcTNrRWJSM0R0ZlcxRU0tcFpneFc0b0tUOHFPTnZjY3hRamNxNHBIdmhEeVZKLVhFY2NtQlotSkd5enphV1RQeEt3ZE0zVUlobmxP?oc=5",
-   "date": "2026-10-14T13:52:17.000Z",
-   "source": "GamingBolt",
-   "summary": "Red Dead Redemption 2’s Crunch Made GTA 6 Studio Say “We’re Not Doing it Like This Again” GamingBolt"
-  },
-  {
-   "id": "gn-yhj3ws",
-   "title": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kN3pYNl9TNHJCajJsUzZWTTR0TndMeko2Unp0cUsyNWRuVEpYcE4wU2pRSzVOT2o2a1Y4X3FnMkd0alFTano5LUtzTXd3OVM0UHBDYjM5OFgzenN2UkU2T1hCWFVpTnVKbmwtZHJiNC1ueGJU?oc=5",
-   "date": "2026-10-14T13:42:13.000Z",
-   "source": "Eurogamer.net",
-   "summary": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end Eurogamer.net"
-  },
-  {
-   "id": "gn-r26fly",
-   "title": "GTA 6 Leaker Threatens Story Spoilers If Caught",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1VvM2tTWEZuMEZJYVZYY0M5cTNxZjVLcUhYNzZEQTYyRFlQemNUZ3dreDNIVUQ1TFFWVHdDTExtVTZqci1qWkFnVkIyOXRUOHEyeENVX1dydWp1UHNrSk5ySE1fMk5taVJBaGhGSmJLSTBOcGV1VzhwN1JLM282cw?oc=5",
-   "date": "2026-10-14T13:41:07.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA 6 Leaker Threatens Story Spoilers If Caught Polygon.com"
-  },
-  {
-   "id": "gn-iftw6a",
-   "title": "Rockstar Opens Los Angeles Studio To Build GTA 6 NPCs",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HTkhMOVNldWpsVjZQUXE4aWVBdGZjM1A2YmpVVWpjaWMwTmQ1WHo5REptWU96SzlwWHY3b3JtTno2dVRDSHA5TUJuSUdjOFAwa1VvbEFpc0tDZmRnejZOQVExSTJNcGZHaXBZRlhJODg?oc=5",
-   "date": "2026-10-14T13:35:44.000Z",
-   "source": "eTeknix",
-   "summary": "Rockstar Opens Los Angeles Studio To Build GTA 6 NPCs eTeknix"
-  },
-  {
-   "id": "gn-k56ox9",
-   "title": "GTA 6 leaker announces end of leaks, cancels full game release",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMHZ5V3R0YmxmS29NVDdaQzIyVDVuaTlzOUx6ZXhZLTFVcUFJa0RDMVhtblE1SGNzbnFmTmZKRHVNTTg3M1N1MEN4VXBqVDNKVTN5cDRqaVF0dHV0aDVqd09fOVliQzZCWHV4VkJTd1lLeEpfbEh1TnVZZWpDTjc5U2s3MFFrenJGQ0dXZmk2MlpoTUU?oc=5",
-   "date": "2026-10-14T13:33:41.000Z",
-   "source": "VideoCardz.com",
-   "summary": "GTA 6 leaker announces end of leaks, cancels full game release VideoCardz.com"
   }
  ],
  "community": [
+  {
+   "id": "rd-14emnqd",
+   "title": "Extended Look Elevator Details",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x62rvs/extended_look_elevator_details/",
+   "date": "2026-10-14T20:52:41.000Z",
+   "source": "r/GTA6",
+   "summary": "has anyone else noticed that there are no floor numbers in any of the elevators in the extended look? do you think that's done on purpose or hidden to show the depth of the open world for the trailer?"
+  },
+  {
+   "id": "rd-1xi4a9o",
+   "title": "Do y’all love, that GTA 6 will only have two protagonist?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x6128s/do_yall_love_that_gta_6_will_only_have_two/",
+   "date": "2026-10-14T19:44:51.000Z",
+   "source": "r/GTA6",
+   "summary": "I say just because one of my main problems with GTA 5, is the fact that there were three protagonists One of them being undeveloped that being Franklin it doesn’t help that he was a boring character w"
+  },
   {
    "id": "rd-1j90v17",
    "title": "Insider Gaming: GTA 6 Reviews Will Be Released Before Launch",
@@ -831,7 +848,7 @@
    "url": "https://www.reddit.com/r/GTA6/comments/1x5om3m/the_bk_mural_looks_better_in_person/",
    "date": "2026-10-14T11:22:01.000Z",
    "source": "r/GTA6",
-   "summary": "Got some pictures of the mural in Brooklyn that was finished this pass weekend. No I didn't lick the wall. submitted by /u/Sea_Philosopher1080 [link] [comments]"
+   "summary": "Got some pictures of the mural in Brooklyn that was finished this past weekend. No I didn't lick the wall. submitted by /u/Sea_Philosopher1080 [link] [comments]"
   },
   {
    "id": "rd-1i1pk0",
@@ -992,22 +1009,6 @@
    "date": "2026-10-13T22:24:27.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/TubeMeister [link] [comments]"
-  },
-  {
-   "id": "rd-1rsb0mr",
-   "title": "How is Character Customization Going to Work?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x598zy/how_is_character_customization_going_to_work/",
-   "date": "2026-10-13T21:25:42.000Z",
-   "source": "r/GTA6",
-   "summary": "So I’ve been thinking about the customization a lot lately and it sounds like each store is going to have unique things for us to buy which got me thinking about clothing specifically. I highly doubt "
-  },
-  {
-   "id": "rd-qss0rz",
-   "title": "Here's what we can expect from Bloomberg's cover story tomorrow",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x56c45/heres_what_we_can_expect_from_bloombergs_cover/",
-   "date": "2026-10-13T19:32:14.000Z",
-   "source": "r/GTA6",
-   "summary": "Temper your expectations. It will be an interesting piece if you care about what goes on behind the curtain, but don't expect gameplay stuff submitted by /u/ILikesStuff [link] [comments]"
   }
  ]
 }
