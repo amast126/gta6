@@ -1,28 +1,28 @@
 {
- "generated": "2026-10-14T22:56:43.625Z",
+ "generated": "2026-10-15T01:13:30.764Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 8,
    "scanned": 40,
-   "checked": "2026-10-14T22:56:43.625Z"
+   "checked": "2026-10-15T01:13:30.764Z"
   },
   "youtube": {
    "ok": false,
    "count": 3,
    "scanned": 15,
-   "checked": "2026-10-14T22:56:43.625Z",
-   "error": "HTTP 500"
+   "checked": "2026-10-15T01:13:30.764Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-14T22:56:43.625Z"
+   "checked": "2026-10-15T01:13:30.764Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-14T22:56:43.625Z"
+   "checked": "2026-10-15T01:13:30.764Z"
   }
  },
  "official": [
@@ -209,6 +209,54 @@
  ],
  "press": [
   {
+   "id": "gn-u6fw0q",
+   "title": "CYBERLEEK Token Crashes 40% as GTA 6 Leaker Makes New Threats",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQmZ3TEpKWWtzUWh5c2ZtSUVPdjdfNEVhWEU5LWUyMW9PWmhpWVlBMzVUa0gzSnR2ZTVTWWEwU0NJOHM5RGk4TUgwd1FNSnpJR0M0Rm5rNU5kbDJYUFlZUG95eG1qdEVuTUxrWUNNWVJMTHBralBuc1ZGbzFMUC0zUg?oc=5",
+   "date": "2026-10-15T00:32:00.000Z",
+   "source": "BeInCrypto",
+   "summary": "CYBERLEEK Token Crashes 40% as GTA 6 Leaker Makes New Threats BeInCrypto"
+  },
+  {
+   "id": "gn-c377tj",
+   "title": "Rockstar Issues New Official Statement on the GTA 6 Leaks",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWGRIel93bXR4WVFfX21BN0MzUC10dlN2TUJJVFMyQUJmY2xXdy1OZHdSX0FaOXVCdElUMWJFNHVZZEZhSEVlYnFiNExBV3pFU1BvbENEeS0zTXNtNEdCMXJFZ28xcldUd2d0RnB5VktwemVSM2VuQmN1a1gtUC05Mk9xY1I0ZDBVZVlUTWl2NUdWb0JyYWc?oc=5",
+   "date": "2026-10-14T23:55:34.000Z",
+   "source": "OpenCritic",
+   "summary": "Rockstar Issues New Official Statement on the GTA 6 Leaks OpenCritic"
+  },
+  {
+   "id": "gn-18wtsgp",
+   "title": "The first reviews of Grand Theft Auto VI will appear several weeks before the official release.",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR3lJbVdsSjF0QmNzNGR1dWk4RjlKRS0yaDVEWUlxLVJjM1g5bzY3Y19xZFFxU2IyY3pRQ09qWXloRnBhakxORnRDRWdSaGdzYmNURWM3N1U4Q0Z0a000Q3REUmVHaDZMRnE2aUprNGhOX1JPRWtUYWo5TE5veTc0WTZNRXJYbzVGT0FyVjUwWWZOek5SV05sVl9rZHZUenpPV2lBTXBoZ25GWW1GU3hOZGdLQWU2Z2tHNXJJ?oc=5",
+   "date": "2026-10-14T23:54:37.000Z",
+   "source": "GameGPU",
+   "summary": "The first reviews of Grand Theft Auto VI will appear several weeks before the official release. GameGPU"
+  },
+  {
+   "id": "gn-17u1l6p",
+   "title": "Where to buy the PS5 Pro ahead of GTA 6 release",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hTTJITkROT1hUdFNLc09xWTJPRFFNNVdyOS1tbWU1cS1NNlpnbklDVV9adzY3NGJTVVdvX3l1UHZMRFN6TjEzRW9OeXpkLWxxY0FRU0hTeUp2ek5McHlhTkZyODlBOWs?oc=5",
+   "date": "2026-10-14T23:28:09.000Z",
+   "source": "Mashable",
+   "summary": "Where to buy the PS5 Pro ahead of GTA 6 release Mashable"
+  },
+  {
+   "id": "gn-kf2w0w",
+   "title": "GTA 6 paves way for quicker Rockstar game releases",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkc4aGhpenFRb1VITkotQWtWaFE3ajFqRkEwdDVWcGlUdVZ4N01uR3IwQ1ZYZ0E1WGJmaVQyRk9QUjVtSjFMbHB0X2tLSXNzZWtaMnVEOEZOX3l2N1pXOU1MT0pza2pEM0VETVN0X3pJSVV6TUhFekVZdlVfRDhDOUtyRmZfdE5XekFQcVB5LVJnc2NSaUxuNXNUWkE2aVZI?oc=5",
+   "date": "2026-10-14T23:11:07.000Z",
+   "source": "TweakTown",
+   "summary": "GTA 6 paves way for quicker Rockstar game releases TweakTown"
+  },
+  {
+   "id": "gn-1dphz0g",
+   "title": "Grand Theft Auto VI Hype Keeps Building Ahead of Launch | Chart",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81eV9Qek9SVEx2aTVubDlTNElmYWtQNjQ5bVNpOHdEVU52ZTRNOUwzSGhjYUdPQl9lUHNhVl9zRDVhRl9tYnhURk5hWXB2bm1iaXdONFo1cFRaWTJza2hidFkyVDF1VHQxVkl6RWpn?oc=5",
+   "date": "2026-10-14T23:04:54.000Z",
+   "source": "IMDb",
+   "summary": "Grand Theft Auto VI Hype Keeps Building Ahead of Launch | Chart IMDb"
+  },
+  {
    "id": "gn-qxvd5a",
    "title": "Cyberleek Returns, Posts More ‘GTA VI’ Footage, Promises Not to Return Again",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOXzZtVzNWR0ZJYVB3aGQyZVJnV1hQWUNuQ1ZpQmZXekZua0ZuNW4wbFZhXzFpclF2b21fNHlBN0NqQTNjMzlCZm1tR0VoSEpRbDFPWlUxblBWWkpTUU9Bc3lRYk9WaG1GR3ZLbjlIakJfcGdWZzlZYlRQbFp6SnZULW5Nc212YVpEVmlMMzhJQkVFVGlwMFZMUUlrZUJoYmx0ZERDOFNB?oc=5",
@@ -233,6 +281,14 @@
    "summary": "Grand Theft Auto VI Hype Keeps Building Ahead of Launch | Chart TheWrap"
   },
   {
+   "id": "gn-1040ued",
+   "title": "'GTA 6' file size leak: Cyberleek reveals eye-watering storage requirements",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UZlVkNWtTSUE4ZXo2TFNHTktrNVV0MVBRUlZPRl95bmJoWVV2aDNZdXdKU0N3eEdCdGp2Nm1lbndLdDRsV3k3SHVZQWctQXVZc3Z1MUlySXpVVGd5b0hrWDJPczJsbGc?oc=5",
+   "date": "2026-10-14T21:35:05.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' file size leak: Cyberleek reveals eye-watering storage requirements Mashable"
+  },
+  {
    "id": "gn-uhhnhx",
    "title": "Major 'GTA 6' upgrade: The SteelSeries Arctis Nova Pro Omni gaming headset is the cheapest it's ever been",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3lYczFOQmtuV1QzdDljYTRmNEpSS0J3YmJuTTlaNnhJSHZYd3FSTkowLXRkS18yT3IxdVpMNTdHSnU4QlBnZ180MW5iVlM2UmxWbTRLTUN0YmlDT0hzYVdjdFBaT3p3a2o3Qy1kRndBUjBaektDRGNhelJvaEJpUERxY0pRRVZrdTU1MENn?oc=5",
@@ -247,6 +303,14 @@
    "date": "2026-10-14T21:17:45.000Z",
    "source": "Mashable",
    "summary": "GTA 6 Cyberleek update: Leaker linked GTA 6 reveals to crypto play. It’s crashing spectacularly. Mashable"
+  },
+  {
+   "id": "gn-1xangnv",
+   "title": "GTA 6 leaker threatens dead man’s switch for endgame spoilers",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vVVN2MUlCdks4XzZXQTFkUG9LVm9LbVJDWE1zMWRDU1cxZ2pYWUlRRTZFZzdCRllSUUh3eUFRdmNqc3JFNDJ2bV9ydHRMR21nSUpoeEx3aWU0Zw?oc=5",
+   "date": "2026-10-14T20:43:08.000Z",
+   "source": "Cryptonews.net",
+   "summary": "GTA 6 leaker threatens dead man’s switch for endgame spoilers Cryptonews.net"
   },
   {
    "id": "gn-hou90v",
@@ -274,11 +338,11 @@
   },
   {
    "id": "gn-1qv8yvm",
-   "title": "GTA 5Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches",
+   "title": "GTA 5 Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZmlNc0ZnS2pLS3JJVFJGNFdaZTNKYUJuamg4YmlVTk1ya0RwWDZpSXdUZFhqdFNQVG9tcE4waFltZTVYMm90Y1N5Y1VYY2hJSEdqSlFqM2p1LVpVQ0xQRVN6dzlRNWlmLXhxdUloQ3FNYmFWaUxZNW4tRU9UMlVTdA?oc=5",
    "date": "2026-10-14T20:00:48.000Z",
    "source": "Kotaku",
-   "summary": "GTA 5Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches Kotaku"
+   "summary": "GTA 5 Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches Kotaku"
   },
   {
    "id": "gn-1mnl7v2",
@@ -311,14 +375,6 @@
    "date": "2026-10-14T19:30:51.000Z",
    "source": "MP1st",
    "summary": "Thanks to GTA 6 Foundation, Rockstar Promises Next Game Won’t Take as Long to Release MP1st"
-  },
-  {
-   "id": "gn-yyh0um",
-   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
-   "date": "2026-10-14T19:05:05.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
   },
   {
    "id": "gn-13lv7a1",
@@ -409,14 +465,6 @@
    "summary": "Enormous Number of Smart NPCs Was One of Reasons for GTA 6 Delay 80 Level"
   },
   {
-   "id": "gn-17u1l6p",
-   "title": "Where to buy the PS5 Pro ahead of GTA 6 release",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hTTJITkROT1hUdFNLc09xWTJPRFFNNVdyOS1tbWU1cS1NNlpnbklDVV9adzY3NGJTVVdvX3l1UHZMRFN6TjEzRW9OeXpkLWxxY0FRU0hTeUp2ek5McHlhTkZyODlBOWs?oc=5",
-   "date": "2026-10-14T17:26:48.000Z",
-   "source": "Mashable",
-   "summary": "Where to buy the PS5 Pro ahead of GTA 6 release Mashable"
-  },
-  {
    "id": "gn-1t25gli",
    "title": "GTA VI’s online mode could arrive in 2027, well after the single-player campaign begins",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXVHQUd2OTJ6WjBXR2w3WnF3ODFRanRKaXFnY0ZUQkZfNEM1NmE0VlJ0ZVJBZ3UxS0o1alJfWEhhdjAyMl9MTjNRQnpyZG5wYVQySE9wNmNKd1FvNWdRM0JMeWVqT0J4aHVyMkdFRVVNOTg2cWVXbTJvZFhUWmh1OEtEcHdLaWlBR0dKdkY3U09KRGxSQ0RvVDZ3YVdXRWk5RldpUWRvVEx5cVV1Ni13Nmk3OG8wc2lEN3lzbFp1Z3E?oc=5",
@@ -465,12 +513,12 @@
    "summary": "GTA 6 Lead Reacts To The Infamous 2022 Leak: 'Like Somebody's Wading Through Your Dirty Washing' Kotaku"
   },
   {
-   "id": "gn-1040ued",
-   "title": "'GTA 6' file size leak: Cyberleek reveals eye-watering storage requirements",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UZlVkNWtTSUE4ZXo2TFNHTktrNVV0MVBRUlZPRl95bmJoWVV2aDNZdXdKU0N3eEdCdGp2Nm1lbndLdDRsV3k3SHVZQWctQXVZc3Z1MUlySXpVVGd5b0hrWDJPczJsbGc?oc=5",
-   "date": "2026-10-14T16:49:19.000Z",
+   "id": "gn-yyh0um",
+   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
+   "date": "2026-10-14T16:56:35.000Z",
    "source": "Mashable",
-   "summary": "'GTA 6' file size leak: Cyberleek reveals eye-watering storage requirements Mashable"
+   "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
   },
   {
    "id": "gn-1eifz28",
@@ -479,6 +527,14 @@
    "date": "2026-10-14T16:34:00.000Z",
    "source": "Yahoo Finance",
    "summary": "Take-Two shares could reach $300 as GTA VI upside remains unpriced, says Jefferies Yahoo Finance"
+  },
+  {
+   "id": "gn-14rnvwm",
+   "title": "As the release of 'GTA VI' looms, Nintendo bets on 'The Legend of Zelda: Ocarina of Time'",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE00MEVHZThRRERYU212UjJIbWMwSjVTZHdoWnpFNFpIOThDMHhuTUJqVGVVdlBueGlVYlMxYi1hTTFrSWpidkZGQVVuRGRvSnpJbDA3ZnhRX2FuRk5PcUZlQ3UtSTNMSTJOenFCRkZtTGVQcjBGVmZIcnBmNlBLUQ?oc=5",
+   "date": "2026-10-14T16:18:10.000Z",
+   "source": "WBUR",
+   "summary": "As the release of 'GTA VI' looms, Nintendo bets on 'The Legend of Zelda: Ocarina of Time' WBUR"
   },
   {
    "id": "gn-1n25qjr",
@@ -631,65 +687,25 @@
    "date": "2026-10-14T15:00:00.000Z",
    "source": "Gamereactor UK",
    "summary": "GTA 6 PC Players Could Face a Shorter Wait Gamereactor UK"
-  },
-  {
-   "id": "gn-1p10yly",
-   "title": "GTA 6 Leaks Are Still Coming, Rockstar Labels The 2022 Hack \"Weirdly Invasive\"",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTI3NDVPR05mNlhnVXlPMWNCMjZwUXNhOEwtVjdoRGk3SVV6Ukt3bHdTc28xSzRWV1ZTdVVoUkxXMnhNZWExUGM2clFPUExBNTRoMlVZTkpaX1VMdEtjZjJDZlM1NkdlZXNET1MwQ09Wc0dBUWEzWDE1TTg5aDNBS19hUTIwdF82dkF2MmRKWkxDcW5pX2pRaFVZWG9ET0FNR214bVJDQWYzdGVEaVBB?oc=5",
-   "date": "2026-10-14T14:59:35.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Leaks Are Still Coming, Rockstar Labels The 2022 Hack \"Weirdly Invasive\" GameSpot"
-  },
-  {
-   "id": "gn-1j5nt12",
-   "title": "GTA 6’s Most Unbelievable Rumor Confirmed Actually Real",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtTWlYelJlSmhZMHljVVdqcGF4SmRsYUNBSmtfRWZGNkJqMWMwcWRjbnBoRXdjWlB6TU54TzBRR2FWamJrQ08tc2k1RVhpWHNwNWlKY3plekFTalhHbTEzRkRHNU0xcDFX?oc=5",
-   "date": "2026-10-14T14:53:44.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA 6’s Most Unbelievable Rumor Confirmed Actually Real Polygon.com"
-  },
-  {
-   "id": "gn-iaz8zy",
-   "title": "GTA 6 Leaker's Latest Effort Appears To Flop As Group's Meme Coin Declines",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONlRYR3VzUnpEUjg1V1NObmhlS1N6dUpEN1ZtUm5GaldjUFBJUGM5b1I1UjZ0dlRRZ0dOZnFibWtHZXRXNXQ5blRiSTNscEs3dFdRSkVka0QtTnpXcVh5VFI0YXdJcFE2VTU1eHFTdFRQeVJJREJSRXEyVllXOXEtTjgteXFSMDNqbkUyU2Qyei1nNHlzUXVXbzllNk0xRVhhSlRSSVJJd2Y0SS1GYWc?oc=5",
-   "date": "2026-10-14T14:49:13.000Z",
-   "source": "PCMag UK",
-   "summary": "GTA 6 Leaker's Latest Effort Appears To Flop As Group's Meme Coin Declines PCMag UK"
-  },
-  {
-   "id": "gn-1uzrck2",
-   "title": "Rockstar confirms GTA VI began as “Project Americas” with a much larger map",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU1JSWi1CYnZZalE5TG1VX0F2UVc2UXFTUmJKZUEzRC00RmRwMnhLWU9FM2pMWWU2UEpfb3A5M1BCLU5DSF9DSVRpVms0cEpZR29DZjZ0UmtmWC16cnhKQXJRWC0zRExVR1QyQkUzWnlqZjRyaTMzOWRlNUtscVEtNFRwRE0ySkRlejU1ZTRlbEZ3V09DdEFxTkVzaFZrbTBQNDNiSVVtR3I3WlJlNmN2X3gwdk52MTF2VUFJdXVXcVg4NUxGelEteTUyQUh4YXpUbmd3SnA2SHZNcXBadGc?oc=5",
-   "date": "2026-10-14T14:46:56.000Z",
-   "source": "KitGuru",
-   "summary": "Rockstar confirms GTA VI began as “Project Americas” with a much larger map KitGuru"
-  },
-  {
-   "id": "gn-1qt8vja",
-   "title": "Rockstar confirms GTA VI began as “Project Americas” with a much larger map",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVG1IblBDZ3lVWGJIMHc1YWlvZmdtWkxTYkpfeVVIYlh5S21QQ2hfd2lubWtJeEs0WlBBaFRHN2pqd3FOSTlzSTM4b3B1UnhUMllMYkFCSWI0czNuVzFqV2Qzc2pxa1Z1RGNNRTAzZ0p2NmJxMG5WSVZPeW1pRV9YMTdYZWRYSnFUMU8zS2FwRkhTZ1dfSkU2R0lFX3NUTnptTzBJRkRBdDR0a0NJNzJMcGZJd2tlODVKQ1ZJQg?oc=5",
-   "date": "2026-10-14T14:46:56.000Z",
-   "source": "KitGuru",
-   "summary": "Rockstar confirms GTA VI began as “Project Americas” with a much larger map KitGuru"
-  },
-  {
-   "id": "gn-11jlujc",
-   "title": "Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSmZFY3NHR0FHSEtqMlJOMzA4a3B6ck93aWZvUEFTVlVtblpGNjZVVXJFMk9Ed1RYOHZfV3dfZGlEUVBYYkZMcGs3X1lNSUlGbkx3dXE3MmdBMlZPV2tQck1WTUc1T2NXek0tM1R1QVFwdlVESkV2MXJRbGU3V2tqaUNTWDkyWElQbHFwWmQ0bW5VQjFoZmZVeGxkdXQyUk1kNVBVbDlWb2docDRYVXZub2I1TTVqd3Y4UWxUNTV4VlBqTHNIUnZwVl93MmdNLTIzM3JCQ0tQVFFQSW4xb0VicGstQQ?oc=5",
-   "date": "2026-10-14T14:45:00.000Z",
-   "source": "Rock Paper Shotgun",
-   "summary": "Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date Rock Paper Shotgun"
-  },
-  {
-   "id": "gn-1245hcb",
-   "title": "GTA 6 Could Land On PC In Early 2027 Before The Console Hype Fades",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOczR5bXhRcDdhNlVFQjVPcGJPclRtWTU5TUZqbndTYkpQMEIwTVJ3RzhfaUtLZVcxNE1zNGhZYXhTS0lRUUlyQWRjOW1BSDJ4dlA0TGxNNzIzVGk1RWZxTnE5eUdySkhTNlhlbjRyTTlfV2hVRXRScGZpQmNSUkpNTHJ1TW5ZQQ?oc=5",
-   "date": "2026-10-14T14:39:00.000Z",
-   "source": "HotHardware",
-   "summary": "GTA 6 Could Land On PC In Early 2027 Before The Console Hype Fades HotHardware"
   }
  ],
  "community": [
+  {
+   "id": "rd-cnzfxw",
+   "title": "GTA 6 banner planes in Miami.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x66uq6/gta_6_banner_planes_in_miami/",
+   "date": "2026-10-14T23:50:36.000Z",
+   "source": "r/GTA6",
+   "summary": "I wonder how many people looked up NINE1NINE planning to make a visit. submitted by /u/blakejake117 [link] [comments]"
+  },
+  {
+   "id": "rd-m8uame",
+   "title": "I can’t wait to customize cars in this game",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x64y0u/i_cant_wait_to_customize_cars_in_this_game/",
+   "date": "2026-10-14T22:23:00.000Z",
+   "source": "r/GTA6",
+   "summary": "I used to work at some quick lube and tire shops for about a combined 5 years, and I would always try to check out cars in video games and see how detailed they are by flipping the car to look underne"
+  },
   {
    "id": "rd-14emnqd",
    "title": "Extended Look Elevator Details",
@@ -993,22 +1009,6 @@
    "date": "2026-10-13T23:02:53.000Z",
    "source": "r/GTA6",
    "summary": "He's definitley going to be a major character submitted by /u/Sthlpelicam007 [link] [comments]"
-  },
-  {
-   "id": "rd-1wzyk8p",
-   "title": "Was not expecting this...",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x5av3j/was_not_expecting_this/",
-   "date": "2026-10-13T22:34:28.000Z",
-   "source": "r/GTA6",
-   "summary": "Was not expecting to see this while at work today... Just south of Jacksonville, FL headed to Vice City submitted by /u/SlinkyNormal [link] [comments]"
-  },
-  {
-   "id": "rd-hk7fvh",
-   "title": "Spotted the Vice City Airship on its way to Miami",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x5an2a/spotted_the_vice_city_airship_on_its_way_to_miami/",
-   "date": "2026-10-13T22:24:27.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/TubeMeister [link] [comments]"
   }
  ]
 }
