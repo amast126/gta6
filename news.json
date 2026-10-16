@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-16T05:43:08.479Z",
+ "generated": "2026-10-16T10:34:29.088Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-16T05:43:08.479Z"
+   "checked": "2026-10-16T10:34:29.088Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-16T05:43:08.479Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-16T10:34:29.088Z"
   },
   "googlenews": {
    "ok": true,
    "count": 92,
-   "checked": "2026-10-16T05:43:08.479Z"
+   "checked": "2026-10-16T10:34:29.088Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-16T05:43:08.479Z"
+   "checked": "2026-10-16T10:34:29.088Z"
   }
  },
  "official": [
@@ -232,6 +231,230 @@
  ],
  "press": [
   {
+   "id": "gn-g4xxva",
+   "title": "These six games won’t make it to GOTY awards, and GTA 6 barely made it",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UdGtsQ0tzVjBaMUVNVHFzNC03SUpRYm1tckNpM1paZmRMMjRsSzdVclZGNWNYaFZ6MExEZUw1NGtUel9HM2Jjd1RQNThrbF9ZZWhGNlllaFFuMlRVWjAxcmtiN2NZNzVfWG5ic3FzdDZaYmFXeHVQRGVR?oc=5",
+   "date": "2026-10-16T10:27:44.000Z",
+   "source": "MakeUseOf",
+   "summary": "These six games won’t make it to GOTY awards, and GTA 6 barely made it MakeUseOf"
+  },
+  {
+   "id": "gn-111vke5",
+   "title": "Justice announce official score for ‘Grand Theft Auto VI’",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ04zWVpnbHBWSmZ3VHJodDc5ZkJEMWMyMDlJdVVidzMzMW9YTWRrTjNjc0NKUDA1cnlYMXhPcEJDM3JscmxhNDkzSzNGS1pvQURmQlRGSXVKbEJVZUVkZlhhMVduVjc2Q1FRYTZqdGNFa3E5aWFDenhyVEJfYl9femVUZ3drNVlPTFBfbElNemItd3A4aFpVR0hMOExsRVNvdDc1bG14a2l1Y0FFYThCdkx6MA?oc=5",
+   "date": "2026-10-16T10:18:00.000Z",
+   "source": "Rolling Stone UK",
+   "summary": "Justice announce official score for ‘Grand Theft Auto VI’ Rolling Stone UK"
+  },
+  {
+   "id": "gn-oq6spi",
+   "title": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdjJhdUY2dU05SUxVejZTekZTRDcxUWZQcHdOTXBpZF9yQkFCVXkwSmtGT0YzZnNlSlhCdGswdFlIUUpkTXBfaWVvOWlUaVRiNjgteUZLSVhGVG16elV5ODFGVWNZMDNrcmxyM2RiaW1ubTQyWXVqdktoMFdxeXFaQ2dkeFlia0EyTFZtQXRvbG1xdw?oc=5",
+   "date": "2026-10-16T10:16:06.000Z",
+   "source": "Decrypt",
+   "summary": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900% Decrypt"
+  },
+  {
+   "id": "gn-1f0hus4",
+   "title": "Rockstar Games Issues New Official Statement on GTA 6's Jason + Lucia",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUDgtZUlieWM1OWJVZzRvdllYNzRWMGEteVo3eVNTOWR1U29PQXoxYjdCaFBKSHNEaWtCUVl0cFJZNmIxX2lPUlJfTkc5UGIzUjZzamhHZHMwTWZaYmxFbE16SzVKSHN6c1FSVVBpRVp3c0FqVFNtSjk1TU9DX0tDbUxBSEsybURIN19DQzNUZjQ2Rm8wamJJWXRRSEtTS1JqTnc?oc=5",
+   "date": "2026-10-16T10:15:59.000Z",
+   "source": "OpenCritic",
+   "summary": "Rockstar Games Issues New Official Statement on GTA 6's Jason + Lucia OpenCritic"
+  },
+  {
+   "id": "gn-ug9r2y",
+   "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVnNZdkVHaUtoeFpaNlFBRjkyY0xraVBLSjl4SEQyaDBHRUF1OXoxV3N2NDI0M1BKbWxRalNMZjQ2VEJIOEd1VC1SNWhRM3J0NUtIYTdIM1BNcnFnUkRQVWVubXUzX09Md3FEMUlrYWNYblNGRGhfMzFOdmFjLWlqT1d6Q01rcVhIOG9UZjZheUJpT1JDM2pYd2xlbDBIcENOZ1c1VVNBdE9FM3V6UVZ2dW15Q2UwS21wVFVPUnBnUmNYRTFnem1mcjkyb1JRdzFTVUVGN2pleDR4TkRCNnAzVFduaWxrQQ?oc=5",
+   "date": "2026-10-16T10:05:07.000Z",
+   "source": "IGN Southeast Asia",
+   "summary": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami IGN Southeast Asia"
+  },
+  {
+   "id": "gn-ysfjyt",
+   "title": "GTA 6 is still undergoing changes despite releasing next month, Rockstar boss says: \"The game is never completely settled\"",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcFpJY1U1cEx6Z3hLR0JZZzd0QjU3SjlrMUVNbkdxU29lYklKcVk3cDRWZUMtbzRDYzdxbXprYU1zdGR0NGwyQVl4b2gzWWtjTHNIcFVvTXUxZ2RuRlJhQkhFcUxhX3ZrWlU5dFpsMmZyMmtHdmxqTHpjNEpmcmwxZjhtTmZHUkhlcUNkV2dyekF0SnNtc3J4ZlZJN1FzM01OYXBndWs2WWhOZUFEWklibDVtSS0xNU5Ha0FDZXJqZ0pSQk0xOEJKQlNQRVNUX3cxbUJ2LS1nMkFsQjM0bnZ5WklmeVZJeFdFUFFuWjYxSGZ1Sm5ncUVCcVJaeTlZZw?oc=5",
+   "date": "2026-10-16T10:00:00.000Z",
+   "source": "GamesRadar+",
+   "summary": "GTA 6 is still undergoing changes despite releasing next month, Rockstar boss says: \"The game is never completely settled\" GamesRadar+"
+  },
+  {
+   "id": "gn-4maoes",
+   "title": "GTA 6 fans fear graphics downgrade after launch trailer sparks fresh debate",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0R0TXU2U0lyRm52ZTJmZ1VuejJGTXl6QmR2cWVnS1FyNGduY0tCZHE3RVZXdE1VaUFsN25XMVZYbkVPWVVSTTY2QzZnRGs2ZUhjY2lPdE1BN204RWYya3hiNmdHUmZMaGEzXzRWOVFYOXV0alQzUG54cEd0Yll1X051cnBab0FidFhwUi0zb0xzQmxtRXJQRklicFRzSWotVEww?oc=5",
+   "date": "2026-10-16T09:38:27.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 fans fear graphics downgrade after launch trailer sparks fresh debate GAMINGbible"
+  },
+  {
+   "id": "gn-1r9b0un",
+   "title": "GTA 6 receives its final trailer ahead of launch",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVlJqcmlaRWhFS0xRUENpTFlUVjlMenNyeWxqYVh6ZDVDMUs3WXRlRk4wTXZpSzdOVEZWcklaT1BPVXJtQmFjeXRkVk5RWGt1eVZlYWs3Z1VOWHM4aGNIYUdUS2ZXVmRfcGxyR1lKV2pYYnRTUUtQcUF6XzJjTXc1QVBaQklncnNNV2k3SUREQmY?oc=5",
+   "date": "2026-10-16T09:24:43.000Z",
+   "source": "OC3D",
+   "summary": "GTA 6 receives its final trailer ahead of launch OC3D"
+  },
+  {
+   "id": "gn-s6t1g4",
+   "title": "GTA 6: This could finally explain Jason’s past",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGxYQVlwcDB2WmR6Y1BZWng4OElrX3llOGl0VjYxTkxCOG55WEhTX1ZxMjVxaURMVU9ETTNCNTB6ZFM4UmtjcGJKeVZKY0VSVU8wV3NEbDBfTEVZMkFFcjJRVWxQZnd0M0poSEhOSWlUcEFtU0JOdUwwYXJPWGp0U01YQkhzcXE2bG93cWY2dzBEemtv?oc=5",
+   "date": "2026-10-16T09:23:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "GTA 6: This could finally explain Jason’s past Notebookcheck"
+  },
+  {
+   "id": "gn-alxwlt",
+   "title": "GTA VI: weapons censored on several posters",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcVhSLWhROWZ0ckJ4TDJUdEs4ZXkyT216WHF4Y1l0OHVsdHh4MWpMZEJfLUJxeUcxaThoQWJDYjZ0TzNBazVRMDhfazFlbTViZC05cXloVUgzenNlVkJ2MVlfNUxsLTVwRXBtZzdCVnM5cEZiOURVdlUxdGRBZG9yeVBBRzh2d3V0d3hORFNpOVRUMUp3YU5j?oc=5",
+   "date": "2026-10-16T09:10:27.000Z",
+   "source": "Instant Gaming News",
+   "summary": "GTA VI: weapons censored on several posters Instant Gaming News"
+  },
+  {
+   "id": "gn-hfrsti",
+   "title": "GTA 6 Passes Korean Content Rating as 'Adults Only'",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaTJlYVNLTEZnVVlEM2d2RHV2dE0wbXJKM0taV0ExVkpZeEdKekp1NEw1WTFtT01JQ2hpRGhRRkRPeGpUS3IweTNrYk43dUdpejdpYzNlTUxzYkdYQmI3OG5JTzlpc3FRWnZZSUZ2dkZmekpvMUFwM1BycUxRN2xiN2dlV3NTTkdwdUJKUzZwNDY0WHNMTGdN?oc=5",
+   "date": "2026-10-16T09:07:14.000Z",
+   "source": "Inven Global",
+   "summary": "GTA 6 Passes Korean Content Rating as 'Adults Only' Inven Global"
+  },
+  {
+   "id": "gn-1txu1gm",
+   "title": "'GTA 6' Rated 'Adults Only' in South Korea Following Private Board Review",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWxNZDdyTHgweTVEYk1UZ0ZyWnNKY0lFRXM1TTBZbFZoajFyNUFUU244cVA0ZHVCMk5UUFh0a0l6d0VWXzlkR1RmSlFxUXNRbDAzUUdYcWdOdklRdlppekY2NDZhNFdSak5mbmFKWHNZODFHQ3ZmRzM2NlNYeUFDbHM3emJEN0xfOXo4RW5pdFhVN0UxWTREV0VhNnI2YjRCdVNzOTZUXzlLR0d2VXZFY3lR?oc=5",
+   "date": "2026-10-16T09:07:14.000Z",
+   "source": "Inven Global",
+   "summary": "'GTA 6' Rated 'Adults Only' in South Korea Following Private Board Review Inven Global"
+  },
+  {
+   "id": "gn-1joiv2z",
+   "title": "Grand Theft Auto VI Launch Trailer Breakdown: Connected Missions and Jason's Military Past",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSkVTNmladWhUcHFUUExieHhuR0hYcWV5S0cza3lmeVlJSkhTZWgxOF9qYnBOb19sUjBnWHdUV2kzYzZZRmw2bHFZalFWZkozU2JhdU4wbTNhWjZPWEpITWwwakd4N2liT2tqQXlGYTcyb3VGd1MyT3hMNW1uNzJHYmVXSU1mSVZsRE1vZFBhdk9lQ0tuYVF1dDJ3MjNSUzduR3JmQjRDYThQYl9KSlE1YXlFby1kZFNRQlZpdl91VQ?oc=5",
+   "date": "2026-10-16T08:55:06.000Z",
+   "source": "MMOEXP",
+   "summary": "Grand Theft Auto VI Launch Trailer Breakdown: Connected Missions and Jason's Military Past MMOEXP"
+  },
+  {
+   "id": "gn-1l7u7qh",
+   "title": "Justice to Compose 'Grand Theft Auto VI' Score, Release 'Flower in a Hurricane' With Tame Impala, SZA and King Gizzard",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSlhrMm04LTZoY0MxNXc3Z0RmTENMSERwekduTWlZNGhpWkt6Si1xNGVTallTUjMyNGU0eXFFWHpPWjlPYklwbThVTHR1dnFqZktjTkVIZXI1UVRROXhOWGotdm1iNDRJOHpPakhXT2hfTG4wNWFvSUhDM3dQM2hlQy1ZeWkyNWFuajVScE1WLUU5VXJZdnNmUE1GUUViME5Iek14aWFmNWFrVVFrVUVHWFZNYkU3dnVLczhTbk1JUUR0TXQzSllWNjM1OHJoS0VrdDJoN1hWNXFPWHRsMlIycnR0NjVSaTA?oc=5",
+   "date": "2026-10-16T08:46:29.000Z",
+   "source": "Rockum",
+   "summary": "Justice to Compose 'Grand Theft Auto VI' Score, Release 'Flower in a Hurricane' With Tame Impala, SZA and King Gizzard Rockum"
+  },
+  {
+   "id": "gn-t92xfq",
+   "title": "Rockstar Releases the GTA 6 Launch Trailer Ahead of the November 19 Console Release",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREN3VDFyQzFUWkl1b0hsYWJEbnMxMDdPVG83ejVIc3pvZHJDc0laVXliMVRJcVdaSWVienVWX2NYRmtJSUlIOVZDZWlLZlhnY0pkalVnUE9BY1hsb1czTnZoMlFwUXJKaVJYaVJIbzVqRVN0SU1OZ3g0cnhmTmRacmdHTTYtOEVTa3lhUExpRXJwUVZHQk9XZHVRNk9jZk9sNTZkWjRTYkU4eW1oaG0ydGNJTXhOaHY0b2c?oc=5",
+   "date": "2026-10-16T08:28:05.000Z",
+   "source": "gHacks",
+   "summary": "Rockstar Releases the GTA 6 Launch Trailer Ahead of the November 19 Console Release gHacks"
+  },
+  {
+   "id": "gn-3xuniz",
+   "title": "Grand Theft Auto VI: where to pre-order the year’s biggest gaming release",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTJrR09rWm5lbFFHNmpMVXBmV19xak9Ia1ltZTh3YnlHcUlTMVV5dHFHMU1xS3hpZ20xMEFiYmhuU3duYm4yS1FGelppS29paElZSkRyNGVtUnNRN0JSR2VZUXMxRXNvT05tb0VXeEt0RUg3SjZFYkNUdWhJQ3UzYkJaemRabGo4bUVmTUNZd1ZXbTh5X3JHWk9VbnlOdldrclVMTURn?oc=5",
+   "date": "2026-10-16T08:15:49.000Z",
+   "source": "Stuff",
+   "summary": "Grand Theft Auto VI: where to pre-order the year’s biggest gaming release Stuff"
+  },
+  {
+   "id": "gn-1pze1hr",
+   "title": "Slideshow: GTA 6 Launch Trailer Screenshots",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDNLMHJwdHhMVzBvdDVoc3gzbVJhSW9XS1FyOFl0d29tNDZRRUp4SXNTOXZ2ZzVlbGhpRmtTZ3JQdE1ZZ3h3SzZIMTFKRFEyY2J0TFZsRHhiaEpIYXNiNmZNNnNHT053dkNncDI5REJCVzBodmV6ZTlTUk4tTmtYMzdkN3k?oc=5",
+   "date": "2026-10-16T07:43:04.000Z",
+   "source": "IGN Africa",
+   "summary": "Slideshow: GTA 6 Launch Trailer Screenshots IGN Africa"
+  },
+  {
+   "id": "gn-17jfqqt",
+   "title": "Justice Is Behind the Sound of ‘GTA 6’",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVEJNN0piOUdLMUswSlBaTERjNEFLdllzN3g2ejgxbk5QaU1VdjRYWG9iWVpyX3h3bVE0UkEtWnptOHZuSVZ5ZDFJcUZOdWMwTmQyclVZN2RJSHRBenFfWFFIUkFMalV0SVY5dmpvMW1rM0tWX1JKcEFSNlFVaFFUcklJQXhqNjVPbm1FRTc1cmxrd2szeEcxWVdWWXhzQ1N1cFFwdnFMLTNfU0c5ZHY3aHFfdlZKS09qbTZTX2tn?oc=5",
+   "date": "2026-10-16T07:41:18.000Z",
+   "source": "Hypebeast",
+   "summary": "Justice Is Behind the Sound of ‘GTA 6’ Hypebeast"
+  },
+  {
+   "id": "gn-4tfcxk",
+   "title": "Rockstar Responds to GTA 6 Leaks: \"Heartbreaking\" [2026]",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPcGloLXhYdzNBU0JReXh4OXcta0hpVUZiM1JfVkQtaks1ZjhNZVlydlhhd3dFanNuSDNCOTE5ajFhUVl4SmVSa01ka1k3STdtWmpQNUhXd01sMGh5NnItT29Ld0Jxd0dkTWtsaGFKbk5Bd1hfQ2pNT1pUQmE0cnM?oc=5",
+   "date": "2026-10-16T07:40:47.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "Rockstar Responds to GTA 6 Leaks: \"Heartbreaking\" [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-1f2hzp3",
+   "title": "For Activision, GTA VI and Call of Duty: Modern Warfare 4 are the biggest games of the year",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY2hBNmlUUW01NE9zcnhpbGQ0d0RLek1jdS1RU3cyZFBzZ19fYkNvOEIwRE9HaDR0SW5vNmRnWDVJcjJYN2hlZUNNWEliXzhZSlpGaHREUFlnUmc4YndSdUhsbjZISnZFdV9RTlhzMmhtVDljbHVCdzNQUW5PMWFQQ2tyVThwMUhINnRoQ1hwb0ZwZEQ4TTdfX3JwUUl5WHpaNFZGZVE5RHY1bG9sYXAzS0otQUZZT3p5c1VmSnNLSFB6dzFwMzU2akt6cVNGaHhGVUJ3Zjln?oc=5",
+   "date": "2026-10-16T07:30:21.000Z",
+   "source": "Instant Gaming News",
+   "summary": "For Activision, GTA VI and Call of Duty: Modern Warfare 4 are the biggest games of the year Instant Gaming News"
+  },
+  {
+   "id": "gn-deyz27",
+   "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalFpNmVTbWtOUnBScVB0T2tFRUNyNnMyWFVTNXFuOHhCcWhiTE1ZZ3paZFJyVUdqNjljOUxPVDJkT25VTlQ0TzdPVUNfbU5NdHcycGs3bVQwenBfb1NiRkRHTFE0OGItS2FBV1lkRkpKQ3VDZm0xNWtITDdCSW8wTVJCNFpCcTh2c3J6VWRwb2ZKd29CdEE?oc=5",
+   "date": "2026-10-16T07:21:40.000Z",
+   "source": "Mashable",
+   "summary": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail Mashable"
+  },
+  {
+   "id": "gn-yyh0um",
+   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
+   "date": "2026-10-16T07:15:34.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
+  },
+  {
+   "id": "gn-1xepw35",
+   "title": "GTA VI: The soundtrack is composed by the electronic duo Justice",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkN4QU02VUpvWWpEdkZuOHd6X1Exam84QjFoQlpjOU16TG85SFNoUVdkQWxya3pRQWlvTmNhTzh1WFBfYWY4X0NWUmZOZEtOdWxOYk80aHQzdl9jNjhORkotUmhCelRhZnBpM1ViM2dWcWQ5VVpIRERsQWQtZVBXVkg2UEpvYnQ0MGdRX0tQN3ZDWi1lLWRabmVQUjFVcDZGR3hycmhXMDFQY2t5U1ZtNzZBRQ?oc=5",
+   "date": "2026-10-16T07:15:21.000Z",
+   "source": "Instant Gaming News",
+   "summary": "GTA VI: The soundtrack is composed by the electronic duo Justice Instant Gaming News"
+  },
+  {
+   "id": "gn-zcrnoc",
+   "title": "GTA 6 will be eligible for Game of the Year at The Game Awards 2026",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT2U0VHFiZTl6Wm5CeXFSczRWemN5RW1xU1F2ZVlQazdnSDlBeVU4SHRBWE9EMFNValBnaGo5QldNaDhvWGc5Nk5YX2FMNTEwNk9DbWNNV1h4enZYSTZFd1lnREZQRWVyZG1HTW1XX2djMVpSaUoxRXV3LThnRklScE1yY0xxU1RwUENHaW5kaC1Db3gzYkVpR0RxeU55TU1kSXpuMTFJNHJQc1dLeDBqQmtEUWtEak0?oc=5",
+   "date": "2026-10-16T07:01:11.000Z",
+   "source": "TweakTown",
+   "summary": "GTA 6 will be eligible for Game of the Year at The Game Awards 2026 TweakTown"
+  },
+  {
+   "id": "gn-d2rfwc",
+   "title": "GAME ON: \"GRAND THEFT AUTO VI\" LAUNCH TRAILER",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR3hwNlJFV3FYMWdJLUNPZ2d4eHVaS3ZZYVI3NWhFQjdEZnAwaXVzY1NMZWNsUmFTRl9Cd2RWZjNaU01HcDBEUkFLUzk3YWZreVdLRnhOQzZnUlVBc2d5WFVCeG8wbWloSTZIZmE3VEVIUGMwS05pQ0lsMmZhMzJaU2dXT3dRbldWbGxzZEdpc3g0dS1iMjE2cWdjOTZMdFhwbnZPVTZacVBWaWtSNV9pSUd5dWxlQWdQTDRQX25Md2QxSk5CT0gzZi05UEdDU044?oc=5",
+   "date": "2026-10-16T07:00:00.000Z",
+   "source": "Local 3 News",
+   "summary": "GAME ON: \"GRAND THEFT AUTO VI\" LAUNCH TRAILER Local 3 News"
+  },
+  {
+   "id": "gn-1pm87x6",
+   "title": "When Rockstar Needed To Delay GTA 6 Again, Take-Two's CEO Replied: 'Please Tell Me You're Kidding'",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUZBaUVkTktOZENKTVljRkhpQjBRSVJHRVMxQUdWUl9Vc1BBd19pclRRa3lWeG9scnVwbUNWR3RMUWVNOXpyZjhLM3hucThjUHFyQ3AweDVOUnV0QUtqRGVfUERSXzdRR2dBSmdHckI5dDRRaXR5MzFQdDFFTnVKbzh3cWp0QTEzZXZJT2JLYWRHLWZXdEVnUW8xM05JWmtnZlhJeVFSdy1kbjZBa0J5MDdldkZFX3ZhQUJhM3BJUQ?oc=5",
+   "date": "2026-10-16T06:37:57.000Z",
+   "source": "Kotaku",
+   "summary": "When Rockstar Needed To Delay GTA 6 Again, Take-Two's CEO Replied: 'Please Tell Me You're Kidding' Kotaku"
+  },
+  {
+   "id": "gn-c0evlz",
+   "title": "\"It's like someone got inside your head\": GTA VI artist talks about the consequences of the 2022 leak",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbVNWUnRKUTQyWXZGRzEya1hMbWVkTk93V2Z6ekhRU3IxRlh3TlZFSWoyV196eWVjTzNXOHRyU2JfVGU1X3lrRjZENjRmQzNieDJWaTRSdjNzMUVtdU5ZRnVURTVILW5GS2xwZHEtZURuaHJROTk3MHVXdmp1RkFieHpJNHZDM1JaZEJOR1h6QmwzX3c3OEFQc1BiOHFnSGFrR1FYVjNwZ1FaUDNtTmFSbUI2MzlMcnd5NXdGVTg1SHJPSF91VlhuVlBhTW9LdEnSAdQBQVVfeXFMUGVyTFd6Q1VPcGkyMmo3TVpCSUpyODhIMFFERXNjNFY5enhFNklVQ0twc0std2FRQTJ4S2ZIOFlHRk15XzhlcHlpY1ZFN19ZazVaYy15dzlLV3FUUUFEWWdJSFZhZlk2Y1pub3hBUEpRRkpPNUdReUVEU1NzTW9TWDdudVhaOEJXM05US0I0Ul9WTHdtMGdraFhBMkN2T3FLWkgtUGYwMURfUVBCb0RDR05WU3lOcGZjWHpIUzdDRW9MMTVjZkxkemlDYml5UXFBMEctUWQ?oc=5",
+   "date": "2026-10-16T05:48:50.000Z",
+   "source": "iXBT.games",
+   "summary": "\"It's like someone got inside your head\": GTA VI artist talks about the consequences of the 2022 leak iXBT.games"
+  },
+  {
+   "id": "gn-1jju2r9",
+   "title": "'GTA 6' reportedly has realistic sweat. Here's how it works.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXE1d1VvNmxiak5TV0E3cUl5Qk1oR2VnN2dxc29HTHNIQzhJS3lqQmVnRmdZTHpNZmZTRnpGZU45cHlyNlVjVEFvai1GbUdCQUJOdTNxOFFLQW91V1o0YWVFV29JSS1NRGYyY1ZwcUVuME9ObmRWZjFuelJwdGtDcjk3b0MxZnc?oc=5",
+   "date": "2026-10-16T05:45:46.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' reportedly has realistic sweat. Here's how it works. Mashable"
+  },
+  {
    "id": "gn-fqym5m",
    "title": "GTA 6 Launch Trailer Breakdown: Hidden Details, Story Theories & Easter Eggs",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT21VUkxFTjBsVEJnLTJaQ3F1M3NLaVVHZHlzX3dPamYzcmNxdkxpMWU5MVFQMk55ektPeS1QemxvN01OWWlOV3BlY3F4cDhWekdDYzQ4TklxeDhNYUNkWjhaMmxSYk0ySzdBNW1nTXlxNkp0TS1MRnVWeWUxX3hhd0VGUWp5OVV1TjEtQ1RmeEV5QUR5dmZUaUMxVUhWaGo4MXBwWTF5OEU?oc=5",
@@ -240,20 +463,20 @@
    "summary": "GTA 6 Launch Trailer Breakdown: Hidden Details, Story Theories & Easter Eggs MMOEXP"
   },
   {
+   "id": "gn-1v409vc",
+   "title": "LISTEN: Justice Goes Mid-’80s on New ‘Grand Theft Auto VI’ Single “Flower in a Hurricane,” Feat: Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNektvQ1UwaTg0Mmhfa0hLV0RuM3lXWGo3emt2aUJ4bDJ2dE1yRDJTd2RoX2tYRVlTS1lfNXNrTDk2QzdYaHJ4MzRlRUREdXFPb2xoRDdTNTVfMXlrVzQ4MEdXbnctZDFFZl9fM2MwYWJvREhxY3lyLW93QnMwNGU3eDBUVnBQTG9JcnF1Z1FOZ2oyUFZidkRPSFV0R1hVTDZnUU82N3RxNGZWZkl5S2ZkRF9qbU5XN2VWQ1NrUFhJYk4xSHEzcVExTmc3b3FnOWNaLTkzRkdRckdORG53Nm52c0tsYlBrel9MNFJjMnM2ZXVQMXF3?oc=5",
+   "date": "2026-10-16T05:13:40.000Z",
+   "source": "Glide Magazine",
+   "summary": "LISTEN: Justice Goes Mid-’80s on New ‘Grand Theft Auto VI’ Single “Flower in a Hurricane,” Feat: Tame Impala, SZA & King Gizzard & The Lizard Wizard Glide Magazine"
+  },
+  {
    "id": "gn-jyhz6o",
    "title": "Grand Theft Auto VI: Watch the Launch Trailer",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ3Z2VzNYaUpxSEwwSEFCM25vQ3BPbGZJNTF5QU9JY0dyX292c3dHdTRxWFV0R3NFNFZjMzBtSC00TG9Fb2RHSWt0eGZseDRlS2RISUM5UGNQMktLTGRjMmJsa0p1bmt3a1pHYlNJTE4yRTNZZk5aWTFxNE5YVDhXbm5aWDNWQQ?oc=5",
    "date": "2026-10-16T04:58:00.000Z",
    "source": "Playasia Blog",
    "summary": "Grand Theft Auto VI: Watch the Launch Trailer Playasia Blog"
-  },
-  {
-   "id": "gn-1v409vc",
-   "title": "LISTEN: Justice’s Single for ‘Grand Theft Auto VI,’ “Flower in a Hurricane,” Features Tame Impala, SZA, and King Gizzard & The Lizard Wizard",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNektvQ1UwaTg0Mmhfa0hLV0RuM3lXWGo3emt2aUJ4bDJ2dE1yRDJTd2RoX2tYRVlTS1lfNXNrTDk2QzdYaHJ4MzRlRUREdXFPb2xoRDdTNTVfMXlrVzQ4MEdXbnctZDFFZl9fM2MwYWJvREhxY3lyLW93QnMwNGU3eDBUVnBQTG9JcnF1Z1FOZ2oyUFZidkRPSFV0R1hVTDZnUU82N3RxNGZWZkl5S2ZkRF9qbU5XN2VWQ1NrUFhJYk4xSHEzcVExTmc3b3FnOWNaLTkzRkdRckdORG53Nm52c0tsYlBrel9MNFJjMnM2ZXVQMXF3?oc=5",
-   "date": "2026-10-16T04:13:40.000Z",
-   "source": "Glide Magazine",
-   "summary": "LISTEN: Justice’s Single for ‘Grand Theft Auto VI,’ “Flower in a Hurricane,” Features Tame Impala, SZA, and King Gizzard & The Lizard Wizard Glide Magazine"
   },
   {
    "id": "gn-1wfgyr7",
@@ -270,14 +493,6 @@
    "date": "2026-10-16T04:07:03.000Z",
    "source": "expreview.com",
    "summary": "The debut track \"Flower in a Hurricane\" will be released on November 19th. expreview.com"
-  },
-  {
-   "id": "gn-188xgct",
-   "title": "'GTA 6' on PC: What we know about the PC release",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10QjhQM24yRWpMQ2hDQzlxOVN4d0tVWmdyTy1HYi1GbXZHU0w0ZEY5UTRZcFdXcWFUd1NPRUVpbzRVM1RMOHlOZl9RVGc3a2Q3RzJaWUxEdllMQ21QNlFKdFVBR3RRdm5Fb3pkTW5hT2l3Mzg?oc=5",
-   "date": "2026-10-16T04:01:16.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' on PC: What we know about the PC release Mashable"
   },
   {
    "id": "gn-11hh97",
@@ -320,20 +535,20 @@
    "summary": "GTA 6 locks in Nov. 19 release date after delays fox10tv.com"
   },
   {
+   "id": "gn-594xw0",
+   "title": "Justice score Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZGc5M0xDZFRBbFMxR242ZmplYkhodkg1YXNidUlrTEpWc0c5ZDFfRVEyVUdNaFkxbEhQYmV4S1hYYzBVdjdrVnlzZlFOZVp0Sm02WUpINC1uc3E3SEFSeTJOcDN5Yk1uSmYxNnZtYVpPMFdyZkZZ?oc=5",
+   "date": "2026-10-16T02:46:14.000Z",
+   "source": "Northern Transmissions",
+   "summary": "Justice score Grand Theft Auto VI Northern Transmissions"
+  },
+  {
    "id": "gn-uxb6n5",
    "title": "GTA 6 Cyberleek Cancels Leak as Coin Falls to $1.2M [2026]",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LYXhhTEs3WHB3bS1md2IxMkNvalBOY3J2QkhHcHpJU3BLRzBraWNiOHdDWXZ4aUpvYVFfclBtdC1oRTd2Q2dseHU0aUVaOUhBWkVTdnBSRlhCMGpBRDA3cjRPMFJsZ2VNbGRfSUU5LWVDVXJSLTg0NzVjZTE5QQ?oc=5",
    "date": "2026-10-16T02:39:51.000Z",
    "source": "https://tech-insider.org/",
    "summary": "GTA 6 Cyberleek Cancels Leak as Coin Falls to $1.2M [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-1jju2r9",
-   "title": "'GTA 6' reportedly has realistic sweat. Here's how it works.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXE1d1VvNmxiak5TV0E3cUl5Qk1oR2VnN2dxc29HTHNIQzhJS3lqQmVnRmdZTHpNZmZTRnpGZU45cHlyNlVjVEFvai1GbUdCQUJOdTNxOFFLQW91V1o0YWVFV29JSS1NRGYyY1ZwcUVuME9ObmRWZjFuelJwdGtDcjk3b0MxZnc?oc=5",
-   "date": "2026-10-16T02:15:46.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' reportedly has realistic sweat. Here's how it works. Mashable"
   },
   {
    "id": "gn-1o5bblf",
@@ -353,19 +568,11 @@
   },
   {
    "id": "gn-ftjpj8",
-   "title": "GTA 6 Theme Song: How to Listen to ‘Flower in a Hurricane’",
+   "title": "SZA And Tame Impala Just Dropped GTA 6’s Theme Song — Here’s How To Listen",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZzFRRnlHUy1JaVFmV2dEWjlpOGVNTENDdmhFSFhpUXlKQ2EyQ1FMaWk5UEhoUWlHb01RQVh2eml3YWRiQU9fdFBvTXAzcWxDcThCLU92V0g4WXFWYk9GNFNmZ3BoNEwwTGZEbVFJY1hYT2R2QlNkQmhlZlBScnNTaXhoanRBSmJ1bVh1bHhWeF9RWENMV1otd3FqNjNxNldIbzFsbjdjV1JOQzhwVEd4SWp0SWZ4QkpZV0JQV1E4X2NtUFF6?oc=5",
    "date": "2026-10-16T01:04:59.000Z",
    "source": "Forbes",
-   "summary": "GTA 6 Theme Song: How to Listen to ‘Flower in a Hurricane’ Forbes"
-  },
-  {
-   "id": "gn-594xw0",
-   "title": "Justice score Grand Theft Auto VI",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZGc5M0xDZFRBbFMxR242ZmplYkhodkg1YXNidUlrTEpWc0c5ZDFfRVEyVUdNaFkxbEhQYmV4S1hYYzBVdjdrVnlzZlFOZVp0Sm02WUpINC1uc3E3SEFSeTJOcDN5Yk1uSmYxNnZtYVpPMFdyZkZZ?oc=5",
-   "date": "2026-10-16T00:46:14.000Z",
-   "source": "Northern Transmissions",
-   "summary": "Justice score Grand Theft Auto VI Northern Transmissions"
+   "summary": "SZA And Tame Impala Just Dropped GTA 6’s Theme Song — Here’s How To Listen Forbes"
   },
   {
    "id": "gn-1j8hrkr",
@@ -387,6 +594,14 @@
    "id": "gn-eeiu7x",
    "title": "GTA 6 Qualifies for The Game Awards 2026 by a Single Day",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdzE5SGRpNlRacHNPbHhjTUxhX2IwZGR1QXJHTjEtZmhzMnVDaDh5bXpLX2FETEtRQmMwVWtCRzJhLXBETFNNRm5nZkJDOE1rUVNnZ0kyN0UzUlFxYWRpVy1zRDYtMEFRLVdpeEFadW5helJPRXl5dVpQeTBYZFlOYjJEUUpTU2ZScmFPUmtsNVFhWXRpVHM0d2xIUXNfU1dSNHhYR1FoZmpuNm8?oc=5",
+   "date": "2026-10-16T00:02:17.000Z",
+   "source": "TechPowerUp",
+   "summary": "GTA 6 Qualifies for The Game Awards 2026 by a Single Day TechPowerUp"
+  },
+  {
+   "id": "gn-ign4mm",
+   "title": "GTA 6 Qualifies for The Game Awards 2026 by a Single Day",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkZVRDJWR0puLTNlZ0g1dHdwVmNSejQ3aVFJeFpIcmVJTll4QmdZVUpULXhLREczOXljX0gxMmhXRE9yX0VsSHNZaHB3NUI2Mk4zbmxQSzJLSi1heW1TckVVRWJfQUg1VzIzbjE4YmR3WFJxSFozRjhMbUQ0QTJ5cjBDZ2RZQUloR05MXzJFQUd5Rkt4b2fSAZsBQVVfeXFMUG50QlZiNk40QnEtOFlTUjJwQ21WN1dOVEZLdkkzejRqQkFzWjhjM05EbVJGal91alFYN3cwUWY1NlFJeHgzci1mZ3FnQjNGSGItOTBxNnktVFQzVVRnYnZoZ3czb0xLdlZTRnV0d0RqbGE2SkRkWnd1aF9FbHAwMDZUMm93QjRubzdaeFJKZGkyUmtmVXZzVGhPQ3M?oc=5",
    "date": "2026-10-16T00:02:17.000Z",
    "source": "TechPowerUp",
    "summary": "GTA 6 Qualifies for The Game Awards 2026 by a Single Day TechPowerUp"
@@ -416,12 +631,12 @@
    "summary": "GTA 6 outclassed by 95% Positive indie; collector's edition confirms physical copy and free 'buddy code' GAMINGbible"
   },
   {
-   "id": "gn-deyz27",
-   "title": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalFpNmVTbWtOUnBScVB0T2tFRUNyNnMyWFVTNXFuOHhCcWhiTE1ZZ3paZFJyVUdqNjljOUxPVDJkT25VTlQ0TzdPVUNfbU5NdHcycGs3bVQwenBfb1NiRkRHTFE0OGItS2FBV1lkRkpKQ3VDZm0xNWtITDdCSW8wTVJCNFpCcTh2c3J6VWRwb2ZKd29CdEE?oc=5",
-   "date": "2026-10-15T22:11:36.000Z",
-   "source": "Mashable",
-   "summary": "New GTA 6 Cyberleek video has story clips, gameplay footage, and one very NSFW detail Mashable"
+   "id": "gn-c2g5ee",
+   "title": "Justice to score GTA VI, Tame Impala, SZA and King Gizzard for a new song -",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDYUVaSi1zS2lmeTBWdHFtTzNxSlppMHRkQmVmOHVyVUN2ZXIwZ3VSaVBnaTNoQ011Yl9DZDJUajhTQjlya01VRG9vR1ppcUpuSk02VDB5c0JVaWltT0dN?oc=5",
+   "date": "2026-10-15T22:14:32.000Z",
+   "source": "Happy Mag",
+   "summary": "Justice to score GTA VI, Tame Impala, SZA and King Gizzard for a new song - Happy Mag"
   },
   {
    "id": "gn-mc1i5i",
@@ -446,6 +661,14 @@
    "date": "2026-10-15T21:50:57.000Z",
    "source": "Console Creatures",
    "summary": "Rockstar Launches New GTA 6 Launch Trailer Featuring Original Song \"Flower in a Hurricane\" Console Creatures"
+  },
+  {
+   "id": "gn-uk5tm5",
+   "title": "GTA 6: 33 New Details From the Launch Trailer",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGVyUTNZdlZBVk1ObVQyUFBkRWhrMVhzMk93Z3ZocDRFR2NSM1R3VUd0Sm5IMm1ENzZjNDdlUTNqS052YUxpYmRDMWpYcTYyVHZwVnFmZmV0YWwxR2YzRDlHTXl5NXQtemJ1bl90akQxdVdrMU5tN3FyU2dwdWhsa2JUU1Y1WC11ZHJzakR4ZGN3V2hWaDNDRTJqT3d6MFRXRVhhYmNPRQ?oc=5",
+   "date": "2026-10-15T21:38:32.000Z",
+   "source": "IGN Pakistan",
+   "summary": "GTA 6: 33 New Details From the Launch Trailer IGN Pakistan"
   },
   {
    "id": "gn-iganb7",
@@ -486,233 +709,41 @@
    "date": "2026-10-15T20:34:24.000Z",
    "source": "mxdwn Music",
    "summary": "SZA, Tame Impala & King Gizzard And The Lizard Wizard Team Up For “Flower In A Hurricane” From New... mxdwn Music"
-  },
-  {
-   "id": "gn-pepezq",
-   "title": "Look to the skies! The 'Vice City' blimp took over the skies of Miami Thursday ahead of GTA 6. Did you see it? #miami #blimp #vicecity #gta",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY2tIOU56aHdVYnRMaXZIOTZvN3E1aHVsZ25oUGhqaExIbDhac09PbVhwaF8zamJqeHJ1N28tckFRMmpwSEpZZnBmNVltZktDMENTZmkzNExmQS10UTV1ekkzbEJVbTBqM3dwcXJVanhrZ2hRRWMzZUMwS3VyMmpYMnJGNGUxU3VZZWJRSWxXcjl4VC1oSWdBcmZybTFMQlhuUm16VFpKOU9sR0xJMHZxcld1VUlueFA3YXNTZ3E5Nzc3bUdlcEZLLUdmRmFXWlEyYkFIX1dwYXRybWI2UXRj?oc=5",
-   "date": "2026-10-15T20:10:14.000Z",
-   "source": "Facebook",
-   "summary": "Look to the skies! The 'Vice City' blimp took over the skies of Miami Thursday ahead of GTA 6. Did you see it? #miami #blimp #vicecity #gta Facebook"
-  },
-  {
-   "id": "gn-pkb76w",
-   "title": "New GTA 6 trailer gives fans another look at gaming's biggest release",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQenVGMzhSUXZ6NmI1cUNQRVJwZ1pCTEg1aTNETEhkR0JPZWZoaG04R3U0cXNkX2NSWWswUWFZNjJucE1HZGZIQ1k2Q0paaS1KQ2llZzhja2NnSWFJREZTRHo1S2ZpYWtYVHJRUmljaWZRMDc3Z2hCQkFCSEdyR2gzLXFVUlpyb2NlRWdfQXhvRU13ODZtWU1JQVppTTN2dXZuU0ZMYzlsak1Bb0lFeVMwdkt4QQ?oc=5",
-   "date": "2026-10-15T19:54:00.000Z",
-   "source": "USA Today",
-   "summary": "New GTA 6 trailer gives fans another look at gaming's biggest release USA Today"
-  },
-  {
-   "id": "gn-1w55q0a",
-   "title": "Grand Theft Auto VI - Launch Trailer",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xTGZYVjJhbXRQTC1MeUlwYWVUWWNTWDRQaC02dU9ERW5DaElsUzFIWjhnMzdOS3JVM0RkbXFhbXNyelVoQ21NT3BEUTFtMWt5NHBMdlBTVEY?oc=5",
-   "date": "2026-10-15T19:24:25.000Z",
-   "source": "Rockstar Games",
-   "summary": "Grand Theft Auto VI - Launch Trailer Rockstar Games"
-  },
-  {
-   "id": "gn-drt6ir",
-   "title": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MUlo0bDc5Wkw0eHhvek8yZDdMaHRuUUt5Mlo3cU9WVlZkNmVHbWpTODJFT0NYckxpenRvRVdWU0tJX1JwUHE5anVnT09Rd09wYVp0ekJOUWFMX25ETC1CSWtYODhsUlc0WlJ4Ukl1M3U?oc=5",
-   "date": "2026-10-15T19:23:16.000Z",
-   "source": "GameSpot",
-   "summary": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason GameSpot"
-  },
-  {
-   "id": "gn-1k8qjsi",
-   "title": "The GTA 6 Launch Trailer Is Now Live Over a Month Early",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZFNyaExKc1hxNThQd3BuZDFjMHFKU0gzRldKQzc0X1BqM2pyRWNVM1NWZVItVW5laWlPcGxjUHdtT0JFWldvb0V0X3hxcFVmQjZGWTBBakhsOHdqb19kRDBNSGlKcGRMRWk0YkwzOGFjWlNJbWdfN0JsMVVqeHRKR3BldVM?oc=5",
-   "date": "2026-10-15T19:03:04.000Z",
-   "source": "80 Level",
-   "summary": "The GTA 6 Launch Trailer Is Now Live Over a Month Early 80 Level"
-  },
-  {
-   "id": "gn-xwodnz",
-   "title": "Secretlab deal: Save up to $150 on gaming chairs for GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94UmVuekpib2dDNzdkaF9rV0IwZjJmMUwyMGsyeVcxZG11dlVIVXNzTnZuTmpnT1NyOEQwR25yVzhRVGdQZDJmNlZ1RDlKZlNGVURzQ2xkTjl5LTdCeFhPcmxGNlZ2UUQxYVdMcElCODJINGxxUVNZNlpnSQ?oc=5",
-   "date": "2026-10-15T19:00:46.000Z",
-   "source": "Mashable",
-   "summary": "Secretlab deal: Save up to $150 on gaming chairs for GTA 6 Mashable"
-  },
-  {
-   "id": "gn-1umts6p",
-   "title": "Justice composed Grand Theft Auto VI’s score",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWmdQSzlVSVVoaU5zYmdjVnoxT2kzVDBmUjhRZFU2OEpwTEptLTJWTlU5cFJhbzBsVnNERE4zTU5TNVdNSk9acHhFM2ZGakdNZm9vT09jX2ZZaXowRFR1TTFkMTY1MkhzalctX3llYlpvVjhESnpEQ1VCMzhLbjVHdlV5aEpIVnhPMzNhclJpNA?oc=5",
-   "date": "2026-10-15T18:52:00.000Z",
-   "source": "Paste Magazine",
-   "summary": "Justice composed Grand Theft Auto VI’s score Paste Magazine"
-  },
-  {
-   "id": "gn-1ls6zt7",
-   "title": "GTA 6 gets final trailer ahead of launch",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzVfaFNWa1pET2ZuM3Q4ZzlURzNSdGtRekhQbGlnbDc5Zi1NVXdTWTlYWnhkOUhXczRDRlN1SFo3UUt5blpfbU1GVWhPNTlOQnNlMzN3bV9EU1VSc0hmZVFwSGRHemV2TTlzYURUWUNMYjMzVDFSX3o2V2JtLWt4VzdzWnd6R1JEVE5wSzlfczBpX3UyMUpDZmZmODFHSVVqbVQ4dVFLcjFpVTRnWGl6WDBn?oc=5",
-   "date": "2026-10-15T18:48:43.000Z",
-   "source": "KitGuru",
-   "summary": "GTA 6 gets final trailer ahead of launch KitGuru"
-  },
-  {
-   "id": "gn-1rple3m",
-   "title": "GTA 6 launch trailer is here: Rockstar sets the stage for the release",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSE9RcUg2UXpGRUFfNXBEQl94UnFjQUZIOXpWSnNfeFREMHc0RFJQLXQzRVo0eHJ4aWctcjJxTUNOTVlRSHlpS1g4SktGTVFNVlZMY19pU3BPeElVZnhydmVmZFc2RHFoaEVWSS0zUGltdTM1NTF5VDQ2OXRLVnQ2d1ptNTMxR0NlejhtUWxPTklSRmRYb1Z1RjFVVGI2YmZ1UmZqeFpuY0FpZw?oc=5",
-   "date": "2026-10-15T18:45:00.000Z",
-   "source": "DLCompare.com",
-   "summary": "GTA 6 launch trailer is here: Rockstar sets the stage for the release DLCompare.com"
-  },
-  {
-   "id": "gn-u70sg",
-   "title": "The music of GTA VI - score details released with official trailer",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm5tVVhmcjl1UnFyRGxLblBXenR1NjM0alBlOG03cWNIdkcyMTZlUmdGLS1VbWFRdjNfaFdYSkY3cVhBQ0RycXpaanNDeWdxTTJxbnlZYnJrX1FfSGJLYXhZeU5vQlFYeDRDXzFCSnlBOGRPTkpwRm83dkdhcVNBR0IzZGQxYUQ4NVZHdk1yNnAzMWpmN0hvUDYtU083TmoydUF3eFdQbWJrdw?oc=5",
-   "date": "2026-10-15T18:18:23.000Z",
-   "source": "Gaming Nexus",
-   "summary": "The music of GTA VI - score details released with official trailer Gaming Nexus"
-  },
-  {
-   "id": "gn-1nepvzx",
-   "title": "GTA 6 Slides In Under Game Awards 2026 Cutoff",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnlQRUR5Y3BtTGZmbFJUdVd3cWNNTzhVTlpJYXVOeGFkQy1uXzREN3BHZnVWeVdSVGRCXzZObjN1R3Mycmo3akJLZHROazRHbkQ0OW1MQWoxV04tc3A1a1lndlhfcFRFUUN2bkR0aDdCT2dEbzdEQ2I5U2VZaUVrNw?oc=5",
-   "date": "2026-10-15T18:17:07.000Z",
-   "source": "DualShockers",
-   "summary": "GTA 6 Slides In Under Game Awards 2026 Cutoff DualShockers"
-  },
-  {
-   "id": "gn-m6e34y",
-   "title": "TTWO Stock In Focus: Citi Says This Blockbuster Game Could Potentially Ease Concerns About Post-GTA VI Earnings Drop",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQODkyTDVINUc1VXRKamVwU1htOHY3SUpRczZ0bXFqQjhfRldhRi03TDZQWmFkVlFwdW9FYXJUa3FBZ3RRRjI5U2lfcElEZ0JOUmttMFIwbExwR1pnV2hCT041OXpDOFVkdjRpYldrWkJQcElDbTdld1JmMXlsS3N3enMxVWhZRi1tQ3k2NE0tSFgtbGNWRXc?oc=5",
-   "date": "2026-10-15T18:07:38.000Z",
-   "source": "Yahoo Finance",
-   "summary": "TTWO Stock In Focus: Citi Says This Blockbuster Game Could Potentially Ease Concerns About Post-GTA VI Earnings Drop Yahoo Finance"
-  },
-  {
-   "id": "gn-1sefc75",
-   "title": "GTA 6 Launch Trailer Features Justice, Tame Impala, and SZA",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWZXVuX25FUVlzZnRFNnhaV0tXbkF3Mi1LRjBXX050UmZ4cE5jc2JjRUw4YmhDYlRZZzFDWGdrc09lNi1Dd09zUDFLbkYxN3FZYV9TM3VmdS1uZ3hvMnRaa1BrRjk3Y1NfbDRlcEpTTHREX1hZVy1Pck5xc0E?oc=5",
-   "date": "2026-10-15T18:04:52.000Z",
-   "source": "MonsterVine",
-   "summary": "GTA 6 Launch Trailer Features Justice, Tame Impala, and SZA MonsterVine"
-  },
-  {
-   "id": "gn-1wb8a5e",
-   "title": "GTA VI Launch Trailer Appears Over a Month Before Its Release Date",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXVDT1hvRFFYN3pMUXdsU3dMaTZTZW1Dd1ZxRjl4d05UVnNSaHdraGJsT3daVUMySnB6TDlIbXg5eHBWeFJrczh6RnA3MWQzTEVna0F5LWJXVUdPVzJaalZycEpLYVNTaXFNWldIcUM2ODJDZnZoYTVTRVh0UldIX0FCYjVmSWc1Q3pPVnlwbnhqdHJkc0M0V1Jn?oc=5",
-   "date": "2026-10-15T18:00:00.000Z",
-   "source": "Siliconera",
-   "summary": "GTA VI Launch Trailer Appears Over a Month Before Its Release Date Siliconera"
-  },
-  {
-   "id": "gn-1h5w3xj",
-   "title": "GTA 6 Launch Trailer Reveals Jason's Troubled Army Past And PS5 Visuals",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb004LTY1VkRtN2RJZUlxYVA5Z29ITTl1N1E5Rm9tZFo2ZWhNaHJHdEVncDdUYm9EeFBaN3drYjF6c3hhYUJYbW0zampSOG9TclhKTjFLZ0l4bE5OUklPWDF2M3FzdWlsX0VvWmcwMVRJMjZjQ2p3bTg1VEhCVWx1TU9VZW5ZU1Q4MUFj?oc=5",
-   "date": "2026-10-15T17:57:00.000Z",
-   "source": "HotHardware",
-   "summary": "GTA 6 Launch Trailer Reveals Jason's Troubled Army Past And PS5 Visuals HotHardware"
-  },
-  {
-   "id": "gn-njwd0n",
-   "title": "Justice Shares ‘GTA 6’ Track ‘Flower In A Hurricane’ Featuring Tame Impala, SZA & King Gizzard",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT3pOSk8tbkpQZ1o0TnRwUmZPMXYtZ0JFUS1JVnRMOVpDbGdIT2tSYUh1OE9LU05iNTlYSHJfNFFNcDlOaV81Sm4zRVZaZ0xJYUxzMVhEMERhTHpKVVM5WDUwUk9SeDBZb3ZZSUdselRjQXdhZnlyRTluUVZYN3NTTkxlcXpLUkdyRUlrV1o4UThwYzRNU0E?oc=5",
-   "date": "2026-10-15T17:51:00.000Z",
-   "source": "JamBase",
-   "summary": "Justice Shares ‘GTA 6’ Track ‘Flower In A Hurricane’ Featuring Tame Impala, SZA & King Gizzard JamBase"
-  },
-  {
-   "id": "gn-ag1oaj",
-   "title": "Justice Tap SZA, Tame Impala, and King Gizzard & the Lizard Wizard for New “GTA VI” Single",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZENqcS11Tk91YWw2MFJfYm9DWURoX0xxa1Z5SmZzWmYtb3ZteHhOU1EzS2tvQlFMVlRDa3ZwX19IQzdXQWxzRVh5SnZweUVTVV83STZ6Q3hacEJFYmlOc01IMWFJYy1qbTIxWTBSOUYyV1MyQUlNRmRCWldhWTdiVk1pUnhFN3MtMUdsWjUyY2pYb3lhYS1tWEpqUkpwWlhfMktrTnJxMGlSQQ?oc=5",
-   "date": "2026-10-15T17:35:53.000Z",
-   "source": "FLOOD Magazine",
-   "summary": "Justice Tap SZA, Tame Impala, and King Gizzard & the Lizard Wizard for New “GTA VI” Single FLOOD Magazine"
-  },
-  {
-   "id": "gn-1976z4u",
-   "title": "GTA VI launch trailer features shower sex and a dark military past",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IVE5SUlozS0lleUxkUFFibXhFQmNOU0YzcVoteXY0VEZhNFlVb1k2cWdwY3hOOWtmcEFWNG13VmU1eWhtZk5ocVRTbnhyakdYZ0lyMnJOY2wxUnNyR2xVdXVTOXA0aFplSWc?oc=5",
-   "date": "2026-10-15T17:28:56.000Z",
-   "source": "A.V. Club",
-   "summary": "GTA VI launch trailer features shower sex and a dark military past A.V. Club"
-  },
-  {
-   "id": "gn-18m8kea",
-   "title": "Justice Is Composing the Original Score for ‘Grand Theft Auto VI’",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrN3AtMnFPdW5zZnItTlpJckk2VFNueWdyZWQ0QTNMM2VkWVdNdGY1WjY1clFMQ0lpR2xfcjBkdDFRNWo1RFBpREdWaVc3cU82QTVKcDNVdm5VZlE1NDJocEo0SVJvRHZNRXpPNw?oc=5",
-   "date": "2026-10-15T17:16:07.000Z",
-   "source": "EDM.com",
-   "summary": "Justice Is Composing the Original Score for ‘Grand Theft Auto VI’ EDM.com"
-  },
-  {
-   "id": "gn-iql9d3",
-   "title": "GTA 6 Cyberleek update: Leaker linked GTA 6 reveals to crypto play. It’s crashing spectacularly.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNODc2RXdOR1ZPNGdsQm9xUk1XUTJlOGo4UHI4WkVOcFJWOHNGMTFBOWl0RWw1ajNnZnB5ZmVqUVg4U2RuTmJ2cUxhb1JmYkE0Mmx4ZkExVzA0clFENlQzYXlkV2VuUVg3MUFPcHAtY1pOUnRyeHRxekx4bk5hZ25zbzB2SXNPcXpjd3NLV1pn?oc=5",
-   "date": "2026-10-15T17:15:22.000Z",
-   "source": "Mashable",
-   "summary": "GTA 6 Cyberleek update: Leaker linked GTA 6 reveals to crypto play. It’s crashing spectacularly. Mashable"
-  },
-  {
-   "id": "gn-r8s706",
-   "title": "GTA 6 Launch Trailer Breakdown: 5 Biggest Reveals From Rockstar",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlAwaE1fQUlGSFAwQzBRZDQxSUh2TWQxeEJ6ODZrWW1xSnZDSW9WM0g3M2E4dDBpQjFPc2RGdVYyVUhteHFWeXVtdy0ySV9LRTdEV1JMam1LZ29ESmM1c3AxWmlXSXBhT0FXd21ic3lmUW4wNTFnNFUyc0tpX3FpNg?oc=5",
-   "date": "2026-10-15T17:08:46.000Z",
-   "source": "SVG",
-   "summary": "GTA 6 Launch Trailer Breakdown: 5 Biggest Reveals From Rockstar SVG"
-  },
-  {
-   "id": "gn-z5yapc",
-   "title": "GTA VI's Launch Trailer Is Here, Showcasing Its Main Characters And An Epic Main Theme",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVE5ROWhEcnRycVVhc3JNOFprWlpKaDlaN0lxaUNBdklPWWJKVkk1Q3NYU09FMWZ0VG5nc3V3VnNFRkR2ZXZ1bkFkZVRnWXp5VlBoSk9DRkp5eE1HaDRsRlZuLXFILUFDMmwtVWhSbWR5TjExazBzd2F5Q3F6UEtqdXZYazJOUXpCbHFUVHUxSUdQR015UFZoTUJZUFhlY3lIRzM0bEtXRFExMUlpSmotejBtNUdnOWJNQUpmbDd4bG4?oc=5",
-   "date": "2026-10-15T17:00:00.000Z",
-   "source": "MMORPG.com",
-   "summary": "GTA VI's Launch Trailer Is Here, Showcasing Its Main Characters And An Epic Main Theme MMORPG.com"
-  },
-  {
-   "id": "gn-6j9bfd",
-   "title": "The new GTA VI trailer looks too good to be real, but graphics aren't even its biggest achievement",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWTlnTktmWWlQV1ZLb1BZWTRuZGI2MmJWS1ZCMU91RVVfa0tBLXdUYmI5M1h3eUQ2Ymh5SU0tMUtmcThPN1RhYXNDMUZVaElLN2Q1Q09UUnJwcHJCNUM0U2lhdXlrT2pGMTZ0UFduYzZhZm12LXVkOFVVMHllV1IyNzFralF6VTJmV3c0VGM3QU9iVGZRaHI4REJKNEZYUHZIbWhNejNWbjJ1MWtCd1N1RWhEcktMMGtZdS1QNENzSzBENG8?oc=5",
-   "date": "2026-10-15T17:00:00.000Z",
-   "source": "Creative Bloq",
-   "summary": "The new GTA VI trailer looks too good to be real, but graphics aren't even its biggest achievement Creative Bloq"
-  },
-  {
-   "id": "gn-8ax4xx",
-   "title": "Justice Composed the Score for Grand Theft Auto VI",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTEJSbm9ockhTbDkxMXlDUWl6ZzFJSnVuWk1lZ2U2cFpUOEtvUzZXc2xNMWJBbThUVVdCOFE1ZC1lRmVRZ2xlcVJhUm83bU5FaVk3RUN3bHp3NDdLdmducldHVWw1ZWNyTF9jX3BtQ0JmekhYVkx3aHRkNmZ6bUVFcjVBT1RlQQ?oc=5",
-   "date": "2026-10-15T16:52:34.000Z",
-   "source": "Pitchfork",
-   "summary": "Justice Composed the Score for Grand Theft Auto VI Pitchfork"
-  },
-  {
-   "id": "gn-1uxxwk1",
-   "title": "'GTA 6' Finally Goes Gold in Official Launch Trailer",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4WWpfUHZOSVVVb182TzFOYTctWkxBY0JocDM0UEh4S1ZZeWpiWWxBcDBxTGZNNnhtcXc4b0puVVBuX3k5YlBoZ2tGVnNDY2FGaTBMcw?oc=5",
-   "date": "2026-10-15T16:49:37.000Z",
-   "source": "Collider",
-   "summary": "'GTA 6' Finally Goes Gold in Official Launch Trailer Collider"
-  },
-  {
-   "id": "gn-m2zzzu",
-   "title": "'Grand Theft Auto VI' Reveals Justice As Original Score Composers, Debuts Flower in a Hurricane Track In New Launch Trailer",
-   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOM0NpTDh3MV9BbXJlNldHRXZnUmwyNzgybUZ6bXRmRENEYWo2TFpObUFIbm9sbXVDay1RLWxkRnJPOUFXR1JQNXFGc3Fhd1lDd1NNV2ZZZUQwOW9TWDNDeGZnX0l1RThJSkdILVVxdFBvd1gycDRDZ21ianpfWXZSd1cxS1c3NHIyNnlYa1VZbktOTkdlVS10VkM0RlZkYW16MlBKTlJHYnFKX0dudGNzbWVleFFwMGxkYlZkZ0YyRk9sZlJwSXlzRWIyVkhrTDVQam5mYVp6OVJRMXZoUUhZem9XRnkxUmdEcHNKRjlaaXR4MkFJQXBmX3JWbVZfc2ZaMVk1TW5BX0tpNE5rX0E?oc=5",
-   "date": "2026-10-15T16:40:00.000Z",
-   "source": "Worthplaying",
-   "summary": "'Grand Theft Auto VI' Reveals Justice As Original Score Composers, Debuts Flower in a Hurricane Track In New Launch Trailer Worthplaying"
-  },
-  {
-   "id": "gn-1hlpu56",
-   "title": "33 New Details From the GTA 6 Launch Trailer",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BOVZEdndnS1hrbkVaS1JvUnloWEJ4Y3YzbXktR21GTmxDc056Ykg5UUxyTXcta1h0SFkxVjZLdEp3WlVfNFFEZnBIMTZhUVI1TlZmcl9fQXJOekQySk5KZzVUcVdBVm1OV0NUU1J5RklKMV9TZk1Td2NNcy1MQQ?oc=5",
-   "date": "2026-10-15T16:35:48.000Z",
-   "source": "IGN",
-   "summary": "33 New Details From the GTA 6 Launch Trailer IGN"
-  },
-  {
-   "id": "gn-1lvw03v",
-   "title": "The GTA 6 launch trailer has arrived… over a month before the game launches",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUlhoX2piN3JFZzlZYjFiRlQyalEzM25ma3lPMW1EWENtU0ZiOG1aLWxNSjlyYi04MEhRMGY5MW1VRnpZZDQxS1V3VHpCS0VNckV6ZHFnLU8zY3Z4UmYtT3VaaTE0SHQyVWpzT28wYnl1VzVZbHBhLVZHNVk2R3B6eUI2THpaTWJiQkdvVnBBZHdnSDBMd2NybjJ1M2lfMHdL?oc=5",
-   "date": "2026-10-15T16:35:00.000Z",
-   "source": "Top Gear",
-   "summary": "The GTA 6 launch trailer has arrived… over a month before the game launches Top Gear"
   }
  ],
  "community": [
+  {
+   "id": "rd-19rl3qd",
+   "title": "This is crazy, miami is officially vice city now",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x79mxz/this_is_crazy_miami_is_officially_vice_city_now/",
+   "date": "2026-10-16T07:19:30.000Z",
+   "source": "r/GTA6",
+   "summary": "Saw this video on instagram, this is so cool, Credit - @ericsuerez submitted by /u/A-D2001 [link] [comments]"
+  },
+  {
+   "id": "rd-1827qfd",
+   "title": "The evolution of Jason: From the first trailer to the launch trailer. What do you think of the new look?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x79380/the_evolution_of_jason_from_the_first_trailer_to/",
+   "date": "2026-10-16T06:45:58.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/The_name_is_7725 [link] [comments]"
+  },
+  {
+   "id": "rd-110n7x1",
+   "title": "The real life GTA 6 cars are a Rockstar and West Coast Customs collaboration",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x77iy7/the_real_life_gta_6_cars_are_a_rockstar_and_west/",
+   "date": "2026-10-16T05:10:52.000Z",
+   "source": "r/GTA6",
+   "summary": "West Coast Customs previously created a real life Banshee for GTA 5 in 2013. submitted by /u/gtawiki [link] [comments]"
+  },
+  {
+   "id": "rd-11mzmai",
+   "title": "After all of the trailers and the extended look, we still know nothing….",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x76n16/after_all_of_the_trailers_and_the_extended_look/",
+   "date": "2026-10-16T04:20:24.000Z",
+   "source": "r/GTA6",
+   "summary": "In the best way possible. I first had this thought about a rockstar game when I saw the first RDR2 trailer. By the time all of them had been released, i was thinking “Hell yeah, a more HD Red Dead.” N"
+  },
   {
    "id": "rd-w3l3qs",
    "title": "Real-life versions of GTA 6 cars have been spotted in Miami",
@@ -768,6 +799,14 @@
    "date": "2026-10-15T22:37:55.000Z",
    "source": "r/GTA6",
    "summary": "Looks like they’re doing a lot of promotion here in miami, thought it was cool submitted by /u/Effective_Sympathy_6 [link] [comments]"
+  },
+  {
+   "id": "rd-vtdx9a",
+   "title": "The best doggo!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x6zdiq/the_best_doggo/",
+   "date": "2026-10-15T22:21:31.000Z",
+   "source": "r/GTA6",
+   "summary": "A little GIF I put together. Made some adjustments to the original video's colors and lighting etc. and added the logo. I wonder what his (or her) name is. Abel would be a cool callback to RDR2. submi"
   },
   {
    "id": "rd-7kb9fg",
@@ -992,46 +1031,6 @@
    "date": "2026-10-15T13:10:12.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/OutlandishnessOk6696 [link] [comments]"
-  },
-  {
-   "id": "rd-a6av8i",
-   "title": "New look at Jason",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6l7je/new_look_at_jason/",
-   "date": "2026-10-15T13:09:41.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Weird-Judge-4578 [link] [comments]"
-  },
-  {
-   "id": "rd-90rw2c",
-   "title": "Grand Theft Auto VI New Artwork",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6l73t/grand_theft_auto_vi_new_artwork/",
-   "date": "2026-10-15T13:09:10.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/yourfavchoom [link] [comments]"
-  },
-  {
-   "id": "rd-xsgbmy",
-   "title": "The graphics are out of this world",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6l673/the_graphics_are_out_of_this_world/",
-   "date": "2026-10-15T13:08:02.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Away_Needleworker6 [link] [comments]"
-  },
-  {
-   "id": "rd-uobcu3",
-   "title": "GTA 6 Launch Trailer",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6l1y5/gta_6_launch_trailer/",
-   "date": "2026-10-15T13:02:59.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/PastaCheed [link] [comments]"
-  },
-  {
-   "id": "rd-r7zvkn",
-   "title": "Did you notice this detail? They removed the guns from the artwork on the building in Paris.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6ksdu/did_you_notice_this_detail_they_removed_the_guns/",
-   "date": "2026-10-15T12:51:13.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Arvosss [link] [comments]"
   }
  ]
 }
