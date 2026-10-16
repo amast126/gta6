@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-15T22:56:06.061Z",
+ "generated": "2026-10-16T00:59:42.951Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-15T22:56:06.061Z"
+   "checked": "2026-10-16T00:59:42.951Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-15T22:56:06.061Z"
+   "checked": "2026-10-16T00:59:42.951Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 92,
-   "checked": "2026-10-15T22:56:06.061Z"
+   "checked": "2026-10-16T00:59:42.951Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-15T22:56:06.061Z"
+   "checked": "2026-10-16T00:59:42.951Z"
   }
  },
  "official": [
@@ -231,6 +232,22 @@
  ],
  "press": [
   {
+   "id": "gn-eeiu7x",
+   "title": "GTA 6 Qualifies for The Game Awards 2026 by a Single Day",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdzE5SGRpNlRacHNPbHhjTUxhX2IwZGR1QXJHTjEtZmhzMnVDaDh5bXpLX2FETEtRQmMwVWtCRzJhLXBETFNNRm5nZkJDOE1rUVNnZ0kyN0UzUlFxYWRpVy1zRDYtMEFRLVdpeEFadW5helJPRXl5dVpQeTBYZFlOYjJEUUpTU2ZScmFPUmtsNVFhWXRpVHM0d2xIUXNfU1dSNHhYR1FoZmpuNm8?oc=5",
+   "date": "2026-10-16T00:02:17.000Z",
+   "source": "TechPowerUp",
+   "summary": "GTA 6 Qualifies for The Game Awards 2026 by a Single Day TechPowerUp"
+  },
+  {
+   "id": "gn-a4c2nv",
+   "title": "GTA 6 outclassed by 95% Positive indie; collector's edition confirms physical copy and free 'buddy code'",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcTRUWlBwcTZrd3UwWVhUcnNTWXY1M0VBSWZvcWcwZVZ5Ni04LWpQTjFic1VJajdmaGJaMU9SU2U3TEx3dkJvaVRaTVFUS1VMMEMtZXByZG4wMGg2cmZkZV9pa1lscy1hanpBLVVqa0c1MTNCYUh4ZGdTbWJ3VHZrUDVaX29YNmtGZHl2MV9kRWxkZ0Rxa1I5YQ?oc=5",
+   "date": "2026-10-15T23:00:54.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 outclassed by 95% Positive indie; collector's edition confirms physical copy and free 'buddy code' GAMINGbible"
+  },
+  {
    "id": "gn-mc1i5i",
    "title": "Massive GTA 6 Banner In Paris Censors All Of The Guns",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGZ6cmNoM1M0MGhKSDh1Y3JhalVPeDBmaFRHSEF5UUJWdmplMHBQb2xXd29CdWc1S18xQjg0dXdVNnlGQmV2TTVMUGtkX1RYV1c5dWJEb1BIVWZJOHQ0NDlEZzNCbTNoRFNXMThxdDI5dFlkMl8wTHlTT0VhbmdOb2xiX1JPOG93ZTdlZ3QyOFYtcGlL?oc=5",
@@ -367,6 +384,22 @@
    "summary": "GTA 6 launch trailer is here: Rockstar sets the stage for the release DLCompare.com"
   },
   {
+   "id": "gn-1wfgyr7",
+   "title": "Justice to lead Original Score and Soundtrack for Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkNoSXBoZ0xRS3dLOVNSVnA3VGpfY01mc1B6ZzhXT1JZaEZtTnJTMWNzUDlFYVJHVW83UnJpWkNYSm43dHUwN1JXR19QNTdGUFNYQjB2S3BaOHRWbHJyRkRxVTNVSmtjZC05eWRoYkxZV2FfU2FWd2pvbjhCZGk2bHVMeFJDNGRKY0RJODBETGZ3UQ?oc=5",
+   "date": "2026-10-15T18:41:43.000Z",
+   "source": "Electronic Groove",
+   "summary": "Justice to lead Original Score and Soundtrack for Grand Theft Auto VI Electronic Groove"
+  },
+  {
+   "id": "gn-1976z4u",
+   "title": "GTA VI launch trailer features shower sex and a dark military past",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IVE5SUlozS0lleUxkUFFibXhFQmNOU0YzcVoteXY0VEZhNFlVb1k2cWdwY3hOOWtmcEFWNG13VmU1eWhtZk5ocVRTbnhyakdYZ0lyMnJOY2wxUnNyR2xVdXVTOXA0aFplSWc?oc=5",
+   "date": "2026-10-15T18:23:00.000Z",
+   "source": "A.V. Club",
+   "summary": "GTA VI launch trailer features shower sex and a dark military past A.V. Club"
+  },
+  {
    "id": "gn-u70sg",
    "title": "The music of GTA VI - score details released with official trailer",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm5tVVhmcjl1UnFyRGxLblBXenR1NjM0alBlOG03cWNIdkcyMTZlUmdGLS1VbWFRdjNfaFdYSkY3cVhBQ0RycXpaanNDeWdxTTJxbnlZYnJrX1FfSGJLYXhZeU5vQlFYeDRDXzFCSnlBOGRPTkpwRm83dkdhcVNBR0IzZGQxYUQ4NVZHdk1yNnAzMWpmN0hvUDYtU083TmoydUF3eFdQbWJrdw?oc=5",
@@ -429,14 +462,6 @@
    "date": "2026-10-15T17:35:53.000Z",
    "source": "FLOOD Magazine",
    "summary": "Justice Tap SZA, Tame Impala, and King Gizzard & the Lizard Wizard for New “GTA VI” Single FLOOD Magazine"
-  },
-  {
-   "id": "gn-1976z4u",
-   "title": "GTA VI launch trailer features shower sex and a dark military past",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IVE5SUlozS0lleUxkUFFibXhFQmNOU0YzcVoteXY0VEZhNFlVb1k2cWdwY3hOOWtmcEFWNG13VmU1eWhtZk5ocVRTbnhyakdYZ0lyMnJOY2wxUnNyR2xVdXVTOXA0aFplSWc?oc=5",
-   "date": "2026-10-15T17:28:56.000Z",
-   "source": "A.V. Club",
-   "summary": "GTA VI launch trailer features shower sex and a dark military past A.V. Club"
   },
   {
    "id": "gn-18m8kea",
@@ -580,7 +605,7 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBd3E5Ul9vTUZkckxnQV91b2dZZjNFRzFFNzFlR1Z2R05pUk5OWF9TTUlyZ1VHSmlNNWtxNzd4Sjd5Y1NNRjlOVkdIYjMxQXN6cF93dnZyTVNaYW85Y0ZFMlBVcw?oc=5",
    "date": "2026-10-15T15:59:36.000Z",
    "source": "Rockstar Games",
-   "summary": "Grand Theft Auto VI Launch Trailer Rockstar Games ‘GTA 6’ Launch Trailer Justifies Game’s Big Price Tag The Hollywood Reporter 'GTA 6' preorders are live: Where to buy for PS5 and Xbox Mashable New GTA 6 trailer gives fans another look at g"
+   "summary": "Grand Theft Auto VI Launch Trailer Rockstar Games ‘GTA 6’ Launch Trailer Justifies Game’s Big Price Tag The Hollywood Reporter 'GTA 6': Every trailer released so far Mashable I Compared Every PlayStation and Xbox for GTA 6. Here’s My Verdic"
   },
   {
    "id": "gn-1i1n8f8",
@@ -685,33 +710,33 @@
    "date": "2026-10-15T15:24:23.000Z",
    "source": "Ynetnews",
    "summary": "GTA 6 launch trailer is here: Rockstar reveals new footage ahead of November 19 release Ynetnews"
-  },
-  {
-   "id": "gn-5flxub",
-   "title": "Over 30 New GTA 6 Screenshots From the Launch Trailer",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakg5NWJYM0J5YkFudGFmSFd1cS05eTdRV2FwT2NhNDA1Ymw0WUZLamtES01qSEpFM0NEdmY1Mzl4bmhxbmM3eDJaLVBFQnFyR1lsZzBrZFNwVVdKSkZHUlJQRFFRUzltSld3V2RQZXN6X1A4TmRNWG1wN3pocjlndDRRMXhReVRjT1E?oc=5",
-   "date": "2026-10-15T15:19:08.000Z",
-   "source": "IGN",
-   "summary": "Over 30 New GTA 6 Screenshots From the Launch Trailer IGN"
-  },
-  {
-   "id": "gn-jbiiw6",
-   "title": "'GTA 6' reportedly has realistic sweat. Here's how it works.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1o3RjFneUhhQ0dGd09jUjQySC1lSWYxQ0dieHhTc2xjdVN4U2tvdWQ4SXg4NmxQalgybGpLTXFHdnRtWXhDN1BISkNUNTZib2w4TEcwNTFpYXB2Mk9ua3VUSWVSeHk0ZUo0TkdHOXFibXF2a3k0R2Z5ZVBYVkJKaXJlWnR2VFh3Y0U5dVFNM2VoV2prdGxr?oc=5",
-   "date": "2026-10-15T15:12:20.000Z",
-   "source": "Mashable SEA",
-   "summary": "'GTA 6' reportedly has realistic sweat. Here's how it works. Mashable SEA"
-  },
-  {
-   "id": "gn-19fup20",
-   "title": "Justice Recruit Tame Impala, SZA for ‘GTA 6’ Song ‘Flower in a Hurricane’",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYS1mYWFlM1ZfSERVU0FQanJuWTFiSy1ZUFZYRjFoZHhDb29YYS0xM2d4RGU1MmtkMXZHSU13b3VITVU4UDVhVE9CYWx4N1ZBT2JLY184RHJzM2NNNnI1Z1BUWlctRElGUERHTkNwanNyZ1FNM1pLcTh4X0xSb2dzS2pVVUtDVjZKSGxfb00teFlmS0U2ZVluSVNCcTJDVVBqZDFzellHcVdENGFnWHljTDlqUnc?oc=5",
-   "date": "2026-10-15T15:05:04.000Z",
-   "source": "Rolling Stone",
-   "summary": "Justice Recruit Tame Impala, SZA for ‘GTA 6’ Song ‘Flower in a Hurricane’ Rolling Stone"
   }
  ],
  "community": [
+  {
+   "id": "rd-ncbzsh",
+   "title": "Giant GTA 6 billboard in Times Square in NYC! The hype is real. The countdown begins.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x70yyv/giant_gta_6_billboard_in_times_square_in_nyc_the/",
+   "date": "2026-10-15T23:33:26.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Reddit_newguy24 [link] [comments]"
+  },
+  {
+   "id": "rd-9hn192",
+   "title": "Nostalgic for schizo posting",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x705as/nostalgic_for_schizo_posting/",
+   "date": "2026-10-15T22:55:40.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/BBtheboy [link] [comments]"
+  },
+  {
+   "id": "rd-1qf94p4",
+   "title": "What is he doing? Unplayable",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x70476/what_is_he_doing_unplayable/",
+   "date": "2026-10-15T22:54:15.000Z",
+   "source": "r/GTA6",
+   "summary": "Possible run animation issue in the launch trailer Edit: As pointed out by some comments it’s likely just parallax and the guy only actually goes through a couple frames of running animation in the ti"
+  },
   {
    "id": "rd-1i5u9el",
    "title": "Story and Character Speculation Thread",
@@ -719,6 +744,14 @@
    "date": "2026-10-15T22:45:51.000Z",
    "source": "r/GTA6",
    "summary": "Now that we're getting more footage the number of speculation posts have increased a lot, so as not to flood the timeline we'll have this dedicated thread so everyone can log their theories of the sto"
+  },
+  {
+   "id": "rd-82j3ap",
+   "title": "Just saw this from my window",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x6zr5n/just_saw_this_from_my_window/",
+   "date": "2026-10-15T22:37:55.000Z",
+   "source": "r/GTA6",
+   "summary": "Looks like they’re doing a lot of promotion here in miami, thought it was cool submitted by /u/Effective_Sympathy_6 [link] [comments]"
   },
   {
    "id": "rd-7kb9fg",
@@ -999,38 +1032,6 @@
    "date": "2026-10-15T09:40:55.000Z",
    "source": "r/GTA6",
    "summary": "\"When the graphics are so detailed and the systems so realistic as in GTA VI, it can be disconcerting to see how a bottle of beer appears in the protagonist's hand out of nowhere.\" \"Would you have to "
-  },
-  {
-   "id": "rd-1928fcx",
-   "title": "New \"Vice City\" personalized Tesla spotted in Miami",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6h9wa/new_vice_city_personalized_tesla_spotted_in_miami/",
-   "date": "2026-10-15T09:39:13.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Wonderer2K [link] [comments]"
-  },
-  {
-   "id": "rd-dwfiuy",
-   "title": "Update on Mural in Los Angeles",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6gt01/update_on_mural_in_los_angeles/",
-   "date": "2026-10-15T09:09:56.000Z",
-   "source": "r/GTA6",
-   "summary": "It should be noted that the artwork this mural is based on was released near Pre-Orders under title Jason and Lucia 03, which led to a lot of speculation that it will be used for Trailer 3, however we"
-  },
-  {
-   "id": "rd-ka3s62",
-   "title": "Who are you going to base your Jason & Lucia off of?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6d2hb/who_are_you_going_to_base_your_jason_lucia_off_of/",
-   "date": "2026-10-15T05:13:19.000Z",
-   "source": "r/GTA6",
-   "summary": "I’m going full Ryan Gosling in Place Beyond The Pines submitted by /u/yahboyshark [link] [comments]"
-  },
-  {
-   "id": "rd-1k3aoya",
-   "title": "Grand Theft Auto, but make it nails 💅",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6brag/grand_theft_auto_but_make_it_nails/",
-   "date": "2026-10-15T03:58:53.000Z",
-   "source": "r/GTA6",
-   "summary": "A custom GTA order for my fandom series. Probably my most legal side mission. 😝 submitted by /u/Full_Bat3145 [link] [comments]"
   }
  ]
 }
