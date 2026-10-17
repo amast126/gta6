@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-17T04:47:49.323Z",
+ "generated": "2026-10-17T08:58:55.136Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-17T04:47:49.323Z"
+   "checked": "2026-10-17T08:58:55.136Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-17T04:47:49.323Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-17T08:58:55.136Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-17T04:47:49.323Z"
+   "checked": "2026-10-17T08:58:55.136Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-17T04:47:49.323Z"
+   "checked": "2026-10-17T08:58:55.136Z"
   }
  },
  "official": [
@@ -232,6 +231,30 @@
  ],
  "press": [
   {
+   "id": "gn-1ei161m",
+   "title": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore fa",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFRYeDBId0FGS3M0TnBpSHN0aDREQjlUdHFzVEcxVTdxMFFpVkhuVlh2YWF6YjA0d3pUSThTaGx5cEpaTTBjUXJiSjNtRGpFallFYm0yeGdFVHZTM3dJamFCOGlXMEx6X19EN2pGREJkUmp0RzlscURPaHJ2Y3RiU2JBZXBja2FldmZvRlNBVHhZOGFqX3Bod0E0ZUJabWRfVTRrMVc3WFozMURIZzA0VEZabzZRUGRXem5tRHpFQ1JhSEwtVS1ja3BvOUt0Q1V5dzN2R01zaw?oc=5",
+   "date": "2026-10-17T08:13:08.000Z",
+   "source": "Facebook",
+   "summary": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore"
+  },
+  {
+   "id": "gn-d9t44f",
+   "title": "Flying cars arrived before GTA 6, Tesla's new Roadster sparks meme",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWhqenVzWVN1d2V6cVotTjRyanZwUjBMSkRwVGg4YkNtVW92TkxMS1FoWFlpUDUwd0pka0s5MmsyVTVKZ0RQZS1lVW1Gbm05N056cVRBUTlPZnNwUGxWX080SmRYRzJzN3lSVW1IX2ZpSndUZ05ISzZ1TWluczNwcHl5YlR5cm16OGpHb0pxVDFOdGIybERkU2dMVlgtd1pzeGJNRWNhQ0FzZ9IBpgFBVV95cUxOTG96RG9ua0JsV1RuUGh2WmpEak9wUEN5QXBHUGQwTTBPQ1VtSXVIbVlEc1pCUHZyY2F0R2l1YmRBWld1YVVidm53WnROb2lwSWtOQjQzYWpBUkk2QnVaUWhiRDB4ZVMtSDZfSkxzRDVZSUFUN3hPdnh4cjhLQmRwakJEb0N2TEtYaG1fM0lqcUo4dEFESG03dTRXeEROVkJNWFB3Umx3?oc=5",
+   "date": "2026-10-17T07:57:50.000Z",
+   "source": "The News International",
+   "summary": "Flying cars arrived before GTA 6, Tesla's new Roadster sparks meme The News International"
+  },
+  {
+   "id": "gn-1vgb6kf",
+   "title": "GTA VI is almost here: 6 things to know before Rockstar’s biggest release yet",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMk92ZXdkSkRPS19naUlPQVdBb0xBYXF0b1lMX3NJMGN3dmlsY294bkZuelhiTkkwYVJMSFgwb3dKVklBX00wVGwwRGhVV3h2YmJ6cEptcFRsZENvOWdWUDZIaEdoTnFzWGNTck5hTHhiMEU4UnRjVnlHS09Qd0pTclNrbmtib0JEbzY2c1lkbzQ4RWZnejM4UnNhZFFkOXluTHFWMDJIV3NaODYzd1p6cmhicw?oc=5",
+   "date": "2026-10-17T05:42:47.000Z",
+   "source": "Open Magazine",
+   "summary": "GTA VI is almost here: 6 things to know before Rockstar’s biggest release yet Open Magazine"
+  },
+  {
    "id": "gn-l4tu47",
    "title": "Rockstar Drops GTA VI Launch Trailer as November 19 Release Nears",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2tnT0NncEJwR0lZUWw0RTEyS2VfN2tONlIyQ2Vjb01HLVQ4dFNjQWpLazVhUS1RZUt1R25ZdlVVUXFucGJTc1ZER0FRV081akNtdVhxSW5ESGttckdqTGVJbE9kZDFEeml1YmFna2JweUNVdVllWE5BWDBkUUNLS3VxOHRSajJ3d2g4dE9B?oc=5",
@@ -262,6 +285,14 @@
    "date": "2026-10-17T03:52:06.000Z",
    "source": "iXBT.games",
    "summary": "GTA VI has 8 times fewer pre-orders than The Legend of Zelda: Ocarina of Time - players noticed Amazon statistics iXBT.games"
+  },
+  {
+   "id": "gn-1nd55wt",
+   "title": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BRDdDRHpXN1hlN0p4YnZWOXlGQ2F5TTN5NkJuQXJJdk43OUhTZTZ6MkFkdUZ0RXdEc3FMaEEtd2dLQklkbHFpSlRWaUZJcW1FOEdkWldpVm9qQ3ZiOExz?oc=5",
+   "date": "2026-10-17T03:36:46.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox Mashable"
   },
   {
    "id": "gn-6veyzi",
@@ -336,14 +367,6 @@
    "summary": "Activision Throws Shade at Zelda, Says Call of Duty and GTA 6 Are the 2 Biggest Games of the Year OpenCritic"
   },
   {
-   "id": "gn-4maoes",
-   "title": "GTA 6 fans fear graphics downgrade after launch trailer sparks fresh debate",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0R0TXU2U0lyRm52ZTJmZ1VuejJGTXl6QmR2cWVnS1FyNGduY0tCZHE3RVZXdE1VaUFsN25XMVZYbkVPWVVSTTY2QzZnRGs2ZUhjY2lPdE1BN204RWYya3hiNmdHUmZMaGEzXzRWOVFYOXV0alQzUG54cEd0Yll1X051cnBab0FidFhwUi0zb0xzQmxtRXJQRklicFRzSWotVEww?oc=5",
-   "date": "2026-10-16T23:05:15.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 fans fear graphics downgrade after launch trailer sparks fresh debate GAMINGbible"
-  },
-  {
    "id": "gn-us8nfk",
    "title": "GTA 6 Blimp Set to Fly Over NASCAR Championship Weekend in Miami",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WZXlfTG9yLThEV09MRVFQU19DU0w4UldtUGZSbkVrZ3hpeVludmp3bXhOX3FhRnh5cVoyRFVGc2tpUmR2QnFkemZEZlczYmZCQ2RHYUp3MjM0eEFUd2ViZ2Jib2tOak9yLUYyYVBWb21ueERDRTZr?oc=5",
@@ -358,14 +381,6 @@
    "date": "2026-10-16T22:52:00.000Z",
    "source": "CBS News",
    "summary": "The making of \"Grand Theft Auto VI\" CBS News"
-  },
-  {
-   "id": "gn-14g5665",
-   "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5UYVdfU1A1SkNsQ3V3d3VkREkzYXlVOVJVd0lEMF9GLVVjeEhKcndlNUNPNDdoUFJhRzVvTFNRSkN0NHp5UmRKbTJuNENqMGd2UTBJMnBRcExzTTVoaFNHd2dGREZ3Tnk1eENaSHdXY2p1OGQtcHJhWVB4SFRRenI3Um1iSi0tWFpWR3hRNlpUTjVvWDFyNTdpT1U?oc=5",
-   "date": "2026-10-16T21:49:53.000Z",
-   "source": "Mashable",
-   "summary": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full Mashable"
   },
   {
    "id": "gn-1r6kwxl",
@@ -392,14 +407,6 @@
    "summary": "All The Records GTA 6 Will Break, We Think GameSpot"
   },
   {
-   "id": "gn-drt6ir",
-   "title": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MUlo0bDc5Wkw0eHhvek8yZDdMaHRuUUt5Mlo3cU9WVlZkNmVHbWpTODJFT0NYckxpenRvRVdWU0tJX1JwUHE5anVnT09Rd09wYVp0ekJOUWFMX25ETC1CSWtYODhsUlc0WlJ4Ukl1M3U?oc=5",
-   "date": "2026-10-16T20:27:22.000Z",
-   "source": "GameSpot",
-   "summary": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason GameSpot"
-  },
-  {
    "id": "gn-1a8j4ua",
    "title": "There’s No Conspiracy For GTA VI To Be In The Game Awards",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCOUpsclcwa2tiaDhBbjZGLTFCOHZ2TjZFSUk5ZzB1UnV4bDhyT1QwQmVPc19TUEs5U3JHalhWY25Bc1BKcmtYaHJwNm5kMTNObThJRl8yNC12c21CTTNZ?oc=5",
@@ -422,14 +429,6 @@
    "date": "2026-10-16T20:02:18.000Z",
    "source": "Gamereactor UK",
    "summary": "Jason and Lucia Take Centre Stage in GTA 6 Launch Trailer Gamereactor UK"
-  },
-  {
-   "id": "gn-1nd55wt",
-   "title": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BRDdDRHpXN1hlN0p4YnZWOXlGQ2F5TTN5NkJuQXJJdk43OUhTZTZ6MkFkdUZ0RXdEc3FMaEEtd2dLQklkbHFpSlRWaUZJcW1FOEdkWldpVm9qQ3ZiOExz?oc=5",
-   "date": "2026-10-16T20:00:40.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox Mashable"
   },
   {
    "id": "gn-12nx8hp",
@@ -704,12 +703,12 @@
    "summary": "GTA VI launch trailer looks to the past to set up what lies ahead The Business Standard"
   },
   {
-   "id": "gn-wk0uux",
-   "title": "GTA 6's giant billboard has a design problem",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlhCSXlfUVhPMnZjRVlMR1YtVWdzb3F4T2ZBdDJsRXhNYnA0dmdOczRzRlRpdHgyOTlMcXBXeTUzMHloX3Q3dlNVR1htVFpFc2E5a3ltUjhqM2NQTVRteG9fOWx3b3c2NjhrVVZmeWE3WDhJeGRGaUNud3NBUFJuRXlvRVNHVHV5TDc3SnZwMkFtbThjQkpHalNjNkFvYWlQUC1yM3J6OA?oc=5",
-   "date": "2026-10-16T14:00:00.000Z",
-   "source": "Creative Bloq",
-   "summary": "GTA 6's giant billboard has a design problem Creative Bloq"
+   "id": "gn-9tacfg",
+   "title": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch'",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGZ4bU9NSUVRYzVGbFl3eHlpamJjSWFoQzBGaFlrbi03TzdHR29Xb2htSzZEamltajNrbjloeWhTX1BhWEwyZEc5ampPMy1seWVtZDJMcEhjRzVjdE1BNnIyYTRKeGhuenJJWlFkcEFWWkxvbEpYdjdwT1RRLUtZTHlKVTRsYjQ?oc=5",
+   "date": "2026-10-16T14:01:38.000Z",
+   "source": "Mashable",
+   "summary": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch' Mashable"
   }
  ],
  "community": [
@@ -720,6 +719,14 @@
    "date": "2026-10-17T03:10:29.000Z",
    "source": "r/GTA6",
    "summary": "I know the palms aren't great and the painting has some rough edges, and I'm definitely no artist either. Just wanted to try something out submitted by /u/Additional_Town_9896 [link] [comments]"
+  },
+  {
+   "id": "rd-195u4te",
+   "title": "GTA VI has me curious about what happens when a soldier leaves the military on bad terms",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x7ytzd/gta_vi_has_me_curious_about_what_happens_when_a/",
+   "date": "2026-10-17T02:27:13.000Z",
+   "source": "r/GTA6",
+   "summary": "In the latest GTA VI trailer, Jason’s background as someone who appears to have served in the military, possibly in a special operations role, got me thinking about what life after service actually lo"
   },
   {
    "id": "rd-xwxxsf",
@@ -1024,14 +1031,6 @@
    "date": "2026-10-15T22:54:15.000Z",
    "source": "r/GTA6",
    "summary": "Running animation illusion in launch trailer. submitted by /u/No_Fun_9350 [link] [comments]"
-  },
-  {
-   "id": "rd-1i5u9el",
-   "title": "Story and Character Speculation Thread",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6zxgv/story_and_character_speculation_thread/",
-   "date": "2026-10-15T22:45:51.000Z",
-   "source": "r/GTA6",
-   "summary": "Now that we're getting more footage the number of speculation posts have increased a lot, so as not to flood the timeline we'll have this dedicated thread so everyone can log their theories of the sto"
   }
  ]
 }
