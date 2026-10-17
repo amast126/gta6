@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-17T08:58:55.136Z",
+ "generated": "2026-10-17T12:49:49.600Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-17T08:58:55.136Z"
+   "checked": "2026-10-17T12:49:49.600Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-17T08:58:55.136Z"
+   "checked": "2026-10-17T12:49:49.600Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-17T08:58:55.136Z"
+   "checked": "2026-10-17T12:49:49.600Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-17T08:58:55.136Z"
+   "checked": "2026-10-17T12:49:49.600Z"
   }
  },
  "official": [
@@ -231,6 +231,14 @@
  ],
  "press": [
   {
+   "id": "gn-dr1gh7",
+   "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjluZXN3Zlp6ZG1jNXlYYWZxSk5ISTUtQzQ0NHNES1JIU0QxWllWMjRGUXl0b1pPMGNXelVtUVB6YjVJZ1BvN1JUeVczSlBnZUhlRXA0dWdlNk1PRF9SNDliNkh6QkVGSEphOGUtbFFFSGRKQk1JbWh3bVl3RnRBY1BTM1M5SXVYNzNlVXBEWUNuY2pI?oc=5",
+   "date": "2026-10-17T09:30:00.000Z",
+   "source": "Yahoo Autos",
+   "summary": "White House Mocks GTA 6 After Tesla Flying Car Reveal Yahoo Autos"
+  },
+  {
    "id": "gn-1ei161m",
    "title": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore fa",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFRYeDBId0FGS3M0TnBpSHN0aDREQjlUdHFzVEcxVTdxMFFpVkhuVlh2YWF6YjA0d3pUSThTaGx5cEpaTTBjUXJiSjNtRGpFallFYm0yeGdFVHZTM3dJamFCOGlXMEx6X19EN2pGREJkUmp0RzlscURPaHJ2Y3RiU2JBZXBja2FldmZvRlNBVHhZOGFqX3Bod0E0ZUJabWRfVTRrMVc3WFozMURIZzA0VEZabzZRUGRXem5tRHpFQ1JhSEwtVS1ja3BvOUt0Q1V5dzN2R01zaw?oc=5",
@@ -357,6 +365,14 @@
    "date": "2026-10-17T00:01:00.000Z",
    "source": "DualShockers",
    "summary": "GTA 6 Miami Takeover Faces Backlash From Officials DualShockers"
+  },
+  {
+   "id": "gn-1rn9hxc",
+   "title": "Watch Rockstar Rebuilt Itself to Make GTA VI",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFU1Z1R6NENpYzJlcFNhd3BKR1l2MTF4NGpnckNKWjBScUFMZFQtTEFVYUM5X1lQd3lTT1YyblZYZ2p0STg0cE5VeXlrUlJkNWtZeDk1c0hFc25ramdUZW03d3hNQ0dDQ2MzX3lVdm05V3piaHVFWGpxUkxaN1R5d1ZqSGMyWjBOZUFTXy1EOGNhQVg1WkJRVQ?oc=5",
+   "date": "2026-10-17T00:00:00.000Z",
+   "source": "Bloomberg.com",
+   "summary": "Watch Rockstar Rebuilt Itself to Make GTA VI Bloomberg.com"
   },
   {
    "id": "gn-1nfx4lk",
@@ -693,25 +709,49 @@
    "date": "2026-10-16T14:11:32.000Z",
    "source": "freeyork",
    "summary": "Rockstar Games Unveils Stunning In-Game Trailer for GTA VI with Vibrant Florida-Inspired Landscape freeyork"
-  },
-  {
-   "id": "gn-1ic6m2j",
-   "title": "GTA VI launch trailer looks to the past to set up what lies ahead",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVk5GZGhpcXUtQlNzeUd4MjdhUEc2dGFHdXk2a1dfLTlYMEszaGVzci1UcDFjVlVTU3BNc1FlNlNrcFo1M05WcmljWkY3b19OdEdmS1lJX1pPWHE4bGYyYnhRRzd3QzMtd2ZnN1BXb1BxRmZMdDZGbFZMTDJhSlRHa2V2VVJuT2p0YlBVV1F0MzBkSjR4V3c?oc=5",
-   "date": "2026-10-16T14:08:21.000Z",
-   "source": "The Business Standard",
-   "summary": "GTA VI launch trailer looks to the past to set up what lies ahead The Business Standard"
-  },
-  {
-   "id": "gn-9tacfg",
-   "title": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch'",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGZ4bU9NSUVRYzVGbFl3eHlpamJjSWFoQzBGaFlrbi03TzdHR29Xb2htSzZEamltajNrbjloeWhTX1BhWEwyZEc5ampPMy1seWVtZDJMcEhjRzVjdE1BNnIyYTRKeGhuenJJWlFkcEFWWkxvbEpYdjdwT1RRLUtZTHlKVTRsYjQ?oc=5",
-   "date": "2026-10-16T14:01:38.000Z",
-   "source": "Mashable",
-   "summary": "Cyberleek says the 'GTA 6' leaks are over and warns of 'dead man's switch' Mashable"
   }
  ],
  "community": [
+  {
+   "id": "rd-1d5hi91",
+   "title": "Nice clear video of all the promo cars! Which is your favourite? All Credit to @Ernest_Tattoo1 on insta",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x870dj/nice_clear_video_of_all_the_promo_cars_which_is/",
+   "date": "2026-10-17T10:34:21.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/TimmyTurnersDealer [link] [comments]"
+  },
+  {
+   "id": "rd-1lqi006",
+   "title": "We can all agree right ?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x86bdj/we_can_all_agree_right/",
+   "date": "2026-10-17T09:52:06.000Z",
+   "source": "r/GTA6",
+   "summary": "We can all agree that rockstar games has never missed with their music choices . Im so excited to just drive and listen to the radio in gta6 submitted by /u/DietrichMann [link] [comments]"
+  },
+  {
+   "id": "rd-v1wnjs",
+   "title": "Jason and Lucia being a couple is the canon way of playing GTA VI.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x85bm2/jason_and_lucia_being_a_couple_is_the_canon_way/",
+   "date": "2026-10-17T08:48:35.000Z",
+   "source": "r/GTA6",
+   "summary": "I know Rockstar Games has basically said making the two leads a romantic couple is optional, but let's face it - and pretty much all the trailers have shown it - there is such thing this time as a pro"
+  },
+  {
+   "id": "rd-uonyri",
+   "title": "\"There's appetizers, main course and dessert to follow\" is this the main course or the dessert phase we are in?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x84tos/theres_appetizers_main_course_and_dessert_to/",
+   "date": "2026-10-17T08:16:14.000Z",
+   "source": "r/GTA6",
+   "summary": "Supposedly the extended look was the appetizer, would you this be considered the main course now? If so, what could we possibly have for the dessert? Marketing has really kicked into gear this week, d"
+  },
+  {
+   "id": "rd-x48bsd",
+   "title": "The trailer wouldn’t have been complete without this absolute legend",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x80tpg/the_trailer_wouldnt_have_been_complete_without/",
+   "date": "2026-10-17T04:17:14.000Z",
+   "source": "r/GTA6",
+   "summary": "This dude has been holding it down for the GTA trailers since GTA III. I was really hoping to hear him at the end of the GTA VI launch trailer and Rockstar delivered. So much nostalgia for me. Now all"
+  },
   {
    "id": "rd-1ur2aiy",
    "title": "Hand-drawn GTA VI PS5 PRO plates I made with markers and a white pencil – what do you think?",
@@ -991,46 +1031,6 @@
    "date": "2026-10-16T04:20:24.000Z",
    "source": "r/GTA6",
    "summary": "In the best way possible. I first had this thought about a rockstar game when I saw the first RDR2 trailer. By the time all of them had been released, i was thinking “Hell yeah, a more HD Red Dead.” N"
-  },
-  {
-   "id": "rd-w3l3qs",
-   "title": "Real-life versions of GTA 6 cars have been spotted in Miami",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7609v/reallife_versions_of_gta_6_cars_have_been_spotted/",
-   "date": "2026-10-16T03:45:58.000Z",
-   "source": "r/GTA6",
-   "summary": "Cars featured, in order: Manana , Buccaneer , Tempesta , Cheetah , Coquette D10 , Emerus submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-lsk4p5",
-   "title": "credit to Volvoshine on Youtube and X",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x72d1i/credit_to_volvoshine_on_youtube_and_x/",
-   "date": "2026-10-16T00:38:02.000Z",
-   "source": "r/GTA6",
-   "summary": "He also keeps a livestream up with this view. submitted by /u/M1996A1 [link] [comments]"
-  },
-  {
-   "id": "rd-ncbzsh",
-   "title": "Giant GTA 6 billboard in Times Square in NYC! The hype is real. The countdown begins.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x70yyv/giant_gta_6_billboard_in_times_square_in_nyc_the/",
-   "date": "2026-10-15T23:33:26.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Reddit_newguy24 [link] [comments]"
-  },
-  {
-   "id": "rd-9hn192",
-   "title": "Nostalgic for schizo posting",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x705as/nostalgic_for_schizo_posting/",
-   "date": "2026-10-15T22:55:40.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/BBtheboy [link] [comments]"
-  },
-  {
-   "id": "rd-1qf94p4",
-   "title": "What is he doing? Unplayable",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x70476/what_is_he_doing_unplayable/",
-   "date": "2026-10-15T22:54:15.000Z",
-   "source": "r/GTA6",
-   "summary": "Running animation illusion in launch trailer. submitted by /u/No_Fun_9350 [link] [comments]"
   }
  ]
 }
