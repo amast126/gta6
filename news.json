@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-17T12:49:49.600Z",
+ "generated": "2026-10-17T16:06:28.269Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-17T12:49:49.600Z"
+   "checked": "2026-10-17T16:06:28.269Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-17T12:49:49.600Z"
+   "checked": "2026-10-17T16:06:28.269Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-17T12:49:49.600Z"
+   "checked": "2026-10-17T16:06:28.269Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-17T12:49:49.600Z"
+   "checked": "2026-10-17T16:06:28.269Z"
   }
  },
  "official": [
@@ -231,6 +231,62 @@
  ],
  "press": [
   {
+   "id": "gn-18d0zdd",
+   "title": "Every Grand Theft Auto VI (GTA 6) Trailer",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UcEl0M1JzX1dETXNGOXpGYjBVVmdTWnByMzhjekEyOWI2bHMtbTNQdFNHY1ZsTkVqVHNWdldqNUZxSEZCdXZkcFZ4QkRaaFpYNEVReXV5N283eDJ3dTJwbVVxR0JZY2ZZMHhqd1RSQTJkU3dnYk40N2lqMVM?oc=5",
+   "date": "2026-10-17T15:00:00.000Z",
+   "source": "GameSpot",
+   "summary": "Every Grand Theft Auto VI (GTA 6) Trailer GameSpot"
+  },
+  {
+   "id": "gn-1ei161m",
+   "title": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore fa",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFRYeDBId0FGS3M0TnBpSHN0aDREQjlUdHFzVEcxVTdxMFFpVkhuVlh2YWF6YjA0d3pUSThTaGx5cEpaTTBjUXJiSjNtRGpFallFYm0yeGdFVHZTM3dJamFCOGlXMEx6X19EN2pGREJkUmp0RzlscURPaHJ2Y3RiU2JBZXBja2FldmZvRlNBVHhZOGFqX3Bod0E0ZUJabWRfVTRrMVc3WFozMURIZzA0VEZabzZRUGRXem5tRHpFQ1JhSEwtVS1ja3BvOUt0Q1V5dzN2R01zaw?oc=5",
+   "date": "2026-10-17T14:14:11.000Z",
+   "source": "Facebook",
+   "summary": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore"
+  },
+  {
+   "id": "gn-2c3nt",
+   "title": "No, Rockstar Didn’t Say GTA 6 Is Unfinished Weeks Before Launch",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLU5BZkdBdkdyYi0zSFVOekR5N3ZlVUhOLWJpZzBsR1lKWHV6LXZIUkVFQ1dOa3NtTVNmSHczS0M3S3dzeXRZUGVjWndnek9VUHhFVXphdk1tZWJOUU91OHhXbExWRlBZS0V1Zm1fVlVvdVZNckF6YWx4WTV2M0hVRw?oc=5",
+   "date": "2026-10-17T13:46:11.000Z",
+   "source": "VICE",
+   "summary": "No, Rockstar Didn’t Say GTA 6 Is Unfinished Weeks Before Launch VICE"
+  },
+  {
+   "id": "gn-1463lot",
+   "title": "Forget GTA VI, Call of Duty: Modern Warfare 4 looks absolutely unhinged And brutally fkn savage Writer: Ian",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9relFnTTRYNFJ3SFc0aU1RMVFzWDBpS0VTSVdDLTE4WHN6a3dCQzNxSFpYU04wWlUwdmhJUlJfcjZJZ1ZmYl9MNEk0Y3l4bEVVbGRrMi13WU5OOFFnS2lvN2ZwUUJHZ3VXZEIybQ?oc=5",
+   "date": "2026-10-17T13:00:00.000Z",
+   "source": "X",
+   "summary": "Forget GTA VI, Call of Duty: Modern Warfare 4 looks absolutely unhinged And brutally fkn savage Writer: Ian X"
+  },
+  {
+   "id": "gn-1aoh1q3",
+   "title": "Donald Trump’s White House shares another GTA 6 AI image, now with “flying cars”",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZG5jMTJHX2Q5czFHdkZJRUxPOFZTQ053d1VLU210VVZldHI4MkgwUkpJQkhMc3d0QWlreENfaGw5c2RkX0MzUE9SS3NmdkJDd3I2b0FzVTdQc01xTUlUeU9xUjNncDhQeW1jZGlTQXBvNDlpMDZhR01WQ2xSTFU5TA?oc=5",
+   "date": "2026-10-17T12:26:12.000Z",
+   "source": "AOL.com",
+   "summary": "Donald Trump’s White House shares another GTA 6 AI image, now with “flying cars” AOL.com"
+  },
+  {
+   "id": "gn-uoclch",
+   "title": "GTA VI Can Compete for Game of the Year at The Game Awards 2026, but It Almost Missed Out: Rockstar Shows It Wants to Win With the Game’s New Trailer",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTVpORkNmR3o1dkM5UFlMNW5IUDgycFpjZExlYnZXRGluTWR6elo4bk5fa2FwNVBRQS1jOVZ3TTFxSFJRRmo5OF9mbzJpdWZhMzBfTGVBa19HSTVONEcteUs5eEtoQlc1VDM0c1dXTlM0eDRtV2xFUFdQNXNDNFM2NHRucUo2cGJvdWRqdlVMdE5ZX1pmTm5qMFpfbmNGei04LW9jYnI0TGV0bGFEYVN3TzlWbnZUb3VLQXZpdVQtR25RMGdRVnNGdXNndEZVXzl2MXhTX2x0S2RxWkVXb0c0Rk1FSW5yN1plMFVxaHY0SVl1MnFhekhxUXdOS0ktZFY1TVBhbzNRNVJiQ3M?oc=5",
+   "date": "2026-10-17T12:00:01.000Z",
+   "source": "www.levelup.com",
+   "summary": "GTA VI Can Compete for Game of the Year at The Game Awards 2026, but It Almost Missed Out: Rockstar Shows It Wants to Win With the Game’s New Trailer www.levelup.com"
+  },
+  {
+   "id": "gn-ft67w5",
+   "title": "'GTA 6' official merch is live, and it's already selling out: Where to buy",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnRrenQzLUk4MjExZ1AtaWVRbkdsV2lMOExfckd1cGRXblpBRkxmX1JQOE9MWUNzb3NzaEVEQkpXUFdFcFlUVkZubzlvWWdsVUs4VlR5T00xZjFmU2JxYk9vVDVxanlpdFNsTy1MczBic2lJMXhIeE9XRUo2Wk1pd0k5dHkyZw?oc=5",
+   "date": "2026-10-17T11:52:34.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' official merch is live, and it's already selling out: Where to buy Mashable"
+  },
+  {
    "id": "gn-dr1gh7",
    "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjluZXN3Zlp6ZG1jNXlYYWZxSk5ISTUtQzQ0NHNES1JIU0QxWllWMjRGUXl0b1pPMGNXelVtUVB6YjVJZ1BvN1JUeVczSlBnZUhlRXA0dWdlNk1PRF9SNDliNkh6QkVGSEphOGUtbFFFSGRKQk1JbWh3bVl3RnRBY1BTM1M5SXVYNzNlVXBEWUNuY2pI?oc=5",
@@ -239,12 +295,12 @@
    "summary": "White House Mocks GTA 6 After Tesla Flying Car Reveal Yahoo Autos"
   },
   {
-   "id": "gn-1ei161m",
-   "title": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore fa",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFRYeDBId0FGS3M0TnBpSHN0aDREQjlUdHFzVEcxVTdxMFFpVkhuVlh2YWF6YjA0d3pUSThTaGx5cEpaTTBjUXJiSjNtRGpFallFYm0yeGdFVHZTM3dJamFCOGlXMEx6X19EN2pGREJkUmp0RzlscURPaHJ2Y3RiU2JBZXBja2FldmZvRlNBVHhZOGFqX3Bod0E0ZUJabWRfVTRrMVc3WFozMURIZzA0VEZabzZRUGRXem5tRHpFQ1JhSEwtVS1ja3BvOUt0Q1V5dzN2R01zaw?oc=5",
-   "date": "2026-10-17T08:13:08.000Z",
-   "source": "Facebook",
-   "summary": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore"
+   "id": "gn-1u85e3j",
+   "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sTWtBZHNIaWFoZ0RCMTdBRGQ5b1NOTkVUWkdzREV4OG1INXd2VDJfVnJxYkFvZXZKMGNTV0RiZ25NaHRTZkRyUm1WeV9jUHlSUGhDaWVMZGlfUDBGSi1fRnNIOGFjY2hJY3c?oc=5",
+   "date": "2026-10-17T09:30:00.000Z",
+   "source": "BeInCrypto",
+   "summary": "White House Mocks GTA 6 After Tesla Flying Car Reveal BeInCrypto"
   },
   {
    "id": "gn-d9t44f",
@@ -253,6 +309,14 @@
    "date": "2026-10-17T07:57:50.000Z",
    "source": "The News International",
    "summary": "Flying cars arrived before GTA 6, Tesla's new Roadster sparks meme The News International"
+  },
+  {
+   "id": "gn-1jju2r9",
+   "title": "'GTA 6' reportedly has realistic sweat. Here's how it works.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXE1d1VvNmxiak5TV0E3cUl5Qk1oR2VnN2dxc29HTHNIQzhJS3lqQmVnRmdZTHpNZmZTRnpGZU45cHlyNlVjVEFvai1GbUdCQUJOdTNxOFFLQW91V1o0YWVFV29JSS1NRGYyY1ZwcUVuME9ObmRWZjFuelJwdGtDcjk3b0MxZnc?oc=5",
+   "date": "2026-10-17T06:33:45.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' reportedly has realistic sweat. Here's how it works. Mashable"
   },
   {
    "id": "gn-1vgb6kf",
@@ -293,14 +357,6 @@
    "date": "2026-10-17T03:52:06.000Z",
    "source": "iXBT.games",
    "summary": "GTA VI has 8 times fewer pre-orders than The Legend of Zelda: Ocarina of Time - players noticed Amazon statistics iXBT.games"
-  },
-  {
-   "id": "gn-1nd55wt",
-   "title": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BRDdDRHpXN1hlN0p4YnZWOXlGQ2F5TTN5NkJuQXJJdk43OUhTZTZ6MkFkdUZ0RXdEc3FMaEEtd2dLQklkbHFpSlRWaUZJcW1FOEdkWldpVm9qQ3ZiOExz?oc=5",
-   "date": "2026-10-17T03:36:46.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox Mashable"
   },
   {
    "id": "gn-6veyzi",
@@ -349,14 +405,6 @@
    "date": "2026-10-17T00:43:00.000Z",
    "source": "Polygon.com",
    "summary": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19 Polygon.com"
-  },
-  {
-   "id": "gn-yyh0um",
-   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
-   "date": "2026-10-17T00:24:39.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
   },
   {
    "id": "gn-1fad3tr",
@@ -661,57 +709,49 @@
    "date": "2026-10-16T15:07:19.000Z",
    "source": "GamingBolt",
    "summary": "GTA 6’s Reported PC Timeline Could Mark a Major Shift for Rockstar GamingBolt"
-  },
-  {
-   "id": "gn-p9xy3y",
-   "title": "GTA 6 Launch Trailer Feels Like A Hollywood Romance, Fans Fear Heartbreak",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOXVlbzUtX2x3WEFQclhUbkJ3TXBhU19tYzc4Y2JBa2VsNVZOLXREU3hFZC1PbGxWaTNhN3hvZ1lZTjBjdi1LQ0pabHU1NTFoaXFOMDlrVUJFZS0yWllNWmduS3F4Y1M4eVZTTENjT0s0a2N0dGxIemV0VjZ0TmtOUXU2Q0hxRHkzMjloMTQ1eHJiaXVKcWhMbVNPOENwUktsdU1FZ1I1MXF0WVhiajJUNno2eXB5UDJfQmhV0gHDAUFVX3lxTFA4X3JqVUZIWkc0ME9MdzJha1hxcjFDV1ZJYkdtQV94d0x0UGtJUlNpRW5xN2NLWDdtTW9WUklzN3ludnZXRFNQZFp1VldGaFU5QXNmX3FER2djelpxLUhYaDhXMmw4bkV6QWdQMGhuRjcxOGRSQlVlZmpRWE5qSldqc1pjSUJ4cldzWXk0LUk1dE1MMGFrZXZEUmxkYVBTbkFnQUdWeEcwTU5GSFdFdmUzaG5pcTNYQzNBbEZPbDNwSGNEMA?oc=5",
-   "date": "2026-10-16T15:04:42.000Z",
-   "source": "NDTV Profit",
-   "summary": "GTA 6 Launch Trailer Feels Like A Hollywood Romance, Fans Fear Heartbreak NDTV Profit"
-  },
-  {
-   "id": "gn-1ykvlpo",
-   "title": "Major music act confirmed as composers for GTA 6 score",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHJvODNVMkN3MW9qczBHSjJWUTRIbVdTdWRSNG9vNkk4eHpfSGVVd2xfRURmb1hBYllycFR0NjByb1EwNnlmcS1lWmNyNHZEcVhFUWdTZUZSMVpTaGtxRTJPTlVZNDZFaExYdWFfWWFqSlJ2ZTJ1WDBSc3lrVXZqNlQ1QTdva08xRnpWT1FvRWxRRWdIQnhldUF3bmlENUdOYWR1UU0yOGJPQQ?oc=5",
-   "date": "2026-10-16T14:53:00.000Z",
-   "source": "The Independent",
-   "summary": "Major music act confirmed as composers for GTA 6 score The Independent"
-  },
-  {
-   "id": "gn-1479hvv",
-   "title": "'GTA VI' Marketing Heads to Florida Streets With In-Game Cars",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSm9LLUh3enNlMXRpUkp5RWxrMEtFVnl0YnN0MFNPRy15NzVQZWd0VmdJREdCcmdqRkkwYi16Z1VjNUJGVER2dGZvbEpmcGhldmk5R01fSkRhem9NMmpkMFNiNU9CblNjbE1rLWdUanppNlZrVUZCLWJDYVZBY1RNRW9NclBtODlKb2FUNl9B?oc=5",
-   "date": "2026-10-16T14:52:56.000Z",
-   "source": "FanBuzz",
-   "summary": "'GTA VI' Marketing Heads to Florida Streets With In-Game Cars FanBuzz"
-  },
-  {
-   "id": "gn-78otdk",
-   "title": "GTA 6’s Launch Trailer Analyzed – Here’s What You Need to Know",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYm44SmQ2ZUhXRjdyYTA2VWNkZXVjN2dFV25aNVZabUg4cGtDUFRLN3hzcERncnlBbG9HT1VkdGRFdW1PRXA2a1U1SlNWSnFScjUzVWlqdHZlMm9NcWsta3FpNW9QeWtsVUhRbUhad0lKZ0tGQ0RjRnJUdFE0R0NhUHZyMXBveVFH?oc=5",
-   "date": "2026-10-16T14:17:19.000Z",
-   "source": "GamingBolt",
-   "summary": "GTA 6’s Launch Trailer Analyzed – Here’s What You Need to Know GamingBolt"
-  },
-  {
-   "id": "gn-vch3er",
-   "title": "GTA 6 is Officially Eligible for The Game Awards 2026, Barely Making the Cutoff Date",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakRGVzgzeDRmNEs4dmZ1YUFBN3JFcWNnUFhoNzdLOXB6SnJPbmoxMDNJSmpraUVHWUZaSE55YUR1U2lfT1Jwd2xtcGxzSmZYTmVTVEZIU1lPaDRfY3BmaUFFazNoblUwNktwT1VJc1RMcmo0d0xrT3c3VWZMU0Y2SHNJUnp5anc0Sng5b3FsS0tvN3VwbWtjVW9HcUtEWkFKYnhxS243aGdvUQ?oc=5",
-   "date": "2026-10-16T14:17:19.000Z",
-   "source": "GamingBolt",
-   "summary": "GTA 6 is Officially Eligible for The Game Awards 2026, Barely Making the Cutoff Date GamingBolt"
-  },
-  {
-   "id": "gn-dkhyz",
-   "title": "Rockstar Games Unveils Stunning In-Game Trailer for GTA VI with Vibrant Florida-Inspired Landscape",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMlpQdW9KNFE1LU5lVGktdzRUMFZBNjRGSkxuQUpRU1VSQlNDSnEteGVXVnFRbmNNWkctRDdUNmt0cFdZN25lM1dOY0trenh3cmU3dE1FeW14OEZwQURJaVlDV0xrSWZtSjBMcEs5RGdvdDE1cVVfbnFOeDFLVFJlck52RQ?oc=5",
-   "date": "2026-10-16T14:11:32.000Z",
-   "source": "freeyork",
-   "summary": "Rockstar Games Unveils Stunning In-Game Trailer for GTA VI with Vibrant Florida-Inspired Landscape freeyork"
   }
  ],
  "community": [
+  {
+   "id": "rd-1emo91l",
+   "title": "Digital Foundry Launch Trailer Tech Breakdown",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8cyx7/digital_foundry_launch_trailer_tech_breakdown/",
+   "date": "2026-10-17T15:25:42.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/PapaXan [link] [comments]"
+  },
+  {
+   "id": "rd-k3r60z",
+   "title": "At my local Walmart",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8c91n/at_my_local_walmart/",
+   "date": "2026-10-17T14:55:56.000Z",
+   "source": "r/GTA6",
+   "summary": "This may/probably isn’t an official marketing thing. But thought it was super odd. An “NYC” taxi advertising for vice city. I’m in Canada and the cab looks like a movie or tv use vehicle. Just thought"
+  },
+  {
+   "id": "rd-h5jg9o",
+   "title": "Another Week another painting. Until the game comes out . Next I’ll be painting the second pic",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8auyq/another_week_another_painting_until_the_game/",
+   "date": "2026-10-17T13:55:42.000Z",
+   "source": "r/GTA6",
+   "summary": "I paint everything using acrylics. Artist name is jujuras. submitted by /u/Goylianos [link] [comments]"
+  },
+  {
+   "id": "rd-1e8nwar",
+   "title": "Its crazy how GTA 5 makes GTA 6 look like a PS5 game",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8amdg/its_crazy_how_gta_5_makes_gta_6_look_like_a_ps5/",
+   "date": "2026-10-17T13:44:43.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
+  },
+  {
+   "id": "rd-9b4gec",
+   "title": "How far will Rockstar push the gym / body morphing system?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8alpw/how_far_will_rockstar_push_the_gym_body_morphing/",
+   "date": "2026-10-17T13:43:52.000Z",
+   "source": "r/GTA6",
+   "summary": "Do we think Jason will be able to reach this level of muscularity? submitted by /u/superman_king [link] [comments]"
+  },
   {
    "id": "rd-1d5hi91",
    "title": "Nice clear video of all the promo cars! Which is your favourite? All Credit to @Ernest_Tattoo1 on insta",
@@ -991,46 +1031,6 @@
    "date": "2026-10-16T10:35:42.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/meechCS [link] [comments]"
-  },
-  {
-   "id": "rd-bdzt8g",
-   "title": "It’s a launch trailer not a gameplay showcase What did you expect?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7c65g/its_a_launch_trailer_not_a_gameplay_showcase_what/",
-   "date": "2026-10-16T10:01:31.000Z",
-   "source": "r/GTA6",
-   "summary": "Honestly, why is everyone making such a huge deal about the bloom, motion blur, and cinematic effects in the new GTA 6 launch trailer? We’ve already seen the gameplay trailer. And if Rockstar follows "
-  },
-  {
-   "id": "rd-19rl3qd",
-   "title": "This is crazy, miami is officially vice city now",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x79mxz/this_is_crazy_miami_is_officially_vice_city_now/",
-   "date": "2026-10-16T07:19:30.000Z",
-   "source": "r/GTA6",
-   "summary": "Saw this video on instagram, this is so cool, Credit - @ericsuerez submitted by /u/A-D2001 [link] [comments]"
-  },
-  {
-   "id": "rd-1827qfd",
-   "title": "The evolution of Jason: From the first trailer to the launch trailer. What do you think of the new look?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x79380/the_evolution_of_jason_from_the_first_trailer_to/",
-   "date": "2026-10-16T06:45:58.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/The_name_is_7725 [link] [comments]"
-  },
-  {
-   "id": "rd-110n7x1",
-   "title": "The real life GTA 6 cars are a Rockstar and West Coast Customs collaboration",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x77iy7/the_real_life_gta_6_cars_are_a_rockstar_and_west/",
-   "date": "2026-10-16T05:10:52.000Z",
-   "source": "r/GTA6",
-   "summary": "West Coast Customs previously created a real life Banshee for GTA 5 in 2013. submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-11mzmai",
-   "title": "After all of the trailers and the extended look, we still know nothing….",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x76n16/after_all_of_the_trailers_and_the_extended_look/",
-   "date": "2026-10-16T04:20:24.000Z",
-   "source": "r/GTA6",
-   "summary": "In the best way possible. I first had this thought about a rockstar game when I saw the first RDR2 trailer. By the time all of them had been released, i was thinking “Hell yeah, a more HD Red Dead.” N"
   }
  ]
 }
