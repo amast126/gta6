@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-17T21:12:22.652Z",
+ "generated": "2026-10-17T23:17:38.483Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-17T21:12:22.652Z"
+   "checked": "2026-10-17T23:17:38.483Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-17T21:12:22.652Z"
+   "checked": "2026-10-17T23:17:38.483Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-17T21:12:22.652Z"
+   "checked": "2026-10-17T23:17:38.483Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-17T21:12:22.652Z"
+   "checked": "2026-10-17T23:17:38.483Z"
   }
  },
  "official": [
@@ -230,6 +230,22 @@
   }
  ],
  "press": [
+  {
+   "id": "gn-1x8gwhm",
+   "title": "GTA 6 Is Now Rated Adults Only in Every Major Market Worldwide",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRG5mVkR6TmNFV1lHYzBia0l6TWxwcHhic1NJMUJDVzR4eThYekZEM2VVWi1reHBwSFNiM01NcHNhRkFYSzRMTkRNTE42cHFtTEVBaFNhUXp5QmtEWUFpbUNCbk43RmhQSFVuRk9LMUU0MnI1TkJaemFCYnZDTXVPZE1TX09BdGgt?oc=5",
+   "date": "2026-10-17T22:24:10.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6 Is Now Rated Adults Only in Every Major Market Worldwide GTA BOOM"
+  },
+  {
+   "id": "gn-18zp2ak",
+   "title": "Rockstar Games Confirms GTA 6 Brings Back Grand Theft Auto IV Feature",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazNGcE9xcmxHWkhFU3hLTDBSMko3WWMyU2ZpRTZOX2dycnN6QWNGZk5DUGhKV0tGWm1MS0VjMzZCNWNQVVA1RHoyeUVXODVRX3Z1STFoQklzd2JMNjByeTlINHduTDJHczNvUWFQSjdaWnpJRC1ibUxWNW5IQ3BRMV9XXzVXUHA5WUh3?oc=5",
+   "date": "2026-10-17T20:28:11.000Z",
+   "source": "ComicBook.com",
+   "summary": "Rockstar Games Confirms GTA 6 Brings Back Grand Theft Auto IV Feature ComicBook.com"
+  },
   {
    "id": "gn-1ei161m",
    "title": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore fa",
@@ -693,25 +709,41 @@
    "date": "2026-10-16T17:01:07.000Z",
    "source": "Bloomberg.com",
    "summary": "Behind the Scenes of ‘Grand Theft Auto VI’ Bloomberg.com"
-  },
-  {
-   "id": "gn-1d1vsbe",
-   "title": "GTA 6 is eyeing Lucia as the next Arthur Morgan; here's why",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenI1Z0NxRU8wYXlhV3JEeTJYbm5kNjNscXNNb2lqNnVfUkVZVGJCVjRSVHlNWjU0LVpqR3I4RXM1cGhlajRsMFprUGhBbGdFX0EwTHQ0U1FBUS1NRzdmaU45VDFKVW9DZDNZc2JJU1lfTlVqdk9ELVJGWjVCSHE4eHZ6dnZBVEFVQTRTNF9GRWticjA?oc=5",
-   "date": "2026-10-16T17:00:00.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 is eyeing Lucia as the next Arthur Morgan; here's why GAMINGbible"
-  },
-  {
-   "id": "gn-w5adei",
-   "title": "GTA VI: the game delayed yet again... Discover the new trailer!",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNFJTSlZEbVI3QjFnZ1hpcW45cWd5RThhNnl5dkt0Q1pHQXhwVXQtUzVfSEpnUkN1ZVdfOEp0R3RXVG1GaWVXN200dEU3M0hWVjRMLVdmSG9ITklPdjdIb3ktZUQtck5ZMFNlYklnTlYwZ05EaVZsMVlmUDl6X2NGbDJacXN5VXBiOTdfNnh6RHBrR3RUU0dNcC12SXBsbkl2c29sN0VDRlFySmh3OGhWYjFXblJhU0F0dzctWTFpTHgxdVhKVXZRU09JSjhVMHhnT0E?oc=5",
-   "date": "2026-10-16T16:55:56.000Z",
-   "source": "Sortir à Paris",
-   "summary": "GTA VI: the game delayed yet again... Discover the new trailer! Sortir à Paris"
   }
  ],
  "community": [
+  {
+   "id": "rd-1u5hze",
+   "title": "Exclusive images from Vice City airship",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8mqk1/exclusive_images_from_vice_city_airship/",
+   "date": "2026-10-17T22:13:01.000Z",
+   "source": "r/GTA6",
+   "summary": "Close look to the GTA airship on ground Credits to: ThiHawaii_ submitted by /u/Either_Coach_7572 [link] [comments]"
+  },
+  {
+   "id": "rd-1g2p84m",
+   "title": "One month left! (Pixel Macca The Gator)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8m6fq/one_month_left_pixel_macca_the_gator/",
+   "date": "2026-10-17T21:47:50.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Alhederix [link] [comments]"
+  },
+  {
+   "id": "rd-1bqsdmd",
+   "title": "Gta 6 mapping project v17 (all buildings that are blue are enterable)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8m38g/gta_6_mapping_project_v17_all_buildings_that_are/",
+   "date": "2026-10-17T21:43:49.000Z",
+   "source": "r/GTA6",
+   "summary": "Also just because a building is Gray does not mean that it is not enterable we just don't know if it is or not. The buildings that are blue are 100% enterable. submitted by /u/juicewrldfan4life999 [li"
+  },
+  {
+   "id": "rd-1eimlw7",
+   "title": "Does the in game Kaseya Centre also have a sign on the roof, I wonder what it says",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8l10l/does_the_in_game_kaseya_centre_also_have_a_sign/",
+   "date": "2026-10-17T20:57:07.000Z",
+   "source": "r/GTA6",
+   "summary": "Images from the Game Informer GTA VI Issue & Rockstars' GTA 6 website media submitted by /u/Wonderer2K [link] [comments]"
+  },
   {
    "id": "rd-o1iv04",
    "title": "Another same location from Launch trailer & screenshots",
@@ -999,38 +1031,6 @@
    "date": "2026-10-16T15:29:50.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/gulagsurvivor2019 [link] [comments]"
-  },
-  {
-   "id": "rd-gc20kl",
-   "title": "Sam Houser's Vision for GTA. This 2005 interview is pretty crazy when you realize how relevant what he's talking about still feels today.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7hevk/sam_housers_vision_for_gta_this_2005_interview_is/",
-   "date": "2026-10-16T14:16:06.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/98Saman [link] [comments]"
-  },
-  {
-   "id": "rd-eisa8r",
-   "title": "Frame Friday #123: Let's discuss official GTA 6 content. [4 frames] - 5 weeks to go!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7gj45/frame_friday_123_lets_discuss_official_gta_6/",
-   "date": "2026-10-16T13:40:44.000Z",
-   "source": "r/GTA6",
-   "summary": "Hallo zusammen! Yesterday's launch trailer is catapulting the hype even further, Miami is transforming into Vice City and we're one month and three days away from launch. Today I've chosen scenes whic"
-  },
-  {
-   "id": "rd-15h4qcp",
-   "title": "M7 (MS-13 IRL)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7gf7j/m7_ms13_irl/",
-   "date": "2026-10-16T13:36:05.000Z",
-   "source": "r/GTA6",
-   "summary": "OG Vice City had a Haitian gang and a Cuban gang. We’ve seen San4San already in trailer 1 and the extended look. Here’s our first look at the Latin gang M7, GTAs take on the real life MS13 gang. They’"
-  },
-  {
-   "id": "rd-7ep7dg",
-   "title": "GTA VI \"Welcome to Vice City\" sign spotted in Microsoft Flight Simulator 2024",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7extl/gta_vi_welcome_to_vice_city_sign_spotted_in/",
-   "date": "2026-10-16T12:30:26.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Wonderer2K [link] [comments]"
   }
  ]
 }
