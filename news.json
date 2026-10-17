@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-16T21:53:59.609Z",
+ "generated": "2026-10-17T00:07:39.537Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-16T21:53:59.609Z"
+   "checked": "2026-10-17T00:07:39.537Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-16T21:53:59.609Z"
+   "checked": "2026-10-17T00:07:39.537Z",
+   "error": "HTTP 500"
   },
   "googlenews": {
    "ok": true,
-   "count": 92,
-   "checked": "2026-10-16T21:53:59.609Z"
+   "count": 100,
+   "checked": "2026-10-17T00:07:39.537Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-16T21:53:59.609Z"
+   "checked": "2026-10-17T00:07:39.537Z"
   }
  },
  "official": [
@@ -231,6 +232,22 @@
  ],
  "press": [
   {
+   "id": "gn-1nfx4lk",
+   "title": "Activision Throws Shade at Zelda, Says Call of Duty and GTA 6 Are the 2 Biggest Games of the Year",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWQ0cnJDT3Bzb3BWNjR4bUpCLUhrakh3a3p2S04wU09TTHFjUk1ha2swbUtHUndUTm9tSGlwZ2Z6ZUR0TU94VUszR0JUTnpiVHZEUkRLWmM1aWdjQXJsdHdLaE84dUxjaUw0TGoyaXp5TEZqRzk5LVdhb1pjdWVFU2xNQ01YQkhUMmkxSkVMYnVETVo5UDNqRnpIMGh3aFJGMUx1RFk0eFBGUnNkaVdHeWdEVDk2U1BGMUtJWmF3Ym9acUliaDBpZV9n?oc=5",
+   "date": "2026-10-16T23:45:09.000Z",
+   "source": "OpenCritic",
+   "summary": "Activision Throws Shade at Zelda, Says Call of Duty and GTA 6 Are the 2 Biggest Games of the Year OpenCritic"
+  },
+  {
+   "id": "gn-us8nfk",
+   "title": "GTA 6 Blimp Set to Fly Over NASCAR Championship Weekend in Miami",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WZXlfTG9yLThEV09MRVFQU19DU0w4UldtUGZSbkVrZ3hpeVludmp3bXhOX3FhRnh5cVoyRFVGc2tpUmR2QnFkemZEZlczYmZCQ2RHYUp3MjM0eEFUd2ViZ2Jib2tOak9yLUYyYVBWb21ueERDRTZr?oc=5",
+   "date": "2026-10-16T22:57:01.000Z",
+   "source": "Yahoo Sports",
+   "summary": "GTA 6 Blimp Set to Fly Over NASCAR Championship Weekend in Miami Yahoo Sports"
+  },
+  {
    "id": "gn-1r6kwxl",
    "title": "GTA VI 'Vice City' blimp to appear at NASCAR championship weekend",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnJ5alFZMExuVHg5REFPUm4wSkhfZmtCWXRnVG9Pam0yaVhvSEVzM2t6TkxoYUhTQ1Q1VUFid3RrVlFaUTNhajZDVVdOOW9pNjhJVklKZGpKa2c0SU1ud0tyMERtQlZIZ2REUkFPZ3VCc1d2UHpGNXI1Z3c0Y2pwUy1FNVFtd2tYOV9IYm5hY0xWcjJlN05DcXBCNk9yOTdLT1U2alluaWcxazN0S0Q4dlNCMVlqVlE?oc=5",
@@ -247,6 +264,14 @@
    "summary": "All The Records GTA 6 Will Break, We Think GameSpot"
   },
   {
+   "id": "gn-drt6ir",
+   "title": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MUlo0bDc5Wkw0eHhvek8yZDdMaHRuUUt5Mlo3cU9WVlZkNmVHbWpTODJFT0NYckxpenRvRVdWU0tJX1JwUHE5anVnT09Rd09wYVp0ekJOUWFMX25ETC1CSWtYODhsUlc0WlJ4Ukl1M3U?oc=5",
+   "date": "2026-10-16T20:27:22.000Z",
+   "source": "GameSpot",
+   "summary": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason GameSpot"
+  },
+  {
    "id": "gn-1a8j4ua",
    "title": "There’s No Conspiracy For GTA VI To Be In The Game Awards",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCOUpsclcwa2tiaDhBbjZGLTFCOHZ2TjZFSUk5ZzB1UnV4bDhyT1QwQmVPc19TUEs5U3JHalhWY25Bc1BKcmtYaHJwNm5kMTNObThJRl8yNC12c21CTTNZ?oc=5",
@@ -261,6 +286,14 @@
    "date": "2026-10-16T20:04:28.000Z",
    "source": "Yahoo Finance",
    "summary": "GTA 6 fans spot mysterious detail at 0:55 in new trailer Yahoo Finance"
+  },
+  {
+   "id": "gn-1nd55wt",
+   "title": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BRDdDRHpXN1hlN0p4YnZWOXlGQ2F5TTN5NkJuQXJJdk43OUhTZTZ6MkFkdUZ0RXdEc3FMaEEtd2dLQklkbHFpSlRWaUZJcW1FOEdkWldpVm9qQ3ZiOExz?oc=5",
+   "date": "2026-10-16T20:00:40.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox Mashable"
   },
   {
    "id": "gn-86lr0z",
@@ -295,6 +328,14 @@
    "summary": "GTA 6 cars hit the streets of Miami Pasquale Pillitteri"
   },
   {
+   "id": "gn-1r1u70n",
+   "title": "'GTA 6' soundtrack: Every song, artist, and celebrity DJ we know about so far",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoMnI2QU5XdmdwTzRHZnE1Q29yekVWSXVMd0xYSEIwa3ZrQ0VvQzJtbkRBY1k0RTNCY2ZBbVhuRUxwYlpXZHVNTWNNaDdXb0wwX25ybm5rQlBxUVJWQThGYmx3b3BXQjVjcDJieQ?oc=5",
+   "date": "2026-10-16T19:06:35.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' soundtrack: Every song, artist, and celebrity DJ we know about so far Mashable"
+  },
+  {
    "id": "gn-1pj6ndc",
    "title": "The Final Countdown Begins: ‘GTA VI’ Launch Trailer Arrives Five Weeks Before Release",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWROTnhDcVp2czJobzBGVXlWam5zcjZ2N1VKUXhIeHJobk9mbkFaSDR1TEg4ek9wS2Q4YzNTM0U1QVlzdVVVR2tYRDlkN1VaS1lZeG5lVEdFTmZ0NU1nOHNXcGRlYi1tamFiVkhZR3FFNDFQRXo3ckJxdFFxQ2xGZ0dDX3ZiN1dac21paEI5WXQ0LTdKQlVjNU5wa3hGczFOZ21YY0lUZU80aHNXZ0V6UnBtLU0?oc=5",
@@ -303,12 +344,12 @@
    "summary": "The Final Countdown Begins: ‘GTA VI’ Launch Trailer Arrives Five Weeks Before Release FanBolt"
   },
   {
-   "id": "gn-drt6ir",
-   "title": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MUlo0bDc5Wkw0eHhvek8yZDdMaHRuUUt5Mlo3cU9WVlZkNmVHbWpTODJFT0NYckxpenRvRVdWU0tJX1JwUHE5anVnT09Rd09wYVp0ekJOUWFMX25ETC1CSWtYODhsUlc0WlJ4Ukl1M3U?oc=5",
-   "date": "2026-10-16T18:45:44.000Z",
-   "source": "GameSpot",
-   "summary": "The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason GameSpot"
+   "id": "gn-14g5665",
+   "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5UYVdfU1A1SkNsQ3V3d3VkREkzYXlVOVJVd0lEMF9GLVVjeEhKcndlNUNPNDdoUFJhRzVvTFNRSkN0NHp5UmRKbTJuNENqMGd2UTBJMnBRcExzTTVoaFNHd2dGREZ3Tnk1eENaSHdXY2p1OGQtcHJhWVB4SFRRenI3Um1iSi0tWFpWR3hRNlpUTjVvWDFyNTdpT1U?oc=5",
+   "date": "2026-10-16T18:48:01.000Z",
+   "source": "Mashable",
+   "summary": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full Mashable"
   },
   {
    "id": "gn-1gg1kvj",
@@ -367,9 +408,33 @@
    "summary": "After 18 years, GTA 6 might finally fix a graphical bug that's plagued Rockstar's games since Grand Theft Auto 4 GamesRadar+"
   },
   {
+   "id": "gn-1jqjzn5",
+   "title": "Real Life GTA 6 Vehicles Are Driving Around Miami",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWxMUEVkdXVGMjBialB1cnVkbXlCeW00ZXhpcmZuY3lydkJIelY4R0dxVVRpMnJPNmlja0ZPTk96aktSSkRHTFNfQU1KQjNoMFZJamVKX3QzSmpVb240R1RDdVY3TUhQUlNsM3Q4UmQ5T2VrQ2JDaDJzS0FiVTZEYm5KckxodlpUTWw4?oc=5",
+   "date": "2026-10-16T17:35:09.000Z",
+   "source": "OpenCritic",
+   "summary": "Real Life GTA 6 Vehicles Are Driving Around Miami OpenCritic"
+  },
+  {
+   "id": "gn-ng94q5",
+   "title": "Ocarina Of Time Pre-Orders Are Currently Outselling GTA 6 On Amazon By Almost 6-To-1",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3RhUlFxV3dYdnhYd281UXdvVklzRDdCanB1MGhPZmJnR3VXU3Q5RDVUSnExNlI4ajlFZ1g1WDBZWlQ2RUJEM0xaMFFoYnpYSV8yWGU2QWh6NEVBUGZtRDhNUzdSb3pVeFp5TkN4clRUSmdKclQ4ZXNWcjVFRXA3dHBVWVlDV0JGUE95MVRmQXQtZWY5WnJkQ05QUmN3WlBwQW9LRmg2ZmlFZE1weDQ5amxhcFR1TmN0dXc?oc=5",
+   "date": "2026-10-16T17:35:09.000Z",
+   "source": "OpenCritic",
+   "summary": "Ocarina Of Time Pre-Orders Are Currently Outselling GTA 6 On Amazon By Almost 6-To-1 OpenCritic"
+  },
+  {
    "id": "gn-b86q1d",
    "title": "Behind the Scenes of ‘Grand Theft Auto VI’",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHdYMTdveGktdUplQlNuaTRBSHF0bHpKWGdsQkUxci12Y05FR09FWVM1YXA1c3pMeTVaVTdLd3lkX1dydHMweWVIbXU4TkVXckp5R2ZqajFCV2hLLWdRRFZKbDJPM24zMWFuMi1RaW1vZ3Z1QzFMM0hYZlVoQUtHNEpjSHBDamJfWWdNU0R0VEg4YUV4MGZ1NUJWREROT0s3LWFrOG5WWmlSaWRiYmpMRVhGcWN5WTY2?oc=5",
+   "date": "2026-10-16T17:01:07.000Z",
+   "source": "Bloomberg.com",
+   "summary": "Behind the Scenes of ‘Grand Theft Auto VI’ Bloomberg.com"
+  },
+  {
+   "id": "gn-1ul2p4w",
+   "title": "Behind the Scenes of ‘Grand Theft Auto VI’",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdld6Nm5GdGtNZXNOazNfUEJkZVJrTi1LaWNsc0h2WkEySWpkcnNWVEMzLWNwWVdwOVUwUl9xaUNwdUtOUjNicmVER09OM3pwZm1vOVlfRU9sRlR3QnVaRlRFZnV2N1dRdjV1bkpSR0ZkUjhJamQ5UDBHRlFkUEl1cU9zUTdyeGdkSkxORllCQTB5QVdRNEhWdDlR?oc=5",
    "date": "2026-10-16T17:01:07.000Z",
    "source": "Bloomberg.com",
    "summary": "Behind the Scenes of ‘Grand Theft Auto VI’ Bloomberg.com"
@@ -399,14 +464,6 @@
    "summary": "Justice Composed the Score for Grand Theft Auto VI EDMTunes"
   },
   {
-   "id": "gn-1jqjzn5",
-   "title": "Real Life GTA 6 Vehicles Are Driving Around Miami",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWxMUEVkdXVGMjBialB1cnVkbXlCeW00ZXhpcmZuY3lydkJIelY4R0dxVVRpMnJPNmlja0ZPTk96aktSSkRHTFNfQU1KQjNoMFZJamVKX3QzSmpVb240R1RDdVY3TUhQUlNsM3Q4UmQ5T2VrQ2JDaDJzS0FiVTZEYm5KckxodlpUTWw4?oc=5",
-   "date": "2026-10-16T16:35:41.000Z",
-   "source": "OpenCritic",
-   "summary": "Real Life GTA 6 Vehicles Are Driving Around Miami OpenCritic"
-  },
-  {
    "id": "gn-uo4an6",
    "title": "Rockstar's figured out the perfect GTA 6 advertisement – a bunch of supercars from Vice City speeding along the streets of Miami",
    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdVdDTUlkQ1MzaUl3S3ZhclY1TThiQVBuQlFaQkZmUUdoWERVTHYxMHBMMHkxajR5SzB0eDZYSDhtRGN3elRVN2tJcV95M1hCUFJyc0lIaXJUSTM0WEJmdWJLTFZNREJIZWpZRmdpX3NraEFjeGxFY2U3VVludEZrZmJyQlFldFJHYW4yOVdtRElwems4ODYxUExCbVpsbElsNmthdlk4aWJ2Y1BtRGJCc1ZVTjZHNlBrWkxQN0hDZjVSVjdYWlRYSmJ1dEFaWUNOdGtnYjU1TkhRc2NocEU5LXVwdXlOSjM4ck1samt4eDg2VUZyZWFQQ1BiMGF2ci14V0dKbnJIcw?oc=5",
@@ -431,20 +488,12 @@
    "summary": "The GTA 6 launch trailer is out and it really amps up the excitement Android Headlines"
   },
   {
-   "id": "gn-14g5665",
-   "title": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQm5UYVdfU1A1SkNsQ3V3d3VkREkzYXlVOVJVd0lEMF9GLVVjeEhKcndlNUNPNDdoUFJhRzVvTFNRSkN0NHp5UmRKbTJuNENqMGd2UTBJMnBRcExzTTVoaFNHd2dGREZ3Tnk1eENaSHdXY2p1OGQtcHJhWVB4SFRRenI3Um1iSi0tWFpWR3hRNlpUTjVvWDFyNTdpT1U?oc=5",
-   "date": "2026-10-16T15:47:22.000Z",
-   "source": "Mashable",
-   "summary": "Cyberleek drops more NSFW Lucia videos, threatens to release 'GTA 6' in full Mashable"
-  },
-  {
    "id": "gn-1v153eb",
    "title": "Rockstar Games Breaks Silence on Infamous 2022 GTA VI Leak: “It’s Really Weirdly Invasive”",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlhSZERFTWlBamRDaDZfWFVwXzdwdWRBVk1iTGNPT0V3Q1prckRXdUtLdy15RHoxelhoZGR4VkcwOHFaN2xXY2lxSmgtQ1JJQlFBRnhWdFpvcEZ5XzFBWkF2ZU9BeERtRWFnekYwYm0tSDBCcmVyVnBLdm92cmYxNVhuYjQtOGdVakV2bmg3SUM3UDIxcjZWUkZhY0hlOUtfTU9Na2V3WlNNLTdvdE1ERk01dElOeUpuc3FV?oc=5",
    "date": "2026-10-16T15:41:16.000Z",
-   "source": "www.levelup.com",
-   "summary": "Rockstar Games Breaks Silence on Infamous 2022 GTA VI Leak: “It’s Really Weirdly Invasive” www.levelup.com"
+   "source": "LevelUp",
+   "summary": "Rockstar Games Breaks Silence on Infamous 2022 GTA VI Leak: “It’s Really Weirdly Invasive” LevelUp"
   },
   {
    "id": "gn-11vi1iv",
@@ -607,12 +656,12 @@
    "summary": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: \"We're Depicting Miami Like A Murder Capital\" GameSpot"
   },
   {
-   "id": "gn-1nd55wt",
-   "title": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BRDdDRHpXN1hlN0p4YnZWOXlGQ2F5TTN5NkJuQXJJdk43OUhTZTZ6MkFkdUZ0RXdEc3FMaEEtd2dLQklkbHFpSlRWaUZJcW1FOEdkWldpVm9qQ3ZiOExz?oc=5",
-   "date": "2026-10-16T12:17:50.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox Mashable"
+   "id": "gn-1f44bq3",
+   "title": "GTA 6 on PC: Why Rockstar Might Be Fast-Tracking It - Next-Gen Console Watch",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmx6eFM0LS03YnhEM2RwaV9LeWY2cFFka0p0UndSVWUtMTNmV2hwUlFpQ0hTdHQzSGMycGdaWEpWTFViM0Y5cFBsaTgyRW1xUEVOR1ktakNjRFI1Q2pnYmNVb082MGJ5UTZINHF1b2p1WXp0ekxNbF8zMkEtdjQ2SFNzWWtCWnpJSGdrTGRqS0pZYW1YTVhMVmo4NlBLYk41T0E?oc=5",
+   "date": "2026-10-16T13:00:00.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 on PC: Why Rockstar Might Be Fast-Tracking It - Next-Gen Console Watch IGN"
   },
   {
    "id": "gn-1leegkj",
@@ -655,63 +704,47 @@
    "summary": "GTA VI Developers Showed a \"Black Mark\" to Hacker Cyberleek? A Threat from Rockstar Was Seen in the Trailer iXBT.games"
   },
   {
-   "id": "gn-1r1u70n",
-   "title": "'GTA 6' soundtrack: Every song, artist, and celebrity DJ we know about so far",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoMnI2QU5XdmdwTzRHZnE1Q29yekVWSXVMd0xYSEIwa3ZrQ0VvQzJtbkRBY1k0RTNCY2ZBbVhuRUxwYlpXZHVNTWNNaDdXb0wwX25ybm5rQlBxUVJWQThGYmx3b3BXQjVjcDJieQ?oc=5",
-   "date": "2026-10-16T11:22:42.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' soundtrack: Every song, artist, and celebrity DJ we know about so far Mashable"
-  },
-  {
    "id": "gn-10kq25p",
    "title": "Justice's New 'GTA VI' Song 'Flower in a Hurricane' Echoes Dire Straits' 'Money for Nothing'",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SelpfQ2NEMkVOYlZiWVZuLXNZc0I5X2JaNEZlUjhDeU9TY3l2ZkJNQzVIN3FVaVBzYnczMEM1TFNlYzdURXgxVDM4SHFtUnZMeHNnWUJsekdEdUVOb2RjOUROZWFJWmg3cVhsT1FkWlphQ2NRZnZydGFGbw?oc=5",
    "date": "2026-10-16T11:03:39.000Z",
    "source": "AOL.com",
    "summary": "Justice's New 'GTA VI' Song 'Flower in a Hurricane' Echoes Dire Straits' 'Money for Nothing' AOL.com"
-  },
-  {
-   "id": "gn-27sqvc",
-   "title": "Jeff Berlin Returns to Voice the GTA 6 Launch Trailer After GTA 4 and GTA 5",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUXBSSGtmd09icDBkcFY2Mm1hb0xwS1IwcnNCeU1ScDdHc1ZFNWVlOUJ1Rkw1SHFXUzhBRThkTnQ1bkhDcjczZHg3SFJ0QjJJbGU0UlpJM0YwdjZfdVdERGxMVTJjaWZCakpXSm02SHdZa1hnWVF6b0tfT18tNXo3UTBsYUFiaWhWc0U3TjR3REwxS0pWVGViUGdQNGt6WUdRYTlJaUFFbWk5T1k?oc=5",
-   "date": "2026-10-16T11:03:26.000Z",
-   "source": "GTA BOOM",
-   "summary": "Jeff Berlin Returns to Voice the GTA 6 Launch Trailer After GTA 4 and GTA 5 GTA BOOM"
-  },
-  {
-   "id": "gn-1nztzmh",
-   "title": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0lDajFEMEZUQzBrd0o0UHlwUWRXREpsQWVMWmsyb1phSS1pVXp1N2ljelNfaXdTYjF6dzFoemtreGpHNHBZRGVhVmZtZnU3X0NWOG5IRS1VaXRrR2JvY05zYW9RNE5aR0pwT3Z4REdacXBNT3NhSDBRb0M3eHBjM1hqUTMzcEp4SkQ3TDlwMTJSS3F1cjJGSmp6RmExLXpsUUZlMmNSY0tMWmhtRWc?oc=5",
-   "date": "2026-10-16T11:00:00.000Z",
-   "source": "Push Square",
-   "summary": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push Push Square"
-  },
-  {
-   "id": "gn-1lpgqvl",
-   "title": "Saucy Grand Theft Auto VI trailer revealed alongside Justice original soundtrack",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDl6a3BPZEEtZkFUZlhCSENfTGRfUnZ3VGo4Z0J4ZWg4OU1jNnBhUUx0WVcwbVAtMGFhVzNGYzdwNWYxT1dDYTZmcnUyc0k5MUVzNlpoZ0I4QUlWVGhvbGx1cVB2R2xpRU4wdlFVY0NQNjVrd2IyMDBwZDNRT2dRU1lzMGM0MEl4azc4WF9lbFhWT2x6dFh4OWd0aGZVR3AyMmc1b1dfbEZWTnJwWC1uZjh5eGFMTS1HOWlzdQ?oc=5",
-   "date": "2026-10-16T10:50:48.000Z",
-   "source": "Shortlist",
-   "summary": "Saucy Grand Theft Auto VI trailer revealed alongside Justice original soundtrack Shortlist"
-  },
-  {
-   "id": "gn-1h1i5l9",
-   "title": "Priest Believes It's Better to Play GTA VI Than to Get Drunk and Fight",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRF9RbWVvVE5qLTlKY3UwX2xMT3U2ZUNObmJuT2FIeHZTaFNWazM2ZUdUa1otUjVNRUVyaVE5am9KQnAtQlctS2VjNWJqVDN0cGhUcFRsQy04ODMtbWVkTHp3NGRzbVR6UHFaVUlPcGpvcTlfRkctODR3TGhERzVmU3dRa0lPOFdXWFhvVGgwUjJOd01YV0pMSlVXWk1PMG1mTmR3bXRhYlJTOXE2ekN0RUt1dlbSAboBQVVfeXFMTVdmN2pmbjRxWjczckpzcXVia0YzU2FPQzRsWFp2Tm9lWGRKTWlTclhfSllGYzkwekZrdHBKNFZXNWZwRUFGbm5qUnR0Z1NKT3pmbGt0VXd4TW5mX1Q2NDdtYmtIVzFXSnhFOEQ2V05NOFgyYnB6TjRPUXJTNzJpeVE2NUZJTl9qN1pOUFdDY2Z3WGdPNzlHSFNrVjBTRmNWQkVhUUtxZjJ3X0ZJZS03a1lNWXlxRDEyRDBR?oc=5",
-   "date": "2026-10-16T10:49:12.000Z",
-   "source": "iXBT.games",
-   "summary": "Priest Believes It's Better to Play GTA VI Than to Get Drunk and Fight iXBT.games"
-  },
-  {
-   "id": "gn-g4xxva",
-   "title": "These six games won’t make it to GOTY awards, and GTA 6 barely made it",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UdGtsQ0tzVjBaMUVNVHFzNC03SUpRYm1tckNpM1paZmRMMjRsSzdVclZGNWNYaFZ6MExEZUw1NGtUel9HM2Jjd1RQNThrbF9ZZWhGNlllaFFuMlRVWjAxcmtiN2NZNzVfWG5ic3FzdDZaYmFXeHVQRGVR?oc=5",
-   "date": "2026-10-16T10:27:44.000Z",
-   "source": "MakeUseOf",
-   "summary": "These six games won’t make it to GOTY awards, and GTA 6 barely made it MakeUseOf"
   }
  ],
  "community": [
+  {
+   "id": "rd-1drd0om",
+   "title": "Lens flare appreciation post",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x7ulcs/lens_flare_appreciation_post/",
+   "date": "2026-10-16T22:56:35.000Z",
+   "source": "r/GTA6",
+   "summary": "Lens flare ain’t getting any attention in gta 6, compared to gta 5; they are on a whole other level. Love the 8 point star pattern submitted by /u/PM_ME_PICS_OF_UR_PS3 [link] [comments]"
+  },
+  {
+   "id": "rd-1jckakw",
+   "title": "Rockstar is literally turning Miami into Vice City: Convoy of GTA 6 supercars spotted driving around town today!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x7ukrm/rockstar_is_literally_turning_miami_into_vice/",
+   "date": "2026-10-16T22:55:50.000Z",
+   "source": "r/GTA6",
+   "summary": "Cool stuff happening around Miami. I love that R* is doing so much irl marketing right now. submitted by /u/Great-External-2439 [link] [comments]"
+  },
+  {
+   "id": "rd-my6yly",
+   "title": "I was 13 when GTA 5 came out and now i am 26 when GTA 6 comes out and can’t wait :)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x7ud8z/i_was_13_when_gta_5_came_out_and_now_i_am_26_when/",
+   "date": "2026-10-16T22:46:10.000Z",
+   "source": "r/GTA6",
+   "summary": "Had to 2x my age just to get to this point, so curious to hear what ages you all were then and now, such a momentous moment for us all I am so hyped!! submitted by /u/Elongatedmuskrat145 [link] [comme"
+  },
+  {
+   "id": "rd-1c6yvnd",
+   "title": "What I expect happened after...",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x7s28w/what_i_expect_happened_after/",
+   "date": "2026-10-16T21:07:32.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/S_Shadow77 [link] [comments]"
+  },
   {
    "id": "rd-47vrlq",
    "title": "The intro guitar riff needs its own appreciation post 🤘",
@@ -999,38 +1032,6 @@
    "date": "2026-10-15T20:41:16.000Z",
    "source": "r/GTA6",
    "summary": "Is this the best video game marketing ever? submitted by /u/Soyohwehttam [link] [comments]"
-  },
-  {
-   "id": "rd-1e29dvk",
-   "title": "Motorcycle chain slack changes with suspension travel",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6wurp/motorcycle_chain_slack_changes_with_suspension/",
-   "date": "2026-10-15T20:35:41.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Absolud [link] [comments]"
-  },
-  {
-   "id": "rd-sorse1",
-   "title": "The scale of planes in GTA 5 vs GTA 6",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6w3gv/the_scale_of_planes_in_gta_5_vs_gta_6/",
-   "date": "2026-10-15T20:06:15.000Z",
-   "source": "r/GTA6",
-   "summary": "All of the vehicles so far seem so much more realistically scaled in GTA 6. And just look at the insane level of detailing. I'm gonna have so much fun harassing civilians with these things. And imagin"
-  },
-  {
-   "id": "rd-1hy116y",
-   "title": "Why does the Launch Trailer look so much more bloomy and yellowish than Trailer 2?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6thvj/why_does_the_launch_trailer_look_so_much_more/",
-   "date": "2026-10-15T18:27:45.000Z",
-   "source": "r/GTA6",
-   "summary": "Am I the only one who thinks the Launch Trailer looks way more bloomy and yellowish compared to Trailer 2? Trailer 2 looks sharper and more vibrant, while the Launch Trailer looks kinda blurry, and th"
-  },
-  {
-   "id": "rd-o1n240",
-   "title": "From Vice City to GTA 6. That voice still gives me goosebumps",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x6stz1/from_vice_city_to_gta_6_that_voice_still_gives_me/",
-   "date": "2026-10-15T18:02:40.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/ithepunisher [link] [comments]"
   }
  ]
 }
