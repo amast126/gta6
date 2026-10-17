@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-17T18:42:18.390Z",
+ "generated": "2026-10-17T21:12:22.652Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-17T18:42:18.390Z"
+   "checked": "2026-10-17T21:12:22.652Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-17T18:42:18.390Z"
+   "checked": "2026-10-17T21:12:22.652Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-17T18:42:18.390Z"
+   "checked": "2026-10-17T21:12:22.652Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-17T18:42:18.390Z"
+   "checked": "2026-10-17T21:12:22.652Z"
   }
  },
  "official": [
@@ -231,12 +231,28 @@
  ],
  "press": [
   {
+   "id": "gn-1ei161m",
+   "title": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore fa",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFRYeDBId0FGS3M0TnBpSHN0aDREQjlUdHFzVEcxVTdxMFFpVkhuVlh2YWF6YjA0d3pUSThTaGx5cEpaTTBjUXJiSjNtRGpFallFYm0yeGdFVHZTM3dJamFCOGlXMEx6X19EN2pGREJkUmp0RzlscURPaHJ2Y3RiU2JBZXBja2FldmZvRlNBVHhZOGFqX3Bod0E0ZUJabWRfVTRrMVc3WFozMURIZzA0VEZabzZRUGRXem5tRHpFQ1JhSEwtVS1ja3BvOUt0Q1V5dzN2R01zaw?oc=5",
+   "date": "2026-10-17T19:53:10.000Z",
+   "source": "Facebook",
+   "summary": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore"
+  },
+  {
+   "id": "gn-wii1in",
+   "title": "GTA 6 Has A Nod To The First Game That Could Hint At Jason And Lucia's Relationship",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjF3OWx4TjVsNjJjVzlfX1lpN2JTQm5ZRHNQb2NVN1VqMFhscWlIeHM4cEJ4bVNFaUVrZS00WkxzWldWb1J6T0oyemJHTDNkRFZxdkVTd3Y0cHlkSTcxNk1yeF9CZUJHUFVmd3lvRlkteGtVaWFsU19NQ0JVZGR2b3dqbnh0WGdzb2w0clRCM05jUUgwbFpfd1A0UVNDamM4YmducjRnNkRNZFlVNXZKVkdjMDhiX2M?oc=5",
+   "date": "2026-10-17T19:51:12.000Z",
+   "source": "OpenCritic",
+   "summary": "GTA 6 Has A Nod To The First Game That Could Hint At Jason And Lucia's Relationship OpenCritic"
+  },
+  {
    "id": "gn-x9axtj",
-   "title": "GTA 6 to Feature “Hundreds” of Interior Spaces Players Can Exlpore; Story Closer to RDR2 Than GTA5",
+   "title": "GTA 6 to Feature “Hundreds” of Interior Spaces Players Can Exlpore; Story Closer to RDR2 Than GTA 5",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXpPT3hlUHVHcDcwNXNua28xb2FVaDU0TzhXOTlHZE52S0ZlcUNoVW4xV2EwTlFCTHRqNTJKdzVlenpZcjFPNERNbmhtZ0VLZ3lHVkJwMFI0NUZPOU9ydHZySllOOW1kZWx0dVB0OVA3eGRyOS1UaFhaUVk2NzhCWkM1OVhPV1FfdUstMzFCUHlKeFhSQXp1S2ZZUmt0a05jWGl1QzFwVkRNaEE?oc=5",
    "date": "2026-10-17T18:36:26.000Z",
    "source": "MP1st",
-   "summary": "GTA 6 to Feature “Hundreds” of Interior Spaces Players Can Exlpore; Story Closer to RDR2 Than GTA5 MP1st"
+   "summary": "GTA 6 to Feature “Hundreds” of Interior Spaces Players Can Exlpore; Story Closer to RDR2 Than GTA 5 MP1st"
   },
   {
    "id": "gn-1k2kfra",
@@ -279,14 +295,6 @@
    "summary": "Every Grand Theft Auto VI (GTA 6) Trailer GameSpot"
   },
   {
-   "id": "gn-1ei161m",
-   "title": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore fa",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFRYeDBId0FGS3M0TnBpSHN0aDREQjlUdHFzVEcxVTdxMFFpVkhuVlh2YWF6YjA0d3pUSThTaGx5cEpaTTBjUXJiSjNtRGpFallFYm0yeGdFVHZTM3dJamFCOGlXMEx6X19EN2pGREJkUmp0RzlscURPaHJ2Y3RiU2JBZXBja2FldmZvRlNBVHhZOGFqX3Bod0E0ZUJabWRfVTRrMVc3WFozMURIZzA0VEZabzZRUGRXem5tRHpFQ1JhSEwtVS1ja3BvOUt0Q1V5dzN2R01zaw?oc=5",
-   "date": "2026-10-17T14:14:11.000Z",
-   "source": "Facebook",
-   "summary": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore"
-  },
-  {
    "id": "gn-2c3nt",
    "title": "No, Rockstar Didn’t Say GTA 6 Is Unfinished Weeks Before Launch",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLU5BZkdBdkdyYi0zSFVOekR5N3ZlVUhOLWJpZzBsR1lKWHV6LXZIUkVFQ1dOa3NtTVNmSHczS0M3S3dzeXRZUGVjWndnek9VUHhFVXphdk1tZWJOUU91OHhXbExWRlBZS0V1Zm1fVlVvdVZNckF6YWx4WTV2M0hVRw?oc=5",
@@ -295,12 +303,12 @@
    "summary": "No, Rockstar Didn’t Say GTA 6 Is Unfinished Weeks Before Launch VICE"
   },
   {
-   "id": "gn-aik2tz",
-   "title": "GTA 6 IS COMING! 🎮 LOOK: Rockstar Games releases a new trailer for the long-awaited \"Grand Theft Auto 6,\" showing a glimpse of apparent storylines for the game which takes place across Vice City. Courtesy: Rockstar Games/YouTube Read more: https://w",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRFdUaUxXaWhBRGtlc0otenRQUXBwNjEtMWJZYlRRa1JsQ0dDMnFXTjRUXzJQcWhFQUQ1ekltbDZVdGJKM2x1M1BJS1hCbFRYVDEyRi1QSFRDVFI4SjI5Z2JLbjI1RUVrdjFkczUyRUV0NjNYS3loMEZyanp6T0Q1Q3VrdDVESzNSUXNnamhneXNnM19XUGxMX0wwSkxCek9Ja0Y1WU5YOGpIVnhmaE90MmpiYVFXWnBfay1MVjZSZTl6WkdaNWR0N2JEbmlHVDFBVU9R?oc=5",
-   "date": "2026-10-17T13:27:43.000Z",
-   "source": "Facebook",
-   "summary": "GTA 6 IS COMING! 🎮 LOOK: Rockstar Games releases a new trailer for the long-awaited \"Grand Theft Auto 6,\" showing a glimpse of apparent storylines for the game which takes place across Vice City. Courtesy: Rockstar Games/YouTube Read more:"
+   "id": "gn-ts6jag",
+   "title": "October 17 tech news roundup: Grand Theft Auto VI launch trailer released, WhatsApp debuts guest caller feature, Google to highlight links prominently in AI overviews",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSzNHd3lFTVh5OGhBaTl6NDlKdm1HZjNTOHVXSGt0cS1mWk9kNUU2bE91TjFkWndoOHlVNnk0ZFJrRGhIQlk1enRmX3dpM2dyUVdDaU1idTV4RlVRTXZzSWZLSl80ZmxGOTRmOUh2alJndU4yV1JidmMtMkcxQ2llakh3cTJvdEpQS0pmOXoyMl9UMlpSejk4ZTNVT0MzY0JaWTVJRnk5RkU5MmtiZFlpLUpZb1hhWkVRQXlhbE8yUHJuVXZfdmZnNHVBUWFMX2VUX1RVRUE2dndldTQycmhyUHgtVTJxaFA2dkRpd1dEMXVPX2pXcVJyZndfeXRtZnZqS0VDeE9nYnYxUHhfNk9vNkJjRWN6WHJZeGJEQlVOblUyTjB5REE?oc=5",
+   "date": "2026-10-17T13:18:49.000Z",
+   "source": "FileHippo",
+   "summary": "October 17 tech news roundup: Grand Theft Auto VI launch trailer released, WhatsApp debuts guest caller feature, Google to highlight links prominently in AI overviews FileHippo"
   },
   {
    "id": "gn-1463lot",
@@ -323,8 +331,8 @@
    "title": "GTA VI Can Compete for Game of the Year at The Game Awards 2026, but It Almost Missed Out: Rockstar Shows It Wants to Win With the Game’s New Trailer",
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTVpORkNmR3o1dkM5UFlMNW5IUDgycFpjZExlYnZXRGluTWR6elo4bk5fa2FwNVBRQS1jOVZ3TTFxSFJRRmo5OF9mbzJpdWZhMzBfTGVBa19HSTVONEcteUs5eEtoQlc1VDM0c1dXTlM0eDRtV2xFUFdQNXNDNFM2NHRucUo2cGJvdWRqdlVMdE5ZX1pmTm5qMFpfbmNGei04LW9jYnI0TGV0bGFEYVN3TzlWbnZUb3VLQXZpdVQtR25RMGdRVnNGdXNndEZVXzl2MXhTX2x0S2RxWkVXb0c0Rk1FSW5yN1plMFVxaHY0SVl1MnFhekhxUXdOS0ktZFY1TVBhbzNRNVJiQ3M?oc=5",
    "date": "2026-10-17T12:00:01.000Z",
-   "source": "www.levelup.com",
-   "summary": "GTA VI Can Compete for Game of the Year at The Game Awards 2026, but It Almost Missed Out: Rockstar Shows It Wants to Win With the Game’s New Trailer www.levelup.com"
+   "source": "LevelUp",
+   "summary": "GTA VI Can Compete for Game of the Year at The Game Awards 2026, but It Almost Missed Out: Rockstar Shows It Wants to Win With the Game’s New Trailer LevelUp"
   },
   {
    "id": "gn-ft67w5",
@@ -367,12 +375,20 @@
    "summary": "Flying cars arrived before GTA 6, Tesla's new Roadster sparks meme The News International"
   },
   {
-   "id": "gn-1jju2r9",
-   "title": "'GTA 6' reportedly has realistic sweat. Here's how it works.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXE1d1VvNmxiak5TV0E3cUl5Qk1oR2VnN2dxc29HTHNIQzhJS3lqQmVnRmdZTHpNZmZTRnpGZU45cHlyNlVjVEFvai1GbUdCQUJOdTNxOFFLQW91V1o0YWVFV29JSS1NRGYyY1ZwcUVuME9ObmRWZjFuelJwdGtDcjk3b0MxZnc?oc=5",
-   "date": "2026-10-17T06:33:45.000Z",
+   "id": "gn-aik2tz",
+   "title": "GTA 6 IS COMING! 🎮 LOOK: Rockstar Games releases a new trailer for the long-awaited \"Grand Theft Auto 6,\" showing a glimpse of apparent storylines for the game which takes place across Vice City. Courtesy: Rockstar Games/YouTube Read more: https://w",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRFdUaUxXaWhBRGtlc0otenRQUXBwNjEtMWJZYlRRa1JsQ0dDMnFXTjRUXzJQcWhFQUQ1ekltbDZVdGJKM2x1M1BJS1hCbFRYVDEyRi1QSFRDVFI4SjI5Z2JLbjI1RUVrdjFkczUyRUV0NjNYS3loMEZyanp6T0Q1Q3VrdDVESzNSUXNnamhneXNnM19XUGxMX0wwSkxCek9Ja0Y1WU5YOGpIVnhmaE90MmpiYVFXWnBfay1MVjZSZTl6WkdaNWR0N2JEbmlHVDFBVU9R?oc=5",
+   "date": "2026-10-17T07:26:55.000Z",
+   "source": "Facebook",
+   "summary": "GTA 6 IS COMING! 🎮 LOOK: Rockstar Games releases a new trailer for the long-awaited \"Grand Theft Auto 6,\" showing a glimpse of apparent storylines for the game which takes place across Vice City. Courtesy: Rockstar Games/YouTube Read more:"
+  },
+  {
+   "id": "gn-1nd55wt",
+   "title": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BRDdDRHpXN1hlN0p4YnZWOXlGQ2F5TTN5NkJuQXJJdk43OUhTZTZ6MkFkdUZ0RXdEc3FMaEEtd2dLQklkbHFpSlRWaUZJcW1FOEdkWldpVm9qQ3ZiOExz?oc=5",
+   "date": "2026-10-17T06:28:04.000Z",
    "source": "Mashable",
-   "summary": "'GTA 6' reportedly has realistic sweat. Here's how it works. Mashable"
+   "summary": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox Mashable"
   },
   {
    "id": "gn-1vgb6kf",
@@ -693,25 +709,17 @@
    "date": "2026-10-16T16:55:56.000Z",
    "source": "Sortir à Paris",
    "summary": "GTA VI: the game delayed yet again... Discover the new trailer! Sortir à Paris"
-  },
-  {
-   "id": "gn-bpkgcz",
-   "title": "Justice Composed the Score for Grand Theft Auto VI",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oa3pERXZTdmhzRUhmQVI4RGFZZTFyenFMSVFlTWVHSWgyd1pUQnVBY3dCaE1oSmpGUkkzejVTWU12Y3pwTTZiaGJWaTdXbTZ4Z3p0Z0JyNWVSS3dsYTBZaDB3dFJRaTFVTjJ4SWtzamdldzJGRFZDSDBB?oc=5",
-   "date": "2026-10-16T16:41:44.000Z",
-   "source": "EDMTunes",
-   "summary": "Justice Composed the Score for Grand Theft Auto VI EDMTunes"
-  },
-  {
-   "id": "gn-uo4an6",
-   "title": "Rockstar's figured out the perfect GTA 6 advertisement – a bunch of supercars from Vice City speeding along the streets of Miami",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdVdDTUlkQ1MzaUl3S3ZhclY1TThiQVBuQlFaQkZmUUdoWERVTHYxMHBMMHkxajR5SzB0eDZYSDhtRGN3elRVN2tJcV95M1hCUFJyc0lIaXJUSTM0WEJmdWJLTFZNREJIZWpZRmdpX3NraEFjeGxFY2U3VVludEZrZmJyQlFldFJHYW4yOVdtRElwems4ODYxUExCbVpsbElsNmthdlk4aWJ2Y1BtRGJCc1ZVTjZHNlBrWkxQN0hDZjVSVjdYWlRYSmJ1dEFaWUNOdGtnYjU1TkhRc2NocEU5LXVwdXlOSjM4ck1samt4eDg2VUZyZWFQQ1BiMGF2ci14V0dKbnJIcw?oc=5",
-   "date": "2026-10-16T16:26:44.000Z",
-   "source": "GamesRadar+",
-   "summary": "Rockstar's figured out the perfect GTA 6 advertisement – a bunch of supercars from Vice City speeding along the streets of Miami GamesRadar+"
   }
  ],
  "community": [
+  {
+   "id": "rd-o1iv04",
+   "title": "Another same location from Launch trailer & screenshots",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8hjrt/another_same_location_from_launch_trailer/",
+   "date": "2026-10-17T18:31:41.000Z",
+   "source": "r/GTA6",
+   "summary": "https://preview.redd.it/sj9ox1rkm2wh1.png?width=3458&format=png&auto=webp&s=cfdba8b2ebea1289d30abddf0bc0e45b1adcdf8b https://preview.redd.it/cfexcpklm2wh1.png?width=2681&format=png&auto=webp&s=24cebff"
+  },
   {
    "id": "rd-19bi14y",
    "title": "Stunning footage of the GTA 6 Blimp flying around Kaseya Center in Miami, with the Vice City sign lit up at night",
@@ -1023,14 +1031,6 @@
    "date": "2026-10-16T12:30:26.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Wonderer2K [link] [comments]"
-  },
-  {
-   "id": "rd-1geptab",
-   "title": "We have GTA6 ads in South America (South Park)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7edyz/we_have_gta6_ads_in_south_america_south_park/",
-   "date": "2026-10-16T12:04:29.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/alkokomi [link] [comments]"
   }
  ]
 }
