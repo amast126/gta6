@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-18T01:20:58.380Z",
+ "generated": "2026-10-18T06:17:48.557Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-18T01:20:58.380Z"
+   "checked": "2026-10-18T06:17:48.557Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-18T01:20:58.380Z"
+   "checked": "2026-10-18T06:17:48.557Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-18T01:20:58.380Z"
+   "checked": "2026-10-18T06:17:48.557Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-18T01:20:58.380Z"
+   "checked": "2026-10-18T06:17:48.557Z"
   }
  },
  "official": [
@@ -231,12 +232,60 @@
  ],
  "press": [
   {
+   "id": "gn-167vswx",
+   "title": "GTA 6 Community Map Version 17 Adds New Locations, Buildings, and Interiors",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVktGYkU1QmZzdVBKOFRaelpKdXBJMkUtWGNGeGpvYnpaNGY2MjNJYzEzRnJJejY2MnVSYzNRQUhxNGhOTFN2bjY2RVdYTXJFTG1UZEZFS0tiUDRCSk13VHlHRzFmd0Q2ZVkwUVRFN1NocUFfWXRqazZXcmJQZVVHalI5dEdydHZTdTRIRzAxWS00VzRmRDdBc2dRQXNOWmpLb01ic0RJdmdGZw?oc=5",
+   "date": "2026-10-18T03:52:58.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 Community Map Version 17 Adds New Locations, Buildings, and Interiors MMOEXP"
+  },
+  {
+   "id": "gn-18cb107",
+   "title": "A reference to the first GTA was noticed in the GTA VI trailer - it is considered a hint at Lucia and Jason's past",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3NtbGZDQm9ETVlxNE9ERldfRG5iV01IbTcyS0NRd09UUnRrU2lEdDA2Vklza0dWXzJPM21JY3lGQ0Z6LTFtNlZxeWhudjJOZ3BRTVpuN3VvNXU2dzhaZ0Z3aDdpbkJ5UVpWV05QQUxHekx1cklqd2Z3Y0o3U01ueUlrZlhUNWtsQWFEUnpzcmhVYlkzMXh6cFBud3BTVVlxZ041NXhVSGtyZS1UTFBleExMd2E5MWtVTVRPNV94eGFSVVlVS2c5R0JmWFlCdW1qUlB0YtIB2gFBVV95cUxPcTJEZWx5Smo3UmJWb1FrWU94YVU4ZmdwWF9xZ29BNDFOVi1JWk1SVDFpX2toTEp2R01nQzU1MEJkUGFsNmg5dmhpZE1HVHRVemR3cjgwNTdYNDRQS0VlaU8yZkxmNDZ6VGFKU3ZFd283ejI0eDY0NXZOWDRSUGtwcjBmajJoeDRaY25STXlJNUlYc1VpZktDMXByaFU2eUxGRFgzRXhlbk5oN0oxdVZEU3c0VW9sNmctZ3lJZWFOVmJoV1dTNURWSUFzZmd4YkFrTjA1SDZMRURadw?oc=5",
+   "date": "2026-10-18T03:08:23.000Z",
+   "source": "iXBT.games",
+   "summary": "A reference to the first GTA was noticed in the GTA VI trailer - it is considered a hint at Lucia and Jason's past iXBT.games"
+  },
+  {
+   "id": "gn-1cv705p",
+   "title": "How Much Did GTA 6 Cost? Rockstar Reveals The Truth, Kind Of",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPajlQZ3MyRjg4cnpQUlJrc2RxQ0FvbE5yWUZ0bG52SkpqRUQxbTk4anNXQUluczY5SFNsOFVmaUx2OUM5WE5zM3pacENnTnlPLU9CVkRyZndVUDduU1BiSHl4Sk1scklpbkFmbUJaTDJmSVM1OHV6czdqNkRPOHRDZEFHWG5ZSzNKdTYzNU1vaFRTR0N2WHA1Z0JVa01EWThQb0Q0ZEhFUnhId0pHYVMyQnMyMUZHbXfSAcQBQVVfeXFMTl9nVFRnRWZTcFVMVThCd3lhdm1ibGxjcXRZeGhwb0lLc01YWHM4cTlfYTdFdk5oX1laWGxVanpMc2dWTXhCR1ltakFFUXFBVnhkOFZHN212VnVxRW9xVXdqUENtMnNrTkhrNXh1RXdZZFlXWktmSmNjVXJ4Z0ExemYzZllHbnBXNkExSGtYZDk4alBYS1drVWVQOXdDcElyS1hFYUt0a0RNZGtLcG1wYmtFQzZRQTFYTFRxa2tGeW1HTzYzQw?oc=5",
+   "date": "2026-10-18T02:48:21.000Z",
+   "source": "Esquire India",
+   "summary": "How Much Did GTA 6 Cost? Rockstar Reveals The Truth, Kind Of Esquire India"
+  },
+  {
+   "id": "gn-x0kea4",
+   "title": "GTA 6 risks censorship for adult content on release date after harsh age rating",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdU1mRVJvLVlpZXVidGVRaF9OeDkyZ2JCbHE0QWZPWWF4NWE1Wi1VY3RZeTE0dW1TZDEwVndZRWFrVFJ6Skc5M0dKaDFRTWlMY1Fza2V2NW9PV2x6dUxOZHlBVkJiSkhJNGZLVmdwODFuZFRwbVU2QVc1RG8tSnpHeUJrYXV6bk5HTWR6U1RSaGRWNy1GZVdEZ09iQnY5UVgxQmpPeWVwYTFYX0R0cXFYeWExMTZNbFlBWXl5R3lfd1R1UQ?oc=5",
+   "date": "2026-10-18T01:50:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "GTA 6 risks censorship for adult content on release date after harsh age rating Notebookcheck"
+  },
+  {
+   "id": "gn-8s4r5m",
+   "title": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTNoc1QyeS1NNVVKZnp2ckFXNUxKWVJvUXdBcnVEU204RDVWREQydEJDc05WVEJWc3JIYUFNZkJKSlJCdWpZNkN5YnpPcDJUOWtFc05Ga1dCZnBaSkt1U0pRUlJEYTRyZU12cExZTjhxM3hIQjV3eHoxQWt4cVlyeUxxZWEtQ252MGNvcjhxcVlGWmhvT09lUjR2RkVGQ0ZCUGRtU1Y2Rlp6VDZXVEctekJSS2g?oc=5",
+   "date": "2026-10-18T00:56:20.000Z",
+   "source": "Push Square",
+   "summary": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working Push Square"
+  },
+  {
    "id": "gn-1y5fenw",
    "title": "Fake editions of GTA VI with \"discs\" have appeared - Chinese vendors noticed demand for full physical versions",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ05rRmdCeUNMbzFuLU9vTFJDRUUzc2xXMFRGRVprMWo3bTF1RlEyeUJzWXdBTlp0VmRMeFJxWFp3cU5TVHIzWUdUMDQ3ZkQtbmdBVU4wTksyQV9BQ09odHpZQkdOdl85T1V6VTJ5NjlVTUNHMXdjNTdvZ0Q2eE5YbzN3c2NzLW9sdk92ZlpSWURJalZWZnpway04Ylc5bHhaNmpKcmQtRUFDdW9ub1JGUEVPblhqWVBwRmJsQVRHdUxqQVo0d0VZdlFmUHF2elZydGdFcjdNamNtQjhBWFc40gHkAUFVX3lxTFBqTmpkTExjS0xZVThUd05Dbk9fdml2b19vWk5yS2FTZkZsQlZFXzlrbnB0U0I2d0hIa0RWLXZ5b3Jkbk1vUEhaclZzeGJid0JTTlQ3TlZGQUxoZnV6c3V2VWJTcFp5bjBoenBINEZJaENId2FJM0ZKUlVZNE1KQ3Y5LTJlMHJoaVdOWkMzRjhLdnVrM2dpcmE3Uzg0RzBsNXJVbl9jdU12WTJXdlR6Z2pXd2pEOTNkQzJlMFR2U0ZyOTl3SlJCckdvRW5WcUhQSXlQQkl5Vkxid3pFZzdKNzB1ME9BZg?oc=5",
    "date": "2026-10-18T00:17:22.000Z",
    "source": "iXBT.games",
    "summary": "Fake editions of GTA VI with \"discs\" have appeared - Chinese vendors noticed demand for full physical versions iXBT.games"
+  },
+  {
+   "id": "gn-yyh0um",
+   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
+   "date": "2026-10-18T00:13:57.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
   },
   {
    "id": "gn-190q9fj",
@@ -261,6 +310,14 @@
    "date": "2026-10-17T22:24:10.000Z",
    "source": "GTA BOOM",
    "summary": "GTA 6 Is Now Rated Adults Only in Every Major Market Worldwide GTA BOOM"
+  },
+  {
+   "id": "gn-1db1dur",
+   "title": "Before GTA 6, Rockstar's Attempt at School Satire Faced an Era of Intense Censorship",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40ODA2NksxLVE3czc5U0R5anZBekk3REcyQm1ObHllZF9iUFctSExjWmFmMWY4MTBOMHZXeUZLaGlmRkd4OGZLcmdOc0FiX1owSmxZSHJpc0tmQU0tcmY3WHM5eExNTnRXTGpqNll3RFcxYlNnVWJtbDBpcU9rUjQ?oc=5",
+   "date": "2026-10-17T22:14:53.000Z",
+   "source": "AOL.com",
+   "summary": "Before GTA 6, Rockstar's Attempt at School Satire Faced an Era of Intense Censorship AOL.com"
   },
   {
    "id": "gn-18zp2ak",
@@ -397,14 +454,6 @@
    "date": "2026-10-17T09:30:00.000Z",
    "source": "BeInCrypto",
    "summary": "White House Mocks GTA 6 After Tesla Flying Car Reveal BeInCrypto"
-  },
-  {
-   "id": "gn-8s4r5m",
-   "title": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaTNoc1QyeS1NNVVKZnp2ckFXNUxKWVJvUXdBcnVEU204RDVWREQydEJDc05WVEJWc3JIYUFNZkJKSlJCdWpZNkN5YnpPcDJUOWtFc05Ga1dCZnBaSkt1U0pRUlJEYTRyZU12cExZTjhxM3hIQjV3eHoxQWt4cVlyeUxxZWEtQ252MGNvcjhxcVlGWmhvT09lUjR2RkVGQ0ZCUGRtU1Y2Rlp6VDZXVEctekJSS2g?oc=5",
-   "date": "2026-10-17T09:19:07.000Z",
-   "source": "Push Square",
-   "summary": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working Push Square"
   },
   {
    "id": "gn-d9t44f",
@@ -661,57 +710,33 @@
    "date": "2026-10-16T18:00:18.000Z",
    "source": "Polygon.com",
    "summary": "GTA 6 Recaptures What Made GTA’s Best DLC So Great Polygon.com"
-  },
-  {
-   "id": "gn-w6kh5p",
-   "title": "Schedule Sets Up Crossover Between NASCAR and 'GTA VI'",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZWNMS2VPNW1kTU14cnZNbXowNERORk15VGgzMDVFemlEQUFudENzSDBtbG5ZZU9YTjI4NmJvbjhKZzNic1BnejBQOG1uSUp3UWlrbDdGTHlyVXRjM1BFYVpiT0xkY0JWZFJEenJNc09aU01QYThqN1c1ekVjdXhJU0M3YlgyZzZUZUhlVndUMmlfQmZEcVlVQVBkU0YwSWRuZU9QQg?oc=5",
-   "date": "2026-10-16T17:43:51.000Z",
-   "source": "FanBuzz",
-   "summary": "Schedule Sets Up Crossover Between NASCAR and 'GTA VI' FanBuzz"
-  },
-  {
-   "id": "gn-s2rhpa",
-   "title": "GTA 6 Leaker Cyberleek Ends Leaks as Coin Hits $1.2M [2026]",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vaEs4SzBzUnNUaEM1Y090U293a0IzOW9zN2J4N055d1o1dU9tT1RSb0J0NmZEblVFVTkwb1NtajBNS2VTS085dzE5VDJoM1A0LU9XMnRHVVhxUzhIVEdsR2tGQlNWWDJWckJwbEVLajR6VC1kSm90SWtR?oc=5",
-   "date": "2026-10-16T17:43:47.000Z",
-   "source": "shattered.io",
-   "summary": "GTA 6 Leaker Cyberleek Ends Leaks as Coin Hits $1.2M [2026] shattered.io"
-  },
-  {
-   "id": "gn-15f1zoa",
-   "title": "Rockstar Sends GTA 6’s In-Game Cars Through Real Miami Streets",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGhzMjZPQ1h2TkFOa1BrdUlodmppaWE4MWxuM3dQZ3pONF9JeWxhbHVPV3lHS2lMMFBvd1A4bW10X0hnOHhWMUprbW9Ub2NvTXV5M1N6alN3UGZWamV1S2tpUGxlOUltRlV5ZXF1OFNtQU80Uk8yVTRCVlFWWlVIelkxZUdRQTJJbnFSNGVMcFY4V2U5dXhJ?oc=5",
-   "date": "2026-10-16T17:42:35.000Z",
-   "source": "Yahoo",
-   "summary": "Rockstar Sends GTA 6’s In-Game Cars Through Real Miami Streets Yahoo"
-  },
-  {
-   "id": "gn-56fyij",
-   "title": "Rockstar Sends GTA 6’s In-Game Cars Through Real Miami Streets",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWF2aGhxRGoybHVOZkhtci1kbU05QzBNaEkzdDJtWEV5Qkl3cjFSRVFySHJRV3pXUDZOUGcxWHFqblFYOVJEQ2hkcHBJSk5zZTNnUjJKQkdlVlhNd1lVTkJhTmlVTTYxMUVlbktmVEtmSGVxV0MxVjlVQkRGbGt4SlprY1Z6cGt5TzBwNHNDM3ZKWGRw?oc=5",
-   "date": "2026-10-16T17:42:35.000Z",
-   "source": "Gadget Review",
-   "summary": "Rockstar Sends GTA 6’s In-Game Cars Through Real Miami Streets Gadget Review"
-  },
-  {
-   "id": "gn-i8jvgb",
-   "title": "After 18 years, GTA 6 might finally fix a graphical bug that's plagued Rockstar's games since Grand Theft Auto 4",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVHMtaEZmeFZtZ1VaZ2FPejJyTEVtd0xzaWJ0T2Jka0FwY3ZuaW5NcllqNWZvSG40SEVoUmNPUklaT2I4UksxSzZhbS1GS2lpUWxjcFktU19ZNWhxM01VUEx5M3UwM0wzUlBXeXoyeHpJV1RoTk9BczcyRnhBU2l1YnNhT0Jhb01GM3NhdDZRVXlITXk0ejlZX0U1UTgxZHlLODZMVGhXM3dhVTZzZ2E4U25EdDliVWZaaFZ0MC1JMkxnWVFzMHBRRXhxYWlxbTFBakZVekUxNmhrQ1JadnBscVB3SWpPV2FlcllXVHh1UjJ2Zw?oc=5",
-   "date": "2026-10-16T17:39:11.000Z",
-   "source": "GamesRadar+",
-   "summary": "After 18 years, GTA 6 might finally fix a graphical bug that's plagued Rockstar's games since Grand Theft Auto 4 GamesRadar+"
-  },
-  {
-   "id": "gn-1jqjzn5",
-   "title": "Real Life GTA 6 Vehicles Are Driving Around Miami",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWxMUEVkdXVGMjBialB1cnVkbXlCeW00ZXhpcmZuY3lydkJIelY4R0dxVVRpMnJPNmlja0ZPTk96aktSSkRHTFNfQU1KQjNoMFZJamVKX3QzSmpVb240R1RDdVY3TUhQUlNsM3Q4UmQ5T2VrQ2JDaDJzS0FiVTZEYm5KckxodlpUTWw4?oc=5",
-   "date": "2026-10-16T17:35:09.000Z",
-   "source": "OpenCritic",
-   "summary": "Real Life GTA 6 Vehicles Are Driving Around Miami OpenCritic"
   }
  ],
  "community": [
+  {
+   "id": "rd-xkqd1g",
+   "title": "Hopefully rockstar makes a poster like this for GTA 5",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8utzq/hopefully_rockstar_makes_a_poster_like_this_for/",
+   "date": "2026-10-18T05:15:02.000Z",
+   "source": "r/GTA6",
+   "summary": "Would be nice to see Los Santos get a goodbye graphic before we head to Vice City submitted by /u/G6atlker21 [link] [comments]"
+  },
+  {
+   "id": "rd-w2mgeb",
+   "title": "Rockstar got the plane scaling right, they’re now much closer to their actual real-world size.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8qt0r/rockstar_got_the_plane_scaling_right_theyre_now/",
+   "date": "2026-10-18T01:32:25.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/dubdizzle99 [link] [comments]"
+  },
+  {
+   "id": "rd-1c7ej0c",
+   "title": "Did the US Coast Guard know about GTA 6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8p6y1/did_the_us_coast_guard_know_about_gta_6/",
+   "date": "2026-10-18T00:09:37.000Z",
+   "source": "r/GTA6",
+   "summary": "For context, I was watching the show “In the Eye of the Storm” on HBO Max; in Season 2 Episode 2 at the 36:38 mark I noticed a US Coast Guard pilot that was being interviewed had a Vice City patch on "
+  },
   {
    "id": "rd-sjiw35",
    "title": "had the day off, went to see it for myself",
@@ -1007,30 +1032,6 @@
    "date": "2026-10-16T18:03:41.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/poorna_sus14 [link] [comments]"
-  },
-  {
-   "id": "rd-1nnt8xj",
-   "title": "New gta6 building ad - part 2 update",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7n5bk/new_gta6_building_ad_part_2_update/",
-   "date": "2026-10-16T17:56:05.000Z",
-   "source": "r/GTA6",
-   "summary": "I think it will be finished later today. What do you all think? submitted by /u/Designer-Phase8924 [link] [comments]"
-  },
-  {
-   "id": "rd-7wogki",
-   "title": "Gta6 story closer to rdr2 than gta5 via Jason Schreier",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7my9d/gta6_story_closer_to_rdr2_than_gta5_via_jason/",
-   "date": "2026-10-16T17:48:29.000Z",
-   "source": "r/GTA6",
-   "summary": "In my opinion this is great news. I feel like gta5 story was meh but rdr2 had me tearing up even tho I knew the characters fates in advance. submitted by /u/Caramel_Usual [link] [comments]"
-  },
-  {
-   "id": "rd-4tr79o",
-   "title": "Trailer 1 is nearing 300 Million views!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7mpky/trailer_1_is_nearing_300_million_views/",
-   "date": "2026-10-16T17:39:11.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Zestyclose-Force83 [link] [comments]"
   }
  ]
 }
