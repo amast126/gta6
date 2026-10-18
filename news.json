@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-18T15:17:32.184Z",
+ "generated": "2026-10-18T18:14:30.084Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-18T15:17:32.184Z"
+   "checked": "2026-10-18T18:14:30.084Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-18T15:17:32.184Z"
+   "checked": "2026-10-18T18:14:30.084Z"
   },
   "googlenews": {
    "ok": true,
    "count": 102,
-   "checked": "2026-10-18T15:17:32.184Z"
+   "checked": "2026-10-18T18:14:30.084Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-18T15:17:32.184Z"
+   "checked": "2026-10-18T18:14:30.084Z"
   }
  },
  "official": [
@@ -231,6 +231,22 @@
  ],
  "press": [
   {
+   "id": "gn-w13l7",
+   "title": "Even Local News Is Warning Miami About GTA 6 Scams Now",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXlQelBMdVZGSXFKMEhMR2U4eXIyN3JudDhIbHhiWXBYdTJvLUVPV3hPbFpCWlJzOGJ1NkNnTDNZMzBmSS1rcGZJYXJGcWdZQ1Y0M0daRFpWMlhsQmNITnZ5SVVsZ1NMckhDVVcteElnbVdMaVRIYmFidGNfa2c1aXhINjllZVhscW53?oc=5",
+   "date": "2026-10-18T17:00:26.000Z",
+   "source": "GTA BOOM",
+   "summary": "Even Local News Is Warning Miami About GTA 6 Scams Now GTA BOOM"
+  },
+  {
+   "id": "gn-owmy0h",
+   "title": "Rockstar Games Partners With Miami’s Wynwood Walls Ahead of 'GTA VI'",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2UySzVXQy1JbFA3b1FsVWp5OEUyOVRkbTA4TFNSbzhGU1pGWDNIZ25NNG42eExpRmFQQ2JhUkM1REo4cTQ1NnJGY2J5VE1GYkE3YVlvYVU5Z0x2VmVyM3Z3YUhDR3hEWVRRMWQ1UTdmOGFxdXNvazRqdDEwclR0cWxSX2ZIUVpJa09IQ3kzNkg2QVVrN1hTa3dsRnA0Zw?oc=5",
+   "date": "2026-10-18T16:10:44.000Z",
+   "source": "Yahoo",
+   "summary": "Rockstar Games Partners With Miami’s Wynwood Walls Ahead of 'GTA VI' Yahoo"
+  },
+  {
    "id": "gn-1rdj60o",
    "title": "GTA VI is almost here. How you can avoid scams targeting gamers.",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIdFZKRERtTUh2WWtIaVR1SlRBeHFuamg1VWNBZ3RrY1hmRzloTjRCR2lMTGFYd1F2ZE53U01Xc25LNHd3eDk4ZTFTdV9SLXQ5ajNmWDNxaFhBNHpObXVBVkROeXhKbmlFeWVZZlQ3bmhjWDdo?oc=5",
@@ -272,11 +288,11 @@
   },
   {
    "id": "gn-11n7mys",
-   "title": "Even a Shrek 2 Remaster Is Copying the GTA 6 Trailer Now",
+   "title": "Leaked Shrek 2 Remaster Trailer Spoofs the GTA 6 Reveal Style",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEkwX2FIMUVnT0NSbWhaYkpNZ2RIV2FWVDFwSnVfNllDU3IxUDZLYi1xWmZtVzRrSWdtZHZkLTRubkRqWS1rTTRfaFIzdThWdlA0ckhUaG5pWmp0bU1BR2ZmQXV3X2lZYWpyejZxSGhjcy1LZkNpd1FDMXpZTV9UbmxRdjZMZkpJcDhzWnlR?oc=5",
    "date": "2026-10-18T10:07:57.000Z",
    "source": "GTA BOOM",
-   "summary": "Even a Shrek 2 Remaster Is Copying the GTA 6 Trailer Now GTA BOOM"
+   "summary": "Leaked Shrek 2 Remaster Trailer Spoofs the GTA 6 Reveal Style GTA BOOM"
   },
   {
    "id": "gn-uomiab",
@@ -499,8 +515,8 @@
    "title": "Watch Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDF0bUZmOTZSTWt3elRNaFhhRVZ5VTRIcFBFV1VFcEdfeFdxX0JNenJsbWdPYnk2cElvczJfRXMyRWdpdkJSX21JdG9EeTJEOUtRS1R4d09UQ29vQjV0TXJmR0hWTktCQm1LdUZmRWE0OEtaOWk3WjFMTU9STG9aRHgxR05pNG9IRGx6c0VIMVFCdw?oc=5",
    "date": "2026-10-17T17:28:50.000Z",
-   "source": "Bloomberg",
-   "summary": "Watch Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI' Bloomberg"
+   "source": "Bloomberg.com",
+   "summary": "Watch Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI' Bloomberg.com"
   },
   {
    "id": "gn-18m8kea",
@@ -693,25 +709,49 @@
    "date": "2026-10-17T00:00:00.000Z",
    "source": "Bloomberg.com",
    "summary": "Watch Rockstar Rebuilt Itself to Make GTA VI Bloomberg.com"
-  },
-  {
-   "id": "gn-1nfx4lk",
-   "title": "Activision Throws Shade at Zelda, Says Call of Duty and GTA 6 Are the 2 Biggest Games of the Year",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZWQ0cnJDT3Bzb3BWNjR4bUpCLUhrakh3a3p2S04wU09TTHFjUk1ha2swbUtHUndUTm9tSGlwZ2Z6ZUR0TU94VUszR0JUTnpiVHZEUkRLWmM1aWdjQXJsdHdLaE84dUxjaUw0TGoyaXp5TEZqRzk5LVdhb1pjdWVFU2xNQ01YQkhUMmkxSkVMYnVETVo5UDNqRnpIMGh3aFJGMUx1RFk0eFBGUnNkaVdHeWdEVDk2U1BGMUtJWmF3Ym9acUliaDBpZV9n?oc=5",
-   "date": "2026-10-16T23:45:09.000Z",
-   "source": "OpenCritic",
-   "summary": "Activision Throws Shade at Zelda, Says Call of Duty and GTA 6 Are the 2 Biggest Games of the Year OpenCritic"
-  },
-  {
-   "id": "gn-us8nfk",
-   "title": "GTA 6 Blimp Set to Fly Over NASCAR Championship Weekend in Miami",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WZXlfTG9yLThEV09MRVFQU19DU0w4UldtUGZSbkVrZ3hpeVludmp3bXhOX3FhRnh5cVoyRFVGc2tpUmR2QnFkemZEZlczYmZCQ2RHYUp3MjM0eEFUd2ViZ2Jib2tOak9yLUYyYVBWb21ueERDRTZr?oc=5",
-   "date": "2026-10-16T22:57:01.000Z",
-   "source": "Yahoo Sports",
-   "summary": "GTA 6 Blimp Set to Fly Over NASCAR Championship Weekend in Miami Yahoo Sports"
   }
  ],
  "community": [
+  {
+   "id": "rd-1suay45",
+   "title": "The Miami metromover seems to be getting GTA 6 advertising!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x99lop/the_miami_metromover_seems_to_be_getting_gta_6/",
+   "date": "2026-10-18T17:53:40.000Z",
+   "source": "r/GTA6",
+   "summary": "Credit: AholSniffsGlue on X submitted by /u/Kwint456 [link] [comments]"
+  },
+  {
+   "id": "rd-k2ik8l",
+   "title": "I recreated the Ocean View Hotel from GTA VI Vice City in Blender!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x999jn/i_recreated_the_ocean_view_hotel_from_gta_vi_vice/",
+   "date": "2026-10-18T17:40:22.000Z",
+   "source": "r/GTA6",
+   "summary": "Been working on recreating the iconic Ocean View Hotel from GTA Vice City in Blender. With GTA 6 bringing us back to Miami, I thought it'd be fun to revisit one of the most memorable locations from Vi"
+  },
+  {
+   "id": "rd-1obsma5",
+   "title": "[Countdown] GTA VI Preload Countdown Timer",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x993gk/countdown_gta_vi_preload_countdown_timer/",
+   "date": "2026-10-18T17:33:31.000Z",
+   "source": "r/GTA6",
+   "summary": "This post contains content not supported on old Reddit. Click here to view the full post submitted by /u/TekS_ [link] [comments]"
+  },
+  {
+   "id": "rd-3pi002",
+   "title": "Article of the Day #47: Ocean View Hotel",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x96t8q/article_of_the_day_47_ocean_view_hotel/",
+   "date": "2026-10-18T16:01:41.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/gtawiki [link] [comments]"
+  },
+  {
+   "id": "rd-1c26281",
+   "title": "I spent the last couple of years making GTA 6 inspired renders in blender out of pure hype, and it feels unreal knowing we’re finally playing it next month.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x95khv/i_spent_the_last_couple_of_years_making_gta_6/",
+   "date": "2026-10-18T15:10:32.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Bullsht999 [link] [comments]"
+  },
   {
    "id": "rd-45scm8",
    "title": "On November 19th",
@@ -846,7 +886,7 @@
    "url": "https://www.reddit.com/r/GTA6/comments/1x8o793/mark_my_words_this_will_be_the_most_important_car/",
    "date": "2026-10-17T23:21:39.000Z",
    "source": "r/GTA6",
-   "summary": "submitted by /u/ilikecreambuns [link] [comments]"
+   "summary": "[link] [comments]"
   },
   {
    "id": "rd-q2wypw",
@@ -991,46 +1031,6 @@
    "date": "2026-10-17T08:16:14.000Z",
    "source": "r/GTA6",
    "summary": "Supposedly the extended look was the appetizer, would you this be considered the main course now? If so, what could we possibly have for the dessert? Marketing has really kicked into gear this week, d"
-  },
-  {
-   "id": "rd-x48bsd",
-   "title": "The trailer wouldn’t have been complete without this absolute legend",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x80tpg/the_trailer_wouldnt_have_been_complete_without/",
-   "date": "2026-10-17T04:17:14.000Z",
-   "source": "r/GTA6",
-   "summary": "This dude has been holding it down for the GTA trailers since GTA III. I was really hoping to hear him at the end of the GTA VI launch trailer and Rockstar delivered. So much nostalgia for me. Now all"
-  },
-  {
-   "id": "rd-1ur2aiy",
-   "title": "Hand-drawn GTA VI PS5 PRO plates I made with markers and a white pencil – what do you think?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7zmnx/handdrawn_gta_vi_ps5_pro_plates_i_made_with/",
-   "date": "2026-10-17T03:10:29.000Z",
-   "source": "r/GTA6",
-   "summary": "I know the palms aren't great and the painting has some rough edges, and I'm definitely no artist either. Just wanted to try something out submitted by /u/Additional_Town_9896 [link] [comments]"
-  },
-  {
-   "id": "rd-195u4te",
-   "title": "GTA VI has me curious about what happens when a soldier leaves the military on bad terms",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7ytzd/gta_vi_has_me_curious_about_what_happens_when_a/",
-   "date": "2026-10-17T02:27:13.000Z",
-   "source": "r/GTA6",
-   "summary": "In the latest GTA VI trailer, Jason’s background as someone who appears to have served in the military, possibly in a special operations role, got me thinking about what life after service actually lo"
-  },
-  {
-   "id": "rd-xwxxsf",
-   "title": "It has been a long and a bumpy road, but we’re finally at the end of the road.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7wqpv/it_has_been_a_long_and_a_bumpy_road_but_were/",
-   "date": "2026-10-17T00:38:30.000Z",
-   "source": "r/GTA6",
-   "summary": "Via @GatorKeys from TikTok WE WON submitted by /u/Great-Juice-9894 [link] [comments]"
-  },
-  {
-   "id": "rd-1s8cxi7",
-   "title": "Gta Bus in Chicago",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7wdrm/gta_bus_in_chicago/",
-   "date": "2026-10-17T00:20:40.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Bruhmomento-no2 [link] [comments]"
   }
  ]
 }
