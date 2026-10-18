@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-18T06:17:48.557Z",
+ "generated": "2026-10-18T11:31:58.179Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-18T06:17:48.557Z"
+   "checked": "2026-10-18T11:31:58.179Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-18T06:17:48.557Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-18T11:31:58.179Z"
   },
   "googlenews": {
    "ok": true,
-   "count": 100,
-   "checked": "2026-10-18T06:17:48.557Z"
+   "count": 92,
+   "checked": "2026-10-18T11:31:58.179Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-18T06:17:48.557Z"
+   "checked": "2026-10-18T11:31:58.179Z"
   }
  },
  "official": [
@@ -232,6 +231,102 @@
  ],
  "press": [
   {
+   "id": "gn-ooi7dd",
+   "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTdtUHJuYnljdHpZem9pOHMzdmJxX1JLaWZNa3UwRVpPUy1xanRmQVNTUTJTdnVvMXlmRGw5ZUR6bFRvOVZFQjFNYk1sSjE0MmdwQW1xbzVEN1RDX0NETkhKUkR3NVZ5MHI1TWNsM2xyYmFleGNDb2VKUUlBaXRBX3ZuS2FvbERRZ2Z2dWNhbzkyUUU1?oc=5",
+   "date": "2026-10-18T11:00:18.000Z",
+   "source": "Polygon.com",
+   "summary": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6 Polygon.com"
+  },
+  {
+   "id": "gn-11n7mys",
+   "title": "Leaked Shrek 2 Remaster Trailer Spoofs the GTA 6 Reveal Style",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEkwX2FIMUVnT0NSbWhaYkpNZ2RIV2FWVDFwSnVfNllDU3IxUDZLYi1xWmZtVzRrSWdtZHZkLTRubkRqWS1rTTRfaFIzdThWdlA0ckhUaG5pWmp0bU1BR2ZmQXV3X2lZYWpyejZxSGhjcy1LZkNpd1FDMXpZTV9UbmxRdjZMZkpJcDhzWnlR?oc=5",
+   "date": "2026-10-18T10:07:57.000Z",
+   "source": "GTA BOOM",
+   "summary": "Leaked Shrek 2 Remaster Trailer Spoofs the GTA 6 Reveal Style GTA BOOM"
+  },
+  {
+   "id": "gn-uomiab",
+   "title": "GTA 6's Jason and Lucia story leans on Red Dead Redemption 2, not GTA 5",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjZPdk9HcVNpWmZ3MklQUUFyaTNtRHFFLXVYM1VpakZ3ZXI4VnljMDVfU1BMeDMwT1UtNGRNaU1YaXp0a0hzRDdULVdhTkJCQ0VyRVJ6NDhtOFdJVXhEZzROMU1JNWhMSExJSndibDl1dVY5YXFsVWIxV3FzUThzQ1BrakFUTDU5Vl80ZzFic2lHNU5VUl84a2kxUnVvdnYzQUxsZWdXRU41OWxlZ1NCZC0zM2RyUQ?oc=5",
+   "date": "2026-10-18T09:27:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "GTA 6's Jason and Lucia story leans on Red Dead Redemption 2, not GTA 5 Notebookcheck"
+  },
+  {
+   "id": "gn-1nd55wt",
+   "title": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BRDdDRHpXN1hlN0p4YnZWOXlGQ2F5TTN5NkJuQXJJdk43OUhTZTZ6MkFkdUZ0RXdEc3FMaEEtd2dLQklkbHFpSlRWaUZJcW1FOEdkWldpVm9qQ3ZiOExz?oc=5",
+   "date": "2026-10-18T08:32:45.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox Mashable"
+  },
+  {
+   "id": "gn-1ei161m",
+   "title": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore fa",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFRYeDBId0FGS3M0TnBpSHN0aDREQjlUdHFzVEcxVTdxMFFpVkhuVlh2YWF6YjA0d3pUSThTaGx5cEpaTTBjUXJiSjNtRGpFallFYm0yeGdFVHZTM3dJamFCOGlXMEx6X19EN2pGREJkUmp0RzlscURPaHJ2Y3RiU2JBZXBja2FldmZvRlNBVHhZOGFqX3Bod0E0ZUJabWRfVTRrMVc3WFozMURIZzA0VEZabzZRUGRXem5tRHpFQ1JhSEwtVS1ja3BvOUt0Q1V5dzN2R01zaw?oc=5",
+   "date": "2026-10-18T08:20:51.000Z",
+   "source": "Facebook",
+   "summary": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore"
+  },
+  {
+   "id": "gn-1jj45qc",
+   "title": "5 Confirmed GTA VI Classic Cars That We Can't Wait To Drive",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWExRzd5MklPWWRjc2tva0VEdUZtLW9DcjFxRDdZNE9NaEpucEFCWEN5S0tsSmtXN2NmUDljZE9oQ0E2NEJiTlJxa09GVWpmTjdsZVhZRWtTcmxESnduQ1l0Ml8tWS1DSnNxYUhNazY5R0ZWZGZfaFh1RFc4MjQ4dzNndkdyMzRfZkJLWHNkMUlWa1pPQzQzQ1FIUmc2QVFiVUkzNDg0QTU2Zw?oc=5",
+   "date": "2026-10-18T08:13:32.000Z",
+   "source": "autoevolution",
+   "summary": "5 Confirmed GTA VI Classic Cars That We Can't Wait To Drive autoevolution"
+  },
+  {
+   "id": "gn-1fx7lv7",
+   "title": "A Bank Thinks a New Red Dead Could Arrive in 2027 or 2028",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQenlJU1gtdWRqcndyYk5BZ2ltOXNPa3pWZndtN2E2ZDFULUVuU1Vobm04THFFU2lqS2ZsTEFCX2NnRVVWMkVLVlhZa3N4clR1dENqeDN1QkptWnJrY1ZLZXY5alZJTEVIUlRqR2RuOTJlb2lNbXUtdS01RlNobExTVmpudnZfWk9jVldXNw?oc=5",
+   "date": "2026-10-18T07:58:25.000Z",
+   "source": "RDR2.org",
+   "summary": "A Bank Thinks a New Red Dead Could Arrive in 2027 or 2028 RDR2.org"
+  },
+  {
+   "id": "gn-10kfy5s",
+   "title": "GTA VI Suspected of Graphics Downgrade. Fans Found an Explanation",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXBaUl9WTnRmYWVvR3dPWjlrQ2Z3VVdBNHhQdXQtbG9mYUt5SHFLRlBGTmdqRTFMOXA0dk1GTFRBSzlNamotVXFpc0M4X2doWXNybjVGZXA2eWd2SHlDaVM1bjh6cDR6WTdFWTllOXQzakZ3a3NfM0lRbWwyZFdtS05hbUdab2t5VzRQTGF4VkdEQmw0R2poMXdsbV9ucmFZcTFLcnNOQlZXUWFtSXJTemd30gG3AUFVX3lxTE1VV0dfMGZBWC02bkhrenhjYlZETDl3T05hTmZXaFlNbjlPWkJJRzNMUktPSW82ZkhHM0hhYXQwRWdIWG1rMHJDNDRTMlhvNld6TXlwN05mUEdYSzEyLTF4dlZGRkw2UFVlWmd6Ql9aYUNqQ3VXZjNpMldCZVhqdW1mRWpBaWoxYjFCai1EY3JfdzVKMHA5Z3JVS25TSXpnbHM5WnJjMnFxTlBrMF9aZG1fb1VRcC1VYw?oc=5",
+   "date": "2026-10-18T07:58:02.000Z",
+   "source": "iXBT.games",
+   "summary": "GTA VI Suspected of Graphics Downgrade. Fans Found an Explanation iXBT.games"
+  },
+  {
+   "id": "gn-185micm",
+   "title": "GTA 6 Has a Dedicated System Just to Control How Much Characters Sweat",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNmxXejcybVdJckpuMWZvbzQ2Qk5CbDQyeUVSenFIaDJEQ2x1UGtkSGkyUDROcnBvZmRpdzdyNVZaZWphWVFnbFR4dk5DZUkyRUd3UjIzdWl3SkdjYUg0TlVOd3FhV0ZZMFktSnJFa09RX0xhcVdWdHJUVmplamxkNEt2REFWdDZVNHJoY0xrLU1ManBx?oc=5",
+   "date": "2026-10-18T07:30:38.000Z",
+   "source": "eGamers.io",
+   "summary": "GTA 6 Has a Dedicated System Just to Control How Much Characters Sweat eGamers.io"
+  },
+  {
+   "id": "gn-l1ps76",
+   "title": "GTA 6 Indeed Rated '18'... Depicts Carrying and Snorting Drugs, Sexual Activity, and Decapitation",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQel9JSVlqQVVrQXJJVVF0WmlveXBQVHBSRDE1ZkhleTNOUnFZdm1wOFB1Y2Z0aFU3TmdSSHRSTTU2dEFvSlp4Q2Fma3BXWlF0NkVpajNlNVNZelVUdXRPMDNqRjZYTm0wVFczdmpYbkg4Z2hWazlSeWZWYm5oYTk4UjY3YzhUYjBmck43SUVGeWZxdlBWZTlSZXc2Y05WN3VrcE91ZlJOUmNpWGFxQTA5ZXNsSDhZMDZ6TGx2RGlNem1LMEc1cThPMEh5UjFQQQ?oc=5",
+   "date": "2026-10-18T07:17:40.000Z",
+   "source": "Inven Global",
+   "summary": "GTA 6 Indeed Rated '18'... Depicts Carrying and Snorting Drugs, Sexual Activity, and Decapitation Inven Global"
+  },
+  {
+   "id": "gn-11yatoo",
+   "title": "Weekly Recap: GTA 6’s Final Trailer Steals the Spotlight as Hardware Sales Slide",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGtqWnpDbjlJMngza1JrNm9xbEFJMmVxSzdoVWxPMktsd3hZQ1NwenpwMkFjTF8wUjhSMFZZeXRqOTJWMkx3T3FqdkZqbVJOOWhzMFFWdVdfMjNFTTFLUUZEWkNhU3BlQnByQ2gwNUZGaUk0R196eFdKRVBYenJhRTBfbXN2cWZvTURLRmlBb0sxOWd0WTBNbngzMXZ5ZEE?oc=5",
+   "date": "2026-10-18T06:30:38.000Z",
+   "source": "eGamers.io",
+   "summary": "Weekly Recap: GTA 6’s Final Trailer Steals the Spotlight as Hardware Sales Slide eGamers.io"
+  },
+  {
+   "id": "gn-ae7jue",
+   "title": "Every Major Game Releasing in November That Isn’t GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5EeUhYWENXSExUN3FhWUpuLWRYc3UxOWdUNnM5dGRRUmxHM2FTT3FMRFJvY3JxdGw3MkVlb3JUY21JMzJkcnczLW5xVEVPSWY0SlViTDRVdHVUT0ZfRXZSZHd3?oc=5",
+   "date": "2026-10-18T04:00:23.000Z",
+   "source": "Polygon.com",
+   "summary": "Every Major Game Releasing in November That Isn’t GTA 6 Polygon.com"
+  },
+  {
    "id": "gn-167vswx",
    "title": "GTA 6 Community Map Version 17 Adds New Locations, Buildings, and Interiors",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVktGYkU1QmZzdVBKOFRaelpKdXBJMkUtWGNGeGpvYnpaNGY2MjNJYzEzRnJJejY2MnVSYzNRQUhxNGhOTFN2bjY2RVdYTXJFTG1UZEZFS0tiUDRCSk13VHlHRzFmd0Q2ZVkwUVRFN1NocUFfWXRqazZXcmJQZVVHalI5dEdydHZTdTRIRzAxWS00VzRmRDdBc2dRQXNOWmpLb01ic0RJdmdGZw?oc=5",
@@ -280,14 +375,6 @@
    "summary": "Fake editions of GTA VI with \"discs\" have appeared - Chinese vendors noticed demand for full physical versions iXBT.games"
   },
   {
-   "id": "gn-yyh0um",
-   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
-   "date": "2026-10-18T00:13:57.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
-  },
-  {
    "id": "gn-190q9fj",
    "title": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2F4cHRZWjZYTGp6V2dTeUNjM1VlakFvYnpPQVo1N0Jmdy1WRVZwY25GWko4ZFdxdTlQbkZpTnMzdFJUay1aNEZmc2U3aUVubHJNRjhXdkYzcmZEb0k1c0pzbzgxVGpEVXZwNmpRcjFpdWx4VkVYTFVxelZEcVY0N3RCX2Y3eHZWTjFtSUFMSTQ5X2NvcDhwNmNrSTVTRFlSM2plalR4X25Db0taVVQ5YVQ0bEo2ZmNUNEpWSzkzRktwWWdW?oc=5",
@@ -328,14 +415,6 @@
    "summary": "Rockstar Games Confirms GTA 6 Brings Back Grand Theft Auto IV Feature ComicBook.com"
   },
   {
-   "id": "gn-1ei161m",
-   "title": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore fa",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeFRYeDBId0FGS3M0TnBpSHN0aDREQjlUdHFzVEcxVTdxMFFpVkhuVlh2YWF6YjA0d3pUSThTaGx5cEpaTTBjUXJiSjNtRGpFallFYm0yeGdFVHZTM3dJamFCOGlXMEx6X19EN2pGREJkUmp0RzlscURPaHJ2Y3RiU2JBZXBja2FldmZvRlNBVHhZOGFqX3Bod0E0ZUJabWRfVTRrMVc3WFozMURIZzA0VEZabzZRUGRXem5tRHpFQ1JhSEwtVS1ja3BvOUt0Q1V5dzN2R01zaw?oc=5",
-   "date": "2026-10-17T19:53:10.000Z",
-   "source": "Facebook",
-   "summary": "MAY HESOYAM PA RIN KAYA RITO? 'YON LANG KASI ALAM KO EH 😎 The wait is definitely over as Rockstar Games launched the trailer for the most-awaited \"Grand Theft Auto 6.\" \"GTA 6\" has been in development for an extremely long time and hardcore"
-  },
-  {
    "id": "gn-wii1in",
    "title": "GTA 6 Has A Nod To The First Game That Could Hint At Jason And Lucia's Relationship",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjF3OWx4TjVsNjJjVzlfX1lpN2JTQm5ZRHNQb2NVN1VqMFhscWlIeHM4cEJ4bVNFaUVrZS00WkxzWldWb1J6T0oyemJHTDNkRFZxdkVTd3Y0cHlkSTcxNk1yeF9CZUJHUFVmd3lvRlkteGtVaWFsU19NQ0JVZGR2b3dqbnh0WGdzb2w0clRCM05jUUgwbFpfd1A0UVNDamM4YmducjRnNkRNZFlVNXZKVkdjMDhiX2M?oc=5",
@@ -350,6 +429,14 @@
    "date": "2026-10-17T19:30:00.000Z",
    "source": "Wccftech",
    "summary": "Activision Snubs Zelda, Calls Modern Warfare 4 and GTA 6 “the Two Biggest Games of the Year” Wccftech"
+  },
+  {
+   "id": "gn-11egpnm",
+   "title": "The making of ‘Grand Theft Auto VI’",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1HTm53WWxtbng0TXFUR2JaSTlFVXE0VDFRUHZYcnktdVRaSUU2V1h2V0NPQzFTWEF6WEl5S25JTWRaNHRfQnJCbFdfTXJnWXcyeWhTS1VWUWxNalZ5UGk3UFFCYVVLR09oX0NLc0IyZjBTc3REZ191ZTVR?oc=5",
+   "date": "2026-10-17T19:00:00.000Z",
+   "source": "The News Pakistan",
+   "summary": "The making of ‘Grand Theft Auto VI’ The News Pakistan"
   },
   {
    "id": "gn-x9axtj",
@@ -470,14 +557,6 @@
    "date": "2026-10-17T07:26:55.000Z",
    "source": "Facebook",
    "summary": "GTA 6 IS COMING! 🎮 LOOK: Rockstar Games releases a new trailer for the long-awaited \"Grand Theft Auto 6,\" showing a glimpse of apparent storylines for the game which takes place across Vice City. Courtesy: Rockstar Games/YouTube Read more:"
-  },
-  {
-   "id": "gn-1nd55wt",
-   "title": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BRDdDRHpXN1hlN0p4YnZWOXlGQ2F5TTN5NkJuQXJJdk43OUhTZTZ6MkFkdUZ0RXdEc3FMaEEtd2dLQklkbHFpSlRWaUZJcW1FOEdkWldpVm9qQ3ZiOExz?oc=5",
-   "date": "2026-10-17T06:28:04.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox Mashable"
   },
   {
    "id": "gn-1vgb6kf",
@@ -627,92 +706,44 @@
    "id": "gn-ydz1zk",
    "title": "All The Records GTA 6 Will Break, We Think",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQkZlZTJNOXh5Q2xZdjVHb2NDVHBaUjVQcTBCZ21hckY3MW1XYmVEbmVlWTJiY0pxd3hNZjRNNEFGTkRoYW1meHgwZXQzZlVQMEIzd0NsZC1lNDZIaFF0ZzlJZXNmU0pEbmZpcmdMeVRfWXJ1VExDZkNyMGZfVzJfRU9B?oc=5",
-   "date": "2026-10-16T20:28:53.000Z",
+   "date": "2026-10-16T20:27:22.000Z",
    "source": "GameSpot",
    "summary": "All The Records GTA 6 Will Break, We Think GameSpot"
-  },
-  {
-   "id": "gn-1a8j4ua",
-   "title": "There’s No Conspiracy For GTA VI To Be In The Game Awards",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCOUpsclcwa2tiaDhBbjZGLTFCOHZ2TjZFSUk5ZzB1UnV4bDhyT1QwQmVPc19TUEs5U3JHalhWY25Bc1BKcmtYaHJwNm5kMTNObThJRl8yNC12c21CTTNZ?oc=5",
-   "date": "2026-10-16T20:24:26.000Z",
-   "source": "Aftermath",
-   "summary": "There’s No Conspiracy For GTA VI To Be In The Game Awards Aftermath"
-  },
-  {
-   "id": "gn-nwlb2j",
-   "title": "GTA 6 fans spot mysterious detail at 0:55 in new trailer",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmV0MElabXNZRU41VGF1Vk5BVWF2NERYR3pNVU9HM185clNlQ0YtdFRxUGxCTHRWd3ctcHFqbV9jMUVCSWpOb0ZOSWRHc2VVcXYwLVJuMHo5dlYxYk8wUzRCc2FnUzJ0S2NlUHRsd2x1RDFUMkFWeGUzWkFpUWJyTXJUSTk2ekw0ejBxRTVLeXduUmdaSUE?oc=5",
-   "date": "2026-10-16T20:04:28.000Z",
-   "source": "Yahoo Finance",
-   "summary": "GTA 6 fans spot mysterious detail at 0:55 in new trailer Yahoo Finance"
-  },
-  {
-   "id": "gn-86lr0z",
-   "title": "Jason and Lucia Take Centre Stage in GTA 6 Launch Trailer",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUU2wxVm9EdkkwNktoRGhwZEVXSkh3X0R1bWFVa3NabEJGMFBySmREUU5ZOVJrS0Fpc0UzckFRRzRtUVpqN2RobW5qWExXczhsS01Gc1Y2YkR0aGQwYlg0eGlNRQ?oc=5",
-   "date": "2026-10-16T20:02:18.000Z",
-   "source": "Gamereactor UK",
-   "summary": "Jason and Lucia Take Centre Stage in GTA 6 Launch Trailer Gamereactor UK"
-  },
-  {
-   "id": "gn-12nx8hp",
-   "title": "Costco Members Can Save $10 On Grand Theft Auto 6 For PlayStation 5 - Here's How",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZG5SQi12NkE0eTBLWVI5T0NEaDRtSFh4U1puNWM0N2NqX1NKcXA4XzFzS1Fra056TWFFdGliLVR3MmY3akdnN0NZZXhFR1dXdk02SEVnbmc2SHJiUFJPMThDcW5odjcwZjZhcGFHN2tjVWpURkRjb3pic2dwdWtsMWR0d0JFZw?oc=5",
-   "date": "2026-10-16T19:32:00.000Z",
-   "source": "BGR",
-   "summary": "Costco Members Can Save $10 On Grand Theft Auto 6 For PlayStation 5 - Here's How BGR"
-  },
-  {
-   "id": "gn-1ln5dr0",
-   "title": "GTA 6 Launch Trailer Captured on PS5 Debuts New Justice Song",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LVGV6cGRsOERNeWpLbHljWlFRakxXSE8za3FLYWxFV2dxd2U5Yk9uOXItMnJUY0NlSnNCRUVvcTZuYTdaQ283LXFqZWJCMnRnMWtuZ3ZzYkZwd0wzU0ljX0N1dWx2M2c0OUpyU1JCOWZfdw?oc=5",
-   "date": "2026-10-16T19:20:47.000Z",
-   "source": "GodisaGeek.com",
-   "summary": "GTA 6 Launch Trailer Captured on PS5 Debuts New Justice Song GodisaGeek.com"
-  },
-  {
-   "id": "gn-1xyzmpc",
-   "title": "GTA 6 cars hit the streets of Miami",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR01PYkdjejUtZU1NU0hRTVNWVFptbDhCZU5LSDg3SWFibUpKOHVnczBvdVdFRTE4U0lGVTNfTmpGSWVtRGZMbUdIaE1TbldYaW1tMEZFdnlkaTN1REZ2TXZWR3lKSEFvdXVwUWZkQU5EQW1lMTRsUjhoYTVBeTFXbEV0MWcyZw?oc=5",
-   "date": "2026-10-16T19:17:50.000Z",
-   "source": "Pasquale Pillitteri",
-   "summary": "GTA 6 cars hit the streets of Miami Pasquale Pillitteri"
-  },
-  {
-   "id": "gn-1r1u70n",
-   "title": "'GTA 6' soundtrack: Every song, artist, and celebrity DJ we know about so far",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoMnI2QU5XdmdwTzRHZnE1Q29yekVWSXVMd0xYSEIwa3ZrQ0VvQzJtbkRBY1k0RTNCY2ZBbVhuRUxwYlpXZHVNTWNNaDdXb0wwX25ybm5rQlBxUVJWQThGYmx3b3BXQjVjcDJieQ?oc=5",
-   "date": "2026-10-16T19:06:35.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' soundtrack: Every song, artist, and celebrity DJ we know about so far Mashable"
-  },
-  {
-   "id": "gn-1pj6ndc",
-   "title": "The Final Countdown Begins: ‘GTA VI’ Launch Trailer Arrives Five Weeks Before Release",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWROTnhDcVp2czJobzBGVXlWam5zcjZ2N1VKUXhIeHJobk9mbkFaSDR1TEg4ek9wS2Q4YzNTM0U1QVlzdVVVR2tYRDlkN1VaS1lZeG5lVEdFTmZ0NU1nOHNXcGRlYi1tamFiVkhZR3FFNDFQRXo3ckJxdFFxQ2xGZ0dDX3ZiN1dac21paEI5WXQ0LTdKQlVjNU5wa3hGczFOZ21YY0lUZU80aHNXZ0V6UnBtLU0?oc=5",
-   "date": "2026-10-16T18:52:48.000Z",
-   "source": "FanBolt",
-   "summary": "The Final Countdown Begins: ‘GTA VI’ Launch Trailer Arrives Five Weeks Before Release FanBolt"
-  },
-  {
-   "id": "gn-1gg1kvj",
-   "title": "Dacity Coin Spikes on GTA VI Trailer, Trading Against Tokenized Take-Two Stock",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTHk0Y3NmUUxfR1hvZTBQdXN3UGNVei1kRTk2UTItZ203VExZS3QzenV4bzdxWC1fblRFZmJha3dxQ3JwbkhnQkhiLTlvaWllRUJxZ1ZGT29YNC02SVJpU0tZWEpzcmdmZzZ2TmZjdmJWaE1rdjktYVF3T3FmMW8yenNsYWZBTmNSbExOV0ZuV25jSGpZYmhjRzVwSHJpN3RQRHJ6YVdR?oc=5",
-   "date": "2026-10-16T18:18:00.000Z",
-   "source": "CryptoPotato",
-   "summary": "Dacity Coin Spikes on GTA VI Trailer, Trading Against Tokenized Take-Two Stock CryptoPotato"
-  },
-  {
-   "id": "gn-1yzx3aa",
-   "title": "GTA 6 Recaptures What Made GTA’s Best DLC So Great",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zXzRFZ1pCMXRBSmdWSXdobTJMM3JLeW1DOTcyemVlT25hcVFIWTBscFdhY2NQSXkzbzB1V1VMdHhrVTUwT2xBTFZvTHQxY3VCY3h0ckc1NndfRWFaMXc?oc=5",
-   "date": "2026-10-16T18:00:18.000Z",
-   "source": "Polygon.com",
-   "summary": "GTA 6 Recaptures What Made GTA’s Best DLC So Great Polygon.com"
   }
  ],
  "community": [
+  {
+   "id": "rd-1ie3bx3",
+   "title": "GTA VI horizontal logo",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8zkvb/gta_vi_horizontal_logo/",
+   "date": "2026-10-18T10:08:49.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Pistoluislero [link] [comments]"
+  },
+  {
+   "id": "rd-12778fa",
+   "title": "Am I able to upgrade to Ultimate Edition?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8y2fi/am_i_able_to_upgrade_to_ultimate_edition/",
+   "date": "2026-10-18T08:31:34.000Z",
+   "source": "r/GTA6",
+   "summary": "This is for Australia so that it makes sense. I bought GTA VI standard edition, pre ordered from jb-hi-fi as I had a $140 gift card. As I couldn’t use my gift card to purchase a Sony gift card, I inst"
+  },
+  {
+   "id": "rd-13lblwz",
+   "title": "Detail from Extended Look : Putting on a accessory applies it on Jason and Lucia at the same time",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8xbj9/detail_from_extended_look_putting_on_a_accessory/",
+   "date": "2026-10-18T07:44:59.000Z",
+   "source": "r/GTA6",
+   "summary": "I know it's a bit late to pick up on details in the extended look, but I haven't seen anyone else talk about it. When both characters are together (or maybe only in a vehicle), putting on an accessory"
+  },
+  {
+   "id": "rd-jbm7jz",
+   "title": "Boobie Ike got me thinking, would he have a flamboyant personality like Raul, since a lot of people thought Raul wasn't going to be chill as we thought he would?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8widi/boobie_ike_got_me_thinking_would_he_have_a/",
+   "date": "2026-10-18T06:56:07.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/AceOfSpades_4 [link] [comments]"
+  },
   {
    "id": "rd-xkqd1g",
    "title": "Hopefully rockstar makes a poster like this for GTA 5",
@@ -1000,38 +1031,6 @@
    "date": "2026-10-16T20:16:57.000Z",
    "source": "r/GTA6",
    "summary": "People keep referencing this as a sewer tunnel or a drainage tunnel when to me it is very obviously a corridor inside of some sort of cargo vessel, not to mention the fact that it is in fact filling w"
-  },
-  {
-   "id": "rd-37yjea",
-   "title": "Flower in a Hurricane (from the launch trailer) original solo",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7pxu2/flower_in_a_hurricane_from_the_launch_trailer/",
-   "date": "2026-10-16T19:43:07.000Z",
-   "source": "r/GTA6",
-   "summary": "Dude this song is so good Rockstar has literally sold it’s soul to the devil for their music taste Also THIS IS NOT SELF PROMOTION, I’m a fan and I loved the guitar in this song and it inspired me and"
-  },
-  {
-   "id": "rd-z9oc00",
-   "title": "This is my Miami Vice GTA6 Inspierd Jeep Wrangler!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7ov4x/this_is_my_miami_vice_gta6_inspierd_jeep_wrangler/",
-   "date": "2026-10-16T19:01:10.000Z",
-   "source": "r/GTA6",
-   "summary": "When I bought it, the Jeep was fully wrapped in pink. I decided to keep some of it and build a full Miami-themed look around it. Had to sell my Corvette with a baby on the way, but I'm super excited t"
-  },
-  {
-   "id": "rd-f3fy5e",
-   "title": "Rob Nelson has confirmed to Jason Schreier that the game features hundreds of interiors that you can go and explore in free roam",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7nxby/rob_nelson_has_confirmed_to_jason_schreier_that/",
-   "date": "2026-10-16T18:24:59.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Zipo92 [link] [comments]"
-  },
-  {
-   "id": "rd-6ml53i",
-   "title": "I 🩷 VICE CITY Bus",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7ncom/i_vice_city_bus/",
-   "date": "2026-10-16T18:03:41.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/poorna_sus14 [link] [comments]"
   }
  ]
 }
