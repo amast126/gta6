@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-18T11:31:58.179Z",
+ "generated": "2026-10-18T15:17:32.184Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-18T11:31:58.179Z"
+   "checked": "2026-10-18T15:17:32.184Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-18T11:31:58.179Z"
+   "checked": "2026-10-18T15:17:32.184Z"
   },
   "googlenews": {
    "ok": true,
-   "count": 92,
-   "checked": "2026-10-18T11:31:58.179Z"
+   "count": 102,
+   "checked": "2026-10-18T15:17:32.184Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-18T11:31:58.179Z"
+   "checked": "2026-10-18T15:17:32.184Z"
   }
  },
  "official": [
@@ -231,6 +231,38 @@
  ],
  "press": [
   {
+   "id": "gn-1rdj60o",
+   "title": "GTA VI is almost here. How you can avoid scams targeting gamers.",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIdFZKRERtTUh2WWtIaVR1SlRBeHFuamg1VWNBZ3RrY1hmRzloTjRCR2lMTGFYd1F2ZE53U01Xc25LNHd3eDk4ZTFTdV9SLXQ5ajNmWDNxaFhBNHpObXVBVkROeXhKbmlFeWVZZlQ3bmhjWDdo?oc=5",
+   "date": "2026-10-18T14:30:03.000Z",
+   "source": "CBS News",
+   "summary": "GTA VI is almost here. How you can avoid scams targeting gamers. CBS News"
+  },
+  {
+   "id": "gn-mv0mbj",
+   "title": "Grand Theft Auto VI raises concerns over violent content",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50RzN1WnhybWdtVUtEY0NDSGxUb0wwYzdXVTFnOHo0NFdLVUh2OFpUR095SFZlVXVGWjZZTVFMMmw5ZGtZX01icjhXNXZJQkZwSlZ6MjRR?oc=5",
+   "date": "2026-10-18T13:36:03.000Z",
+   "source": "Fox News",
+   "summary": "Grand Theft Auto VI raises concerns over violent content Fox News"
+  },
+  {
+   "id": "gn-1dpv6mh",
+   "title": "Grand Theft Auto VI graphics comparison based on June and October 2026 footage",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNczJiT0IyMnhCZGhZRERDN1VSUHpRRXFnelNER1NwX2duVlBaZ1g5VmNIYjlfQXNtTTlmc2RGT2VfdzM0TXlmNHdjdzRXQ2RNcnU4YXpZWFFmbFJiNzVXMk1Gczhka053VFJOeTVlSm5lNjlpa0RXY1ZKY0dPYmN4XzRnRDAzcFE4UDlCcVE5RUt2MnNuNUNnc2M2ajA1SlJyNDdDc01XbWRVSm9GamFFUmVSRQ?oc=5",
+   "date": "2026-10-18T13:17:17.000Z",
+   "source": "GameGPU",
+   "summary": "Grand Theft Auto VI graphics comparison based on June and October 2026 footage GameGPU"
+  },
+  {
+   "id": "gn-1o1nx9g",
+   "title": "Watch out for GTA VI scams",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBubVRsX0IxZGRMdGVNV3pOUExNR3BNT25MaE5aYTJUbWphZy1fYTFkNW56Vjc1RlVkaV9xaVhMSmVoR1p6SmVaUXRuZ3J3NkJHbXBKTzAxUGN2RkxjUGJkcWNyRE9iZkZVZFMwV0tBM3g?oc=5",
+   "date": "2026-10-18T13:13:00.000Z",
+   "source": "CBS News",
+   "summary": "Watch out for GTA VI scams CBS News"
+  },
+  {
    "id": "gn-ooi7dd",
    "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTdtUHJuYnljdHpZem9pOHMzdmJxX1JLaWZNa3UwRVpPUy1xanRmQVNTUTJTdnVvMXlmRGw5ZUR6bFRvOVZFQjFNYk1sSjE0MmdwQW1xbzVEN1RDX0NETkhKUkR3NVZ5MHI1TWNsM2xyYmFleGNDb2VKUUlBaXRBX3ZuS2FvbERRZ2Z2dWNhbzkyUUU1?oc=5",
@@ -240,11 +272,11 @@
   },
   {
    "id": "gn-11n7mys",
-   "title": "Leaked Shrek 2 Remaster Trailer Spoofs the GTA 6 Reveal Style",
+   "title": "Even a Shrek 2 Remaster Is Copying the GTA 6 Trailer Now",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOEkwX2FIMUVnT0NSbWhaYkpNZ2RIV2FWVDFwSnVfNllDU3IxUDZLYi1xWmZtVzRrSWdtZHZkLTRubkRqWS1rTTRfaFIzdThWdlA0ckhUaG5pWmp0bU1BR2ZmQXV3X2lZYWpyejZxSGhjcy1LZkNpd1FDMXpZTV9UbmxRdjZMZkpJcDhzWnlR?oc=5",
    "date": "2026-10-18T10:07:57.000Z",
    "source": "GTA BOOM",
-   "summary": "Leaked Shrek 2 Remaster Trailer Spoofs the GTA 6 Reveal Style GTA BOOM"
+   "summary": "Even a Shrek 2 Remaster Is Copying the GTA 6 Trailer Now GTA BOOM"
   },
   {
    "id": "gn-uomiab",
@@ -467,8 +499,8 @@
    "title": "Watch Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDF0bUZmOTZSTWt3elRNaFhhRVZ5VTRIcFBFV1VFcEdfeFdxX0JNenJsbWdPYnk2cElvczJfRXMyRWdpdkJSX21JdG9EeTJEOUtRS1R4d09UQ29vQjV0TXJmR0hWTktCQm1LdUZmRWE0OEtaOWk3WjFMTU9STG9aRHgxR05pNG9IRGx6c0VIMVFCdw?oc=5",
    "date": "2026-10-17T17:28:50.000Z",
-   "source": "Bloomberg.com",
-   "summary": "Watch Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI' Bloomberg.com"
+   "source": "Bloomberg",
+   "summary": "Watch Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI' Bloomberg"
   },
   {
    "id": "gn-18m8kea",
@@ -677,41 +709,73 @@
    "date": "2026-10-16T22:57:01.000Z",
    "source": "Yahoo Sports",
    "summary": "GTA 6 Blimp Set to Fly Over NASCAR Championship Weekend in Miami Yahoo Sports"
-  },
-  {
-   "id": "gn-ohrrpa",
-   "title": "The making of \"Grand Theft Auto VI\"",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UVi0ycG13Y29oOGR3UjdTSGFHc3hHSWhqTVhJa0ltLVowT3lBYW44a0hBcVA0V3hFcHhrQndGY0pvV1JubTFjMXlrRkNKVzg3MWlDN3YyX29FajkyNzJqTnpfc19MUnRr?oc=5",
-   "date": "2026-10-16T22:52:00.000Z",
-   "source": "CBS News",
-   "summary": "The making of \"Grand Theft Auto VI\" CBS News"
-  },
-  {
-   "id": "gn-1r6kwxl",
-   "title": "GTA VI 'Vice City' blimp to appear at NASCAR championship weekend",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcnJ5alFZMExuVHg5REFPUm4wSkhfZmtCWXRnVG9Pam0yaVhvSEVzM2t6TkxoYUhTQ1Q1VUFid3RrVlFaUTNhajZDVVdOOW9pNjhJVklKZGpKa2c0SU1ud0tyMERtQlZIZ2REUkFPZ3VCc1d2UHpGNXI1Z3c0Y2pwUy1FNVFtd2tYOV9IYm5hY0xWcjJlN05DcXBCNk9yOTdLT1U2alluaWcxazN0S0Q4dlNCMVlqVlE?oc=5",
-   "date": "2026-10-16T20:40:00.000Z",
-   "source": "Motorsport.com",
-   "summary": "GTA VI 'Vice City' blimp to appear at NASCAR championship weekend Motorsport.com"
-  },
-  {
-   "id": "gn-14gfost",
-   "title": "GTA VI Online Mode Reportedly Set for 2027 Launch",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOGdyVTlCSW11dFg5Q1A3dkZYRWF4Wl8wc2VsM1Vrb09YWTVsTFc5RmYtekkwN3RfdFJWOUk3YzhhTWU4ZFRsNGxOM3RqZ1lDckQ2dm5aQ2hmOXdiZUR2RlVHcUJ4YWRlMUpWZ0p0YmtURWFPNHBnU2NhM2Q5aXFUTDhVdUw1SGltQ0pF?oc=5",
-   "date": "2026-10-16T20:35:00.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GTA VI Online Mode Reportedly Set for 2027 Launch Yahoo Tech"
-  },
-  {
-   "id": "gn-ydz1zk",
-   "title": "All The Records GTA 6 Will Break, We Think",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQkZlZTJNOXh5Q2xZdjVHb2NDVHBaUjVQcTBCZ21hckY3MW1XYmVEbmVlWTJiY0pxd3hNZjRNNEFGTkRoYW1meHgwZXQzZlVQMEIzd0NsZC1lNDZIaFF0ZzlJZXNmU0pEbmZpcmdMeVRfWXJ1VExDZkNyMGZfVzJfRU9B?oc=5",
-   "date": "2026-10-16T20:27:22.000Z",
-   "source": "GameSpot",
-   "summary": "All The Records GTA 6 Will Break, We Think GameSpot"
   }
  ],
  "community": [
+  {
+   "id": "rd-45scm8",
+   "title": "On November 19th",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x94dpu/on_november_19th/",
+   "date": "2026-10-18T14:19:43.000Z",
+   "source": "r/GTA6",
+   "summary": "It's almost there, stay healthy guys so that we can all get to play this masterpiece submitted by /u/Successful-Comb-4487 [link] [comments]"
+  },
+  {
+   "id": "rd-sifqg2",
+   "title": "ONE MONTH LEFT LADS!!!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x948nq/one_month_left_lads/",
+   "date": "2026-10-18T14:13:24.000Z",
+   "source": "r/GTA6",
+   "summary": "can’t wait for gta 6 to drop! submitted by /u/asiannboy5 [link] [comments]"
+  },
+  {
+   "id": "rd-jffri3",
+   "title": "\"the GTA 6 launch trailer looks blurry, there's a downgrade of the decade\" meanwhile RDR 2 comparison",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x943ni/the_gta_6_launch_trailer_looks_blurry_theres_a/",
+   "date": "2026-10-18T14:07:26.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Dr_Doom_here [link] [comments]"
+  },
+  {
+   "id": "rd-1msz9ip",
+   "title": "VI Animals",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x92sa4/vi_animals/",
+   "date": "2026-10-18T13:06:38.000Z",
+   "source": "r/GTA6",
+   "summary": "I'm looking forward to seeing the wildlife in the game. Highly recommend downloading some of the screenshots and artwork and zooming in - you find a lot of small details that are amazing. I found a fe"
+  },
+  {
+   "id": "rd-1es2aql",
+   "title": "So at first I disliked this weapon wheel but it has grown on me a lot",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x92b1m/so_at_first_i_disliked_this_weapon_wheel_but_it/",
+   "date": "2026-10-18T12:43:31.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
+  },
+  {
+   "id": "rd-rbtisx",
+   "title": "New Zealand squad: we are officially under 30 days away from release!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x900q1/new_zealand_squad_we_are_officially_under_30_days/",
+   "date": "2026-10-18T10:36:07.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/colbysnumberonefan [link] [comments]"
+  },
+  {
+   "id": "rd-5a9iwe",
+   "title": "Vice City Vibes",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8zwfy/vice_city_vibes/",
+   "date": "2026-10-18T10:28:41.000Z",
+   "source": "r/GTA6",
+   "summary": "With GTA VI almost upon us (almost there guys 👀) and I cant wait to be returning to Vice City; The OG Vice City was my first GTA game and its magic still holds up for me today - especially the soundt"
+  },
+  {
+   "id": "rd-1x3si29",
+   "title": "In 48 hours, the GTA 6 launch trailer got more views and likes than GTAV's launch trailer did in 13 years.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8zuxt/in_48_hours_the_gta_6_launch_trailer_got_more/",
+   "date": "2026-10-18T10:26:03.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/PastaCheed [link] [comments]"
+  },
   {
    "id": "rd-1ie3bx3",
    "title": "GTA VI horizontal logo",
@@ -967,70 +1031,6 @@
    "date": "2026-10-17T00:20:40.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Bruhmomento-no2 [link] [comments]"
-  },
-  {
-   "id": "rd-1drd0om",
-   "title": "Lens flare appreciation post",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7ulcs/lens_flare_appreciation_post/",
-   "date": "2026-10-16T22:56:35.000Z",
-   "source": "r/GTA6",
-   "summary": "Lens flare ain’t getting any attention in gta 6, compared to gta 5; they are on a whole other level. Love the 8 point star pattern submitted by /u/PM_ME_PICS_OF_UR_PS3 [link] [comments]"
-  },
-  {
-   "id": "rd-1jckakw",
-   "title": "Rockstar is literally turning Miami into Vice City: Convoy of GTA 6 supercars spotted driving around town today!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7ukrm/rockstar_is_literally_turning_miami_into_vice/",
-   "date": "2026-10-16T22:55:50.000Z",
-   "source": "r/GTA6",
-   "summary": "Cool stuff happening around Miami. I love that R* is doing so much irl marketing right now. submitted by /u/Great-External-2439 [link] [comments]"
-  },
-  {
-   "id": "rd-my6yly",
-   "title": "I was 13 when GTA 5 came out and now i am 26 when GTA 6 comes out and can’t wait :)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7ud8z/i_was_13_when_gta_5_came_out_and_now_i_am_26_when/",
-   "date": "2026-10-16T22:46:10.000Z",
-   "source": "r/GTA6",
-   "summary": "Had to 2x my age just to get to this point, so curious to hear what ages you all were then and now, such a momentous moment for us all I am so hyped!! submitted by /u/Elongatedmuskrat145 [link] [comme"
-  },
-  {
-   "id": "rd-1c6yvnd",
-   "title": "What I expect happened after...",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7s28w/what_i_expect_happened_after/",
-   "date": "2026-10-16T21:07:32.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/S_Shadow77 [link] [comments]"
-  },
-  {
-   "id": "rd-47vrlq",
-   "title": "The intro guitar riff needs its own appreciation post 🤘",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7rc7y/the_intro_guitar_riff_needs_its_own_appreciation/",
-   "date": "2026-10-16T20:38:21.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/TimmyTurnersDealer [link] [comments]"
-  },
-  {
-   "id": "rd-j0odca",
-   "title": "GTA has hit the streets of NYC",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7razp/gta_has_hit_the_streets_of_nyc/",
-   "date": "2026-10-16T20:36:54.000Z",
-   "source": "r/GTA6",
-   "summary": "Getting more real by the day Yall submitted by /u/Keepawayfrommycrops [link] [comments]"
-  },
-  {
-   "id": "rd-f3c3rn",
-   "title": "Wont happen again until 2033",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7r3e8/wont_happen_again_until_2033/",
-   "date": "2026-10-16T20:28:26.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/ImpossibleCarpenter5 [link] [comments]"
-  },
-  {
-   "id": "rd-1e8raq4",
-   "title": "Not many people talking about this shot that clearly shows the lower deck of a sinking cargo ship",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7qt2f/not_many_people_talking_about_this_shot_that/",
-   "date": "2026-10-16T20:16:57.000Z",
-   "source": "r/GTA6",
-   "summary": "People keep referencing this as a sewer tunnel or a drainage tunnel when to me it is very obviously a corridor inside of some sort of cargo vessel, not to mention the fact that it is in fact filling w"
   }
  ]
 }
