@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-18T18:14:30.084Z",
+ "generated": "2026-10-18T20:56:54.819Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-18T18:14:30.084Z"
+   "checked": "2026-10-18T20:56:54.819Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-18T18:14:30.084Z"
+   "checked": "2026-10-18T20:56:54.819Z"
   },
   "googlenews": {
    "ok": true,
    "count": 102,
-   "checked": "2026-10-18T18:14:30.084Z"
+   "checked": "2026-10-18T20:56:54.819Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-18T18:14:30.084Z"
+   "checked": "2026-10-18T20:56:54.819Z"
   }
  },
  "official": [
@@ -231,6 +231,46 @@
  ],
  "press": [
   {
+   "id": "gn-1k3g3jv",
+   "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFJyQzlXZU5nWmZXUDNLb0pSRDBONGpXUGNIaVYxTHJDaVp3T3NlSUt5YkJMMjhDQXZZTEkxWG5vbkh0dC1uMVpQQm5yTEt6WDRWeFRRMWhhZHIwTzZyUE5iVERNQVNoVGdiSDE5dlRUWTVpM2FrX0RLeTVOUXB4N0pYRWpWWXR0bXlQVGhTekI2Rlo4blcwNGxNUVNGdG42eFNxNFVNSWNUSlZZTGd5LXY2MkYyNk0?oc=5",
+   "date": "2026-10-18T20:48:00.000Z",
+   "source": "USA Today",
+   "summary": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100 USA Today"
+  },
+  {
+   "id": "gn-l022l7",
+   "title": "Should You Buy These 4 Video Game Stocks Before GTA 6 Arrives?",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0Fra3F1cm0tbzhsNWVRR0RIUjc0bHhPMDhDUlc2TjhocGxtTUEyRmJlS0dKZnhFbTgwQWRSMlBEQUNfRlVMOHdRRXE4ZnV1elA4QnhDOTJTSUJ2Uk1ueS1KbENXWm1NTWtLeVFMeXlDV2xnTTV0STBCZkFzMExzZEtSX0hGWU9sS2htY25mS3FuUQ?oc=5",
+   "date": "2026-10-18T19:42:50.000Z",
+   "source": "The Motley Fool",
+   "summary": "Should You Buy These 4 Video Game Stocks Before GTA 6 Arrives? The Motley Fool"
+  },
+  {
+   "id": "gn-krq7iu",
+   "title": "Has Rockstar Downgraded GTA 6’s Graphics Ahead of Release Next Month?",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlcyTERPWURpUE96M1VYa3dFZ203WlhXUm02RUM4MWpqeUVuUUFNalRkMXdSRWt1R3ByUzR2T24xb1N3SmdWVHhxZ05yYThSM00zN0k4YmhMM0tHTkhJMkZ5R20yN2ZVc2p2T29PQmdhc2FhbXNTY2JhR0stYm1HY3hyVGQ4SjFxWXRlSE5aYkVscVdfZmI3RVZJcXpBbnc?oc=5",
+   "date": "2026-10-18T19:22:43.000Z",
+   "source": "GameFront - Mods",
+   "summary": "Has Rockstar Downgraded GTA 6’s Graphics Ahead of Release Next Month? GameFront - Mods"
+  },
+  {
+   "id": "gn-145kv82",
+   "title": "GTA 6 Might Have The CRAZIEST Sound Track In Gaming History! 👀🤯",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9zVXU3Zk8yUjBRalJVaG5nM1hkS3dMT0Z1R19hVXpEVzJ2RElnNVdaR3BhNHpnZjVMSTJTRG9ZUUJiUQ?oc=5",
+   "date": "2026-10-18T18:48:54.000Z",
+   "source": "YouTube",
+   "summary": "GTA 6 Might Have The CRAZIEST Sound Track In Gaming History! 👀🤯 YouTube"
+  },
+  {
+   "id": "gn-1yywn5w",
+   "title": "Activision Dismisses The Legend of Zelda: Ocarina of Time Remake, Claiming GTA VI and Call of Duty: Modern Warfare 4 Are the Biggest Games of 2026",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQNjlRRWYyUEJRQm9RR1owMXV4OXk0REJ0QlItRFg1dUlESGVWdWNqRlEtdEJfaTdsbjUxempZVVZ0dFhPNUNEYmg3cXgzYmNHaUxZQkFSdkFnVU9kWHB0UHphRzIzdUM1NUZHZGsxYnE4aklmS1B0dUUwX1l0dnZwNkpHYkY5MVg1bTFxT3ltS2VaYkxGSUJSVTNadGdfRUpZZDczTng2Q1FPSzFfa0NrWlhLVjNQRWNneWZDb3NUN2x5NFFhRGIxcFpaV3RnVnN1MkxWNGtxRUY4ZTVtVk01LWNHVjhJYXN5U2NaeGV5VFFIdEI5NldHLVM3eDFHTVAxQ3JQRnEzRQ?oc=5",
+   "date": "2026-10-18T18:36:00.000Z",
+   "source": "LevelUp",
+   "summary": "Activision Dismisses The Legend of Zelda: Ocarina of Time Remake, Claiming GTA VI and Call of Duty: Modern Warfare 4 Are the Biggest Games of 2026 LevelUp"
+  },
+  {
    "id": "gn-w13l7",
    "title": "Even Local News Is Warning Miami About GTA 6 Scams Now",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXlQelBMdVZGSXFKMEhMR2U4eXIyN3JudDhIbHhiWXBYdTJvLUVPV3hPbFpCWlJzOGJ1NkNnTDNZMzBmSS1rcGZJYXJGcWdZQ1Y0M0daRFpWMlhsQmNITnZ5SVVsZ1NMckhDVVcteElnbVdMaVRIYmFidGNfa2c1aXhINjllZVhscW53?oc=5",
@@ -247,10 +287,18 @@
    "summary": "Rockstar Games Partners With Miami’s Wynwood Walls Ahead of 'GTA VI' Yahoo"
   },
   {
+   "id": "gn-m6dsrk",
+   "title": "GTA 6's New Launch Trailer Shows Jason's Troubled Past and a Criminal Conspiracy",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1VGNfaTg0YTBNVEhtaUpQZV9SS3JWaU8yYmtWcnNJbEdCOFFOMVFDaGdyb25mYmRSUTJFNkozc044V0JhdzhlcHptMVIwSERMNm5zZl9mbUZ6a2NEMVlla0VWUWRXTk1jb3RLZWYxZlpRQ3dvNDZtNFpHRQ?oc=5",
+   "date": "2026-10-18T14:38:59.000Z",
+   "source": "AOL.com",
+   "summary": "GTA 6's New Launch Trailer Shows Jason's Troubled Past and a Criminal Conspiracy AOL.com"
+  },
+  {
    "id": "gn-1rdj60o",
    "title": "GTA VI is almost here. How you can avoid scams targeting gamers.",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIdFZKRERtTUh2WWtIaVR1SlRBeHFuamg1VWNBZ3RrY1hmRzloTjRCR2lMTGFYd1F2ZE53U01Xc25LNHd3eDk4ZTFTdV9SLXQ5ajNmWDNxaFhBNHpObXVBVkROeXhKbmlFeWVZZlQ3bmhjWDdo?oc=5",
-   "date": "2026-10-18T14:30:03.000Z",
+   "date": "2026-10-18T14:30:00.000Z",
    "source": "CBS News",
    "summary": "GTA VI is almost here. How you can avoid scams targeting gamers. CBS News"
   },
@@ -488,11 +536,11 @@
   },
   {
    "id": "gn-x9axtj",
-   "title": "GTA 6 to Feature “Hundreds” of Interior Spaces Players Can Exlpore; Story Closer to RDR2 Than GTA 5",
+   "title": "GTA 6 to Feature “Hundreds” of Interior Spaces Players Can Explore; Story Closer to RDR2 Than GTA 5",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXpPT3hlUHVHcDcwNXNua28xb2FVaDU0TzhXOTlHZE52S0ZlcUNoVW4xV2EwTlFCTHRqNTJKdzVlenpZcjFPNERNbmhtZ0VLZ3lHVkJwMFI0NUZPOU9ydHZySllOOW1kZWx0dVB0OVA3eGRyOS1UaFhaUVk2NzhCWkM1OVhPV1FfdUstMzFCUHlKeFhSQXp1S2ZZUmt0a05jWGl1QzFwVkRNaEE?oc=5",
    "date": "2026-10-17T18:36:26.000Z",
    "source": "MP1st",
-   "summary": "GTA 6 to Feature “Hundreds” of Interior Spaces Players Can Exlpore; Story Closer to RDR2 Than GTA 5 MP1st"
+   "summary": "GTA 6 to Feature “Hundreds” of Interior Spaces Players Can Explore; Story Closer to RDR2 Than GTA 5 MP1st"
   },
   {
    "id": "gn-1k2kfra",
@@ -661,57 +709,41 @@
    "date": "2026-10-17T02:27:39.000Z",
    "source": "MMOEXP",
    "summary": "GTA 6 Weapons Guide: Best Upgrades, Budget Builds & Weapon Loadout Tips MMOEXP"
-  },
-  {
-   "id": "gn-8sxrvw",
-   "title": "GTA VI not yet gold: Rockstar explains the final push before launch",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXdMWjgxZllNbGFiM3l4bVhtNi1aRDRnb2ZDN1dJVTluRmNBVDNrejJtMENBdzdpNFE1NTltNTh0bC1udHFsN2ozRTN3ZWNCT2hvaEFkanFRNDl0QU95cW5TZjZrUFpteFRZMTBRMlhCbFUtQW5MUnRTWEN5U1draXQyaDNVV1FjaVlZeVdzSDdQWU93bzBxQjJtMDlNXzNHVEF4TDNxcWxaV0U2X05tbg?oc=5",
-   "date": "2026-10-17T01:55:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "GTA VI not yet gold: Rockstar explains the final push before launch Notebookcheck"
-  },
-  {
-   "id": "gn-ow4g0h",
-   "title": "Justice Confirmed as Composers of ‘Grand Theft Auto VI’s Original Score",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkpDcHJ3bVNtbGtNb29keHV5d0NuaWp3ZVhRcmV5ZElrZ1dGZ3JFbFA2OGJMWjB3aVNLV2xJZDI3T1IwRmtjU0xTRGZBYkMycDM0ZTZHQlZDZjY1VldDd2tMSUlVTWVLZGl6V2w1d0RwMVNYSWN5NDdmQjgwRXloVmNUTlpKYkh5NGI5VXNzR0JmZUY1RG9OTExR?oc=5",
-   "date": "2026-10-17T01:11:52.000Z",
-   "source": "V13 Media",
-   "summary": "Justice Confirmed as Composers of ‘Grand Theft Auto VI’s Original Score V13 Media"
-  },
-  {
-   "id": "gn-17u1l6p",
-   "title": "Where to buy the PS5 Pro ahead of GTA 6 release",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hTTJITkROT1hUdFNLc09xWTJPRFFNNVdyOS1tbWU1cS1NNlpnbklDVV9adzY3NGJTVVdvX3l1UHZMRFN6TjEzRW9OeXpkLWxxY0FRU0hTeUp2ek5McHlhTkZyODlBOWs?oc=5",
-   "date": "2026-10-17T00:53:19.000Z",
-   "source": "Mashable",
-   "summary": "Where to buy the PS5 Pro ahead of GTA 6 release Mashable"
-  },
-  {
-   "id": "gn-zdsne5",
-   "title": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91M0o5QnRuaXBtT0xjNVd2X2pfYnk5cTl6eVdCMDZ3YThQbEVLSHNhRTVxUmpqcWNaTC0xTG9zSXJGb3RzWG1CTHZlRkJQZ214b3IxZkV0WElWV2FJQTZ6Tg?oc=5",
-   "date": "2026-10-17T00:43:00.000Z",
-   "source": "Polygon.com",
-   "summary": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19 Polygon.com"
-  },
-  {
-   "id": "gn-1fad3tr",
-   "title": "GTA 6 Miami Takeover Faces Backlash From Officials",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT0ZwNG1FaVlnMG5zRGFZUzM0WUJDV25kaDQwcmo3LUZUbnhVQ1BwNnZkYnFiWHFfbThOb3pyODlBT0Vza3NnV2lBWmVwa1RxWHpLcHFLSzdUajl1NWNUaFdQbU50Z1NrV3BJX3VCRDdqcVJabUlyU2dNLXlCRzJvMEZIUFY3Z3c?oc=5",
-   "date": "2026-10-17T00:01:00.000Z",
-   "source": "DualShockers",
-   "summary": "GTA 6 Miami Takeover Faces Backlash From Officials DualShockers"
-  },
-  {
-   "id": "gn-1rn9hxc",
-   "title": "Watch Rockstar Rebuilt Itself to Make GTA VI",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTFU1Z1R6NENpYzJlcFNhd3BKR1l2MTF4NGpnckNKWjBScUFMZFQtTEFVYUM5X1lQd3lTT1YyblZYZ2p0STg0cE5VeXlrUlJkNWtZeDk1c0hFc25ramdUZW03d3hNQ0dDQ2MzX3lVdm05V3piaHVFWGpxUkxaN1R5d1ZqSGMyWjBOZUFTXy1EOGNhQVg1WkJRVQ?oc=5",
-   "date": "2026-10-17T00:00:00.000Z",
-   "source": "Bloomberg.com",
-   "summary": "Watch Rockstar Rebuilt Itself to Make GTA VI Bloomberg.com"
   }
  ],
  "community": [
+  {
+   "id": "rd-1jhzvg2",
+   "title": "Unfinished Heat Map of what Rockstar has shown so far based on all their marketing material",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x9b4s0/unfinished_heat_map_of_what_rockstar_has_shown_so/",
+   "date": "2026-10-18T18:54:13.000Z",
+   "source": "r/GTA6",
+   "summary": "They seem to awfully favour a city im not going to name, but completely avoid other places like a plague... I wonder what Rockstar has in store for us and what surprises are awaiting for us to uncover"
+  },
+  {
+   "id": "rd-1vmd2eu",
+   "title": "The GTA 6 mural in Los Angeles has been completed",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x9aya2/the_gta_6_mural_in_los_angeles_has_been_completed/",
+   "date": "2026-10-18T18:47:02.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/peqc [link] [comments]"
+  },
+  {
+   "id": "rd-1v40wo5",
+   "title": "NINE1NINE Miami Beach Marketing",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x99z58/nine1nine_miami_beach_marketing/",
+   "date": "2026-10-18T18:08:04.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Zuccahoo [link] [comments]"
+  },
+  {
+   "id": "rd-4i4diy",
+   "title": "Interaction between Criminal Profile and main missions.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x99x2r/interaction_between_criminal_profile_and_main/",
+   "date": "2026-10-18T18:05:50.000Z",
+   "source": "r/GTA6",
+   "summary": "I'm wondering how will the Criminal Profile system interact with certain characters and missions. Taking into consideration that Rockstar has said the game won't punish the player for whatever playsty"
+  },
   {
    "id": "rd-1suay45",
    "title": "The Miami metromover seems to be getting GTA 6 advertising!",
@@ -745,12 +777,28 @@
    "summary": "submitted by /u/gtawiki [link] [comments]"
   },
   {
+   "id": "rd-1ijpk1r",
+   "title": "Anyone else surprised we didn't get character trailers for Jason & Lucia?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x9646l/anyone_else_surprised_we_didnt_get_character/",
+   "date": "2026-10-18T15:33:25.000Z",
+   "source": "r/GTA6",
+   "summary": "With them releasing the launch trailer so early, I feel like that's it for trailers on the game and we'll be getting other information for the next month. Stuff like the Score, maybe about the animal "
+  },
+  {
    "id": "rd-1c26281",
    "title": "I spent the last couple of years making GTA 6 inspired renders in blender out of pure hype, and it feels unreal knowing we’re finally playing it next month.",
    "url": "https://www.reddit.com/r/GTA6/comments/1x95khv/i_spent_the_last_couple_of_years_making_gta_6/",
    "date": "2026-10-18T15:10:32.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Bullsht999 [link] [comments]"
+  },
+  {
+   "id": "rd-1sbyrqv",
+   "title": "Game Informers started shipping!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x951l6/game_informers_started_shipping/",
+   "date": "2026-10-18T14:48:49.000Z",
+   "source": "r/GTA6",
+   "summary": "My brother works at the Post Office and sent me this earlier today. Looks like they’re starting to ship it finally! submitted by /u/BIGRolyXL [link] [comments]"
   },
   {
    "id": "rd-45scm8",
@@ -983,54 +1031,6 @@
    "date": "2026-10-17T13:55:42.000Z",
    "source": "r/GTA6",
    "summary": "I paint everything using acrylics. Artist name is jujuras. submitted by /u/Goylianos [link] [comments]"
-  },
-  {
-   "id": "rd-1e8nwar",
-   "title": "Its crazy how GTA 5 makes GTA 6 look like a PS5 game",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x8amdg/its_crazy_how_gta_5_makes_gta_6_look_like_a_ps5/",
-   "date": "2026-10-17T13:44:43.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
-  },
-  {
-   "id": "rd-9b4gec",
-   "title": "How far will Rockstar push the gym / body morphing system?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x8alpw/how_far_will_rockstar_push_the_gym_body_morphing/",
-   "date": "2026-10-17T13:43:52.000Z",
-   "source": "r/GTA6",
-   "summary": "Do we think Jason will be able to reach this level of muscularity? submitted by /u/superman_king [link] [comments]"
-  },
-  {
-   "id": "rd-1d5hi91",
-   "title": "Nice clear video of all the promo cars! Which is your favourite? All Credit to @Ernest_Tattoo1 on insta",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x870dj/nice_clear_video_of_all_the_promo_cars_which_is/",
-   "date": "2026-10-17T10:34:21.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/TimmyTurnersDealer [link] [comments]"
-  },
-  {
-   "id": "rd-1lqi006",
-   "title": "We can all agree right ?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x86bdj/we_can_all_agree_right/",
-   "date": "2026-10-17T09:52:06.000Z",
-   "source": "r/GTA6",
-   "summary": "We can all agree that rockstar games has never missed with their music choices . Im so excited to just drive and listen to the radio in gta6 submitted by /u/DietrichMann [link] [comments]"
-  },
-  {
-   "id": "rd-v1wnjs",
-   "title": "Jason and Lucia being a couple is the canon way of playing GTA VI.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x85bm2/jason_and_lucia_being_a_couple_is_the_canon_way/",
-   "date": "2026-10-17T08:48:35.000Z",
-   "source": "r/GTA6",
-   "summary": "I know Rockstar Games has basically said making the two leads a romantic couple is optional, but let's face it - and pretty much all the trailers have shown it - there is such thing this time as a pro"
-  },
-  {
-   "id": "rd-uonyri",
-   "title": "\"There's appetizers, main course and dessert to follow\" is this the main course or the dessert phase we are in?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x84tos/theres_appetizers_main_course_and_dessert_to/",
-   "date": "2026-10-17T08:16:14.000Z",
-   "source": "r/GTA6",
-   "summary": "Supposedly the extended look was the appetizer, would you this be considered the main course now? If so, what could we possibly have for the dessert? Marketing has really kicked into gear this week, d"
   }
  ]
 }
