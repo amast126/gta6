@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-17T23:17:38.483Z",
+ "generated": "2026-10-18T01:20:58.380Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-17T23:17:38.483Z"
+   "checked": "2026-10-18T01:20:58.380Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-17T23:17:38.483Z"
+   "checked": "2026-10-18T01:20:58.380Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-17T23:17:38.483Z"
+   "checked": "2026-10-18T01:20:58.380Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-17T23:17:38.483Z"
+   "checked": "2026-10-18T01:20:58.380Z"
   }
  },
  "official": [
@@ -231,6 +231,30 @@
  ],
  "press": [
   {
+   "id": "gn-1y5fenw",
+   "title": "Fake editions of GTA VI with \"discs\" have appeared - Chinese vendors noticed demand for full physical versions",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ05rRmdCeUNMbzFuLU9vTFJDRUUzc2xXMFRGRVprMWo3bTF1RlEyeUJzWXdBTlp0VmRMeFJxWFp3cU5TVHIzWUdUMDQ3ZkQtbmdBVU4wTksyQV9BQ09odHpZQkdOdl85T1V6VTJ5NjlVTUNHMXdjNTdvZ0Q2eE5YbzN3c2NzLW9sdk92ZlpSWURJalZWZnpway04Ylc5bHhaNmpKcmQtRUFDdW9ub1JGUEVPblhqWVBwRmJsQVRHdUxqQVo0d0VZdlFmUHF2elZydGdFcjdNamNtQjhBWFc40gHkAUFVX3lxTFBqTmpkTExjS0xZVThUd05Dbk9fdml2b19vWk5yS2FTZkZsQlZFXzlrbnB0U0I2d0hIa0RWLXZ5b3Jkbk1vUEhaclZzeGJid0JTTlQ3TlZGQUxoZnV6c3V2VWJTcFp5bjBoenBINEZJaENId2FJM0ZKUlVZNE1KQ3Y5LTJlMHJoaVdOWkMzRjhLdnVrM2dpcmE3Uzg0RzBsNXJVbl9jdU12WTJXdlR6Z2pXd2pEOTNkQzJlMFR2U0ZyOTl3SlJCckdvRW5WcUhQSXlQQkl5Vkxid3pFZzdKNzB1ME9BZg?oc=5",
+   "date": "2026-10-18T00:17:22.000Z",
+   "source": "iXBT.games",
+   "summary": "Fake editions of GTA VI with \"discs\" have appeared - Chinese vendors noticed demand for full physical versions iXBT.games"
+  },
+  {
+   "id": "gn-190q9fj",
+   "title": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2F4cHRZWjZYTGp6V2dTeUNjM1VlakFvYnpPQVo1N0Jmdy1WRVZwY25GWko4ZFdxdTlQbkZpTnMzdFJUay1aNEZmc2U3aUVubHJNRjhXdkYzcmZEb0k1c0pzbzgxVGpEVXZwNmpRcjFpdWx4VkVYTFVxelZEcVY0N3RCX2Y3eHZWTjFtSUFMSTQ5X2NvcDhwNmNrSTVTRFlSM2plalR4X25Db0taVVQ5YVQ0bEo2ZmNUNEpWSzkzRktwWWdW?oc=5",
+   "date": "2026-10-18T00:00:00.000Z",
+   "source": "Push Square",
+   "summary": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler Push Square"
+  },
+  {
+   "id": "gn-ft67w5",
+   "title": "'GTA 6' official merch is live, and it's already selling out: Where to buy",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnRrenQzLUk4MjExZ1AtaWVRbkdsV2lMOExfckd1cGRXblpBRkxmX1JQOE9MWUNzb3NzaEVEQkpXUFdFcFlUVkZubzlvWWdsVUs4VlR5T00xZjFmU2JxYk9vVDVxanlpdFNsTy1MczBic2lJMXhIeE9XRUo2Wk1pd0k5dHkyZw?oc=5",
+   "date": "2026-10-17T23:02:20.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' official merch is live, and it's already selling out: Where to buy Mashable"
+  },
+  {
    "id": "gn-1x8gwhm",
    "title": "GTA 6 Is Now Rated Adults Only in Every Major Market Worldwide",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRG5mVkR6TmNFV1lHYzBia0l6TWxwcHhic1NJMUJDVzR4eThYekZEM2VVWi1reHBwSFNiM01NcHNhRkFYSzRMTkRNTE42cHFtTEVBaFNhUXp5QmtEWUFpbUNCbk43RmhQSFVuRk9LMUU0MnI1TkJaemFCYnZDTXVPZE1TX09BdGgt?oc=5",
@@ -261,6 +285,14 @@
    "date": "2026-10-17T19:51:12.000Z",
    "source": "OpenCritic",
    "summary": "GTA 6 Has A Nod To The First Game That Could Hint At Jason And Lucia's Relationship OpenCritic"
+  },
+  {
+   "id": "gn-mawkp8",
+   "title": "Activision Snubs Zelda, Calls Modern Warfare 4 and GTA 6 “the Two Biggest Games of the Year”",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN1NueGNjSHJvY0hEbVM5emhfUTIyYVZlOWE0T0xSN3hBd2g0NkF2Y2lJYnJhUUxhVjFxYmIxdUsxNDBVaFpzWmFIdk00eTJFQmtCTlc3dDN1WjNuWlpnZHpIbDFGZTgwWERJOHBkTXROc0FxLU40UlRHLWVrUEF3UTdFUktjd3VN0gGOAUFVX3lxTE5nTXZyZVRDNlk2UTNNaXZRMW1XWF8tYVpGZzBvcHhud3pERVQ1bzN4OFU4WDNRRGpvWTBlLUQ2LUtqZHIyT3hsRkNFeTBhTjVBakM3WVgwSjJYYzJRVGg3dV9mczduY3Q4ZHBGQkhNaUhWRU9Ha2pXazZPOUJMYnpibHNWaTEzTnlMQWN1RHc?oc=5",
+   "date": "2026-10-17T19:30:00.000Z",
+   "source": "Wccftech",
+   "summary": "Activision Snubs Zelda, Calls Modern Warfare 4 and GTA 6 “the Two Biggest Games of the Year” Wccftech"
   },
   {
    "id": "gn-x9axtj",
@@ -349,14 +381,6 @@
    "date": "2026-10-17T12:00:01.000Z",
    "source": "LevelUp",
    "summary": "GTA VI Can Compete for Game of the Year at The Game Awards 2026, but It Almost Missed Out: Rockstar Shows It Wants to Win With the Game’s New Trailer LevelUp"
-  },
-  {
-   "id": "gn-ft67w5",
-   "title": "'GTA 6' official merch is live, and it's already selling out: Where to buy",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcnRrenQzLUk4MjExZ1AtaWVRbkdsV2lMOExfckd1cGRXblpBRkxmX1JQOE9MWUNzb3NzaEVEQkpXUFdFcFlUVkZubzlvWWdsVUs4VlR5T00xZjFmU2JxYk9vVDVxanlpdFNsTy1MczBic2lJMXhIeE9XRUo2Wk1pd0k5dHkyZw?oc=5",
-   "date": "2026-10-17T11:52:34.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' official merch is live, and it's already selling out: Where to buy Mashable"
   },
   {
    "id": "gn-dr1gh7",
@@ -685,33 +709,33 @@
    "date": "2026-10-16T17:35:09.000Z",
    "source": "OpenCritic",
    "summary": "Real Life GTA 6 Vehicles Are Driving Around Miami OpenCritic"
-  },
-  {
-   "id": "gn-ng94q5",
-   "title": "Ocarina Of Time Pre-Orders Are Currently Outselling GTA 6 On Amazon By Almost 6-To-1",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3RhUlFxV3dYdnhYd281UXdvVklzRDdCanB1MGhPZmJnR3VXU3Q5RDVUSnExNlI4ajlFZ1g1WDBZWlQ2RUJEM0xaMFFoYnpYSV8yWGU2QWh6NEVBUGZtRDhNUzdSb3pVeFp5TkN4clRUSmdKclQ4ZXNWcjVFRXA3dHBVWVlDV0JGUE95MVRmQXQtZWY5WnJkQ05QUmN3WlBwQW9LRmg2ZmlFZE1weDQ5amxhcFR1TmN0dXc?oc=5",
-   "date": "2026-10-16T17:35:09.000Z",
-   "source": "OpenCritic",
-   "summary": "Ocarina Of Time Pre-Orders Are Currently Outselling GTA 6 On Amazon By Almost 6-To-1 OpenCritic"
-  },
-  {
-   "id": "gn-b86q1d",
-   "title": "Behind the Scenes of ‘Grand Theft Auto VI’",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMHdYMTdveGktdUplQlNuaTRBSHF0bHpKWGdsQkUxci12Y05FR09FWVM1YXA1c3pMeTVaVTdLd3lkX1dydHMweWVIbXU4TkVXckp5R2ZqajFCV2hLLWdRRFZKbDJPM24zMWFuMi1RaW1vZ3Z1QzFMM0hYZlVoQUtHNEpjSHBDamJfWWdNU0R0VEg4YUV4MGZ1NUJWREROT0s3LWFrOG5WWmlSaWRiYmpMRVhGcWN5WTY2?oc=5",
-   "date": "2026-10-16T17:01:07.000Z",
-   "source": "Bloomberg.com",
-   "summary": "Behind the Scenes of ‘Grand Theft Auto VI’ Bloomberg.com"
-  },
-  {
-   "id": "gn-1ul2p4w",
-   "title": "Behind the Scenes of ‘Grand Theft Auto VI’",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdld6Nm5GdGtNZXNOazNfUEJkZVJrTi1LaWNsc0h2WkEySWpkcnNWVEMzLWNwWVdwOVUwUl9xaUNwdUtOUjNicmVER09OM3pwZm1vOVlfRU9sRlR3QnVaRlRFZnV2N1dRdjV1bkpSR0ZkUjhJamQ5UDBHRlFkUEl1cU9zUTdyeGdkSkxORllCQTB5QVdRNEhWdDlR?oc=5",
-   "date": "2026-10-16T17:01:07.000Z",
-   "source": "Bloomberg.com",
-   "summary": "Behind the Scenes of ‘Grand Theft Auto VI’ Bloomberg.com"
   }
  ],
  "community": [
+  {
+   "id": "rd-sjiw35",
+   "title": "had the day off, went to see it for myself",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8otso/had_the_day_off_went_to_see_it_for_myself/",
+   "date": "2026-10-17T23:52:35.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Dangerous-Writer-565 [link] [comments]"
+  },
+  {
+   "id": "rd-psnb0m",
+   "title": "Mark my words, this will be the most important car upgrade in the game",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8o793/mark_my_words_this_will_be_the_most_important_car/",
+   "date": "2026-10-17T23:21:39.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/ilikecreambuns [link] [comments]"
+  },
+  {
+   "id": "rd-q2wypw",
+   "title": "Enterable interiors",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x8nm3b/enterable_interiors/",
+   "date": "2026-10-17T22:54:08.000Z",
+   "source": "r/GTA6",
+   "summary": "I have no knowledge of game development so please don't shoot me. I keep seeing how insane it is that there are going to be so many enterable interiors. I'm obviously super excited for this aspect, bu"
+  },
   {
    "id": "rd-1u5hze",
    "title": "Exclusive images from Vice City airship",
@@ -1007,30 +1031,6 @@
    "date": "2026-10-16T17:39:11.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Zestyclose-Force83 [link] [comments]"
-  },
-  {
-   "id": "rd-b78bib",
-   "title": "Rockstar showing out in Miami Beach !",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7m3im/rockstar_showing_out_in_miami_beach/",
-   "date": "2026-10-16T17:15:37.000Z",
-   "source": "r/GTA6",
-   "summary": "The cars came from star island ! submitted by /u/juniorcruz12 [link] [comments]"
-  },
-  {
-   "id": "rd-ff0obh",
-   "title": "New Logo/Emblem for Grotti aka \"Ferrari\"",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7l4yg/new_logoemblem_for_grotti_aka_ferrari/",
-   "date": "2026-10-16T16:39:17.000Z",
-   "source": "r/GTA6",
-   "summary": "&#x200B; If you zoom in on the emblems on the side and wheels of these Grottis, you'll notice that the emblem now resemble something more similar to an actual Ferrari yellow emblem, in comparison to p"
-  },
-  {
-   "id": "rd-1a1sdyq",
-   "title": "GTA voiceovers throughout the years",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x7jako/gta_voiceovers_throughout_the_years/",
-   "date": "2026-10-16T15:29:50.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/gulagsurvivor2019 [link] [comments]"
   }
  ]
 }
