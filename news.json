@@ -1,28 +1,28 @@
 {
- "generated": "2026-10-19T00:44:05.034Z",
+ "generated": "2026-10-19T05:38:59.554Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-19T00:44:05.034Z"
+   "checked": "2026-10-19T05:38:59.554Z"
   },
   "youtube": {
    "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-19T00:44:05.034Z",
+   "checked": "2026-10-19T05:38:59.554Z",
    "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 102,
-   "checked": "2026-10-19T00:44:05.034Z"
+   "checked": "2026-10-19T05:38:59.554Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-19T00:44:05.034Z"
+   "checked": "2026-10-19T05:38:59.554Z"
   }
  },
  "official": [
@@ -232,9 +232,97 @@
  ],
  "press": [
   {
+   "id": "gn-1iequd1",
+   "title": "Rockstar is not stopping work on GTA VI. What's happening before the release?",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnZWZG5JaDlmNGtuSjM0bldlZ3JjbTl0N09UTmxCd2tCRG9vSVJMbmg3aTRzRVh1akNVMlE3SjU2Z3duREhxRERlVzVwaHY5UVRBeU11NGN1N2VkdUlPNnBlWmRHRU9ib2J5VF85UVZmaEpIQlVvQTlJZVhjbTZYWFlxMEVBQlNMcXJtSGFhbGlzT09QbXJUX3RzRDROcXY3MHRyaHB2QS0tNm5MbkhNeHZDRmlvQdIBuwFBVV95cUxPbDdYS0hCVHFMaHQwekFlTUpmQVc0Y3R1TnNVcjZFTk1DQ3dydGxiYl9HZi04QVJXcVNFY0RaZmdRMHdWWGxHMlA2QmpJdEZCYWM1M09tOG1nZTZweUJuNWxRY3VMUGZ4T09TT0hpdFhKRHRzeUlHZmNqTDM1MnZNMUdhQ3BkRDBULS1oejlPRVd4MXkyNElrM1VUMm96SUJKejVDbnRLUFhhRTY5dVl2Q2xoV2Jyam52YkZJ?oc=5",
+   "date": "2026-10-19T04:03:06.000Z",
+   "source": "iXBT.games",
+   "summary": "Rockstar is not stopping work on GTA VI. What's happening before the release? iXBT.games"
+  },
+  {
+   "id": "gn-25xwr3",
+   "title": "I Compared Every PlayStation and Xbox for GTA 6. Here’s My Verdict",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWDcxVmZKOERCcmdWbDF1V0hxRmlVS2xmY0xlb2dVLUEzMDR5M292eHBrUU9oOGl1RjNPWVVsOU9QMWxZbzVkRHRLbFd0ejJ0QVlGQlhGX0k5UkxsdVVrUnE2RXdJNnhURF9EckRPOTNFRll6ZElETVF3YVdtY1hjQU52Qk9sNnVvNk16MjRJNzBRNlJ6WE5ITW15THI1OEgxY2x5RElzamlyenpILWNPT0hGcTBnSGdo?oc=5",
+   "date": "2026-10-19T03:53:49.000Z",
+   "source": "PCMag Middle East",
+   "summary": "I Compared Every PlayStation and Xbox for GTA 6. Here’s My Verdict PCMag Middle East"
+  },
+  {
+   "id": "gn-ws07ov",
+   "title": "GTA 6 Leaker's Latest Effort Appears To Flop As Group's Meme Coin Declines",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGhzMjJJd0ttd0tGVjdDMmtPSWNyLWhMTVh0c2tCanZQcEFaQjFMTy0wanBYTkM3MFRFNlYyMEJ0ZHk4dFVsWnhuRDRjNklJV1hHUndSaU1jY3o5NEM4dW5mOENibWdzMHNZZkdub0I1V0lFRjVaamJZQWNxTHJta0NWajhyZ2ZoZExxcEJpRUloS1lSVDRIUUtUdGpYN1Yxd2FrVllVb2lvU2dYQllpUg?oc=5",
+   "date": "2026-10-19T03:46:45.000Z",
+   "source": "PCMag Middle East",
+   "summary": "GTA 6 Leaker's Latest Effort Appears To Flop As Group's Meme Coin Declines PCMag Middle East"
+  },
+  {
+   "id": "gn-zsxhtq",
+   "title": "Rockstar Rebuilt From Ground Up for GTA 6: Will Wall Street Buy It Nov. 19?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYkNKUUJZTU1BeGJIREpqYjhCSUdDaHFpNkVTc1NyV25LSTZOeDBReTJ5QlZ6N2o0YmVTTG45TmlVTlJyVlRGVTNydXdUMWJNUVozWEg2UVI3UndwOHJDemtrZHU2a25Bd3RXWFFJVWY3SHpQdnZhTzNrS3Jhb1VXYmZWN1dVd3gxS2ViS1plYk80Uk9RSjA5dk5R?oc=5",
+   "date": "2026-10-19T03:40:00.000Z",
+   "source": "Yahoo Finance",
+   "summary": "Rockstar Rebuilt From Ground Up for GTA 6: Will Wall Street Buy It Nov. 19? Yahoo Finance"
+  },
+  {
+   "id": "gn-3zige6",
+   "title": "Rockstar Rebuilt From Ground Up for GTA 6: Will Wall Street Buy It Nov. 19?",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9FVnNjUzdOZEMwSDdaYXRfSzRWYmw3Sy15YlhHWHBqM3Z4ME1SRkVjZk5WUU9WT0V0Z1JMRDdIa0haZlg3NUdyWlVNQkNLenJFVEJ4MDF2ekkyOGl2ZEg1T2ozQQ?oc=5",
+   "date": "2026-10-19T03:40:00.000Z",
+   "source": "BeInCrypto",
+   "summary": "Rockstar Rebuilt From Ground Up for GTA 6: Will Wall Street Buy It Nov. 19? BeInCrypto"
+  },
+  {
+   "id": "gn-1j4ypyj",
+   "title": "GTA 6 Has “Hundreds” of Little Interiors to Explore, Says Rockstar",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbm9nanpvRmotTzdUT1BaRVhMNVZCYVRPSWZjVU5fYmlfMXprd3lBQTFGa3cxTDhXUHplZFVldENGMS1mT0tZVmwyVFRMOFQweWpxa05fZkhTaGhMVVM1MzNpNEZyeTBuNmtHNkJqRXBrckZhVHQzQk9nc190UDlaUTJEbF9TX3JzZnRlR0thRQ?oc=5",
+   "date": "2026-10-19T02:53:39.000Z",
+   "source": "GamingBolt",
+   "summary": "GTA 6 Has “Hundreds” of Little Interiors to Explore, Says Rockstar GamingBolt"
+  },
+  {
+   "id": "gn-ocai8f",
+   "title": "A remake of the GTA VI release trailer, filmed in GTA V, has been released - a curvy replacement was found for Lucia",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUHo1SlVnVUZiV1lwZzVlT2FtektKYnRRa2FpQ3VKMTRsd09RbEVPOTlZZjlWVndzOExEem14Wjlya1hGRHFHVlEyVEZzYk9pM1VvZHdoZzc3T1c2UUdYWnkxZnlMdTluWUNIVmVUUWpyZDFKTGllNFV1THJVaDBQa3YyV3lvOGtFWkpnS0I3ZEtYZ2tmT3hBVEZNaXppV1UwRzVPRHRJQko0eVlNOGtvekM1LVFnQ3NzajRkbkRXQ2lqQlY5VEZqbC10TWIzd9IB0wFBVV95cUxOS2pBSklMd24yalpnVUZNUlhVNlBJeVJBTmJSVUl3aVdOa0hDenZYcjNma1lwUk5ZZmZodmU2RzBicjNOTzhkdENHU1VUTWx4dWxkX2pLNS0yNHJzcFZ4SXdnOE9sakd0dUFKQ1JoMFpFeFhkcmtfeWpkR1c4aGlyaUtsbzZwNFRvcjl3QldLUmZzbktCOVM3SFFiRjBvb2l6eTBvWjVpZmVZdzEyOHFVby05YXdScG1Gd2ZHdWsydF9sMXZreTRvOHl0cFFzZmtKSWFV?oc=5",
+   "date": "2026-10-19T02:52:43.000Z",
+   "source": "iXBT.games",
+   "summary": "A remake of the GTA VI release trailer, filmed in GTA V, has been released - a curvy replacement was found for Lucia iXBT.games"
+  },
+  {
+   "id": "gn-1a40xht",
+   "title": "GTA 6 Fans Are Knowingly Buying Fake Discs That Do Not Even Work",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR2dyaXE1YU9pU2ljRHNKM202LVZTcWJuWmdkQ2R3T1l4OVl0NzN4QnU1d1lBSFEwWGtock9kS1A3OUV3cDZ5MDdYUUxYTkdqMXozdVhxQkJKNHFsVzIybGt2aHBSRzVLVmtheUF5SkVCeGw4aXY2UkE0Z0VNTV9UbHJQS3h3N3YtS0E3eEExeHFsdkc2QlFzMThB?oc=5",
+   "date": "2026-10-19T02:00:57.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6 Fans Are Knowingly Buying Fake Discs That Do Not Even Work GTA BOOM"
+  },
+  {
+   "id": "gn-14q01xz",
+   "title": "While you guys wait for GTA VI I'm thinking about how to reenact the France riots in Call of Duty Modern Warfare 4 🔥 Writer: Oliver",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSE55Q2VZdDB5cU1zbm42anhZM3VrRUJ6Q1huLXlNdjM1Qkl4ZmJUbFJMQkZwUXhzTGJNWi1nZlhwNHZEelR2YVE2OFFiSFhWX1UtdVB3RW9ER3VvWUNmVEpacEoySjZ2WDFEbQ?oc=5",
+   "date": "2026-10-19T01:53:25.000Z",
+   "source": "X",
+   "summary": "While you guys wait for GTA VI I'm thinking about how to reenact the France riots in Call of Duty Modern Warfare 4 🔥 Writer: Oliver X"
+  },
+  {
+   "id": "gn-u4h0iv",
+   "title": "GTA 6 on PC could release just months after console launch as fans point to deadly PS5 emulators",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTFlKTXdmRk9WdkVKSHBYWG1CV1l3dG9rMVBJS01yOHRpekZwelU0T2x0ZnRwMXRfVmZvZDQwZXV6clozcXI2eHhvNjFfWkZ2NzROdjEyY1hjeFBpek5wR08wb1NyeUdRZUlURDNiSlR6cl9NUmtRYmI4WHNQYkZQdmt4SkZtSWRvOWNJaUl3dk8tbmdiNm9WTFAwbHBjb0pxeXJqektuZzlMOS1KUjlHU2RtdmRnT0cwNzI4c2hNbzRDQ0R5OFJERzVxdUhZWDF6X3dsM2VtNHFlcFJBNUE?oc=5",
+   "date": "2026-10-19T00:53:14.000Z",
+   "source": "TweakTown",
+   "summary": "GTA 6 on PC could release just months after console launch as fans point to deadly PS5 emulators TweakTown"
+  },
+  {
    "id": "gn-dki7vn",
    "title": "GTA 6: Can you cheat on someone with a video game character?",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TM0dKbkczM2ZZc0I5eFRCWUdUWC01NEhuOGs5NzJsTHRtRUZUUDhjS2pQMURHV0VXRGhja0FiOUZWWTU2VjI4dTRLV3NrdXprLU5oN3hvbW03VVo5UWc?oc=5",
+   "date": "2026-10-19T00:09:25.000Z",
+   "source": "BBC",
+   "summary": "GTA 6: Can you cheat on someone with a video game character? BBC"
+  },
+  {
+   "id": "gn-11qoxfc",
+   "title": "GTA 6: Can you cheat on someone with a video game character?",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54ZDBScmwxZ2UzWEFUMkZyZGc4RTNjczhSZVlycXRvSkJXei1rSGpwNzJJZDdJczZPNkxWX2dFNUt3YU5fWWhQTERkZkp3VVBfUVhGSzlDVXZXbzg?oc=5",
    "date": "2026-10-19T00:09:25.000Z",
    "source": "BBC",
    "summary": "GTA 6: Can you cheat on someone with a video game character? BBC"
@@ -270,6 +358,14 @@
    "date": "2026-10-18T20:05:00.000Z",
    "source": "The Motley Fool",
    "summary": "Should You Buy These 4 Video Game Stocks Before GTA 6 Arrives? The Motley Fool"
+  },
+  {
+   "id": "gn-mcdgjw",
+   "title": "Should You Buy These 4 Video Game Stocks Before GTA 6 Arrives?",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40WU1CUEpGcFFxbV81STFRTEY0eG03bjE1dkMzVHRBclU3aUdrNnJSS1NnY25GQ0RubXhGYTRKdWJGSkdjLVBoZ04zWmQ3cXNleG1TcVVtTjlETlpvMmd1ZlRaei1qY01TM2ExQnJydWxyanRRaXc?oc=5",
+   "date": "2026-10-18T19:25:00.000Z",
+   "source": "AOL.com",
+   "summary": "Should You Buy These 4 Video Game Stocks Before GTA 6 Arrives? AOL.com"
   },
   {
    "id": "gn-krq7iu",
@@ -614,105 +710,25 @@
    "date": "2026-10-17T13:18:49.000Z",
    "source": "FileHippo",
    "summary": "October 17 tech news roundup: Grand Theft Auto VI launch trailer released, WhatsApp debuts guest caller feature, Google to highlight links prominently in AI overviews FileHippo"
-  },
-  {
-   "id": "gn-1463lot",
-   "title": "Forget GTA VI, Call of Duty: Modern Warfare 4 looks absolutely unhinged And brutally fkn savage Writer: Ian",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9relFnTTRYNFJ3SFc0aU1RMVFzWDBpS0VTSVdDLTE4WHN6a3dCQzNxSFpYU04wWlUwdmhJUlJfcjZJZ1ZmYl9MNEk0Y3l4bEVVbGRrMi13WU5OOFFnS2lvN2ZwUUJHZ3VXZEIybQ?oc=5",
-   "date": "2026-10-17T13:00:00.000Z",
-   "source": "X",
-   "summary": "Forget GTA VI, Call of Duty: Modern Warfare 4 looks absolutely unhinged And brutally fkn savage Writer: Ian X"
-  },
-  {
-   "id": "gn-1aoh1q3",
-   "title": "Donald Trump’s White House shares another GTA 6 AI image, now with “flying cars”",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZG5jMTJHX2Q5czFHdkZJRUxPOFZTQ053d1VLU210VVZldHI4MkgwUkpJQkhMc3d0QWlreENfaGw5c2RkX0MzUE9SS3NmdkJDd3I2b0FzVTdQc01xTUlUeU9xUjNncDhQeW1jZGlTQXBvNDlpMDZhR01WQ2xSTFU5TA?oc=5",
-   "date": "2026-10-17T12:26:12.000Z",
-   "source": "AOL.com",
-   "summary": "Donald Trump’s White House shares another GTA 6 AI image, now with “flying cars” AOL.com"
-  },
-  {
-   "id": "gn-uoclch",
-   "title": "GTA VI Can Compete for Game of the Year at The Game Awards 2026, but It Almost Missed Out: Rockstar Shows It Wants to Win With the Game’s New Trailer",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNTVpORkNmR3o1dkM5UFlMNW5IUDgycFpjZExlYnZXRGluTWR6elo4bk5fa2FwNVBRQS1jOVZ3TTFxSFJRRmo5OF9mbzJpdWZhMzBfTGVBa19HSTVONEcteUs5eEtoQlc1VDM0c1dXTlM0eDRtV2xFUFdQNXNDNFM2NHRucUo2cGJvdWRqdlVMdE5ZX1pmTm5qMFpfbmNGei04LW9jYnI0TGV0bGFEYVN3TzlWbnZUb3VLQXZpdVQtR25RMGdRVnNGdXNndEZVXzl2MXhTX2x0S2RxWkVXb0c0Rk1FSW5yN1plMFVxaHY0SVl1MnFhekhxUXdOS0ktZFY1TVBhbzNRNVJiQ3M?oc=5",
-   "date": "2026-10-17T12:00:01.000Z",
-   "source": "LevelUp",
-   "summary": "GTA VI Can Compete for Game of the Year at The Game Awards 2026, but It Almost Missed Out: Rockstar Shows It Wants to Win With the Game’s New Trailer LevelUp"
-  },
-  {
-   "id": "gn-dr1gh7",
-   "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjluZXN3Zlp6ZG1jNXlYYWZxSk5ISTUtQzQ0NHNES1JIU0QxWllWMjRGUXl0b1pPMGNXelVtUVB6YjVJZ1BvN1JUeVczSlBnZUhlRXA0dWdlNk1PRF9SNDliNkh6QkVGSEphOGUtbFFFSGRKQk1JbWh3bVl3RnRBY1BTM1M5SXVYNzNlVXBEWUNuY2pI?oc=5",
-   "date": "2026-10-17T09:30:00.000Z",
-   "source": "Yahoo Autos",
-   "summary": "White House Mocks GTA 6 After Tesla Flying Car Reveal Yahoo Autos"
-  },
-  {
-   "id": "gn-1u85e3j",
-   "title": "White House Mocks GTA 6 After Tesla Flying Car Reveal",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sTWtBZHNIaWFoZ0RCMTdBRGQ5b1NOTkVUWkdzREV4OG1INXd2VDJfVnJxYkFvZXZKMGNTV0RiZ25NaHRTZkRyUm1WeV9jUHlSUGhDaWVMZGlfUDBGSi1fRnNIOGFjY2hJY3c?oc=5",
-   "date": "2026-10-17T09:30:00.000Z",
-   "source": "BeInCrypto",
-   "summary": "White House Mocks GTA 6 After Tesla Flying Car Reveal BeInCrypto"
-  },
-  {
-   "id": "gn-d9t44f",
-   "title": "Flying cars arrived before GTA 6, Tesla's new Roadster sparks meme",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWhqenVzWVN1d2V6cVotTjRyanZwUjBMSkRwVGg4YkNtVW92TkxMS1FoWFlpUDUwd0pka0s5MmsyVTVKZ0RQZS1lVW1Gbm05N056cVRBUTlPZnNwUGxWX080SmRYRzJzN3lSVW1IX2ZpSndUZ05ISzZ1TWluczNwcHl5YlR5cm16OGpHb0pxVDFOdGIybERkU2dMVlgtd1pzeGJNRWNhQ0FzZ9IBpgFBVV95cUxOTG96RG9ua0JsV1RuUGh2WmpEak9wUEN5QXBHUGQwTTBPQ1VtSXVIbVlEc1pCUHZyY2F0R2l1YmRBWld1YVVidm53WnROb2lwSWtOQjQzYWpBUkk2QnVaUWhiRDB4ZVMtSDZfSkxzRDVZSUFUN3hPdnh4cjhLQmRwakJEb0N2TEtYaG1fM0lqcUo4dEFESG03dTRXeEROVkJNWFB3Umx3?oc=5",
-   "date": "2026-10-17T07:57:50.000Z",
-   "source": "The News International",
-   "summary": "Flying cars arrived before GTA 6, Tesla's new Roadster sparks meme The News International"
-  },
-  {
-   "id": "gn-aik2tz",
-   "title": "GTA 6 IS COMING! 🎮 LOOK: Rockstar Games releases a new trailer for the long-awaited \"Grand Theft Auto 6,\" showing a glimpse of apparent storylines for the game which takes place across Vice City. Courtesy: Rockstar Games/YouTube Read more: https://w",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRFdUaUxXaWhBRGtlc0otenRQUXBwNjEtMWJZYlRRa1JsQ0dDMnFXTjRUXzJQcWhFQUQ1ekltbDZVdGJKM2x1M1BJS1hCbFRYVDEyRi1QSFRDVFI4SjI5Z2JLbjI1RUVrdjFkczUyRUV0NjNYS3loMEZyanp6T0Q1Q3VrdDVESzNSUXNnamhneXNnM19XUGxMX0wwSkxCek9Ja0Y1WU5YOGpIVnhmaE90MmpiYVFXWnBfay1MVjZSZTl6WkdaNWR0N2JEbmlHVDFBVU9R?oc=5",
-   "date": "2026-10-17T07:26:55.000Z",
-   "source": "Facebook",
-   "summary": "GTA 6 IS COMING! 🎮 LOOK: Rockstar Games releases a new trailer for the long-awaited \"Grand Theft Auto 6,\" showing a glimpse of apparent storylines for the game which takes place across Vice City. Courtesy: Rockstar Games/YouTube Read more:"
-  },
-  {
-   "id": "gn-1nd55wt",
-   "title": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BRDdDRHpXN1hlN0p4YnZWOXlGQ2F5TTN5NkJuQXJJdk43OUhTZTZ6MkFkdUZ0RXdEc3FMaEEtd2dLQklkbHFpSlRWaUZJcW1FOEdkWldpVm9qQ3ZiOExz?oc=5",
-   "date": "2026-10-17T07:00:00.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' preorders are live: Where to buy for PS5 and Xbox Mashable"
-  },
-  {
-   "id": "gn-1vgb6kf",
-   "title": "GTA VI is almost here: 6 things to know before Rockstar’s biggest release yet",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMk92ZXdkSkRPS19naUlPQVdBb0xBYXF0b1lMX3NJMGN3dmlsY294bkZuelhiTkkwYVJMSFgwb3dKVklBX00wVGwwRGhVV3h2YmJ6cEptcFRsZENvOWdWUDZIaEdoTnFzWGNTck5hTHhiMEU4UnRjVnlHS09Qd0pTclNrbmtib0JEbzY2c1lkbzQ4RWZnejM4UnNhZFFkOXluTHFWMDJIV3NaODYzd1p6cmhicw?oc=5",
-   "date": "2026-10-17T05:42:47.000Z",
-   "source": "Open Magazine",
-   "summary": "GTA VI is almost here: 6 things to know before Rockstar’s biggest release yet Open Magazine"
-  },
-  {
-   "id": "gn-l4tu47",
-   "title": "Rockstar Drops GTA VI Launch Trailer as November 19 Release Nears",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2tnT0NncEJwR0lZUWw0RTEyS2VfN2tONlIyQ2Vjb01HLVQ4dFNjQWpLazVhUS1RZUt1R25ZdlVVUXFucGJTc1ZER0FRV081akNtdVhxSW5ESGttckdqTGVJbE9kZDFEeml1YmFna2JweUNVdVllWE5BWDBkUUNLS3VxOHRSajJ3d2g4dE9B?oc=5",
-   "date": "2026-10-17T04:18:12.000Z",
-   "source": "eGamers.io",
-   "summary": "Rockstar Drops GTA VI Launch Trailer as November 19 Release Nears eGamers.io"
-  },
-  {
-   "id": "gn-28pu4g",
-   "title": "Seller lists GTA 6 PS5 disc in physical Ultimate Edition with a major caveat",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3VLREZURjVsTHRMc2FrcWpKUTZudFAzX096S2dNM1lLS250X2NnWWwtY2p6NjNPellRYXNsWEdKQnVNZzl0R0U4NURlLXZIYzRsaGdBbU9pOHR2eV9MWUlNNW9xU1Bma0ZRdUVUMDJCeFU2M3BjSkszNHdjODFwc3d0X2cwNWJvS0NfaUJTWVJVS1BHR2s0TDdoR3d6aWZzNUhKZm1FazI3b3Y5N202VU94VGFvX1g1OXFnSnB3?oc=5",
-   "date": "2026-10-17T04:10:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "Seller lists GTA 6 PS5 disc in physical Ultimate Edition with a major caveat Notebookcheck"
-  },
-  {
-   "id": "gn-1bcioo8",
-   "title": "Cars from GTA VI appeared in reality - supercars in the Vice City style were spotted on the streets of Miami",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWGNZeTlhN0IzM0F3R2wweUU3dWNyejJ4N1k0REZZV215bV8xNktKbnlvVEQ5X3hGaDJaeEFtYnhEUzFFVy1OTkJ0OEs5U1M0dTYzcUc3emc5b0ZxbC1wendpWUg1YVZ6YWxvMlhtaEpNMHR5bkV2aXQwRFZIR2JuNmRLeVRqOUdZRmlWMFQtQVU1TVdRelZPcy1RZkNlTE81cG9KemxUdW1QX2RvY1E1QTNFOHdPR2czRmxuR3lzVVhMb3pua3YwelU1d1R1cG9I0gHWAUFVX3lxTFA4NElBdjNESkZ1eGZuUGdXVlRRaE5Db1ktV09Dckw5RTlkcDdJenprOXdWZXBLaHlqNGhuX3lZSDI3TG1iUG9JNWdVWDIzWmx6UDh0Y3NHTWF3b2k0aTZsUGxyVFhuZWw1SmJveHZkdzZXRmc1RVRWVjQ0UFZzS3U3Z3dzMFRFZHNoMmRQS2NfbXpacDBCczRQdmdoelZsRV9kdFBoVGcwQUJYWnRJektkdGRiSHJEZU9iR2JOeWJsaDFEc3drWUhLbVplU2lRbEpyUERQNGc?oc=5",
-   "date": "2026-10-17T03:58:27.000Z",
-   "source": "iXBT.games",
-   "summary": "Cars from GTA VI appeared in reality - supercars in the Vice City style were spotted on the streets of Miami iXBT.games"
   }
  ],
  "community": [
+  {
+   "id": "rd-1xk0wai",
+   "title": "GTA VI Advertisement in South Park",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x9nfwn/gta_vi_advertisement_in_south_park/",
+   "date": "2026-10-19T04:31:11.000Z",
+   "source": "r/GTA6",
+   "summary": "Flipping through the channels yesterday and came across South Park, had it on for a minute or two, and noticed in one scene the marquee had an advertisement for GTA VI. R* has got their hands in on ev"
+  },
+  {
+   "id": "rd-1ny5hq4",
+   "title": "Strauss was right about the marketing!!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x9lpxu/strauss_was_right_about_the_marketing/",
+   "date": "2026-10-19T02:56:42.000Z",
+   "source": "r/GTA6",
+   "summary": "The more I look at Rockstar’s GTA 6 marketing, the crazier it gets. We’ve seen game companies spend millions on trailers, billboards and ads, but Rockstar is doing something different. They’re literal"
+  },
   {
    "id": "rd-13gdgz6",
    "title": "Jason Shreier's sentiment on GTA6 Realism",
@@ -1016,22 +1032,6 @@
    "date": "2026-10-17T15:56:36.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/peqc [link] [comments]"
-  },
-  {
-   "id": "rd-183ssxp",
-   "title": "Small details and interactable fire alarm switch?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x8ddf1/small_details_and_interactable_fire_alarm_switch/",
-   "date": "2026-10-17T15:42:31.000Z",
-   "source": "r/GTA6",
-   "summary": "Functioning fans/HVAC on the exterior of buildings, nice immersion. submitted by /u/ImpossibleCarpenter5 [link] [comments]"
-  },
-  {
-   "id": "rd-1emo91l",
-   "title": "Digital Foundry Launch Trailer Tech Breakdown",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x8cyx7/digital_foundry_launch_trailer_tech_breakdown/",
-   "date": "2026-10-17T15:25:42.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/PapaXan [link] [comments]"
   }
  ]
 }
