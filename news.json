@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-18T22:47:59.674Z",
+ "generated": "2026-10-19T00:44:05.034Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-18T22:47:59.674Z"
+   "checked": "2026-10-19T00:44:05.034Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-18T22:47:59.674Z"
+   "checked": "2026-10-19T00:44:05.034Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 102,
-   "checked": "2026-10-18T22:47:59.674Z"
+   "checked": "2026-10-19T00:44:05.034Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-18T22:47:59.674Z"
+   "checked": "2026-10-19T00:44:05.034Z"
   }
  },
  "official": [
@@ -231,6 +232,22 @@
  ],
  "press": [
   {
+   "id": "gn-dki7vn",
+   "title": "GTA 6: Can you cheat on someone with a video game character?",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TM0dKbkczM2ZZc0I5eFRCWUdUWC01NEhuOGs5NzJsTHRtRUZUUDhjS2pQMURHV0VXRGhja0FiOUZWWTU2VjI4dTRLV3NrdXprLU5oN3hvbW03VVo5UWc?oc=5",
+   "date": "2026-10-19T00:09:25.000Z",
+   "source": "BBC",
+   "summary": "GTA 6: Can you cheat on someone with a video game character? BBC"
+  },
+  {
+   "id": "gn-ym3mek",
+   "title": "The GTA 6 distribution size on the PlayStation 5 console may exceed 200 GB.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVQ0OEN6RWVMNktzSzBoNmtpakdOdXlYdDBIQktjenh5T2N6azU5VDhLUUU2Zmk2Ulc0UEJTRWpuT1MwbzVyZXNoeXExemF2OUQ1VkpSUEI4Z2pIWU55SjBjdllkS0Z2S2NOM2dOOGJjY2htc3F0LVdqSUUzODJDc1Vsb05POGoxVHVyQXQxbnNONU13QWlDNEgtTmhxSnRrZDdMOU0yT3VOdw?oc=5",
+   "date": "2026-10-18T23:31:21.000Z",
+   "source": "GameGPU",
+   "summary": "The GTA 6 distribution size on the PlayStation 5 console may exceed 200 GB. GameGPU"
+  },
+  {
    "id": "gn-1k3g3jv",
    "title": "GTA 6 is coming. Grab this Samsung gaming monitor for under $100",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbFJyQzlXZU5nWmZXUDNLb0pSRDBONGpXUGNIaVYxTHJDaVp3T3NlSUt5YkJMMjhDQXZZTEkxWG5vbkh0dC1uMVpQQm5yTEt6WDRWeFRRMWhhZHIwTzZyUE5iVERNQVNoVGdiSDE5dlRUWTVpM2FrX0RLeTVOUXB4N0pYRWpWWXR0bXlQVGhTekI2Rlo4blcwNGxNUVNGdG42eFNxNFVNSWNUSlZZTGd5LXY2MkYyNk0?oc=5",
@@ -250,7 +267,7 @@
    "id": "gn-l022l7",
    "title": "Should You Buy These 4 Video Game Stocks Before GTA 6 Arrives?",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0Fra3F1cm0tbzhsNWVRR0RIUjc0bHhPMDhDUlc2TjhocGxtTUEyRmJlS0dKZnhFbTgwQWRSMlBEQUNfRlVMOHdRRXE4ZnV1elA4QnhDOTJTSUJ2Uk1ueS1KbENXWm1NTWtLeVFMeXlDV2xnTTV0STBCZkFzMExzZEtSX0hGWU9sS2htY25mS3FuUQ?oc=5",
-   "date": "2026-10-18T19:42:50.000Z",
+   "date": "2026-10-18T20:05:00.000Z",
    "source": "The Motley Fool",
    "summary": "Should You Buy These 4 Video Game Stocks Before GTA 6 Arrives? The Motley Fool"
   },
@@ -280,11 +297,11 @@
   },
   {
    "id": "gn-w13l7",
-   "title": "Even Local News Is Warning Miami About GTA 6 Scams Now",
+   "title": "Local TV News Just Joined the Fight Against Fake GTA 6 Early Access Scams",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSXlQelBMdVZGSXFKMEhMR2U4eXIyN3JudDhIbHhiWXBYdTJvLUVPV3hPbFpCWlJzOGJ1NkNnTDNZMzBmSS1rcGZJYXJGcWdZQ1Y0M0daRFpWMlhsQmNITnZ5SVVsZ1NMckhDVVcteElnbVdMaVRIYmFidGNfa2c1aXhINjllZVhscW53?oc=5",
    "date": "2026-10-18T17:00:26.000Z",
    "source": "GTA BOOM",
-   "summary": "Even Local News Is Warning Miami About GTA 6 Scams Now GTA BOOM"
+   "summary": "Local TV News Just Joined the Fight Against Fake GTA 6 Early Access Scams GTA BOOM"
   },
   {
    "id": "gn-owmy0h",
@@ -693,25 +710,17 @@
    "date": "2026-10-17T03:58:27.000Z",
    "source": "iXBT.games",
    "summary": "Cars from GTA VI appeared in reality - supercars in the Vice City style were spotted on the streets of Miami iXBT.games"
-  },
-  {
-   "id": "gn-1a9s7lj",
-   "title": "GTA VI has 8 times fewer pre-orders than The Legend of Zelda: Ocarina of Time - players noticed Amazon statistics",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ2ZtMlU3TUNRVWtwbUNYT0c1T0VIU25UYUk1emkxanVFd1VmSDJBTHFlamYyVkd3Wjk3cXFPa1hhRzlwSzdsandoMUtGNTc4SDFudzBEM3Y4SWQ5QlF6Z2pmQkVkYjMxcTJZNXhXYm0wVVZkb05RMzB4c2lHQVdqRDEtcEYyN3RhODdOOHY5Nms0Yy1ieEZ6Z09WUHl2NzZ6SU1XSHNtS3hjbHlVaDBQYmlZWFhPdHFIcTJHZTV3V2JIa1BaR2pnQXN3MW1PYTNiV2JnT1hIanJtaUNaUWtrdnNPVFNUQjZa0gHuAUFVX3lxTE03X2VMdVR2WmVoYkJIb0k2ZDQ5c19FOTNqaExDbGtGR1VrdFcwNlhqYXMzanRnb2FHQmJjZEVZSGJ4U2Q5RHg0SEJfRk1sdUhPM1l3Zl9jcjdVR1pnZldkQk13NTNKT2M4cXFzS1BqQnlCQTdOS3ZWQnBSSXNVaHBfVElESk00dkNueUlMQnROem82M2ZMYTdXN3BtV2Q5ZGpuZXNOUmMwYURXbHZuTGZDNWpvZVZXV21GZXI2TFdwalFSV1dZVlpjcEVGM2tDUEZxNlFNWmxBWHZRdlhXLU9ZOUs3ZkgtX1pfNHhKdVE?oc=5",
-   "date": "2026-10-17T03:52:06.000Z",
-   "source": "iXBT.games",
-   "summary": "GTA VI has 8 times fewer pre-orders than The Legend of Zelda: Ocarina of Time - players noticed Amazon statistics iXBT.games"
-  },
-  {
-   "id": "gn-6veyzi",
-   "title": "GTA 6 on the base PS5 uses 1440p with 4K upscaling without PSSR and QSSR",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3IzWjhaeGcxU3FkelRsTTd0NDR1UFQzMms3VE81T3IwZkwzXzB4bnZuS2JSTWxGYUpJNDItWFFFVUEtaXRILTJ2bTdkdTZ2N2ZVYzhyXy1TMUs0SGVCdVVxSUtUVGRiekZRZ1V1UU9JMXdfcmp0VGlMOGxpS19WMHRXcjlRSFF2LTBDbHVWcTNZVUVzX0lGdGw1a1RXOFV0bWVaYTE4UktEdGtfcWhURw?oc=5",
-   "date": "2026-10-17T02:45:55.000Z",
-   "source": "GameGPU",
-   "summary": "GTA 6 on the base PS5 uses 1440p with 4K upscaling without PSSR and QSSR GameGPU"
   }
  ],
  "community": [
+  {
+   "id": "rd-13gdgz6",
+   "title": "Jason Shreier's sentiment on GTA6 Realism",
+   "url": "https://www.reddit.com/r/GTA6/comments/1x9gtzd/jason_shreiers_sentiment_on_gta6_realism/",
+   "date": "2026-10-18T22:52:42.000Z",
+   "source": "r/GTA6",
+   "summary": "In his most recent video discussing GTA 6, Jason Schreier expressed some concerns about just how realistic the game looks. He wondered how he'd feel knowing that a huge part of the GTA experience invo"
+  },
   {
    "id": "rd-1gwr604",
    "title": "My pics of the GTA VI tour bus in Chicago ❤️",
@@ -1023,14 +1032,6 @@
    "date": "2026-10-17T15:25:42.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/PapaXan [link] [comments]"
-  },
-  {
-   "id": "rd-k3r60z",
-   "title": "At my local Walmart",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x8c91n/at_my_local_walmart/",
-   "date": "2026-10-17T14:55:56.000Z",
-   "source": "r/GTA6",
-   "summary": "This may/probably isn’t an official marketing thing. But thought it was super odd. An “NYC” taxi advertising for vice city. I’m in Canada and the cab looks like a movie or tv use vehicle. Just thought"
   }
  ]
 }
