@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-19T22:33:17.663Z",
+ "generated": "2026-10-20T01:30:06.571Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-19T22:33:17.663Z"
+   "checked": "2026-10-20T01:30:06.571Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-19T22:33:17.663Z"
+   "checked": "2026-10-20T01:30:06.571Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-19T22:33:17.663Z"
+   "checked": "2026-10-20T01:30:06.571Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-19T22:33:17.663Z"
+   "checked": "2026-10-20T01:30:06.571Z"
   }
  },
  "official": [
@@ -231,6 +232,30 @@
  ],
  "press": [
   {
+   "id": "gn-1gadx62",
+   "title": "Zelda Ocarina of Time Switch 2 Release Date vs GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SU0w1SU5ReVlRSUpxQktrQjh6MjhNdU5lbmtxWkpURHdTcFZqc3lVRXBGY1VCM2Ixa1BKTlZmTHZxRmJwSDNFUFYwd0F0YTVNWmtlMS1JNWd1TU1UcVdJMnVqZmhTdDdoZXBOOER3?oc=5",
+   "date": "2026-10-20T01:06:32.000Z",
+   "source": "shattered.io",
+   "summary": "Zelda Ocarina of Time Switch 2 Release Date vs GTA 6 shattered.io"
+  },
+  {
+   "id": "gn-uisdum",
+   "title": "GTA VI Is Exactly One Month Away. The Final Trailer Looks Awesome",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uQldTX3N3ZkxGN3J0cTBxbkZkc2cxT3dXY2gxdWhqRGdZeVBSZlZpb2tLZlpOTVMwYnFIQTJvOXZaV1pXdC1lNTA3YU9TeExJMGw0SllqR0l5M3RURnNCQmN6bFhnNjFRVDZlNERndEhuRk5Va3Nn?oc=5",
+   "date": "2026-10-19T23:48:04.000Z",
+   "source": "Motor1.com",
+   "summary": "GTA VI Is Exactly One Month Away. The Final Trailer Looks Awesome Motor1.com"
+  },
+  {
+   "id": "gn-3qxp6d",
+   "title": "GTA 6 November 'rival' drops 9/10 free sample on Steam for a limited-time",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd1lSUDhNeDB5aTljdWJXakN5ejQ0UUdUYmZldmN5T05tdGVKeC12WVFFSmFxWFJDbThqLUpzZGdXUGp2ak12bmFOenNwQXI0Q25teTJ2c1Y3SHRtU1g4bnFpUG1HZk5MRlVJRmVWVWRvTkhIMmMtRG5zYmFMSmNRY1J3SExneVF0My12cHpHVl9IN1ZrNXNiZFRIc3A4dWFfZnBndGN6NkxxTkhjUHVXY3owQ3I0RmR2X0hLcVgxSmc3enNaekQtQ0l3bzY?oc=5",
+   "date": "2026-10-19T23:00:37.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 November 'rival' drops 9/10 free sample on Steam for a limited-time GAMINGbible"
+  },
+  {
    "id": "gn-1gp327w",
    "title": "You Can Watch the Newest ‘GTA VI’ Trailer One Month Before the Game’s Release",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjJ2V3NGNVhRMk5kMUlOSnh0VVZESzRzU1h5ZTNWblNYdnlCdlZrczBsRG5UYW9DaWRJOVF3bDhMeXpncXFQZHNjTHd4YjlyOEFRRlVsaklvR1pQOHpxb2g4bmdLM1ltR1gxcTRqM0VFdUZWcktobVo1ZFZHNXMwdjg5NHg5Tk43MU9tZXpGbEJFUjBlbnVQdW95U0E?oc=5",
@@ -423,14 +448,6 @@
    "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
   },
   {
-   "id": "gn-188xgct",
-   "title": "'GTA 6' on PC: What we know about the PC release",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10QjhQM24yRWpMQ2hDQzlxOVN4d0tVWmdyTy1HYi1GbXZHU0w0ZEY5UTRZcFdXcWFUd1NPRUVpbzRVM1RMOHlOZl9RVGc3a2Q3RzJaWUxEdllMQ21QNlFKdFVBR3RRdm5Fb3pkTW5hT2l3Mzg?oc=5",
-   "date": "2026-10-19T16:30:24.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' on PC: What we know about the PC release Mashable"
-  },
-  {
    "id": "gn-7d9pl5",
    "title": "GTA 6 Online: Is There Multiplayer at Launch? Everything Confirmed So Far",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnFHVzNmczFWWHJzaE16eURRcEU5M2dtQnRHSFRHRndZbXdNT2tXVS1ZYTh4c0gyTUtNVjBsVEQ0N1diYXVsbUFrT0J4NTBlVnZNMXN0ZGJidld2Wlp6OGgzQ0xoS2F0ZFFWakwtX3RqNnNiYXY4cFluOUpQYWlNQUxocTczNUJYX29XdUw2UDV3ekVQOHJwRTl1WGhuZjNtSTBkZmxndENOYjJQWWc?oc=5",
@@ -453,14 +470,6 @@
    "date": "2026-10-19T16:01:19.000Z",
    "source": "Mashable",
    "summary": "'GTA 6' reportedly has realistic sweat. Here's how it works. Mashable"
-  },
-  {
-   "id": "gn-uisdum",
-   "title": "GTA VI Is Exactly One Month Away. The Final Trailer Looks Awesome",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uQldTX3N3ZkxGN3J0cTBxbkZkc2cxT3dXY2gxdWhqRGdZeVBSZlZpb2tLZlpOTVMwYnFIQTJvOXZaV1pXdC1lNTA3YU9TeExJMGw0SllqR0l5M3RURnNCQmN6bFhnNjFRVDZlNERndEhuRk5Va3Nn?oc=5",
-   "date": "2026-10-19T15:41:28.000Z",
-   "source": "Motor1.com",
-   "summary": "GTA VI Is Exactly One Month Away. The Final Trailer Looks Awesome Motor1.com"
   },
   {
    "id": "gn-1j82lfn",
@@ -671,14 +680,6 @@
    "summary": "Justice Creates Original Score for GTA VI and Unveils Star-Studded Collaboration Talk 99.5"
   },
   {
-   "id": "gn-pk4igz",
-   "title": "'GTA 6' is sold out on Amazon despite being a digital-only game (updated)",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XODNxRy0wNDlWNmgwODhiSDhRaE91bGdrT1hBUC1EblJUUFlldERRaWt2S2RPOUs3akJuZWNGajl4WjNpOXFFT21VbnYxWTNnV1d5OTRxX0pQS2haVXNzbE1pYnc3X3FsM04zSl8tSkpsZw?oc=5",
-   "date": "2026-10-19T08:03:00.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' is sold out on Amazon despite being a digital-only game (updated) Mashable"
-  },
-  {
    "id": "gn-u3izla",
    "title": "‘Miami-Dade County is not Vice City’: GTA 6 is taking over Miami—and dividing the county",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTE93RDBTTFhmcm1nZFg4c21ObnRETEpiRHRfSDVwdWthOHhMTHFwNk41MW5mYWRzU3JobHZNUmNiQThPMTBVYk5PNHFmOE93VHJ6NE9tczkyWGhlQ1hER1NBWE5Ma25JZG9WTm84QVRqNzBSbDZpNWE0QVJ0QUtfVC1ESmZYanJXcGhnZzJ1NFE1U1Y0clZR?oc=5",
@@ -712,6 +713,30 @@
   }
  ],
  "community": [
+  {
+   "id": "rd-1ptjeuq",
+   "title": "A genuine thank you to everyone working on GTA VI.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xaej11/a_genuine_thank_you_to_everyone_working_on_gta_vi/",
+   "date": "2026-10-20T01:01:26.000Z",
+   "source": "r/GTA6",
+   "summary": "As we come into the final stretch before release, I just wanted to take a moment to show some appreciation to the developers, artists, writers, designers, programmers, animators, and everyone else at "
+  },
+  {
+   "id": "rd-1m667nr",
+   "title": "Some pics of South Beach Miami for all of you to enjoy, almost there :)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xabcnk/some_pics_of_south_beach_miami_for_all_of_you_to/",
+   "date": "2026-10-19T22:36:49.000Z",
+   "source": "r/GTA6",
+   "summary": "Planned to visit Miami before the game releases, coincidentally as you all know Rockstar is advertising all around Miami. I particularly enjoyed the west coast customs cars for vice city, they were sh"
+  },
+  {
+   "id": "rd-1rsv1dn",
+   "title": "Beer ads outside Monty’s Coconut Grove",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xaaxvy/beer_ads_outside_montys_coconut_grove/",
+   "date": "2026-10-19T22:19:26.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/bbqbb [link] [comments]"
+  },
   {
    "id": "rd-99qna2",
    "title": "I hope Rockstar stashed a chainsaw in this building",
@@ -1007,30 +1032,6 @@
    "date": "2026-10-18T15:33:25.000Z",
    "source": "r/GTA6",
    "summary": "With them releasing the launch trailer so early, I feel like that's it for trailers on the game and we'll be getting other information for the next month. Stuff like the Score, maybe about the animal "
-  },
-  {
-   "id": "rd-1c26281",
-   "title": "I spent the last couple of years making GTA 6 inspired renders in blender out of pure hype, and it feels unreal knowing we’re finally playing it next month.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x95khv/i_spent_the_last_couple_of_years_making_gta_6/",
-   "date": "2026-10-18T15:10:32.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Bullsht999 [link] [comments]"
-  },
-  {
-   "id": "rd-1sbyrqv",
-   "title": "Game Informers started shipping!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x951l6/game_informers_started_shipping/",
-   "date": "2026-10-18T14:48:49.000Z",
-   "source": "r/GTA6",
-   "summary": "My brother works at the Post Office and sent me this earlier today. Looks like they’re starting to ship it finally! submitted by /u/BIGRolyXL [link] [comments]"
-  },
-  {
-   "id": "rd-45scm8",
-   "title": "On November 19th",
-   "url": "https://www.reddit.com/r/GTA6/comments/1x94dpu/on_november_19th/",
-   "date": "2026-10-18T14:19:43.000Z",
-   "source": "r/GTA6",
-   "summary": "It's almost there, stay healthy guys so that we can all get to play this masterpiece submitted by /u/Successful-Comb-4487 [link] [comments]"
   }
  ]
 }
