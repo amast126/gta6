@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-22T05:10:21.146Z",
+ "generated": "2026-10-22T10:24:47.922Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-22T05:10:21.146Z"
+   "checked": "2026-10-22T10:24:47.922Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-22T05:10:21.146Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-22T10:24:47.922Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-22T05:10:21.146Z"
+   "checked": "2026-10-22T10:24:47.922Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-22T05:10:21.146Z"
+   "checked": "2026-10-22T10:24:47.922Z"
   }
  },
  "official": [
@@ -232,10 +231,106 @@
  ],
  "press": [
   {
+   "id": "gn-ie2uuj",
+   "title": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmpqTDRwdnhrQjhvOGNoUjV2VDIxY0V2Sm8yc0VIZmpxQ2E1aVcyZnN2M2x4VUNsSTZVVjc2UUoxa2NPWWplbjRWb0ZuN01ZNEhrajM0a1NFa3QxLWdiQ1M0RGVqeV80d2ZJQWlqRXlSME5uUFhyYUFlbjREc2VlOWd4Y0o1N3g3Q3FHVXhJOTBKSjhBU1pYdDZvcjJJazlaVW95UlJmQ1RMRlZZZnpHQk81cnNOTDF3VXc?oc=5",
+   "date": "2026-10-22T10:17:11.000Z",
+   "source": "Big Country News |",
+   "summary": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack Big Country News |"
+  },
+  {
+   "id": "gn-14uap2p",
+   "title": "Stealing a Car in Every GTA Game (From Grand Theft Auto to GTA 6)",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXdYQ1JrSkJVQVBDMWUxQWdFcGJOZjF4ZGNHcHl5Uzh6TVRmektlX0kyMmtYdzd1aXlIeWNlNF9GX0ozc1pBWHhGNjJJSlRIZmNBQVN4ZGVkVE5PUUZmMGcyM2hENXd0aVF5TFdjcC1SdDNoREs0d2diOWFSa1Bjd29od2dVeTVLMmFYYXdrbmQ0SWU1VkpjRWhWNldDTkhQWWtSZ1Z0S3gtbWxWSHc?oc=5",
+   "date": "2026-10-22T10:01:27.000Z",
+   "source": "IGN India",
+   "summary": "Stealing a Car in Every GTA Game (From Grand Theft Auto to GTA 6) IGN India"
+  },
+  {
+   "id": "gn-1dtinax",
+   "title": "Stealing a Car in Every GTA Game (From Grand Theft Auto to GTA 6)",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDhYTkxfb0F6anU1aFZPOE1tbExsemhXUlR5ck1LRjIxd3dpZ2dLdEljT3JYX2hZVk9KczZwV2xxU0RsVlV1X24tX1hxd1pwci1EX1BEcFRsSnN5c0xCb2hSY1pPeHBsMlU0N0NvcWRvNkhXNVowNm91N1l1T0EwUmVSMldER0gwQ2xsQXpycnNGd2Fs?oc=5",
+   "date": "2026-10-22T10:01:27.000Z",
+   "source": "IGN",
+   "summary": "Stealing a Car in Every GTA Game (From Grand Theft Auto to GTA 6) IGN"
+  },
+  {
+   "id": "gn-1pspxsz",
+   "title": "GTA 6 Marketing Now Includes Real-Life Burger Shot & Cluckin' Bell",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWG0tQnk3WGl0MzBzbFJ6WGg0RWlKWkZmd01qeFNCVEN4NGQ1eGtrbjV3a0xWYXlfY25HTHFpRWZOc2VaQUR6TWg2MEoyNllpV25vZWRHTDF0ZkVyMXdLVjBOT3VrMDVHcjd3U2MyVUdxWE9ZallIS09mWWRtZVhtVmFVVENSQmpMbDI4UjFRTC04bFRrdmc?oc=5",
+   "date": "2026-10-22T09:56:47.000Z",
+   "source": "Insider Gaming",
+   "summary": "GTA 6 Marketing Now Includes Real-Life Burger Shot & Cluckin' Bell Insider Gaming"
+  },
+  {
+   "id": "gn-ko64lv",
+   "title": "Man Fired After Leaking $4M GTA 6 Vice City Ads [2026]",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56dGxBVk81b0E4dm53N0xxX0JWTUY4dThSNDI3a3hOMGlMd1lfeWE3S1EzMEl0Yk9pSmNnNFhzT1NCY3JRcnR4cFZCbmVjbDVLOGtiNFN1X0d1aVpaQjZ0bDVlZDRFdmdsc01QdDQwQUxUbTFpekQw?oc=5",
+   "date": "2026-10-22T09:52:16.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "Man Fired After Leaking $4M GTA 6 Vice City Ads [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-17nuer8",
+   "title": "GTA 6 sick days could cost employers as Take-Two cashes in",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWEV1cll6MXRZWG1JLS1LTXRobDFnOHlrVDFvR2VGLXpDQVB1Q1hqV2JpY1hZR05ZX013TkVTbW5VcTU2ZzJ3M1VCeVpUaUVqd2U5Q0hLRVA0VU1YM05QclBYVVI3a1pQOVpQWFIwREg0RGFUdkhTdV9EVnkwN2RqSnNB?oc=5",
+   "date": "2026-10-22T08:03:00.000Z",
+   "source": "TheStreet",
+   "summary": "GTA 6 sick days could cost employers as Take-Two cashes in TheStreet"
+  },
+  {
+   "id": "gn-10ql19x",
+   "title": "'GTA 6' Achieves Milestone With Its Preorders, Making History Ahead of Its Release",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVZIVjROdzZmV08tb0VEZW1CTUdRY09Hek9VTFdCdkN0WG9nZ0ZhMWkwVVRjSmVKeEFXYXBxcFBMWURPVkJSdDJJazVRcjFnaWJFTkhvS0FOS3lwOFJGdzA1UnZ3UGpZM1AzSFdoZHBFZGJwOFhIcFJsTGVvREtNcnhOaHJPSXRFWnl0c0lOMEowUnBuWFVaUDhwMzRBWEpaSXdZ?oc=5",
+   "date": "2026-10-22T07:00:30.000Z",
+   "source": "Player.One",
+   "summary": "'GTA 6' Achieves Milestone With Its Preorders, Making History Ahead of Its Release Player.One"
+  },
+  {
+   "id": "gn-1mu0zz1",
+   "title": "GTA 6 fever has brands doing some very weird things",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXRpdkcteUUxUUo3eWdqQXZiZXBiVnVxak0xd3lLUXZJRFlVaWRkX2tfMl9BQTVYc0NWcGxVU0lBSGQ3a1Z1S1R6aDhKa2lGeGNmZlE5VUdpQk83Zy1oRnVmbWFKYzNXS3Vkak9VQl9rS2RfOXo4QVpuZUFGSTFIQnExQloyYWhLU3dlTDdyb1E5VWxSWk41bVNNVVVyV28?oc=5",
+   "date": "2026-10-22T07:00:00.000Z",
+   "source": "Creative Bloq",
+   "summary": "GTA 6 fever has brands doing some very weird things Creative Bloq"
+  },
+  {
+   "id": "gn-1b4kagf",
+   "title": "GTA 6 Gameplay Guide: Wanted System, Focus Ability, Criminal Profile & Key Mechanics",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaURZMUtQWHNET21lNFJoNDgyVHdEWDhqRllSVVpnYmE1c3pNT0xoNVh4R0pVbk9UVU8zemFSNTJYYmx2N3ItMFBGR1FJWW4tT1lPTE8td2s2Nm15aHRxcF9tZTA3MDdlY3F3OUwxdnQycnl5dHRPNnpNNDdGd2VyNDBhOWtyQ29qOGF0SEdDeDlRTUpIbFVncnh5eWF2SVNmXzk1Qk94WjBwa01aeVcyU0pR?oc=5",
+   "date": "2026-10-22T06:45:28.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 Gameplay Guide: Wanted System, Focus Ability, Criminal Profile & Key Mechanics MMOEXP"
+  },
+  {
+   "id": "gn-vmt28v",
+   "title": "GTA 6 News Roundup: PC Release Reports, Miami Marketing Takeover, and Latest Updates",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0RheEJ4X2ltbUhXbTNFZnZFT2dRa2VRa0N6dnJDb1lOOUdSQld0MzVHdG1VSTAyNHdiOXhiazY5MDBDZXBHc1VVOGpNTk1qeEVNWWdnWjFkLXVLdEV3OGlEQVQyMHdpZXNKNDVMeFlmeVdkUlFVakdTSTRNeTI4V1B4eWN2bXIwM2dxOE1WNi1OYzFKcWFLNEFVNGpGUW5wWlRzUHBmSGdaSjRQTWhmTDJOLVY?oc=5",
+   "date": "2026-10-22T05:51:15.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 News Roundup: PC Release Reports, Miami Marketing Takeover, and Latest Updates MMOEXP"
+  },
+  {
+   "id": "gn-xn96fw",
+   "title": "Will GTA VI Make It to Switch 2? Interesting Vacancies Noticed Online",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0RRcGluc0Q2OU5XbnBtRTU1YjdrTFhQVEJBeXNUQVAzMEVmRlRON3JnZng5N2R5NHI2bUtHSDRQUmhEZ2tIQ2pmWnhDV05oaGlXMUhoa3ZORVZnNWYyUndyVWRKd1BuaDNLSG1EbVBibGFWSmJMcFh0SldMWllaUkNkQjloTkRuNFNOLVltZ3JWX0RZVUlxT05VdktWcmRMSWtTbUxWZERFWXdQ0gGyAUFVX3lxTFBzUm9JMF9CSk10Sko3azlfdXBBNUNrbzZxSWE5Q0ltQi00Nk9La01tZnFXcTdySXE4MTlIdUsyVjJzMGM2QjktQl80Vm83NF80b0lsX0FyZXNVZWp5UUk3dDhHTHl5S05GcG5vLW5nQmt1Znpzdm5QZkZIbE9Md1B2RExGUjdGOXVQQmFsSm9rZ0RmcmZyaU10MDlGNjQ0QTU1dGJZbEtMU3NXMGtqbDNWYlE?oc=5",
+   "date": "2026-10-22T05:37:25.000Z",
+   "source": "iXBT.games",
+   "summary": "Will GTA VI Make It to Switch 2? Interesting Vacancies Noticed Online iXBT.games"
+  },
+  {
+   "id": "gn-15gmlnn",
+   "title": "Rockstar Turns Miami Into Vice City With Ads For Brands That Don’t Exist",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OWnctVFFpaEN3MmtSaFhWb01aaG1XQ19XY0t1bHJmRGdremliaWJJeFAwV0FmTFJWTnk3SEVwczljTTBtdWl0Nm1iNm5yLU5sblViSFpTbEdwbURJclRTWDFlMU9Cajg?oc=5",
+   "date": "2026-10-22T04:19:45.000Z",
+   "source": "WeRSM",
+   "summary": "Rockstar Turns Miami Into Vice City With Ads For Brands That Don’t Exist WeRSM"
+  },
+  {
    "id": "gn-vnoqbh",
    "title": "GTA 6 Has Already Sold 6.45 Million Units",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBEVnhPeG1fYjVHUktwSUFxNW5vbVppUUc5Vk96UjY5S2dKX2xtRm5oLXdQeFJyT3J5UUJadTZLYXJUM2drd3AzbTF4VGlWYUF2QXJUMmZwWDBYT3RtejcwOUFkdVExSGtJVjJpOVBHT1NVNWo1?oc=5",
-   "date": "2026-10-22T04:06:56.000Z",
+   "date": "2026-10-22T04:06:24.000Z",
    "source": "eTeknix",
    "summary": "GTA 6 Has Already Sold 6.45 Million Units eTeknix"
   },
@@ -289,11 +384,11 @@
   },
   {
    "id": "gn-1ltqk10",
-   "title": "Rockstar's Forgotten 1999 GTA 2 Short Film Hints at a Real GTA 6 Trailer",
+   "title": "Rockstar Already Made One Live Action GTA Trailer, Back in 1999",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1BvRC1oRElZVUV0Z2IxNjBWYjNPcXJydnBOMzhLZ1F4eDlWYk41NDNKRFB3d2stZjFaNkRTS3JpbERYNlMyTXVxRDMtT1BMMVRJY3A3MVZZeklPS0VSWHZFTlJrSmRIUHZIeHpBTGpndFRoSGlGUWlabWJwU0FQNnNLcGdkWTdPSlc0SXZ3cnQ4bHlqend3Sg?oc=5",
    "date": "2026-10-22T02:10:49.000Z",
    "source": "GTA BOOM",
-   "summary": "Rockstar's Forgotten 1999 GTA 2 Short Film Hints at a Real GTA 6 Trailer GTA BOOM"
+   "summary": "Rockstar Already Made One Live Action GTA Trailer, Back in 1999 GTA BOOM"
   },
   {
    "id": "gn-1vjc1l2",
@@ -310,14 +405,6 @@
    "date": "2026-10-22T01:53:13.000Z",
    "source": "Happy Mag",
    "summary": "Daft Punk reportedly declined GTA 6 soundtrack before Justice took the offer - Happy Mag"
-  },
-  {
-   "id": "gn-15gmlnn",
-   "title": "GTA VI Turns Miami Into Vice City With Fake Brand Ads",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OWnctVFFpaEN3MmtSaFhWb01aaG1XQ19XY0t1bHJmRGdremliaWJJeFAwV0FmTFJWTnk3SEVwczljTTBtdWl0Nm1iNm5yLU5sblViSFpTbEdwbURJclRTWDFlMU9Cajg?oc=5",
-   "date": "2026-10-22T01:37:06.000Z",
-   "source": "WeRSM",
-   "summary": "GTA VI Turns Miami Into Vice City With Fake Brand Ads WeRSM"
   },
   {
    "id": "gn-11yihuj",
@@ -449,11 +536,11 @@
   },
   {
    "id": "gn-1bs9yi0",
-   "title": "GTA VI Budget: $1.5B AAA Gaming Cost Crisis [2026]",
+   "title": "GTA VI’s $1.5B Budget Exposes AAA Gaming’s Limit [2026]",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rZDZEbko3VmxVdFZvRkM4XzljUlVlakdTUFE0T0NubkdZUFNmUElZSDB1RGs1bUhRaHlNMGhTNnBTMXRuZFdlcmlLUUNCSTIwWVJfaVE2VGxlaW9Lbm5zbDBoT1pUSDBDVVFiTg?oc=5",
    "date": "2026-10-21T20:13:16.000Z",
    "source": "https://tech-insider.org/",
-   "summary": "GTA VI Budget: $1.5B AAA Gaming Cost Crisis [2026] https://tech-insider.org/"
+   "summary": "GTA VI’s $1.5B Budget Exposes AAA Gaming’s Limit [2026] https://tech-insider.org/"
   },
   {
    "id": "gn-xll3ee",
@@ -486,14 +573,6 @@
    "date": "2026-10-21T19:23:00.000Z",
    "source": "IMDb",
    "summary": "GTA Online Officially Confirms End Of Era Ahead Of GTA 6 IMDb"
-  },
-  {
-   "id": "gn-g0ttj2",
-   "title": "Gearing Up for GTA 6? This $1,200 Roku TV Is the Fastest Screen I've Tested",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamwyX09vQ0JRNy04LUU0dXdRdG9QMHJuY0tZNkIxR09Obld1bTRpc3JFWElGT1hRS2pMMFFXemRTUDZGdHVuRmVnYUU1dWVQaFZFX0ktel9QaTJtakZXSkNEdUFaZ3F2VElqZkZTRzBVRmZMeFBlcUdfNVRHQ1k0LVdQbGlBQk9Ma3dSczR0U2tULUtpMG16M2hPWjFoaGNwVzJ0Mmd6ZE1XZw?oc=5",
-   "date": "2026-10-21T19:20:05.000Z",
-   "source": "PCMag",
-   "summary": "Gearing Up for GTA 6? This $1,200 Roku TV Is the Fastest Screen I've Tested PCMag"
   },
   {
    "id": "gn-9l8p5m",
@@ -630,89 +709,17 @@
    "date": "2026-10-21T16:03:19.000Z",
    "source": "NME",
    "summary": "Daft Punk reportedly turned down ‘GTA 6’ soundtrack offer before Justice said yes NME"
-  },
-  {
-   "id": "gn-1wfxvdf",
-   "title": "GTA 6 Leaker Cyberleek Threatens Full Game Release",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLURQSkcxYjdWbG9jajY0cmE5ZlN5VGxvLU10YVQtVnBKVE0zQjctd1JiQTRnV2tEOG5YWEE4cjhBcXpGM0JXbHRNZ0FkT0EzRGZmWUYwQmdRLXozWXVDSW9RS3JfaXpxVF91ZkpieEF0UUtNS3ZyTFZrYnlodU9tUWxJTQ?oc=5",
-   "date": "2026-10-21T16:00:00.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GTA 6 Leaker Cyberleek Threatens Full Game Release Yahoo Tech"
-  },
-  {
-   "id": "gn-1sarvwy",
-   "title": "PlayStation Pulse headset lands November 19, the same day as GTA VI",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGQzbE9MMDRsbXZxbDNiOGlhN1pvWkhLZDRrQ09DX3BBd3JGbGlRQ2dNU2w1Q1hRMmFoSldpUWVsWlRVMkpZRXNmeHJxQ1BvWllabzFWZXF3YmE5SWhpdG9tYmsxNkYwRFpjMDRSYmFqd3VEM1Y1TEx4RU1UaThQNWJHbWVUMF80OXlkd0dBZzNkeDVpTGdHR0M5eVFIVWfSAaQBQVVfeXFMUFk4TDdDQm5YMlNmOWJsa19hajU2cFFTT2MyQnB0b0dUd0pSRWlPeWNFUHhLakRUWTRQc196VHZGUDhzSGtST01YV1FROWxhUkVTeVVoOUNiRnNENTlEdUQ0bjJXOV9WRVpqaXlqZkx1N3dfSUItUXZibFVyNlJyeHd3c0NFYlVvMms1VFliT1Zoa0ZVblJ3WGdTSWdEZWR1NXV1QnM?oc=5",
-   "date": "2026-10-21T15:48:58.000Z",
-   "source": "Gagadget.com",
-   "summary": "PlayStation Pulse headset lands November 19, the same day as GTA VI Gagadget.com"
-  },
-  {
-   "id": "gn-1i78iir",
-   "title": "'GTA 6' could cause $1 billion sick day as 1.5 million estimated to skip work: reports",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQmNfM3Q2eGV0QmtsN0UwamM1ZkNxWE9YeGFTZFNuWDFQX01wUFB3RWtQUWlYcWpUSTRPN014bTRBYkRjZFdoRmtqaVpHTjlPYjJiQnU1Y1pBc2R1MXFsVGNGb19JMXJMbzZGTTBadzY4RXZuLUlEVE5TVm5wT1g2YTJUeS04bXF0eTJMMWl5UE80NFFXeDBGNi05anRHNTV3RU1ZZmZB?oc=5",
-   "date": "2026-10-21T15:44:59.000Z",
-   "source": "FOX 29 Philadelphia",
-   "summary": "'GTA 6' could cause $1 billion sick day as 1.5 million estimated to skip work: reports FOX 29 Philadelphia"
-  },
-  {
-   "id": "gn-14mx8gg",
-   "title": "GTA 6 Sick-Day Bill: $1B Claim, The Math Explained",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rOHZEbUpRekdENGcxaGpkQnZFdUZSTVQ2bS10NHMtWUxhLTVSc0ZrZURQcndaQ1NEeGR6cy1XVzVJYllSUFFWYWJOSVF5dEw5cWthb2pBZHJUd3dLbFNCN0Q4eWNzQQ?oc=5",
-   "date": "2026-10-21T15:37:45.000Z",
-   "source": "shattered.io",
-   "summary": "GTA 6 Sick-Day Bill: $1B Claim, The Math Explained shattered.io"
-  },
-  {
-   "id": "gn-d35uka",
-   "title": "The Cheaper PS5 Is Finally Up for Pre-Order but There’s a Catch for GTA VI Fans",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFNFWVFlN2IycHVBQldTRjlWSW5FSFBjQ201WXRGcmFZRV83bmFoNldQcVJRMENrbGhvbXF2b1BEUDlpNmFVNk9WVHpvcXdQWVNhV1UxcGc1SjZ5Y3dZb1FhMTJ6aUJzbWd4bmNUdnFUb2Zra01zSHpIOE5KVlJIZm5mcXA1czljSlgtNkNuLXhWQ1RzU3RibUtXSHZkWFJOYnNsRFRpcUJNcUtYWi1nWQ?oc=5",
-   "date": "2026-10-21T15:29:36.000Z",
-   "source": "LevelUp",
-   "summary": "The Cheaper PS5 Is Finally Up for Pre-Order but There’s a Catch for GTA VI Fans LevelUp"
-  },
-  {
-   "id": "gn-15evml5",
-   "title": "Did Daft Punk say 'non', turning down an “unlimited budget” to reunite for Grand Theft Auto VI soundtrack?",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdnQzYS1Vc01JY2tXWmJES0I4NXpIV0VZZFI4WEItTXVxVUExVlZyQ2dYTG43dy1YanlKR293MVE3dUxFVjk0ZUFCdHpicUY0UEtMMG5nTWliYXNBNk9PX1g1Nm9TYjluY1I5VGpWdDhwTTJyeERJenl2d2xDN3dXODNKMDdqYzMxNnhQWUU5N2xwNGk0T2ZoUWs0clpyRUozVkZPSW5abkRvcjUzZzc3VWhtRGFKR0g3eExLc19Jdm1SNVZRTE8wWTFvSklac1hNZFBweDZmQVp2YXVxbmNUQlRwME0?oc=5",
-   "date": "2026-10-21T15:18:22.000Z",
-   "source": "MusicRadar",
-   "summary": "Did Daft Punk say 'non', turning down an “unlimited budget” to reunite for Grand Theft Auto VI soundtrack? MusicRadar"
-  },
-  {
-   "id": "gn-1v48rlh",
-   "title": "GRAND THEFT AUTO VI Cometh: Breaking Down the Launch Trailer",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TVTZjc2hEb0FXeW9HZkZ6NzlUaDFERVdCN0h1QVJrTUgwOHhNZWkyTGo5VTZZQ3pXNXRsQm5jMXphT1BLRXdaTS01akNMSjd4RU8yRVpzMlFkLWFRZ01OR3BvMGZjNEVfUE5kVnJyd0haTzZwazF0NUtKd2FQUQ?oc=5",
-   "date": "2026-10-21T15:00:06.000Z",
-   "source": "Nerdist",
-   "summary": "GRAND THEFT AUTO VI Cometh: Breaking Down the Launch Trailer Nerdist"
-  },
-  {
-   "id": "gn-1vrrl8h",
-   "title": "GRAND THEFT AUTO VI Cometh: Breaking Down the Launch Trailer",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnNoUVNDdXM3ZGVtWVdWemRydmtUTUEyTDJPNV8zUDhvVEpiWDFwQjJzWUVXcXZZVG9vRmhvQWZPbFJ0aFk1VnlyX2ZYSXhrY1d1dWU0WUhBOHdfX2Q3TUlEczFfa3YyZEpNbkVpVG5aaktOeVBGUFBKc1RiX1NZM0pNTXdMNjQ?oc=5",
-   "date": "2026-10-21T15:00:06.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GRAND THEFT AUTO VI Cometh: Breaking Down the Launch Trailer Yahoo Tech"
-  },
-  {
-   "id": "gn-azdmq9",
-   "title": "One of the best gaming TVs is $1,000 off: LG C6 OLED hits Amazon low ahead of GTA VI and Zelda release",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvQXlVRTl5eVJQTWVTdlVwVGJEdER3QXJBaWFyY042b2Z0RjFHUXBKRmtxZU1xemdHN2FDOHFPYzZwQ1E4ZWtXRHVJMzd4bmRWcEYyNFRpb0lDQXZHYmwtSE1naUZyTXQxY1NyT2drYnNRS2JMM09TdlktZw?oc=5",
-   "date": "2026-10-21T14:55:00.000Z",
-   "source": "9to5Toys",
-   "summary": "One of the best gaming TVs is $1,000 off: LG C6 OLED hits Amazon low ahead of GTA VI and Zelda release 9to5Toys"
-  },
-  {
-   "id": "gn-hzdoec",
-   "title": "The new PlayStation 5 firmware version 14.20 is aimed at preventing Grand Theft Auto VI hacks.",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdlp3NHZ1STZycWdkZnNKU3p6T1E4SG5FWG5NMWtxTFRwUGY3dXZJRGpEMVQyNWVlWHZvZ2VKeVhkYXRCcWpqUmpVVlRfaEZqaTZadi1SZmxKb25QMXV3Ykd4LV8tc0N1UlVwSldheWpJSUpuYTQ2TGpZTVdDVlJLLWpkQU1EQndmTXNMQjYtenVwcEd0a2NKOFVIUWxJQW0xcERXTnRVOThzUGh0dlkyT253REtBSkNFWWJ2NWVMMA?oc=5",
-   "date": "2026-10-21T14:53:59.000Z",
-   "source": "GameGPU",
-   "summary": "The new PlayStation 5 firmware version 14.20 is aimed at preventing Grand Theft Auto VI hacks. GameGPU"
   }
  ],
  "community": [
+  {
+   "id": "rd-l3chms",
+   "title": "Is this a reach?👀",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xc9iiv/is_this_a_reach/",
+   "date": "2026-10-22T04:59:58.000Z",
+   "source": "r/GTA6",
+   "summary": "Instagram account capture.la posted this. One thing is all of these cars have their counterparts in GTA. The Banshee, Couquette and the Willard. The BMW Sang Kang is in, (Han from fast and furious) lo"
+  },
   {
    "id": "rd-fc86yj",
    "title": "Cluckin' Bell in the Kaseya Center",
@@ -1024,14 +1031,6 @@
    "date": "2026-10-20T18:39:37.000Z",
    "source": "r/GTA6",
    "summary": "Taken from the Extended Look and the Launch Trailer. submitted by /u/Alex200496 [link] [comments]"
-  },
-  {
-   "id": "rd-nlwcsc",
-   "title": "Beer Labels for Pißwasser, Patriot and “No Mames Vice City” Discovered in Official US Database",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xb02wu/beer_labels_for_pißwasser_patriot_and_no_mames/",
-   "date": "2026-10-20T18:29:03.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Munkadunk667 [link] [comments]"
   }
  ]
 }
