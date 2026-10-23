@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-23T11:54:57.272Z",
+ "generated": "2026-10-23T16:21:30.647Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-23T11:54:57.272Z"
+   "checked": "2026-10-23T16:21:30.647Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-23T11:54:57.272Z"
+   "checked": "2026-10-23T16:21:30.647Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-23T11:54:57.272Z"
+   "checked": "2026-10-23T16:21:30.647Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-23T11:54:57.272Z"
+   "checked": "2026-10-23T16:21:30.647Z"
   }
  },
  "official": [
@@ -231,10 +231,98 @@
  ],
  "press": [
   {
+   "id": "gn-a3ld34",
+   "title": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0RQZm9wNGpUZEF1Nmpaa08yVEpwMjlPSE1zektWOFctZzBpRWFUOFN4WllFZlF0RmJlY1FNTnBHdG4xUThpMGRESjRReExHR3ZrU3k2ZjYtZVQyd250Y0FyNjZuMWZyR3M2eWozQ1l0bTJCbk5hZGd6RXZpdE9lSDVseFZwQV9wTkFLdHVnVWlIY1ZLOVE?oc=5",
+   "date": "2026-10-23T16:12:00.000Z",
+   "source": "41NBC News",
+   "summary": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion 41NBC News"
+  },
+  {
+   "id": "gn-uxlf9w",
+   "title": "Poll: Are You Taking Time Off for GTA 6?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExaREFHbXRZYVE4czFUYllEQ3Fhd3BZcmZQWmxpYkJmNVE2c0VsTlJ3MWFVWFVfYjlHd0I1ZXVxaXZ1Z3NQZ2gxeXhvbW1tZkEwYlpGay1NemktdmF6aHg4RnNYSlJvNTZBSVczY1RtUlB6eHZWSTJSQTRFRk0?oc=5",
+   "date": "2026-10-23T16:00:00.000Z",
+   "source": "Push Square",
+   "summary": "Poll: Are You Taking Time Off for GTA 6? Push Square"
+  },
+  {
+   "id": "gn-1hvvis",
+   "title": "GTA 6 Burgers Will Be Available In Florida Throughout The Year",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3FNWUo5b0ZHVUdNQmg3b3ZMRVdVSWhvRTlsU3JqbG9GX1JPR0dIdDJDYU8td2lVOGgtdkZrVVFJcXBxSjQ0V3hBeE1rMkJ4eUh1dGVITWZqS2xzOVBxNmVOSlBaTFd0N1Q3X3o0VlhJRFF3cGc1Mk5PbGNMaW9xcGlDYnN3VmhfSlE3UWlKRHM1N0JfMm5EM3JyOThBZw?oc=5",
+   "date": "2026-10-23T15:15:53.000Z",
+   "source": "GameSpot",
+   "summary": "GTA 6 Burgers Will Be Available In Florida Throughout The Year GameSpot"
+  },
+  {
+   "id": "gn-n5uhzi",
+   "title": "GTA 6 Is Almost Here – And I Still Can’t Believe It",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZWU1mNW1LOElBTW5iTnRucWJWTGpsS19WZVh3ZmFydG80X3phbnpGQXY2LVFnM21XYXctOE9hNlBzSm9qN3JpUnpyNkxuNXJDZ3Z3UmhjR3dXZzIycHR5dENkTmN1VFhtSGxUblc2S3g5c05PWTg4cWNJWQ?oc=5",
+   "date": "2026-10-23T14:03:15.000Z",
+   "source": "GamingBolt",
+   "summary": "GTA 6 Is Almost Here – And I Still Can’t Believe It GamingBolt"
+  },
+  {
+   "id": "gn-1jju2r9",
+   "title": "'GTA 6' reportedly has realistic sweat. Here's how it works.",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXE1d1VvNmxiak5TV0E3cUl5Qk1oR2VnN2dxc29HTHNIQzhJS3lqQmVnRmdZTHpNZmZTRnpGZU45cHlyNlVjVEFvai1GbUdCQUJOdTNxOFFLQW91V1o0YWVFV29JSS1NRGYyY1ZwcUVuME9ObmRWZjFuelJwdGtDcjk3b0MxZnc?oc=5",
+   "date": "2026-10-23T13:45:23.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' reportedly has realistic sweat. Here's how it works. Mashable"
+  },
+  {
+   "id": "gn-1ifbfac",
+   "title": "Rockstar Games Issues New Official Statement on GTA 6's Open World",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajNVTUc2SXBVblU2cHVkUFpwcGhsNW5pRjgyamxlR2JxTUd4TldneUpIN1hNRGVjb0J6YVVhT0NhMHZvZElaeF9zMm9uVEU4RktEYUl5eFl4ZmlRWHlfNUZYVTMwU0ZIS2N2WDdISUhvdk9ZakdIMFdhRHpvQlp0Z3JaY0lWTWpfaWFWR28zOEUzRGVnN3RPU2dJYU10ZHRM?oc=5",
+   "date": "2026-10-23T13:37:46.000Z",
+   "source": "OpenCritic",
+   "summary": "Rockstar Games Issues New Official Statement on GTA 6's Open World OpenCritic"
+  },
+  {
+   "id": "gn-tu3ysm",
+   "title": "GTA VI could cost US economy $1 billion",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRUVxSk5RdWF4NVpSNkZmSkNncm40M2s3ajdvYXdNOTNVRGZSX0V0S2dKSF80UUI2MUg0d0xkNTlTV09SdEQwMU1jX2txTFFIMnQ2MjZIa3BIbDNEVTdhbG5qN0p6UzNFUDE1elV1QzIxRmNiTlE?oc=5",
+   "date": "2026-10-23T13:33:00.000Z",
+   "source": "WISH-TV",
+   "summary": "GTA VI could cost US economy $1 billion WISH-TV"
+  },
+  {
+   "id": "gn-117v70w",
+   "title": "GTA 6 Could ‘Cost American Economy $1 Billion,’ Says Analyst",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzhvQTVGUG93OW9QQlFFaEpnMFpGbHhDeHdqS1N4S0ZseTRTVnc4bVZqQWk3dWREVGUtZ05uTWZSSldoS29mSWhfWXFYYlhRNi1QVnFqbTR0SmxDN3l0TXJTV25rZzdaT2NvOHFDZURLYU84N3ZZUkVSRlVoT1ZjYXl4Vk1ncTRPY2dsYQ?oc=5",
+   "date": "2026-10-23T13:15:19.000Z",
+   "source": "Insider Gaming",
+   "summary": "GTA 6 Could ‘Cost American Economy $1 Billion,’ Says Analyst Insider Gaming"
+  },
+  {
+   "id": "gn-qkbj9x",
+   "title": "PlayStation Is Offering $40 Off PS5 Refurb Bundles Ahead of GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0M3MURfeFdISWhlbDJmMWEyM0phbVQ4cnFjWGtabkZkdWNKbVZuRjdlQTBSNWtBeTZ5VFFhS0pGT2lnN2xLQ2J5Yk8wVFR6N3lYY2JZSDFOelZ2cm1sRDRJSGdZZmdHOUY0ZlZZNEh5d2hGSVlUOUxVSEd6eml4T29qZEZsRmJwUUlOUQ?oc=5",
+   "date": "2026-10-23T12:49:32.000Z",
+   "source": "IGN",
+   "summary": "PlayStation Is Offering $40 Off PS5 Refurb Bundles Ahead of GTA 6 IGN"
+  },
+  {
+   "id": "gn-1vtdrd3",
+   "title": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ3VRQ19XOExmR3RNdHdDdWh4Y2pYS2NGdUdDNVFkYlI3M3AtZ19kdXFKbllBQzZSQ3A2Y2ZacUhOOXJIdEFTYUhJWUNwSWlMV0FhSW9sU2dHbTVjMDVSZWpvYjVVYTdKQ1J2S1pMdUNhdzRnazgycGlPOW0yNUJJWnlLRVByY29ScEpjeEFEU2hHRWV5MXAySWtPaFVKZll5eFp4WDF3SkM?oc=5",
+   "date": "2026-10-23T12:11:20.000Z",
+   "source": "GamesBeat",
+   "summary": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype GamesBeat"
+  },
+  {
+   "id": "gn-11h1t8e",
+   "title": "PS5 lands new hardware upgrade intended for GTA 6 as it bolsters 'plays best' claim",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFNsU0pFMmN6cFdVNzhCYkxxa0RCdGMxaUllSUZtcnY4X3ktUGoyNmhvc21Qc1lDYmJUR0E0ZHNjR1BHUG9ROVFEM0VMX3d1dXpzYTNJbnc1ellFZVV6RlhIYjB4Z3dUQzlkaGVKS1Z6NFVYUkxLeVJOcHFrbTVubkpkVDVDUDczNjVDR0dSZnMxZGxRN3B2RjlFbHpOcGM1czQ3RjlaR0dSaXFsUDhRYURzQUprcG8wWWZiMUhWLWI4bmMy?oc=5",
+   "date": "2026-10-23T12:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "PS5 lands new hardware upgrade intended for GTA 6 as it bolsters 'plays best' claim GAMINGbible"
+  },
+  {
    "id": "gn-159doi1",
    "title": "Could Grand Theft Auto VI Crash the US Economy?",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdURvTFJWb1pQMy1sWmFmU3lSX0l3MndDY3QxZF9VbEJWb3QxRTZRTlBMeURNcXN0U1I5akJSVzZQYURqRVhhcXVkdUxyUmZ6X2ZLMFc5bVo4LVRCUmw1cV9kQWxMU3k2djZVa0NYbThkQ3puSFdBd0t6ekVUMEt3c2VoM2duMkw0cGVVeFg4eUNrT2pNcVE?oc=5",
-   "date": "2026-10-23T11:04:25.000Z",
+   "date": "2026-10-23T11:04:52.000Z",
    "source": "The National Interest",
    "summary": "Could Grand Theft Auto VI Crash the US Economy? The National Interest"
   },
@@ -381,6 +469,14 @@
    "date": "2026-10-22T21:00:00.000Z",
    "source": "GameSpot",
    "summary": "How Will Gas And Refueling Work In GTA 6? GameSpot"
+  },
+  {
+   "id": "gn-yyh0um",
+   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
+   "date": "2026-10-22T21:00:00.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
   },
   {
    "id": "gn-1ezqw6k",
@@ -613,105 +709,57 @@
    "date": "2026-10-22T12:50:32.000Z",
    "source": "PlayStation LifeStyle",
    "summary": "New PS5 Accessories Launching Alongside GTA VI PlayStation LifeStyle"
-  },
-  {
-   "id": "gn-1i3hwhe",
-   "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbHpxQ1FrUjE2RUJaQi05SnBkVXFlV3JoeF9Dc3dVV1Jaa282cnk4ME9qemtsNWdsVXhWN1JzR1hUNDY5WXM1cWpncjREN0VCVkdBcm01STBQcWxweV83OWdIQnJ5SEFpcmNSSS1QMnZYN09VZWJ1clZtTEk0Ry10VUhPSC03Yi1ZLWZ3d0pxMVRxZGI2c2JsMkxLVUcwcUd4VURIT3JsV2haQUJFMjYxdlhCRC1YRHhpWHhYWTNjZUltbU1WSmdKVkp4R2pBcUtqTXc?oc=5",
-   "date": "2026-10-22T11:23:00.000Z",
-   "source": "IGN",
-   "summary": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena IGN"
-  },
-  {
-   "id": "gn-ge58ii",
-   "title": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRXJPazFVZE9QRjZSNjFCUzZsTVd6NGZQZldLWmZyaF9nOHctbnIyeF9iY2tFLXlzd1NXblAtR05ob0lsS1lwZmEwTmJ5dy1rdlZrTDJ4YmlsTnlXRlBXa0ltSDE4OVp3SWdyb0l5b2M0eHBtOGR3emw1UGZucXViRVBOQnRUZ2pWOUx5ay1DcU9fdGg0VE5jSDhONDItb2x3REZVUEhwWG1mS2JpR3NydndVMUNNRmZQTVl2NUJ6UzJ1aDhwVWZsVWZsZ2d6eVNXMGNHVzU4ZXcxQ21YVkM2a2Ita3h0eGY4VkZHaUZR?oc=5",
-   "date": "2026-10-22T11:06:04.000Z",
-   "source": "Video Games Chronicle",
-   "summary": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’ Video Games Chronicle"
-  },
-  {
-   "id": "gn-jaon7c",
-   "title": "GTA 6 Launch Day Could Cost the US Economy Up to $1 Billion, Estimate Suggests",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDFNVjBBMXFpMDhleGtrbTczeldtUFl5TUF3ZmthU01qMkg3Zlo3T29SNGxMZ2NOUUh3SU94QTIwUmtOVGRSYlFGUlpOS05sQXJLdDJ3YXEzTVdwWEpSQUxJbXpPX0czc1UxV3dPWndNT1ZqQWI0VUdtRm1XMXg4ekVJcXFobVZGOU1KeEVtWQ?oc=5",
-   "date": "2026-10-22T11:05:10.000Z",
-   "source": "GTA BOOM",
-   "summary": "GTA 6 Launch Day Could Cost the US Economy Up to $1 Billion, Estimate Suggests GTA BOOM"
-  },
-  {
-   "id": "gn-ekulgi",
-   "title": "Rockstar Built an Entire Los Angeles Operation Just for GTA 6 NPCs",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMk1MdW93YWRMTE1Nc1R5eU10Q3JGNHk5dWVIQzVfLXZqbHREbjJERmVOM1dYRUYxMk1ISEpLMml1ZTliODcyQzM3dFFSY3VaMTV1RHhZSWlPbTV1RjFCTERGTEtjSlVDQnR6TWlBTl8zaVhsaDBUaUF5aDVaeEZHWURIQVlhUmdXVk5NVl9ZaVo3U1gtUGF2cXB5TzNMUHhzY1FSVDB0V3luLTNFMUhwQXhMVWs?oc=5",
-   "date": "2026-10-22T10:32:06.000Z",
-   "source": "GTA BOOM",
-   "summary": "Rockstar Built an Entire Los Angeles Operation Just for GTA 6 NPCs GTA BOOM"
-  },
-  {
-   "id": "gn-2sool0",
-   "title": "Air Max 97 ‘South Beach’ — Miami Heat Palette, Wave Line Texture, GTA 6 Energy: Where to Buy",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY2l2TWdnbjV3aTRyRExEWkxLS09rMGY4dnU2NUFsWi1IQXNJN0otVnlIUVgwMVdpUExKc2pjOHdEcmt5ellWd1dZV25scGFqOEY4UzhpNGN0b2doaGVRV0FJYkFQd1dlbXNsZUN5Y0dIeHI5a3RGVWNnRFZUZG50eUtPd2ZMS1dmMVliQVZPRW1oa2VxRms5Vm16M0pJMzhmMThzbGdoblZuRnZvQWRkbEU2S2hYVFBlQ3lz?oc=5",
-   "date": "2026-10-22T10:30:00.000Z",
-   "source": "Men's Journal",
-   "summary": "Air Max 97 ‘South Beach’ — Miami Heat Palette, Wave Line Texture, GTA 6 Energy: Where to Buy Men's Journal"
-  },
-  {
-   "id": "gn-7t8gxi",
-   "title": "GTA 6 launch may cost U.S. economy $1 billion in one day",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3NoY0gwNjdyVUo1WFViM0RVeFVqbGprMjBnWTdKbjlNLWdMYjVWdVZGSUZKekNSazJFX1E3QnViT2l2dGd6cjJLelR2cnAtSWxkS0IzMjVsSUlIM0tka1hTSWx6dkZYaG5SQUhRYkJYcXJKLWc1am9aSVpOaF9uZEJaSHNlSG5IaDNfV3VGRFBfTjc3dXZpVg?oc=5",
-   "date": "2026-10-22T10:23:00.000Z",
-   "source": "Audacy",
-   "summary": "GTA 6 launch may cost U.S. economy $1 billion in one day Audacy"
-  },
-  {
-   "id": "gn-ie2uuj",
-   "title": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQmpqTDRwdnhrQjhvOGNoUjV2VDIxY0V2Sm8yc0VIZmpxQ2E1aVcyZnN2M2x4VUNsSTZVVjc2UUoxa2NPWWplbjRWb0ZuN01ZNEhrajM0a1NFa3QxLWdiQ1M0RGVqeV80d2ZJQWlqRXlSME5uUFhyYUFlbjREc2VlOWd4Y0o1N3g3Q3FHVXhJOTBKSjhBU1pYdDZvcjJJazlaVW95UlJmQ1RMRlZZZnpHQk81cnNOTDF3VXc?oc=5",
-   "date": "2026-10-22T10:17:11.000Z",
-   "source": "Big Country News |",
-   "summary": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack Big Country News |"
-  },
-  {
-   "id": "gn-14uap2p",
-   "title": "Stealing a Car in Every GTA Game (From Grand Theft Auto to GTA 6)",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbXdYQ1JrSkJVQVBDMWUxQWdFcGJOZjF4ZGNHcHl5Uzh6TVRmektlX0kyMmtYdzd1aXlIeWNlNF9GX0ozc1pBWHhGNjJJSlRIZmNBQVN4ZGVkVE5PUUZmMGcyM2hENXd0aVF5TFdjcC1SdDNoREs0d2diOWFSa1Bjd29od2dVeTVLMmFYYXdrbmQ0SWU1VkpjRWhWNldDTkhQWWtSZ1Z0S3gtbWxWSHc?oc=5",
-   "date": "2026-10-22T10:01:27.000Z",
-   "source": "IGN India",
-   "summary": "Stealing a Car in Every GTA Game (From Grand Theft Auto to GTA 6) IGN India"
-  },
-  {
-   "id": "gn-1dtinax",
-   "title": "Stealing a Car in Every GTA Game (From Grand Theft Auto to GTA 6)",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcDhYTkxfb0F6anU1aFZPOE1tbExsemhXUlR5ck1LRjIxd3dpZ2dLdEljT3JYX2hZVk9KczZwV2xxU0RsVlV1X24tX1hxd1pwci1EX1BEcFRsSnN5c0xCb2hSY1pPeHBsMlU0N0NvcWRvNkhXNVowNm91N1l1T0EwUmVSMldER0gwQ2xsQXpycnNGd2Fs?oc=5",
-   "date": "2026-10-22T10:01:27.000Z",
-   "source": "IGN",
-   "summary": "Stealing a Car in Every GTA Game (From Grand Theft Auto to GTA 6) IGN"
-  },
-  {
-   "id": "gn-1pspxsz",
-   "title": "GTA 6 Marketing Now Includes Real-Life Burger Shot & Cluckin' Bell",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWG0tQnk3WGl0MzBzbFJ6WGg0RWlKWkZmd01qeFNCVEN4NGQ1eGtrbjV3a0xWYXlfY25HTHFpRWZOc2VaQUR6TWg2MEoyNllpV25vZWRHTDF0ZkVyMXdLVjBOT3VrMDVHcjd3U2MyVUdxWE9ZallIS09mWWRtZVhtVmFVVENSQmpMbDI4UjFRTC04bFRrdmc?oc=5",
-   "date": "2026-10-22T09:56:47.000Z",
-   "source": "Insider Gaming",
-   "summary": "GTA 6 Marketing Now Includes Real-Life Burger Shot & Cluckin' Bell Insider Gaming"
-  },
-  {
-   "id": "gn-ko64lv",
-   "title": "Man Fired After Leaking $4M GTA 6 Vice City Ads [2026]",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56dGxBVk81b0E4dm53N0xxX0JWTUY4dThSNDI3a3hOMGlMd1lfeWE3S1EzMEl0Yk9pSmNnNFhzT1NCY3JRcnR4cFZCbmVjbDVLOGtiNFN1X0d1aVpaQjZ0bDVlZDRFdmdsc01QdDQwQUxUbTFpekQw?oc=5",
-   "date": "2026-10-22T09:52:16.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "Man Fired After Leaking $4M GTA 6 Vice City Ads [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-17nuer8",
-   "title": "GTA 6 sick days could cost employers as Take-Two cashes in",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWEV1cll6MXRZWG1JLS1LTXRobDFnOHlrVDFvR2VGLXpDQVB1Q1hqV2JpY1hZR05ZX013TkVTbW5VcTU2ZzJ3M1VCeVpUaUVqd2U5Q0hLRVA0VU1YM05QclBYVVI3a1pQOVpQWFIwREg0RGFUdkhTdV9EVnkwN2RqSnNB?oc=5",
-   "date": "2026-10-22T08:03:00.000Z",
-   "source": "TheStreet",
-   "summary": "GTA 6 sick days could cost employers as Take-Two cashes in TheStreet"
   }
  ],
  "community": [
+  {
+   "id": "rd-1ngnar",
+   "title": "Day 5 of making memes out of lines from the trailers until release",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdgntn/day_5_of_making_memes_out_of_lines_from_the/",
+   "date": "2026-10-23T15:08:28.000Z",
+   "source": "r/GTA6",
+   "summary": "Link to Day 4: https://www.reddit.com/r/GTA6/comments/1xcgwj7/day_4_of_making_memes_out_of_lines_from_the/ submitted by /u/ZionGlitch [link] [comments]"
+  },
+  {
+   "id": "rd-4u1nni",
+   "title": "This guy seems to be fixing or adjusting a woman's motorcycle in the launch trailer",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdg4g6/this_guy_seems_to_be_fixing_or_adjusting_a_womans/",
+   "date": "2026-10-23T14:48:23.000Z",
+   "source": "r/GTA6",
+   "summary": "I was going through the trailer frame by frame and spotted something at 00:48.667 that I hadn't noticed before. Maybe some of you missed it too. There's a guy crouching next to a woman's motorcycle, l"
+  },
+  {
+   "id": "rd-lcl8li",
+   "title": "Miami Heat: “Straight out of the game, right onto the concourse 🍔🐔 Get a taste of Vice City’s Cluckin’ Bell and Burger Shot restaurants for a limited time.”",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdf0nj/miami_heat_straight_out_of_the_game_right_onto/",
+   "date": "2026-10-23T14:06:00.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/yourfavchoom [link] [comments]"
+  },
+  {
+   "id": "rd-m6vgoj",
+   "title": "Frame Friday #124: Let's discuss official GTA 6 content. [12 frames] - Less than one month to go!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdds6p/frame_friday_124_lets_discuss_official_gta_6/",
+   "date": "2026-10-23T13:17:16.000Z",
+   "source": "r/GTA6",
+   "summary": "Pozdrav svima! The final days are coming! Next week we're entering November and with it, the remaining time will fly like nothing. Today I wanted to put the focus on Lucia in her more action-focused s"
+  },
+  {
+   "id": "rd-dhjweh",
+   "title": "Hair connection fix in GTA 6?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xddmdv/hair_connection_fix_in_gta_6/",
+   "date": "2026-10-23T13:10:31.000Z",
+   "source": "r/GTA6",
+   "summary": "Do we think the facial hair to hair connection will be fixed this time? In GTA 5 if you go to the barber as Franklin with his default hair style and select the goatee facial hair style you'll see the "
+  },
+  {
+   "id": "rd-13rpz21",
+   "title": "The Miami Heat x Vice City merch has gotten a little more affordable for fans outside the US!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdbutt/the_miami_heat_x_vice_city_merch_has_gotten_a/",
+   "date": "2026-10-23T11:50:28.000Z",
+   "source": "r/GTA6",
+   "summary": "reports the store is now offering an additional $5 discount on international shipping costs. submitted by /u/Bk4LL [link] [comments]"
+  },
   {
    "id": "rd-1vmjdz2",
    "title": "Weapon inspection animations?",
@@ -983,54 +1031,6 @@
    "date": "2026-10-21T19:54:24.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/bigriggs24 [link] [comments]"
-  },
-  {
-   "id": "rd-1qy8hr3",
-   "title": "I’m unofficially promoting GTA 6 inside GTA Online.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbuveq/im_unofficially_promoting_gta_6_inside_gta_online/",
-   "date": "2026-10-21T18:15:23.000Z",
-   "source": "r/GTA6",
-   "summary": "Just doing Rockstar's marketing for free, no big deal. submitted by /u/zeroTen0x10 [link] [comments]"
-  },
-  {
-   "id": "rd-zi0zx1",
-   "title": "JUST A PSA: BE CAREFUL WHEN WATCHING REVIEWS AND YOUTUBE VIDEOS IN THE COMING WEEKS!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbr02a/just_a_psa_be_careful_when_watching_reviews_and/",
-   "date": "2026-10-21T15:56:16.000Z",
-   "source": "r/GTA6",
-   "summary": "This is a simple PSA everyone. I know reviews are going to come in about 3 weeks or so. IF YOU DO NOT WANT CERTAIN AREAS, MECHANICS, CHARACTERS, ETC SPOILED DO NOT WATCH REVIEWS! Especially IGN's revi"
-  },
-  {
-   "id": "rd-1p9m61f",
-   "title": "New billboard in Biscayne!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbqo6m/new_billboard_in_biscayne/",
-   "date": "2026-10-21T15:44:07.000Z",
-   "source": "r/GTA6",
-   "summary": "New billboard outside my job in Leonida. submitted by /u/Gregorioz15 [link] [comments]"
-  },
-  {
-   "id": "rd-2mp7yi",
-   "title": "GTA 6 marketing parodies Disney’s Orange Bird from 1970’s",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbp3f5/gta_6_marketing_parodies_disneys_orange_bird_from/",
-   "date": "2026-10-21T14:44:14.000Z",
-   "source": "r/GTA6",
-   "summary": "Disney & Florida Citrus Commision’s Orange Bird is being parodied by Grand Theft Auto 6 on real-world marketing in Miami, part of the Vice City takeover. Parody Poster 📸: samchrme on X submitted by /"
-  },
-  {
-   "id": "rd-b6lh8v",
-   "title": "I don't know how hyped you guys are for this game, but just look at these screenshots... In less than 30 days, we'll be able to explore all of this, see every NPC up close, go wherever we want, and stumble across random events on every corner. Our glory days are almost here.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xboriw/i_dont_know_how_hyped_you_guys_are_for_this_game/",
-   "date": "2026-10-21T14:31:24.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/dhenis1 [link] [comments]"
-  },
-  {
-   "id": "rd-obz0bb",
-   "title": "Jason and Lucia FanArt",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbo4g7/jason_and_lucia_fanart/",
-   "date": "2026-10-21T14:06:50.000Z",
-   "source": "r/GTA6",
-   "summary": "Heyy, the last months I've benn working on a personal project, trying to replicate the Rockstar's team visual Artstyle, and this is the result! I also added some pics of the background and process. I "
   }
  ]
 }
