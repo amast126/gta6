@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-23T06:14:57.494Z",
+ "generated": "2026-10-23T11:54:57.272Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-23T06:14:57.494Z"
+   "checked": "2026-10-23T11:54:57.272Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-23T06:14:57.494Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-23T11:54:57.272Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-23T06:14:57.494Z"
+   "checked": "2026-10-23T11:54:57.272Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-23T06:14:57.494Z"
+   "checked": "2026-10-23T11:54:57.272Z"
   }
  },
  "official": [
@@ -232,6 +231,38 @@
  ],
  "press": [
   {
+   "id": "gn-159doi1",
+   "title": "Could Grand Theft Auto VI Crash the US Economy?",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdURvTFJWb1pQMy1sWmFmU3lSX0l3MndDY3QxZF9VbEJWb3QxRTZRTlBMeURNcXN0U1I5akJSVzZQYURqRVhhcXVkdUxyUmZ6X2ZLMFc5bVo4LVRCUmw1cV9kQWxMU3k2djZVa0NYbThkQ3puSFdBd0t6ekVUMEt3c2VoM2duMkw0cGVVeFg4eUNrT2pNcVE?oc=5",
+   "date": "2026-10-23T11:04:25.000Z",
+   "source": "The National Interest",
+   "summary": "Could Grand Theft Auto VI Crash the US Economy? The National Interest"
+  },
+  {
+   "id": "gn-10009re",
+   "title": "How GTA 6 caused a Cliff Richard revival",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmRFUm9kaG53Rl8yLUJ2bXNrLVlzYWZ4cE9kS3lfRGpXNUxwMmtFZkpfWkFNLTlRRWItYU51aXRtSVRBdzRFbmx5NzdtWVlzVGlKUFdjd2U4MENRSkptNXdKNVYwTWllYnBXMWI1TXlOQXdEMGppVHVqVFRKZ1BBSERwaVFDbDI2SGdxNzRWeE5tQTB5UjBtRGV3WQ?oc=5",
+   "date": "2026-10-23T11:00:00.000Z",
+   "source": "Creative Bloq",
+   "summary": "How GTA 6 caused a Cliff Richard revival Creative Bloq"
+  },
+  {
+   "id": "gn-o56its",
+   "title": "Grand Theft Auto 6 Launch Trailer Was Changed for TV: Here Are All the Differences",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFVrMGFXekRBUlhiUGlMaDBqMlRaQU5yRm4td0VBcE4wMk1TeU1scWtfOTdPUUdKaDFLSXRnaExiVmlfeDV2a1NJaHQ1R29iNW1uSVl0RkVOcURrZ3NvOVNxQVctUU9tZ2R5ck1UbGhnRm5qOUVuWHpvRkw4dTducERjSXd3MUpDeE9tcQ?oc=5",
+   "date": "2026-10-23T09:42:37.000Z",
+   "source": "Polygon.com",
+   "summary": "Grand Theft Auto 6 Launch Trailer Was Changed for TV: Here Are All the Differences Polygon.com"
+  },
+  {
+   "id": "gn-4q52k6",
+   "title": "GTA VI’s Release Is Spiking PTO Requests",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sNFNvYVBfNDI3SkVFMEltWWtLOEdoVVJIelNfSDJNSEpHV3lDU2VnR1d3Z015dkZGUWIySFZDNnRPN3NoZ0FRWHZGVlhQLW85N1VobDE2NkxCTkR1dkxHakJvQjZuSmhEY1c3STJ4R1lxelRUbnlYNGdR?oc=5",
+   "date": "2026-10-23T06:19:56.000Z",
+   "source": "TheFutureParty",
+   "summary": "GTA VI’s Release Is Spiking PTO Requests TheFutureParty"
+  },
+  {
    "id": "gn-ucvo5p",
    "title": "Deal | Sony's refurbished PS5 deal adds a second controller for just $19 before GTA VI",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPck55WjdTaWoxb0diaFpoUFdiemc2cU1ELTNWbjUtdnpCamtHNjRQcFItRlBjdm43U0Y2UGgxQ1c0cU9zMExvbjNBRHh1S2lLRFVnUnhSUFRXRHJORnNRTlRJZ0FpeUhNeFJ4aDhEMlhEcEFOQmItLVRPRVZtclotZERaNm80TlZHNmJKcTlOVGFZMFJhWDFuNmdnMW1tSlY4alViazVyRmlrdzNWWkNBVnl2TXNJRjIwM0FXYXVnN3Q?oc=5",
@@ -342,6 +373,14 @@
    "date": "2026-10-22T21:00:00.000Z",
    "source": "GameSpot",
    "summary": "GTA 6 and Gasoline in Video Games GameSpot"
+  },
+  {
+   "id": "gn-bm42h5",
+   "title": "How Will Gas And Refueling Work In GTA 6?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0ZhS29YVkx5Ukd2VlV4M0xwRHpLYUhPRV9UYkxGaUp1ZTdJMHc4Y3llaUhfT19VYzhxZHRfbXd0eng2eXFUdHAzRWdGQUd3UWFMWGRqc05jTkNKaV9RS3VjUWJhTmpUakpKQ25JNmJybFY4RVl1MGRPRU9LRUo2UQ?oc=5",
+   "date": "2026-10-22T21:00:00.000Z",
+   "source": "GameSpot",
+   "summary": "How Will Gas And Refueling Work In GTA 6? GameSpot"
   },
   {
    "id": "gn-1ezqw6k",
@@ -670,49 +709,41 @@
    "date": "2026-10-22T08:03:00.000Z",
    "source": "TheStreet",
    "summary": "GTA 6 sick days could cost employers as Take-Two cashes in TheStreet"
-  },
-  {
-   "id": "gn-10ql19x",
-   "title": "'GTA 6' Achieves Milestone With Its Preorders, Making History Ahead of Its Release",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVVZIVjROdzZmV08tb0VEZW1CTUdRY09Hek9VTFdCdkN0WG9nZ0ZhMWkwVVRjSmVKeEFXYXBxcFBMWURPVkJSdDJJazVRcjFnaWJFTkhvS0FOS3lwOFJGdzA1UnZ3UGpZM1AzSFdoZHBFZGJwOFhIcFJsTGVvREtNcnhOaHJPSXRFWnl0c0lOMEowUnBuWFVaUDhwMzRBWEpaSXdZ?oc=5",
-   "date": "2026-10-22T07:00:30.000Z",
-   "source": "Player.One",
-   "summary": "'GTA 6' Achieves Milestone With Its Preorders, Making History Ahead of Its Release Player.One"
-  },
-  {
-   "id": "gn-1mu0zz1",
-   "title": "GTA 6 fever has brands doing some very weird things",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOXRpdkcteUUxUUo3eWdqQXZiZXBiVnVxak0xd3lLUXZJRFlVaWRkX2tfMl9BQTVYc0NWcGxVU0lBSGQ3a1Z1S1R6aDhKa2lGeGNmZlE5VUdpQk83Zy1oRnVmbWFKYzNXS3Vkak9VQl9rS2RfOXo4QVpuZUFGSTFIQnExQloyYWhLU3dlTDdyb1E5VWxSWk41bVNNVVVyV28?oc=5",
-   "date": "2026-10-22T07:00:00.000Z",
-   "source": "Creative Bloq",
-   "summary": "GTA 6 fever has brands doing some very weird things Creative Bloq"
-  },
-  {
-   "id": "gn-1b4kagf",
-   "title": "GTA 6 Gameplay Guide: Wanted System, Focus Ability, Criminal Profile & Key Mechanics",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaURZMUtQWHNET21lNFJoNDgyVHdEWDhqRllSVVpnYmE1c3pNT0xoNVh4R0pVbk9UVU8zemFSNTJYYmx2N3ItMFBGR1FJWW4tT1lPTE8td2s2Nm15aHRxcF9tZTA3MDdlY3F3OUwxdnQycnl5dHRPNnpNNDdGd2VyNDBhOWtyQ29qOGF0SEdDeDlRTUpIbFVncnh5eWF2SVNmXzk1Qk94WjBwa01aeVcyU0pR?oc=5",
-   "date": "2026-10-22T06:45:28.000Z",
-   "source": "MMOEXP",
-   "summary": "GTA 6 Gameplay Guide: Wanted System, Focus Ability, Criminal Profile & Key Mechanics MMOEXP"
-  },
-  {
-   "id": "gn-vmt28v",
-   "title": "GTA 6 News Roundup: PC Release Reports, Miami Marketing Takeover, and Latest Updates",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0RheEJ4X2ltbUhXbTNFZnZFT2dRa2VRa0N6dnJDb1lOOUdSQld0MzVHdG1VSTAyNHdiOXhiazY5MDBDZXBHc1VVOGpNTk1qeEVNWWdnWjFkLXVLdEV3OGlEQVQyMHdpZXNKNDVMeFlmeVdkUlFVakdTSTRNeTI4V1B4eWN2bXIwM2dxOE1WNi1OYzFKcWFLNEFVNGpGUW5wWlRzUHBmSGdaSjRQTWhmTDJOLVY?oc=5",
-   "date": "2026-10-22T05:51:15.000Z",
-   "source": "MMOEXP",
-   "summary": "GTA 6 News Roundup: PC Release Reports, Miami Marketing Takeover, and Latest Updates MMOEXP"
-  },
-  {
-   "id": "gn-xn96fw",
-   "title": "Will GTA VI Make It to Switch 2? Interesting Vacancies Noticed Online",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd0RRcGluc0Q2OU5XbnBtRTU1YjdrTFhQVEJBeXNUQVAzMEVmRlRON3JnZng5N2R5NHI2bUtHSDRQUmhEZ2tIQ2pmWnhDV05oaGlXMUhoa3ZORVZnNWYyUndyVWRKd1BuaDNLSG1EbVBibGFWSmJMcFh0SldMWllaUkNkQjloTkRuNFNOLVltZ3JWX0RZVUlxT05VdktWcmRMSWtTbUxWZERFWXdQ0gGyAUFVX3lxTFBzUm9JMF9CSk10Sko3azlfdXBBNUNrbzZxSWE5Q0ltQi00Nk9La01tZnFXcTdySXE4MTlIdUsyVjJzMGM2QjktQl80Vm83NF80b0lsX0FyZXNVZWp5UUk3dDhHTHl5S05GcG5vLW5nQmt1Znpzdm5QZkZIbE9Md1B2RExGUjdGOXVQQmFsSm9rZ0RmcmZyaU10MDlGNjQ0QTU1dGJZbEtMU3NXMGtqbDNWYlE?oc=5",
-   "date": "2026-10-22T05:37:25.000Z",
-   "source": "iXBT.games",
-   "summary": "Will GTA VI Make It to Switch 2? Interesting Vacancies Noticed Online iXBT.games"
   }
  ],
  "community": [
+  {
+   "id": "rd-1vmjdz2",
+   "title": "Weapon inspection animations?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdb48p/weapon_inspection_animations/",
+   "date": "2026-10-23T11:11:53.000Z",
+   "source": "r/GTA6",
+   "summary": "It looked like Jason did it in the latest trailer when he’s running with the rifle with the explosion in the background. Stuff like that adds tons of immersion and red dead had this to some extent wit"
+  },
+  {
+   "id": "rd-1q6hu2p",
+   "title": "GTA vi release schedule in a nutshell;",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xd8bpa/gta_vi_release_schedule_in_a_nutshell/",
+   "date": "2026-10-23T08:25:27.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/dopy9 [link] [comments]"
+  },
+  {
+   "id": "rd-11an2ni",
+   "title": "\"Vamos, vamos!\" Painted my favorite frame of Raul from the extended look (oils).",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xd77nr/vamos_vamos_painted_my_favorite_frame_of_raul/",
+   "date": "2026-10-23T07:16:57.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/zkorejo [link] [comments]"
+  },
+  {
+   "id": "rd-18rz0x1",
+   "title": "A gamer goes on live FOX TV news and explains why so many people will take the day off to play GTA 6, which is estimated to cost the US economy $1B in loses.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xd5dky/a_gamer_goes_on_live_fox_tv_news_and_explains_why/",
+   "date": "2026-10-23T05:28:27.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/PinReal4448 [link] [comments]"
+  },
   {
    "id": "rd-y94y9y",
    "title": "Getting ready for GTA VI in style! Built a custom Vice City DualSense with Hall-Effect/TMR sticks and a larger battery. What do you think?",
@@ -783,7 +814,7 @@
    "url": "https://www.reddit.com/r/GTA6/comments/1xcpp6g/today/",
    "date": "2026-10-22T17:54:45.000Z",
    "source": "r/GTA6",
-   "summary": "jokes aside I dont think there is much more they can show us submitted by /u/Early_Albatross_1336 [link] [comments]"
+   "summary": "jokes aside I dont think there is much more they can show us credit for the meme goes to James_3460 the ultimate panhandler submitted by /u/Early_Albatross_1336 [link] [comments]"
   },
   {
    "id": "rd-1y1z11u",
@@ -1000,38 +1031,6 @@
    "date": "2026-10-21T14:06:50.000Z",
    "source": "r/GTA6",
    "summary": "Heyy, the last months I've benn working on a personal project, trying to replicate the Rockstar's team visual Artstyle, and this is the result! I also added some pics of the background and process. I "
-  },
-  {
-   "id": "rd-7qghxf",
-   "title": "PS5 | GTA 6 Custom Theme",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbncg7/ps5_gta_6_custom_theme/",
-   "date": "2026-10-21T13:35:24.000Z",
-   "source": "r/GTA6",
-   "summary": "PS5 Home Screen GTA 6 Custom Theme This custom theme features 38 of my favorite GTA 6 images, designed as a slideshow that blends with the PS5 UI submitted by /u/zeroTen0x10 [link] [comments]"
-  },
-  {
-   "id": "rd-zdogkr",
-   "title": "Started in Liberty City, grew up in Vice City, survived San Andreas. Now we're going back.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbna6b/started_in_liberty_city_grew_up_in_vice_city/",
-   "date": "2026-10-21T13:32:48.000Z",
-   "source": "r/GTA6",
-   "summary": "From Grove Street to Vice City... one last ride before the nursing home. submitted by /u/Ineedfunding007 [link] [comments]"
-  },
-  {
-   "id": "rd-1wv1h6v",
-   "title": "Marketing on release day is expected to be very hype according to some on X",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbmh53/marketing_on_release_day_is_expected_to_be_very/",
-   "date": "2026-10-21T12:59:26.000Z",
-   "source": "r/GTA6",
-   "summary": "I think we’ve seen most of this already so I think this is most likely going to happen submitted by /u/ResponsibleRatio6569 [link] [comments]"
-  },
-  {
-   "id": "rd-4zm826",
-   "title": "Flower in a huricane being played on dutch radio",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xblvco/flower_in_a_huricane_being_played_on_dutch_radio/",
-   "date": "2026-10-21T12:31:23.000Z",
-   "source": "r/GTA6",
-   "summary": "Its insane that this song is being played on the radio that usualy plays like 80s 90s rock. They are like \"yeah this is a song from the brand new game gta 6 trailer\" Its insane that rockstar doenst re"
   }
  ]
 }
