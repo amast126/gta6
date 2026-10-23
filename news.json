@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-23T20:10:41.408Z",
+ "generated": "2026-10-23T23:18:27.370Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-23T20:10:41.408Z"
+   "checked": "2026-10-23T23:18:27.370Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-23T20:10:41.408Z"
+   "checked": "2026-10-23T23:18:27.370Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-23T20:10:41.408Z"
+   "checked": "2026-10-23T23:18:27.370Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-23T20:10:41.408Z"
+   "checked": "2026-10-23T23:18:27.370Z"
   }
  },
  "official": [
@@ -231,6 +231,46 @@
  ],
  "press": [
   {
+   "id": "gn-zewxhd",
+   "title": "Everything We Learned from GTA 6’s Launch Trailer",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcW16STB5Wjk1RjYyTjRhR0dvZWQyQWJPek1TQzFWMjFfU1BmTUd4NlFRR3djYmtxb2hjckYyQ0xTUnN2UnVDYlhRUEZwdURLTkNFbGRlOWFGNVZzbDdoM052Znd3eHc1YUd6aDIzUG0ydHNwNFJOUHZHTndwd0JvRTlkdlhlQmFFNWc?oc=5",
+   "date": "2026-10-23T23:04:10.000Z",
+   "source": "Turtle Beach",
+   "summary": "Everything We Learned from GTA 6’s Launch Trailer Turtle Beach"
+  },
+  {
+   "id": "gn-p0mdox",
+   "title": "Watch the Official Grand Theft Auto VI Launch Trailer – Explore Leonida Before the Game Arrives November 19",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYXp6Ri01MGI1czdoekZGLTVyWk1TSjBnZ29rOUd3SHpCNVRxLWFSZG1yVFJTQl9qRHJzVFVWd1JwZW91bENlckc2Tkp3UEQzNHBQWVFKSkNvUjB4YldxOVQxbnAyV2g0ZU1qTFpRaWF1ZHVkUS1rMU9LZXN4V1Q3b2VCdS1zeVlocllwajhhQV8xc1ZmVXdfU1Rud0FocE42R3ZjWjVjUzhYYjlJdk1Kckd6R2o4NkhoUFJJblpjZEYtM3pWSmM4S1dIZ1gxaEZ1bDh0Q3N1ZmVJbkRBYWfSAeMBQVVfeXFMTVRWUVlURVJQRXRVdENROEM2OTNpTGk1c2N6M1N4aUtsMVZZS3otYWtIdWNhdG9nLWdFaDZNY09TNXJlXzFIdmpiZmhkVF9uQkttaDQtREtWZkxvakhyeUNkZGtXZlh0RTRWX2JHQ0pSS2FDWnpVNFdPdXJsQkQwb3lwZnVuSU9acmNYNm1DVVNlRTBPb2FTYU9mRkpWRUh6bEU5aTkxUVBpdTFPdHhaM1ZiQ3JqdEJlUWRiY0pYdldjUklKOWl5Z3p1OXhzZzVHbXdMZG5lZmMtVnkwdHlLMXFfcnc?oc=5",
+   "date": "2026-10-23T22:25:31.000Z",
+   "source": "XBOX Wire",
+   "summary": "Watch the Official Grand Theft Auto VI Launch Trailer – Explore Leonida Before the Game Arrives November 19 XBOX Wire"
+  },
+  {
+   "id": "gn-10k2yst",
+   "title": "Why GTA 6 Fans Are Preordering A Game They Still Haven't Seen Properly Played",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VCbk5mMi1LY0pLTGIwdGc4ZS1PRlFSSkhpNVhVX080T1V6dUJ4NmxuMWRSLXl1UE5hTFNDNGQ5ZWMwV082M0Npc2NGV3plem9IVkhUdFVaWUZfTjRoMlV4MG4xaVl0ODFEUFh0YTZXaHFVWEQyMTI5SkptdlhKMzl4cllLUW5H?oc=5",
+   "date": "2026-10-23T22:00:00.000Z",
+   "source": "www.svg.com",
+   "summary": "Why GTA 6 Fans Are Preordering A Game They Still Haven't Seen Properly Played www.svg.com"
+  },
+  {
+   "id": "gn-1vtdrd3",
+   "title": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ3VRQ19XOExmR3RNdHdDdWh4Y2pYS2NGdUdDNVFkYlI3M3AtZ19kdXFKbllBQzZSQ3A2Y2ZacUhOOXJIdEFTYUhJWUNwSWlMV0FhSW9sU2dHbTVjMDVSZWpvYjVVYTdKQ1J2S1pMdUNhdzRnazgycGlPOW0yNUJJWnlLRVByY29ScEpjeEFEU2hHRWV5MXAySWtPaFVKZll5eFp4WDF3SkM?oc=5",
+   "date": "2026-10-23T21:31:23.000Z",
+   "source": "GamesBeat",
+   "summary": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype GamesBeat"
+  },
+  {
+   "id": "gn-1ccei28",
+   "title": "PlayStation 5 console sales jump 22% amid anticipation for Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUTh2R2pwMVFrZU9hSWswa0xNcEc3cWJMVXNndzdpOWwwcGhRMzFiTjY1NFc0N1VUc2w4UGJmUVNTWmplNDhrY2lYdmc5a2xtZEdOTWxYekhqQnByTmxwMnFUWEtrdWlzOTRycnlpRWJSRHB2S3E5eDYySTNKb0hQbkF2bDhTRlp4bjg5Zjh6R3ZIS2NYUnFudWJYZ1ZDQTFZSDFRcjNhVG8yNktNS0FYRnNuSXpzWXBy?oc=5",
+   "date": "2026-10-23T20:43:15.000Z",
+   "source": "GameGPU",
+   "summary": "PlayStation 5 console sales jump 22% amid anticipation for Grand Theft Auto VI GameGPU"
+  },
+  {
    "id": "gn-fntmxg",
    "title": "FSR 4.1 will allow the Xbox Series S to run Grand Theft Auto VI in 1080p at 30 FPS for $499",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalVYOXRaSld6QkxuRG9ITi1QMWFiVXZ4Mlc3UlB1MXl2Z0U2SDcxLUphdFRyN19veGJadml3SDBIYy12VUJIQmtUbG1vY2k1TndHTnA4UEI3Um1IeTVDTmFrVE9mdURsbGI0RWJ5ck5mNGpBbE1FeHlQU014czkzMURZY1R2WWl3ZXoxa2NvN1d1dVBOSDUxY2pKTm9uUUl2THROaHBXbVIwNXktMnJGZy1xRWtmQ2R0bkdBRHV3?oc=5",
@@ -314,7 +354,7 @@
    "id": "gn-uxlf9w",
    "title": "Poll: Are You Taking Time Off for GTA 6?",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExaREFHbXRZYVE4czFUYllEQ3Fhd3BZcmZQWmxpYkJmNVE2c0VsTlJ3MWFVWFVfYjlHd0I1ZXVxaXZ1Z3NQZ2gxeXhvbW1tZkEwYlpGay1NemktdmF6aHg4RnNYSlJvNTZBSVczY1RtUlB6eHZWSTJSQTRFRk0?oc=5",
-   "date": "2026-10-23T16:18:45.000Z",
+   "date": "2026-10-23T16:20:53.000Z",
    "source": "Push Square",
    "summary": "Poll: Are You Taking Time Off for GTA 6? Push Square"
   },
@@ -322,7 +362,7 @@
    "id": "gn-a3ld34",
    "title": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0RQZm9wNGpUZEF1Nmpaa08yVEpwMjlPSE1zektWOFctZzBpRWFUOFN4WllFZlF0RmJlY1FNTnBHdG4xUThpMGRESjRReExHR3ZrU3k2ZjYtZVQyd250Y0FyNjZuMWZyR3M2eWozQ1l0bTJCbk5hZGd6RXZpdE9lSDVseFZwQV9wTkFLdHVnVWlIY1ZLOVE?oc=5",
-   "date": "2026-10-23T15:57:01.000Z",
+   "date": "2026-10-23T16:16:05.000Z",
    "source": "41NBC News",
    "summary": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion 41NBC News"
   },
@@ -405,14 +445,6 @@
    "date": "2026-10-23T12:49:32.000Z",
    "source": "IGN",
    "summary": "PlayStation Is Offering $40 Off PS5 Refurb Bundles Ahead of GTA 6 IGN"
-  },
-  {
-   "id": "gn-1vtdrd3",
-   "title": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ3VRQ19XOExmR3RNdHdDdWh4Y2pYS2NGdUdDNVFkYlI3M3AtZ19kdXFKbllBQzZSQ3A2Y2ZacUhOOXJIdEFTYUhJWUNwSWlMV0FhSW9sU2dHbTVjMDVSZWpvYjVVYTdKQ1J2S1pMdUNhdzRnazgycGlPOW0yNUJJWnlLRVByY29ScEpjeEFEU2hHRWV5MXAySWtPaFVKZll5eFp4WDF3SkM?oc=5",
-   "date": "2026-10-23T12:11:20.000Z",
-   "source": "GamesBeat",
-   "summary": "As GTA VI approaches, advertisers are building a playbook to capitalize on the hype GamesBeat"
   },
   {
    "id": "gn-11h1t8e",
@@ -677,41 +709,25 @@
    "date": "2026-10-22T16:01:00.000Z",
    "source": "HotHardware",
    "summary": "GTA 6 Could Trigger A $1 Billion Workday Blackout Across The U.S. HotHardware"
-  },
-  {
-   "id": "gn-1fqjlf4",
-   "title": "Grand Theft Auto VI at Risk of PS5 Piracy Following New Console Exploit",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2JGQWlfWXZ2Q0dSLV9taHBOdzlMZWQySWRYTUdwYzVYN1BzaktFdnFXamx4a1Nwck9DWEc0bE9IbkR1SElKMUltNzBzeURyb1NmT3BKWFB2RmMzaFdIWWdrbV9RSzVzcThIWFJmVFdVMVpUQl9jZmttWDF2UF93MXZrLWU1cWFkZ0tuMDVNS1BLZ21USGJ5bjNlejNQbEVHaW5IN3ZiYw?oc=5",
-   "date": "2026-10-22T15:55:31.000Z",
-   "source": "LevelUp",
-   "summary": "Grand Theft Auto VI at Risk of PS5 Piracy Following New Console Exploit LevelUp"
-  },
-  {
-   "id": "gn-m7y63a",
-   "title": "Cyberpunk 2077's new update just made it the anti-GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZEZyMDVOeWlyaFdjZ2pXRHh3RHB4ZkxaY0ttYVIxTEo5YTBTaU5KcEE5b2dXNE9DQmFXdnA1VGJ6cEVCbnF1THVNZlpPS3Y1eDNlbURta3JfS2VqR3UxdnQ0WG9VdXNKMzlMWWRicGxWZ0NQSTcxWUE3b3VDNWlfZFRyNVhJQmZmTEY3YzRNektUZkxlYlJZSFdMR0VQWG8?oc=5",
-   "date": "2026-10-22T15:30:00.000Z",
-   "source": "GamesRadar+",
-   "summary": "Cyberpunk 2077's new update just made it the anti-GTA 6 GamesRadar+"
-  },
-  {
-   "id": "gn-14dp3qm",
-   "title": "Rockstar teases GTA 6 release with real-life Miami marketing stunts",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdlRXdldyWWdsTUJjWnJLUnRZcnRmU3JLQ3paMFlvd3ZEbm1BLWk2aDNVNUlhWUN3WkI4RVVlai11bjdzNTJ1R1pGUm9RN1FkVklzM3hhX1JMdmNzM3d4M2tTaTU5R2E5azhqcXRkWWdSV2VKWEMtOVA5Z2JKb2lWMWNXV0prWGFtOHpNN1hmdw?oc=5",
-   "date": "2026-10-22T15:17:03.000Z",
-   "source": "Radio Times",
-   "summary": "Rockstar teases GTA 6 release with real-life Miami marketing stunts Radio Times"
-  },
-  {
-   "id": "gn-10vrmh5",
-   "title": "Daft Punk Reportedly Rejects GTA 6; 34-Track Album [2026]",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mOGJSb2RZalJQSG1hWVNRM1hXeml0Q19YQlZHMlUzSjM5aTJieEl2QXA0bDlaUEZfUmgwQjBzVzZzdGozc0ZvRG5EQVRnZUxLekNiQjZwSmlabnhDZWVlNC05SDVUT2hUbV96bjZTYXZ5bVpyR3lucGpB?oc=5",
-   "date": "2026-10-22T15:07:50.000Z",
-   "source": "shattered.io",
-   "summary": "Daft Punk Reportedly Rejects GTA 6; 34-Track Album [2026] shattered.io"
   }
  ],
  "community": [
+  {
+   "id": "rd-1fp1l4t",
+   "title": "the Jason side of the New York bus!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdq7ax/the_jason_side_of_the_new_york_bus/",
+   "date": "2026-10-23T21:11:04.000Z",
+   "source": "r/GTA6",
+   "summary": "saw it a few times around the south end of central park, i wonder how many there are? submitted by /u/aidopotato5 [link] [comments]"
+  },
+  {
+   "id": "rd-nopq7i",
+   "title": "Vice City arrives in London finally…",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdo8pw/vice_city_arrives_in_london_finally/",
+   "date": "2026-10-23T19:53:39.000Z",
+   "source": "r/GTA6",
+   "summary": "Just Seen in the Selfridges Christmas windows which are based on cities of the world! (credit @thelondonkids) on Instagram. Perhaps London marketing kicks off this weekend? submitted by /u/mtsim21 [li"
+  },
   {
    "id": "rd-12z4evi",
    "title": "I made a fan art of Lucia.",
@@ -1015,22 +1031,6 @@
    "date": "2026-10-22T09:38:54.000Z",
    "source": "r/GTA6",
    "summary": "I was designing some artwork for a post and my son was like \"Its Jason and Lucia!\" I didn't capture that on video but I caught him saying Lucia and I was just taken aback. Why does this matter? He's 3"
-  },
-  {
-   "id": "rd-l3chms",
-   "title": "Is this a reach?👀",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xc9iiv/is_this_a_reach/",
-   "date": "2026-10-22T04:59:58.000Z",
-   "source": "r/GTA6",
-   "summary": "Instagram account capture.la posted this. One thing is all of these cars have their counterparts in GTA. The Banshee, Couquette and the Willard. The BMW Sang Kang is in, (Han from fast and furious) lo"
-  },
-  {
-   "id": "rd-fc86yj",
-   "title": "Cluckin' Bell in the Kaseya Center",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xc55fr/cluckin_bell_in_the_kaseya_center/",
-   "date": "2026-10-22T01:17:44.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/RealGiancarlosR [link] [comments]"
   }
  ]
 }
