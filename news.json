@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-22T22:45:56.982Z",
+ "generated": "2026-10-23T01:10:03.695Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-22T22:45:56.982Z"
+   "checked": "2026-10-23T01:10:03.695Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-22T22:45:56.982Z"
+   "checked": "2026-10-23T01:10:03.695Z",
+   "error": "HTTP 500"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-22T22:45:56.982Z"
+   "checked": "2026-10-23T01:10:03.695Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-22T22:45:56.982Z"
+   "checked": "2026-10-23T01:10:03.695Z"
   }
  },
  "official": [
@@ -231,6 +232,30 @@
  ],
  "press": [
   {
+   "id": "gn-1kk1rq3",
+   "title": "GTA 6 Price: $79.99 Standard, $99.99 Ultimate [2026]",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGV6M1VLSWFYWER0MUlVdk1vY2duSTEzaW01RU1jbFlfMWthNGpnWG1qQ2NFV1RBSU0yeGZfTWsxR3piNFRiVmZLRFRlaDEwUmJxUHpIOTNNNUtQbFo5RTZGbmlRVDR5Q1VXTFFFUHBJT2ZvTy16dm03REx4RWFud1JVaw?oc=5",
+   "date": "2026-10-23T00:31:27.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Price: $79.99 Standard, $99.99 Ultimate [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-1bc1ad",
+   "title": "GTA 6 Soundtrack Leak: Daft Punk Claim, 34 Tracks [2026]",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdDZFWkhmeERpOU1ma3ZTWVV2UGZtY2JCXzBMdDNHaWIxWkxncFVITEpfanY5TURxZzRieVlyVFlYMDZXNVExOE9ZSUhXOGdUVUt0b3BDRVNBa0hQcDNRbTBUQUtoMERCMWhEbWlzWmNaNjZNNTMxX1hBeTA3RUVXSFE4R2p5TDg?oc=5",
+   "date": "2026-10-23T00:10:59.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Soundtrack Leak: Daft Punk Claim, 34 Tracks [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-1d5emtx",
+   "title": "Best GTA 6 gaming monitor deal: Score the massive Samsung 4K curved Neo G9 at nearly 30% off",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa3lCVzhFSEFrT21iZUdVRzhXZWxsVmhnck5yS2l4ZU1TTzRLdU03aW5IdVFPdzY2cHRmX0RVQUY3XzVVcFhydFc3clQzdlhsMWRSSHBfc1VvczFmVW9PRnFmQ0dweXRGYXlwTEFSaC1rYUFHeTdrTkhvYnJFYnRCdVJ6MXQyN1JFTEZ6UGk2Yw?oc=5",
+   "date": "2026-10-22T22:05:11.000Z",
+   "source": "Mashable",
+   "summary": "Best GTA 6 gaming monitor deal: Score the massive Samsung 4K curved Neo G9 at nearly 30% off Mashable"
+  },
+  {
    "id": "gn-1ipbklk",
    "title": "GTA 6 Fans Left Devastated After Rockstar's Original Soundtrack Plans Leak Online",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHdXUVloY3Q1UGdxUWRRS3B3eTRKZU54dFVpMkFCcTFRUXRfWk52bTJiZ0pKY3lwUGRocFlETUo1SVdPRXBqMWs5WmJLQlRudDBMbzVmSGtJSkZtYW80ZHZiTGo5S01od0FGVEVhNUw1Ullxb2FDS0lyRGJObFY2cTF4Wjhnb1FmRU9EeXM1SjBwLUd1LVdvLVR6VjJlVFdTeXc?oc=5",
@@ -253,6 +278,14 @@
    "date": "2026-10-22T21:00:00.000Z",
    "source": "GameSpot",
    "summary": "GTA 6 and Gasoline in Video Games GameSpot"
+  },
+  {
+   "id": "gn-1ezqw6k",
+   "title": "PS5 Sales Jump 22% in September Ahead of GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0s4dWJtRkhrSXZMTGpCZEJpNTlLbTl1cFBadElXNG42R1pnVVM3dkxHX2lySmRqX0Qwa21XVHlUaUlWWWtZY3k3R1lfRzV1QmV1a0c3MXB0Ykc4enp1YmtJaHpBUGNldUExTGFuanhDaGFsczI5akVvU1JVcDdZMVlJSVFWVTk3eTNUUVpkVnB6Zw?oc=5",
+   "date": "2026-10-22T20:40:00.000Z",
+   "source": "Briefs Finance",
+   "summary": "PS5 Sales Jump 22% in September Ahead of GTA 6 Briefs Finance"
   },
   {
    "id": "gn-15gkjzk",
@@ -279,6 +312,14 @@
    "summary": "‘Grand Theft Auto VI’ fuels 22% jump in Sony PlayStation 5 sales The Spokesman-Review"
   },
   {
+   "id": "gn-112waf1",
+   "title": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFBfWlZkOTRIc2FZSHktQWtOQTUtYWFuV0tRUFpBeXpYQWdvUGZ5UGxJZnVkMlQ0WkxUQjJLNS1aMHR4cU8teW1WMkp1OS14MlNzWTdaeVVqbUFvb1BiVlg5MFd2Y3J1SW45dWJGNllxcUlmT3VyTXZlY1hZTkNsWWFrSjdxNXBNQ0RRbDE5ZjVPTC1ubGlVcGJMMFRlekdqYi1WdEJPUVNEelFy?oc=5",
+   "date": "2026-10-22T18:42:29.000Z",
+   "source": "101.5 CIL-FM",
+   "summary": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack 101.5 CIL-FM"
+  },
+  {
    "id": "gn-qu8y04",
    "title": "GTA 6 Is Almost Here: Trade in Your Old Console and Save on an Upgrade at PayMore",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQanVXaWlIRkNkeHMwZV90Nk9VMnNEakdWUEZuMms1czhPRDJTQV9qdjFxbXotLW0zSWJ5R1Brb0M4eGVleU5UbVBLcTE1eHFSay1VS18ydmV5ZEJaSkVCOEdvNUs5MklCU0JYMjctQzB5a2ZOTzNmTHBYdzNSdUJrTWtnUlNKQQ?oc=5",
@@ -293,6 +334,14 @@
    "date": "2026-10-22T16:57:44.000Z",
    "source": "GamesRadar+",
    "summary": "Former GTA 6 and Red Dead Redemption 2 designer says layoffs at Rockstar aren't the real danger – \"The question is whether you can meet the expectations\" GamesRadar+"
+  },
+  {
+   "id": "gn-kdqrv1",
+   "title": "3 Beers From The World Of Grand Theft Auto Are Coming To Life",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYm9TWUM2c0FTem9nbUZwUk16SDB2YnMxQWstWDhUemJobDJTQlpueUw4TVhGMXVJZDdsTHRXSVNyV1VCaWZmeDVyd3FYaXhLcjkzZkVxWHl4YjRUWl9kVzc0NUJSblRoVnJ0dUx4Y1VlcHBMT2RRTzBTRWFWNFNaV0o4VWdDYmhWdlE5aTdiNk0xYklp?oc=5",
+   "date": "2026-10-22T16:51:14.000Z",
+   "source": "Sporked",
+   "summary": "3 Beers From The World Of Grand Theft Auto Are Coming To Life Sporked"
   },
   {
    "id": "gn-1r0vf8d",
@@ -424,11 +473,11 @@
   },
   {
    "id": "gn-1va05w1",
-   "title": "Best Console for GTA 6: PS5 vs Pro vs Xbox [2026]",
+   "title": "Best Console for GTA 6: $599.99 vs $899.99 [2026]",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPQTRaZ1U0S3FiM0NMbXhla2txbFBHZi1PVDRXODM1RkxCUncyc3ZhRWNtSWFSTU12Si02c0JHNzBGN0sybS1qM3I3ZktZelRUR1NoZmdYUmN1ZVo2MUxzZFoxOA?oc=5",
    "date": "2026-10-22T13:22:36.000Z",
    "source": "https://tech-insider.org/",
-   "summary": "Best Console for GTA 6: PS5 vs Pro vs Xbox [2026] https://tech-insider.org/"
+   "summary": "Best Console for GTA 6: $599.99 vs $899.99 [2026] https://tech-insider.org/"
   },
   {
    "id": "gn-v92xlw",
@@ -455,6 +504,14 @@
    "summary": "‘Grand Theft Auto VI’ Fuels 22% Jump in Sony PlayStation 5 Sales Bloomberg.com"
   },
   {
+   "id": "gn-2sr64e",
+   "title": "GTA 6 release date reportedly sparks planned mass sick day; US may lose billions | Jesse Weber Live",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHZ5VkpnQzFEbW9rYzY3Y1ZnWmJwczZFaWI1S182aHRWREFCWldhTTFlWHdWMmxzMmd1ZWx0dF9DN2ZaZjBWeGNkTVAyQlFoTW8zblM4Vi1XM3djSlFya0pEZDNJTEtkWUpDVkFXaVBETkNpNnRGSVRyY2lZNTlSTnpDeGU4em96a3h4UkJyM0g5c0FnU3FqOUtyTzhHcmZRWVB1TFhaWTR2Ylo4T2hLX1RjVFRRd2JTc3VVSml6ZFBibTMyWnhBaDZvd2ltdw?oc=5",
+   "date": "2026-10-22T12:58:08.000Z",
+   "source": "KXAN Austin",
+   "summary": "GTA 6 release date reportedly sparks planned mass sick day; US may lose billions | Jesse Weber Live KXAN Austin"
+  },
+  {
    "id": "gn-pgaz84",
    "title": "New PS5 Accessories Launching Alongside GTA VI",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM1RqUWNVS19FYlByMFR6azZnTTE5V1RkaGNERDVhZF9Lb1VBSEFzQ1M4NV9aWlVRR3lPNV9mMGFQQ2FfQ292MlMzcDNDejBuWFppSF9pcGJfYTUxbmU4Ym9IY2ctRGV4Uy1KWGptZWRNME41eDNRQzZ0RDYyRWR1M1J5NVBfQnA5cGVZWDQxWS3SAZYBQVVfeXFMTXp3elhCWTdSQVdqSVBESzltaTFGalloUFVWT0hRNzl0d2hPSmZ3MlVNMEYyMHRhNmZ3cllYNXN4WHJBd3EwTnZ0a0FaSjFUTngyVm5hOEM4SWxmR1NUQVhBWTdudGVueFhWUE54b184RW9BenJXejNlZTdEanJxZnM3MzU4aW9KVmkxWlNad3I0ZG42S3pR?oc=5",
@@ -471,14 +528,6 @@
    "summary": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena IGN"
   },
   {
-   "id": "gn-112waf1",
-   "title": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFBfWlZkOTRIc2FZSHktQWtOQTUtYWFuV0tRUFpBeXpYQWdvUGZ5UGxJZnVkMlQ0WkxUQjJLNS1aMHR4cU8teW1WMkp1OS14MlNzWTdaeVVqbUFvb1BiVlg5MFd2Y3J1SW45dWJGNllxcUlmT3VyTXZlY1hZTkNsWWFrSjdxNXBNQ0RRbDE5ZjVPTC1ubGlVcGJMMFRlekdqYi1WdEJPUVNEelFy?oc=5",
-   "date": "2026-10-22T11:13:29.000Z",
-   "source": "101.5 CIL-FM",
-   "summary": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack 101.5 CIL-FM"
-  },
-  {
    "id": "gn-ge58ii",
    "title": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’",
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRXJPazFVZE9QRjZSNjFCUzZsTVd6NGZQZldLWmZyaF9nOHctbnIyeF9iY2tFLXlzd1NXblAtR05ob0lsS1lwZmEwTmJ5dy1rdlZrTDJ4YmlsTnlXRlBXa0ltSDE4OVp3SWdyb0l5b2M0eHBtOGR3emw1UGZucXViRVBOQnRUZ2pWOUx5ay1DcU9fdGg0VE5jSDhONDItb2x3REZVUEhwWG1mS2JpR3NydndVMUNNRmZQTVl2NUJ6UzJ1aDhwVWZsVWZsZ2d6eVNXMGNHVzU4ZXcxQ21YVkM2a2Ita3h0eGY4VkZHaUZR?oc=5",
@@ -488,11 +537,11 @@
   },
   {
    "id": "gn-jaon7c",
-   "title": "GTA 6 Could Cost the US Economy $1 Billion in a Single Day",
+   "title": "GTA 6 Launch Day Could Cost the US Economy Up to $1 Billion, Estimate Suggests",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDFNVjBBMXFpMDhleGtrbTczeldtUFl5TUF3ZmthU01qMkg3Zlo3T29SNGxMZ2NOUUh3SU94QTIwUmtOVGRSYlFGUlpOS05sQXJLdDJ3YXEzTVdwWEpSQUxJbXpPX0czc1UxV3dPWndNT1ZqQWI0VUdtRm1XMXg4ekVJcXFobVZGOU1KeEVtWQ?oc=5",
    "date": "2026-10-22T11:05:10.000Z",
    "source": "GTA BOOM",
-   "summary": "GTA 6 Could Cost the US Economy $1 Billion in a Single Day GTA BOOM"
+   "summary": "GTA 6 Launch Day Could Cost the US Economy Up to $1 Billion, Estimate Suggests GTA BOOM"
   },
   {
    "id": "gn-ekulgi",
@@ -661,57 +710,41 @@
    "date": "2026-10-22T02:16:11.000Z",
    "source": "TweakTown",
    "summary": "Xbox Cloud Playtime pricing means 100 hours of GTA 6 streaming would cost just $24 TweakTown"
-  },
-  {
-   "id": "gn-oave7w",
-   "title": "GTA 6 Hits Consoles First — Should You Buy Now Or Wait For PC?",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUpXMVBQNi1hMDEzZUNueFFPM2RWRzJmT1VnZm92WU12OS14dnY0MlVHQW9WbE8yMVBYd29idlVZWnVsSDJfR1RFcGYzY2FNa0Z2c1gwd1p2YmcyN0hQN2tBMGNpc2RUY2toeUItNkkwbHo0UWs4aXVGLU0zLVBvLVdDSW9rYjVnWERWYVI4a0dIeEJyUU52YXNRMTEtdHZkb0hCd21HUEdkR2ZYaS1XcGVycURBQQ?oc=5",
-   "date": "2026-10-22T02:15:41.000Z",
-   "source": "Forbes",
-   "summary": "GTA 6 Hits Consoles First — Should You Buy Now Or Wait For PC? Forbes"
-  },
-  {
-   "id": "gn-1ltqk10",
-   "title": "Rockstar Already Made One Live Action GTA Trailer, Back in 1999",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1BvRC1oRElZVUV0Z2IxNjBWYjNPcXJydnBOMzhLZ1F4eDlWYk41NDNKRFB3d2stZjFaNkRTS3JpbERYNlMyTXVxRDMtT1BMMVRJY3A3MVZZeklPS0VSWHZFTlJrSmRIUHZIeHpBTGpndFRoSGlGUWlabWJwU0FQNnNLcGdkWTdPSlc0SXZ3cnQ4bHlqend3Sg?oc=5",
-   "date": "2026-10-22T02:10:49.000Z",
-   "source": "GTA BOOM",
-   "summary": "Rockstar Already Made One Live Action GTA Trailer, Back in 1999 GTA BOOM"
-  },
-  {
-   "id": "gn-1vjc1l2",
-   "title": "GTA 6 poked fun at by surprise remaster that's putting Fallout 76 and other AAAs to shame",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdUNYTzY1SnpZczZpMEN2RDJOcV9HOS1qcmkzTVNzZTdIYlp0SGRWWVhmaDBKdjhEX0FPV0pMNXZWTE5ZaE15N0F5SnJpbmVtS0J3MDBpd3NkakdDbVkzbTBIRzBGWFFneC1VNWlCVFdkSzFpbG9lRzAyRVdDc0V4LUZ5cGVYQnFDMC1DSEtBXy00V1d2ODYzZw?oc=5",
-   "date": "2026-10-22T02:00:02.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 poked fun at by surprise remaster that's putting Fallout 76 and other AAAs to shame GAMINGbible"
-  },
-  {
-   "id": "gn-ml7h82",
-   "title": "Daft Punk reportedly declined GTA 6 soundtrack before Justice took the offer -",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43ZndxTzVtNWpDbk5ZRTM3NURCNHNRSWdrU3NlNmFqa1RYaVc0Nl90NC1na1gxeGRtS20yZDQ0bEZIWjdLbU13QVowQ1lmYW1laENaY3Y5dGJpbmVNMUVpM21kVENsamM?oc=5",
-   "date": "2026-10-22T01:53:13.000Z",
-   "source": "Happy Mag",
-   "summary": "Daft Punk reportedly declined GTA 6 soundtrack before Justice took the offer - Happy Mag"
-  },
-  {
-   "id": "gn-11yihuj",
-   "title": "Report indicates 'GTA 6' launching on PC in early 2027",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlh0b1NJOTZuQlk3NHhucnNibnpnLVo2MzJvZGZBRG5Id0xaSDlxTDVHdldYVWl1X2JWMmJmZnlLaTRrWjdMTTJvdnJVMkFuUnNrbEZ5b29laUtsM2IxczllNFdtNHVZa1M3UDAtVjJ3WkVTZzlSU2J1aG1GSGVQYU5PUVM?oc=5",
-   "date": "2026-10-22T00:21:42.000Z",
-   "source": "Mashable",
-   "summary": "Report indicates 'GTA 6' launching on PC in early 2027 Mashable"
-  },
-  {
-   "id": "gn-1j8p3pr",
-   "title": "GTA 6 Reportedly Reaches Massive Milestone Just On Pre-Orders",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDEtSTVQcGw0MXptY3d5M0RjbkdkS1RrV24wczNQN2phSWoyWXB3eDltb3hGeEgzTVZZWGI5NmxOSjlreHU4LTlVakd0bnZ5aFVEaXg3SUhBUTVwdE5PanVSNV84S2NiUGJWU05wckM4RGFOb2RCQTV1c0FsVHRvTDJJV2M3SEQ1eHpIZkNGYmNmVFpVV1hyLTd0UQ?oc=5",
-   "date": "2026-10-22T00:16:48.000Z",
-   "source": "OpenCritic",
-   "summary": "GTA 6 Reportedly Reaches Massive Milestone Just On Pre-Orders OpenCritic"
   }
  ],
  "community": [
+  {
+   "id": "rd-1qppyq0",
+   "title": "Has GTA ever had a flashback mission?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xcxvmb/has_gta_ever_had_a_flashback_mission/",
+   "date": "2026-10-22T23:15:35.000Z",
+   "source": "r/GTA6",
+   "summary": "One of the theories from the launch trailer is that this shot is a flashback from Jason's military past. But has GTA, or even Red Dead Redemption, ever had a flashback mission? I'm not counting the op"
+  },
+  {
+   "id": "rd-1gg0aac",
+   "title": "lightning mcqueen",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xcx2sx/lightning_mcqueen/",
+   "date": "2026-10-22T22:39:55.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Zealousideal-You465 [link] [comments]"
+  },
+  {
+   "id": "rd-1k9yu4o",
+   "title": "Looks like I might have been right",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xcwtua/looks_like_i_might_have_been_right/",
+   "date": "2026-10-22T22:29:03.000Z",
+   "source": "r/GTA6",
+   "summary": "May not work exactly like I guessed a year ago but it seems like this is the type of thing we're gonna be able to do. submitted by /u/TheOneTruePartridge [link] [comments]"
+  },
+  {
+   "id": "rd-14mxpwx",
+   "title": "NYC",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xcwrzy/nyc/",
+   "date": "2026-10-22T22:26:43.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/senseikreeese [link] [comments]"
+  },
   {
    "id": "rd-swd68q",
    "title": "Spotted at La Defense, the business district of Paris",
@@ -999,38 +1032,6 @@
    "date": "2026-10-21T10:05:07.000Z",
    "source": "r/GTA6",
    "summary": "GTA 6 is my most anticipated game ever, and the idea of it being a real thing and releasing, made me appreciate games more, I been on a story games run for some time because in my head these are cool "
-  },
-  {
-   "id": "rd-11mkp1a",
-   "title": "One-way ticket to Vice City",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbiy99/oneway_ticket_to_vice_city/",
-   "date": "2026-10-21T09:56:38.000Z",
-   "source": "r/GTA6",
-   "summary": "What would you do first after landing in Vice City? submitted by /u/Blarzek [link] [comments]"
-  },
-  {
-   "id": "rd-1xx9e2p",
-   "title": "Did anyone notice that Flower In A Hurricane uses old logo?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbiwbk/did_anyone_notice_that_flower_in_a_hurricane_uses/",
-   "date": "2026-10-21T09:53:16.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Mazhura11 [link] [comments]"
-  },
-  {
-   "id": "rd-s176gp",
-   "title": "2023 v 2026 Logos",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbifx4/2023_v_2026_logos/",
-   "date": "2026-10-21T09:24:22.000Z",
-   "source": "r/GTA6",
-   "summary": "While the old one was classy, I remember always feeling it was weighted weird. I think the new one feels more even and pops much more especially from a distance, it even makes the blue at the top stan"
-  },
-  {
-   "id": "rd-xhcw4x",
-   "title": "About Lucia...",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xbhc37/about_lucia/",
-   "date": "2026-10-21T08:14:18.000Z",
-   "source": "r/GTA6",
-   "summary": "One thing I don't understand as a girl who plays videogames is the whole \"my bf can't play GTA 6 because it's basically a gf simulator.\" I have played Baldur's Gate 3 (where you can romance many chara"
   }
  ]
 }
