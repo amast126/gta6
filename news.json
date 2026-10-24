@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-24T06:50:09.345Z",
+ "generated": "2026-10-24T11:49:25.389Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-24T06:50:09.345Z"
+   "checked": "2026-10-24T11:49:25.389Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-24T06:50:09.345Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-24T11:49:25.389Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-24T06:50:09.345Z"
+   "checked": "2026-10-24T11:49:25.389Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-24T06:50:09.345Z"
+   "checked": "2026-10-24T11:49:25.389Z"
   }
  },
  "official": [
@@ -232,6 +231,62 @@
  ],
  "press": [
   {
+   "id": "gn-mugjph",
+   "title": "Why GTA 6's Early Reviews May Not Tell the Whole Story",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVk1mNl9ZdjZEMFNNLXZCWjkzY2pld2xwLVRTVWlxMUsweDE5OWNKOHVMenhFWmNpUGU2RG4wTkxJR2FKWUVGY1lHS0JLdVZoWnBsRVliX3BXSm1SWTg2RUpGclh2YUZtd3ljbEd3bkFNcTNlWVViWDRGTzVsdEFNY1FHRUhOQQ?oc=5",
+   "date": "2026-10-24T11:33:10.000Z",
+   "source": "GTA BOOM",
+   "summary": "Why GTA 6's Early Reviews May Not Tell the Whole Story GTA BOOM"
+  },
+  {
+   "id": "gn-1q61jw2",
+   "title": "TTWO Slips 1.98% as Opus 5.5 Tests GTA 6 Moat [2026]",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2lwbGZmdGktWHZ3Q0VseEhtSTR1dEdKVUxGeGJ2N0FLbWlxWGhEWldTMllSQVNKN3BuR0ZfemYxbjVIeU5JNlNQRk5nT2V1RVJvMmhqdFU0QnpJSnFEWlh5MEhpTHpqVnFXVkdYeWFXSUQ4MXVfTnUwSW1nOW82MFFLTQ?oc=5",
+   "date": "2026-10-24T11:13:33.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "TTWO Slips 1.98% as Opus 5.5 Tests GTA 6 Moat [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-77xqw0",
+   "title": "GTA 6 Amazon-exclusive vinyl bundle is still on sale ahead of launch",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUtHVkRGaElqMHEtazZsNnFSZ2psbDJXVGpjenNXQUpudG9vcV8yTVlVU1lmaGlCY1RITlRVck5GcHl0LWcxa3lrZWxBcVkzOHlkVTlLenE3VXJaNlg0SDRKai1KOWJkLXhZUU5sMGJzcEFreVBZX0dSQlMxUlNzS1Q0ek1lQjFHTkhpSDRQQ0tJaDgw?oc=5",
+   "date": "2026-10-24T11:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 Amazon-exclusive vinyl bundle is still on sale ahead of launch GAMINGbible"
+  },
+  {
+   "id": "gn-4q52k6",
+   "title": "GTA VI’s Release Is Spiking PTO Requests",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sNFNvYVBfNDI3SkVFMEltWWtLOEdoVVJIelNfSDJNSEpHV3lDU2VnR1d3Z015dkZGUWIySFZDNnRPN3NoZ0FRWHZGVlhQLW85N1VobDE2NkxCTkR1dkxHakJvQjZuSmhEY1c3STJ4R1lxelRUbnlYNGdR?oc=5",
+   "date": "2026-10-24T10:59:14.000Z",
+   "source": "TheFutureParty",
+   "summary": "GTA VI’s Release Is Spiking PTO Requests TheFutureParty"
+  },
+  {
+   "id": "gn-sbokk7",
+   "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade (TTWO:NASDAQ)",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR05tbFZaZ1d4NkJJb2IzQXUzLWJCVXE4MjRqQ2x2UmlJdWlhcmNsd1NBWHMtalJSbXJ5ODFRR1NVQXhhQU9fT2wxbzRWM3Q3Q0Z6NVRwbGQ1Rk5hRFF3RHNITHBEODF6MlNDMDFicFZCZXFtVEdRZ3hoQmxxT05YdjN6VDF0Y3lCWkdmeVZkdTlhVV9XNEhFMW1Pc1poa3NFT1Zr?oc=5",
+   "date": "2026-10-24T10:30:48.000Z",
+   "source": "Seeking Alpha",
+   "summary": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade (TTWO:NASDAQ) Seeking Alpha"
+  },
+  {
+   "id": "gn-cactop",
+   "title": "I'm replaying Red Dead Redemption 2 to prepare for GTA 6 — 5 features that need to return",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1p4SWJEaTVVWkFnb1ktZlMxT0UyS2N3MHNoM2g5Z0xNclJKYzBqT05SaXRXVnFxeko3NXNPOVpRaHV1d2wzMzFmUGtkcVdnOWZzcm5sUlFDVW9ZNzNJdzZraHQ5b2piNmZoX0xBSUhWLVU5OExTLVREc2VSNkZrc0NUUEU5SGtGckdNbW1jcC1Lck1HT290ODNpVzNyN0tjeUdPNXlZU3NOd2psUTZfcnZ6djVGdTB2UVRj?oc=5",
+   "date": "2026-10-24T09:45:00.000Z",
+   "source": "Tom's Guide",
+   "summary": "I'm replaying Red Dead Redemption 2 to prepare for GTA 6 — 5 features that need to return Tom's Guide"
+  },
+  {
+   "id": "gn-1y5s9xx",
+   "title": "GTA VI Survey: 10% Plan to Skip Work Launch Day [2026]",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTBSZWgtOGkwb3J6SmhCelZuUTBHRXhud2RTeW4xRkQ5b1RLel90U3ByQ0ZxV3B2WmRVMWthYkRhZ2pGSEFSN2toVHFWSVBXcnduYUREWXFkSURsWnBUZFphSVd6dllSUExLQ1N6ZVZqcWJRbHZjV1ViRUtzMjRFMHdMOF9ENHM?oc=5",
+   "date": "2026-10-24T09:35:11.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA VI Survey: 10% Plan to Skip Work Launch Day [2026] https://tech-insider.org/"
+  },
+  {
    "id": "gn-1qtajln",
    "title": "GTA 6 Miami Marketing Guide: Vice Beach Sign, Burger Shot, Y Hotel & Launch Events",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHBWMVpESXMyVWxBUGVQZmNhUGNHX1djWGhkTmZkNWFyYVdDT3Y1c3F4dWpJR3NPSmhMYU1CNnVfZlFSaElsUVQtMDFncW9KTmxCRDExZmR3ODNEb0dLVXF2alhjeWV4UUQtMG10VElGOVFFc2p5ak01enVKay1rRzk4djh0YTFabGtWYVZXaXVkaTVVT0Z6Q3F3ZVBuVV9XR0o0dmJzTFg2X2dfVURB?oc=5",
@@ -408,20 +463,20 @@
    "summary": "The Wait is Over: GTA 6 Trailer Finally Released! Yahoo Tech"
   },
   {
-   "id": "gn-uxlf9w",
-   "title": "Poll: Are You Taking Time Off for GTA 6?",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExaREFHbXRZYVE4czFUYllEQ3Fhd3BZcmZQWmxpYkJmNVE2c0VsTlJ3MWFVWFVfYjlHd0I1ZXVxaXZ1Z3NQZ2gxeXhvbW1tZkEwYlpGay1NemktdmF6aHg4RnNYSlJvNTZBSVczY1RtUlB6eHZWSTJSQTRFRk0?oc=5",
-   "date": "2026-10-23T16:20:47.000Z",
-   "source": "Push Square",
-   "summary": "Poll: Are You Taking Time Off for GTA 6? Push Square"
-  },
-  {
    "id": "gn-a3ld34",
    "title": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0RQZm9wNGpUZEF1Nmpaa08yVEpwMjlPSE1zektWOFctZzBpRWFUOFN4WllFZlF0RmJlY1FNTnBHdG4xUThpMGRESjRReExHR3ZrU3k2ZjYtZVQyd250Y0FyNjZuMWZyR3M2eWozQ1l0bTJCbk5hZGd6RXZpdE9lSDVseFZwQV9wTkFLdHVnVWlIY1ZLOVE?oc=5",
-   "date": "2026-10-23T16:17:43.000Z",
+   "date": "2026-10-23T16:19:33.000Z",
    "source": "41NBC News",
    "summary": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion 41NBC News"
+  },
+  {
+   "id": "gn-uxlf9w",
+   "title": "Poll: Are You Taking Time Off for GTA 6?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExaREFHbXRZYVE4czFUYllEQ3Fhd3BZcmZQWmxpYkJmNVE2c0VsTlJ3MWFVWFVfYjlHd0I1ZXVxaXZ1Z3NQZ2gxeXhvbW1tZkEwYlpGay1NemktdmF6aHg4RnNYSlJvNTZBSVczY1RtUlB6eHZWSTJSQTRFRk0?oc=5",
+   "date": "2026-10-23T16:19:24.000Z",
+   "source": "Push Square",
+   "summary": "Poll: Are You Taking Time Off for GTA 6? Push Square"
   },
   {
    "id": "gn-4abo1c",
@@ -534,14 +589,6 @@
    "date": "2026-10-23T09:42:37.000Z",
    "source": "Polygon.com",
    "summary": "Grand Theft Auto 6 Launch Trailer Was Changed for TV: Here Are All the Differences Polygon.com"
-  },
-  {
-   "id": "gn-4q52k6",
-   "title": "GTA VI’s Release Is Spiking PTO Requests",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sNFNvYVBfNDI3SkVFMEltWWtLOEdoVVJIelNfSDJNSEpHV3lDU2VnR1d3Z015dkZGUWIySFZDNnRPN3NoZ0FRWHZGVlhQLW85N1VobDE2NkxCTkR1dkxHakJvQjZuSmhEY1c3STJ4R1lxelRUbnlYNGdR?oc=5",
-   "date": "2026-10-23T06:19:56.000Z",
-   "source": "TheFutureParty",
-   "summary": "GTA VI’s Release Is Spiking PTO Requests TheFutureParty"
   },
   {
    "id": "gn-ucvo5p",
@@ -662,54 +709,6 @@
    "date": "2026-10-22T21:00:00.000Z",
    "source": "GameSpot",
    "summary": "How Will Gas And Refueling Work In GTA 6? GameSpot"
-  },
-  {
-   "id": "gn-yyh0um",
-   "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90MFpia1NOWXd5U3kxY0pmaG1IWGVHcTMyeUQ3cS1jTERlMkc1UW4yaXdBYlNPNE9xRk5vakZ3emk4X3V2OUItZ0J6dE5IdEhtRUdzRTdadGpkUjhRVDlhY0t2Yzh3eEllSXIwZ2JYT3dyczZKdXd3bGVabThJZw?oc=5",
-   "date": "2026-10-22T21:00:00.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6': Is PS5 Pro the best way to experience the game at launch? Mashable"
-  },
-  {
-   "id": "gn-1ezqw6k",
-   "title": "PS5 Sales Jump 22% in September Ahead of GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb0s4dWJtRkhrSXZMTGpCZEJpNTlLbTl1cFBadElXNG42R1pnVVM3dkxHX2lySmRqX0Qwa21XVHlUaUlWWWtZY3k3R1lfRzV1QmV1a0c3MXB0Ykc4enp1YmtJaHpBUGNldUExTGFuanhDaGFsczI5akVvU1JVcDdZMVlJSVFWVTk3eTNUUVpkVnB6Zw?oc=5",
-   "date": "2026-10-22T20:40:00.000Z",
-   "source": "Briefs Finance",
-   "summary": "PS5 Sales Jump 22% in September Ahead of GTA 6 Briefs Finance"
-  },
-  {
-   "id": "gn-15gkjzk",
-   "title": "Sensor Tower estimates GTA 6 has pulled in $630 million from pre-orders ahead of launch",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0d3WXRVMjlKdDR4T0dfUUFqNHdTeUN3MG03ZC1jWWE3dDNDQmItYVdNTllBOXNmekNrcS1WY2tNSVRsRjVqNmVvYWJLbmQ2cU42VHhrWUlBNHJ5c0xUOTB5YnRTcnJ6SW9nQmdXSklWd2tJVVRwSzlOVy1ONTU3X2dwcUpKOEdxUDlzbUVEVWs1YkZLcWlJaHhyUVdzSG11SW8teHZOSi1wUQ?oc=5",
-   "date": "2026-10-22T19:38:39.000Z",
-   "source": "eGamers.io",
-   "summary": "Sensor Tower estimates GTA 6 has pulled in $630 million from pre-orders ahead of launch eGamers.io"
-  },
-  {
-   "id": "gn-s8prb1",
-   "title": "GTA 6 release date reportedly sparks planned mass sick day; US may lose billions | Jesse Weber Live",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZExmRWI3Tl9pVFBiWHJZVEF4YWJDNXpxaDRVRmFVVDBkdTFtam82eUhjel9oY3o3MmVxMzNPNGpQcVBBUUVyNHZKbi10S2xER256ME14Nkxyelh0dXdQMmNNdERERFFWQUtGN0gxclRVWnNnYmFpa1NQblVXMUR3aHZYOV9sYXl3aVpEc3Bwa0NLNXIxYXFZVTBseVpfTUJncGQ1UlZ5U0prbFgtTFl0SWhSekJNeTl2bUJYNUdUN0Q2T0xtbV9seE90TEYwb2w5?oc=5",
-   "date": "2026-10-22T19:15:08.000Z",
-   "source": "NEWS10 ABC",
-   "summary": "GTA 6 release date reportedly sparks planned mass sick day; US may lose billions | Jesse Weber Live NEWS10 ABC"
-  },
-  {
-   "id": "gn-1rm0wvo",
-   "title": "‘Grand Theft Auto VI’ fuels 22% jump in Sony PlayStation 5 sales",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2xHOWppRVNNb0duUHFHQmZZekNkSG9TM1cxQ1Y3ZmpKeHltLWxpb25WT0gtelhYV3Ewei1OOG40UVo3N011WHhSZ25Val9kTmNMOUQtcVFDa3pvVnR1UV9TYWxjQVo2SEtiYVRPVnpadExIVlh0a19wazROZ1JGRE5kRXE2LTMxZXJJa3pPRVVRMGgwamgxNHoyQlIzdw?oc=5",
-   "date": "2026-10-22T18:58:42.000Z",
-   "source": "The Spokesman-Review",
-   "summary": "‘Grand Theft Auto VI’ fuels 22% jump in Sony PlayStation 5 sales The Spokesman-Review"
-  },
-  {
-   "id": "gn-112waf1",
-   "title": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFBfWlZkOTRIc2FZSHktQWtOQTUtYWFuV0tRUFpBeXpYQWdvUGZ5UGxJZnVkMlQ0WkxUQjJLNS1aMHR4cU8teW1WMkp1OS14MlNzWTdaeVVqbUFvb1BiVlg5MFd2Y3J1SW45dWJGNllxcUlmT3VyTXZlY1hZTkNsWWFrSjdxNXBNQ0RRbDE5ZjVPTC1ubGlVcGJMMFRlekdqYi1WdEJPUVNEelFy?oc=5",
-   "date": "2026-10-22T18:42:29.000Z",
-   "source": "101.5 CIL-FM",
-   "summary": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack 101.5 CIL-FM"
   }
  ],
  "community": [
@@ -728,6 +727,14 @@
    "date": "2026-10-24T03:04:38.000Z",
    "source": "r/GTA6",
    "summary": "saw this driving on i-75 about 30min away from Miami aka Vice City submitted by /u/itsOnlyMarvin [link] [comments]"
+  },
+  {
+   "id": "rd-pulioo",
+   "title": "Rockstar sponsors Druski’s recent video",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdx72u/rockstar_sponsors_druskis_recent_video/",
+   "date": "2026-10-24T02:39:30.000Z",
+   "source": "r/GTA6",
+   "summary": "It wouldn’t be crazy if Druski is in GTA VI. His comedy matches Rockstar perfectly. Coulda Been Records is like a real life GTA skit. submitted by /u/Imbazzio [link] [comments]"
   },
   {
    "id": "rd-zg3ko4",
@@ -1024,14 +1031,6 @@
    "date": "2026-10-22T14:54:42.000Z",
    "source": "r/GTA6",
    "summary": "I love the LOVE magazine cover so much I wanted to have it printed and framed but went another way with this and ordered a custom ravensburger puzzle with it. I just edited out the text at the bottom "
-  },
-  {
-   "id": "rd-qu6x92",
-   "title": "« Neverender » by Justice also confirmed to be in the game ?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xck4w5/neverender_by_justice_also_confirmed_to_be_in_the/",
-   "date": "2026-10-22T14:29:18.000Z",
-   "source": "r/GTA6",
-   "summary": "The song is now using “VI” logo while playing on Spotify (Apple TV) ! submitted by /u/iPeluche [link] [comments]"
   }
  ]
 }
