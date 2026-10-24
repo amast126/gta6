@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-23T23:18:27.370Z",
+ "generated": "2026-10-24T01:47:10.749Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-23T23:18:27.370Z"
+   "checked": "2026-10-24T01:47:10.749Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-23T23:18:27.370Z"
+   "checked": "2026-10-24T01:47:10.749Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-23T23:18:27.370Z"
+   "checked": "2026-10-24T01:47:10.749Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-23T23:18:27.370Z"
+   "checked": "2026-10-24T01:47:10.749Z"
   }
  },
  "official": [
@@ -231,6 +231,38 @@
  ],
  "press": [
   {
+   "id": "gn-5qpy53",
+   "title": "GTA 6 Review Embargo Leak Points to Nov. 18 [2026]",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NWl9JNzRJTHplb2dHMXMxRXVrN2hZVmlZVWljRjNVb2hTanpQSTNET3dDMS1CRWQ0TkQyeDZMb0pJdkRGWUdhekw3b3QzdjV2d0FubUMyakkzQ1FBYmhaZlhhWndhdVlHSGwxaWR5N0s?oc=5",
+   "date": "2026-10-24T00:35:01.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Review Embargo Leak Points to Nov. 18 [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-hkai92",
+   "title": "GTA 6 Could Cost Businesses $1 Billion in Lost Productivity",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTERMeGU2M3daSVkzMHMzSllWLTJEUThBemJadzZJVmR3R1NSUkdGV3BFYVVTNTczeVNfM1N2eTVGODJ6VzZaYkZMN2cxaHVhclNCN25HTmt0VFoyRklsTU9mUXk3dkEwdm9OczhVN1UwbkVHQ3Z1cmhiRVB3U2ladG9rQkkxeXVWTC1WVXBxd0s0bkg2bXFKZHB6dlR4VDdPeS0xYTRlSDR6bFpFYTJMSUNocWVpN0lPUUkwYVJuWXBfMXRtTXdZbg?oc=5",
+   "date": "2026-10-23T23:51:00.000Z",
+   "source": "NBC Palm Springs",
+   "summary": "GTA 6 Could Cost Businesses $1 Billion in Lost Productivity NBC Palm Springs"
+  },
+  {
+   "id": "gn-vmh974",
+   "title": "GTA 6 review embargo time leaks, with some sites restricted until release date",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlFQVnNPSndEUGpBT05aZmo3bG9yWE9sUnVRZnFzSW5EWGdBVzl6OHg0eFlvVGczWjZud2ItckMzWFVYR3BESk5QbV9qOWdCU3dqVXA5Y0F3OEt6UFVRa0N3Z2kwTGxWNHM5em01SWUzVG5RTWpTR1FaTVZmbjVJY1hTVElfYmp1dWxKYjZaMF9tTktVUjZOdWczVVd0Um5Dc2xsX3QybG56N3pfcWhwWEFhRHFWM1pfaEVrajNPcw?oc=5",
+   "date": "2026-10-23T23:49:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "GTA 6 review embargo time leaks, with some sites restricted until release date Notebookcheck"
+  },
+  {
+   "id": "gn-lkxk15",
+   "title": "How should investors think about GTA VI pre-order performance? By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUxaWXdab2plS1pWWExEaVlldFR5RGExbjdtRVg1Y2xWN25ZNGJMdXROSnZneldiT1JyNXVnTVhfaVBKU2dNWV9CdnMyYV8tYkRjeG5XSjBremJlay1HVURQN0xfcl9sUFl5Qno5S01fUzBrRzlacFJyYTc3QjJVNmdJMkE2dEFmQm5fWHVtN2dIYktOcXYwcHZKWVdFRFMtUlBFajFuSXBHejlNSldjZA?oc=5",
+   "date": "2026-10-23T23:39:41.000Z",
+   "source": "Investing.com Australia",
+   "summary": "How should investors think about GTA VI pre-order performance? By Investing.com Investing.com Australia"
+  },
+  {
    "id": "gn-zewxhd",
    "title": "Everything We Learned from GTA 6’s Launch Trailer",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcW16STB5Wjk1RjYyTjRhR0dvZWQyQWJPek1TQzFWMjFfU1BmTUd4NlFRR3djYmtxb2hjckYyQ0xTUnN2UnVDYlhRUEZwdURLTkNFbGRlOWFGNVZzbDdoM052Znd3eHc1YUd6aDIzUG0ydHNwNFJOUHZHTndwd0JvRTlkdlhlQmFFNWc?oc=5",
@@ -253,6 +285,14 @@
    "date": "2026-10-23T22:00:00.000Z",
    "source": "www.svg.com",
    "summary": "Why GTA 6 Fans Are Preordering A Game They Still Haven't Seen Properly Played www.svg.com"
+  },
+  {
+   "id": "gn-ns04wj",
+   "title": "'GTA 6': Every trailer released so far",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45YktkMm9zZGhJNnF0RVJtMVhvam5YNkJmWDRURUxSOEpORGFXUl9VTEZwakpwSlh5ZjhOWGRydlNSNlN0YlhTaW1hcVBCTkRYbm1odGR4MTA1U2pfQWx6OE90aVdaMUZGRTJkYy1oWHd5SnVOY1lsaXp3?oc=5",
+   "date": "2026-10-23T21:32:39.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6': Every trailer released so far Mashable"
   },
   {
    "id": "gn-1vtdrd3",
@@ -354,7 +394,7 @@
    "id": "gn-uxlf9w",
    "title": "Poll: Are You Taking Time Off for GTA 6?",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExaREFHbXRZYVE4czFUYllEQ3Fhd3BZcmZQWmxpYkJmNVE2c0VsTlJ3MWFVWFVfYjlHd0I1ZXVxaXZ1Z3NQZ2gxeXhvbW1tZkEwYlpGay1NemktdmF6aHg4RnNYSlJvNTZBSVczY1RtUlB6eHZWSTJSQTRFRk0?oc=5",
-   "date": "2026-10-23T16:20:53.000Z",
+   "date": "2026-10-23T16:20:47.000Z",
    "source": "Push Square",
    "summary": "Poll: Are You Taking Time Off for GTA 6? Push Square"
   },
@@ -669,49 +709,25 @@
    "date": "2026-10-22T16:57:44.000Z",
    "source": "GamesRadar+",
    "summary": "Former GTA 6 and Red Dead Redemption 2 designer says layoffs at Rockstar aren't the real danger – \"The question is whether you can meet the expectations\" GamesRadar+"
-  },
-  {
-   "id": "gn-kdqrv1",
-   "title": "Beers From The World Of Grand Theft Auto Are Coming To Life",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYm9TWUM2c0FTem9nbUZwUk16SDB2YnMxQWstWDhUemJobDJTQlpueUw4TVhGMXVJZDdsTHRXSVNyV1VCaWZmeDVyd3FYaXhLcjkzZkVxWHl4YjRUWl9kVzc0NUJSblRoVnJ0dUx4Y1VlcHBMT2RRTzBTRWFWNFNaV0o4VWdDYmhWdlE5aTdiNk0xYklp?oc=5",
-   "date": "2026-10-22T16:51:14.000Z",
-   "source": "Sporked",
-   "summary": "Beers From The World Of Grand Theft Auto Are Coming To Life Sporked"
-  },
-  {
-   "id": "gn-1r0vf8d",
-   "title": "GTA VI probably won't cost the U.S. economy $1 billion—and economists say it wouldn't matter if it did",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT185ZFNSVG9nVnBJSVN1djF2OWtER1U2QVA1ZGVEZU9KOXFaeXNCbWs1VFV0Q0JieE1yZXNUN1d4eVlXQTlzWXpTNi1BZzlWTUZVV05VUDJMd3EzVnpyeGQ5UmR2X2loVnRDUV9rQUw3ejV6QVlNTjh5Y3c4aXJSSENmNXN3RzZRdzBV?oc=5",
-   "date": "2026-10-22T16:47:00.000Z",
-   "source": "Fortune",
-   "summary": "GTA VI probably won't cost the U.S. economy $1 billion—and economists say it wouldn't matter if it did Fortune"
-  },
-  {
-   "id": "gn-lj85ti",
-   "title": "Saber showed a GTA VI-style expansion for the World War Z shooter",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd3RGc1hDc243ajUtUlJMejhwOW5EUHRDUXN0TTRzd1lRYkFOclRDQUg0dVFaakc2YjhvdkNZME1EOWtKbE9kTHhWWUtDZzlvMWdKTU1Wcm1YWjVHbjZwQjF6dmlRS21DSWxxSXg0M1ZQc2VPOXZ5N1Bub0JmU2dwTnBLT2YwSGtlU2pYZ3Q3dkJtWDJpdGk0dXA0eVVTMzIzWnFCdlAzd2wwemPSAbABQVVfeXFMTU9CM1JGbTFNNW15b2s0Z2FZTGtUNzNVMl9lZ3BPWGxyOUM2SkZiSlJ4UnRSZDdxMVh6SGVRczdqZlFDN2RUSmJ4YnN4b0lzMFJyMjJIWG5vV09oQWRVbU9FRzF4dm1OX2VIU29va3Q2MGRhelJONU5HQnRteHpMVXZiWHNUcF9lTHcyYzAzaXdIZEtSd0l5aUhyMXhoZTgwNmVwZGk3bjVtNlctbmJmenc?oc=5",
-   "date": "2026-10-22T16:44:35.000Z",
-   "source": "iXBT.games",
-   "summary": "Saber showed a GTA VI-style expansion for the World War Z shooter iXBT.games"
-  },
-  {
-   "id": "gn-162rcem",
-   "title": "GTA 6 Standard Edition vs. Ultimate Edition: Which Version Is the Better Deal?",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzI5NnVLdjE0YmNxMF9tWFdvU204c20zTjBxU3h0OXpMTElGekRSWDdIYzVIbFdxNThHS2RwMHJEZjI5QlVOTWtTSzNIVlNyQVNwcEdVUEdzZWZHWjZROF84dW03NjhGLUpaOGg5ZzVqSDFCV3REazlBQVpHZ2syZWdEZWlvVWJBTXBGVWVfMkI0anhLZHZFdFhjV3JGUXdQTlhTelFnc3J2bV92dmc?oc=5",
-   "date": "2026-10-22T16:23:31.000Z",
-   "source": "PCMag UK",
-   "summary": "GTA 6 Standard Edition vs. Ultimate Edition: Which Version Is the Better Deal? PCMag UK"
-  },
-  {
-   "id": "gn-17b4itp",
-   "title": "GTA 6 Could Trigger A $1 Billion Workday Blackout Across The U.S.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1gxckZGSDh5ZE0zZzgzWU1JaUZ2cE41MklMVnd3ZWtPbExuX0JienZCcVhMT0I4WUtkNVNhVWJNTTRrVk5wLUQ5QUhNNGQ0ZTlmeDFhSm1Dd01pLTdRU1lhZXRDTHp2emJTckJiUWJFaXJ5MHEzQXp3LXlPNFBpRjBLTzJ4RmlKVzlHbE43SlVJbDg?oc=5",
-   "date": "2026-10-22T16:01:00.000Z",
-   "source": "HotHardware",
-   "summary": "GTA 6 Could Trigger A $1 Billion Workday Blackout Across The U.S. HotHardware"
   }
  ],
  "community": [
+  {
+   "id": "rd-5js5m8",
+   "title": "The Woodlands of GTA6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdus2r/the_woodlands_of_gta6/",
+   "date": "2026-10-24T00:34:13.000Z",
+   "source": "r/GTA6",
+   "summary": "I honestly cannot wait to explore the woodlands of Leonida. The forests look incredibly dense and detailed, and I'm really looking forward to wandering through them to see just how much attention Rock"
+  },
+  {
+   "id": "rd-lu220z",
+   "title": "Thought I’d paint my favorite scene.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdsejk/thought_id_paint_my_favorite_scene/",
+   "date": "2026-10-23T22:44:31.000Z",
+   "source": "r/GTA6",
+   "summary": "All paintings done by jujuras. NO AI used submitted by /u/Goylianos [link] [comments]"
+  },
   {
    "id": "rd-1fp1l4t",
    "title": "the Jason side of the New York bus!",
@@ -1015,22 +1031,6 @@
    "date": "2026-10-22T11:59:09.000Z",
    "source": "r/GTA6",
    "summary": "Update from yesterday post outside of downtown Miami. submitted by /u/Gregorioz15 [link] [comments]"
-  },
-  {
-   "id": "rd-qnwit4",
-   "title": "Fun Fact: Vice City is similar to Las Venturas from San Andreas in that their airports are the only two landlocked international airports in the entire series",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xceu70/fun_fact_vice_city_is_similar_to_las_venturas/",
-   "date": "2026-10-22T10:25:40.000Z",
-   "source": "r/GTA6",
-   "summary": "This is a first for the HD Universe with LSIA and Francis International both being bordered by their respective oceans. To my knowledge these are the only two landlocked international airports in the "
-  },
-  {
-   "id": "rd-cu5cah",
-   "title": "My son know's the protagonists names!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xce1pz/my_son_knows_the_protagonists_names/",
-   "date": "2026-10-22T09:38:54.000Z",
-   "source": "r/GTA6",
-   "summary": "I was designing some artwork for a post and my son was like \"Its Jason and Lucia!\" I didn't capture that on video but I caught him saying Lucia and I was just taken aback. Why does this matter? He's 3"
   }
  ]
 }
