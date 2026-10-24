@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-24T18:17:21.969Z",
+ "generated": "2026-10-24T21:02:36.238Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-24T18:17:21.969Z"
+   "checked": "2026-10-24T21:02:36.238Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-24T18:17:21.969Z"
+   "checked": "2026-10-24T21:02:36.238Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-24T18:17:21.969Z"
+   "checked": "2026-10-24T21:02:36.238Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-24T18:17:21.969Z"
+   "checked": "2026-10-24T21:02:36.238Z"
   }
  },
  "official": [
@@ -231,6 +231,38 @@
  ],
  "press": [
   {
+   "id": "gn-19o6uf1",
+   "title": "You can order real-life GTA 6 burgers as Florida's Skinny Louie locations transform into Burger Shots",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YREJzeGsyOTFCRnZ2dHVzcGFVNmFXVWRqUXdIX2Q4YUpkWmxYSjlBWUxBSVZlNk5mdUxKOUtQZ2xpeEFUQnM0ODJjZlMySWxXTjVDMWhxVm4ybWdSWlMzUjVXMm05SFhjNXhBYg?oc=5",
+   "date": "2026-10-24T20:08:04.000Z",
+   "source": "Secret Miami",
+   "summary": "You can order real-life GTA 6 burgers as Florida's Skinny Louie locations transform into Burger Shots Secret Miami"
+  },
+  {
+   "id": "gn-19sqikp",
+   "title": "GTA 6 Is Taking Its Marketing to a Whole New Level",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVBVSGtBLVpuZWVZUkZQNms1eG5DMlFud24wcXd3MWNYVzNSWkZtTk44LUpJaVpUYnZKMXFnZi1IMDF4NHJTMjJpWG9NcnhzeThnUzRPM2d3dmRBNDdSNV9yWm1CZW5aMmU4a01ORHpGZEY0cm5CVFZLeVVHbjlpMW5xb0trMXdhWWpIag?oc=5",
+   "date": "2026-10-24T20:07:12.000Z",
+   "source": "OpenCritic",
+   "summary": "GTA 6 Is Taking Its Marketing to a Whole New Level OpenCritic"
+  },
+  {
+   "id": "gn-hy9y9s",
+   "title": "Xfer Records Shrub: Serum for M-VAVE FM-1 before GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2hoRzVfSXE3NWV3bGFDOFh5Y0FTNFFEc1NxQWRTamN2R0lWM0xROFhaOEstWDBRYmVfMTBBSTBYcEtxai1tcmUxY3NiTkN0dF9yaXNneHVkS1ZoeldXVURRclI5WmtFVFFDUVJwTnJpaGF1Y0dIckRSN05WYUtTLUJsVGNHbWVVR0dLWlJaOEo3MTFDckE?oc=5",
+   "date": "2026-10-24T19:32:34.000Z",
+   "source": "synth anatomy",
+   "summary": "Xfer Records Shrub: Serum for M-VAVE FM-1 before GTA 6 synth anatomy"
+  },
+  {
+   "id": "gn-1bxrpl3",
+   "title": "One of the best gaming TVs is $1,000 off: LG C6 OLED hits Amazon low ahead of GTA VI and Zelda release",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01RFZtVVFXb1AzYWF1cGY2WUVOT2VnUHktcVFIcjR4Y0wtbUhFYXR2M284cmx3Vlo0eGJ5ajJSYTZOZUMzX1pTclM2RjFraXNKVlFodWRKdWF2bDhtT3J2eWRPcGpLQzZWcTZ2YW5oWDJCeS1fT1lhN2Vxaw?oc=5",
+   "date": "2026-10-24T19:15:00.000Z",
+   "source": "9to5Toys",
+   "summary": "One of the best gaming TVs is $1,000 off: LG C6 OLED hits Amazon low ahead of GTA VI and Zelda release 9to5Toys"
+  },
+  {
    "id": "gn-s3e44u",
    "title": "Rockstar Is Already Tracking Vanoss Crew's Miami GTA 6 Launch Shoot",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXVJeWtZU2lyUUhyX01PdzhTcHpoejE5Zjkyc2dmQ3c4TFB4bnpDY2w2VzRLTG1yUFNkazZ2NEtEaU5vQTdSTllVZkJLLWMwSHlXZ2dPMUJ6NjVrWV9yYXR4anJWNG51RE9vQ0lyeFZWUVBlZ1dJajZfSS1QMzRHUkNhN0gxOFk5NDFSdko3LXludmwxLXpoTG9oZ3E?oc=5",
@@ -253,14 +285,6 @@
    "date": "2026-10-24T16:00:00.000Z",
    "source": "SVG",
    "summary": "Can You Play GTA 6 Without An Internet Connection? SVG"
-  },
-  {
-   "id": "gn-hy9y9s",
-   "title": "Xfer Records Shrub: Serum for M-VAVE FM-1 before GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2hoRzVfSXE3NWV3bGFDOFh5Y0FTNFFEc1NxQWRTamN2R0lWM0xROFhaOEstWDBRYmVfMTBBSTBYcEtxai1tcmUxY3NiTkN0dF9yaXNneHVkS1ZoeldXVURRclI5WmtFVFFDUVJwTnJpaGF1Y0dIckRSN05WYUtTLUJsVGNHbWVVR0dLWlJaOEo3MTFDckE?oc=5",
-   "date": "2026-10-24T13:38:47.000Z",
-   "source": "synth anatomy",
-   "summary": "Xfer Records Shrub: Serum for M-VAVE FM-1 before GTA 6 synth anatomy"
   },
   {
    "id": "gn-1vx3anq",
@@ -685,33 +709,73 @@
    "date": "2026-10-23T03:54:17.000Z",
    "source": "Mashable",
    "summary": "GTA 6 Netflix extended look: What time it releases today Mashable"
-  },
-  {
-   "id": "gn-1dov47t",
-   "title": "GTA 6 Standard Edition vs. Ultimate Edition: Which Version Is the Better Deal?",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1UwQm1RQmotTkJ0eWlYMlBIdTJnREJGWmtyaXowQW12WEZZdS04V0llMlJqRjhxX2NGTmx5Q2s2NHllcXV0b3pmU1dGZEFtUHFyX1VELWg3WTR5U1FxSzYyUFl5RWV1OVdnUGdWMU1fMUV2dWtPLU1LYmpNaDExaXBsT2VDeEFhWjlya2gyV3pzNFo3TWhKQnh1ZmZmLVI0NHhxWHpvY0p1cXBTX3pibw?oc=5",
-   "date": "2026-10-23T03:35:34.000Z",
-   "source": "PCMag Middle East",
-   "summary": "GTA 6 Standard Edition vs. Ultimate Edition: Which Version Is the Better Deal? PCMag Middle East"
-  },
-  {
-   "id": "gn-b3sq4s",
-   "title": "We Waited 13 Years For Grand Theft Auto 6, Here’s All The Insane Stuff We Got First",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3dNZ1BkcVNZNnM1ajVNN0l3QkVYblRiV2JlZkgySTQ5YVE1LVYwNUVYWnFqMjVNY2gwZ0Y1eUk3enNINGltMFQwUUlMYnBhVnE1R1BOc2w4aVNNREc2SVUtNFJNWlZRRHVtTDVlc3Z4MzQzWmEyQTR4b2hVaVAyZFZXWldFWlJKRC1FX254UmJwdXcwVUtEWi1oT2FESTZ1bFItcmR6Y3pqdw?oc=5",
-   "date": "2026-10-23T02:22:00.000Z",
-   "source": "HotCars",
-   "summary": "We Waited 13 Years For Grand Theft Auto 6, Here’s All The Insane Stuff We Got First HotCars"
-  },
-  {
-   "id": "gn-uisdum",
-   "title": "GTA VI Is Exactly One Month Away. The Final Trailer Looks Awesome",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uQldTX3N3ZkxGN3J0cTBxbkZkc2cxT3dXY2gxdWhqRGdZeVBSZlZpb2tLZlpOTVMwYnFIQTJvOXZaV1pXdC1lNTA3YU9TeExJMGw0SllqR0l5M3RURnNCQmN6bFhnNjFRVDZlNERndEhuRk5Va3Nn?oc=5",
-   "date": "2026-10-23T02:06:01.000Z",
-   "source": "Motor1.com",
-   "summary": "GTA VI Is Exactly One Month Away. The Final Trailer Looks Awesome Motor1.com"
   }
  ],
  "community": [
+  {
+   "id": "rd-13bqeaw",
+   "title": "The mystery of this game's story is appreciated",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xej3vb/the_mystery_of_this_games_story_is_appreciated/",
+   "date": "2026-10-24T20:33:17.000Z",
+   "source": "r/GTA6",
+   "summary": "With GTA 5 there was a lot more shown with character trailers and in general. Heck even the extended look didn't really show that much if you think about it. A lot of previous rockstar games tend to s"
+  },
+  {
+   "id": "rd-1w7yhz8",
+   "title": "Rockstar games marketing is craazyyy!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xeisx1/rockstar_games_marketing_is_craazyyy/",
+   "date": "2026-10-24T20:20:25.000Z",
+   "source": "r/GTA6",
+   "summary": "Damn they got a good budget, this is so cool! submitted by /u/Kind_Possibility2027 [link] [comments]"
+  },
+  {
+   "id": "rd-67f5ln",
+   "title": "Spotted in Key West for Fantasy Fest!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xehs4o/spotted_in_key_west_for_fantasy_fest/",
+   "date": "2026-10-24T19:38:27.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Traditional_Part_626 [link] [comments]"
+  },
+  {
+   "id": "rd-1nx919q",
+   "title": "The launch trailer is just too good",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xehhat/the_launch_trailer_is_just_too_good/",
+   "date": "2026-10-24T19:26:13.000Z",
+   "source": "r/GTA6",
+   "summary": "Is it just me, or the GTA 6 launch trailer is just too good. I mean the music used feels perfect and goes really well with the visuals. Thi trailer got me supuer hyped up for the game submitted by /u/"
+  },
+  {
+   "id": "rd-8h55fy",
+   "title": "Being a good citizen",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xeh6t9/being_a_good_citizen/",
+   "date": "2026-10-24T19:14:15.000Z",
+   "source": "r/GTA6",
+   "summary": "There's so much to do in his game that we can have whole sessions not even comitting crimes. Like I'm sure I'm gonna spend hours customizing cars, racing, hunting, and even shooting hoops. This will l"
+  },
+  {
+   "id": "rd-4celmf",
+   "title": "New advertisement spotted and three other billboards",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xegpxi/new_advertisement_spotted_and_three_other/",
+   "date": "2026-10-24T18:55:34.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Snak3D0ct0r [link] [comments]"
+  },
+  {
+   "id": "rd-xuqlmx",
+   "title": "Giant Mural going up on Wilshire in Los Angeles",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xegojz/giant_mural_going_up_on_wilshire_in_los_angeles/",
+   "date": "2026-10-24T18:53:58.000Z",
+   "source": "r/GTA6",
+   "summary": "Drive by this building everyday and have been WAITING so long to see this. submitted by /u/BlueMissed [link] [comments]"
+  },
+  {
+   "id": "rd-xkgjxb",
+   "title": "I believe the Criminal Profile system will work more as an alignment compass rather than RDR's linear Honor bar.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xeg62q/i_believe_the_criminal_profile_system_will_work/",
+   "date": "2026-10-24T18:33:30.000Z",
+   "source": "r/GTA6",
+   "summary": "At first I was confused as to why there were 4 player states if it was to work like the honor system. At best you'd need 2 or 3 tiers to cover most playstyles but instead of thinking only of what has "
+  },
   {
    "id": "rd-u7vr0o",
    "title": "Article of the Day #53: Flash FM",
@@ -967,70 +1031,6 @@
    "date": "2026-10-23T05:28:27.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/PinReal4448 [link] [comments]"
-  },
-  {
-   "id": "rd-y94y9y",
-   "title": "Getting ready for GTA VI in style! Built a custom Vice City DualSense with Hall-Effect/TMR sticks and a larger battery. What do you think?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xd4ves/getting_ready_for_gta_vi_in_style_built_a_custom/",
-   "date": "2026-10-23T05:00:03.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/JS_Custom_Controller [link] [comments]"
-  },
-  {
-   "id": "rd-mnqa30",
-   "title": "New look at the GTA 6 rebranded streetlight banners up on Boulevard!🌴",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xd4u05/new_look_at_the_gta_6_rebranded_streetlight/",
-   "date": "2026-10-23T04:57:50.000Z",
-   "source": "r/GTA6",
-   "summary": "New look at the GTA 6 rebranded streetlight banners up on Boulevard!🌴 submitted by /u/Bk4LL [link] [comments]"
-  },
-  {
-   "id": "rd-1wm6v6h",
-   "title": "Favorite memory/theory in the last few years on this Reddit?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xd1t26/favorite_memorytheory_in_the_last_few_years_on/",
-   "date": "2026-10-23T02:20:50.000Z",
-   "source": "r/GTA6",
-   "summary": "One month feels like a dream,we have seen it all in this sub Reddit. I don’t think this app has ever had a community like the one that was built here. We’ve all suffered, cried , shed blood and celebr"
-  },
-  {
-   "id": "rd-1qppyq0",
-   "title": "Has GTA ever had a flashback mission?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcxvmb/has_gta_ever_had_a_flashback_mission/",
-   "date": "2026-10-22T23:15:35.000Z",
-   "source": "r/GTA6",
-   "summary": "One of the theories from the launch trailer is that this shot is a flashback from Jason's military past. But has GTA, or even Red Dead Redemption, ever had a flashback mission? I'm not counting the op"
-  },
-  {
-   "id": "rd-1gg0aac",
-   "title": "lightning mcqueen",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcx2sx/lightning_mcqueen/",
-   "date": "2026-10-22T22:39:55.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Zealousideal-You465 [link] [comments]"
-  },
-  {
-   "id": "rd-1k9yu4o",
-   "title": "Looks like I might have been right",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcwtua/looks_like_i_might_have_been_right/",
-   "date": "2026-10-22T22:29:03.000Z",
-   "source": "r/GTA6",
-   "summary": "May not work exactly like I guessed a year ago but it seems like this is the type of thing we're gonna be able to do. submitted by /u/TheOneTruePartridge [link] [comments]"
-  },
-  {
-   "id": "rd-14mxpwx",
-   "title": "NYC",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcwrzy/nyc/",
-   "date": "2026-10-22T22:26:43.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/senseikreeese [link] [comments]"
-  },
-  {
-   "id": "rd-swd68q",
-   "title": "Spotted at La Defense, the business district of Paris",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcv0fi/spotted_at_la_defense_the_business_district_of/",
-   "date": "2026-10-22T21:13:26.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/NoPiece2723 [link] [comments]"
   }
  ]
 }
