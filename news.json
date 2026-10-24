@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-24T15:17:56.910Z",
+ "generated": "2026-10-24T18:17:21.969Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-24T15:17:56.910Z"
+   "checked": "2026-10-24T18:17:21.969Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-24T15:17:56.910Z"
+   "checked": "2026-10-24T18:17:21.969Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-24T15:17:56.910Z"
+   "checked": "2026-10-24T18:17:21.969Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-24T15:17:56.910Z"
+   "checked": "2026-10-24T18:17:21.969Z"
   }
  },
  "official": [
@@ -231,6 +231,30 @@
  ],
  "press": [
   {
+   "id": "gn-s3e44u",
+   "title": "Rockstar Is Already Tracking Vanoss Crew's Miami GTA 6 Launch Shoot",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXVJeWtZU2lyUUhyX01PdzhTcHpoejE5Zjkyc2dmQ3c4TFB4bnpDY2w2VzRLTG1yUFNkazZ2NEtEaU5vQTdSTllVZkJLLWMwSHlXZ2dPMUJ6NjVrWV9yYXR4anJWNG51RE9vQ0lyeFZWUVBlZ1dJajZfSS1QMzRHUkNhN0gxOFk5NDFSdko3LXludmwxLXpoTG9oZ3E?oc=5",
+   "date": "2026-10-24T17:50:24.000Z",
+   "source": "GTA BOOM",
+   "summary": "Rockstar Is Already Tracking Vanoss Crew's Miami GTA 6 Launch Shoot GTA BOOM"
+  },
+  {
+   "id": "gn-1w6zirm",
+   "title": "GTA 6 review embargo reportedly lifts November 18th, but some outlets may wait until launch",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDQ4ZE5IbldRZXJLcjZERUl1OUdjTTRFSnp2YjdKaHhYelBja2kwQi1RMmxGMEE1anhxY05VbXNmcS1mdDI3d201OFhvR2dpQUQzV043YUYwT28wbF91cm15bTVNanFhcXZIZkY5NUhZQTY3Qldjb3lLOFloemZISWdwV04tSDV6VVZsVldtenlWVWdfeVFJOW5QMjZrc3NIQ1VvcG04Z1lDZzF6Q0JZ?oc=5",
+   "date": "2026-10-24T17:24:15.000Z",
+   "source": "eGamers.io",
+   "summary": "GTA 6 review embargo reportedly lifts November 18th, but some outlets may wait until launch eGamers.io"
+  },
+  {
+   "id": "gn-tq7gm7",
+   "title": "Can You Play GTA 6 Without An Internet Connection?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWZ1N3FPQmppdmZPdURFLXpLLWI4RV8wWFVDMmkzM0pZQkticHlUZW5xZ214ZkFpZlNYQlpRcmdobE9XRWlmUUZLWW1hNzA2UmhHTEJYMDNVSFpyRm1oeExFVjVsTVJQU09PcGtGRjdCYzNYeXNkbUd5MEtZSVk1OQ?oc=5",
+   "date": "2026-10-24T16:00:00.000Z",
+   "source": "SVG",
+   "summary": "Can You Play GTA 6 Without An Internet Connection? SVG"
+  },
+  {
    "id": "gn-hy9y9s",
    "title": "Xfer Records Shrub: Serum for M-VAVE FM-1 before GTA 6",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2hoRzVfSXE3NWV3bGFDOFh5Y0FTNFFEc1NxQWRTamN2R0lWM0xROFhaOEstWDBRYmVfMTBBSTBYcEtxai1tcmUxY3NiTkN0dF9yaXNneHVkS1ZoeldXVURRclI5WmtFVFFDUVJwTnJpaGF1Y0dIckRSN05WYUtTLUJsVGNHbWVVR0dLWlJaOEo3MTFDckE?oc=5",
@@ -247,6 +271,14 @@
    "summary": "Rockstar Games Confirms Unexpected Change From Grand Theft Auto V in GTA 6 ComicBook.com"
   },
   {
+   "id": "gn-16bexse",
+   "title": "GTA VI Will Be a Huge Success for Rockstar, but It Could Cost the U.S. Economy Billions of Dollars for an Unexpected Reason",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUk5uOWczRjBlZDczMTY4UTF0S0tzbTdJVTNEZnVrNnl1OTNWbUtEZDBTeTRvYV80eWg4QUMxclhNTzFXcWQ5RUFSWUJyczZWYjZPbUJialFaR1g2QnBLWl9xUmZCd1FzNkZYU0hMWDVmMzRST3cyUkJYMFZ0S3RRRTFqR2NaaWZURFNpT0JxR0N1N0x6R2dQUm5VbGx0N1Y3cG41ZzRfSXR2VmRPZEdqaWpRNXpUTHAwNEFHdUcwQmx0OXVHbjIwR0NBbVIydExYUDFSdVRLWFdXc1BsUmdqdHJabXhyWlB1?oc=5",
+   "date": "2026-10-24T13:12:00.000Z",
+   "source": "www.levelup.com",
+   "summary": "GTA VI Will Be a Huge Success for Rockstar, but It Could Cost the U.S. Economy Billions of Dollars for an Unexpected Reason www.levelup.com"
+  },
+  {
    "id": "gn-153jj3d",
    "title": "GTA 6 Editions: $79.99 vs $99.99, 16 Extras [2026]",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMW9fbVVhWVRnQXBUdWJ1ZFFSMWJWUURobkYxazdnci0xVkI2VG4zSWRDdE1WRWdGVDc0clJVdU1BU1M0aEFfV2w3S0ZENDYxSXlrbzVmZmRORm9GV1BBR3Z4TVBYQ2gtZ2dJSnZQZGVEUHAxZ2IyNGZFVnZneE5UXzJpNXJoTTN6V1M4?oc=5",
@@ -258,7 +290,7 @@
    "id": "gn-mugjph",
    "title": "Why GTA 6's Early Reviews May Not Tell the Whole Story",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVk1mNl9ZdjZEMFNNLXZCWjkzY2pld2xwLVRTVWlxMUsweDE5OWNKOHVMenhFWmNpUGU2RG4wTkxJR2FKWUVGY1lHS0JLdVZoWnBsRVliX3BXSm1SWTg2RUpGclh2YUZtd3ljbEd3bkFNcTNlWVViWDRGTzVsdEFNY1FHRUhOQQ?oc=5",
-   "date": "2026-10-24T11:33:10.000Z",
+   "date": "2026-10-24T11:30:43.000Z",
    "source": "GTA BOOM",
    "summary": "Why GTA 6's Early Reviews May Not Tell the Whole Story GTA BOOM"
   },
@@ -495,20 +527,20 @@
    "summary": "The Wait is Over: GTA 6 Trailer Finally Released! Yahoo Tech"
   },
   {
-   "id": "gn-a3ld34",
-   "title": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0RQZm9wNGpUZEF1Nmpaa08yVEpwMjlPSE1zektWOFctZzBpRWFUOFN4WllFZlF0RmJlY1FNTnBHdG4xUThpMGRESjRReExHR3ZrU3k2ZjYtZVQyd250Y0FyNjZuMWZyR3M2eWozQ1l0bTJCbk5hZGd6RXZpdE9lSDVseFZwQV9wTkFLdHVnVWlIY1ZLOVE?oc=5",
-   "date": "2026-10-23T16:23:14.000Z",
-   "source": "41NBC News",
-   "summary": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion 41NBC News"
-  },
-  {
    "id": "gn-uxlf9w",
    "title": "Poll: Are You Taking Time Off for GTA 6?",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExaREFHbXRZYVE4czFUYllEQ3Fhd3BZcmZQWmxpYkJmNVE2c0VsTlJ3MWFVWFVfYjlHd0I1ZXVxaXZ1Z3NQZ2gxeXhvbW1tZkEwYlpGay1NemktdmF6aHg4RnNYSlJvNTZBSVczY1RtUlB6eHZWSTJSQTRFRk0?oc=5",
    "date": "2026-10-23T16:19:24.000Z",
    "source": "Push Square",
    "summary": "Poll: Are You Taking Time Off for GTA 6? Push Square"
+  },
+  {
+   "id": "gn-a3ld34",
+   "title": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0RQZm9wNGpUZEF1Nmpaa08yVEpwMjlPSE1zektWOFctZzBpRWFUOFN4WllFZlF0RmJlY1FNTnBHdG4xUThpMGRESjRReExHR3ZrU3k2ZjYtZVQyd250Y0FyNjZuMWZyR3M2eWozQ1l0bTJCbk5hZGd6RXZpdE9lSDVseFZwQV9wTkFLdHVnVWlIY1ZLOVE?oc=5",
+   "date": "2026-10-23T16:11:42.000Z",
+   "source": "41NBC News",
+   "summary": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion 41NBC News"
   },
   {
    "id": "gn-4abo1c",
@@ -677,41 +709,25 @@
    "date": "2026-10-23T02:06:01.000Z",
    "source": "Motor1.com",
    "summary": "GTA VI Is Exactly One Month Away. The Final Trailer Looks Awesome Motor1.com"
-  },
-  {
-   "id": "gn-h0h69d",
-   "title": "GTA 6 Vehicles List: All 100 Cars, Boats, and Aircraft Confirmed So Far",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV2cwZVo5MXJjSUFXa1JzNXEzRmtPODRpV2Nsb3NJU3dCZWNrRGtBVjdKWW0zNDlLODBJbnpXNHptT3NTUGFUT2ctekJpNHdKbHdRRU9mdlRNajB6eWFxakhHQldJZnY5UEh2alRlNFhsMnpZR1k0MWJCdkMtanFIMlR1TkZoUFF1d3JyM2JzdkRTS0t3ZEw2SzZHZklXeFdkaG9V?oc=5",
-   "date": "2026-10-23T01:49:01.000Z",
-   "source": "MMOEXP",
-   "summary": "GTA 6 Vehicles List: All 100 Cars, Boats, and Aircraft Confirmed So Far MMOEXP"
-  },
-  {
-   "id": "gn-1kk1rq3",
-   "title": "GTA 6 Price: $79.99 Standard, $99.99 Ultimate [2026]",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGV6M1VLSWFYWER0MUlVdk1vY2duSTEzaW01RU1jbFlfMWthNGpnWG1qQ2NFV1RBSU0yeGZfTWsxR3piNFRiVmZLRFRlaDEwUmJxUHpIOTNNNUtQbFo5RTZGbmlRVDR5Q1VXTFFFUHBJT2ZvTy16dm03REx4RWFud1JVaw?oc=5",
-   "date": "2026-10-23T00:31:27.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 Price: $79.99 Standard, $99.99 Ultimate [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-1bc1ad",
-   "title": "GTA 6 Soundtrack Leak: Daft Punk Claim, 34 Tracks [2026]",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdDZFWkhmeERpOU1ma3ZTWVV2UGZtY2JCXzBMdDNHaWIxWkxncFVITEpfanY5TURxZzRieVlyVFlYMDZXNVExOE9ZSUhXOGdUVUt0b3BDRVNBa0hQcDNRbTBUQUtoMERCMWhEbWlzWmNaNjZNNTMxX1hBeTA3RUVXSFE4R2p5TDg?oc=5",
-   "date": "2026-10-23T00:10:59.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 Soundtrack Leak: Daft Punk Claim, 34 Tracks [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-1bavqab",
-   "title": "GTA 6 Standard Edition vs. Ultimate Edition: Which Version Is the Better Deal?",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcjY0TTk4VDFGYVNTQ1pKd3dtVUdqOW4wRGFVVUd3OGIyUGdXMDZHWVFjNm9tcXZaTER5NUpCSnpnNDNialVPTXM5a01sd0FtWjdBN1VWamhBWUk1YTE2cldUUkZJZDh2Y0ZEZlBTUkRnSEF0WnNORXUtYnFNTExVSkIxdTJZYVdWUC1nMUdLSVd5eXlSRXpiNmtud3BRdWs?oc=5",
-   "date": "2026-10-22T23:50:34.000Z",
-   "source": "PCMag",
-   "summary": "GTA 6 Standard Edition vs. Ultimate Edition: Which Version Is the Better Deal? PCMag"
   }
  ],
  "community": [
+  {
+   "id": "rd-u7vr0o",
+   "title": "Article of the Day #53: Flash FM",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xee83o/article_of_the_day_53_flash_fm/",
+   "date": "2026-10-24T17:15:36.000Z",
+   "source": "r/GTA6",
+   "summary": "Flash FM previously appeared ) in GTA Vice City and GTA Vice City Stories. submitted by /u/gtawiki [link] [comments]"
+  },
+  {
+   "id": "rd-17zwjnt",
+   "title": "Saw this Manatees car on Snap maps in Miami",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xeboo2/saw_this_manatees_car_on_snap_maps_in_miami/",
+   "date": "2026-10-24T15:33:41.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/nothing533439878 [link] [comments]"
+  },
   {
    "id": "rd-no10xt",
    "title": "Spent most of yesterday hand-painting my PS5 plate for GTA VI. Pretty proud of how it turned out! What do y'all think?",
@@ -1015,22 +1031,6 @@
    "date": "2026-10-22T21:13:26.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/NoPiece2723 [link] [comments]"
-  },
-  {
-   "id": "rd-1l2hzc2",
-   "title": "Today",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcpp6g/today/",
-   "date": "2026-10-22T17:54:45.000Z",
-   "source": "r/GTA6",
-   "summary": "jokes aside I dont think there is much more they can show us credit for the meme goes to James_3460 the ultimate panhandler submitted by /u/Early_Albatross_1336 [link] [comments]"
-  },
-  {
-   "id": "rd-1y1z11u",
-   "title": "Preparing for GTA 6 with Pißwasser",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcpfah/preparing_for_gta_6_with_pißwasser/",
-   "date": "2026-10-22T17:44:47.000Z",
-   "source": "r/GTA6",
-   "summary": "For the release of GTA6 I plan to play it with a few friends at my home. I made a whole crate of Pißwasser for this occasion! submitted by /u/Nightwaxx [link] [comments]"
   }
  ]
 }
