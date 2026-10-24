@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-24T01:47:10.749Z",
+ "generated": "2026-10-24T06:50:09.345Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-24T01:47:10.749Z"
+   "checked": "2026-10-24T06:50:09.345Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-24T01:47:10.749Z"
+   "checked": "2026-10-24T06:50:09.345Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-24T01:47:10.749Z"
+   "checked": "2026-10-24T06:50:09.345Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-24T01:47:10.749Z"
+   "checked": "2026-10-24T06:50:09.345Z"
   }
  },
  "official": [
@@ -231,10 +232,18 @@
  ],
  "press": [
   {
+   "id": "gn-1qtajln",
+   "title": "GTA 6 Miami Marketing Guide: Vice Beach Sign, Burger Shot, Y Hotel & Launch Events",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHBWMVpESXMyVWxBUGVQZmNhUGNHX1djWGhkTmZkNWFyYVdDT3Y1c3F4dWpJR3NPSmhMYU1CNnVfZlFSaElsUVQtMDFncW9KTmxCRDExZmR3ODNEb0dLVXF2alhjeWV4UUQtMG10VElGOVFFc2p5ak01enVKay1rRzk4djh0YTFabGtWYVZXaXVkaTVVT0Z6Q3F3ZVBuVV9XR0o0dmJzTFg2X2dfVURB?oc=5",
+   "date": "2026-10-24T03:22:47.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 Miami Marketing Guide: Vice Beach Sign, Burger Shot, Y Hotel & Launch Events MMOEXP"
+  },
+  {
    "id": "gn-5qpy53",
    "title": "GTA 6 Review Embargo Leak Points to Nov. 18 [2026]",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NWl9JNzRJTHplb2dHMXMxRXVrN2hZVmlZVWljRjNVb2hTanpQSTNET3dDMS1CRWQ0TkQyeDZMb0pJdkRGWUdhekw3b3QzdjV2d0FubUMyakkzQ1FBYmhaZlhhWndhdVlHSGwxaWR5N0s?oc=5",
-   "date": "2026-10-24T00:35:01.000Z",
+   "date": "2026-10-24T00:49:45.000Z",
    "source": "https://tech-insider.org/",
    "summary": "GTA 6 Review Embargo Leak Points to Nov. 18 [2026] https://tech-insider.org/"
   },
@@ -263,6 +272,14 @@
    "summary": "How should investors think about GTA VI pre-order performance? By Investing.com Investing.com Australia"
   },
   {
+   "id": "gn-j1ncn2",
+   "title": "How should investors think about GTA VI pre-order performance? By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3owdlZ2Z09FeTlJU09qNWZidnE4T3FVa1ZOdkM1cW0waUJOZ3Z5NTh2WWwzcDNwR1ppZEZGU2NabE1ORzhsOFU0VlFXVmtMOE9pa01pMEstWmU0Mk5TX1ZiOFh0aVN1VHo5c3NRMGFyNWpRYmN5aDVpOTFOMHotNEhubFFOZFlaUUpWTEw4UGNNeUZsZEVERkFiLWJ2ZU9HUGxsWDZ3UW1mbTEzRTNuaHRn?oc=5",
+   "date": "2026-10-23T23:38:07.000Z",
+   "source": "Investing.com",
+   "summary": "How should investors think about GTA VI pre-order performance? By Investing.com Investing.com"
+  },
+  {
    "id": "gn-zewxhd",
    "title": "Everything We Learned from GTA 6’s Launch Trailer",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcW16STB5Wjk1RjYyTjRhR0dvZWQyQWJPek1TQzFWMjFfU1BmTUd4NlFRR3djYmtxb2hjckYyQ0xTUnN2UnVDYlhRUEZwdURLTkNFbGRlOWFGNVZzbDdoM052Znd3eHc1YUd6aDIzUG0ydHNwNFJOUHZHTndwd0JvRTlkdlhlQmFFNWc?oc=5",
@@ -283,8 +300,8 @@
    "title": "Why GTA 6 Fans Are Preordering A Game They Still Haven't Seen Properly Played",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT0VCbk5mMi1LY0pLTGIwdGc4ZS1PRlFSSkhpNVhVX080T1V6dUJ4NmxuMWRSLXl1UE5hTFNDNGQ5ZWMwV082M0Npc2NGV3plem9IVkhUdFVaWUZfTjRoMlV4MG4xaVl0ODFEUFh0YTZXaHFVWEQyMTI5SkptdlhKMzl4cllLUW5H?oc=5",
    "date": "2026-10-23T22:00:00.000Z",
-   "source": "www.svg.com",
-   "summary": "Why GTA 6 Fans Are Preordering A Game They Still Haven't Seen Properly Played www.svg.com"
+   "source": "SVG",
+   "summary": "Why GTA 6 Fans Are Preordering A Game They Still Haven't Seen Properly Played SVG"
   },
   {
    "id": "gn-ns04wj",
@@ -402,7 +419,7 @@
    "id": "gn-a3ld34",
    "title": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0RQZm9wNGpUZEF1Nmpaa08yVEpwMjlPSE1zektWOFctZzBpRWFUOFN4WllFZlF0RmJlY1FNTnBHdG4xUThpMGRESjRReExHR3ZrU3k2ZjYtZVQyd250Y0FyNjZuMWZyR3M2eWozQ1l0bTJCbk5hZGd6RXZpdE9lSDVseFZwQV9wTkFLdHVnVWlIY1ZLOVE?oc=5",
-   "date": "2026-10-23T16:16:05.000Z",
+   "date": "2026-10-23T16:17:43.000Z",
    "source": "41NBC News",
    "summary": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion 41NBC News"
   },
@@ -693,25 +710,33 @@
    "date": "2026-10-22T18:42:29.000Z",
    "source": "101.5 CIL-FM",
    "summary": "Listen to Cardi B’s ‘Don’t Chart’ from upcoming ‘Grand Theft Auto VI’ soundtrack 101.5 CIL-FM"
-  },
-  {
-   "id": "gn-qu8y04",
-   "title": "GTA 6 Is Almost Here: Trade in Your Old Console and Save on an Upgrade at PayMore",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQanVXaWlIRkNkeHMwZV90Nk9VMnNEakdWUEZuMms1czhPRDJTQV9qdjFxbXotLW0zSWJ5R1Brb0M4eGVleU5UbVBLcTE1eHFSay1VS18ydmV5ZEJaSkVCOEdvNUs5MklCU0JYMjctQzB5a2ZOTzNmTHBYdzNSdUJrTWtnUlNKQQ?oc=5",
-   "date": "2026-10-22T17:37:00.000Z",
-   "source": "IGN",
-   "summary": "GTA 6 Is Almost Here: Trade in Your Old Console and Save on an Upgrade at PayMore IGN"
-  },
-  {
-   "id": "gn-1vsf8lb",
-   "title": "Former GTA 6 and Red Dead Redemption 2 designer says layoffs at Rockstar aren't the real danger – \"The question is whether you can meet the expectations\"",
-   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQeFloeXhkTnpNeEVUbUc2a21xVmt3alZGT3Rjc1FxRWg3OVVlZ0ZaLV9jSFVaTkZtakRkeHNPYVpNX3BISU9CZGFZcDNCejVCYk94SERtVTlsQTZXVTg1ei1ibmFUV3pfSkVrc3hxUS1paWNsTTdOcWJlS2xpa2gyRFZ1ZU82MmUxd2I5N1dHZjZvYmctazI0UnBIdVQ2U1pSYnZvbjVQN29ZVzZiZE1LTklVUEFEUDZaeFVLckxqOV84Y1htQWdpanQ2eFNWQU5GeXF5Q29wNDAtQi1na2lhcmdBV1ZsSFdGSUR2STVjMlJNYndCS0xNLUs1eDRtQnpqRkRRQ2VCbGE0N0xpeUtFd0RMb05tR1BMOV9ONU9qZWtpUlFQRGc?oc=5",
-   "date": "2026-10-22T16:57:44.000Z",
-   "source": "GamesRadar+",
-   "summary": "Former GTA 6 and Red Dead Redemption 2 designer says layoffs at Rockstar aren't the real danger – \"The question is whether you can meet the expectations\" GamesRadar+"
   }
  ],
  "community": [
+  {
+   "id": "rd-tn0dpp",
+   "title": "fOlRydeMe taxis, the fictional taxi company featured in GTA VI, now been spotted in miami",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xe1gvp/folrydeme_taxis_the_fictional_taxi_company/",
+   "date": "2026-10-24T06:38:00.000Z",
+   "source": "r/GTA6",
+   "summary": "fOlRydeMe taxis, the fictional taxi company featured in GTA VI, have now been spotted in \"\"vt tiow peen spotted Miami The Miami marketing continues to get evenmore INSANE! MIAM BRING ТHЕ НEAT submitte"
+  },
+  {
+   "id": "rd-vdz9co",
+   "title": "MARKETING TEAM HELLO?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdxo9l/marketing_team_hello/",
+   "date": "2026-10-24T03:04:38.000Z",
+   "source": "r/GTA6",
+   "summary": "saw this driving on i-75 about 30min away from Miami aka Vice City submitted by /u/itsOnlyMarvin [link] [comments]"
+  },
+  {
+   "id": "rd-zg3ko4",
+   "title": "My Illustration",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xdv8pf/my_illustration/",
+   "date": "2026-10-24T00:58:02.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/imboredsoimhere318 [link] [comments]"
+  },
   {
    "id": "rd-5js5m8",
    "title": "The Woodlands of GTA6",
@@ -1007,30 +1032,6 @@
    "date": "2026-10-22T14:29:18.000Z",
    "source": "r/GTA6",
    "summary": "The song is now using “VI” logo while playing on Spotify (Apple TV) ! submitted by /u/iPeluche [link] [comments]"
-  },
-  {
-   "id": "rd-1neh0yu",
-   "title": "Grand Theft Auto VI | Trading Cards",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcjcdh/grand_theft_auto_vi_trading_cards/",
-   "date": "2026-10-22T13:58:58.000Z",
-   "source": "r/GTA6",
-   "summary": "Hi! A while ago, I came up with the idea of designing GTA 6-themed trading cards. The main inspiration for the whole project came from Topps cards and various older trading cards. Because of the proje"
-  },
-  {
-   "id": "rd-1qftvfo",
-   "title": "Day 4 of making memes out of lines from the trailers until release",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcgwj7/day_4_of_making_memes_out_of_lines_from_the/",
-   "date": "2026-10-22T12:13:30.000Z",
-   "source": "r/GTA6",
-   "summary": "Link to Day 3: https://www.reddit.com/r/GTA6/comments/1xble24/day_3_of_making_memes_out_of_lines_from_the/ submitted by /u/ZionGlitch [link] [comments]"
-  },
-  {
-   "id": "rd-3k0oa8",
-   "title": "Completed Downtown Miami Ad",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcgkyj/completed_downtown_miami_ad/",
-   "date": "2026-10-22T11:59:09.000Z",
-   "source": "r/GTA6",
-   "summary": "Update from yesterday post outside of downtown Miami. submitted by /u/Gregorioz15 [link] [comments]"
   }
  ]
 }
