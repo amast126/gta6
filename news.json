@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-24T11:49:25.389Z",
+ "generated": "2026-10-24T15:17:56.910Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-24T11:49:25.389Z"
+   "checked": "2026-10-24T15:17:56.910Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-24T11:49:25.389Z"
+   "checked": "2026-10-24T15:17:56.910Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-24T11:49:25.389Z"
+   "checked": "2026-10-24T15:17:56.910Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-24T11:49:25.389Z"
+   "checked": "2026-10-24T15:17:56.910Z"
   }
  },
  "official": [
@@ -231,6 +231,30 @@
  ],
  "press": [
   {
+   "id": "gn-hy9y9s",
+   "title": "Xfer Records Shrub: Serum for M-VAVE FM-1 before GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2hoRzVfSXE3NWV3bGFDOFh5Y0FTNFFEc1NxQWRTamN2R0lWM0xROFhaOEstWDBRYmVfMTBBSTBYcEtxai1tcmUxY3NiTkN0dF9yaXNneHVkS1ZoeldXVURRclI5WmtFVFFDUVJwTnJpaGF1Y0dIckRSN05WYUtTLUJsVGNHbWVVR0dLWlJaOEo3MTFDckE?oc=5",
+   "date": "2026-10-24T13:38:47.000Z",
+   "source": "synth anatomy",
+   "summary": "Xfer Records Shrub: Serum for M-VAVE FM-1 before GTA 6 synth anatomy"
+  },
+  {
+   "id": "gn-1vx3anq",
+   "title": "Rockstar Games Confirms Unexpected Change From Grand Theft Auto V in GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWVIeFRKM3AxOHAyb1JnQmtLbDRKV3Z2YnlyMFdxZTdfbTZuNkt5NzNiTlQ3Rkp2aE43S2I1QjlHMmpkbFlhX3VEX1R1b1dFc1dEeE1MUlFhc2hNUktMcUFJR2Z2RmRCbW16aWoxYV9nSjIzaXRuekZwUUhHOFhpQzlqTEtHOGdySnMtSS1WQnRWWnc?oc=5",
+   "date": "2026-10-24T13:36:17.000Z",
+   "source": "ComicBook.com",
+   "summary": "Rockstar Games Confirms Unexpected Change From Grand Theft Auto V in GTA 6 ComicBook.com"
+  },
+  {
+   "id": "gn-153jj3d",
+   "title": "GTA 6 Editions: $79.99 vs $99.99, 16 Extras [2026]",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMW9fbVVhWVRnQXBUdWJ1ZFFSMWJWUURobkYxazdnci0xVkI2VG4zSWRDdE1WRWdGVDc0clJVdU1BU1M0aEFfV2w3S0ZENDYxSXlrbzVmZmRORm9GV1BBR3Z4TVBYQ2gtZ2dJSnZQZGVEUHAxZ2IyNGZFVnZneE5UXzJpNXJoTTN6V1M4?oc=5",
+   "date": "2026-10-24T11:50:19.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Editions: $79.99 vs $99.99, 16 Extras [2026] https://tech-insider.org/"
+  },
+  {
    "id": "gn-mugjph",
    "title": "Why GTA 6's Early Reviews May Not Tell the Whole Story",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVk1mNl9ZdjZEMFNNLXZCWjkzY2pld2xwLVRTVWlxMUsweDE5OWNKOHVMenhFWmNpUGU2RG4wTkxJR2FKWUVGY1lHS0JLdVZoWnBsRVliX3BXSm1SWTg2RUpGclh2YUZtd3ljbEd3bkFNcTNlWVViWDRGTzVsdEFNY1FHRUhOQQ?oc=5",
@@ -250,7 +274,7 @@
    "id": "gn-77xqw0",
    "title": "GTA 6 Amazon-exclusive vinyl bundle is still on sale ahead of launch",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUtHVkRGaElqMHEtazZsNnFSZ2psbDJXVGpjenNXQUpudG9vcV8yTVlVU1lmaGlCY1RITlRVck5GcHl0LWcxa3lrZWxBcVkzOHlkVTlLenE3VXJaNlg0SDRKai1KOWJkLXhZUU5sMGJzcEFreVBZX0dSQlMxUlNzS1Q0ek1lQjFHTkhpSDRQQ0tJaDgw?oc=5",
-   "date": "2026-10-24T11:00:00.000Z",
+   "date": "2026-10-24T11:08:51.000Z",
    "source": "GAMINGbible",
    "summary": "GTA 6 Amazon-exclusive vinyl bundle is still on sale ahead of launch GAMINGbible"
   },
@@ -285,6 +309,14 @@
    "date": "2026-10-24T09:35:11.000Z",
    "source": "https://tech-insider.org/",
    "summary": "GTA VI Survey: 10% Plan to Skip Work Launch Day [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-1lf47h3",
+   "title": "1.5 Million US Workers Plan to Skip 19 November for GTA 6, Estimate Says",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVllXQktQTGdWSTRoX3RKT3hqajVlNXZTdzdnbUpCMUEtT2ZjQ2VGM1BIRnBUTkxmeUVSN0wySnZ3Rl95VFhMRURsbEVqRkdCbklTVWJad3JHOExFOWhxNTFyLUtJbG1vX2VvVVI0NDhVQ0Fwa0YwNERVdmNjWEZ5eWd3Wjg3bG81SE5NczloaGJlbFU?oc=5",
+   "date": "2026-10-24T08:35:39.000Z",
+   "source": "The Loadout",
+   "summary": "1.5 Million US Workers Plan to Skip 19 November for GTA 6, Estimate Says The Loadout"
   },
   {
    "id": "gn-1qtajln",
@@ -466,7 +498,7 @@
    "id": "gn-a3ld34",
    "title": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0RQZm9wNGpUZEF1Nmpaa08yVEpwMjlPSE1zektWOFctZzBpRWFUOFN4WllFZlF0RmJlY1FNTnBHdG4xUThpMGRESjRReExHR3ZrU3k2ZjYtZVQyd250Y0FyNjZuMWZyR3M2eWozQ1l0bTJCbk5hZGd6RXZpdE9lSDVseFZwQV9wTkFLdHVnVWlIY1ZLOVE?oc=5",
-   "date": "2026-10-23T16:19:33.000Z",
+   "date": "2026-10-23T16:23:14.000Z",
    "source": "41NBC News",
    "summary": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion 41NBC News"
   },
@@ -557,6 +589,14 @@
    "date": "2026-10-23T12:49:32.000Z",
    "source": "IGN",
    "summary": "PlayStation Is Offering $40 Off PS5 Refurb Bundles Ahead of GTA 6 IGN"
+  },
+  {
+   "id": "gn-4mwzeu",
+   "title": "GTA 6 Has Millions Of People Skipping Work On Launch Day, Study Finds",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXY5SEN4UVRpWjM2WTF0RVVsZVZSOEppSEhzb25INk9qbDFoOVQ1QnVKTXl3RE5lNVBsc1ZYU3BoYW5KOE9qSThLQk9mZnByX1BJRmtPOTI2V3RVeWNpTGJ1YzVqTnc1ZWlPWU9fRG0tenVHNVoxbFdNaVNUTGtYUHl0dFlxa2VGbHg2ZkN5TW5MNkdoQ2l3NXZtTQ?oc=5",
+   "date": "2026-10-23T12:16:35.000Z",
+   "source": "RockstarINTEL",
+   "summary": "GTA 6 Has Millions Of People Skipping Work On Launch Day, Study Finds RockstarINTEL"
   },
   {
    "id": "gn-11h1t8e",
@@ -669,49 +709,49 @@
    "date": "2026-10-22T23:50:34.000Z",
    "source": "PCMag",
    "summary": "GTA 6 Standard Edition vs. Ultimate Edition: Which Version Is the Better Deal? PCMag"
-  },
-  {
-   "id": "gn-1d5emtx",
-   "title": "Best GTA 6 gaming monitor deal: Score the massive Samsung 4K curved Neo G9 at nearly 30% off",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa3lCVzhFSEFrT21iZUdVRzhXZWxsVmhnck5yS2l4ZU1TTzRLdU03aW5IdVFPdzY2cHRmX0RVQUY3XzVVcFhydFc3clQzdlhsMWRSSHBfc1VvczFmVW9PRnFmQ0dweXRGYXlwTEFSaC1rYUFHeTdrTkhvYnJFYnRCdVJ6MXQyN1JFTEZ6UGk2Yw?oc=5",
-   "date": "2026-10-22T22:05:11.000Z",
-   "source": "Mashable",
-   "summary": "Best GTA 6 gaming monitor deal: Score the massive Samsung 4K curved Neo G9 at nearly 30% off Mashable"
-  },
-  {
-   "id": "gn-1ipbklk",
-   "title": "GTA 6 Fans Left Devastated After Rockstar's Original Soundtrack Plans Leak Online",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHdXUVloY3Q1UGdxUWRRS3B3eTRKZU54dFVpMkFCcTFRUXRfWk52bTJiZ0pKY3lwUGRocFlETUo1SVdPRXBqMWs5WmJLQlRudDBMbzVmSGtJSkZtYW80ZHZiTGo5S01od0FGVEVhNUw1Ullxb2FDS0lyRGJObFY2cTF4Wjhnb1FmRU9EeXM1SjBwLUd1LVdvLVR6VjJlVFdTeXc?oc=5",
-   "date": "2026-10-22T22:00:00.000Z",
-   "source": "SVG",
-   "summary": "GTA 6 Fans Left Devastated After Rockstar's Original Soundtrack Plans Leak Online SVG"
-  },
-  {
-   "id": "gn-wt41k5",
-   "title": "GTA 6 gym and weight system: what the bench press footage suggests about fitness, food and sleep",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTlNkcXdTMnlKc1ZNNnJLd2V4dXNwUElmVXF1eEhJRDNKUGcydk5MQldPZjFNd1JRR0RPdDdFVlNsTzhIbVhPU1oxUjExbTJvZENTVlM1cmcySUNYRHlGemEzdHdzb3hfaFctVWtEYUxlN1UyRllSQjdsSGpEemI5SkdYakRGWmFlaGphT0VMU01CZy1PNXF0TnZ1QnpWWUg2STlxRDg3YjNVN0l2NkcxMkdpS08?oc=5",
-   "date": "2026-10-22T21:39:07.000Z",
-   "source": "eGamers.io",
-   "summary": "GTA 6 gym and weight system: what the bench press footage suggests about fitness, food and sleep eGamers.io"
-  },
-  {
-   "id": "gn-19rv9bc",
-   "title": "GTA 6 and Gasoline in Video Games",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IOGY3aGpsazdHQ0JPaHhxM3FDRmpBNC1qSmZhWS1qSjhIcDA5VDQ1LWRLLTFraVBaTEQ5NlZNYnpfc2RpdUpFMHIzRHZRVUVVX1hfVmg4MGZ3VW50NDI3bTdQR3BvQlZabmZLZ0hOenN1VkVq?oc=5",
-   "date": "2026-10-22T21:00:00.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 and Gasoline in Video Games GameSpot"
-  },
-  {
-   "id": "gn-bm42h5",
-   "title": "How Will Gas And Refueling Work In GTA 6?",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX0ZhS29YVkx5Ukd2VlV4M0xwRHpLYUhPRV9UYkxGaUp1ZTdJMHc4Y3llaUhfT19VYzhxZHRfbXd0eng2eXFUdHAzRWdGQUd3UWFMWGRqc05jTkNKaV9RS3VjUWJhTmpUakpKQ25JNmJybFY4RVl1MGRPRU9LRUo2UQ?oc=5",
-   "date": "2026-10-22T21:00:00.000Z",
-   "source": "GameSpot",
-   "summary": "How Will Gas And Refueling Work In GTA 6? GameSpot"
   }
  ],
  "community": [
+  {
+   "id": "rd-no10xt",
+   "title": "Spent most of yesterday hand-painting my PS5 plate for GTA VI. Pretty proud of how it turned out! What do y'all think?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xea764/spent_most_of_yesterday_handpainting_my_ps5_plate/",
+   "date": "2026-10-24T14:32:55.000Z",
+   "source": "r/GTA6",
+   "summary": "I decided to test painting my PS5 plates yesterday and I'm honestly shocked with how well it turned out. I wasn't sure if I could pull it off at all, really. I'm going to go ahead and do Jason on the "
+  },
+  {
+   "id": "rd-1r1ujss",
+   "title": "Day 6 of making memes out of lines from the trailers until release",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xe8ejf/day_6_of_making_memes_out_of_lines_from_the/",
+   "date": "2026-10-24T13:16:11.000Z",
+   "source": "r/GTA6",
+   "summary": "Link to Day6: https://www.reddit.com/r/GTA6/comments/1xdgntn/comment/19rkj8w1v9t2b/?screen_view_count=2 submitted by /u/ZionGlitch [link] [comments]"
+  },
+  {
+   "id": "rd-1vwbwlt",
+   "title": "\"Ranter\" is a parody of Yelp",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xe8183/ranter_is_a_parody_of_yelp/",
+   "date": "2026-10-24T13:00:02.000Z",
+   "source": "r/GTA6",
+   "summary": "gta.wiki/Ranter submitted by /u/gtawiki [link] [comments]"
+  },
+  {
+   "id": "rd-o9eqrg",
+   "title": "I‘m ready guys",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xe80a2/im_ready_guys/",
+   "date": "2026-10-24T12:58:45.000Z",
+   "source": "r/GTA6",
+   "summary": "Hold on tight folks, next stop Vice City! submitted by /u/LavishnessDue6 [link] [comments]"
+  },
+  {
+   "id": "rd-1ukoet5",
+   "title": "Doubt anyone cares. But here is a list of all the birds across the GTA VI trailers and extended look.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xe7c2n/doubt_anyone_cares_but_here_is_a_list_of_all_the/",
+   "date": "2026-10-24T12:25:52.000Z",
+   "source": "r/GTA6",
+   "summary": "Bit weird I know but one of my favourite things to do in RDR2 is birdwatching and filliing out the compendium. Keen to do the same in Leonida. submitted by /u/Knomis3 [link] [comments]"
+  },
   {
    "id": "rd-tn0dpp",
    "title": "fOlRydeMe taxis, the fictional taxi company featured in GTA VI, now been spotted in miami",
@@ -991,46 +1031,6 @@
    "date": "2026-10-22T17:44:47.000Z",
    "source": "r/GTA6",
    "summary": "For the release of GTA6 I plan to play it with a few friends at my home. I made a whole crate of Pißwasser for this occasion! submitted by /u/Nightwaxx [link] [comments]"
-  },
-  {
-   "id": "rd-rbrprs",
-   "title": "Close-up shots of the McLaren GT",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcop3c/closeup_shots_of_the_mclaren_gt/",
-   "date": "2026-10-22T17:17:55.000Z",
-   "source": "r/GTA6",
-   "summary": "Modelled after the Progen Emerus IG: jmiblack submitted by /u/Kowakujo [link] [comments]"
-  },
-  {
-   "id": "rd-eybpgv",
-   "title": "The VYB nightclub is based on LIV Miami",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcmo82/the_vyb_nightclub_is_based_on_liv_miami/",
-   "date": "2026-10-22T16:04:10.000Z",
-   "source": "r/GTA6",
-   "summary": "VYB first appeared on the side of a taxi in a clip on the GTA VI website from May 2025. gta.wiki/VYB submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-jfjqpb",
-   "title": "Can't wait for the bizarre Vice City NPC interactions now that we can have deeper conversations with them (ala RDR2)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcmn50/cant_wait_for_the_bizarre_vice_city_npc/",
-   "date": "2026-10-22T16:03:01.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
-  },
-  {
-   "id": "rd-g248bi",
-   "title": "Article of the Day #51: Vice City Narcos (Miami Heat)",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xckymv/article_of_the_day_51_vice_city_narcos_miami_heat/",
-   "date": "2026-10-22T15:00:55.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-1wbkvae",
-   "title": "My custom GTA VI puzzle",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xcksj1/my_custom_gta_vi_puzzle/",
-   "date": "2026-10-22T14:54:42.000Z",
-   "source": "r/GTA6",
-   "summary": "I love the LOVE magazine cover so much I wanted to have it printed and framed but went another way with this and ordered a custom ravensburger puzzle with it. I just edited out the text at the bottom "
   }
  ]
 }
