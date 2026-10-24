@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-24T21:02:36.238Z",
+ "generated": "2026-10-24T23:31:08.467Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-24T21:02:36.238Z"
+   "checked": "2026-10-24T23:31:08.467Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-24T21:02:36.238Z"
+   "checked": "2026-10-24T23:31:08.467Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-24T21:02:36.238Z"
+   "checked": "2026-10-24T23:31:08.467Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-24T21:02:36.238Z"
+   "checked": "2026-10-24T23:31:08.467Z"
   }
  },
  "official": [
@@ -231,6 +231,14 @@
  ],
  "press": [
   {
+   "id": "gn-19ic2dp",
+   "title": "GTA 6 Takes Realism to New Heights as Highway Signs Warn Drivers Not to Drink and Drive",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOamQxczl4TC1VdnBDckZkWll6LWZVYTJaMG1wNjNYMjFzdTlPUVdQVFVFREdpT0NVaDRSc2ZSakUtOWl6ZmNwT25kM1NfaTBJbFdXU3U1LVNrX2JWN3lELUhXSnF3RUNRQzZobWlSTUU3VVJGR3RHY2VvaUczNjJGakgxSV9hNUNQajFtLS1saWpyeU1RZGFiVFlJbFRCWm91VjhqSjJ5MllNS2w1UkZCbWg4cTQ4eUF5Uk9FTk9n?oc=5",
+   "date": "2026-10-24T22:33:23.000Z",
+   "source": "The Source Magazine",
+   "summary": "GTA 6 Takes Realism to New Heights as Highway Signs Warn Drivers Not to Drink and Drive The Source Magazine"
+  },
+  {
    "id": "gn-19o6uf1",
    "title": "You can order real-life GTA 6 burgers as Florida's Skinny Louie locations transform into Burger Shots",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YREJzeGsyOTFCRnZ2dHVzcGFVNmFXVWRqUXdIX2Q4YUpkWmxYSjlBWUxBSVZlNk5mdUxKOUtQZ2xpeEFUQnM0ODJjZlMySWxXTjVDMWhxVm4ybWdSWlMzUjVXMm05SFhjNXhBYg?oc=5",
@@ -299,8 +307,8 @@
    "title": "GTA VI Will Be a Huge Success for Rockstar, but It Could Cost the U.S. Economy Billions of Dollars for an Unexpected Reason",
    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUk5uOWczRjBlZDczMTY4UTF0S0tzbTdJVTNEZnVrNnl1OTNWbUtEZDBTeTRvYV80eWg4QUMxclhNTzFXcWQ5RUFSWUJyczZWYjZPbUJialFaR1g2QnBLWl9xUmZCd1FzNkZYU0hMWDVmMzRST3cyUkJYMFZ0S3RRRTFqR2NaaWZURFNpT0JxR0N1N0x6R2dQUm5VbGx0N1Y3cG41ZzRfSXR2VmRPZEdqaWpRNXpUTHAwNEFHdUcwQmx0OXVHbjIwR0NBbVIydExYUDFSdVRLWFdXc1BsUmdqdHJabXhyWlB1?oc=5",
    "date": "2026-10-24T13:12:00.000Z",
-   "source": "www.levelup.com",
-   "summary": "GTA VI Will Be a Huge Success for Rockstar, but It Could Cost the U.S. Economy Billions of Dollars for an Unexpected Reason www.levelup.com"
+   "source": "LevelUp",
+   "summary": "GTA VI Will Be a Huge Success for Rockstar, but It Could Cost the U.S. Economy Billions of Dollars for an Unexpected Reason LevelUp"
   },
   {
    "id": "gn-153jj3d",
@@ -701,17 +709,17 @@
    "date": "2026-10-23T04:00:00.000Z",
    "source": "Top Gear",
    "summary": "“Two and a half times bigger than GTA 6”: the secrets of Assetto Corsa’s free roam mode Top Gear"
-  },
-  {
-   "id": "gn-1f2568i",
-   "title": "GTA 6 Netflix extended look: What time it releases today",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQamxKSGkxRXZhSXZMX1d3ZXFpZjJSYXZzNXIxUDV4ZUZMUG1MU1UxM2tFWGtSSlk4OGtvS3hCMDVMTmR5ZzhfMS1lVS12VXNnN2NQcWJtMEZOUU1CckNEdmdkNlNoWjNyUjBYVnltTWQtcUF0a3RJdklMclppV2dzbg?oc=5",
-   "date": "2026-10-23T03:54:17.000Z",
-   "source": "Mashable",
-   "summary": "GTA 6 Netflix extended look: What time it releases today Mashable"
   }
  ],
  "community": [
+  {
+   "id": "rd-g8bxy9",
+   "title": "Food System in GTA VI",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xek65v/food_system_in_gta_vi/",
+   "date": "2026-10-24T21:18:32.000Z",
+   "source": "r/GTA6",
+   "summary": "In RDR2, you could go in saloons and pick something to eat, as well as being able to cook meat on a campfire. How much do you think Rockstar has expanded on that since RDR2? We already know you can bu"
+  },
   {
    "id": "rd-13bqeaw",
    "title": "The mystery of this game's story is appreciated",
@@ -1023,14 +1031,6 @@
    "date": "2026-10-23T07:16:57.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/zkorejo [link] [comments]"
-  },
-  {
-   "id": "rd-18rz0x1",
-   "title": "A gamer goes on live FOX TV news and explains why so many people will take the day off to play GTA 6, which is estimated to cost the US economy $1B in loses.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xd5dky/a_gamer_goes_on_live_fox_tv_news_and_explains_why/",
-   "date": "2026-10-23T05:28:27.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/PinReal4448 [link] [comments]"
   }
  ]
 }
