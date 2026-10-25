@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-24T23:31:08.467Z",
+ "generated": "2026-10-25T02:57:03.576Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-24T23:31:08.467Z"
+   "checked": "2026-10-25T02:57:03.576Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-24T23:31:08.467Z"
+   "checked": "2026-10-25T02:57:03.576Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-24T23:31:08.467Z"
+   "checked": "2026-10-25T02:57:03.576Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-24T23:31:08.467Z"
+   "checked": "2026-10-25T02:57:03.576Z"
   }
  },
  "official": [
@@ -230,6 +230,30 @@
   }
  ],
  "press": [
+  {
+   "id": "gn-1ot78lk",
+   "title": "GTA 6 Weapon System: Weapon Limits, Gunplay Changes, and Confirmed Weapons",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObm1zTVhyNk9QSnRsbDdBY1NsTzNyMnRXM21ySFJWeVpZQUpEampKY1JHWXNQVE1JV01vbTBHdUsxY0Q5NXhXRGVZdHNiSXNTYWJHSnd3Y2NudTBKd0dDUDJITzdzX1VFRGhQVWsydHllTVMyUXBpNTJyUHFGLUNtMWVJSDh5dUZPSmVzT0FMTF82YUh2TDBHd18zVlkteHhwcmNybWhQbw?oc=5",
+   "date": "2026-10-25T02:32:07.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 Weapon System: Weapon Limits, Gunplay Changes, and Confirmed Weapons MMOEXP"
+  },
+  {
+   "id": "gn-1k4u158",
+   "title": "Prolapse PS5 console jailbreak for firmware 14.10 may expose GTA 6 to piracy",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHl1R2pBVWpzZzBSSEdONTlPVVZKeVZZQnFSTHBXVUtaT19acW9WaUJ6c2NERHRmbHZKRjNGSEJod1UwSkJwUDdRcFBaNGdDNFFiTFc1eUpXNmNSbUNmN21ZMDdEa2QtRmFON2VVc0NhTmFXdGZBTWg1cFpRVXVzTnJtS1dKWGVMaGRfQU5Lb205bGo2RDVDSkFfVEVRcUR5aGttOWx0dGZuQ1FVUU5UUmVCWmVkamhYbFFKallB?oc=5",
+   "date": "2026-10-25T01:59:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "Prolapse PS5 console jailbreak for firmware 14.10 may expose GTA 6 to piracy Notebookcheck"
+  },
+  {
+   "id": "gn-16wlf7v",
+   "title": "GTA 6 Trailers: 4 Fan-Spotted Nods to Players [2026]",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXdOUFVnM01jWWxJZnpGZkxXelZ0U1NGWkNia3gtY2tFeDNwWHZXSDVOYWNPS2x6ZGRxQ3FHY2kwYmJxLWtrdDlWdUhrSUczSUZmbEMtVlNOOGNYbUtnM0ZIRHpEcENkVi10ZTV0R1VWdUI5RktHZ1VFQjVEN2xKMUp5RGlKbG8?oc=5",
+   "date": "2026-10-25T00:10:10.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Trailers: 4 Fan-Spotted Nods to Players [2026] https://tech-insider.org/"
+  },
   {
    "id": "gn-19ic2dp",
    "title": "GTA 6 Takes Realism to New Heights as Highway Signs Warn Drivers Not to Drink and Drive",
@@ -685,33 +709,41 @@
    "date": "2026-10-23T11:00:00.000Z",
    "source": "Creative Bloq",
    "summary": "Cliff Richard is having a revival, and it’s all thanks to GTA 6 Creative Bloq"
-  },
-  {
-   "id": "gn-o56its",
-   "title": "Grand Theft Auto 6 Launch Trailer Was Changed for TV: Here Are All the Differences",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFVrMGFXekRBUlhiUGlMaDBqMlRaQU5yRm4td0VBcE4wMk1TeU1scWtfOTdPUUdKaDFLSXRnaExiVmlfeDV2a1NJaHQ1R29iNW1uSVl0RkVOcURrZ3NvOVNxQVctUU9tZ2R5ck1UbGhnRm5qOUVuWHpvRkw4dTducERjSXd3MUpDeE9tcQ?oc=5",
-   "date": "2026-10-23T09:42:37.000Z",
-   "source": "Polygon.com",
-   "summary": "Grand Theft Auto 6 Launch Trailer Was Changed for TV: Here Are All the Differences Polygon.com"
-  },
-  {
-   "id": "gn-ucvo5p",
-   "title": "Sony's refurbished PS5 deal adds a second controller for just $19 before GTA VI",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPck55WjdTaWoxb0diaFpoUFdiemc2cU1ELTNWbjUtdnpCamtHNjRQcFItRlBjdm43U0Y2UGgxQ1c0cU9zMExvbjNBRHh1S2lLRFVnUnhSUFRXRHJORnNRTlRJZ0FpeUhNeFJ4aDhEMlhEcEFOQmItLVRPRVZtclotZERaNm80TlZHNmJKcTlOVGFZMFJhWDFuNmdnMW1tSlY4alViazVyRmlrdzNWWkNBVnl2TXNJRjIwM0FXYXVnN3Q?oc=5",
-   "date": "2026-10-23T05:56:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "Sony's refurbished PS5 deal adds a second controller for just $19 before GTA VI Notebookcheck"
-  },
-  {
-   "id": "gn-9k4rmd",
-   "title": "“Two and a half times bigger than GTA 6”: the secrets of Assetto Corsa’s free roam mode",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOTE4MnJVdUd6T3RZejFxeldpWHdJQmVGYUZqNHhsX1d3WlN1R3BkbFpDZ3lySnZ1WGgzcDFFblhRTmk1bWZlR01PcGhmWndVYUd6bWYydG1FeThEbUdyQngxbUdRVXFVR3VPM1k2OXBIWUQwZzhWVGpXVXk3T1RZUE9fd2Z0N3lTYVliSzZ0YW51VXJ3NUhFLWlEY2VMOWo5azJwekp4R0tEM0k2M1RXWA?oc=5",
-   "date": "2026-10-23T04:00:00.000Z",
-   "source": "Top Gear",
-   "summary": "“Two and a half times bigger than GTA 6”: the secrets of Assetto Corsa’s free roam mode Top Gear"
   }
  ],
  "community": [
+  {
+   "id": "rd-1umou2n",
+   "title": "My pumpkin this year",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xep0mg/my_pumpkin_this_year/",
+   "date": "2026-10-25T01:05:40.000Z",
+   "source": "r/GTA6",
+   "summary": "The palm tree was a little ambitious ngl submitted by /u/FatManReforged [link] [comments]"
+  },
+  {
+   "id": "rd-zd8d0q",
+   "title": "How mfs feel typing “I just don’t care” on a post about gta 6.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xeorbn/how_mfs_feel_typing_i_just_dont_care_on_a_post/",
+   "date": "2026-10-25T00:52:45.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Eryan220 [link] [comments]"
+  },
+  {
+   "id": "rd-xilhsb",
+   "title": "Shrek 2 game trailer is GTA 6 inspired!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xenszk/shrek_2_game_trailer_is_gta_6_inspired/",
+   "date": "2026-10-25T00:06:13.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/BATMAN_5777 [link] [comments]"
+  },
+  {
+   "id": "rd-z2d3lx",
+   "title": "Sick days are because you won’t be able to get your work done and need to recover - I won’t be able to get my work done for sure starting on 11/19…",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xenku4/sick_days_are_because_you_wont_be_able_to_get/",
+   "date": "2026-10-24T23:56:14.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/bsmith2123 [link] [comments]"
+  },
   {
    "id": "rd-g8bxy9",
    "title": "Food System in GTA VI",
@@ -999,38 +1031,6 @@
    "date": "2026-10-23T13:10:31.000Z",
    "source": "r/GTA6",
    "summary": "Do we think the facial hair to hair connection will be fixed this time? In GTA 5 if you go to the barber as Franklin with his default hair style and select the goatee facial hair style you'll see the "
-  },
-  {
-   "id": "rd-13rpz21",
-   "title": "The Miami Heat x Vice City merch has gotten a little more affordable for fans outside the US!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdbutt/the_miami_heat_x_vice_city_merch_has_gotten_a/",
-   "date": "2026-10-23T11:50:28.000Z",
-   "source": "r/GTA6",
-   "summary": "reports the store is now offering an additional $5 discount on international shipping costs. submitted by /u/Bk4LL [link] [comments]"
-  },
-  {
-   "id": "rd-1vmjdz2",
-   "title": "Weapon inspection animations?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdb48p/weapon_inspection_animations/",
-   "date": "2026-10-23T11:11:53.000Z",
-   "source": "r/GTA6",
-   "summary": "It looked like Jason did it in the latest trailer when he’s running with the rifle with the explosion in the background. Stuff like that adds tons of immersion and red dead had this to some extent wit"
-  },
-  {
-   "id": "rd-1q6hu2p",
-   "title": "GTA vi release schedule in a nutshell;",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xd8bpa/gta_vi_release_schedule_in_a_nutshell/",
-   "date": "2026-10-23T08:25:27.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/dopy9 [link] [comments]"
-  },
-  {
-   "id": "rd-11an2ni",
-   "title": "\"Vamos, vamos!\" Painted my favorite frame of Raul from the extended look (oils).",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xd77nr/vamos_vamos_painted_my_favorite_frame_of_raul/",
-   "date": "2026-10-23T07:16:57.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/zkorejo [link] [comments]"
   }
  ]
 }
