@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-25T19:50:48.208Z",
+ "generated": "2026-10-25T22:15:16.901Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-25T19:50:48.208Z"
+   "checked": "2026-10-25T22:15:16.901Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-25T19:50:48.208Z"
+   "checked": "2026-10-25T22:15:16.901Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-25T19:50:48.208Z"
+   "checked": "2026-10-25T22:15:16.901Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-25T19:50:48.208Z"
+   "checked": "2026-10-25T22:15:16.901Z"
   }
  },
  "official": [
@@ -231,6 +231,30 @@
  ],
  "press": [
   {
+   "id": "gn-1b3im5k",
+   "title": "GTA 5 heartbreaking dog secret somehow has us even more hyped for GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQXzluV3ViSURSTERBdEJYVGF1RGg2ekdFRW1ZVXVQRFhqY0c3Smk1RERNRXlNV3pfenpWQlJkd1hCMTZGUHZJUFZWaHhydDB0ZVlqRk1IdldWUXoyMTdxZjc2aDAxbzhGTnhrY2pqaVlPN2JsUUdld1N4U1MzZXlRb0p5YXpCNXh2WlBscTBuMmtIbWNzblE?oc=5",
+   "date": "2026-10-25T22:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 5 heartbreaking dog secret somehow has us even more hyped for GTA 6 GAMINGbible"
+  },
+  {
+   "id": "gn-1ntpg7u",
+   "title": "All Songs Featured in GTA 6 Extended Look (With Timestamps)",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XTDVTb2h1ck0tLXo4OUptOUxIaGwtYnNtT0ZkbzJNaGlwQ29wU0FrRTZnRU41OEI2Qm1kMWdVRjIxNDh3U2R5WFhyTnBoTkY3ckE?oc=5",
+   "date": "2026-10-25T21:33:21.000Z",
+   "source": "IMDb",
+   "summary": "All Songs Featured in GTA 6 Extended Look (With Timestamps) IMDb"
+  },
+  {
+   "id": "gn-1msqrjw",
+   "title": "GTA 6 price: Standard vs Ultimate, and no disc in the box",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxNFlyRl9rLWNuV2ZtWFBjVHhkemxDT3JYX3RuM01YTjJqSlYwTWM4N0w4YXBsaGRubU84aS1zU01MVUNyNzdaS05qTmxRQnV3SkVVZEFYZmZOd3JiRzNOdTdMWHpMWGN5X0x3?oc=5",
+   "date": "2026-10-25T20:00:00.000Z",
+   "source": "TechCity",
+   "summary": "GTA 6 price: Standard vs Ultimate, and no disc in the box TechCity"
+  },
+  {
    "id": "gn-1qs0mha",
    "title": "GTA 6's Real-World Promotional Goodies Are Being Resold For Ridiculous Prices",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTJCa0VBa1FNSU9GWE9ycjZZR1VYbUFJV3dvWEo2NHZVeE44azlmUGxXZnpwWmIzRE1wcmtLMFdGdk8xdzVCdXlUc0E0MlB1MURVVDNucURrTXVYQk1kRUdyaVNkNkduSThWbGpIa2RoR2Nncm9mRm82QjhvRU5sMHQtM3JPUVhJSlRfWEtVTmpHM2VsdzlvWFcyRDQ5NVV4SGZjWkw3UHZEUGR5WjlB?oc=5",
@@ -264,11 +288,11 @@
   },
   {
    "id": "gn-qx3kq4",
-   "title": "Likely ‘GTA 6’ Lucia Actress Goes Live on Instagram For The First Time",
+   "title": "WATCH: Likely ‘GTA 6’ Lucia Actress Goes Live on Instagram for the First Time",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVndlNzJwYjFSN0QtUDdQdHNrQWpweTVVVHcwTnd5T2E3V29PaEJKdTdmNHFpMUtpSU5KTzBSck5xRWVfM2ZMRWJTSkdVOUxrc2pobWNnSDRmWkRSQzJEX09wQXdaYk1Vc3ZHejU4ZlFuV1MtT0wyUW9hNVUxWUZEbG5DR3dtVVJxWmJnWnRrbW9CdGJzZEd1VHc4SThfNjJWNWRn?oc=5",
    "date": "2026-10-25T18:23:44.000Z",
    "source": "VICE",
-   "summary": "Likely ‘GTA 6’ Lucia Actress Goes Live on Instagram For The First Time VICE"
+   "summary": "WATCH: Likely ‘GTA 6’ Lucia Actress Goes Live on Instagram for the First Time VICE"
   },
   {
    "id": "gn-1l1zdhk",
@@ -285,6 +309,14 @@
    "date": "2026-10-25T17:54:09.000Z",
    "source": "GameGPU",
    "summary": "GTA 6 Online could launch on consoles alongside the PC release in early 2027. GameGPU"
+  },
+  {
+   "id": "gn-rv4ckp",
+   "title": "10 Biggest Games Releasing in November 2026: GTA 6, Zelda, WoW and More",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnJ6aExtbk9pcEQtMUJpSWNNcnJSaFNTV2NMUGhsdkdnUTMzeV93NUt2NjlqbVVLakpkU3hKdVNLbk5RSl9zNVRpMExvWk92VVhPMWJ6a2pRR0Q1ZlhLOUFuMUVBejBMQzNOVkZmZUJneDQ0ZVN1VFBNQ1VsVUtOTHZUaWl0QXBrcnRZWnRYa1liMmZ4Y29uQWlQaWduU1AzWjJpZzRJUUQ?oc=5",
+   "date": "2026-10-25T15:54:32.000Z",
+   "source": "Game News Plus",
+   "summary": "10 Biggest Games Releasing in November 2026: GTA 6, Zelda, WoW and More Game News Plus"
   },
   {
    "id": "gn-1tpf9su",
@@ -408,11 +440,11 @@
   },
   {
    "id": "gn-s3e44u",
-   "title": "Rockstar Is Already Tracking Vanoss Crew's Miami GTA 6 Launch Shoot",
+   "title": "Rockstar Knows the Vanoss Crew Is Renting a Miami Mansion for GTA 6",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXVJeWtZU2lyUUhyX01PdzhTcHpoejE5Zjkyc2dmQ3c4TFB4bnpDY2w2VzRLTG1yUFNkazZ2NEtEaU5vQTdSTllVZkJLLWMwSHlXZ2dPMUJ6NjVrWV9yYXR4anJWNG51RE9vQ0lyeFZWUVBlZ1dJajZfSS1QMzRHUkNhN0gxOFk5NDFSdko3LXludmwxLXpoTG9oZ3E?oc=5",
    "date": "2026-10-24T17:50:24.000Z",
    "source": "GTA BOOM",
-   "summary": "Rockstar Is Already Tracking Vanoss Crew's Miami GTA 6 Launch Shoot GTA BOOM"
+   "summary": "Rockstar Knows the Vanoss Crew Is Renting a Miami Mansion for GTA 6 GTA BOOM"
   },
   {
    "id": "gn-1w6zirm",
@@ -677,41 +709,33 @@
    "date": "2026-10-23T17:10:31.000Z",
    "source": "IGN India",
    "summary": "IGN India Podcast #5: We Discuss GTA 6 Trailer, Ramayana, and BGMI Air! IGN India"
-  },
-  {
-   "id": "gn-dbekna",
-   "title": "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI’s Release",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSE9QSlNJdk9tVUVoR3J3YzlqcmZWVHVHUDlTaTdkWVNZR2d5NmdvRXYtMHFXcUlfLXRTYkp6R1d0enVUWTZPdmQxRlJDWm1qbU1rX1BVX042NGszRGNYUzNhUHl5X2xoQk0teEhSUDhmTGdCelNuYzBpTk44TkJvMWFuSVpQemlYTkdhV3BIcmN1UWlHOU5BaGRqMFAzS3QtZmVTdjQ0NTNOV3cxSVR3MUk4eWJRZw?oc=5",
-   "date": "2026-10-23T17:00:00.000Z",
-   "source": "IGN",
-   "summary": "IGN Is Partnering with Best Buy for 3 Weeks of Giveaways Leading Up to GTA VI’s Release IGN"
-  },
-  {
-   "id": "gn-owsshp",
-   "title": "The Wait is Over: GTA 6 Trailer Finally Released!",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92Y0JDdURMZURiQklScE5qUXJyQk5aV3FEUS1vRnVjMmhXMmN3TGI0SFI4WHhtOEZFdHFKNnR1eTU2T3M2V2ZnYlJDZGRZajJiMGhvQl9BbGVhbklzajdBMVF2Z2FucURHUHhoVGZlb1RKUE5TT3F3?oc=5",
-   "date": "2026-10-23T16:30:00.000Z",
-   "source": "Yahoo Tech",
-   "summary": "The Wait is Over: GTA 6 Trailer Finally Released! Yahoo Tech"
-  },
-  {
-   "id": "gn-a3ld34",
-   "title": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0RQZm9wNGpUZEF1Nmpaa08yVEpwMjlPSE1zektWOFctZzBpRWFUOFN4WllFZlF0RmJlY1FNTnBHdG4xUThpMGRESjRReExHR3ZrU3k2ZjYtZVQyd250Y0FyNjZuMWZyR3M2eWozQ1l0bTJCbk5hZGd6RXZpdE9lSDVseFZwQV9wTkFLdHVnVWlIY1ZLOVE?oc=5",
-   "date": "2026-10-23T16:11:42.000Z",
-   "source": "41NBC News",
-   "summary": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion 41NBC News"
-  },
-  {
-   "id": "gn-uxlf9w",
-   "title": "Poll: Are You Taking Time Off for GTA 6?",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExaREFHbXRZYVE4czFUYllEQ3Fhd3BZcmZQWmxpYkJmNVE2c0VsTlJ3MWFVWFVfYjlHd0I1ZXVxaXZ1Z3NQZ2gxeXhvbW1tZkEwYlpGay1NemktdmF6aHg4RnNYSlJvNTZBSVczY1RtUlB6eHZWSTJSQTRFRk0?oc=5",
-   "date": "2026-10-23T16:00:00.000Z",
-   "source": "Push Square",
-   "summary": "Poll: Are You Taking Time Off for GTA 6? Push Square"
   }
  ],
  "community": [
+  {
+   "id": "rd-s9kipe",
+   "title": "Soon to be the most popular spot in Miami",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfebp5/soon_to_be_the_most_popular_spot_in_miami/",
+   "date": "2026-10-25T21:26:31.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Someabe [link] [comments]"
+  },
+  {
+   "id": "rd-1qkb2ji",
+   "title": "Has anybody talked about the road paint? It makes sense for it to have it's own texture so it looks different and picks up light differently, but making it 3D would be insane (5 pictures --> click right arrow)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfeahz/has_anybody_talked_about_the_road_paint_it_makes/",
+   "date": "2026-10-25T21:25:08.000Z",
+   "source": "r/GTA6",
+   "summary": "click right arrow)\" title=\"Has anybody talked about the road paint? It makes sense for it to have it's own texture so it looks different and picks up light differently, but making it 3D would be insan"
+  },
+  {
+   "id": "rd-6vn6h1",
+   "title": "GTA VI in El clásico",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfcojy/gta_vi_in_el_clásico/",
+   "date": "2026-10-25T20:19:22.000Z",
+   "source": "r/GTA6",
+   "summary": "I just saw it in the match advertisement, good marketing at the end submitted by /u/mellas31 [link] [comments]"
+  },
   {
    "id": "rd-1v7vpj9",
    "title": "The chainsaw scene motel from Scarface in GTA 6",
@@ -727,6 +751,14 @@
    "date": "2026-10-25T18:26:12.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Gyatto- [link] [comments]"
+  },
+  {
+   "id": "rd-1sjlieg",
+   "title": "Am I the only person whos thinks Key West might not be scrapped?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xf948q/am_i_the_only_person_whos_thinks_key_west_might/",
+   "date": "2026-10-25T17:59:03.000Z",
+   "source": "r/GTA6",
+   "summary": "This screenshot gives me a lot of hope that its still in the game due to the amount of traffic thats heading to the south of the map. At first i thought itd just be for the naval station but it just s"
   },
   {
    "id": "rd-viq2qn",
@@ -999,38 +1031,6 @@
    "date": "2026-10-23T21:11:04.000Z",
    "source": "r/GTA6",
    "summary": "saw it a few times around the south end of central park, i wonder how many there are? submitted by /u/aidopotato5 [link] [comments]"
-  },
-  {
-   "id": "rd-nopq7i",
-   "title": "Vice City arrives in London finally…",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdo8pw/vice_city_arrives_in_london_finally/",
-   "date": "2026-10-23T19:53:39.000Z",
-   "source": "r/GTA6",
-   "summary": "Just Seen in the Selfridges Christmas windows which are based on cities of the world! (credit @thelondonkids) on Instagram. Perhaps London marketing kicks off this weekend? submitted by /u/mtsim21 [li"
-  },
-  {
-   "id": "rd-12z4evi",
-   "title": "I made a fan art of Lucia.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdmu6z/i_made_a_fan_art_of_lucia/",
-   "date": "2026-10-23T19:00:13.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/VariousQuestion [link] [comments]"
-  },
-  {
-   "id": "rd-18tl6fq",
-   "title": "Starting November 16th, Discord and GTA 6 will be running a promotion that features a new Custom App Icon, Display Name Font and Client Theme.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdlm0c/starting_november_16th_discord_and_gta_6_will_be/",
-   "date": "2026-10-23T18:13:53.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/peqc [link] [comments]"
-  },
-  {
-   "id": "rd-173mkvu",
-   "title": "What🤯🤯",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdjzc3/what/",
-   "date": "2026-10-23T17:12:26.000Z",
-   "source": "r/GTA6",
-   "summary": "This would have been crazy if it happened. submitted by /u/speedsewyyy07 [link] [comments]"
   }
  ]
 }
