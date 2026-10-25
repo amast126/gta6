@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-25T13:17:23.507Z",
+ "generated": "2026-10-25T17:09:46.189Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-25T13:17:23.507Z"
+   "checked": "2026-10-25T17:09:46.189Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-25T13:17:23.507Z"
+   "checked": "2026-10-25T17:09:46.189Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-25T13:17:23.507Z"
+   "checked": "2026-10-25T17:09:46.189Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-25T13:17:23.507Z"
+   "checked": "2026-10-25T17:09:46.189Z"
   }
  },
  "official": [
@@ -231,12 +231,36 @@
  ],
  "press": [
   {
+   "id": "gn-1tpf9su",
+   "title": "'A Lot of People Want to Get to Know Me' — GTA 6 Fans Swarm Rumored Lucia Actress Manni L. Perez's Livestream",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM05JSXQyLUlZTy1UUXVVdy1ybUNCSURpMkg4VFI4cWZwbEZSc2c3amtVTEtuVXNtUWlERkJyZjdyMGZSYkotTVVuUVdSdkU5dThPRERXdXhWZG9XS2NraEkwN0lxc2V4bkdYekpvVkRJYVZoQzhmRElXQ2x1V1liZWduMjl5QXVnekdBS3JkdkVVNE0wMjBQTGtad3FuakFiQVRiWDhZdFJWSVVwcEhmQmtiTFdOWW5X?oc=5",
+   "date": "2026-10-25T15:14:26.000Z",
+   "source": "IGN",
+   "summary": "'A Lot of People Want to Get to Know Me' — GTA 6 Fans Swarm Rumored Lucia Actress Manni L. Perez's Livestream IGN"
+  },
+  {
+   "id": "gn-123hnm7",
+   "title": "Grand Theft Auto VI pre-load starts November 12 and will take up to 200GB of storage space.",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR2VXQW5jVzhLMHhZZkdHaVNNSHhzNmtXTzVrVUhXTklfUlBnS01RMnYwb0RjUTdZbklmRk9aVm9ZWDJLOHkyWUtBYnpXSGc0UldpbDNycTkybEJncENpbjRNMnVGM3dLSDdraFVYMGVrcDZ6Z1hFVllxY2hJUjRhTVk1QVZEeWRtZWlubEVvUGFDWDZPNk85Qi1uZVo0Zm1waDVGb1pGY0lfcW03VUlJYjlreEw?oc=5",
+   "date": "2026-10-25T13:56:12.000Z",
+   "source": "GameGPU",
+   "summary": "Grand Theft Auto VI pre-load starts November 12 and will take up to 200GB of storage space. GameGPU"
+  },
+  {
    "id": "gn-1tnf4nh",
    "title": "Circana Analyst Disputes Bloomberg Claim That GTA 6 Fueled PS5 Sales Surge",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXQzZkdiczRxZFVzaV9PdzdFcmxHdS1TTWJyS2loeTFuN2dnZjIwZmJvOHVMYTNVS29Sc3J6WlJReTUxcnhPUUtCNkUzYXBLQnZMTklaZ0R0UGJNSFBkcDZXd3VFa29HOUJLN081MjVTY3I5X3JILTBJcHZFbW9uR05Qd3lQb3RrMlJhTg?oc=5",
    "date": "2026-10-25T10:43:19.000Z",
    "source": "GTA BOOM",
    "summary": "Circana Analyst Disputes Bloomberg Claim That GTA 6 Fueled PS5 Sales Surge GTA BOOM"
+  },
+  {
+   "id": "gn-d36z0n",
+   "title": "Opinion: why would you take time off work to play GTA VI?",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44M3FUWkRYYUJKeXdPeXY3Vk1VZDZ5b1RfMjZwNWFqRDBFQndDTjcxNmFMR1p4SHFSS3l2WnN4dlExOVQxY0V3bjdLRE5KenYwcGZVVzd5ZXZnUzZ4bkJNeUlmUQ?oc=5",
+   "date": "2026-10-25T10:01:34.000Z",
+   "source": "Geek Ireland",
+   "summary": "Opinion: why would you take time off work to play GTA VI? Geek Ireland"
   },
   {
    "id": "gn-1snea8w",
@@ -615,20 +639,20 @@
    "summary": "The Wait is Over: GTA 6 Trailer Finally Released! Yahoo Tech"
   },
   {
-   "id": "gn-uxlf9w",
-   "title": "Poll: Are You Taking Time Off for GTA 6?",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExaREFHbXRZYVE4czFUYllEQ3Fhd3BZcmZQWmxpYkJmNVE2c0VsTlJ3MWFVWFVfYjlHd0I1ZXVxaXZ1Z3NQZ2gxeXhvbW1tZkEwYlpGay1NemktdmF6aHg4RnNYSlJvNTZBSVczY1RtUlB6eHZWSTJSQTRFRk0?oc=5",
-   "date": "2026-10-23T16:19:24.000Z",
-   "source": "Push Square",
-   "summary": "Poll: Are You Taking Time Off for GTA 6? Push Square"
-  },
-  {
    "id": "gn-a3ld34",
    "title": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM0RQZm9wNGpUZEF1Nmpaa08yVEpwMjlPSE1zektWOFctZzBpRWFUOFN4WllFZlF0RmJlY1FNTnBHdG4xUThpMGRESjRReExHR3ZrU3k2ZjYtZVQyd250Y0FyNjZuMWZyR3M2eWozQ1l0bTJCbk5hZGd6RXZpdE9lSDVseFZwQV9wTkFLdHVnVWlIY1ZLOVE?oc=5",
    "date": "2026-10-23T16:11:42.000Z",
    "source": "41NBC News",
    "summary": "Morning Business Report: Treasury targets home investors as GTA 6 launch could cost $1 billion 41NBC News"
+  },
+  {
+   "id": "gn-uxlf9w",
+   "title": "Poll: Are You Taking Time Off for GTA 6?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOUExaREFHbXRZYVE4czFUYllEQ3Fhd3BZcmZQWmxpYkJmNVE2c0VsTlJ3MWFVWFVfYjlHd0I1ZXVxaXZ1Z3NQZ2gxeXhvbW1tZkEwYlpGay1NemktdmF6aHg4RnNYSlJvNTZBSVczY1RtUlB6eHZWSTJSQTRFRk0?oc=5",
+   "date": "2026-10-23T16:00:00.000Z",
+   "source": "Push Square",
+   "summary": "Poll: Are You Taking Time Off for GTA 6? Push Square"
   },
   {
    "id": "gn-4abo1c",
@@ -685,33 +709,25 @@
    "date": "2026-10-23T13:33:00.000Z",
    "source": "WISH-TV",
    "summary": "GTA VI could cost US economy $1 billion WISH-TV"
-  },
-  {
-   "id": "gn-1hvs29y",
-   "title": "GTA 6 Could Cost the US $1 Billion in Lost Productivity: One Economist Disagrees",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWHFCNXVQQjlIb3ZaTm9kaW5NdjhXcm0xRVBJTWJ6Q3lfLWpad1hnaE12RklNTm45SWRmNnlQSjVKdGR1OTNVTUYySU9heXpnNExjUHRpNl80bklaLXAtQ1U5dkRLMV83TklnOGttY3JxYmZERWpvdkFBVHdGVGJFS2J6V1RUQV9IQTlzNw?oc=5",
-   "date": "2026-10-23T13:28:44.000Z",
-   "source": "www.techtimes.co.uk",
-   "summary": "GTA 6 Could Cost the US $1 Billion in Lost Productivity: One Economist Disagrees www.techtimes.co.uk"
-  },
-  {
-   "id": "gn-117v70w",
-   "title": "GTA 6 Could ‘Cost American Economy $1 Billion,’ Says Analyst",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzhvQTVGUG93OW9QQlFFaEpnMFpGbHhDeHdqS1N4S0ZseTRTVnc4bVZqQWk3dWREVGUtZ05uTWZSSldoS29mSWhfWXFYYlhRNi1QVnFqbTR0SmxDN3l0TXJTV25rZzdaT2NvOHFDZURLYU84N3ZZUkVSRlVoT1ZjYXl4Vk1ncTRPY2dsYQ?oc=5",
-   "date": "2026-10-23T13:15:19.000Z",
-   "source": "Insider Gaming",
-   "summary": "GTA 6 Could ‘Cost American Economy $1 Billion,’ Says Analyst Insider Gaming"
-  },
-  {
-   "id": "gn-qkbj9x",
-   "title": "PlayStation Is Offering $40 Off PS5 Refurb Bundles Ahead of GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU0M3MURfeFdISWhlbDJmMWEyM0phbVQ4cnFjWGtabkZkdWNKbVZuRjdlQTBSNWtBeTZ5VFFhS0pGT2lnN2xLQ2J5Yk8wVFR6N3lYY2JZSDFOelZ2cm1sRDRJSGdZZmdHOUY0ZlZZNEh5d2hGSVlUOUxVSEd6eml4T29qZEZsRmJwUUlOUQ?oc=5",
-   "date": "2026-10-23T12:49:32.000Z",
-   "source": "IGN",
-   "summary": "PlayStation Is Offering $40 Off PS5 Refurb Bundles Ahead of GTA 6 IGN"
   }
  ],
  "community": [
+  {
+   "id": "rd-1l6q5pu",
+   "title": "UPDATE : my custom GTA VI puzzle. Done",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xf2qil/update_my_custom_gta_vi_puzzle_done/",
+   "date": "2026-10-25T13:43:53.000Z",
+   "source": "r/GTA6",
+   "summary": "Original post here : https://www.reddit.com/r/GTA6/s/xWZ9RpG9bF Took me two days. “LOVE” letters and highlights were the easiest. Jason’s was the trickiest. Overall it’s a very nice picture to make a "
+  },
+  {
+   "id": "rd-s35r7",
+   "title": "Article of the Day #54: Bocamar Bridge (Sunshine Skyway Bridge)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xf2fm8/article_of_the_day_54_bocamar_bridge_sunshine/",
+   "date": "2026-10-25T13:30:21.000Z",
+   "source": "r/GTA6",
+   "summary": "The Bocamar Bridge is the tallest known bridge in Leonida. submitted by /u/gtawiki [link] [comments]"
+  },
   {
    "id": "rd-kudsf4",
    "title": "GTA VI vs. Modern Warfare 4 convenience stores",
@@ -1015,22 +1031,6 @@
    "date": "2026-10-23T16:46:10.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
-  },
-  {
-   "id": "rd-11grzaf",
-   "title": "What are you expecting from Port Gellhorn? Leonida’s second biggest city.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdj27d/what_are_you_expecting_from_port_gellhorn/",
-   "date": "2026-10-23T16:37:48.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/darkwoods625 [link] [comments]"
-  },
-  {
-   "id": "rd-1ngnar",
-   "title": "Day 5 of making memes out of lines from the trailers until release",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdgntn/day_5_of_making_memes_out_of_lines_from_the/",
-   "date": "2026-10-23T15:08:28.000Z",
-   "source": "r/GTA6",
-   "summary": "Link to Day 4: https://www.reddit.com/r/GTA6/comments/1xcgwj7/day_4_of_making_memes_out_of_lines_from_the/ submitted by /u/ZionGlitch [link] [comments]"
   }
  ]
 }
