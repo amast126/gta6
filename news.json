@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-25T02:57:03.576Z",
+ "generated": "2026-10-25T08:09:09.152Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-25T02:57:03.576Z"
+   "checked": "2026-10-25T08:09:09.152Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-25T02:57:03.576Z"
+   "checked": "2026-10-25T08:09:09.152Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-25T02:57:03.576Z"
+   "checked": "2026-10-25T08:09:09.152Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-25T02:57:03.576Z"
+   "checked": "2026-10-25T08:09:09.152Z"
   }
  },
  "official": [
@@ -245,6 +245,14 @@
    "date": "2026-10-25T01:59:00.000Z",
    "source": "Notebookcheck",
    "summary": "Prolapse PS5 console jailbreak for firmware 14.10 may expose GTA 6 to piracy Notebookcheck"
+  },
+  {
+   "id": "gn-m8i7on",
+   "title": "3 Games Move Away From GTA 6’s Nov. 19 Date [2026]",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUi1fV0RYclAtMGxiZndDc29wSmFaOXg3UVRFdkJxdV9ObGRMWjVRVENDZzBONzlBaFBDT0xQd1NGdHhIYTI3ZkhFYWo1RXJPdjNJTHE2THVOczk4OHgwRnpYbTRDU1IzalRZR0RNN3FLS25NZEZvV3NNM2FmdEtXRWUyRFFVRWgx?oc=5",
+   "date": "2026-10-25T01:20:17.000Z",
+   "source": "shattered.io",
+   "summary": "3 Games Move Away From GTA 6’s Nov. 19 Date [2026] shattered.io"
   },
   {
    "id": "gn-16wlf7v",
@@ -701,17 +709,17 @@
    "date": "2026-10-23T11:04:25.000Z",
    "source": "The National Interest",
    "summary": "Could Grand Theft Auto VI Crash the US Economy? The National Interest"
-  },
-  {
-   "id": "gn-10009re",
-   "title": "Cliff Richard is having a revival, and it’s all thanks to GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcmRFUm9kaG53Rl8yLUJ2bXNrLVlzYWZ4cE9kS3lfRGpXNUxwMmtFZkpfWkFNLTlRRWItYU51aXRtSVRBdzRFbmx5NzdtWVlzVGlKUFdjd2U4MENRSkptNXdKNVYwTWllYnBXMWI1TXlOQXdEMGppVHVqVFRKZ1BBSERwaVFDbDI2SGdxNzRWeE5tQTB5UjBtRGV3WQ?oc=5",
-   "date": "2026-10-23T11:00:00.000Z",
-   "source": "Creative Bloq",
-   "summary": "Cliff Richard is having a revival, and it’s all thanks to GTA 6 Creative Bloq"
   }
  ],
  "community": [
+  {
+   "id": "rd-vbqns9",
+   "title": "Cops after November 19th…",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xetvp8/cops_after_november_19th/",
+   "date": "2026-10-25T05:23:12.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/This-Equivalent8751 [link] [comments]"
+  },
   {
    "id": "rd-1umou2n",
    "title": "My pumpkin this year",
@@ -719,6 +727,14 @@
    "date": "2026-10-25T01:05:40.000Z",
    "source": "r/GTA6",
    "summary": "The palm tree was a little ambitious ngl submitted by /u/FatManReforged [link] [comments]"
+  },
+  {
+   "id": "rd-278x43",
+   "title": "Famous Jamaican Artist \"M Dot R\" Confirms his song \"Turn Red\" will be featured in GTA 6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xeotqb/famous_jamaican_artist_m_dot_r_confirms_his_song/",
+   "date": "2026-10-25T00:56:15.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/poroplease [link] [comments]"
   },
   {
    "id": "rd-zd8d0q",
@@ -1015,22 +1031,6 @@
    "date": "2026-10-23T14:06:00.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/yourfavchoom [link] [comments]"
-  },
-  {
-   "id": "rd-m6vgoj",
-   "title": "Frame Friday #124: Let's discuss official GTA 6 content. [12 frames] - Less than one month to go!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdds6p/frame_friday_124_lets_discuss_official_gta_6/",
-   "date": "2026-10-23T13:17:16.000Z",
-   "source": "r/GTA6",
-   "summary": "Pozdrav svima! The final days are coming! Next week we're entering November and with it, the remaining time will fly like nothing. Today I wanted to put the focus on Lucia in her more action-focused s"
-  },
-  {
-   "id": "rd-dhjweh",
-   "title": "Hair connection fix in GTA 6?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xddmdv/hair_connection_fix_in_gta_6/",
-   "date": "2026-10-23T13:10:31.000Z",
-   "source": "r/GTA6",
-   "summary": "Do we think the facial hair to hair connection will be fixed this time? In GTA 5 if you go to the barber as Franklin with his default hair style and select the goatee facial hair style you'll see the "
   }
  ]
 }
