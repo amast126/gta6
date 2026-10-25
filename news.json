@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-25T08:09:09.152Z",
+ "generated": "2026-10-25T13:17:23.507Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-25T08:09:09.152Z"
+   "checked": "2026-10-25T13:17:23.507Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-25T08:09:09.152Z"
+   "checked": "2026-10-25T13:17:23.507Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-25T08:09:09.152Z"
+   "checked": "2026-10-25T13:17:23.507Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-25T08:09:09.152Z"
+   "checked": "2026-10-25T13:17:23.507Z"
   }
  },
  "official": [
@@ -230,6 +230,30 @@
   }
  ],
  "press": [
+  {
+   "id": "gn-1tnf4nh",
+   "title": "Circana Analyst Disputes Bloomberg Claim That GTA 6 Fueled PS5 Sales Surge",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeXQzZkdiczRxZFVzaV9PdzdFcmxHdS1TTWJyS2loeTFuN2dnZjIwZmJvOHVMYTNVS29Sc3J6WlJReTUxcnhPUUtCNkUzYXBLQnZMTklaZ0R0UGJNSFBkcDZXd3VFa29HOUJLN081MjVTY3I5X3JILTBJcHZFbW9uR05Qd3lQb3RrMlJhTg?oc=5",
+   "date": "2026-10-25T10:43:19.000Z",
+   "source": "GTA BOOM",
+   "summary": "Circana Analyst Disputes Bloomberg Claim That GTA 6 Fueled PS5 Sales Surge GTA BOOM"
+  },
+  {
+   "id": "gn-1snea8w",
+   "title": "GTA 6 Just Got an Ad Spot on Druski's Show, Ali G and All",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamZ3QzdPTlhSQlRoZVd2eU1wTzhpWVJJYk9jVmNDNl9WQXJPWVdfTDdZU1RuX3ZXbV9ZY3VoeHI5OHRSVldfOEh5cVVkZFVCYWZKUV9zbFVxa3NpaWJVSG9EZDNUUUNiNVE0dFNSMkEycGJHWTJxb05DM04tbmxYVF91VFgyX1BJUVN0cmluNmd6R3pk?oc=5",
+   "date": "2026-10-25T09:38:44.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6 Just Got an Ad Spot on Druski's Show, Ali G and All GTA BOOM"
+  },
+  {
+   "id": "gn-1nni3a2",
+   "title": "GTA 6 25-Minute Leak: Nudity, Racing, Nov. 19 [2026]",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFZRaGUtTk9zWElMZzBWc1NrcmYyTmJjVDJEenZUcDl4U0ZyMklrckdrUnNUT1BxNlpWMkd4Qjk3alc2TXpvSDBLeHktVEtGTzdTM2tMQThBaGp1d2RlZFlUSjFPa1M3VTBqSldhOVRGOFV3bmh4VzNFVWx1WUxqTkxUR2U4Zjc3?oc=5",
+   "date": "2026-10-25T08:30:21.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 25-Minute Leak: Nudity, Racing, Nov. 19 [2026] https://tech-insider.org/"
+  },
   {
    "id": "gn-1ot78lk",
    "title": "GTA 6 Weapon System: Weapon Limits, Gunplay Changes, and Confirmed Weapons",
@@ -685,33 +709,25 @@
    "date": "2026-10-23T12:49:32.000Z",
    "source": "IGN",
    "summary": "PlayStation Is Offering $40 Off PS5 Refurb Bundles Ahead of GTA 6 IGN"
-  },
-  {
-   "id": "gn-4mwzeu",
-   "title": "GTA 6 Has Millions Of People Skipping Work On Launch Day, Study Finds",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXY5SEN4UVRpWjM2WTF0RVVsZVZSOEppSEhzb25INk9qbDFoOVQ1QnVKTXl3RE5lNVBsc1ZYU3BoYW5KOE9qSThLQk9mZnByX1BJRmtPOTI2V3RVeWNpTGJ1YzVqTnc1ZWlPWU9fRG0tenVHNVoxbFdNaVNUTGtYUHl0dFlxa2VGbHg2ZkN5TW5MNkdoQ2l3NXZtTQ?oc=5",
-   "date": "2026-10-23T12:16:35.000Z",
-   "source": "RockstarINTEL",
-   "summary": "GTA 6 Has Millions Of People Skipping Work On Launch Day, Study Finds RockstarINTEL"
-  },
-  {
-   "id": "gn-11h1t8e",
-   "title": "PS5 lands new hardware upgrade intended for GTA 6 as it bolsters 'plays best' claim",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMFNsU0pFMmN6cFdVNzhCYkxxa0RCdGMxaUllSUZtcnY4X3ktUGoyNmhvc21Qc1lDYmJUR0E0ZHNjR1BHUG9ROVFEM0VMX3d1dXpzYTNJbnc1ellFZVV6RlhIYjB4Z3dUQzlkaGVKS1Z6NFVYUkxLeVJOcHFrbTVubkpkVDVDUDczNjVDR0dSZnMxZGxRN3B2RjlFbHpOcGM1czQ3RjlaR0dSaXFsUDhRYURzQUprcG8wWWZiMUhWLWI4bmMy?oc=5",
-   "date": "2026-10-23T12:00:00.000Z",
-   "source": "GAMINGbible",
-   "summary": "PS5 lands new hardware upgrade intended for GTA 6 as it bolsters 'plays best' claim GAMINGbible"
-  },
-  {
-   "id": "gn-159doi1",
-   "title": "Could Grand Theft Auto VI Crash the US Economy?",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdURvTFJWb1pQMy1sWmFmU3lSX0l3MndDY3QxZF9VbEJWb3QxRTZRTlBMeURNcXN0U1I5akJSVzZQYURqRVhhcXVkdUxyUmZ6X2ZLMFc5bVo4LVRCUmw1cV9kQWxMU3k2djZVa0NYbThkQ3puSFdBd0t6ekVUMEt3c2VoM2duMkw0cGVVeFg4eUNrT2pNcVE?oc=5",
-   "date": "2026-10-23T11:04:25.000Z",
-   "source": "The National Interest",
-   "summary": "Could Grand Theft Auto VI Crash the US Economy? The National Interest"
   }
  ],
  "community": [
+  {
+   "id": "rd-kudsf4",
+   "title": "GTA VI vs. Modern Warfare 4 convenience stores",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xezxji/gta_vi_vs_modern_warfare_4_convenience_stores/",
+   "date": "2026-10-25T11:26:22.000Z",
+   "source": "r/GTA6",
+   "summary": "Just look at the amount of detail in GTA VI. The lighting, the clutter, the shelves, the overall atmosphere, everything feels so much more alive and realistic. Rockstar really seems to be pushing envi"
+  },
+  {
+   "id": "rd-fouk9c",
+   "title": "I feel like this mission is going to be the GTA equivalent of the RDR2 mission where you get drunk in the saloon and look for Lenny",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xex3n8/i_feel_like_this_mission_is_going_to_be_the_gta/",
+   "date": "2026-10-25T08:37:17.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
+  },
   {
    "id": "rd-vbqns9",
    "title": "Cops after November 19th…",
@@ -1015,22 +1031,6 @@
    "date": "2026-10-23T15:08:28.000Z",
    "source": "r/GTA6",
    "summary": "Link to Day 4: https://www.reddit.com/r/GTA6/comments/1xcgwj7/day_4_of_making_memes_out_of_lines_from_the/ submitted by /u/ZionGlitch [link] [comments]"
-  },
-  {
-   "id": "rd-4u1nni",
-   "title": "This guy seems to be fixing or adjusting a woman's motorcycle in the launch trailer",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdg4g6/this_guy_seems_to_be_fixing_or_adjusting_a_womans/",
-   "date": "2026-10-23T14:48:23.000Z",
-   "source": "r/GTA6",
-   "summary": "I was going through the trailer frame by frame and spotted something at 00:48.667 that I hadn't noticed before. Maybe some of you missed it too. There's a guy crouching next to a woman's motorcycle, l"
-  },
-  {
-   "id": "rd-lcl8li",
-   "title": "Miami Heat: “Straight out of the game, right onto the concourse 🍔🐔 Get a taste of Vice City’s Cluckin’ Bell and Burger Shot restaurants for a limited time.”",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdf0nj/miami_heat_straight_out_of_the_game_right_onto/",
-   "date": "2026-10-23T14:06:00.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/yourfavchoom [link] [comments]"
   }
  ]
 }
