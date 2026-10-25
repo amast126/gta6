@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-25T17:09:46.189Z",
+ "generated": "2026-10-25T19:50:48.208Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-25T17:09:46.189Z"
+   "checked": "2026-10-25T19:50:48.208Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-25T17:09:46.189Z"
+   "checked": "2026-10-25T19:50:48.208Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-25T17:09:46.189Z"
+   "checked": "2026-10-25T19:50:48.208Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-25T17:09:46.189Z"
+   "checked": "2026-10-25T19:50:48.208Z"
   }
  },
  "official": [
@@ -230,6 +230,62 @@
   }
  ],
  "press": [
+  {
+   "id": "gn-1qs0mha",
+   "title": "GTA 6's Real-World Promotional Goodies Are Being Resold For Ridiculous Prices",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTJCa0VBa1FNSU9GWE9ycjZZR1VYbUFJV3dvWEo2NHZVeE44azlmUGxXZnpwWmIzRE1wcmtLMFdGdk8xdzVCdXlUc0E0MlB1MURVVDNucURrTXVYQk1kRUdyaVNkNkduSThWbGpIa2RoR2Nncm9mRm82QjhvRU5sMHQtM3JPUVhJSlRfWEtVTmpHM2VsdzlvWFcyRDQ5NVV4SGZjWkw3UHZEUGR5WjlB?oc=5",
+   "date": "2026-10-25T18:57:13.000Z",
+   "source": "OpenCritic",
+   "summary": "GTA 6's Real-World Promotional Goodies Are Being Resold For Ridiculous Prices OpenCritic"
+  },
+  {
+   "id": "gn-om90o7",
+   "title": "Rockstar brings Vice City to Miami’s streets ahead of GTA 6 launch",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXhzODBxU3p5M2xLcXMtc3ZtYUdUMkZlaXlmZTVYR1BFdXc5dHFya2FXYWJBQUdhMldZZHU2YW9LVkZnT21xRVJXNC1Ddmd5cnIxMkxtdDYxOEt1MGl5a25CVERsUkJXNktFcjAyQUxxNDU5YlBqQ2dSbFJhM0w5M2dKWVY4MkZaNzJ0UDFB?oc=5",
+   "date": "2026-10-25T18:56:56.000Z",
+   "source": "eGamers.io",
+   "summary": "Rockstar brings Vice City to Miami’s streets ahead of GTA 6 launch eGamers.io"
+  },
+  {
+   "id": "gn-zqgqcw",
+   "title": "Daft Punk at Center of Unsubstantiated 'GTA VI' Rumor: What to Know",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1k2TlpDOGlrS2thZjVSMDRpZTNnVkg5NExzSGRkSGhWdk53Rml5azhSS0hzS04xMUw2T292aU9fcXFMV0EzbS1McmhGalU5b0dYRDhjdUpOaENVa0JLVXdvVFVZT1FiVTB4OUZhbjRTYmFsY1h1VDJUTVFnbTduM2RzMkhmb1BEeGl1RFFra0k1SEozcXhGZnFmMWU3M3dqbjN4SA?oc=5",
+   "date": "2026-10-25T18:44:33.000Z",
+   "source": "Yahoo",
+   "summary": "Daft Punk at Center of Unsubstantiated 'GTA VI' Rumor: What to Know Yahoo"
+  },
+  {
+   "id": "gn-1h2exq2",
+   "title": "GTA 6 Voice Actress Manni L. Perez Streams Live Amid Fan ...",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56V0tDRzQ1blkxbzUycjJBdTdsNUR5c18tckdsbnpJMG85Rlk0Qk9Tc19OU0I5MDhlNGNpbjFDZFNYMm5lVWwxd0t1eWtRSHVrSDZ2dUtuWQ?oc=5",
+   "date": "2026-10-25T18:43:40.000Z",
+   "source": "X",
+   "summary": "GTA 6 Voice Actress Manni L. Perez Streams Live Amid Fan ... X"
+  },
+  {
+   "id": "gn-qx3kq4",
+   "title": "Likely ‘GTA 6’ Lucia Actress Goes Live on Instagram For The First Time",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVndlNzJwYjFSN0QtUDdQdHNrQWpweTVVVHcwTnd5T2E3V29PaEJKdTdmNHFpMUtpSU5KTzBSck5xRWVfM2ZMRWJTSkdVOUxrc2pobWNnSDRmWkRSQzJEX09wQXdaYk1Vc3ZHejU4ZlFuV1MtT0wyUW9hNVUxWUZEbG5DR3dtVVJxWmJnWnRrbW9CdGJzZEd1VHc4SThfNjJWNWRn?oc=5",
+   "date": "2026-10-25T18:23:44.000Z",
+   "source": "VICE",
+   "summary": "Likely ‘GTA 6’ Lucia Actress Goes Live on Instagram For The First Time VICE"
+  },
+  {
+   "id": "gn-1l1zdhk",
+   "title": "Free Piggybacks For All! Modding GTA 5 Into GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LX2ktV3lQeXZDMExpN3ktTG9UNmZHb1o0cW5fRVEyR0txWExEby1lXzJSbjlFelZZbGFUS3JRQkdPT0p2bE1QeFZWV29UbWhlNy16Z1pXSV82VWtCRncyWXZRb3h1YXlRWmx5Y0l0bi1TdG1COTZPYVJWTjBESDQ?oc=5",
+   "date": "2026-10-25T18:10:00.000Z",
+   "source": "Yahoo Tech",
+   "summary": "Free Piggybacks For All! Modding GTA 5 Into GTA 6 Yahoo Tech"
+  },
+  {
+   "id": "gn-gchh6x",
+   "title": "GTA 6 Online could launch on consoles alongside the PC release in early 2027.",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVnRiOWJ0anpRUWE4YkhoMmtHRmplcmVaWmJwNEVNaE90UGNsVnhxZGkxeGpUcHIyMnk4RnhzZTgwemVodEJEOURhZTN0UE1XQWRHS1BGT0IxamVEOGRaZU5lWVhFUzJmMVNMT2NJWDVkYXY0dU1LWnpXS3FwZy14Qk5FYmhvTTliRVR6ZDN1VG50XzNTZ0RRSjlsWEFac1c3Sl84aEdTVkp1WFF4c2JrYW1XdktUaEh6Uk9FMg?oc=5",
+   "date": "2026-10-25T17:54:09.000Z",
+   "source": "GameGPU",
+   "summary": "GTA 6 Online could launch on consoles alongside the PC release in early 2027. GameGPU"
+  },
   {
    "id": "gn-1tpf9su",
    "title": "'A Lot of People Want to Get to Know Me' — GTA 6 Fans Swarm Rumored Lucia Actress Manni L. Perez's Livestream",
@@ -653,65 +709,33 @@
    "date": "2026-10-23T16:00:00.000Z",
    "source": "Push Square",
    "summary": "Poll: Are You Taking Time Off for GTA 6? Push Square"
-  },
-  {
-   "id": "gn-4abo1c",
-   "title": "Finger Out How To Prep For GTA 6 With These Exercises",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWlKRnVMU19XMmE1SC1HSGZRd0pWTzBhRXVIbTJ4WGVmejVZV05UR3NQYnJacUp2OGNwZG1lZGI2RnNnRmRmeTVVZF9EdWRPLWc2bHNTUkxvMFBLejkzOExCZ3NLMktXVEFFeUlxTkMtWGpHVjZwS2NrSkJZMm01aDR4XzMzaDJX?oc=5",
-   "date": "2026-10-23T15:39:56.000Z",
-   "source": "Yahoo Tech",
-   "summary": "Finger Out How To Prep For GTA 6 With These Exercises Yahoo Tech"
-  },
-  {
-   "id": "gn-1hvvis",
-   "title": "GTA 6 Burgers Will Be Available In Florida Throughout The Year",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3FNWUo5b0ZHVUdNQmg3b3ZMRVdVSWhvRTlsU3JqbG9GX1JPR0dIdDJDYU8td2lVOGgtdkZrVVFJcXBxSjQ0V3hBeE1rMkJ4eUh1dGVITWZqS2xzOVBxNmVOSlBaTFd0N1Q3X3o0VlhJRFF3cGc1Mk5PbGNMaW9xcGlDYnN3VmhfSlE3UWlKRHM1N0JfMm5EM3JyOThBZw?oc=5",
-   "date": "2026-10-23T15:15:53.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Burgers Will Be Available In Florida Throughout The Year GameSpot"
-  },
-  {
-   "id": "gn-13w2xpn",
-   "title": "The Wait For GTA 6 Feels Like A Crime, So Grab This Excellent Alternative For Less Than $4",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLTlIcGdRcFFpSUQ1MTVQczBaeWRfSlhFaTVuR2h1TC1IdGhpTkxCU3RfcXByTXBhZkR5UVR2VVd1SENqMnJFbm1mT0lMVXNrQTcyWHpLX09EUGxYeVhXUjRMT3NDRld6Vm5hSWdGUF9PYnFUVHBxNnVVWVdRZEFSSG03MTk4VlFCMUE?oc=5",
-   "date": "2026-10-23T15:15:36.000Z",
-   "source": "Yahoo Tech",
-   "summary": "The Wait For GTA 6 Feels Like A Crime, So Grab This Excellent Alternative For Less Than $4 Yahoo Tech"
-  },
-  {
-   "id": "gn-1ifbfac",
-   "title": "Rockstar Games Issues New Official Statement on GTA 6's Open World",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajNVTUc2SXBVblU2cHVkUFpwcGhsNW5pRjgyamxlR2JxTUd4TldneUpIN1hNRGVjb0J6YVVhT0NhMHZvZElaeF9zMm9uVEU4RktEYUl5eFl4ZmlRWHlfNUZYVTMwU0ZIS2N2WDdISUhvdk9ZakdIMFdhRHpvQlp0Z3JaY0lWTWpfaWFWR28zOEUzRGVnN3RPU2dJYU10ZHRM?oc=5",
-   "date": "2026-10-23T14:07:12.000Z",
-   "source": "OpenCritic",
-   "summary": "Rockstar Games Issues New Official Statement on GTA 6's Open World OpenCritic"
-  },
-  {
-   "id": "gn-n5uhzi",
-   "title": "GTA 6 Is Almost Here – And I Still Can’t Believe It",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZWU1mNW1LOElBTW5iTnRucWJWTGpsS19WZVh3ZmFydG80X3phbnpGQXY2LVFnM21XYXctOE9hNlBzSm9qN3JpUnpyNkxuNXJDZ3Z3UmhjR3dXZzIycHR5dENkTmN1VFhtSGxUblc2S3g5c05PWTg4cWNJWQ?oc=5",
-   "date": "2026-10-23T14:03:15.000Z",
-   "source": "GamingBolt",
-   "summary": "GTA 6 Is Almost Here – And I Still Can’t Believe It GamingBolt"
-  },
-  {
-   "id": "gn-1jju2r9",
-   "title": "'GTA 6' reportedly has realistic sweat. Here's how it works.",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXE1d1VvNmxiak5TV0E3cUl5Qk1oR2VnN2dxc29HTHNIQzhJS3lqQmVnRmdZTHpNZmZTRnpGZU45cHlyNlVjVEFvai1GbUdCQUJOdTNxOFFLQW91V1o0YWVFV29JSS1NRGYyY1ZwcUVuME9ObmRWZjFuelJwdGtDcjk3b0MxZnc?oc=5",
-   "date": "2026-10-23T13:45:23.000Z",
-   "source": "Mashable",
-   "summary": "'GTA 6' reportedly has realistic sweat. Here's how it works. Mashable"
-  },
-  {
-   "id": "gn-tu3ysm",
-   "title": "GTA VI could cost US economy $1 billion",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRUVxSk5RdWF4NVpSNkZmSkNncm40M2s3ajdvYXdNOTNVRGZSX0V0S2dKSF80UUI2MUg0d0xkNTlTV09SdEQwMU1jX2txTFFIMnQ2MjZIa3BIbDNEVTdhbG5qN0p6UzNFUDE1elV1QzIxRmNiTlE?oc=5",
-   "date": "2026-10-23T13:33:00.000Z",
-   "source": "WISH-TV",
-   "summary": "GTA VI could cost US economy $1 billion WISH-TV"
   }
  ],
  "community": [
+  {
+   "id": "rd-1v7vpj9",
+   "title": "The chainsaw scene motel from Scarface in GTA 6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfa1g6/the_chainsaw_scene_motel_from_scarface_in_gta_6/",
+   "date": "2026-10-25T18:35:36.000Z",
+   "source": "r/GTA6",
+   "summary": "In the game, the building is a \"Bobby Hurricane's\" restaurant, a parody of the Johnny Rockets restaurant that previously occupied the real Miami Beach building before being replaced by a CVS. gta.wiki"
+  },
+  {
+   "id": "rd-1g201y",
+   "title": "Jason is holding the exact same pistol as Mendez in this similarly lit environment",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xf9sx4/jason_is_holding_the_exact_same_pistol_as_mendez/",
+   "date": "2026-10-25T18:26:12.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Gyatto- [link] [comments]"
+  },
+  {
+   "id": "rd-viq2qn",
+   "title": "\"plays best on ps5\"",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xf8q59/plays_best_on_ps5/",
+   "date": "2026-10-25T17:43:32.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/MiMi881425 [link] [comments]"
+  },
   {
    "id": "rd-1l6q5pu",
    "title": "UPDATE : my custom GTA VI puzzle. Done",
@@ -1007,30 +1031,6 @@
    "date": "2026-10-23T17:12:26.000Z",
    "source": "r/GTA6",
    "summary": "This would have been crazy if it happened. submitted by /u/speedsewyyy07 [link] [comments]"
-  },
-  {
-   "id": "rd-3yje2b",
-   "title": "I made an artwork with the vintage vice city look and the wig from the extended trailer",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdjybt/i_made_an_artwork_with_the_vintage_vice_city_look/",
-   "date": "2026-10-23T17:11:19.000Z",
-   "source": "r/GTA6",
-   "summary": "It's difficult to draw Lu's face when she has a different haircut submitted by /u/tomy_wose [link] [comments]"
-  },
-  {
-   "id": "rd-yuyyd2",
-   "title": "\"Peekhole\" seems to be an OnlyFans parody",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdjk0o/peekhole_seems_to_be_an_onlyfans_parody/",
-   "date": "2026-10-23T16:56:38.000Z",
-   "source": "r/GTA6",
-   "summary": "A Peekhole QR code appears on the \"Make It Rain Mondays\" poster at the Jack of Hearts in An Extended Look (17:31). gta.wiki/Peekhole submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-1tdxlo6",
-   "title": "Nice touch by Rockstar",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdja38/nice_touch_by_rockstar/",
-   "date": "2026-10-23T16:46:10.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
   }
  ]
 }
