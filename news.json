@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-25T22:15:16.901Z",
+ "generated": "2026-10-26T00:31:54.556Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-25T22:15:16.901Z"
+   "checked": "2026-10-26T00:31:54.556Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-25T22:15:16.901Z"
+   "checked": "2026-10-26T00:31:54.556Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-25T22:15:16.901Z"
+   "checked": "2026-10-26T00:31:54.556Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-25T22:15:16.901Z"
+   "checked": "2026-10-26T00:31:54.556Z"
   }
  },
  "official": [
@@ -231,6 +232,22 @@
  ],
  "press": [
   {
+   "id": "gn-1ta43tx",
+   "title": "Could Hurricanes Temporarily Transform GTA 6's Map? Reddit's Best Weather Theory Explained",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUm1tQXJHSUk3bU5OanVDOEVhZlVDQnppZEJHMVNLTFg4MkFQNkxPREFyaW5vWmE4YjE5RE5ZSzZPU091THA0dm9wTVBlMlpLS2RvQlBuVFd5TXNWWm4yajV3R2lwNDI5ejFnMklfdVl0U0psVVA2ZHRqNnc1cUl3cDNlU2pWcFU0aDJTeWtKN1RlTHRvTVNSYjRLM0E?oc=5",
+   "date": "2026-10-26T00:07:52.000Z",
+   "source": "SVG",
+   "summary": "Could Hurricanes Temporarily Transform GTA 6's Map? Reddit's Best Weather Theory Explained SVG"
+  },
+  {
+   "id": "gn-10kg06z",
+   "title": "2026's Biggest GTA 6 Rival Isn't Zelda: Ocarina of Time Remake",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pcGg4OEFvZEgzVFBXRXJsbjBLdmt0S25WRS1pZTlYOGx4ekFtYzZ1RzlSR3EycTI4WHlneUF5anBwb2NtVnludElwaWU3aU9BQU1Gc1A3MWNvbnd0X2R1SWdzNXR6RUE?oc=5",
+   "date": "2026-10-25T22:00:45.000Z",
+   "source": "IMDb",
+   "summary": "2026's Biggest GTA 6 Rival Isn't Zelda: Ocarina of Time Remake IMDb"
+  },
+  {
    "id": "gn-1b3im5k",
    "title": "GTA 5 heartbreaking dog secret somehow has us even more hyped for GTA 6",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQXzluV3ViSURSTERBdEJYVGF1RGg2ekdFRW1ZVXVQRFhqY0c3Smk1RERNRXlNV3pfenpWQlJkd1hCMTZGUHZJUFZWaHhydDB0ZVlqRk1IdldWUXoyMTdxZjc2aDAxbzhGTnhrY2pqaVlPN2JsUUdld1N4U1MzZXlRb0p5YXpCNXh2WlBscTBuMmtIbWNzblE?oc=5",
@@ -325,6 +342,14 @@
    "date": "2026-10-25T15:14:26.000Z",
    "source": "IGN",
    "summary": "'A Lot of People Want to Get to Know Me' — GTA 6 Fans Swarm Rumored Lucia Actress Manni L. Perez's Livestream IGN"
+  },
+  {
+   "id": "gn-7mw9ba",
+   "title": "Rockstar Games Confirms One of GTA 6’s Biggest Upgrades From Grand Theft Auto V",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObjJEa2stR3ByUWk3Tm5BZi11OGJwOEdXRTlQWlhGR2VkYjlrSzJLOXprUUtWc0twcjE1NUxtUWNkMkVqVWZNQVBGTkRIOXQzaVQ5YjFBT2U5YU9QYUxpdE0tU2VnYUJkM18zN2JZdTVCWkJEb1B2ZmxEMHZ6N1l5NGRjeGZCVFdtRGsxVks3RzB5MVB2?oc=5",
+   "date": "2026-10-25T15:06:00.000Z",
+   "source": "ComicBook.com",
+   "summary": "Rockstar Games Confirms One of GTA 6’s Biggest Upgrades From Grand Theft Auto V ComicBook.com"
   },
   {
    "id": "gn-123hnm7",
@@ -685,33 +710,17 @@
    "date": "2026-10-23T17:47:25.000Z",
    "source": "DLCompare.com",
    "summary": "Will GTA 6 Come to PS4 or Xbox One? DLCompare.com"
-  },
-  {
-   "id": "gn-r2gq82",
-   "title": "\"For most of development, GTA 3 was in a sorry state\": Rockstar veteran reflects on 25 years of Grand Theft Auto ahead of GTA 6, says \"I don't remember\" much crunch",
-   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOTFB5cTF5WmhwT1g1LUhDQnRzc3dFS0FSRjZMLWdmZ1Y2TzJ1MzUxbFRuRnZQOF9lcWdLZGtQbXA1alRFUEk1LXBKWWVwekhTbG5rYVViVXFxdWlIM3ljVEFXUGthTDNkRno5WTlhRlZZZWxraU1RNnVmNkpFMy00U1FMN2E3VTI1ZFpCSFAwSzk2cW55TG1udUtkZUMyckFBcThIb1IwZ1h3TWlVZzROZUlWdGgzNVRhQ1cxUUotYnVjZi1QdXN2MTYwQXpIVGxYRjR6MXdFeDFwMGlOWDB5OEUzRjVCeGNPVnBjZ3NKbEpNVHJtcDNoeEQzNWpaSERIck5ZLXpyMmUyclBrMFIxTW1McDRGYncyaU1vX1dzdTFURlMxWktuSGd6UUVKeTNt?oc=5",
-   "date": "2026-10-23T17:36:52.000Z",
-   "source": "GamesRadar+",
-   "summary": "\"For most of development, GTA 3 was in a sorry state\": Rockstar veteran reflects on 25 years of Grand Theft Auto ahead of GTA 6, says \"I don't remember\" much crunch GamesRadar+"
-  },
-  {
-   "id": "gn-p20pwd",
-   "title": "GTA 6: Rockstar Devs Say They Had \"Dark\" Period During Game's Development",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZWd6VlZGa1lDU29hVGp2UWFYdlF5VHFKcWFIcU0zRGR3dkxPajFRblMxSWVrUFRxT1ZsQVF4LVh3Z1IybnQyakN1cVVUeTJlS1BhQzd6ekZhak5na2ZzRlhkVllfNE1VWWYtNHoySndDSVBJVmxQNUVpY0lKUExKb0d0OC1la0RRYUNGZU1FOWxTQjU0YmZMVldkOFQtRUdkbmFFdHJVREJxc2hJUUVERVdMaDFKZw?oc=5",
-   "date": "2026-10-23T17:20:15.000Z",
-   "source": "IGN India",
-   "summary": "GTA 6: Rockstar Devs Say They Had \"Dark\" Period During Game's Development IGN India"
-  },
-  {
-   "id": "gn-19a5p89",
-   "title": "IGN India Podcast #5: We Discuss GTA 6 Trailer, Ramayana, and BGMI Air!",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSm0tNnV1Z3F4cnpTNDJQZFpYU3FCWUdnOHdCQXR4RVZ6WE9pRDBSYUJ2UDV6b0QzVkF5MFR4OHV3bThjNlR5elJxdUc2eERWa2tMSzBvblNDQm95RGl0d0Q5UzBSR1ZLTHRlUVdhSVRTVmwzSGkzM2treVQ1RG52ZDZack5TZFJBLVNCWGxrMWNwSnFIdy0wVlJ3WTJUZUxvMGZ5ODRORG1Mdw?oc=5",
-   "date": "2026-10-23T17:10:31.000Z",
-   "source": "IGN India",
-   "summary": "IGN India Podcast #5: We Discuss GTA 6 Trailer, Ramayana, and BGMI Air! IGN India"
   }
  ],
  "community": [
+  {
+   "id": "rd-1d3dn0z",
+   "title": "GTA 6 Launch Trailer but it's GTA 4 (credit: Joseph Kaplan/YT)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xffwam/gta_6_launch_trailer_but_its_gta_4_credit_joseph/",
+   "date": "2026-10-25T22:34:23.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/BroPleaseListenToMe [link] [comments]"
+  },
   {
    "id": "rd-s9kipe",
    "title": "Soon to be the most popular spot in Miami",
@@ -735,6 +744,14 @@
    "date": "2026-10-25T20:19:22.000Z",
    "source": "r/GTA6",
    "summary": "I just saw it in the match advertisement, good marketing at the end submitted by /u/mellas31 [link] [comments]"
+  },
+  {
+   "id": "rd-1h5dfmo",
+   "title": "Weird backend update on PS store, it seems GTA6 has some extra files included with the base game? (Anyone who knows ab this stuff should update)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfbx1g/weird_backend_update_on_ps_store_it_seems_gta6/",
+   "date": "2026-10-25T19:49:52.000Z",
+   "source": "r/GTA6",
+   "summary": "on the ps site if u go to your game library, and view download status on gta6, this happens NO idea what this means or what it could mean submitted by /u/TheReal2M [link] [comments]"
   },
   {
    "id": "rd-1v7vpj9",
@@ -1015,22 +1032,6 @@
    "date": "2026-10-24T00:34:13.000Z",
    "source": "r/GTA6",
    "summary": "I honestly cannot wait to explore the woodlands of Leonida. The forests look incredibly dense and detailed, and I'm really looking forward to wandering through them to see just how much attention Rock"
-  },
-  {
-   "id": "rd-lu220z",
-   "title": "Thought I’d paint my favorite scene.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdsejk/thought_id_paint_my_favorite_scene/",
-   "date": "2026-10-23T22:44:31.000Z",
-   "source": "r/GTA6",
-   "summary": "All paintings done by jujuras. NO AI used submitted by /u/Goylianos [link] [comments]"
-  },
-  {
-   "id": "rd-1fp1l4t",
-   "title": "the Jason side of the New York bus!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xdq7ax/the_jason_side_of_the_new_york_bus/",
-   "date": "2026-10-23T21:11:04.000Z",
-   "source": "r/GTA6",
-   "summary": "saw it a few times around the south end of central park, i wonder how many there are? submitted by /u/aidopotato5 [link] [comments]"
   }
  ]
 }
