@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-26T05:43:28.857Z",
+ "generated": "2026-10-26T18:47:30.801Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-26T05:43:28.857Z"
+   "checked": "2026-10-26T18:47:30.801Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-26T05:43:28.857Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-26T18:47:30.801Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-26T05:43:28.857Z"
+   "checked": "2026-10-26T18:47:30.801Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-26T05:43:28.857Z"
+   "checked": "2026-10-26T18:47:30.801Z"
   }
  },
  "official": [
@@ -232,12 +231,252 @@
  ],
  "press": [
   {
+   "id": "gn-bpqlcn",
+   "title": "Rockstar Games will only send Grand Theft Auto VI to a select group of journalists.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2c0MFFQeGcyaHJNM2tJNkE1SUJ3N0xCUy1IS3NPVzJua0hWMVhpUWdIUFpUY290MHZfUWh1RF9pd1l6bDZvQ00wYlgzZGhNZy1nUkZwM0NDVFZYaFVpWGlwZTJrWlBCS0VKYVY3ZEVoM2xBSkoxTGRuRVBOTWdXb1pqZlNJQlUzS2RQc3phbk1pekFSNDE2REhXQkdtZ25aTjl3ekZUaklLR2lCRDdrUDNNcUxFRGpI?oc=5",
+   "date": "2026-10-26T18:34:05.000Z",
+   "source": "GameGPU",
+   "summary": "Rockstar Games will only send Grand Theft Auto VI to a select group of journalists. GameGPU"
+  },
+  {
+   "id": "gn-b0a15l",
+   "title": "Gang Notoriety... Sort of! Modding GTA 5 Into GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaGE2VFhtS3RsWHhqY2lyMjhmTXdFUE9jRzVfZlJiWEx6cXNtVzh3eWRwb0EyYzhUTzhnMzVldUVZZzZVd3hOWDhmUUZUMzMxclFFNmJWd2xDTElUM1hub3BOSXh1OGdndWhfU1V5cVZWalZRcXFZT0sxcTgwMFhUTUVB?oc=5",
+   "date": "2026-10-26T18:10:00.000Z",
+   "source": "Yahoo Tech",
+   "summary": "Gang Notoriety... Sort of! Modding GTA 5 Into GTA 6 Yahoo Tech"
+  },
+  {
+   "id": "gn-14ucajj",
+   "title": "GTA 6 Fans Swarm Suspected Lucia Star During Wild Instagram Live",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YYlhYYTJxWGtYMmFab0NYb1ZuRWpDN0VSVnRMYzY2TUc2TW1Ba0RndU0zN0FVSTFDTklFUThWM2M1dXBCLU9PVFFmN08yZktRN0VRV1lRMHZyb2V5OFBJTm1DZDRGemw0cmZFY0VpNkxYdF9CRmpBdzVn?oc=5",
+   "date": "2026-10-26T18:08:00.000Z",
+   "source": "HotHardware",
+   "summary": "GTA 6 Fans Swarm Suspected Lucia Star During Wild Instagram Live HotHardware"
+  },
+  {
+   "id": "gn-1enucww",
+   "title": "Restaurants from Grand Theft Auto VI pop up in Miami. Here's where",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hVGhiRG0xZUlIeXNGcklDQWdhM1NKMFhYRG5jTFdTVjNjYi1MdUhUdGFCQ2pFQkhORkUtZWkyVTEwd0FQNXVRcGdhRkJwaUF1SDJwbzJNeTRoTjZmcElKcHU1R1VQZk1USnk0Z0V4eWI3U1lu?oc=5",
+   "date": "2026-10-26T18:03:00.000Z",
+   "source": "Tri-City Herald",
+   "summary": "Restaurants from Grand Theft Auto VI pop up in Miami. Here's where Tri-City Herald"
+  },
+  {
+   "id": "gn-l69aoc",
+   "title": "Sony Awarded a Hacker $50,000 for Privately Reporting a PS5 Exploit He Found With AI — Now He's Public Enemy Number One",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONFdicTEwRkFXZi1ma3k0bGIyTEI4ME9UaUJwUTlqd3dMYnh5MkFWSF9OVDhHTTNHNmM4QndjbmZlS19tU0ViYlZBeko5d2JUaUpldDBUUmJWTUpKZncwanE1QkpnTktIX3N6WGpEZGo5Y3FJM1lTQXhvMWtYUl9qUC1vR2FBeVkxdUNSSEEwTmZlM29CajhVR0NHU3hlczdFVUR5b3YwT1RkenQzTGpZMllTOGZ3UXBpUzZZajVOUUVMdjlYeFVqeGxVajRZemp2cW83RHVDY21wZDAxc2tLdEE2NA?oc=5",
+   "date": "2026-10-26T18:02:56.000Z",
+   "source": "IGN",
+   "summary": "Sony Awarded a Hacker $50,000 for Privately Reporting a PS5 Exploit He Found With AI — Now He's Public Enemy Number One IGN"
+  },
+  {
+   "id": "gn-m0zdky",
+   "title": "Insider Claims GTA 6 Review Codes Are Already Going Out to Media",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDI1NnZqY1ZieE44M01KcTFUOTNqV3c1aFdHcDUtT01rSGpKOWltaDJTM3ZObS1nQWJ0UUZsSUduUHZLSC1YT0JqZGZpWGdIdTVfa2RmT2dLaFhtc1ZFSURYU0pTN1dORlZEcGRHTXp4Ukc1YnhiOVBkNWtRdEdLVjR2T0QwYVZVbjdkNTBkNC1QQXUtZ0VJ?oc=5",
+   "date": "2026-10-26T17:55:33.000Z",
+   "source": "GTA BOOM",
+   "summary": "Insider Claims GTA 6 Review Codes Are Already Going Out to Media GTA BOOM"
+  },
+  {
+   "id": "gn-1fq1ew3",
+   "title": "GTA 6 might have a problem no one sees coming: being too big for its own good",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0hkall3MXFlWlM0bThBTm94NVhFX0VsS3FqcUJCM3BEbUdweG1BeS0ydXVLeEt3cFhoZFROeE9qd3NQMmFhNXhxMW5zZkNickhfX1A3RHNuUHVJRjRIMGI2UmFVakJUN2JKeHgwRVFiU3dBcGRzN0E2YWwzSVdOdTM5Ym5VM3BXak5fbF9ZZkQtRmRmRjItbE9TX0hQMmFpNUZwTXp6U05DRDBSSG5VNk11aVVVMTJNRHFDSktGa9IB0wFBVV95cUxQdmtkOElTU2FhU1VPbklzTGVpNXBmZERQNnlzcmZmNFYxWUNadk9rZjR3THZtRHJ1Rm0zYmF5X2NnbVpoWXNzQ241V04wdGtJWi1UOGc2ZnZDQjEyRXUxajRuOHVXcko5QjBadzZuWFFaQm1jU1FxVXBjRnptSG5LZWpfcFdhSEN6VTRMcjVTT2ZoWmw1SnF1Ql9iVjVuRGFReHB4X0lqQlRCV0FHQzlFWXc5OEFUb0xic2ZqWWRNTTFEM1Y4aThpUF91X21tVXUxSTlV?oc=5",
+   "date": "2026-10-26T17:40:36.000Z",
+   "source": "Diario AS",
+   "summary": "GTA 6 might have a problem no one sees coming: being too big for its own good Diario AS"
+  },
+  {
+   "id": "gn-1gtom2e",
+   "title": "Tune in to GTA VI with Sony’s Midnight Black PlayStation Pulse earbuds at a new $128 all-time low",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTdaLXc5MmNuaWh0blRZSURRY0dlZXlfb0JXZTJidWFNOWtudmppb2VCaFBlY0JCMHFfNjVuWHdoU01oRzZQZTlSRGlQdzVaYkpJcWlKOGRkX2RwOGtlSDlvaWpCVmpISXJKZ3Y4eDJjU0NrYWlFTTMtNWJNNURoYUFBYVM0V01TbXJGNjQzb0NQUEgybE5Pel95dE03a2QzVU1hcWk2YW5pQQ?oc=5",
+   "date": "2026-10-26T17:10:00.000Z",
+   "source": "9to5Toys",
+   "summary": "Tune in to GTA VI with Sony’s Midnight Black PlayStation Pulse earbuds at a new $128 all-time low 9to5Toys"
+  },
+  {
+   "id": "gn-stc6b9",
+   "title": "GTA 6 Has Just Been Sent Out Early To Reviewers",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxWWhKdmN3SElPbHlZT2hUS2pjTjRsRmJuU2xFNUlyWGlzTVY5NlRIdlFmZjQtMlljLXZ1U3hEamhTTnp1UWtrbzZXaVJmLVFDcmdhNEJwTlZtZjFRRlM1TW5kcXpnUUhQVTEySkUxN1RUdEFfRmt0dVBmTkFKb1U?oc=5",
+   "date": "2026-10-26T16:55:57.000Z",
+   "source": "RockstarINTEL",
+   "summary": "GTA 6 Has Just Been Sent Out Early To Reviewers RockstarINTEL"
+  },
+  {
+   "id": "gn-mufnf2",
+   "title": "Grand Theft Auto 6 Review Embargo Date Details",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCWHVkcV81al8tNTY0b0xoNmFvVU1Va2lDS2hfTnVjRl9aclNfY1JqUEprTWpwRGxSUm5SdHZ6NVE1a2hDX0s0NFJKY0NwejRubzhYbi1RUU41aFVqR2ViZFl5UXMtTkZLNUd6T2dR?oc=5",
+   "date": "2026-10-26T16:54:31.000Z",
+   "source": "Insider Gaming",
+   "summary": "Grand Theft Auto 6 Review Embargo Date Details Insider Gaming"
+  },
+  {
+   "id": "gn-1lm9tyw",
+   "title": "Rockstar Games has begun distributing Grand Theft Auto VI keys to gaming journalists.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVA3UkJwVUlhbWJ2bXNKcW5DR1duWFFkYlUxMVdXQWI2OTI3ZE10c1lVWlNYWDlzQzBRMGl0STltUUJyaWhXdUliMWR3bmZybmIyNExWUEozYll5UDkzd3BIY0ljYWZvMERGdG1LNVJIRFVCMzZIb3NfazlLNmtMUG83eEhqX0EwX3NpSTltdFQ4NjRjVDBPRnFZSWVranBIRm50Um8zX2Q5M0tmRmNqTXNRTktGb0I1TktXX1pOVEFVdw?oc=5",
+   "date": "2026-10-26T16:46:27.000Z",
+   "source": "GameGPU",
+   "summary": "Rockstar Games has begun distributing Grand Theft Auto VI keys to gaming journalists. GameGPU"
+  },
+  {
+   "id": "gn-ixwmcs",
+   "title": "GTA 6 review codes are out in the wild giving outlets just over three weeks",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUNsZ2l1dTZEcTFhb3FEelk5SWRma0p6cHhLZHkxc3RJX1ZiRTVZYWlyMUdvelA2WnAyR2pUSkJFc1NrcVJTMVgwSlZMb05tNnVvYnBQN3NPbGVUekhBWDFWUXpsUVprSW9NckZLYzAwUzVpa3hQb0dUOHJOOUFpcExkN256SzVZWFlEQzBFX1o4VWtBbHdzWnRqcHZWS2hBNVBCa0N0Z21uSFhSQmtEcXRzd1E3a0NGc1BGWg?oc=5",
+   "date": "2026-10-26T16:32:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "GTA 6 review codes are out in the wild giving outlets just over three weeks Notebookcheck"
+  },
+  {
+   "id": "gn-8gzkc0",
+   "title": "GTA 6 murals are popping up, but a 20-year-old GTA: San Andreas advert proves gaming history can last",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMk5jMFhZSW1XSjFCTlZ4M2I0aTV3Zjk4d1RkUjFWYmp0RmRZY1d6QXpZNkJrd2VTcU9LSmZ3Mm9tUkN6RGhlYlJuQ2hCT2lHZ2xndlp6N2Itdld2SVVmanAzVXVTb2ROT3dBT28wQkJEYjM2YUhwUmpCa1I5cHJiWnA5aGRqVFk?oc=5",
+   "date": "2026-10-26T16:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 murals are popping up, but a 20-year-old GTA: San Andreas advert proves gaming history can last GAMINGbible"
+  },
+  {
+   "id": "gn-tixs5g",
+   "title": "Phantom Blade Zero opens with an 88 Metascore as GTA 6 debuts at No. 1 in Inven rankings",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OVUtwMVV3WGp1SEdUdTIyWGtLT3JmR0RfVVpsLXBfUGR4bEtydzllblM2LU1sYVJPUy11QjZ0b0JWdG1IV0tzNUpwbi1nd0tTbFRRTDhiRmx2ZHd6THBKbHFNbTNRZzVTbExmbUFLeDRGY2h6QjBrN0trcm4?oc=5",
+   "date": "2026-10-26T14:44:52.000Z",
+   "source": "Esports.gg",
+   "summary": "Phantom Blade Zero opens with an 88 Metascore as GTA 6 debuts at No. 1 in Inven rankings Esports.gg"
+  },
+  {
+   "id": "gn-n67taj",
+   "title": "GTA 6 Coffee Is Here To Keep You Warm Until The Game Releases",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUp2Qjk4clJUZU1ONFdZbHpLcWJYTlNpM0drTUU4eWlNMFpzbFQ5S2RPMFBkanRXXzZxdExjM1M3b1doaDVKRGxyQTZCRmlWa05VUWt3UTlwRE1ja2tlZk9PV25EdjVtSHgwM2I5S0pYMmJ1V2VBMlZVZm01ZGRqTWlTSmp5TGhvbUtsTGZqNm9rQ2ZFdjB6MEoxOXc?oc=5",
+   "date": "2026-10-26T13:58:44.000Z",
+   "source": "GameSpot",
+   "summary": "GTA 6 Coffee Is Here To Keep You Warm Until The Game Releases GameSpot"
+  },
+  {
+   "id": "gn-fnf32a",
+   "title": "GTA 6 Price in India: ₹5,999 (~$68), Nov 19 [2026]",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDFzTk1EU1lOaVJ0dm81VlV4d2JPVHhSZjlvcl9xT1VSSGh6SXA5ckF0VHdkcFZZUEpPQkJpbW5aNzFJQUl2X2RJRTdIOGJhTHNlSGV3dFFYeHRmUWdBTHd0a1J1T25fZnJIWXcyV2JBbDgtYm1lTExHUGdCbVVCeVBBUzJCS2xTTjBnbDd6ekRnN0Ju?oc=5",
+   "date": "2026-10-26T13:12:59.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Price in India: ₹5,999 (~$68), Nov 19 [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-qf5yba",
+   "title": "How the release of GTA VI is rewriting the playbook for gaming retail and marketing",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1FNbk01YTM4d3o4eFhLX3JVME1JZUp4STBhclBUblBoRWlSUDB1NWZUcEpGVFFKWENHd2hMSm44ZGg5WE55WGNwYW1oLUV0SjBXMTEyckdJM1huR01WY2s3b2hwVnV4YXVrWTFNSFFwX1RCVXlzZHRNbVlZZ1pobXVybHRDSy1GdGk2MTlsZmR3ZjNRbXJrb0RtTEw1b2xOZnI0eGlnOEN1UQ?oc=5",
+   "date": "2026-10-26T12:00:49.000Z",
+   "source": "GamesBeat",
+   "summary": "How the release of GTA VI is rewriting the playbook for gaming retail and marketing GamesBeat"
+  },
+  {
+   "id": "gn-26o0fj",
+   "title": "The actor rumoured to be playing Lucia in GTA 6 actively ignored questions about it during an introductory livestream",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQLTJNTk1JNERBZ2k2Mm4ta0wtcG5KTTdTVndzamJWWEk1NmZuWFdQby1QRUJhUTM1Ql9rTVFXMndxWGZkMWxPd2otNjVCNGFQZ0h0M0p1RHVUdWpGS1M3RThzczBKbUUxOHpnbnBoT0k3eHFUS2swVUdHSm4xbjlZeFd1UmlLSEc5WkJQa1JXTlRudFkwaHZ3M3c4UmtpMEg1QVRJejA0TGQwYklKSnR3ckQ5MENHSl8xQ3UyandkSjlZa1RaLVNfeW1HUUNwMzlrOTk2X3JZOHJsRFAwY3laUjItZGtKRGNjTUhhdUxvOGw?oc=5",
+   "date": "2026-10-26T11:29:36.000Z",
+   "source": "Video Games Chronicle",
+   "summary": "The actor rumoured to be playing Lucia in GTA 6 actively ignored questions about it during an introductory livestream Video Games Chronicle"
+  },
+  {
+   "id": "gn-3wk0nd",
+   "title": "Sony Soneium Coin: PlayStation and GTA 6 Crypto Twist?",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFF5OWF0RERrZU4tWlpmZWtfLS1EaXEtMGNibFNZdFhreGJjLUkzaDFpUnNNd2xhMnRsM0d2YXNlb01icURVOVU1WVhtTVpjUG9sN2tfMmxmR2JvdXV0ZUZQSWlnTGFRVGQtaW42UWZyY1RIbmZVSkhPcWdRTWl2dkxJbjNCbkVq?oc=5",
+   "date": "2026-10-26T11:06:56.000Z",
+   "source": "Cryptonews",
+   "summary": "Sony Soneium Coin: PlayStation and GTA 6 Crypto Twist? Cryptonews"
+  },
+  {
+   "id": "gn-1f6wtaj",
+   "title": "GTA 6 promotional merch hits second-hand market for $500, more than the collector's edition",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHdra2ItZ29wNGFxeWNjRmJOMmVINU8tbXRncC1BSzNtWlZpMHdjV1lES2JDZ2JXcFIzTlc2Y3dnQXB5Uml4MnU0dU5HV1dRdjl4RjBvTENKeHdfWENsSXVYdVhkaXk0VkpldGhlZlRYazA1UXZJLXMtbUVyV0RfbGFTaVppNnR6X1BPNmpSRm1oWEVsTlFDZw?oc=5",
+   "date": "2026-10-26T11:03:34.000Z",
+   "source": "GAMINGbible",
+   "summary": "GTA 6 promotional merch hits second-hand market for $500, more than the collector's edition GAMINGbible"
+  },
+  {
+   "id": "gn-pj3tjw",
+   "title": "Why Is This Developer Celebrating GTA 6 After Losing His Own Game",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWS1CVm9JM1VGWUdlQm90WXdFdW5KZjI4VnRxU1VEVEdEZVpmamg5NklGTlk1ZHRFVnhfaU41MTBGekFYckhHTkpIQjB4Mk5RUG9kTTVJT2czc2JEb3ozaHpFTTRpa0VEb1hqWEhjamttTEZqLTR0TVBlSVRuc0RrbGFXTWtBQnpqYWxKRFNiRGhCdzJ3M0VoZzNNTEg?oc=5",
+   "date": "2026-10-26T10:31:00.000Z",
+   "source": "GTA BOOM",
+   "summary": "Why Is This Developer Celebrating GTA 6 After Losing His Own Game GTA BOOM"
+  },
+  {
+   "id": "gn-yosz25",
+   "title": "GTA 5 Mods - Real Ultra Photorealistic Graphics Mod And Realistic GTA 6 Visuals With RTGI on RTX2060",
+   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE81R21paFJDWm5XN2duQlA3TnN5LVFneDV0NVpSV2c4bjlKeDdvbE1WdlFUZ21XYVV2aWM2WGx1czVFQQ?oc=5",
+   "date": "2026-10-26T10:30:29.000Z",
+   "source": "YouTube",
+   "summary": "GTA 5 Mods - Real Ultra Photorealistic Graphics Mod And Realistic GTA 6 Visuals With RTGI on RTX2060 YouTube"
+  },
+  {
+   "id": "gn-1mjycjv",
+   "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2duRG5nQWtyNm5Gejk1WEc0WHktaURKZzBua0xBRk1jTFpmUy1HWkRqTGY4TC1haW1iSTQyaFJVdWJLWVIzcHEtQkJaUU14MC16ZW56SVZueDJkNzA5dXdHUTgxdldUaHRyTjlRUjZLUmhyR2VzUmc4OHFCNDVpX3hLRGdkbUNQcklCYjVJWEV6MVpPQkV0RFY3RlpsTFc3UXJMUURtQQ?oc=5",
+   "date": "2026-10-26T10:27:35.000Z",
+   "source": "GameSpot",
+   "summary": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap GameSpot"
+  },
+  {
+   "id": "gn-1njwnp8",
+   "title": "Can Activision's Reported Open World Project Really Rival GTA 6?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pWDRmM1VVSFJxcHFDTjhQdTVVV1FuYnVkNkRuTElQNXlOaEs1S0ZlN1FPLXdtODJpYWhxY3NTWDNkOHJORDYtWVR3TkZxNzVMTV9pSmdWVUh6dndEU09QUy04bU96cHlPcTNOM256M2FJZUFOQXA5a1hJbk9qYTg?oc=5",
+   "date": "2026-10-26T10:16:28.000Z",
+   "source": "GTA BOOM",
+   "summary": "Can Activision's Reported Open World Project Really Rival GTA 6? GTA BOOM"
+  },
+  {
+   "id": "gn-1wjjtc7",
+   "title": "October 29 Marks the Next Official News Update for GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNUd6Ty1Gd3dmcUhBbFAtazBld2NpS096YWJMV1FwX3lyNFUyYlRwc2JacDZvRVJFei1OYmxEYXFPSS1WcmZWZWlCaHNvUWdUNzdBbVhFSHdtM01YTVpJYzZQOTB6U1J2M2hBSF9oTXo3c0VJSVMtUS1lbHVuYkpNejQ5MFMxRjM3Z2RIT0dXMm1OTS1U?oc=5",
+   "date": "2026-10-26T10:07:13.000Z",
+   "source": "OpenCritic",
+   "summary": "October 29 Marks the Next Official News Update for GTA 6 OpenCritic"
+  },
+  {
+   "id": "gn-t6odbe",
+   "title": "GTA VI: Can marketers afford to play? (And can they afford to sit it out?)",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMjBlRVNMYUxvbzJBdjByUEVGaW1sYVlySURlWkJocVNmZWxNQVQ4TXl4bzhaX2RTQ2U2VDA3cHlMaG1DaFZlMEMzeTNFcC1nT3o4eWpsZVhmTnZ2cXNWd1VoTlBFR1RtSmFsZm5JdWs4RkJKWFR3azhnUVFlOVo1anlEcDlkZEx2cldEME5ndlZyd0ZiX1JrS1BQcTFlTFpnaTBJMzQ1RzE3X1g0VGRMdQ?oc=5",
+   "date": "2026-10-26T10:05:33.000Z",
+   "source": "The Drum",
+   "summary": "GTA VI: Can marketers afford to play? (And can they afford to sit it out?) The Drum"
+  },
+  {
+   "id": "gn-1xgoene",
+   "title": "'Grand Theft Auto' Beers May Be Coming to Life Ahead of 'GTA 6'",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDNrLVdzNWNEVE1mQnYyWnUtQVN6ZjgzRW81ZWxLWjVPcWdOcHAyRV9rVzZsNUx0WVc4ZFhacmVzRkRvcmhvNi1iSUF5RzFhcVU1R2hHbHYxeW55VEw1NVNaRE5WTlpKNGI4VlByRzZtekJJU2MwUWJDZzY2VlVfdjN5MmZscDdkekdLc2Vqc0hDRjltLXBucW1ua2RlaUt1RDlrOTlwY0ZIZTg?oc=5",
+   "date": "2026-10-26T09:50:42.000Z",
+   "source": "Hypebeast",
+   "summary": "'Grand Theft Auto' Beers May Be Coming to Life Ahead of 'GTA 6' Hypebeast"
+  },
+  {
+   "id": "gn-1jkh6km",
+   "title": "GTA VI Map Size: 2x Claim Clashes With Report [2026]",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2dTaFJULWxZWFJEOTkwN3dSSFlMNVptQUxLUlRVS2VMLXpmLVVSa0p0YzlPaTh3ZlQyNDJLNGFYZkZndzF0eWtJOG9kVnVXaElPTmF2TjRoOS1Obk04Tm10LTRlV1k0UzNJa0tsOEZ2RkRpN1AwX2w5Uk5USXl5WENtaDZZc2k2UVpCTzl3?oc=5",
+   "date": "2026-10-26T08:12:13.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA VI Map Size: 2x Claim Clashes With Report [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-17dfybs",
+   "title": "Should You Let Your Kid Play GTA 6 ? A Parent's Guide to GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX1dyakE2NDBGNzdLOXZ2dWxZdjZpX0o5dTJzaGtjME9NWkpvQ25ucVktdUhZSlZxd0lLVE5FUkk5dnV0NUVyV25ZWU5hZERWRFZEU3hpaUtaT0wtTDI4S1AwZWxYdm84VHRpamx1OVkxWFRGb1Z4ZFdqWXZFZk5nNHViM1d1dW1YeXR2NkV6YkhHdw?oc=5",
+   "date": "2026-10-26T07:55:14.000Z",
+   "source": "GTA BOOM",
+   "summary": "Should You Let Your Kid Play GTA 6 ? A Parent's Guide to GTA 6 GTA BOOM"
+  },
+  {
+   "id": "gn-1r4qzm",
+   "title": "Does Shirrako already have GTA 6? The palm tree post doesn't confirm creator copies",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFZWLWtqeXl4TlNjQ1FZTTdNMWlOVkpaSDRYbVpVS0ZfR2xESThLcHRGcTc4NmczN01ILUJOSHc5QXljQnN3S01PMS0zQnM1Rl9BSFRDZDd6ZHk2QXdrVFdMUXdkdHRjdnNnYVdEZGlDR1M1REZWcmpiZ3duemdYclh3dmdyQWx3VW9KQVdRVHk?oc=5",
+   "date": "2026-10-26T07:02:24.000Z",
+   "source": "Pasquale Pillitteri",
+   "summary": "Does Shirrako already have GTA 6? The palm tree post doesn't confirm creator copies Pasquale Pillitteri"
+  },
+  {
    "id": "gn-sqd2xp",
-   "title": "Real GTA 6 Review Copy Holder Would Probably Never Tease It Like Shirrako Did",
+   "title": "Shirrako's Palm Tree Emoji Does Not Confirm a GTA 6 Review Copy",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZV90SmxxZEt1dl8wT0dUYkZQMEFjUTRfRHpNWUwySDlvNkFmSC1mWWxCMV9oYWFmOW1EYW1kTmpGa085X2xTUlVCSkhCbVhTcC1iRk9rVmRTODVWSDVST1RGcC1lelkya2ZsS3Q2WUc4MzZOMkFrSnc5RG9DTlB0aGdOZDE3cmptOUJJc2FvR2VKZ19TS2x6d0IzYUc?oc=5",
    "date": "2026-10-26T05:16:42.000Z",
    "source": "GTA BOOM",
-   "summary": "Real GTA 6 Review Copy Holder Would Probably Never Tease It Like Shirrako Did GTA BOOM"
+   "summary": "Shirrako's Palm Tree Emoji Does Not Confirm a GTA 6 Review Copy GTA BOOM"
   },
   {
    "id": "gn-11h7hlq",
@@ -246,6 +485,14 @@
    "date": "2026-10-26T04:45:24.000Z",
    "source": "GTA BOOM",
    "summary": "Gyms and workouts in GTA VI GTA BOOM"
+  },
+  {
+   "id": "gn-8wz2zg",
+   "title": "GTA 6 Netflix Extended Look: 26 Min Leaked [2026]",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3YxU293MUFOY1gxdkhrNmFYWWlTcHJLbEFCYVhEQmx0ODVGUDFTZnN6b3oxLTNlUXVFNzN2OTFkSmYtQm5GN0JDU2lXMWNYRU9ZeFdiOTF5NnVhb1QtdjR2bE52aHVFcWhucDZ0Yl8xbmlTMUo0NE82QmhMV2pLaXlnYjBSdw?oc=5",
+   "date": "2026-10-26T04:31:12.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Netflix Extended Look: 26 Min Leaked [2026] https://tech-insider.org/"
   },
   {
    "id": "gn-3wf6g2",
@@ -308,8 +555,16 @@
    "title": "GTA 6 Review Embargo: 2 Windows Eyed for Nov 18 [2026]",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1FZVVNKQW02OXdEaXhrOVN3bV81UkZzdlhJV2tZdkhKM21ENkhpMGRhRW42a1pBQnRmalA5N3d3Q05SZ2JaWVJMTjQzaUJlSGZUdmd2WGI1alBZNXNkZ1FVNlB4TVd0cmE0dkxFVFVEY3lXQ3Rqa0lxdVFqRUw1UzBGMUg?oc=5",
    "date": "2026-10-26T01:15:46.000Z",
-   "source": "tech-insider.org",
-   "summary": "GTA 6 Review Embargo: 2 Windows Eyed for Nov 18 [2026] tech-insider.org"
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Review Embargo: 2 Windows Eyed for Nov 18 [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-1ta43tx",
+   "title": "Could Hurricanes Temporarily Transform GTA 6's Map? Reddit's Best Weather Theory Explained",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUm1tQXJHSUk3bU5OanVDOEVhZlVDQnppZEJHMVNLTFg4MkFQNkxPREFyaW5vWmE4YjE5RE5ZSzZPU091THA0dm9wTVBlMlpLS2RvQlBuVFd5TXNWWm4yajV3R2lwNDI5ejFnMklfdVl0U0psVVA2ZHRqNnc1cUl3cDNlU2pWcFU0aDJTeWtKN1RlTHRvTVNSYjRLM0E?oc=5",
+   "date": "2026-10-26T01:00:00.000Z",
+   "source": "SVG",
+   "summary": "Could Hurricanes Temporarily Transform GTA 6's Map? Reddit's Best Weather Theory Explained SVG"
   },
   {
    "id": "gn-1en2zwl",
@@ -318,14 +573,6 @@
    "date": "2026-10-26T00:12:12.000Z",
    "source": "https://tech-insider.org/",
    "summary": "Rockstar Puts 10 Vice City Murals in Miami [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-1ta43tx",
-   "title": "Could Hurricanes Temporarily Transform GTA 6's Map? Reddit's Best Weather Theory Explained",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUm1tQXJHSUk3bU5OanVDOEVhZlVDQnppZEJHMVNLTFg4MkFQNkxPREFyaW5vWmE4YjE5RE5ZSzZPU091THA0dm9wTVBlMlpLS2RvQlBuVFd5TXNWWm4yajV3R2lwNDI5ejFnMklfdVl0U0psVVA2ZHRqNnc1cUl3cDNlU2pWcFU0aDJTeWtKN1RlTHRvTVNSYjRLM0E?oc=5",
-   "date": "2026-10-26T00:07:52.000Z",
-   "source": "SVG",
-   "summary": "Could Hurricanes Temporarily Transform GTA 6's Map? Reddit's Best Weather Theory Explained SVG"
   },
   {
    "id": "gn-10kg06z",
@@ -462,257 +709,113 @@
    "date": "2026-10-25T10:01:34.000Z",
    "source": "Geek Ireland",
    "summary": "Opinion: why would you take time off work to play GTA VI? Geek Ireland"
-  },
-  {
-   "id": "gn-1snea8w",
-   "title": "GTA 6 Just Got an Ad Spot on Druski's Show, Ali G and All",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamZ3QzdPTlhSQlRoZVd2eU1wTzhpWVJJYk9jVmNDNl9WQXJPWVdfTDdZU1RuX3ZXbV9ZY3VoeHI5OHRSVldfOEh5cVVkZFVCYWZKUV9zbFVxa3NpaWJVSG9EZDNUUUNiNVE0dFNSMkEycGJHWTJxb05DM04tbmxYVF91VFgyX1BJUVN0cmluNmd6R3pk?oc=5",
-   "date": "2026-10-25T09:38:44.000Z",
-   "source": "GTA BOOM",
-   "summary": "GTA 6 Just Got an Ad Spot on Druski's Show, Ali G and All GTA BOOM"
-  },
-  {
-   "id": "gn-1nni3a2",
-   "title": "GTA 6 25-Minute Leak: Nudity, Racing, Nov. 19 [2026]",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFZRaGUtTk9zWElMZzBWc1NrcmYyTmJjVDJEenZUcDl4U0ZyMklrckdrUnNUT1BxNlpWMkd4Qjk3alc2TXpvSDBLeHktVEtGTzdTM2tMQThBaGp1d2RlZFlUSjFPa1M3VTBqSldhOVRGOFV3bmh4VzNFVWx1WUxqTkxUR2U4Zjc3?oc=5",
-   "date": "2026-10-25T08:30:21.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 25-Minute Leak: Nudity, Racing, Nov. 19 [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-1ot78lk",
-   "title": "GTA 6 Weapon System: Weapon Limits, Gunplay Changes, and Confirmed Weapons",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObm1zTVhyNk9QSnRsbDdBY1NsTzNyMnRXM21ySFJWeVpZQUpEampKY1JHWXNQVE1JV01vbTBHdUsxY0Q5NXhXRGVZdHNiSXNTYWJHSnd3Y2NudTBKd0dDUDJITzdzX1VFRGhQVWsydHllTVMyUXBpNTJyUHFGLUNtMWVJSDh5dUZPSmVzT0FMTF82YUh2TDBHd18zVlkteHhwcmNybWhQbw?oc=5",
-   "date": "2026-10-25T02:32:07.000Z",
-   "source": "MMOEXP",
-   "summary": "GTA 6 Weapon System: Weapon Limits, Gunplay Changes, and Confirmed Weapons MMOEXP"
-  },
-  {
-   "id": "gn-1k4u158",
-   "title": "Prolapse PS5 console jailbreak for firmware 14.10 may expose GTA 6 to piracy",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbHl1R2pBVWpzZzBSSEdONTlPVVZKeVZZQnFSTHBXVUtaT19acW9WaUJ6c2NERHRmbHZKRjNGSEJod1UwSkJwUDdRcFBaNGdDNFFiTFc1eUpXNmNSbUNmN21ZMDdEa2QtRmFON2VVc0NhTmFXdGZBTWg1cFpRVXVzTnJtS1dKWGVMaGRfQU5Lb205bGo2RDVDSkFfVEVRcUR5aGttOWx0dGZuQ1FVUU5UUmVCWmVkamhYbFFKallB?oc=5",
-   "date": "2026-10-25T01:59:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "Prolapse PS5 console jailbreak for firmware 14.10 may expose GTA 6 to piracy Notebookcheck"
-  },
-  {
-   "id": "gn-m8i7on",
-   "title": "3 Games Move Away From GTA 6’s Nov. 19 Date [2026]",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUi1fV0RYclAtMGxiZndDc29wSmFaOXg3UVRFdkJxdV9ObGRMWjVRVENDZzBONzlBaFBDT0xQd1NGdHhIYTI3ZkhFYWo1RXJPdjNJTHE2THVOczk4OHgwRnpYbTRDU1IzalRZR0RNN3FLS25NZEZvV3NNM2FmdEtXRWUyRFFVRWgx?oc=5",
-   "date": "2026-10-25T01:20:17.000Z",
-   "source": "shattered.io",
-   "summary": "3 Games Move Away From GTA 6’s Nov. 19 Date [2026] shattered.io"
-  },
-  {
-   "id": "gn-16wlf7v",
-   "title": "GTA 6 Trailers: 4 Fan-Spotted Nods to Players [2026]",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXdOUFVnM01jWWxJZnpGZkxXelZ0U1NGWkNia3gtY2tFeDNwWHZXSDVOYWNPS2x6ZGRxQ3FHY2kwYmJxLWtrdDlWdUhrSUczSUZmbEMtVlNOOGNYbUtnM0ZIRHpEcENkVi10ZTV0R1VWdUI5RktHZ1VFQjVEN2xKMUp5RGlKbG8?oc=5",
-   "date": "2026-10-25T00:10:10.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 Trailers: 4 Fan-Spotted Nods to Players [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-19ic2dp",
-   "title": "GTA 6 Takes Realism to New Heights as Highway Signs Warn Drivers Not to Drink and Drive",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOamQxczl4TC1VdnBDckZkWll6LWZVYTJaMG1wNjNYMjFzdTlPUVdQVFVFREdpT0NVaDRSc2ZSakUtOWl6ZmNwT25kM1NfaTBJbFdXU3U1LVNrX2JWN3lELUhXSnF3RUNRQzZobWlSTUU3VVJGR3RHY2VvaUczNjJGakgxSV9hNUNQajFtLS1saWpyeU1RZGFiVFlJbFRCWm91VjhqSjJ5MllNS2w1UkZCbWg4cTQ4eUF5Uk9FTk9n?oc=5",
-   "date": "2026-10-24T22:33:23.000Z",
-   "source": "The Source Magazine",
-   "summary": "GTA 6 Takes Realism to New Heights as Highway Signs Warn Drivers Not to Drink and Drive The Source Magazine"
-  },
-  {
-   "id": "gn-19o6uf1",
-   "title": "You can order real-life GTA 6 burgers as Florida's Skinny Louie locations transform into Burger Shots",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YREJzeGsyOTFCRnZ2dHVzcGFVNmFXVWRqUXdIX2Q4YUpkWmxYSjlBWUxBSVZlNk5mdUxKOUtQZ2xpeEFUQnM0ODJjZlMySWxXTjVDMWhxVm4ybWdSWlMzUjVXMm05SFhjNXhBYg?oc=5",
-   "date": "2026-10-24T20:08:04.000Z",
-   "source": "Secret Miami",
-   "summary": "You can order real-life GTA 6 burgers as Florida's Skinny Louie locations transform into Burger Shots Secret Miami"
-  },
-  {
-   "id": "gn-19sqikp",
-   "title": "GTA 6 Is Taking Its Marketing to a Whole New Level",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVBVSGtBLVpuZWVZUkZQNms1eG5DMlFud24wcXd3MWNYVzNSWkZtTk44LUpJaVpUYnZKMXFnZi1IMDF4NHJTMjJpWG9NcnhzeThnUzRPM2d3dmRBNDdSNV9yWm1CZW5aMmU4a01ORHpGZEY0cm5CVFZLeVVHbjlpMW5xb0trMXdhWWpIag?oc=5",
-   "date": "2026-10-24T20:07:12.000Z",
-   "source": "OpenCritic",
-   "summary": "GTA 6 Is Taking Its Marketing to a Whole New Level OpenCritic"
-  },
-  {
-   "id": "gn-hy9y9s",
-   "title": "Xfer Records Shrub: Serum for M-VAVE FM-1 before GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2hoRzVfSXE3NWV3bGFDOFh5Y0FTNFFEc1NxQWRTamN2R0lWM0xROFhaOEstWDBRYmVfMTBBSTBYcEtxai1tcmUxY3NiTkN0dF9yaXNneHVkS1ZoeldXVURRclI5WmtFVFFDUVJwTnJpaGF1Y0dIckRSN05WYUtTLUJsVGNHbWVVR0dLWlJaOEo3MTFDckE?oc=5",
-   "date": "2026-10-24T19:32:34.000Z",
-   "source": "synth anatomy",
-   "summary": "Xfer Records Shrub: Serum for M-VAVE FM-1 before GTA 6 synth anatomy"
-  },
-  {
-   "id": "gn-1bxrpl3",
-   "title": "One of the best gaming TVs is $1,000 off: LG C6 OLED hits Amazon low ahead of GTA VI and Zelda release",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01RFZtVVFXb1AzYWF1cGY2WUVOT2VnUHktcVFIcjR4Y0wtbUhFYXR2M284cmx3Vlo0eGJ5ajJSYTZOZUMzX1pTclM2RjFraXNKVlFodWRKdWF2bDhtT3J2eWRPcGpLQzZWcTZ2YW5oWDJCeS1fT1lhN2Vxaw?oc=5",
-   "date": "2026-10-24T19:15:00.000Z",
-   "source": "9to5Toys",
-   "summary": "One of the best gaming TVs is $1,000 off: LG C6 OLED hits Amazon low ahead of GTA VI and Zelda release 9to5Toys"
-  },
-  {
-   "id": "gn-s3e44u",
-   "title": "Rockstar Knows the Vanoss Crew Is Renting a Miami Mansion for GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVXVJeWtZU2lyUUhyX01PdzhTcHpoejE5Zjkyc2dmQ3c4TFB4bnpDY2w2VzRLTG1yUFNkazZ2NEtEaU5vQTdSTllVZkJLLWMwSHlXZ2dPMUJ6NjVrWV9yYXR4anJWNG51RE9vQ0lyeFZWUVBlZ1dJajZfSS1QMzRHUkNhN0gxOFk5NDFSdko3LXludmwxLXpoTG9oZ3E?oc=5",
-   "date": "2026-10-24T17:50:24.000Z",
-   "source": "GTA BOOM",
-   "summary": "Rockstar Knows the Vanoss Crew Is Renting a Miami Mansion for GTA 6 GTA BOOM"
-  },
-  {
-   "id": "gn-1w6zirm",
-   "title": "GTA 6 review embargo reportedly lifts November 18th, but some outlets may wait until launch",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDQ4ZE5IbldRZXJLcjZERUl1OUdjTTRFSnp2YjdKaHhYelBja2kwQi1RMmxGMEE1anhxY05VbXNmcS1mdDI3d201OFhvR2dpQUQzV043YUYwT28wbF91cm15bTVNanFhcXZIZkY5NUhZQTY3Qldjb3lLOFloemZISWdwV04tSDV6VVZsVldtenlWVWdfeVFJOW5QMjZrc3NIQ1VvcG04Z1lDZzF6Q0JZ?oc=5",
-   "date": "2026-10-24T17:24:15.000Z",
-   "source": "eGamers.io",
-   "summary": "GTA 6 review embargo reportedly lifts November 18th, but some outlets may wait until launch eGamers.io"
-  },
-  {
-   "id": "gn-tq7gm7",
-   "title": "Can You Play GTA 6 Without An Internet Connection?",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTWZ1N3FPQmppdmZPdURFLXpLLWI4RV8wWFVDMmkzM0pZQkticHlUZW5xZ214ZkFpZlNYQlpRcmdobE9XRWlmUUZLWW1hNzA2UmhHTEJYMDNVSFpyRm1oeExFVjVsTVJQU09PcGtGRjdCYzNYeXNkbUd5MEtZSVk1OQ?oc=5",
-   "date": "2026-10-24T16:00:00.000Z",
-   "source": "SVG",
-   "summary": "Can You Play GTA 6 Without An Internet Connection? SVG"
-  },
-  {
-   "id": "gn-1vx3anq",
-   "title": "Rockstar Games Confirms Unexpected Change From Grand Theft Auto V in GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWVIeFRKM3AxOHAyb1JnQmtLbDRKV3Z2YnlyMFdxZTdfbTZuNkt5NzNiTlQ3Rkp2aE43S2I1QjlHMmpkbFlhX3VEX1R1b1dFc1dEeE1MUlFhc2hNUktMcUFJR2Z2RmRCbW16aWoxYV9nSjIzaXRuekZwUUhHOFhpQzlqTEtHOGdySnMtSS1WQnRWWnc?oc=5",
-   "date": "2026-10-24T13:36:17.000Z",
-   "source": "ComicBook.com",
-   "summary": "Rockstar Games Confirms Unexpected Change From Grand Theft Auto V in GTA 6 ComicBook.com"
-  },
-  {
-   "id": "gn-16bexse",
-   "title": "GTA VI Will Be a Huge Success for Rockstar, but It Could Cost the U.S. Economy Billions of Dollars for an Unexpected Reason",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUk5uOWczRjBlZDczMTY4UTF0S0tzbTdJVTNEZnVrNnl1OTNWbUtEZDBTeTRvYV80eWg4QUMxclhNTzFXcWQ5RUFSWUJyczZWYjZPbUJialFaR1g2QnBLWl9xUmZCd1FzNkZYU0hMWDVmMzRST3cyUkJYMFZ0S3RRRTFqR2NaaWZURFNpT0JxR0N1N0x6R2dQUm5VbGx0N1Y3cG41ZzRfSXR2VmRPZEdqaWpRNXpUTHAwNEFHdUcwQmx0OXVHbjIwR0NBbVIydExYUDFSdVRLWFdXc1BsUmdqdHJabXhyWlB1?oc=5",
-   "date": "2026-10-24T13:12:00.000Z",
-   "source": "LevelUp",
-   "summary": "GTA VI Will Be a Huge Success for Rockstar, but It Could Cost the U.S. Economy Billions of Dollars for an Unexpected Reason LevelUp"
-  },
-  {
-   "id": "gn-153jj3d",
-   "title": "GTA 6 Editions: $79.99 vs $99.99, 16 Extras [2026]",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMW9fbVVhWVRnQXBUdWJ1ZFFSMWJWUURobkYxazdnci0xVkI2VG4zSWRDdE1WRWdGVDc0clJVdU1BU1M0aEFfV2w3S0ZENDYxSXlrbzVmZmRORm9GV1BBR3Z4TVBYQ2gtZ2dJSnZQZGVEUHAxZ2IyNGZFVnZneE5UXzJpNXJoTTN6V1M4?oc=5",
-   "date": "2026-10-24T11:50:19.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 Editions: $79.99 vs $99.99, 16 Extras [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-mugjph",
-   "title": "Why GTA 6's Early Reviews May Not Tell the Whole Story",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVk1mNl9ZdjZEMFNNLXZCWjkzY2pld2xwLVRTVWlxMUsweDE5OWNKOHVMenhFWmNpUGU2RG4wTkxJR2FKWUVGY1lHS0JLdVZoWnBsRVliX3BXSm1SWTg2RUpGclh2YUZtd3ljbEd3bkFNcTNlWVViWDRGTzVsdEFNY1FHRUhOQQ?oc=5",
-   "date": "2026-10-24T11:30:43.000Z",
-   "source": "GTA BOOM",
-   "summary": "Why GTA 6's Early Reviews May Not Tell the Whole Story GTA BOOM"
-  },
-  {
-   "id": "gn-1q61jw2",
-   "title": "TTWO Slips 1.98% as Opus 5.5 Tests GTA 6 Moat [2026]",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2lwbGZmdGktWHZ3Q0VseEhtSTR1dEdKVUxGeGJ2N0FLbWlxWGhEWldTMllSQVNKN3BuR0ZfemYxbjVIeU5JNlNQRk5nT2V1RVJvMmhqdFU0QnpJSnFEWlh5MEhpTHpqVnFXVkdYeWFXSUQ4MXVfTnUwSW1nOW82MFFLTQ?oc=5",
-   "date": "2026-10-24T11:13:33.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "TTWO Slips 1.98% as Opus 5.5 Tests GTA 6 Moat [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-77xqw0",
-   "title": "GTA 6 Amazon-exclusive vinyl bundle is still on sale ahead of launch",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUtHVkRGaElqMHEtazZsNnFSZ2psbDJXVGpjenNXQUpudG9vcV8yTVlVU1lmaGlCY1RITlRVck5GcHl0LWcxa3lrZWxBcVkzOHlkVTlLenE3VXJaNlg0SDRKai1KOWJkLXhZUU5sMGJzcEFreVBZX0dSQlMxUlNzS1Q0ek1lQjFHTkhpSDRQQ0tJaDgw?oc=5",
-   "date": "2026-10-24T11:08:51.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 Amazon-exclusive vinyl bundle is still on sale ahead of launch GAMINGbible"
-  },
-  {
-   "id": "gn-4q52k6",
-   "title": "GTA VI’s Release Is Spiking PTO Requests",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sNFNvYVBfNDI3SkVFMEltWWtLOEdoVVJIelNfSDJNSEpHV3lDU2VnR1d3Z015dkZGUWIySFZDNnRPN3NoZ0FRWHZGVlhQLW85N1VobDE2NkxCTkR1dkxHakJvQjZuSmhEY1c3STJ4R1lxelRUbnlYNGdR?oc=5",
-   "date": "2026-10-24T10:59:14.000Z",
-   "source": "TheFutureParty",
-   "summary": "GTA VI’s Release Is Spiking PTO Requests TheFutureParty"
-  },
-  {
-   "id": "gn-sbokk7",
-   "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade (TTWO:NASDAQ)",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR05tbFZaZ1d4NkJJb2IzQXUzLWJCVXE4MjRqQ2x2UmlJdWlhcmNsd1NBWHMtalJSbXJ5ODFRR1NVQXhhQU9fT2wxbzRWM3Q3Q0Z6NVRwbGQ1Rk5hRFF3RHNITHBEODF6MlNDMDFicFZCZXFtVEdRZ3hoQmxxT05YdjN6VDF0Y3lCWkdmeVZkdTlhVV9XNEhFMW1Pc1poa3NFT1Zr?oc=5",
-   "date": "2026-10-24T10:30:48.000Z",
-   "source": "Seeking Alpha",
-   "summary": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade (TTWO:NASDAQ) Seeking Alpha"
-  },
-  {
-   "id": "gn-cactop",
-   "title": "I'm replaying Red Dead Redemption 2 to prepare for GTA 6 — 5 features that need to return",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS1p4SWJEaTVVWkFnb1ktZlMxT0UyS2N3MHNoM2g5Z0xNclJKYzBqT05SaXRXVnFxeko3NXNPOVpRaHV1d2wzMzFmUGtkcVdnOWZzcm5sUlFDVW9ZNzNJdzZraHQ5b2piNmZoX0xBSUhWLVU5OExTLVREc2VSNkZrc0NUUEU5SGtGckdNbW1jcC1Lck1HT290ODNpVzNyN0tjeUdPNXlZU3NOd2psUTZfcnZ6djVGdTB2UVRj?oc=5",
-   "date": "2026-10-24T09:45:00.000Z",
-   "source": "Tom's Guide",
-   "summary": "I'm replaying Red Dead Redemption 2 to prepare for GTA 6 — 5 features that need to return Tom's Guide"
-  },
-  {
-   "id": "gn-1y5s9xx",
-   "title": "GTA VI Survey: 10% Plan to Skip Work Launch Day [2026]",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTBSZWgtOGkwb3J6SmhCelZuUTBHRXhud2RTeW4xRkQ5b1RLel90U3ByQ0ZxV3B2WmRVMWthYkRhZ2pGSEFSN2toVHFWSVBXcnduYUREWXFkSURsWnBUZFphSVd6dllSUExLQ1N6ZVZqcWJRbHZjV1ViRUtzMjRFMHdMOF9ENHM?oc=5",
-   "date": "2026-10-24T09:35:11.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA VI Survey: 10% Plan to Skip Work Launch Day [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-1lf47h3",
-   "title": "1.5 Million US Workers Plan to Skip 19 November for GTA 6, Estimate Says",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVllXQktQTGdWSTRoX3RKT3hqajVlNXZTdzdnbUpCMUEtT2ZjQ2VGM1BIRnBUTkxmeUVSN0wySnZ3Rl95VFhMRURsbEVqRkdCbklTVWJad3JHOExFOWhxNTFyLUtJbG1vX2VvVVI0NDhVQ0Fwa0YwNERVdmNjWEZ5eWd3Wjg3bG81SE5NczloaGJlbFU?oc=5",
-   "date": "2026-10-24T08:35:39.000Z",
-   "source": "The Loadout",
-   "summary": "1.5 Million US Workers Plan to Skip 19 November for GTA 6, Estimate Says The Loadout"
-  },
-  {
-   "id": "gn-1qtajln",
-   "title": "GTA 6 Miami Marketing Guide: Vice Beach Sign, Burger Shot, Y Hotel & Launch Events",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHBWMVpESXMyVWxBUGVQZmNhUGNHX1djWGhkTmZkNWFyYVdDT3Y1c3F4dWpJR3NPSmhMYU1CNnVfZlFSaElsUVQtMDFncW9KTmxCRDExZmR3ODNEb0dLVXF2alhjeWV4UUQtMG10VElGOVFFc2p5ak01enVKay1rRzk4djh0YTFabGtWYVZXaXVkaTVVT0Z6Q3F3ZVBuVV9XR0o0dmJzTFg2X2dfVURB?oc=5",
-   "date": "2026-10-24T03:22:47.000Z",
-   "source": "MMOEXP",
-   "summary": "GTA 6 Miami Marketing Guide: Vice Beach Sign, Burger Shot, Y Hotel & Launch Events MMOEXP"
-  },
-  {
-   "id": "gn-5qpy53",
-   "title": "GTA 6 Review Embargo Leak Points to Nov. 18 [2026]",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NWl9JNzRJTHplb2dHMXMxRXVrN2hZVmlZVWljRjNVb2hTanpQSTNET3dDMS1CRWQ0TkQyeDZMb0pJdkRGWUdhekw3b3QzdjV2d0FubUMyakkzQ1FBYmhaZlhhWndhdVlHSGwxaWR5N0s?oc=5",
-   "date": "2026-10-24T00:49:45.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 Review Embargo Leak Points to Nov. 18 [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-hkai92",
-   "title": "GTA 6 Could Cost Businesses $1 Billion in Lost Productivity",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTERMeGU2M3daSVkzMHMzSllWLTJEUThBemJadzZJVmR3R1NSUkdGV3BFYVVTNTczeVNfM1N2eTVGODJ6VzZaYkZMN2cxaHVhclNCN25HTmt0VFoyRklsTU9mUXk3dkEwdm9OczhVN1UwbkVHQ3Z1cmhiRVB3U2ladG9rQkkxeXVWTC1WVXBxd0s0bkg2bXFKZHB6dlR4VDdPeS0xYTRlSDR6bFpFYTJMSUNocWVpN0lPUUkwYVJuWXBfMXRtTXdZbg?oc=5",
-   "date": "2026-10-23T23:51:00.000Z",
-   "source": "NBC Palm Springs",
-   "summary": "GTA 6 Could Cost Businesses $1 Billion in Lost Productivity NBC Palm Springs"
-  },
-  {
-   "id": "gn-vmh974",
-   "title": "GTA 6 review embargo time leaks, with some sites restricted until release date",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlFQVnNPSndEUGpBT05aZmo3bG9yWE9sUnVRZnFzSW5EWGdBVzl6OHg0eFlvVGczWjZud2ItckMzWFVYR3BESk5QbV9qOWdCU3dqVXA5Y0F3OEt6UFVRa0N3Z2kwTGxWNHM5em01SWUzVG5RTWpTR1FaTVZmbjVJY1hTVElfYmp1dWxKYjZaMF9tTktVUjZOdWczVVd0Um5Dc2xsX3QybG56N3pfcWhwWEFhRHFWM1pfaEVrajNPcw?oc=5",
-   "date": "2026-10-23T23:49:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "GTA 6 review embargo time leaks, with some sites restricted until release date Notebookcheck"
-  },
-  {
-   "id": "gn-lkxk15",
-   "title": "How should investors think about GTA VI pre-order performance? By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVUxaWXdab2plS1pWWExEaVlldFR5RGExbjdtRVg1Y2xWN25ZNGJMdXROSnZneldiT1JyNXVnTVhfaVBKU2dNWV9CdnMyYV8tYkRjeG5XSjBremJlay1HVURQN0xfcl9sUFl5Qno5S01fUzBrRzlacFJyYTc3QjJVNmdJMkE2dEFmQm5fWHVtN2dIYktOcXYwcHZKWVdFRFMtUlBFajFuSXBHejlNSldjZA?oc=5",
-   "date": "2026-10-23T23:39:41.000Z",
-   "source": "Investing.com Australia",
-   "summary": "How should investors think about GTA VI pre-order performance? By Investing.com Investing.com Australia"
-  },
-  {
-   "id": "gn-j1ncn2",
-   "title": "How should investors think about GTA VI pre-order performance? By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS3owdlZ2Z09FeTlJU09qNWZidnE4T3FVa1ZOdkM1cW0waUJOZ3Z5NTh2WWwzcDNwR1ppZEZGU2NabE1ORzhsOFU0VlFXVmtMOE9pa01pMEstWmU0Mk5TX1ZiOFh0aVN1VHo5c3NRMGFyNWpRYmN5aDVpOTFOMHotNEhubFFOZFlaUUpWTEw4UGNNeUZsZEVERkFiLWJ2ZU9HUGxsWDZ3UW1mbTEzRTNuaHRn?oc=5",
-   "date": "2026-10-23T23:38:07.000Z",
-   "source": "Investing.com",
-   "summary": "How should investors think about GTA VI pre-order performance? By Investing.com Investing.com"
   }
  ],
  "community": [
+  {
+   "id": "rd-1aqtm3g",
+   "title": "Interested in speaking with USA TODAY about GTA 6?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xg3mcz/interested_in_speaking_with_usa_today_about_gta_6/",
+   "date": "2026-10-26T17:38:30.000Z",
+   "source": "r/GTA6",
+   "summary": "Hello Redditors! My name is Greta Cross and I'm a trending reporter at USA TODAY, leading our coverage of the GTA VI release on Nov. 19. Right now I am looking to connect with potential sources who ar"
+  },
+  {
+   "id": "rd-lkz6fl",
+   "title": "IRL Advertising",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xg2tkg/irl_advertising/",
+   "date": "2026-10-26T17:09:29.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/W_Prime [link] [comments]"
+  },
+  {
+   "id": "rd-u6oiw8",
+   "title": "I think if GTA6 can deliver a worthy video game version of the bank robbery shootout in Heat, that would be the magnum opus of the GTA franchise",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xg1zhb/i_think_if_gta6_can_deliver_a_worthy_video_game/",
+   "date": "2026-10-26T16:39:04.000Z",
+   "source": "r/GTA6",
+   "summary": "It's no secret that Rockstars dev LOVE the Heat movie, GTA5 alone has multiple easter eggs about them (Blitz Play, Devin calls everyone \"slick\", Michael's grey suit,...), Three Leaf Clover mission in "
+  },
+  {
+   "id": "rd-1p4xg91",
+   "title": "Woke up to a giant new GTA6 ad being hand painted outside my apartment in Los Angeles",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xg1pwj/woke_up_to_a_giant_new_gta6_ad_being_hand_painted/",
+   "date": "2026-10-26T16:29:25.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/hldnmsk [link] [comments]"
+  },
+  {
+   "id": "rd-ffwco9",
+   "title": "NateTheHate: Rockstar Games have begun to distribute review code of Grand Theft Auto 6 to media outlets. Review embargo is November 18th",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xg0yqf/natethehate_rockstar_games_have_begun_to/",
+   "date": "2026-10-26T16:02:45.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Turbostrider27 [link] [comments]"
+  },
+  {
+   "id": "rd-iidlsi",
+   "title": "What I WONT be doing on day one.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfz5i8/what_i_wont_be_doing_on_day_one/",
+   "date": "2026-10-26T14:58:03.000Z",
+   "source": "r/GTA6",
+   "summary": "I’ll start by saying that everyone has free will and should play the game how they want to. But am I the only person who is sick of seeing these AI slop videos telling you “10 things to do on day one”"
+  },
+  {
+   "id": "rd-17d88ln",
+   "title": "Article of the Day #55: Duke Arms Company (from Red Dead)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfy14y/article_of_the_day_55_duke_arms_company_from_red/",
+   "date": "2026-10-26T14:15:19.000Z",
+   "source": "r/GTA6",
+   "summary": "Duke is the first company from the Red Dead universe to feature in the GTA series. submitted by /u/gtawiki [link] [comments]"
+  },
+  {
+   "id": "rd-mms14h",
+   "title": "Fan art",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfx8o0/fan_art/",
+   "date": "2026-10-26T13:44:58.000Z",
+   "source": "r/GTA6",
+   "summary": "I made another little drawing! submitted by /u/grkmstlm1907 [link] [comments]"
+  },
+  {
+   "id": "rd-1a5okq0",
+   "title": "Weather forecast #immersion",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfv9in/weather_forecast_immersion/",
+   "date": "2026-10-26T12:20:50.000Z",
+   "source": "r/GTA6",
+   "summary": "How awesome would it be to watch weather forecast multiple days ahead to know when and where there will be a storm etc. Ultra immersion unlucked imo wdyt submitted by /u/Educational-Still992 [link] [c"
+  },
+  {
+   "id": "rd-1hgp97k",
+   "title": "Brian is to Jason, as Raul is to Lucia",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfqw7s/brian_is_to_jason_as_raul_is_to_lucia/",
+   "date": "2026-10-26T08:14:07.000Z",
+   "source": "r/GTA6",
+   "summary": "Brian is a mentor to Jason. He could have tried to be a king pin, but he made his money and got out. Raul is also older and no doubt wealthy by now, but he doesn't know when to \"get off the ride\". The"
+  },
+  {
+   "id": "rd-1v3hfv",
+   "title": "Does Lucia also have a Dead Eye-like ability like Jason?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfpbxq/does_lucia_also_have_a_dead_eyelike_ability_like/",
+   "date": "2026-10-26T06:34:31.000Z",
+   "source": "r/GTA6",
+   "summary": "I noticed the purple bar with the eye icon under her health bar in the extended look , what could be her special ability? submitted by /u/M_Monzer [link] [comments]"
+  },
+  {
+   "id": "rd-1loc0qx",
+   "title": "A whole new level of idle animation, my theory",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xfozbp/a_whole_new_level_of_idle_animation_my_theory/",
+   "date": "2026-10-26T06:11:51.000Z",
+   "source": "r/GTA6",
+   "summary": "(Sorry for the hastily assembled crappy screenshots). I was rewatching trailers for the nth time when I realized something... It started off with the many different shots we've had of Lucia hanging ou"
+  },
+  {
+   "id": "rd-cs9qgp",
+   "title": "Could GTA VI Introduce County Wide Lockdowns Like RDR2?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xforsk/could_gta_vi_introduce_county_wide_lockdowns_like/",
+   "date": "2026-10-26T05:59:18.000Z",
+   "source": "r/GTA6",
+   "summary": "I wonder whether Rockstar could introduce a system similar to the county lockdowns in Red Dead Redemption 2 during major heists or shootouts in GTA VI. For example if Jason and Lucia commit a major st"
+  },
   {
    "id": "rd-17xq5m7",
    "title": "Trailers 1 & 2",
@@ -928,110 +1031,6 @@
    "date": "2026-10-24T20:20:25.000Z",
    "source": "r/GTA6",
    "summary": "Damn they got a good budget, this is so cool! submitted by /u/Kind_Possibility2027 [link] [comments]"
-  },
-  {
-   "id": "rd-67f5ln",
-   "title": "Spotted in Key West for Fantasy Fest!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xehs4o/spotted_in_key_west_for_fantasy_fest/",
-   "date": "2026-10-24T19:38:27.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Traditional_Part_626 [link] [comments]"
-  },
-  {
-   "id": "rd-1nx919q",
-   "title": "The launch trailer is just too good",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xehhat/the_launch_trailer_is_just_too_good/",
-   "date": "2026-10-24T19:26:13.000Z",
-   "source": "r/GTA6",
-   "summary": "Is it just me, or the GTA 6 launch trailer is just too good. I mean the music used feels perfect and goes really well with the visuals. Thi trailer got me supuer hyped up for the game submitted by /u/"
-  },
-  {
-   "id": "rd-8h55fy",
-   "title": "Being a good citizen",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xeh6t9/being_a_good_citizen/",
-   "date": "2026-10-24T19:14:15.000Z",
-   "source": "r/GTA6",
-   "summary": "There's so much to do in his game that we can have whole sessions not even comitting crimes. Like I'm sure I'm gonna spend hours customizing cars, racing, hunting, and even shooting hoops. This will l"
-  },
-  {
-   "id": "rd-4celmf",
-   "title": "New advertisement spotted and three other billboards",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xegpxi/new_advertisement_spotted_and_three_other/",
-   "date": "2026-10-24T18:55:34.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Snak3D0ct0r [link] [comments]"
-  },
-  {
-   "id": "rd-xuqlmx",
-   "title": "Giant Mural going up on Wilshire in Los Angeles",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xegojz/giant_mural_going_up_on_wilshire_in_los_angeles/",
-   "date": "2026-10-24T18:53:58.000Z",
-   "source": "r/GTA6",
-   "summary": "Drive by this building everyday and have been WAITING so long to see this. submitted by /u/BlueMissed [link] [comments]"
-  },
-  {
-   "id": "rd-xkgjxb",
-   "title": "I believe the Criminal Profile system will work more as an alignment compass rather than RDR's linear Honor bar.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xeg62q/i_believe_the_criminal_profile_system_will_work/",
-   "date": "2026-10-24T18:33:30.000Z",
-   "source": "r/GTA6",
-   "summary": "At first I was confused as to why there were 4 player states if it was to work like the honor system. At best you'd need 2 or 3 tiers to cover most playstyles but instead of thinking only of what has "
-  },
-  {
-   "id": "rd-u7vr0o",
-   "title": "Article of the Day #53: Flash FM",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xee83o/article_of_the_day_53_flash_fm/",
-   "date": "2026-10-24T17:15:36.000Z",
-   "source": "r/GTA6",
-   "summary": "Flash FM previously appeared ) in GTA Vice City and GTA Vice City Stories. submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-17zwjnt",
-   "title": "Saw this Manatees car on Snap maps in Miami",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xeboo2/saw_this_manatees_car_on_snap_maps_in_miami/",
-   "date": "2026-10-24T15:33:41.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/nothing533439878 [link] [comments]"
-  },
-  {
-   "id": "rd-no10xt",
-   "title": "Spent most of yesterday hand-painting my PS5 plate for GTA VI. Pretty proud of how it turned out! What do y'all think?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xea764/spent_most_of_yesterday_handpainting_my_ps5_plate/",
-   "date": "2026-10-24T14:32:55.000Z",
-   "source": "r/GTA6",
-   "summary": "I decided to test painting my PS5 plates yesterday and I'm honestly shocked with how well it turned out. I wasn't sure if I could pull it off at all, really. I'm going to go ahead and do Jason on the "
-  },
-  {
-   "id": "rd-1r1ujss",
-   "title": "Day 6 of making memes out of lines from the trailers until release",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xe8ejf/day_6_of_making_memes_out_of_lines_from_the/",
-   "date": "2026-10-24T13:16:11.000Z",
-   "source": "r/GTA6",
-   "summary": "Link to Day6: https://www.reddit.com/r/GTA6/comments/1xdgntn/comment/19rkj8w1v9t2b/?screen_view_count=2 submitted by /u/ZionGlitch [link] [comments]"
-  },
-  {
-   "id": "rd-1vwbwlt",
-   "title": "\"Ranter\" is a parody of Yelp",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xe8183/ranter_is_a_parody_of_yelp/",
-   "date": "2026-10-24T13:00:02.000Z",
-   "source": "r/GTA6",
-   "summary": "gta.wiki/Ranter submitted by /u/gtawiki [link] [comments]"
-  },
-  {
-   "id": "rd-o9eqrg",
-   "title": "I‘m ready guys",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xe80a2/im_ready_guys/",
-   "date": "2026-10-24T12:58:45.000Z",
-   "source": "r/GTA6",
-   "summary": "Hold on tight folks, next stop Vice City! submitted by /u/LavishnessDue6 [link] [comments]"
-  },
-  {
-   "id": "rd-1ukoet5",
-   "title": "Doubt anyone cares. But here is a list of all the birds across the GTA VI trailers and extended look.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xe7c2n/doubt_anyone_cares_but_here_is_a_list_of_all_the/",
-   "date": "2026-10-24T12:25:52.000Z",
-   "source": "r/GTA6",
-   "summary": "Bit weird I know but one of my favourite things to do in RDR2 is birdwatching and filliing out the compendium. Keen to do the same in Leonida. submitted by /u/Knomis3 [link] [comments]"
   }
  ]
 }
