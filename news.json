@@ -1,28 +1,28 @@
 {
- "generated": "2026-10-26T23:00:07.476Z",
+ "generated": "2026-10-27T01:58:14.849Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-26T23:00:07.476Z"
+   "checked": "2026-10-27T01:58:14.849Z"
   },
   "youtube": {
    "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-26T23:00:07.476Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-27T01:58:14.849Z",
+   "error": "HTTP 500"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-26T23:00:07.476Z"
+   "checked": "2026-10-27T01:58:14.849Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-26T23:00:07.476Z"
+   "checked": "2026-10-27T01:58:14.849Z"
   }
  },
  "official": [
@@ -232,6 +232,38 @@
  ],
  "press": [
   {
+   "id": "gn-1h8pyc2",
+   "title": "GTA 6's Download Size Could Be A Major Problem For Some Players",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JbUFQYTFyWmNteU96ckl4WHZqNjk3NmR6aUdmQTJaWHNHb21nN1VDU3F5ZXY1MmltRzhmQ0djc0xpTm9LRVBpRWRQWGg3WG5na0hWZ1k1UHltSklYbXhZTlFrOGlCb1k?oc=5",
+   "date": "2026-10-27T00:29:16.000Z",
+   "source": "SVG",
+   "summary": "GTA 6's Download Size Could Be A Major Problem For Some Players SVG"
+  },
+  {
+   "id": "gn-ok1pwv",
+   "title": "Real World Versions of GTA 6 Beers Are Coming Soon",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0J1bzg3X1dKTC1icl9Lc2FHc0d5YUp1U01UZmhlSm9iUXpfRTJ0V0s4Sms0WnA2OE41VUNxN0RHTG9VSjhHeWw4VVRVRlRyUzFjQXhhNTNiSXNHR0x3X0t2aDZzTmJIel9WUmZsd1VDcHFmSV80MlBNakhDUHN1ZkRLc0ZwenliZEFpRHJ2Y3YxU2ZCWTU0?oc=5",
+   "date": "2026-10-27T00:25:17.000Z",
+   "source": "Resell Calendar",
+   "summary": "Real World Versions of GTA 6 Beers Are Coming Soon Resell Calendar"
+  },
+  {
+   "id": "gn-16pw15b",
+   "title": "Activities in GTA VI",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90R044Z1ViV2RVYkNwY2Eyd2FGeHM1ckNsT2t2ZVViamptcVgtUWZsMUxiYW9KZzNzdmZPVnhyWElwSzVuRW1jcFNmeHFEOTNxRTFpZFJvYmdjOVBWOUE?oc=5",
+   "date": "2026-10-27T00:23:46.000Z",
+   "source": "GTA BOOM",
+   "summary": "Activities in GTA VI GTA BOOM"
+  },
+  {
+   "id": "gn-1yir5ya",
+   "title": "GTA VI Preload Time, Specs and Key Information",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUWM3amsxRE11SGN1SzZGREc1cHZxSzZLdVI3NGJtdU5zU1dLQm1rZDY5OHAxOGdlQjR4XzVYai1ab2xXZS1JWm9hNUNUbjhLQmZUUmR5T0hPMDZsNFdqWE9UUWFVMVN2SWNkUTlXbjl2cW9qUi14TllwdTlZTndQOGJRSU5yOG1UTWI3MHJpamtWNWlNVnV5eE5LRnlQUkduTmJfZTkyRTI4Ym5UV0E?oc=5",
+   "date": "2026-10-26T23:00:02.000Z",
+   "source": "Forbes",
+   "summary": "GTA VI Preload Time, Specs and Key Information Forbes"
+  },
+  {
    "id": "gn-qchw71",
    "title": "GTA 6 Online may have competition as Saints Row 'AI slop' drops today",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFJINnFUU05Ddkp4bFRxOEpPSmlyYTNXekxOWG1hWUZ6aTFLTmRDZWJnOHBRTVJFUGU3aWdfazlfS0F0VUE2eTE1R2ZKbEI0dHd2MnVpWEFxalJOaHVjSnpBN185UHhPTXp6bGFyNl95UXZfX1ZORzBRNVV1eU8td2dUcGoyTVZQSnQ3Rlh6TG1Ncy1BTHBV?oc=5",
@@ -254,6 +286,14 @@
    "date": "2026-10-26T21:53:33.000Z",
    "source": "IGN",
    "summary": "BioShock Movie Director Reveals His Favorite Games of All Time IGN"
+  },
+  {
+   "id": "gn-vg2wck",
+   "title": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVi1KNlVFamJ5clROX3QxMU1KYjBXbU9VdVFXTFl0RVp0YWVoaHI3bEpJQUhqOVhDbU5xYThxN240cXM1OFRsa1F1a2QtakRpNFh2YVd1T25GMHpjbXRTNkxKSXhpUHVZenNZTjVjMWcwTGVVWFRxbnBndXNoa2dCLVV3NmpQSXF5dGVkVm9HVDV1WlAyU0xBUQ?oc=5",
+   "date": "2026-10-26T21:42:50.000Z",
+   "source": "IGN",
+   "summary": "GTA 6's Release Has Led to a Notable Spike in Time Off Requests, According to New Data IGN"
   },
   {
    "id": "gn-1x0qtop",
@@ -336,6 +376,14 @@
    "summary": "Billion-dollar sick day: US productivity expected to take a hit with release of 'GTA VI' WISN"
   },
   {
+   "id": "gn-6xp3y7",
+   "title": "Billion-dollar sick day: US productivity expected to take a hit with release of 'GTA VI'",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMWk5X3JDekNGVzdoZ193RXhWWEw5SFZGUjl6TEpIYmRvSjlNdEs1a2diNmhfd0l6aDFmRmpOaGl5Uk9ZQm4zTzdtejVKTV9QeGgxeWNrTm4zRmNUYVBOd2RYUEluYlJwRWxGWXlWU2tJNmZJdE8xZU52T3NITG1wQkh5RlA4bnVCSDVXV2RWTQ?oc=5",
+   "date": "2026-10-26T19:00:00.000Z",
+   "source": "KOCO",
+   "summary": "Billion-dollar sick day: US productivity expected to take a hit with release of 'GTA VI' KOCO"
+  },
+  {
    "id": "gn-bpqlcn",
    "title": "Rockstar Games will only send Grand Theft Auto VI to a select group of journalists.",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2c0MFFQeGcyaHJNM2tJNkE1SUJ3N0xCUy1IS3NPVzJua0hWMVhpUWdIUFpUY290MHZfUWh1RF9pd1l6bDZvQ00wYlgzZGhNZy1nUkZwM0NDVFZYaFVpWGlwZTJrWlBCS0VKYVY3ZEVoM2xBSkoxTGRuRVBOTWdXb1pqZlNJQlUzS2RQc3phbk1pekFSNDE2REhXQkdtZ25aTjl3ekZUaklLR2lCRDdrUDNNcUxFRGpI?oc=5",
@@ -384,12 +432,20 @@
    "summary": "Sony Awarded a Hacker $50,000 for Privately Reporting a PS5 Exploit He Found With AI — Now He's Public Enemy Number One IGN"
   },
   {
+   "id": "gn-1gtom2e",
+   "title": "Tune in to GTA VI with Sony’s Midnight Black PlayStation Pulse earbuds at a new $128 all-time low",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTdaLXc5MmNuaWh0blRZSURRY0dlZXlfb0JXZTJidWFNOWtudmppb2VCaFBlY0JCMHFfNjVuWHdoU01oRzZQZTlSRGlQdzVaYkpJcWlKOGRkX2RwOGtlSDlvaWpCVmpISXJKZ3Y4eDJjU0NrYWlFTTMtNWJNNURoYUFBYVM0V01TbXJGNjQzb0NQUEgybE5Pel95dE03a2QzVU1hcWk2YW5pQQ?oc=5",
+   "date": "2026-10-26T18:01:00.000Z",
+   "source": "9to5Toys",
+   "summary": "Tune in to GTA VI with Sony’s Midnight Black PlayStation Pulse earbuds at a new $128 all-time low 9to5Toys"
+  },
+  {
    "id": "gn-m0zdky",
-   "title": "Insider Claims GTA 6 Review Codes Are Already Going Out to Media",
+   "title": "Insider Says Rockstar Is Sending Out GTA 6 Review Codes Now",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDI1NnZqY1ZieE44M01KcTFUOTNqV3c1aFdHcDUtT01rSGpKOWltaDJTM3ZObS1nQWJ0UUZsSUduUHZLSC1YT0JqZGZpWGdIdTVfa2RmT2dLaFhtc1ZFSURYU0pTN1dORlZEcGRHTXp4Ukc1YnhiOVBkNWtRdEdLVjR2T0QwYVZVbjdkNTBkNC1QQXUtZ0VJ?oc=5",
    "date": "2026-10-26T17:55:33.000Z",
    "source": "GTA BOOM",
-   "summary": "Insider Claims GTA 6 Review Codes Are Already Going Out to Media GTA BOOM"
+   "summary": "Insider Says Rockstar Is Sending Out GTA 6 Review Codes Now GTA BOOM"
   },
   {
    "id": "gn-1fq1ew3",
@@ -398,14 +454,6 @@
    "date": "2026-10-26T17:40:36.000Z",
    "source": "Diario AS",
    "summary": "GTA 6 might have a problem no one sees coming: being too big for its own good Diario AS"
-  },
-  {
-   "id": "gn-1gtom2e",
-   "title": "Tune in to GTA VI with Sony’s Midnight Black PlayStation Pulse earbuds at a new $128 all-time low",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTdaLXc5MmNuaWh0blRZSURRY0dlZXlfb0JXZTJidWFNOWtudmppb2VCaFBlY0JCMHFfNjVuWHdoU01oRzZQZTlSRGlQdzVaYkpJcWlKOGRkX2RwOGtlSDlvaWpCVmpISXJKZ3Y4eDJjU0NrYWlFTTMtNWJNNURoYUFBYVM0V01TbXJGNjQzb0NQUEgybE5Pel95dE03a2QzVU1hcWk2YW5pQQ?oc=5",
-   "date": "2026-10-26T17:10:00.000Z",
-   "source": "9to5Toys",
-   "summary": "Tune in to GTA VI with Sony’s Midnight Black PlayStation Pulse earbuds at a new $128 all-time low 9to5Toys"
   },
   {
    "id": "gn-stc6b9",
@@ -462,6 +510,14 @@
    "date": "2026-10-26T13:58:44.000Z",
    "source": "GameSpot",
    "summary": "GTA 6 Coffee Is Here To Keep You Warm Until The Game Releases GameSpot"
+  },
+  {
+   "id": "gn-p8ocjj",
+   "title": "Inside Grand Theft Auto VI - A Documentary",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQTDhpQy1lWVNRblRJRUd0NTkyOVVDLW44WlVGY0pWYUVFZjdWWjVSeEdjQTlxM1JIdG5Rb0luUkE0eEpTUThTeVE1S1EtUjBibnd4cnpHX3NVeE1v?oc=5",
+   "date": "2026-10-26T13:42:40.000Z",
+   "source": "YouTube",
+   "summary": "Inside Grand Theft Auto VI - A Documentary YouTube"
   },
   {
    "id": "gn-r7yc70",
@@ -654,65 +710,17 @@
    "date": "2026-10-26T02:50:00.000Z",
    "source": "iXBT.games",
    "summary": "Actress believed to be the voice of Lucia from GTA VI launches stream - bombarded with questions about Rockstar's game iXBT.games"
-  },
-  {
-   "id": "gn-cz889q",
-   "title": "Kaseya Center's GTA 6 Merch Resells for Up to $200",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMjNGWkNTOTROYTlwUzJqVUhLalR2WlpTbmtRWnNrcjZpMmFWdkM1bXFOdzFlcUFNUE1XbTVmbUs5X1pFMk9BdkNnbGw3NE5nXzlZY0l1dFU5cDFuZkwxWlJtZWhMZGZzYWhKRjJzM1pHN0dXNU5Xby1oSEVsYlR0dHlOaU81YjBKM0E?oc=5",
-   "date": "2026-10-26T02:05:16.000Z",
-   "source": "Resell Calendar",
-   "summary": "Kaseya Center's GTA 6 Merch Resells for Up to $200 Resell Calendar"
-  },
-  {
-   "id": "gn-11yprin",
-   "title": "GTA 6 review copy may have been sent to YouTuber who posts release date spoilers",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ1JrWldMYXJPLW91N2NFV091MDZoX1lEaUtMeUFGMHhLbUNNaHpKSFotTXM3S0N3NXRlM3BhMjFoc2w3UFh4d2cwb1lWaG52aElKMDhkQ2VYNks2MDhocjBNQTRmcW9hdTdzNXhRWDliOXMzNU9saWp5N2xQZ2dWT18wTlRySXZ1d1ZuRGkzTTdxbm9PM3M5YTZJSWVuMzJpSFlGZlFSMnVXWTVYdTc1TG0tMDhWYWRjekRYblZMMXZhTE0?oc=5",
-   "date": "2026-10-26T01:41:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "GTA 6 review copy may have been sent to YouTuber who posts release date spoilers Notebookcheck"
-  },
-  {
-   "id": "gn-jdmkej",
-   "title": "GTA 6 Fans Asked Manni L. Perez About Lucia, but She Never Answered",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONXlvWFhpUVhrZUxNZlVnRWtYNlNMSGpLdm1ubkdTaGhsUVdMdmxZSGxfaUI5Z2N2eVpyU1pPcFBNd1BVZjdFejJHX2lvRHU4NUxmWXVBZGI0RnA4eTVWb0J6RXhHM2E1dGJnTTNaaWt5dERSM1gzLUJ1WnFENFktdnZmQkdYU2pQT0hRd1ZETXB6eGZ6NWJuYUJvbDJFZDA?oc=5",
-   "date": "2026-10-26T01:38:07.000Z",
-   "source": "MMOEXP",
-   "summary": "GTA 6 Fans Asked Manni L. Perez About Lucia, but She Never Answered MMOEXP"
-  },
-  {
-   "id": "gn-tcdzje",
-   "title": "GTA 6 Review Embargo: 2 Windows Eyed for Nov 18 [2026]",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd1FZVVNKQW02OXdEaXhrOVN3bV81UkZzdlhJV2tZdkhKM21ENkhpMGRhRW42a1pBQnRmalA5N3d3Q05SZ2JaWVJMTjQzaUJlSGZUdmd2WGI1alBZNXNkZ1FVNlB4TVd0cmE0dkxFVFVEY3lXQ3Rqa0lxdVFqRUw1UzBGMUg?oc=5",
-   "date": "2026-10-26T01:15:46.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 Review Embargo: 2 Windows Eyed for Nov 18 [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-1ta43tx",
-   "title": "Could Hurricanes Temporarily Transform GTA 6's Map? Reddit's Best Weather Theory Explained",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUm1tQXJHSUk3bU5OanVDOEVhZlVDQnppZEJHMVNLTFg4MkFQNkxPREFyaW5vWmE4YjE5RE5ZSzZPU091THA0dm9wTVBlMlpLS2RvQlBuVFd5TXNWWm4yajV3R2lwNDI5ejFnMklfdVl0U0psVVA2ZHRqNnc1cUl3cDNlU2pWcFU0aDJTeWtKN1RlTHRvTVNSYjRLM0E?oc=5",
-   "date": "2026-10-26T01:00:00.000Z",
-   "source": "SVG",
-   "summary": "Could Hurricanes Temporarily Transform GTA 6's Map? Reddit's Best Weather Theory Explained SVG"
-  },
-  {
-   "id": "gn-1en2zwl",
-   "title": "Rockstar Puts 10 Vice City Murals in Miami [2026]",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYVZFcFpzQlRNeFNzZHhrMDFZQUNxVWpURUpIQ3g3dFl1Tm5lUzlQUS1SMzk2OEcxQ1MwTEZ5eTBpdmVxdE5SN3U2NGFoUnU2alJzZmZTQWFlZHRGVXlHbjlKMlNQZkQ1MnRtZ2Jia3ZYVG5OVG04Wk9sVHplTjlBXw?oc=5",
-   "date": "2026-10-26T00:12:12.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "Rockstar Puts 10 Vice City Murals in Miami [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-10kg06z",
-   "title": "2026's Biggest GTA 6 Rival Isn't Zelda: Ocarina of Time Remake",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pcGg4OEFvZEgzVFBXRXJsbjBLdmt0S25WRS1pZTlYOGx4ekFtYzZ1RzlSR3EycTI4WHlneUF5anBwb2NtVnludElwaWU3aU9BQU1Gc1A3MWNvbnd0X2R1SWdzNXR6RUE?oc=5",
-   "date": "2026-10-25T22:00:45.000Z",
-   "source": "IMDb",
-   "summary": "2026's Biggest GTA 6 Rival Isn't Zelda: Ocarina of Time Remake IMDb"
   }
  ],
  "community": [
+  {
+   "id": "rd-1mgkor8",
+   "title": "We have to talk about the NPC difficulty",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xgeylm/we_have_to_talk_about_the_npc_difficulty/",
+   "date": "2026-10-27T01:07:49.000Z",
+   "source": "r/GTA6",
+   "summary": "As we near release date, like everyone else I am extremely impressed with what we've seen. The game appears to be everything we want and more. I've watched every overanalyzing the Extended Look video "
+  },
   {
    "id": "rd-1r8sw9k",
    "title": "So, guess my gaming library's about to be drastically smaller come GTA VI.",
@@ -1024,14 +1032,6 @@
    "date": "2026-10-25T00:06:13.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/BATMAN_5777 [link] [comments]"
-  },
-  {
-   "id": "rd-z2d3lx",
-   "title": "Sick days are because you won’t be able to get your work done and need to recover - I won’t be able to get my work done for sure starting on 11/19…",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xenku4/sick_days_are_because_you_wont_be_able_to_get/",
-   "date": "2026-10-24T23:56:14.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/bsmith2123 [link] [comments]"
   }
  ]
 }
