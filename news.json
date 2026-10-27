@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-27T19:11:41.608Z",
+ "generated": "2026-10-27T23:02:33.027Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 9,
    "scanned": 40,
-   "checked": "2026-10-27T19:11:41.608Z"
+   "checked": "2026-10-27T23:02:33.027Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-27T19:11:41.608Z"
+   "checked": "2026-10-27T23:02:33.027Z"
   },
   "googlenews": {
    "ok": true,
    "count": 100,
-   "checked": "2026-10-27T19:11:41.608Z"
+   "checked": "2026-10-27T23:02:33.027Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-27T19:11:41.608Z"
+   "checked": "2026-10-27T23:02:33.027Z"
   }
  },
  "official": [
@@ -231,12 +231,172 @@
  ],
  "press": [
   {
+   "id": "gn-9p86jk",
+   "title": "Rockstar UK staff to vote on union recognition as GTA VI launches",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWnpYcEdPS1BlRHljZ2QtSFhhdy1ZMmd5aWs1bVQtWDZNTUFNNlRkVVZGVTJ3Yk9leGVrbDB1d0VmMXgtc1o4MzlEa3BkS3kzVGNHYTNxRXZyb3dGaG5LX0t4YW9RaWRBQU90Um40Q0FnZjFzMl9TTS1vSGNtQ0VFOXRiRzNRT19zUHhYSXY3OFhucG9JTWZfUE9YWUtPejRBakZTcTh1cmtGdlN0?oc=5",
+   "date": "2026-10-27T22:48:23.000Z",
+   "source": "Inven Global",
+   "summary": "Rockstar UK staff to vote on union recognition as GTA VI launches Inven Global"
+  },
+  {
+   "id": "gn-r9cew5",
+   "title": "The Grand Theft Auto VI distribution volume will be twice the size at launch Red Dead Redemption 2",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYUFqRnRkN18yTnhwakJfR1pjNnlHY2tVUS1CWDh1aFoxLWRNRzNBaWxXT0QybkV4UzVraDFNYm5VeXNFbkoyRVhGdnJfWDc2bGllTmRhZkhWcl82dTFpbmU5dFZ2RGNtaFFaSVNhQ0ZneWx3VmFDMFo5YVBmemFwMXBMMlVuZWNheHRYMm9yeHhhMXBEM1B0enFCLUhMa05yRGlWUkFCMWhraGRib1cxUlRJY2dlRWdfSDJmWHlrUVVYNC1sRkdlYmlzRDk?oc=5",
+   "date": "2026-10-27T22:41:05.000Z",
+   "source": "GameGPU",
+   "summary": "The Grand Theft Auto VI distribution volume will be twice the size at launch Red Dead Redemption 2 GameGPU"
+  },
+  {
+   "id": "gn-uevd1l",
+   "title": "GTA 6′ s Expectedly Massive File Size Has Been Revealed",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlo1X2tjZFJVM0QtOHFkemcwclpMYjJyd0FYOE9hR0NYb0hNdHozYkU4ZHNxdWRHd2hMMlI1elpkdFBpZ0ZSWVFxRUQ1SHZiNUFHRFBhNE10bXMwNzVHNjJjT1VEaDVVUlAzeUR5d29wNzhrbUpRbUhsZkxRMzN4eXlUbzlnMnBOYS1F?oc=5",
+   "date": "2026-10-27T22:01:23.000Z",
+   "source": "Kotaku",
+   "summary": "GTA 6′ s Expectedly Massive File Size Has Been Revealed Kotaku"
+  },
+  {
+   "id": "gn-1cfmn7z",
+   "title": "A new 'GTA 6 Ultimate Edition' deal for the PS5 just dropped: How to save $15 with clever hack",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2ZTRZYXdSVFZIR3ZBV052WFVWRUVFZ2xVY3BJUlJjM01mUjhxeFBGSlhZMVRxeDRVNDh3WWd5LUNlRHVrUm1tOTdkdXdXX2FqTUJ0d0x6aWZtTVVNc0tLbXE3MEEwdG15RVJEODFR?oc=5",
+   "date": "2026-10-27T21:52:34.000Z",
+   "source": "Mashable",
+   "summary": "A new 'GTA 6 Ultimate Edition' deal for the PS5 just dropped: How to save $15 with clever hack Mashable"
+  },
+  {
+   "id": "gn-bnapsb",
+   "title": "‘Grand Theft Auto VI’ Will Reportedly Be a 210 GB Download",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZi1Ha1IteklLMFhJUzVURFROQkp4aXV0Q2ZuTDRBYllGZGRjOU9lVjRGOWxYTHZ3ZVVlU2RwTmsyandtYXBnMExCSHFUTWhuOFBnNzk3M3VoSkFJMTB3N3I3d2R3ZkdzdHRmcU81TDlTQlJYdm1MSVdTMW02ckpOMnhZNDQ?oc=5",
+   "date": "2026-10-27T21:51:05.000Z",
+   "source": "Complex",
+   "summary": "‘Grand Theft Auto VI’ Will Reportedly Be a 210 GB Download Complex"
+  },
+  {
+   "id": "gn-tnxch0",
+   "title": "GTA 6 review copies reportedly have watermarks, with Rockstar to punish leakers",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkRPZVRRbHZPNnZDWkZiZ1hZR0cxXzFlckdMdDctYzdGWmtlR083WDNSbnduQXBKUjNuMmlWVDBtQjJGX3ZUcWRuM2htYmRVRzFzM1VyTF9yenFaSF96bjF3TU1SUmRoRW9fTnRtTFhXcGE2NU9qNGY4WGVuY3VzRlhxM3VVaW5uWUVQSWJMMDQwcDFSYVdvRjEwZDd6S1Z1UDdYNUFXSmFRNUl4ZjFLM1ZwbUs5SUkxaGVyZEQxZ0k?oc=5",
+   "date": "2026-10-27T21:14:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "GTA 6 review copies reportedly have watermarks, with Rockstar to punish leakers Notebookcheck"
+  },
+  {
+   "id": "gn-14o7wiu",
+   "title": "Grand Theft Auto VI earns King Gizzard & the Lizard Wizard their first Hot 100 spot",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLWN1eDByQXRmSXhZOHVWZm1SdzZfODFQdlZUZ281VFlaNzVhSl84bDJKN0ZicHJmSTE5YlVjQzNSdFA5d1F6bk1PSWY5cUpPY2lKMmI0ZVhxOG5vZ3R0cGlYaDJKc0dXeV9sRHg4RmxPanVxTDdOOWNoZ3g3aTFnMkpUWEpnWWJzTVMweFpqU3ZFSmNTWXFvRV93cGIybkhaSGVsa3lfbWJYZkUteTNkWmpVUFE4NUZYaHVyOHNOS0l4eWpXdWhKTnRlLW1oeDZvYVlKeWhSazI4b0NTWFdOZjRn?oc=5",
+   "date": "2026-10-27T21:04:00.000Z",
+   "source": "Paste Magazine",
+   "summary": "Grand Theft Auto VI earns King Gizzard & the Lizard Wizard their first Hot 100 spot Paste Magazine"
+  },
+  {
+   "id": "gn-1gv2ig0",
+   "title": "All The Latest GTA 6 Updates: Gameplay, Miami Heat Collab, Ads Invade South Beach",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZEhJUmFMVmtlRlhxUDExczF6Q2dzRXRlNEVvSDVwU2tPa0VWN1lOel81bWRHUS11b2h2cjVCdTR4dU9obk1mNXJ5WkJ1NW5wMnRZTVgwV0o5Y2VrQS1VRFI0RjY5YkRtSTA2QXhYMmdvYkJFenY0MHNQRWc1NmF6c21GU3Z5VTBoRjY4RmpFLWoxNWd4eVNBNTlzRllvNUM1OE9pMndMQTlvUURwc3A5Zm8wcnlqZC1INHB4TVlMQzQ?oc=5",
+   "date": "2026-10-27T21:00:25.000Z",
+   "source": "Sole Retriever",
+   "summary": "All The Latest GTA 6 Updates: Gameplay, Miami Heat Collab, Ads Invade South Beach Sole Retriever"
+  },
+  {
+   "id": "gn-o9oy9s",
+   "title": "The day GTA 6 pre-loading starts, unionizing Rockstar developers will vote on the future of the legendary studio: \"This is our moment\"",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNXlYQk1DTmc0cU9mVVVoTmFnQlZPem5hR1R3TE5wLUVld19jTFNYbWJxUDFPZUQ3bDVETzhsQmRHSlZoU0lIYUU2QkFiMVVyUWNRczByek81NUZTVkE3bXJMeGF5QlBsa3p5Sk14OGlvM19aOEJhZmdXS2x3cmJzR2R2UzhXcUpnNkYtMGRPQ0IyOXBFWjRGVDQ5bjRFVmN6eER1dUUwenNPYTdqRXZtTDduSVE5WndyTlhzNlRadEdoRklSXzI2LUM1VkwwMHBYb0l0YlpCeWo5NXl1ME1HT0JfV1RDTU95Q1NaWHlKa3BNNGNTXzJ0M2pPWW4xWEMzbTVkSTlRd29taW9qOUE?oc=5",
+   "date": "2026-10-27T20:28:50.000Z",
+   "source": "GamesRadar+",
+   "summary": "The day GTA 6 pre-loading starts, unionizing Rockstar developers will vote on the future of the legendary studio: \"This is our moment\" GamesRadar+"
+  },
+  {
+   "id": "gn-1fl0sf8",
+   "title": "Pokémon Officially Lands Game of the Year Nomination as GTA 6 Misses Out",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XNnNlMHBVR2JkRjFVY09MREExdUQtTXpoV0N3bmRJYTZzM3FzSGVockpCMTJlWk9ud0JtOW16U2d1TV9jYkhyRGtDbmlURUZzSlZSa0hZMGhvenp3QTU5UE5VdE91TFRpQllnT1JzN1FzeVd2cDU4Yjl3?oc=5",
+   "date": "2026-10-27T20:20:02.000Z",
+   "source": "Comic Book Resources",
+   "summary": "Pokémon Officially Lands Game of the Year Nomination as GTA 6 Misses Out Comic Book Resources"
+  },
+  {
+   "id": "gn-rk9xj0",
+   "title": "GTA 6 Is Reportedly a 210 GB Download on PS5",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FenVFeHNVSGFDWk5qeTB5VFRsVVpfZ1I4aDhzNXljNzVCazNNRHVxdVkwem5nbzJvTkxFUmtVWW42Wk9CZjBrTldzZlFteDV3UFN5QVJkQkhzQ3BWZUZtZ1pzZ2Ixa1V3Rkl1Z0ZrSFg1and6X3BqTmIyTFJ6UQ?oc=5",
+   "date": "2026-10-27T20:18:41.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6 Is Reportedly a 210 GB Download on PS5 GTA BOOM"
+  },
+  {
+   "id": "gn-16wn52p",
+   "title": "GTA 6 Allegedly Takes Up a Whopping 210GB of Disk Space on PlayStation 5 Consoles",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeml5TnVEQ0FvRGY0ZjBzRVRHb290cmRCVk4zSjZJV3pYcFhrRGdTQ2k2UERGTFNKeUwydkY1aHJJRFh3MFJ4ZmZpdTdFNlNydXk2XzZqQlZJZnh5WVpPQ3JTU0tqbXEzamhBc1hyX3dMQUd1dlRnYWxybVBDUUNyNXNGUk5nNzlYdG4wUmNKZnB6TDFUampRNGZUYjFPNF8wWFhNSl93VDZiWVRzX1hVNGFR?oc=5",
+   "date": "2026-10-27T20:11:40.000Z",
+   "source": "GameFront - Mods",
+   "summary": "GTA 6 Allegedly Takes Up a Whopping 210GB of Disk Space on PlayStation 5 Consoles GameFront - Mods"
+  },
+  {
+   "id": "gn-5qpyey",
+   "title": "GTA 6 Fan Can Get Paid Nearly $900 to Play the Game, But There’s a Catch",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaUN3dTJmcU5HbEJVUTdNemZNMy1ReFIzdXlEOUVndXR0TVhwVHBncFk4Q2ZzYWs2R3lONGl5alo3REtYY29lNF9SdGdFeDI2WUQ3MVZXOUJxaHExTXpUVFN3WjNmXzVuYktTTDZDZnBsQko5b2l1OUttYWt5Q1F5dw?oc=5",
+   "date": "2026-10-27T20:03:41.000Z",
+   "source": "Yahoo Tech",
+   "summary": "GTA 6 Fan Can Get Paid Nearly $900 to Play the Game, But There’s a Catch Yahoo Tech"
+  },
+  {
+   "id": "gn-w0uaxz",
+   "title": "'Grand Theft Auto VI' sales would astonish the 'godfather of video games' if it hit this number",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX0JTMTd1Q1laWl9BN3JRcUJDSnViM09BSlpSYmg3emJIaWx5cC02US00ZnlTbGhlb2J6MThJZUM4ZDVuWm5xRWFld1VZXzBpLXpWYVIyemtXeEtjN3gtWjFvZ3d4cHMwd1pwRG1nQmN2VURsVWlUN3QxaEdSbU9HOXluMGV4bDNvNHgyN3pnN01Xd3YyTXEzSzQ1ZHUyZUhjMVpVZWxJOUxQcGJLSzhXWm81ZkFVWWM2VUxuVldLZy1EZkc3ZC11b3hKeENjTjU5cWZUeFFyRVhwNlVxN3FTYXZ3?oc=5",
+   "date": "2026-10-27T19:55:52.000Z",
+   "source": "Yahoo Finance",
+   "summary": "'Grand Theft Auto VI' sales would astonish the 'godfather of video games' if it hit this number Yahoo Finance"
+  },
+  {
+   "id": "gn-10irir",
+   "title": "Players Are Freaking Out Over GTA 6's Download Size",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX05pM2RMb3YwamRvcTJ3Z2lWckhSZ0NDS3ktWWJqQlBtTVRJT2gzeUNZTjloUWJ2bHpoeFlXQkk3Z2RiRjZrV2dlbHNUelY3Um9GRFgxNUhOMWk1b0hVZUhVQmtNVjExUWJlQjJpQms3dWhGaE5UYWVqSUlPYmxQczBnZ1ZlM3M?oc=5",
+   "date": "2026-10-27T19:50:20.000Z",
+   "source": "DualShockers",
+   "summary": "Players Are Freaking Out Over GTA 6's Download Size DualShockers"
+  },
+  {
+   "id": "gn-lfdylx",
+   "title": "GTA 6 Developers Are About To Do Something Historic",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcm1NdWo1NFZHMlZLaVFNX1c0dnJtZGRRdVJnc3QxSzBGUk14RVJteXhya1RmclB5UFlZRUZFM05HNzlCOEVGY0s4RW56ZG1BT2pXcWFEeHVyeXNvNlNKRndDWHYtOTVlcHduWVNfbmQwUUVQWTA1VmVLUzJSSjd0ODZoTnhjNzlmMzZtanVQdw?oc=5",
+   "date": "2026-10-27T19:45:06.000Z",
+   "source": "GameSpot",
+   "summary": "GTA 6 Developers Are About To Do Something Historic GameSpot"
+  },
+  {
+   "id": "gn-1rxkby1",
+   "title": "Grand Theft Auto VI Reportedly Requires A 210GB Download",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FYU44bW9aSENLVFF5aHNtZWlyWjVtb25ZQ0F1a1o2eEdIUHVUYVo1SG0zcmI5MXhjXzE1Q3luMkJsaWppQzNUaTFlZ281eW8wQTdWTm5vZjRpWktGcXJZN003SV9keFNFSmdCQ3lSOE41RXpmRFpXTkhOQQ?oc=5",
+   "date": "2026-10-27T19:39:37.000Z",
+   "source": "Engadget",
+   "summary": "Grand Theft Auto VI Reportedly Requires A 210GB Download Engadget"
+  },
+  {
+   "id": "gn-1smxec1",
+   "title": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQamx2eWh6RG1zNi00OG5JZHVheFFlRkYwLTJ2SGRNcDZtNkZMVXpEb1RyZlQyamY0TFl4S29rb2VLZEV5c1JvUE5TR0pNbVhQMFZmN3VWMVhldksxT3BnZ19LZjlxZGxoOHZSdHVUb05xZVR6WmozeDhuTHZHZ3BhZHNsYmVvWWNDdm9FMDlmSjVnankyRGJ5NXFIaDNaZ2ZXLU4xclk4QXlXNWV1NVlLNmtYY2s0cVE?oc=5",
+   "date": "2026-10-27T19:32:23.000Z",
+   "source": "Game Developer",
+   "summary": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches Game Developer"
+  },
+  {
+   "id": "gn-j0500d",
+   "title": "GTA 6 download size reportedly reaches 210GB on PlayStation 5",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaVJQQWJOemVqVWUtd2hNa2xLVFBEMkMtNnE1LVpfcUtzUWQ3UWMwdExpM0dVRzI2VTVERWY2V05iOXpBQmZLakhhdDdVOEt5dEwyblk0XzhMX29Ba3FBZUQwUGtjZGw2VlBHOGtBM2hkd250bDQ2ekJ4eXpjb0pFU2JTSHE1QVFVYmdVUjVuUnpweE0?oc=5",
+   "date": "2026-10-27T19:15:22.000Z",
+   "source": "VideoCardz.com",
+   "summary": "GTA 6 download size reportedly reaches 210GB on PlayStation 5 VideoCardz.com"
+  },
+  {
    "id": "gn-1gl97gb",
    "title": "This Company Is Paying You To Play GTA 6, But It’s A Long Shot",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdzJ5bDRlbU9FY0FsX3FDRjZNOEZGRG0xdGlrLXY2blJnZFlKZGR5T1ZrcFBxTFpLeXRPQXNGSFlGX0dtX3phcjFVR0xJM1Q2UGJLYkxZanRxMFJ6dkFROFV5LXJDTlE4Rmc0WVc1ZE9CU250QTd5cjVINk5aQmJ5NVVkVTJCeXN6R2NvdDFuM3d2QW95R0lCeWl3aw?oc=5",
    "date": "2026-10-27T19:06:45.000Z",
    "source": "GameSpot",
    "summary": "This Company Is Paying You To Play GTA 6, But It’s A Long Shot GameSpot"
+  },
+  {
+   "id": "gn-1tsufzh",
+   "title": "Grand Theft Auto VI may be locked at 30 FPS on PS5, Xbox Series X, Series S and PS5 Pro: Report",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWmEzWmdQNXN2TW5JcmRzWXdZckM5R0pXTnpDOGtTUkhOc0p3VmtSZWxoRElOS0FkbFFqMnNlME1pR2J2ZDc4am9VM2NRcFh4aWtJb0xvSWRGQjIzUWJHQ204VkZsOS1xLXMzQWN3bldtbGdYbHhFaFNOM2RiRnJKb3hUMVRYal85WTVFRlJKNnBSR0R5bUd1a3NsTDBhWXFFWm03a1NvTWRUaHdLNjJrNHhieHFMU0ZhSGhyS1BkMml6Ym1CdHdaNW54b2JMRVFrV1AtLUZHbjRjLS1MYnFiVE9reVI2TFprTUwtU0lNTFY3UlhP0gH6AUFVX3lxTE1wODA4eDVpdGFBa3BSZmllR3dHMENQUFoxV2YxdGV0ejdSc25PRUdWTEFTc2xhampsTmNYNFB1RDE2d1UycEpyWC15b1d1SE9xYUpFUnZZb3NLaHZOc215bWt5ZXdFa3dkTUZ4TkhMVF9aTEdGTjlET1c1cnhUbzN1cGdNYTk4MlJQdTQ0aVhjS015SWVJd21hcERnN0tPM3BERnJmZGNUN2NrZl9mQXdvQ3NUcUgyWGJrM2JSWTRPVHhRb29FWWg3VzZCZkd4QnJFLXFqRGNpR2NDdkd0d2FqeGhxUUFocUxFRU16eFN4UmcxeWFFWkJxRmc?oc=5",
+   "date": "2026-10-27T19:06:07.000Z",
+   "source": "The Economic Times",
+   "summary": "Grand Theft Auto VI may be locked at 30 FPS on PS5, Xbox Series X, Series S and PS5 Pro: Report The Economic Times"
   },
   {
    "id": "gn-mnxrt2",
@@ -303,6 +463,14 @@
    "summary": "Rockstar Workers Set To Officially Vote On Union Just As GTA VI Comes Out Aftermath"
   },
   {
+   "id": "gn-12jia7i",
+   "title": "GTA 6 Download Install Size Revealed on PS5",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44NElxbzVVRVhRSUJaWHpjSGdnVGdIeDBxQTBUejYxSkpiS1FyTGJvRHVneUJ1b0JpejIyU2ZzNzMxb2NzREhSRE1XalduN0lrd2x4cnBTR0tTWGl3ZDRtZ3h1aHhuekg5NnJEX19mTXNEOXNWWEl5Vg?oc=5",
+   "date": "2026-10-27T18:11:55.000Z",
+   "source": "Polygon.com",
+   "summary": "GTA 6 Download Install Size Revealed on PS5 Polygon.com"
+  },
+  {
    "id": "gn-u7na1x",
    "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcXdDZEphUjF1ZGQ1MHltbzZSRUdtTEtYMlpWaDhzXzlNQkRMZkhCVHhYdjV1V2ZlcGh4bUl2aWNfV1dpdUxiTS1aRkRaV3pqQnZxVkVvbGxnYUFxQmM0eFVTb0ZEN3pLMU1CaW9yNEItb3gtMEtFNDkwRlpXVzlXclVsLTgyNmNmMUk5Z2otZXlIQVV3UnotQk5aWHJ6ZkNtamEwSDRQY2ZnY1VkbHYzMFFSc2RPUzVGVWFNZW1hMnhULUctQ3FKTDZZZWpjeWQyckJJaTJuUjFRVTVEaDd0NU9SU0F4ek5zLVozTzE1NWNFQQ?oc=5",
@@ -328,11 +496,19 @@
   },
   {
    "id": "gn-hzrfcb",
-   "title": "Rockstar workers will vote on union recognition around GTA VI’s launch.",
+   "title": "Rockstar workers will vote on union recognition right around GTA VI’s launch.",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSDRZWmxBNjZmV3haREN5ZEF4enYzRDktZFBBcFZ6eWRmOUpjcGlCaVR1ZWZpNktiWFJpNUhOWDBtRHNsdG93LUdLd2xJeG1DMlZGQVZxUlI4NWRTRHlXcHE5cVpmTldLdzhqZDliQzZudlh6aG95RElmZTFhcnFSUnNmOEV6c1ZuUXdVUld5eHZRNGxFTTRWMkJFeC1xcUY4ZGhOYklrc1RweFh4?oc=5",
    "date": "2026-10-27T18:02:22.000Z",
    "source": "The Verge",
-   "summary": "Rockstar workers will vote on union recognition around GTA VI’s launch. The Verge"
+   "summary": "Rockstar workers will vote on union recognition right around GTA VI’s launch. The Verge"
+  },
+  {
+   "id": "gn-1er6ig1",
+   "title": "PS5 Players Will Need Storage Expansion for GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQamxGZW5ncTNLclhTazhTUXNHRGt5RUNJRzd6MkxvQTlQb203ZmMwY1hDYldpSnF1d3M3anJXVl83Z2l2ZnlrY2wxZktHMjk5LUk1YnM2RVQyOFBHU1k0TGdzdHRUc3Azb2k2Q0tjbW40QW15eWZPZkJqYW9Xa3VoU0I4WHFJZXkxZm5DSzBGdWxkN1hm0gGaAUFVX3lxTE81QzgtVG1Gd2lOUGV1c1ZKS243ZkdXaWlTb0NyeGV6NkVGNmU5MGtKUnVKNG1CTXBxTmF4dnV1STNFNWpZR2N3TUdRSUpORWh6R0xNZzRKTnRRM3BQQmhhamxjYTNqR3FXc1cyZTVKTFNFeGpsdTVNMWNkM2g4UV9VOEoyWlE2VDlhMzhjZ2NqZ29yb3FQekdaNUE?oc=5",
+   "date": "2026-10-27T18:02:06.000Z",
+   "source": "PlayStation LifeStyle",
+   "summary": "PS5 Players Will Need Storage Expansion for GTA 6 PlayStation LifeStyle"
   },
   {
    "id": "gn-alatpo",
@@ -370,7 +546,7 @@
    "id": "gn-uy1px9",
    "title": "GTA 6 File Size, Review Embargo Lift Revealed",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fNndQZDByQS1LbDE3RlBjRG1rWDYzeFpYZ0k4clI0a2VjRm1hYVAxRl9QQ1VJY3FGLXVDWlJ3UVVveEJkWEJWc0xRb0RXNk5QREtnV1RqN1BQaVJmVm1sOHJRWEYwX0lwNUFzM2g4ZHg4YTJfQ1E?oc=5",
-   "date": "2026-10-27T17:48:22.000Z",
+   "date": "2026-10-27T17:48:56.000Z",
    "source": "MP1st",
    "summary": "GTA 6 File Size, Review Embargo Lift Revealed MP1st"
   },
@@ -391,12 +567,20 @@
    "summary": "GTA 6 PS5 File Size Has Been Reported, and It's an Absolute Monster Push Square"
   },
   {
-   "id": "gn-1cfmn7z",
-   "title": "A new 'GTA 6 Ultimate Edition' deal for the PS5 just dropped: How to save $15 with clever hack",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2ZTRZYXdSVFZIR3ZBV052WFVWRUVFZ2xVY3BJUlJjM01mUjhxeFBGSlhZMVRxeDRVNDh3WWd5LUNlRHVrUm1tOTdkdXdXX2FqTUJ0d0x6aWZtTVVNc0tLbXE3MEEwdG15RVJEODFR?oc=5",
-   "date": "2026-10-27T17:37:30.000Z",
-   "source": "Mashable",
-   "summary": "A new 'GTA 6 Ultimate Edition' deal for the PS5 just dropped: How to save $15 with clever hack Mashable"
+   "id": "gn-10neimr",
+   "title": "Take Two stock is a buy ahead of a GTA 6-fueled earnings boom, BofA says",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOWl6NXJHVHVWYU9KRmlkaUoyUDRGM3hnWUJvNHNmb3gtQW5qUkhneWxWUV84UVVjWXdyZXNVYjRSRjd2UllwWlNMRGJqVi0tdFNiTS1wUmwzNnA4VXlnSFB2RDdlbm5fd0hFY2djVmdsNGgzcDNhMXA4NlZPQjdLdW1VZmRlUkM5SnpGcnZyNnE?oc=5",
+   "date": "2026-10-27T17:45:00.000Z",
+   "source": "Business Insider",
+   "summary": "Take Two stock is a buy ahead of a GTA 6-fueled earnings boom, BofA says Business Insider"
+  },
+  {
+   "id": "gn-18dezsx",
+   "title": "GTA VI will be huge — size on PlayStation 5 revealed",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOW1JNUVGUElZcTdGb2trbVBQeWhYaHFsbk9KN1h2d2xpMHBfRGQ4aWxFMUsyYzAwV3RWODdWS2NxXzdGYzUtNFhVS0phTS1tREpJRUpMRXZCZGFtdnJ6M3VEWGM1YV9OVzREZjN1UWpWa2ZuVG1fYVUxbHg3bUowVFhTTHdGNjJ5TWR0Y0tHMjJVbnpzZ0NmT1ZrblXSAaIBQVVfeXFMT280ZUFkbTd0dThIVk1aZlBrUVpiRmtUdXAtcGdFVEpSWlZTX2N5aW92LUpzaThMdTA0SEZDWGgyOXotMDFjdjFPRUNUTWstRm5jaU03dWdHTUVLMWY0aXNNQnhtMFBiT0VPTUVjRWw1UWZGUUI5dTBVLVpsS1JvQTB3TjRQOF9hbm5QazRLX1ItSTh2WVJPMjFOVjZycmE2YkRn?oc=5",
+   "date": "2026-10-27T17:37:00.000Z",
+   "source": "iXBT.games",
+   "summary": "GTA VI will be huge — size on PlayStation 5 revealed iXBT.games"
   },
   {
    "id": "gn-wr3rqy",
@@ -431,12 +615,12 @@
    "summary": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB Insider Gaming"
   },
   {
-   "id": "gn-10neimr",
-   "title": "Take Two stock is a buy ahead of a GTA 6-fueled earnings boom, BofA says",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOWl6NXJHVHVWYU9KRmlkaUoyUDRGM3hnWUJvNHNmb3gtQW5qUkhneWxWUV84UVVjWXdyZXNVYjRSRjd2UllwWlNMRGJqVi0tdFNiTS1wUmwzNnA4VXlnSFB2RDdlbm5fd0hFY2djVmdsNGgzcDNhMXA4NlZPQjdLdW1VZmRlUkM5SnpGcnZyNnE?oc=5",
-   "date": "2026-10-27T17:09:08.000Z",
-   "source": "Business Insider",
-   "summary": "Take Two stock is a buy ahead of a GTA 6-fueled earnings boom, BofA says Business Insider"
+   "id": "gn-1xxxngl",
+   "title": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzRKYmJ1N25mREpRT0ZKdF9mNFIzN1BRZzQxYUg1cDI5b2NrMU1vb1lVRVBnQmJIOEE5NjNxMUw4NFBNdWtuMlJpNGpHMUh4NVFNbUJsakdkbXJxcGtQN1hfWi1xbGtnT3FvQVZjMUN5a3Nwa1Y2eHVQbmUyRXhyMUFrX0k?oc=5",
+   "date": "2026-10-27T17:10:45.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Sparks Unlikely Cliff Richard Resurgence, but the 86-Year-Old Singer Still Doesn't Know What It Is IGN"
   },
   {
    "id": "gn-105qxlr",
@@ -464,19 +648,19 @@
   },
   {
    "id": "gn-k8jbdz",
-   "title": "Rockstar Let Edge Into Rockstar North for a Massive GTA 6 Cover Story",
+   "title": "Rockstar North Let Edge Into the Studio for a Massive GTA 6 Cover Story",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUU4eld0dGhyUlgxTlBoa0hIbEtmU1VaT3BwSVNQODU3VFNVaGtHeHZON0huX3B2V2FPaFZqZkRXZ1loa3BOV0prRmN5Q0RkbjBaZnJfUlozbDJHYjEwVzFVaFlsamk5VlBxYXN3NFVQVGFyTC1UcFBoZVRiMmd1SnJvOUMteU50NE91Z2RUc0NoWFNMYkcyTXU4ZmR3QQ?oc=5",
    "date": "2026-10-27T16:33:21.000Z",
    "source": "GTA BOOM",
-   "summary": "Rockstar Let Edge Into Rockstar North for a Massive GTA 6 Cover Story GTA BOOM"
+   "summary": "Rockstar North Let Edge Into the Studio for a Massive GTA 6 Cover Story GTA BOOM"
   },
   {
    "id": "gn-1xpvy3k",
    "title": "GTA VI Merch Craze: Scalpers Charge Exorbitant Prices for Promotional Items Online",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2Qtc2FpaF84QXBZbWZQZXJiS3lnVWpVbGZjcElpLXJjRmI5M01sVlAxMDJERUdPcVdvUHMxbUkyYnBlTUFNM0s0WkI1YThhaHEyRGpZWUtKamFIWnIzYWdpRU9FeDZOZEhReU1MNnpYODg3YTB4SFVNUkNmTk9aY1VHZ043NkxpMUUyNm5Ya2w3QUc2SHBxUF9LNUktVnhPU0RpYndVQUxCZUNIRHZOU0RmOHk?oc=5",
    "date": "2026-10-27T16:16:28.000Z",
-   "source": "levelup.com",
-   "summary": "GTA VI Merch Craze: Scalpers Charge Exorbitant Prices for Promotional Items Online levelup.com"
+   "source": "LevelUp",
+   "summary": "GTA VI Merch Craze: Scalpers Charge Exorbitant Prices for Promotional Items Online LevelUp"
   },
   {
    "id": "gn-txt6e3",
@@ -525,193 +709,49 @@
    "date": "2026-10-27T15:00:00.000Z",
    "source": "PC Gamer",
    "summary": "Edge magazine went to Rockstar to see GTA 6, and will tell you all about it in lavish detail this Thursday, October 29 PC Gamer"
-  },
-  {
-   "id": "gn-1wtpao3",
-   "title": "An Official Xbox Photo Just Hinted at Early Access to GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXNLN0ZMN3luNUJqMW5Td0VnZU5SRzFFbWU4NjFmSk9PcXRLS1J3Nmw1Y3ByUzlSZ1lPbGZGNmYtOUozZXFXYXZaaFJnQWFJS1FGR1M2OVRMNzV1V2w4blVvbjY4NjdrTmhkbWFkbTNLczVHeS15WjItMGpsMmlsVnkwUm5wdw?oc=5",
-   "date": "2026-10-27T14:37:51.000Z",
-   "source": "GTA BOOM",
-   "summary": "An Official Xbox Photo Just Hinted at Early Access to GTA 6 GTA BOOM"
-  },
-  {
-   "id": "gn-13w4le7",
-   "title": "Edge 430 – Grand Theft Auto VI cover",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04OU85bFA5YnFOX1F5cEtFcUJKLVVPSmR6MEdpU0JhUnExZGhGYWZMdE5mM0ZSUVJwY3M3czl6ZENZakxjd3lEazFrd0JuRnlsZlNNeUpwWklOUl91ODlHdlFReDBnM1VmOGxJVVRBeWdWaVRTc3Q0V3Z3?oc=5",
-   "date": "2026-10-27T14:29:02.000Z",
-   "source": "Yahoo Tech",
-   "summary": "Edge 430 – Grand Theft Auto VI cover Yahoo Tech"
-  },
-  {
-   "id": "gn-yblaw",
-   "title": "All console versions of Grand Theft Auto VI will be capped at 30 FPS, including the PS5 Pro.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWZVU3NFNW5HVTZpNFp0YkhaUklSZ3M1VlVpbksyY2JkemtoX2wwbFFmWUU0RE1TdTducXB5RTVjTXdjSWdhWmlpVUNfY25YeUgwTXFrNFZVYzEzVGRTTGpaX3Vmay12VFhvSTM3MnB0ellXT2d4NUMzdGw2Mlo5ZUZ2TzVfVHZPMTh6djB6VllIY2k1aWR5NkhIVTlpYmxhUl93Ni1saXA0VE5Oa2JoZUJXajBURVF5?oc=5",
-   "date": "2026-10-27T14:04:18.000Z",
-   "source": "GameGPU",
-   "summary": "All console versions of Grand Theft Auto VI will be capped at 30 FPS, including the PS5 Pro. GameGPU"
-  },
-  {
-   "id": "gn-11457yz",
-   "title": "Get GTA 6 Ultimate Edition on PS5 for Just $85 Using This Trick – Today Only",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeEtJV3p2VE4yQlNvdjdaZW1Wa1Y0eHpXQjhESU5KLV9hNmgxaHdvdFdhUm1yZ1FJMGQ5ZmVyd0xjOFFndVFvRkdPQ29RbXdCaXE3dHEwRjd4LWlqRWdhdFJtcjRDOFNPdTI4UWttS1N4dXhrcnB6OUZyRFV4bGdEV3pSZC1nZnlnc1B2NmpzRkUtZzVVZVVPOUFZdDloa0NLT1k3YQ?oc=5",
-   "date": "2026-10-27T14:00:50.000Z",
-   "source": "IGN",
-   "summary": "Get GTA 6 Ultimate Edition on PS5 for Just $85 Using This Trick – Today Only IGN"
-  },
-  {
-   "id": "gn-utnvs6",
-   "title": "GTA 6 strikes again as anticipated RPG delays to January one day before launch",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWd0QlpGSDEzVTg0T2RkZUIyV2NCZXd2RnFGZ2stMkZpd1dBblgwbXlrc29OenFXRWd2UTRBWUItRlVNNTRwQlBNS1NjNlJwamViLTVHeXJPd19yMnozd09heFk5Z0dETDVoV29fc3J1WGJvc1BmTEhvTmFaWGJIVDQ3a0l1SmM?oc=5",
-   "date": "2026-10-27T13:00:02.000Z",
-   "source": "GAMINGbible",
-   "summary": "GTA 6 strikes again as anticipated RPG delays to January one day before launch GAMINGbible"
-  },
-  {
-   "id": "gn-ba8fnu",
-   "title": "Xbox Racks Up Millions Of Views Teasing GTA 6 On Xbox Series X",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVdIY3JpYlpXNE1xVndTS19HNElLMXBwakNxY1oxXzRPVm5tLXlQd1RFWmJvOC1ramNhcDFPcnlKWTZQVUdHOEZfQWNXUjlWTkM3Qi1GcXktclBBa0lvN3NXRnpIeHNyektWYzA3V1NYMHNQV0Z5eXI0NHJRdU16SVRmNmlFRmZ1WlB0U2NOZE40MVpocHdDRzVEM0dJQUNoN0E?oc=5",
-   "date": "2026-10-27T13:00:00.000Z",
-   "source": "Pure Xbox",
-   "summary": "Xbox Racks Up Millions Of Views Teasing GTA 6 On Xbox Series X Pure Xbox"
-  },
-  {
-   "id": "gn-bapl1r",
-   "title": "4 Hardware Factors That Could Cap GTA 6 Launch Sales",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMnRBQUpuczJBVk9FQUhrQ0VQbEJkS1o0Wk1MWTF2NnExRzJrZVpwSUQ4MGFMWGpyZG9iSnVST1F2NTdwUWQ2OUlISWJWTDZpb2xrTTF4WFVUd1pIc21rclR3WU5abnRxWERrb0RHWGtGcVRnd3ZvVmViQjFyQVo2b0V6ZVVueG9WaXcwZTkzVUpMU0daV2NMRlo0VDY?oc=5",
-   "date": "2026-10-27T12:52:15.000Z",
-   "source": "GTA BOOM",
-   "summary": "4 Hardware Factors That Could Cap GTA 6 Launch Sales GTA BOOM"
-  },
-  {
-   "id": "gn-12fm2m8",
-   "title": "GTA 6 Release Date Nov. 19: $79.99, Platforms [2026]",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKSmNRdWxjTXpnNFk2dl9vcFlPM0pncDNkbTBjWVNkOXkwVXY3MjNvY3VnT01zbU1maHlOOUtWWXNkdXpGRm04UHNZckNOTkYxQkVlNkQxczhaU19FS1NPaFphTUdMTU5qc1ZsS1Z6YnEyVklmLW1SS1I2RmU?oc=5",
-   "date": "2026-10-27T12:12:59.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 Release Date Nov. 19: $79.99, Platforms [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-bfbm2f",
-   "title": "SURPRISE! ShipShaper Drops Explosive Multiplayer Update Launching Head-to-Head with GTA VI!",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZU55Z2VmbU5pc1E3Z0lNR29xVUlscUxWSmRseXRaOFNwcWlfdUlJb0pqZkFydXZ6MllPZHJCRXladUJkTjQtWW8xNnNjNWtjekJBOEV0RmhUakFOc0puYXJuaVczWndPTUwyeGZseTU4Mk9KdU9pVHVnbGNyM01POWkwb1BjMjVaMVhGM3YtU0xPQ0pwU0NIQmlzeGZKU1FDQ1kydGFR?oc=5",
-   "date": "2026-10-27T11:50:58.000Z",
-   "source": "Games Press",
-   "summary": "SURPRISE! ShipShaper Drops Explosive Multiplayer Update Launching Head-to-Head with GTA VI! Games Press"
-  },
-  {
-   "id": "gn-17tld79",
-   "title": "GTA VI Review Copies Reportedly Sent Out as Rockstar Keeps November 18 Embargo",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWtxNzJIbjFFSUNJem1NTkZDMDNCQnFCRTh2ZXB4UXFGejZ0NDFfVGhCazQ1amdPeWFHZkRsZ2s0QjgwWXlrQTVhT1d1UHJ3czltRWxaZEUxUFh3U2I0LXk4b0V1T3FuelY2dTRHZVpERkdVWDhNZV8zanNscktJRVBfTV8xUVJqQ0M1Z3NqWnJqS18yMEljVDQ3a0l4b2pqZGFtb2p6WS1lQQ?oc=5",
-   "date": "2026-10-27T11:30:00.000Z",
-   "source": "GameWatcher",
-   "summary": "GTA VI Review Copies Reportedly Sent Out as Rockstar Keeps November 18 Embargo GameWatcher"
-  },
-  {
-   "id": "gn-184j1n1",
-   "title": "Devs \"fear\" launching near GTA 6, but one analyst says they shouldn't – a lot of people \"are going to want to play other things\"",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPNW9ZTDVlTUhKcFJSUEgtekl4MERjcDZDNUE0bktKeUtvbjNMTDU1XzBHdEZfWUpZNVQ0dmVVMXNXQ1lrWGRqZ08zTFFIenZxNDI5SzhTeFJpQ2w4ZE1BZkRyazNQQUlKM2hOV1A5VllLOUk3QmhoZ3daMHp1Y2hfOHQxUHZyYUFpdmNDai1WaHEwdHVza19jWmNxQzhmV2d6aFlNelk2dm1pYkFhYU1HSGZGUklES0FBQ0RUNVpsQmZJRnhBVWprZVFVQ0MtbklvMThBTWxYQjQwb25IUWVQVkxTX3N5WHIzcFNrbXlWd1psTXRzbU9aQW5sczhlOXVi?oc=5",
-   "date": "2026-10-27T11:18:12.000Z",
-   "source": "GamesRadar+",
-   "summary": "Devs \"fear\" launching near GTA 6, but one analyst says they shouldn't – a lot of people \"are going to want to play other things\" GamesRadar+"
-  },
-  {
-   "id": "gn-1gmvels",
-   "title": "Employees have begun taking mass time off for November — on the release day of GTA VI",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUzVBTV9QVWN2MUFHTVVNU2NaZUUtdDV6dUtvWURXaXZkM2ZZdVBzX1I3YTgxLWUyM3RGSDRXZVNuc0pwd05LOTBWXzd6RFI5N2xUak1YMXBZY1VLMTVTa2gxNm9jMGh4R1Z0NG0xaXJIa3dKREVCR1ZjQ09OaU1pRkNZSi1JTmI2dWVOMU11Q0phbmFzUjdURm5uNE9XNFNlby1CeUhOaWlHbHA5dXlj0gG0AUFVX3lxTE4zQXMzSjBkYW8wWkJ2NHYtZjRKUDE3SnFSMDJUa2E0dVNmTnpBd21ScUUxdXRJVVlsb25Rcm51VWJkdHJESUtkYjFjQlViOE9ZeDVSMkUzNVdRSGtxQl91Z3k1VEd6VmlmYnFfYXZQZXBLX1JSNUdIYXZFaWRSWmFZQXhfU1B5a21vd01rT0h6a0M4a2tqZTRTSW9jUVhhTk5tV0pnUTE2SC1Qb1NnWjBjbVoydA?oc=5",
-   "date": "2026-10-27T11:17:00.000Z",
-   "source": "iXBT.games",
-   "summary": "Employees have begun taking mass time off for November — on the release day of GTA VI iXBT.games"
-  },
-  {
-   "id": "gn-myu8e3",
-   "title": "Grand Theft Auto VI release leads to 17 per cent increase in time-off requests",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUHJmVVNxR2hXMXdHMGJST1RPaTE2bElUNW1hc185bWg4Zk9QV0k0VFgybDlSRG9LdlNOTzUzeXpIYWh0VTZ0WDVhckJuZG5MWXRrYklXZzJ6Y1Q0cDRqWWFTN2lDek9MWGhOWnhld0c0V09McDBjQkdGbmNsQkpLejlweFZrQXNYNXRjTGEwNUwwNGVhalFvSFh0Y295TERuN0MwNS1MQ21VMzZXWVhIcnJESFo?oc=5",
-   "date": "2026-10-27T11:02:52.000Z",
-   "source": "Female First",
-   "summary": "Grand Theft Auto VI release leads to 17 per cent increase in time-off requests Female First"
-  },
-  {
-   "id": "gn-a5ugmr",
-   "title": "GTA 6’s Vice City Is Packed With Real Miami — Here’s Every Spot So Far",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZlFnYUhuSWVGVFROREdCLURvT042TUl2MnNxNGpwZjRKZG5YYlJVNW9GWTEwb005OGx1Q204OTJaX203VFdoeFZoTU50Zk0xYzNIN3BKWU1fdmVvNmpWaW9rWE5GRUxyN2NiWms5NHJlTTlxcU9pbThvbFc1T2V0YmVXUHZHMGxiYVNPOEpILUVaR0M3QXRpSEh5QUtQTk9pTk5yRU5LajZJYkdPSGNHdjBxMnMzUXgwX1NNOTc2Zw?oc=5",
-   "date": "2026-10-27T11:00:00.000Z",
-   "source": "Forbes",
-   "summary": "GTA 6’s Vice City Is Packed With Real Miami — Here’s Every Spot So Far Forbes"
-  },
-  {
-   "id": "gn-uiwlmm",
-   "title": "GTA 6’s Vice City Is Packed With Real Miami — Here’s Every Spot So Far",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN2lKS3BiQmNFeFhyTjZWZERfeThUT2g5QzZTV0FkOGg3VVhPbWFKNVZJLTZhWjF4QUc1WjlXQTRaNmNKX0otQjNUcFllN2g3UkFGTkl6RTBjaXBtZmd1MkhiWVVqc09pV0xDNU1SWGhfekZCWDJKTjZuY19CcnBHTDRR?oc=5",
-   "date": "2026-10-27T11:00:00.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GTA 6’s Vice City Is Packed With Real Miami — Here’s Every Spot So Far Yahoo Tech"
-  },
-  {
-   "id": "gn-ulb9zy",
-   "title": "Take Two Interactive Software (TTWO) Stock Looks Near Fair Value As GTA VI Nears",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQckdCeTJnUTdzV0t4Ry01STBVNTZIazBUYWRtRURZUFZqZTZHeWNxVFo4UkNteWtSQjdkOVo0ZERwakwxZUpJaW5aaW1QeU1nVjV2dUVwVVlWMUZRSExqWXNCRlpua0hjU0t4b3BtNnJ1bV9kTXhqSWtUcjRKZ3pBaWVqOFRqUlVTdWFHVzFnaWI3SEtZWEV2MUlFZEpoSUpnMkNPbDBwbURqWnljTE00aDNJaUVEZDNPQUVNWHhLUFJxOWFGRDFvVmgyWWdRZlFPYlNsOHIxekNwWVlGVHIzY9IB5gFBVV95cUxOSENmeEVCX1EyVDVlVnZqLVdsS1dYMm5NMUJqbkVCcmNlSUNaZEljZ1hOT0JfYUcwYXlWZmViaGk3emdpVUNwM2pIOGxnSXI4QUozeVNwVVVULWpjbkoyRm9hN1BzTGozbjdZV1ZTenpocHNRRllZczV0Z05aaGlDa3JHWlNhSDJtQ3ZaN2hYcEpHX0Q4SWJVLUVRNE9HaV94ZjFXQ1lCZ2QxYWFGQXozZXRfb3dTdE5SZjhvb0puMlAwenhGN1E2MENyR1hXWkhFRGZTa1hSd0cyRGtpZ2t5NmZsMjNBZw?oc=5",
-   "date": "2026-10-27T10:57:21.000Z",
-   "source": "Simply Wall Street",
-   "summary": "Take Two Interactive Software (TTWO) Stock Looks Near Fair Value As GTA VI Nears Simply Wall Street"
-  },
-  {
-   "id": "gn-p3ajbw",
-   "title": "Top Analyst Says Industry Panic Over GTA 6 Was Irrational",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEZ2M05vTlBWRUktOGUzc2NyR1hISE93RVRaYUkzZE1GaUNJVWllSVlVY2J1MllXYnFCVFhQTEF1dXBXOFlod2k5Vi1oLUhub3FDdm9CblBpdzk3SmQxQjBxcmFxZGZKTl9Zd0ZpNm4wcEVfRHdfX1k5MjlnOUJ3RFVzeVlnWkhNUFFKSjFoYlBmT2phWUE?oc=5",
-   "date": "2026-10-27T10:52:20.000Z",
-   "source": "GTA BOOM",
-   "summary": "Top Analyst Says Industry Panic Over GTA 6 Was Irrational GTA BOOM"
-  },
-  {
-   "id": "gn-aq6zou",
-   "title": "Rockstar Issues New Official Statement on GTA 6's Gameplay",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcnVKYU5xZTFWOWR2ZmhOSTNhc18yOUhTZzRTU1hpcFVXUkFMWElIRlJjY0tjM3d2eXpNSlhIN3RJaXJ1ZEU4QVRha3dIa3lBaUliUXN3dHcwNk05SjMzN3hHSThvclZ3RWVWbGlpcU9fZFJRRFhRYjAtTXk5R1NsTFRTSG1NZkJtRVJ1TGdrUWlyYUVYcWc?oc=5",
-   "date": "2026-10-27T10:17:13.000Z",
-   "source": "OpenCritic",
-   "summary": "Rockstar Issues New Official Statement on GTA 6's Gameplay OpenCritic"
-  },
-  {
-   "id": "gn-7h152x",
-   "title": "Beloved PS2 classic steals GTA 6’s thunder with physical edition announcement",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOXludWk5Wlp2dVFYSWVGS01ESjRKQ3BEY01nc281WHRwUy0zM2tjdlVSZ1Z5TjRoaVhoYWJleXAteE5yQjZYb0ljSWQ5NmRYbWxWZDA4UTdydXlMR0lraEc3OGZnNTNIa1FEZ0FPR1BhaTI5R3dEMW55ckNVSXJRRE11VFBGN2dMSzMyeHF0VzBra1ZQ?oc=5",
-   "date": "2026-10-27T10:00:02.000Z",
-   "source": "GAMINGbible",
-   "summary": "Beloved PS2 classic steals GTA 6’s thunder with physical edition announcement GAMINGbible"
-  },
-  {
-   "id": "gn-tt3h0f",
-   "title": "GTA 6 Ads Light Up Camp Nou During Real Madrid’s El Clasico Win",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMUZkdDd6N1VGMHpweDFnTVRzU1Q5STU3bWowZnhyelhiZ3R1ZzZxVnBWdVRYbmxjSGt5Tl9GdDhGNy01SERNUjctMWIzZkhudXZkZ1Z5cF9yakNNLXlJSUtmal9rSjVMWk03REN4OTFMZWYyOWFHZ203NHJqNXh2aEE5VmUtcTFnSWc?oc=5",
-   "date": "2026-10-27T09:34:29.000Z",
-   "source": "eGamers.io",
-   "summary": "GTA 6 Ads Light Up Camp Nou During Real Madrid’s El Clasico Win eGamers.io"
-  },
-  {
-   "id": "gn-mx4moq",
-   "title": "Grand Theft Auto VI Reportedly Caused a Surge in Leave Requests on the Game’s Release Date",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdHBsdXBKTktSbVpPcjE2Vk53d2QtOWxlMHB1dGQ2Mm5jRF9ReE1SR3hmNkdiV0MtdmswNHdaeWR0UFlNWndMRDU5SUVuZFYyWktOcmJfNGFlckl3SmFxQU5WcTJmZjdWbUxOZVJ5VXpMNDZNY1RWNkFZYUFrWGlXSncweVg5UndJWV8yZWNlazRYVTM1N1Y4MDZ2WGRFNnd3V0hRTG9QUktKaXFibDAwZ05RdGRjMkR4RUE?oc=5",
-   "date": "2026-10-27T09:29:45.000Z",
-   "source": "GamerBraves",
-   "summary": "Grand Theft Auto VI Reportedly Caused a Surge in Leave Requests on the Game’s Release Date GamerBraves"
-  },
-  {
-   "id": "gn-1ejup9c",
-   "title": "GTA 6 Launches November 19: What It Really Costs to Play",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPam1mZGFDbUUzSk9qM0pzb2x6Vk01b2dGVjdhT0I2OVo2RTYwbTJFZVI5TXVSdWVjRnJ5eWU1Sktaci1XSU84TXl2NTF1cXNwZEpQQkhqbFVMVndCdXRsUzJYYnRuS3VpZGljamJTR3AzUWt6dXUzVDB3bU1QbWJSUy1ra3pobnFkV3lSQ2d0TlVZNnJaZUFoWTRn?oc=5",
-   "date": "2026-10-27T09:12:37.000Z",
-   "source": "Technology Org",
-   "summary": "GTA 6 Launches November 19: What It Really Costs to Play Technology Org"
-  },
-  {
-   "id": "gn-1a2lul1",
-   "title": "You can now smell GTA VI: the game gets its own coffee",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ2ZjQzhDeUV6ck1SMFNlMmVsajJSdFdXWFpySnVJWGpJYlpEVmhyOERweDNBNmd3VVZ0Rm5zaWpyVVpkMVJNUzNCalYxWm5JdUVvY29ONW9jZW9tXzU4ckFKNlRaZDFuNFJaaE5DLVdCLWRycDBVeTFGX3FZY3pfbkNzVWJtTGgwQzBua0RQNXVwdXFHQS1FSmlZaU81NFVHa2FiR3dDbTZZTl9CUFA5ZnF30gG3AUFVX3lxTE8tWUZabS11aklTWDB3N2ZLUW5lS290YnFrTmNMMUFWSE5maU9ySk5vbVRoYjdaTm1Hb0VUUk1tLTROOW44NzJrZklmV2dfanNYMW83bExlNVYwN0Rvc1hWamtrS3JtR0F5V01GaGNuMkVqWkhrRTRZV3N3ZmRORWhCMjJITG52eGpLTlQweXMxVkliMDQ0QjYxZnNRY3hENzRVczFPbzJLQlZtdDY2TEViNENUZUFpaw?oc=5",
-   "date": "2026-10-27T06:54:00.000Z",
-   "source": "iXBT.games",
-   "summary": "You can now smell GTA VI: the game gets its own coffee iXBT.games"
   }
  ],
  "community": [
+  {
+   "id": "rd-1688d0e",
+   "title": "The VICE CITY sign from GTA VI is being recreated in Miami",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xh3rs8/the_vice_city_sign_from_gta_vi_is_being_recreated/",
+   "date": "2026-10-27T20:27:10.000Z",
+   "source": "r/GTA6",
+   "summary": "Source: rodionraf on Threads. (Not sure who his source is) Couldn’t find anything else about it on Google or Twitter. Using tag “speculation” for now. submitted by /u/KingKontinuum [link] [comments]"
+  },
+  {
+   "id": "rd-10guycg",
+   "title": "TV & Broadband Provider offering $900 to play GTA 6 and share their honest thoughts",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xh3euo/tv_broadband_provider_offering_900_to_play_gta_6/",
+   "date": "2026-10-27T20:13:49.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/No-Worldliness-492 [link] [comments]"
+  },
+  {
+   "id": "rd-gjjhew",
+   "title": "People Are Going to Complain About GTA 6 Being Too Slow, and They'll Miss the Point",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xh39oy/people_are_going_to_complain_about_gta_6_being/",
+   "date": "2026-10-27T20:08:23.000Z",
+   "source": "r/GTA6",
+   "summary": "I guarantee there will be moments in GTA 6 that are just as immersive and incredible as the snowy mountain section or the prologue in RDR2. Moments where the atmosphere, world-building, and attention "
+  },
+  {
+   "id": "rd-1v1dn9",
+   "title": "Made this concept box art / poster because I cannot contain my excitement",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xh2d7x/made_this_concept_box_art_poster_because_i_cannot/",
+   "date": "2026-10-27T19:34:52.000Z",
+   "source": "r/GTA6",
+   "summary": "hope yall fw it. My interpretation of their iconic tile style box arts. Pretty happy with how it turned out🤷‍♂️ submitted by /u/Slotherocious [link] [comments]"
+  },
+  {
+   "id": "rd-1xrwb8t",
+   "title": "What do we think of the Lucia Cosplay for a GTA 6 party???",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xh22ja/what_do_we_think_of_the_lucia_cosplay_for_a_gta_6/",
+   "date": "2026-10-27T19:23:48.000Z",
+   "source": "r/GTA6",
+   "summary": "Do you think people will get right away? Not having the pics next to them submitted by /u/Candys_good4u [link] [comments]"
+  },
   {
    "id": "rd-l5uqve",
    "title": "Reviewers names are watermarked on review copies",
@@ -991,46 +1031,6 @@
    "date": "2026-10-26T05:59:18.000Z",
    "source": "r/GTA6",
    "summary": "I wonder whether Rockstar could introduce a system similar to the county lockdowns in Red Dead Redemption 2 during major heists or shootouts in GTA VI. For example if Jason and Lucia commit a major st"
-  },
-  {
-   "id": "rd-17xq5m7",
-   "title": "Trailers 1 & 2",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xfndf3/trailers_1_2/",
-   "date": "2026-10-26T04:35:11.000Z",
-   "source": "r/GTA6",
-   "summary": "I was thinking about something. A lot of people seemed to be disappointed that Rockstar released trailers for each of the protagonists of GTA 5 but not for 6, but when 1 watch them I feel like trailer"
-  },
-  {
-   "id": "rd-1yhtqj3",
-   "title": "GTA VI fans are actually insane 😳",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xflh0s/gta_vi_fans_are_actually_insane/",
-   "date": "2026-10-26T02:54:17.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Codaey [link] [comments]"
-  },
-  {
-   "id": "rd-m3vmfb",
-   "title": "GTA 6 ad in times square",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xflgsu/gta_6_ad_in_times_square/",
-   "date": "2026-10-26T02:53:58.000Z",
-   "source": "r/GTA6",
-   "summary": "The ad is at port authority bus terminal times square. It feels surreal to see something gta 6 related in real life. Not just a picture online. submitted by /u/Endernut [link] [comments]"
-  },
-  {
-   "id": "rd-1xzswba",
-   "title": "Made my own fake Vice City rental store",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xfh7ut/made_my_own_fake_vice_city_rental_store/",
-   "date": "2026-10-25T23:33:36.000Z",
-   "source": "r/GTA6",
-   "summary": "I wanted something custom to go with my home blockbuster. So I made my own rental company in vice city. submitted by /u/RetroSynErr [link] [comments]"
-  },
-  {
-   "id": "rd-w6texo",
-   "title": "Happy Halloween, less than a month till launch",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xfgvo4/happy_halloween_less_than_a_month_till_launch/",
-   "date": "2026-10-25T23:18:09.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/10131890 [link] [comments]"
   }
  ]
 }
