@@ -1,27 +1,27 @@
 {
- "generated": "2026-10-30T16:29:44.116Z",
+ "generated": "2026-10-30T20:59:38.278Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 10,
    "scanned": 40,
-   "checked": "2026-10-30T16:29:44.116Z"
+   "checked": "2026-10-30T20:59:38.278Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-30T16:29:44.116Z"
+   "checked": "2026-10-30T20:59:38.278Z"
   },
   "googlenews": {
    "ok": true,
    "count": 102,
-   "checked": "2026-10-30T16:29:44.116Z"
+   "checked": "2026-10-30T20:59:38.278Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-30T16:29:44.116Z"
+   "checked": "2026-10-30T20:59:38.278Z"
   }
  },
  "official": [
@@ -244,6 +244,94 @@
  ],
  "press": [
   {
+   "id": "gn-1xe7l9w",
+   "title": "Grand Theft Auto VI: Original Score by Justice",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwOFFZMWxSWGUwUnRXRUQ1b0hMZnB3Zmw2MWlDSDFvRUI1T29ZWTdtOGxTTkJ6TkN5MG44eTRxZWlJMy16RTdzNUR3UC1xNTZRbktFX2lWVkRPX19ULVJleHFvb05nRnJGMGcwSGw2WHBLS29jazJF?oc=5",
+   "date": "2026-10-30T19:45:06.000Z",
+   "source": "Roastbrief US",
+   "summary": "Grand Theft Auto VI: Original Score by Justice Roastbrief US"
+  },
+  {
+   "id": "gn-14isbgc",
+   "title": "Grand Theft Auto VI: The Original Score Vinyl Is Up for Preorder (Not to Be Confused with GTA 6: The Album)",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkJlNEFpMnJpeGh6QldfM3pDaEtwZThpOUxuZmNCNVRCLVVRVTREbTZsM2NnT1MtVURzNWlSc3dTYzdCR1o1czBYU0ZPU1dlaW1tWEJnbGxLSjF3MHNSVHdJSWxpNTlkcUhQeGM1SHF1WjMtQTFaMkoxR0lXSjZwQV82UlhjdHc?oc=5",
+   "date": "2026-10-30T19:15:34.000Z",
+   "source": "IGN",
+   "summary": "Grand Theft Auto VI: The Original Score Vinyl Is Up for Preorder (Not to Be Confused with GTA 6: The Album) IGN"
+  },
+  {
+   "id": "gn-aalykc",
+   "title": "GTA 6 Felt Too Fast For Its Own Detail So Rockstar Slowed It Down",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRlBoT2RJdmdWdklWQUcxQkVLcjVXOWRwcjY5OU5UaWNFUG1VZXZqb3FRNGVUaDBrWEFabTg2N0ZtTTA3NEJrekMyOTRRZzBPV2tYRzB1V0xMZENEYkVra3pUVWFOM1l3VU9YZlU3bU85bklaTWtrWS1FbENkUUlkWDJnOVBia0tiS1VhQndiSGd0T0pMc3dRSTNn?oc=5",
+   "date": "2026-10-30T18:44:00.000Z",
+   "source": "HotHardware",
+   "summary": "GTA 6 Felt Too Fast For Its Own Detail So Rockstar Slowed It Down HotHardware"
+  },
+  {
+   "id": "gn-h1cubf",
+   "title": "#THAT 10/12/26 | NYC Comic Con Overview, GTA VI Album, The Social Reckoning",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMEVWbnNmdTFoeDJKT29FV1I3NllkYU5IWWxFWV9acGFDSF9WOFRjWDlXQkVyaFhCMU5rTFFIdlFhcDRFQ3QtNVBGUjJDVFdyVThTS2MzUHZ1c1AtZkM3bGwyWUZJWTY5cjNKNkRwbGpmeDMwQXBZOVh4VHQ2Q0lYX1djQzE1YTM1aEMyejlnOUdHLTJ2ajB6WjBFR240ZUp6OWc?oc=5",
+   "date": "2026-10-30T18:07:29.000Z",
+   "source": "Q30 Television",
+   "summary": "#THAT 10/12/26 | NYC Comic Con Overview, GTA VI Album, The Social Reckoning Q30 Television"
+  },
+  {
+   "id": "gn-orprkk",
+   "title": "Nine1Nine nightclub in \"GTA VI\" comes to life at E11even",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc09URFBkNFJBM0NGSzdaTHd4OGtOUHVhV05CVk9TbnJiM2RiTVo5ejBlR2NKdU93SW1jam1ncDRSRkRLLXQ4U2xWaWpXOFo1dVJXOGNNdUJxLW43VFdYaFJvSlJyRENFX1Excjd3QW9hX0lWN3RWYWpfdlkyVE9ycHRjUGt5VFdtRXhnM0dmM0RoNmltbEVoQjlIVXdDTmQyMlE?oc=5",
+   "date": "2026-10-30T17:57:36.000Z",
+   "source": "Miami New Times",
+   "summary": "Nine1Nine nightclub in \"GTA VI\" comes to life at E11even Miami New Times"
+  },
+  {
+   "id": "gn-1xda2t8",
+   "title": "Grand Theft Auto VI's graphics are noticeably more detailed than in 2023.",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelZsYXBQTEJGMVUxWTZGLVRMdVYybjdDYUJ6ZHlNVEJ2ZjEwZzZlZ0g1cXUzRk5TZ2lsdDQ5UjYtM1dpTG1BMW13TmVwZDlJd0hvMVllZE05bFZ2TnAxaUxXTjd6cjdPNzQwSk4xamtQVElLQ1Q0S21DZ0pJY2JYX2puYmVwU1BsY0lUSW9VU0NZaDM2QlhyUTJqOVNJMUxldlpDSjlwVjlCQVV1WGhN?oc=5",
+   "date": "2026-10-30T17:49:46.000Z",
+   "source": "GameGPU",
+   "summary": "Grand Theft Auto VI's graphics are noticeably more detailed than in 2023. GameGPU"
+  },
+  {
+   "id": "gn-1blz2nm",
+   "title": "GTA 6 launches November 19: platforms, prices, file size and other launch details",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMktMQlBpQmJPcVltbXFxUDhzV3Ntb3VUaE5PajFhX2JUWTJFVWVkbUVtZFhCOHF4SFJ4YXpmV3VtNVNma3luNW8yaURMZm5zVVVnUFNLOEZicjZTakttUHBzb1psRGlLMUlSQnloRnVJZTBydXNwWkVGdEEtNDJ4ZzJiWEpEbGZjUnp1TGhNWTluNlRIMFB2ZFY5NEJPUzQ?oc=5",
+   "date": "2026-10-30T17:40:16.000Z",
+   "source": "eGamers.io",
+   "summary": "GTA 6 launches November 19: platforms, prices, file size and other launch details eGamers.io"
+  },
+  {
+   "id": "gn-12eipjw",
+   "title": "ustice and Gesaffelstein Release New Collaboration 'Pusher' for GTA VI",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SMl9TcmNSUl96amNEaXJXTTRSWmlSSkpkbldubW51NExWZWhHdUlfN3JYTkstQU1Sclp6ZVk5Mk44MjRKV3NUUG9VckUxN0g3NWg3aFNQRUV1QXFCSzRub3ZMUmYtUWJwWlRkanhsa2NKbmNZ?oc=5",
+   "date": "2026-10-30T17:19:01.000Z",
+   "source": "Hit Channel",
+   "summary": "ustice and Gesaffelstein Release New Collaboration 'Pusher' for GTA VI Hit Channel"
+  },
+  {
+   "id": "gn-1p6v5vb",
+   "title": "Where to pre-order GTA 6 as Rockstar announces soundtrack on vinyl",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGFIME9kRGVBNDdDZ2xQVnd4NUYwMlJPUVNlamx3cEhjTzI5UXZSdnRITjlaNi13Qll3VXd5QWZxQWM1ZXVycVZ1Y29ZR20waW93OU9DMGxJdXNTUlYtUHZKcHpWZm5xcjFGXzB5Y01pNGZ6UWpiTXAyTzhoeHJzSmtlOU9BWHJVdVh3S1hjbE1TZTR6QUVrN2lFYXdyX2dnekFlazM5eGV2UzYza1g1OHE5MG1rZV9qUDY3cDByMjBrNnA2WDM0?oc=5",
+   "date": "2026-10-30T16:45:00.000Z",
+   "source": "The Independent",
+   "summary": "Where to pre-order GTA 6 as Rockstar announces soundtrack on vinyl The Independent"
+  },
+  {
+   "id": "gn-4l2sm7",
+   "title": "Should you buy a used PS5 for GTA 6?",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFZDFBOVA5Z05acXZ2cHNPUklLS0FtM1pHTUFSY25oYjVwQ1puMTdTT01aUXRXckYtempsZnNVYzljOW1CN29idWZIQ2JlMGY0N2gweFNhTGZsa1pIal9MYkFJdHY2UHFuTUF2VGxn?oc=5",
+   "date": "2026-10-30T16:31:18.000Z",
+   "source": "MakeUseOf",
+   "summary": "Should you buy a used PS5 for GTA 6? MakeUseOf"
+  },
+  {
+   "id": "gn-1imldvk",
+   "title": "What we know about GTA 6 animals so far",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tQlI5T2pBdjVrN2Rub3F6Z2doN2pfSmFrZkhoZmIxLTZSYVZscXp2Z1BiMkI0T1hEU29VTGJTOUtmV2Z0UlRPZmJkQUl1dWE4UmI4TUZsbkpQV1dxd0lPZnBnS3VrU3hlS2FsQVVSQUExdw?oc=5",
+   "date": "2026-10-30T16:31:14.000Z",
+   "source": "GamesRadar+",
+   "summary": "What we know about GTA 6 animals so far GamesRadar+"
+  },
+  {
    "id": "gn-18sd8xn",
    "title": "18 years later, GTA 6 redeems Grand Theft Auto's most annoying meme by turning it into something useful",
    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWTVrUFNCNW5WeVRObzdTZ0c1OG5nc2ZkU1hsaXhzVVhKQVYtcFg3VUwteC1PQ21DMGM3TWpjaDJTLUtZbHJRREZHRTdSUGJMRjFCdm9QV040d3ZuOFptak1GNjMzOThQNkpiRWg3VlRmRGZBOFJhMGwtTFV6T05keGE2UThhZHkyZHJDUEh2TGxoZE5XcGFTbXFoaGk4cGdwZzlXc3ZwX1FTUnJLS1BydklpRndNY243OUpjMUJLaHpLVGE5WlVxenVqRVY3c3ZOSy1MajFzSkpVbDRVay1xZkhodHdpRlU?oc=5",
@@ -253,11 +341,11 @@
   },
   {
    "id": "gn-fnogtn",
-   "title": "Miami's E11EVEN Club Becomes GTA 6's NINE1NINE for One Night on November 6",
+   "title": "Miami Club Will Transform Into GTA 6 Night Club NINE1NINE on November 6",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdGJhUkpVOHNZdGRkRVR5c1U4YWlBUEZIREh2ZWhkVlE5LWZFTmYzTTMzUnd2a2dvSHNlS3ZSVmFMMXQ0bEphb3lBTEdtd3NDeVRvNUthTWpBMVJDRjR1VE5ldUZPX1NORlp2MDlHaEV4d1o4c1ZqX2U5c2xpM0ZYaVVzOVNVM2NDUUk3aTVUTEhRZjFRY3VZMElOa3NWeEFTUHc?oc=5",
    "date": "2026-10-30T16:17:39.000Z",
    "source": "GTA BOOM",
-   "summary": "Miami's E11EVEN Club Becomes GTA 6's NINE1NINE for One Night on November 6 GTA BOOM"
+   "summary": "Miami Club Will Transform Into GTA 6 Night Club NINE1NINE on November 6 GTA BOOM"
   },
   {
    "id": "gn-hddpm1",
@@ -282,6 +370,14 @@
    "date": "2026-10-30T15:53:00.000Z",
    "source": "24/7 Wall St.",
    "summary": "Roblox Plunges 19% as Daily Users Shrink and GTA VI Clouds Holiday Outlook; Unity Drops 4%, Take-Two Dips 24/7 Wall St."
+  },
+  {
+   "id": "gn-14n9jv6",
+   "title": "GTA 6 map size is as big as GTA 4 plus GTA 5 plus Red Dead Redemption 2 with “an order of magnitude more interiors”, Rockstar confirms",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdnpZd0phaGVuZEFTbFU2UURsSUlHQi1oWlUzNzhjWnktbUk2TEJTdTlYRHRSQjVxaWQ4T1Z0ZmZCQUJrSEtvaTR2Y1pEZDc2SW90WmFSMWdZRjFuWm4yN2dHLU9nRVBDc3BSTGx1S3NGYW0zMS1JV1dOcGJSLTgyZHJyVQ?oc=5",
+   "date": "2026-10-30T15:38:24.000Z",
+   "source": "FRVR",
+   "summary": "GTA 6 map size is as big as GTA 4 plus GTA 5 plus Red Dead Redemption 2 with “an order of magnitude more interiors”, Rockstar confirms FRVR"
   },
   {
    "id": "gn-8354pm",
@@ -362,6 +458,14 @@
    "date": "2026-10-30T13:36:39.000Z",
    "source": "Insider Gaming",
    "summary": "How Long Until GTA 6 Comes Out? Release Date & Launch Times Insider Gaming"
+  },
+  {
+   "id": "gn-59l0lm",
+   "title": "GTA VI Set For November Debut As Justice Announce December Score Album – PLAYY. Magazine",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS2NBSzZnVTV3ejdBZ0FnZDJUQzVLOVVraVRrWE05Nl9JcVpfVjdhWlVvaEZ3NFFjSkFsMXJ5dDJrS2ZRVFlBTkZPV0RaVjFPTzMtNm0zaHU1YVZQVm1kUnNIUFQ2UG00ZGZKWUVHZFJEem83ckdITWlxb1AzYVFwQmZoR1BlQTZ6TXlUd01qVUhFbzc0T1pJZ0VJN0J1WVVT?oc=5",
+   "date": "2026-10-30T13:24:54.000Z",
+   "source": "PLAYY. Magazine",
+   "summary": "GTA VI Set For November Debut As Justice Announce December Score Album – PLAYY. Magazine PLAYY. Magazine"
   },
   {
    "id": "gn-lj5xk7",
@@ -556,14 +660,6 @@
    "summary": "Nearly one in three US gamers plan to buy GTA VI, setting a new industry record Notebookcheck"
   },
   {
-   "id": "gn-18hz8f2",
-   "title": "'South Park' shows new 'GTA 6' gameplay footage, and it's a turd",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVNPOVR4YmQ0M0pzU3N1aVJ5UHd1WGhia3lkNWloZTRmYzR5VER0YV9OZzdGQVlORFduaG11TnBZNlF0ZFFRRUtUWlVLQ3VlQmc0aE91WWdJZU5ub2F6RF9fT21xWFlROW5ZVjFtM0ZhMkcwdHpBc3lIVVcyQXB4UjBpVWYyZlVxeUtHd0tn?oc=5",
-   "date": "2026-10-30T05:09:06.000Z",
-   "source": "Mashable",
-   "summary": "'South Park' shows new 'GTA 6' gameplay footage, and it's a turd Mashable"
-  },
-  {
    "id": "gn-10ktqec",
    "title": "How the Jason and Lucia Relationship System Works in GTA 6",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWFRV3ZvNEFGQlhZWDNOb09HVmhiTE4xVXNMOXBxWjFTaFVQMlNMWC1admZsQW8xNzA3UzVwcWYyVkJqQy0zcTlUU0VDWE5MRTJMLWtwcThzN2duY0RDTHppSWFsSUZmemgyNlo0cUh5d0c0R1dXUnlSMHpzN05qM1oyaUVpQ0V1R2pB?oc=5",
@@ -589,11 +685,11 @@
   },
   {
    "id": "gn-doqo9v",
-   "title": "GTA 6’s Map Size and The 201-Mission Rumor, Explained",
+   "title": "GTA 6’s Map Is Nearly As Big As GTA 4, GTA 5 And Red Dead 2 Combined, Plus A 201-Mission Rumor",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWhkeWt6V1NsQXVDSjk0UTdOUWRmQ29IZHhEMzF3S1FGQ1RSa082anpET3hFRFk4aHBwMWlNX0NOX0Z2Y3E2c1lfX1BFZWpUeXoyZjJnX1JYUmdvLWVpSmNjSk84SmRRaHQ5ZjFIYkt5bEI3M01oejZ5VmhRTGxsTFdaWVFqZEo1Zkl4blI4eEtGdVFMdXpxNkxjSUxSeEE0VEZtU2lOVURGRHc2QkZWejQtOHhhRzlnNGVwdWJ3dnhQUWgxRVdmdWlnNHF1MnhtN1Nidi1uQVhQb29UNEE?oc=5",
    "date": "2026-10-30T04:13:58.000Z",
    "source": "Forbes",
-   "summary": "GTA 6’s Map Size and The 201-Mission Rumor, Explained Forbes"
+   "summary": "GTA 6’s Map Is Nearly As Big As GTA 4, GTA 5 And Red Dead 2 Combined, Plus A 201-Mission Rumor Forbes"
   },
   {
    "id": "gn-1c9tq81",
@@ -626,105 +722,17 @@
    "date": "2026-10-30T02:09:03.000Z",
    "source": "V13 Media",
    "summary": "Rockstar Games and Justice Share “Pusher” (feat. Gesaffelstein) off ‘GTAVI Original Score’ V13 Media"
-  },
-  {
-   "id": "gn-1fjiw9w",
-   "title": "GTA 6 Biggest Reveal Yet: New Gameplay, Screenshots, Mechanics, and World Details",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM1dLZkwta1BVUDhVX0t3STB5TlBfOERsWWFtMFRmUEd5T2FJUU1PbmllY1VCZlZ0YTdYNURfRS0zeTJweHF1d2hIVkx0S1ZzbGZCWF94MTR0TnprQzM0X3FubFJrdnJzMFhydzV6M3BnTjBRRGtoMGo0andaUXN6VkJnbl8teHBnUzNKYnNnYkY3U2c4ZkZva0VabHRwdmNkNHJDaHVBZkEtTVdkcXQ4?oc=5",
-   "date": "2026-10-30T01:52:51.000Z",
-   "source": "MMOEXP",
-   "summary": "GTA 6 Biggest Reveal Yet: New Gameplay, Screenshots, Mechanics, and World Details MMOEXP"
-  },
-  {
-   "id": "gn-1sgr1oe",
-   "title": "Justice's 'GTA VI: Original Score' Featuring 30 Tracks Releasing December 11",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMDVSQ0JLNXA3Y1NzNXo5aGFscnRqZHd2MTNCVVY1VTU5dHFPaUkwSEVDZ1I3YmpKTlhnRlRsdHpyUVZqYkFxN2NTdjI0a3htMXBKUFNCTmREcW93U1N0ZS1ycjViYjhiaDA1WEYwRzYzcTBhYVlvWnlNVUREV0FxeFE1cUVseGV1TXF0b0pkdWl5TnJDU0t0WTR4eXFQOWVhYWxjZUNveFVWZk5oTGRLVE42elhudw?oc=5",
-   "date": "2026-10-30T01:39:41.000Z",
-   "source": "Inven Global",
-   "summary": "Justice's 'GTA VI: Original Score' Featuring 30 Tracks Releasing December 11 Inven Global"
-  },
-  {
-   "id": "gn-1gxm567",
-   "title": "With GTA VI expected to come in at 210GB, here's how long it'll take to download on every NBN speed",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaEtaVGlRdGZyY3FXbS1HWUxCRGc0UHBlRHlyWXhDUnVsMTRySk1mdm84amI3ck9tdVFwSDhmWWhReW9nZjlyWmFMdmNGWFJpQ2FXbHlPeTN4RmV2RndyX0s1UVJRWlhPcmwyWkZiMHBOQ3RKcUxuaFVuVlJtNXkyampIamVLWGZSUVdQYkkwTW5JQXFmQ29ac3BLWHZZLXEwdk5RZThJMUZkZjBWOUdlODdlWGdUeFVwM3pRaE9MWEV2aWxSTk40NndMakE4WGt0VkhDUk5pM3R4RldNazRYcGF3?oc=5",
-   "date": "2026-10-30T00:55:36.000Z",
-   "source": "TechRadar",
-   "summary": "With GTA VI expected to come in at 210GB, here's how long it'll take to download on every NBN speed TechRadar"
-  },
-  {
-   "id": "gn-1s8nlcx",
-   "title": "GTA VI Reviewer Trap Rumor: 1 Insider, 0 Proof [2026]",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnMzNl9zOWV0emUwYmhBNnpPQUR5R3dRUHZiMzc0bXFJMU9aZUMyWDl6c2FnQksyb2RfWFFjdWxka2pHTUhCOXFGSnRiTk1pTVpyNnE5Q1pDSUdEUmxVTHoxUTdJemhWUDVLbWRFUmpKcTduYkcyaW1HaHoyaXFrSVVteHFKaHM?oc=5",
-   "date": "2026-10-30T00:50:36.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA VI Reviewer Trap Rumor: 1 Insider, 0 Proof [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-mz6zae",
-   "title": "Justice and Rockstar Games Announce the Epic Grand Theft Auto VI Original Score Album",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemYxWURHQ2lNZjBUSFJIbzVmbWVpS2hDVHR0bVV5N0ljV0FsUkVBNVZ2TDBaQXVHMm1Ncy1oRmc4LW1xOFVycG56OUh1U3pZVUxMNm50MG5WcjBGeTFzbHZyeG13M3JMTFphRGd4U2ZFZHY3Si0wQVllejhoc0kzazd4NGlwcnZhelRGZHpmalRCb2x3RWVWVUJscWExZjUyUWdhNlF1Nmljdk0?oc=5",
-   "date": "2026-10-30T00:50:27.000Z",
-   "source": "CULTR",
-   "summary": "Justice and Rockstar Games Announce the Epic Grand Theft Auto VI Original Score Album CULTR"
-  },
-  {
-   "id": "gn-14id2vv",
-   "title": "GTA VI Watermark Claim Denied: 1 Rumor Debunked [2026]",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXJYNEdudnhZd1d5czlIdHRaZ0RBazlRTE9aZXppRDFNc01xWkxLNEQxYmZrWGMwZ0VFWWxHYm50ZThtUUluMGMwMnp0U3hEZHp4dWtXbG1zNHRfMXUtYkI1THBWOWV2MFJGZDdnQkJDTnM0YUlwZW1yZ1E5bFRSVFd1VEt3amtuclJ6eEJXNWU?oc=5",
-   "date": "2026-10-30T00:40:32.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA VI Watermark Claim Denied: 1 Rumor Debunked [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-10n65xq",
-   "title": "GTA 6 Links Fuel, Car Trackers and Police Searches in Reactive Getaways",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NakV6dzJ3dDQ4VWM5bF8wTVNRZ1hMVmZXaGYtblVfdVhpVVBhWVQ3c1ZYYVF1dGxSQzFPLVdGSTB0VGRUM3dGLVQ2UEhYVnV1TG4xa2lfaXpuUUxXY0FlOUJtMmRRUnJlVEZ6UkphUFROYlFIaFdv?oc=5",
-   "date": "2026-10-30T00:35:11.000Z",
-   "source": "GTA BOOM",
-   "summary": "GTA 6 Links Fuel, Car Trackers and Police Searches in Reactive Getaways GTA BOOM"
-  },
-  {
-   "id": "gn-az65uj",
-   "title": "GTA VI 29% Intent Is Not Sales: 4 Limits [2026]",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQektObTBINXV5bTBCTFdEM09fREVNZnJQSTZFT0Mwd0RxUW02NlV1ZE9hRTlrTDVBSWpUUFV3YmdZczJLVUpZTGVpS3l5UjVXRmZNVzNtOGE4QnN3bkFMZmFnNG9VbHlmc0pHdnIya2hvcjA4QThlNWV1cWtWd0c3RkVfN2FfMjBu?oc=5",
-   "date": "2026-10-29T23:21:13.000Z",
-   "source": "shattered.io",
-   "summary": "GTA VI 29% Intent Is Not Sales: 4 Limits [2026] shattered.io"
-  },
-  {
-   "id": "gn-bfphu1",
-   "title": "Grand Theft Auto VI Original Score by Justice Releases December 11",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1NMb2xXa0M3MGRXemF6QnNOUnVnSlF6NUlQWnRCMm5aQm4tcFZhNjlqaXlBdk1qRU9NRGcwNDV2d0ZKV21Gb1lERlIyME5LT2VKYm9uZkliaXNZdl9EQU9hV2dzcEFmVWVQWk1MeE1taEpOQTRoT2FzVW1KVi1YOGo1R0tXTEhveFVBb1UycFpBQQ?oc=5",
-   "date": "2026-10-29T23:12:18.000Z",
-   "source": "MonsterVine",
-   "summary": "Grand Theft Auto VI Original Score by Justice Releases December 11 MonsterVine"
-  },
-  {
-   "id": "gn-1820wq8",
-   "title": "Rockstar Games & Justice Announce Grand Theft Auto VI: Original Score Album",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQzZEM29HR05BS3Jscm1KV0I5VzFzOEtXVjZ0UW0tRlI3SHQ5ZXpSQTJZazhBTGtlVWRPOTVZWlMtdFJqMHU0Y2VZb25mWENiUEE4NWRpZzl2SXdRREM2MDk5RTJ4aE41VlI4WjNZZUo3U2RycFlDaDA1UmxJNEdmckhEYlhlaFQ5MHozTVl6bm5iYmcw?oc=5",
-   "date": "2026-10-29T23:01:12.000Z",
-   "source": "Rave Jungle",
-   "summary": "Rockstar Games & Justice Announce Grand Theft Auto VI: Original Score Album Rave Jungle"
-  },
-  {
-   "id": "gn-1omptv",
-   "title": "Justice, Gesaffelstein Finally Collaborate on ‘Pusher’ For GTA VI",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sYnRCbmNTNncwamd4NjluUmhaemttRzJWenFXVlJkWTFOelZwTnJFOFF2X0YtRlc3UF83NDJjOENsWlh5bDEySEJkTmxvSVBITWxmOVlOOWN0YjNvMXVmRXVjUnJSSVpST1dxQW9vQ1U0ZlpaUGI5OXlXeEc?oc=5",
-   "date": "2026-10-29T22:59:35.000Z",
-   "source": "EDMTunes",
-   "summary": "Justice, Gesaffelstein Finally Collaborate on ‘Pusher’ For GTA VI EDMTunes"
-  },
-  {
-   "id": "gn-1cnk65u",
-   "title": "GTA 6 Download Size Is 210GB, and There’s No Disc in the Physical Box",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVU9mc0NtSHJIaXViUHRaTUtiTDRBYlJGSFBUcmRaTkFXT0FfN3p4UVotampDLWJSYjRsRDBuM1doUk94THdOcWZPb2JIcloweWd3R1lzSG4xd3BCYzFkR0JQdzZ5Mk05QzJZRjRuUmlUSnBBV1ZCOEZETE1OdTVEd2NVS0E?oc=5",
-   "date": "2026-10-29T22:59:00.000Z",
-   "source": "Shane the Gamer",
-   "summary": "GTA 6 Download Size Is 210GB, and There’s No Disc in the Physical Box Shane the Gamer"
   }
  ],
  "community": [
+  {
+   "id": "rd-1qr73hb",
+   "title": "All GTA6 icons CONFIRMED from trailers",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjnvof/all_gta6_icons_confirmed_from_trailers/",
+   "date": "2026-10-30T18:49:47.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Deciple_Gta6 [link] [comments]"
+  },
   {
    "id": "rd-1558zc6",
    "title": "A look behind the scenes of the filming crew in Miami",
@@ -756,6 +764,14 @@
    "date": "2026-10-30T14:31:16.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Boogla19981 [link] [comments]"
+  },
+  {
+   "id": "rd-nup1ds",
+   "title": "Billboard going up in LA",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjgyem/billboard_going_up_in_la/",
+   "date": "2026-10-30T14:31:14.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/dirtylooey [link] [comments]"
   },
   {
    "id": "rd-yxxhr3",
@@ -1028,22 +1044,6 @@
    "date": "2026-10-29T11:28:17.000Z",
    "source": "r/GTA6",
    "summary": "Trying to turn the screenshot into poster with different design style. It’s already 14 days since I started, making one every day. Here’s my top 3 that I personally like. submitted by /u/Zhomurai [lin"
-  },
-  {
-   "id": "rd-jb6vj",
-   "title": "500 hours away!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xihb64/500_hours_away/",
-   "date": "2026-10-29T11:24:59.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Fast-Composer-6900 [link] [comments]"
-  },
-  {
-   "id": "rd-1h0u4v9",
-   "title": "In Osaka, Japan",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xigcao/in_osaka_japan/",
-   "date": "2026-10-29T10:33:07.000Z",
-   "source": "r/GTA6",
-   "summary": "Was put up today or yesterday. For sure wasn’t there 2 days ago. submitted by /u/HP_Fara [link] [comments]"
   }
  ]
 }
