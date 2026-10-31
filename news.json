@@ -1,28 +1,28 @@
 {
- "generated": "2026-10-31T00:37:06.083Z",
+ "generated": "2026-10-31T06:34:38.300Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 10,
    "scanned": 40,
-   "checked": "2026-10-31T00:37:06.083Z"
+   "checked": "2026-10-31T06:34:38.300Z"
   },
   "youtube": {
    "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-31T00:37:06.083Z",
+   "checked": "2026-10-31T06:34:38.300Z",
    "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
-   "count": 100,
-   "checked": "2026-10-31T00:37:06.083Z"
+   "count": 102,
+   "checked": "2026-10-31T06:34:38.300Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-31T00:37:06.083Z"
+   "checked": "2026-10-31T06:34:38.300Z"
   }
  },
  "official": [
@@ -245,12 +245,68 @@
  ],
  "press": [
   {
+   "id": "gn-1b97rq8",
+   "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRUtCTnhoS0hrQk43cjh5dHhfWkpSa3E3cTlCR1ZfNkx1Z2JvMW9nY3JRelpfNWRhQ2RnSVhPbEZ5R3EtT0VCVDYzNTVlQjRtS0JwLTV0NzgxalJVQ2pOLWtnT1B3SDI4Q3JKUHdHTldoMmR0LTd6cFlodnA0dTdEM1R3akV5aDdMbm9IVVRVeFBMSmg3MVFGTTdmaV9NM1VSYjhpT3FRSl9LaHRkY3JGOHA5V0w4cUZBYkhrV0NQSXZ1M2RlRWd2cDl1R1A5Z09nTk93UHhfNE5JMG1MY2N1bnhxVlJ4Qk9Ga2c?oc=5",
+   "date": "2026-10-31T04:30:00.000Z",
+   "source": "MarketWatch",
+   "summary": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore MarketWatch"
+  },
+  {
+   "id": "gn-1y20p90",
+   "title": "5 Must-Play New Xbox Games Coming in November, Including GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VVThNQUlzamdlTEJVaVc1ODNOYnR3R2JLemlHLUNWblJ1ek0xUXh3bkhYQTh2cHF0ek1wZll6UmxWb0h6WHRhOEVBZFZSNFBtUHhLQ0FSR2JaMzV5LVN3M0VFcw?oc=5",
+   "date": "2026-10-31T04:00:18.000Z",
+   "source": "Polygon.com",
+   "summary": "5 Must-Play New Xbox Games Coming in November, Including GTA 6 Polygon.com"
+  },
+  {
+   "id": "gn-11rdanr",
+   "title": "GTA 6 to Feature a Red Dead Redemption 2 Style Morality System",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ1ZNYm0yVTZIQk5GVkdMeHF6NUlWNWtobmpsbklyaE80b01MWDFaNTIzckNfYlloZzhtVWhTLUZHcXVwbWdydzRvQkMySm5nYnkwN2Q2c0tYRDM5Z0tXdzJJdmxNTXRUdFpnUVVYYVhyQzVMUDFDS0wtZDN6emFDdHVKQ3IwYVN1bnppRURWSzFibEpCMVlZaThUVW8?oc=5",
+   "date": "2026-10-31T03:47:51.000Z",
+   "source": "OpenCritic",
+   "summary": "GTA 6 to Feature a Red Dead Redemption 2 Style Morality System OpenCritic"
+  },
+  {
+   "id": "gn-vc9q5t",
+   "title": "Real buildings from the town of Gay, Georgia, have been discovered in Grand Theft Auto VI.",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1A2Mi1SRlljdk5fa014SXN4c0tSVVV0LVlsZVlGV3REdjZXSkVJMTdJSWdnWktYbGFkU05nMWtCMm9rTXRTc1RCZlF3a3VNNGtYNXVpb1lGdGQyZU50NjhWd3phVEZVTjY3UjRMRTdDS3FGaGZ3b1Z1anRXT3RmQVpRY3hEZFdHMUJDd2ZOdS1tWV9OSjM2Tk01NnlaaWZMN2REaGFFOA?oc=5",
+   "date": "2026-10-31T03:16:50.000Z",
+   "source": "GameGPU",
+   "summary": "Real buildings from the town of Gay, Georgia, have been discovered in Grand Theft Auto VI. GameGPU"
+  },
+  {
+   "id": "gn-248e9x",
+   "title": "GTA 6 New Details Revealed: Dynamic Weather, Police Dogs, Public Transport, and More",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeXhPX0ZjZEJ1QUlPWnUzRGk1WTBEb21INTRvMTlFb0tySlozcGFwbUhiQk4wbHZPS3FPcGpBb1BVbXd0ZUVweFN5VzdXV3AyajFrR2Q0WmhMVHlXckZFaEZDTWNqZHNhTkx4bkwwQ1dsWEJHbkk5WHpFOXBVX0dNTk95MjE2YVBGd2l5Qjd4NE1kX2lqTlFBNFZFTnY3OEUweFpnWGpxMjJkelk2VWYxdUd2bw?oc=5",
+   "date": "2026-10-31T02:50:03.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 New Details Revealed: Dynamic Weather, Police Dogs, Public Transport, and More MMOEXP"
+  },
+  {
+   "id": "gn-1hzqpgb",
+   "title": "GTA 6 25-Minute Leak: 19 Days Out, What Holds [2026]",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWRLU1JmbkMtdjJrOWliRTk1TXZJbmZVWEljM3pZLTA2eXg4a2lsZnREMU1ha0tNVmktVXdfLVQ1TUkyQXp0QjFLS1hIRmN6VUNlRUpkZ2pOOGliRkR3cXV1N2FJclhEQkxYbUk1dVZILWp6OTJBZzl6RHRjbWFBYUlqZw?oc=5",
+   "date": "2026-10-31T01:51:39.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 25-Minute Leak: 19 Days Out, What Holds [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-1supk9y",
+   "title": "GTA 6 to Feature a Red Dead Redemption 2 Style Morality System",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DbmI4V1o1cVlvSDlXRWNOZ2dfOXNyUWtIZ01ZT2tvUzZ4eXNJYkhtN3ZLZjRqWmJKaF9SemhRbVpKckVJUTBjbkJ4LW5zdW5xMHdTUldkcE9qTV9sOFZXc3ZOcElXY3A5cWdpc0E2OTdqbVZ0WVo4Y3lDTnBqQQ?oc=5",
+   "date": "2026-10-31T01:34:00.000Z",
+   "source": "DualShockers",
+   "summary": "GTA 6 to Feature a Red Dead Redemption 2 Style Morality System DualShockers"
+  },
+  {
    "id": "gn-u95e16",
    "title": "GTA 6: 12 New Screenshots Leave Vice City [2026]",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1JiNmdGVHBuUEU4X1I4Z1ROYXRKUy1NS2JsZWhOQUVnTUdzcGlDZXVRd0pTLTZ5TTRJUmpmb3Y1VWRkS1NCbjdIN05HV3JMa3U2b1B3OXFYeW1Yc0w4QVBnYndPbnZkNHRLRTJrc1FVUjdqM2hNU2YtUVJRRkZfWlZhS1Jfd0lR?oc=5",
    "date": "2026-10-31T00:32:15.000Z",
-   "source": "tech-insider.org",
-   "summary": "GTA 6: 12 New Screenshots Leave Vice City [2026] tech-insider.org"
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6: 12 New Screenshots Leave Vice City [2026] https://tech-insider.org/"
   },
   {
    "id": "gn-z7sqlr",
@@ -267,6 +323,14 @@
    "date": "2026-10-30T23:40:44.000Z",
    "source": "eGamers.io",
    "summary": "Justice’s three-hour Grand Theft Auto VI score is up for pre-order ahead of a December 11 release eGamers.io"
+  },
+  {
+   "id": "gn-ic0zon",
+   "title": "This Book Release Is Basically GTA 6 Launch For Thirsty Women, And Larian Knows It",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMWdGRmJMMlBSMmhpWnVpMkNwQU5Dbk1mM1dnVUF4S2JrcGFua3A1ZWNtWGdhYnJhZkp2aUxMSUxTekRvVVVFeHRXWjMzMnotclVJbC1ybDktNEU0a1V4WWlSZFlaOXl4OGl2OGd0Wk5TQ1p3TDA3U1dRc3JHWElwUHlUQXNvbnk2QWRtdmtUY0g4eEZ1bkZmTFViekVrVV9qSEhOMlc0LXRydHN2U1ZKOGE4THFITkU?oc=5",
+   "date": "2026-10-30T23:24:28.000Z",
+   "source": "GameSpot",
+   "summary": "This Book Release Is Basically GTA 6 Launch For Thirsty Women, And Larian Knows It GameSpot"
   },
   {
    "id": "gn-1htski0",
@@ -435,6 +499,14 @@
    "date": "2026-10-30T15:07:34.000Z",
    "source": "Android Headlines",
    "summary": "GTA 6 purchase intent is high among US PC and console gamers Android Headlines"
+  },
+  {
+   "id": "gn-1dfdp87",
+   "title": "Roblox Plunges 19% as Daily Users Shrink and GTA VI Clouds Holiday Outlook; Unity Drops 4%, Take-Two Dips",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmRYdmY5SFZmdXhOWkhHdUpNdkJGbEwzZ0lWdnNGcVZRMHFmcU5QUmppcWRXQWF0djEtMU9Ic2lJTmVaUGJYRU9STHgtNTlQS3JYNGExcDBvYmVKT25KcUotSG9VbkphN1VZTElXaW05dmJaNmx5U2E0VWsxTXlTYmdKV0pwSW5PMXZrQ1pYY2puMDVJUTVsLUN3?oc=5",
+   "date": "2026-10-30T14:53:04.000Z",
+   "source": "Yahoo Finance",
+   "summary": "Roblox Plunges 19% as Daily Users Shrink and GTA VI Clouds Holiday Outlook; Unity Drops 4%, Take-Two Dips Yahoo Finance"
   },
   {
    "id": "gn-1yi2l1g",
@@ -651,81 +723,41 @@
    "date": "2026-10-30T07:34:10.000Z",
    "source": "USI | student newspaper",
    "summary": "GTA 6 brings players back to Vice City USI | student newspaper"
-  },
-  {
-   "id": "gn-bfdoq5",
-   "title": "‘South Park’ Dropped New ‘GTA VI’ Gameplay Featuring a Dog Poop Fight on Vice Beach",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDR4OWhhdnA3ZmE3czMxX1R2R2NraHI2R3Y0VG9LLVRwRUR1dTdIbm43SEhTaE9uVS1ETDF0MHlaeS1DNWZpQTFRenVyd09zWWJpTWxOZktmVjIyd1V3VEdpN2dNX0FwVDFRMVZNS0hubUpFN0dHaUJ6VUhtN1hMaUhoWEk0enNrWkJoeHlKenpSZXdNREVkemp4bw?oc=5",
-   "date": "2026-10-30T06:57:36.000Z",
-   "source": "Hypebeast",
-   "summary": "‘South Park’ Dropped New ‘GTA VI’ Gameplay Featuring a Dog Poop Fight on Vice Beach Hypebeast"
-  },
-  {
-   "id": "gn-148w2rg",
-   "title": "GTA 6 Marketing Continues in Miami as New Soundtrack Details Reveal 50 Tracks",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wSE9oOGJOcGhLNzM4MWtfeUMwLXhnMFdzVktQZEw4dDQwWFpMc19tbkNmN3dsbTlEX1dfUkZEV3JkWnFNcEI4YlhkRkZNMTd2bTBhU01ob2FqYndvbWhwZFdmTXR0c3VGVXdROWRFTQ?oc=5",
-   "date": "2026-10-30T06:40:16.000Z",
-   "source": "NoobFeed",
-   "summary": "GTA 6 Marketing Continues in Miami as New Soundtrack Details Reveal 50 Tracks NoobFeed"
-  },
-  {
-   "id": "gn-cpttcw",
-   "title": "French duo Justice created a dynamic soundtrack for Grand Theft Auto VI.",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQVVFbkk4Xzc0UlZuQTJVcW4xanQwZW1UZjBWYWdKRlVmYWlhTkI1WTVJR3JuRDBSWVJ0SFpGMF9MNW9TZVZnVkR2NDg4SnZKM0hCQmNTSkVvUk5FNzVWeG9UTkxZaFFwNG0yamJEaEFJZ1dtRzVjNFRGdzZad2VuR3IyZWV2dU5qMVhCR3FESmZMM1pvX3hlOXF6ajVWTF9KM2xqZlFZOFk3bERvck00MFczOTc?oc=5",
-   "date": "2026-10-30T05:54:36.000Z",
-   "source": "GameGPU",
-   "summary": "French duo Justice created a dynamic soundtrack for Grand Theft Auto VI. GameGPU"
-  },
-  {
-   "id": "gn-1rahyj2",
-   "title": "GTA 6 posts record purchase intent as nearly one in three US gamers plan to buy it",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa09lbHZGdk5tNVJ1NXUwelZaX0lPakRIUEhJaXQteEhJSUgzbF9KaENPeHFtMHdVY3ZSLU8ycDF6M1lhY3NCSVRBODg1SWxyR3lmdTNZZ21uYXp1SEo2X2VKc3RPb0JzV0Z4U0RVNU1TWkJHZnQyeVZyMVBnRHB4MTR5Y1JMOXM2d284bnpONTM2TmJqdmNGdjBaNm0talVUamlpc2RKZGlNaFVDSHd3ckVYSS1JX2VHMEtISV9Mbk5OYUh5VHc?oc=5",
-   "date": "2026-10-30T05:50:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "GTA 6 posts record purchase intent as nearly one in three US gamers plan to buy it Notebookcheck"
-  },
-  {
-   "id": "gn-yggvnq",
-   "title": "Nearly one in three US gamers plan to buy GTA VI, setting a new industry record",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPanVTX2hWdXNaNklBSWtIUkQ1YVlOUTR5cWoxRFVzdnZSQTBWVncxaDcwTTVjRC0wVU1NRmFKUmYwR2UtMnlYMzhLWEo2dWFhR25XakNFN0Z4ZWpqbVdmbGs5NFpKelN4QkJ5TVZLLW5CNVpNQUhUal9JajZVc2R5X3Jib25QRllBWFNkWHR5ZENUYXZBV3c2T3hEMHRub0NycWRGbmhyeW9Ta3ZQUnZ5UEFBdFVQeGRMZWNBclRQLUQ?oc=5",
-   "date": "2026-10-30T05:50:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "Nearly one in three US gamers plan to buy GTA VI, setting a new industry record Notebookcheck"
-  },
-  {
-   "id": "gn-10ktqec",
-   "title": "How the Jason and Lucia Relationship System Works in GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdWFRV3ZvNEFGQlhZWDNOb09HVmhiTE4xVXNMOXBxWjFTaFVQMlNMWC1admZsQW8xNzA3UzVwcWYyVkJqQy0zcTlUU0VDWE5MRTJMLWtwcThzN2duY0RDTHppSWFsSUZmemgyNlo0cUh5d0c0R1dXUnlSMHpzN05qM1oyaUVpQ0V1R2pB?oc=5",
-   "date": "2026-10-30T05:02:14.000Z",
-   "source": "GTA BOOM",
-   "summary": "How the Jason and Lucia Relationship System Works in GTA 6 GTA BOOM"
-  },
-  {
-   "id": "gn-uisdum",
-   "title": "GTA VI Is Exactly One Month Away. The Final Trailer Looks Awesome",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5uQldTX3N3ZkxGN3J0cTBxbkZkc2cxT3dXY2gxdWhqRGdZeVBSZlZpb2tLZlpOTVMwYnFIQTJvOXZaV1pXdC1lNTA3YU9TeExJMGw0SllqR0l5M3RURnNCQmN6bFhnNjFRVDZlNERndEhuRk5Va3Nn?oc=5",
-   "date": "2026-10-30T04:48:12.000Z",
-   "source": "Motor1.com",
-   "summary": "GTA VI Is Exactly One Month Away. The Final Trailer Looks Awesome Motor1.com"
-  },
-  {
-   "id": "gn-423ly5",
-   "title": "Viral GTA 6 Watermark Leak Claim Debunked by Two Insiders",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWtVeU9wWXU3ci1pRzFQdWFKWU5xX0h1ZVM3LTgyYUtJUUV2d3FEZWVqSWQ3VnZsLXBBWGdBTjhrVlY2NEpqdk00c3VYMm1FLTZIVlZHb1VsWVFsOENBZEE3QzJzeUNySXd1dVktMlZJVy1rQTBNaDN5TDVvcG9ERXRQQWxXYlA5MWw3WVpJUmxKb0pCMFNkcXZB?oc=5",
-   "date": "2026-10-30T04:20:33.000Z",
-   "source": "GTA BOOM",
-   "summary": "Viral GTA 6 Watermark Leak Claim Debunked by Two Insiders GTA BOOM"
-  },
-  {
-   "id": "gn-doqo9v",
-   "title": "GTA 6’s Map Size and The 201-Mission Rumor, Explained",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWhkeWt6V1NsQXVDSjk0UTdOUWRmQ29IZHhEMzF3S1FGQ1RSa082anpET3hFRFk4aHBwMWlNX0NOX0Z2Y3E2c1lfX1BFZWpUeXoyZjJnX1JYUmdvLWVpSmNjSk84SmRRaHQ5ZjFIYkt5bEI3M01oejZ5VmhRTGxsTFdaWVFqZEo1Zkl4blI4eEtGdVFMdXpxNkxjSUxSeEE0VEZtU2lOVURGRHc2QkZWejQtOHhhRzlnNGVwdWJ3dnhQUWgxRVdmdWlnNHF1MnhtN1Nidi1uQVhQb29UNEE?oc=5",
-   "date": "2026-10-30T04:13:58.000Z",
-   "source": "Forbes",
-   "summary": "GTA 6’s Map Size and The 201-Mission Rumor, Explained Forbes"
   }
  ],
  "community": [
+  {
+   "id": "rd-9z1dfz",
+   "title": "Fun Fact - You can now see the giant welcome to VC sign on Kaseya Center on Google Earth",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjzzb1/fun_fact_you_can_now_see_the_giant_welcome_to_vc/",
+   "date": "2026-10-31T03:38:27.000Z",
+   "source": "r/GTA6",
+   "summary": "I thought this was so cool. Hopefully Google earth gets updated with all the other GTA VI marketing photos too. submitted by /u/Sakya22 [link] [comments]"
+  },
+  {
+   "id": "rd-1cytnqj",
+   "title": "How many hours straight are you planning to play during your first session?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjzf87/how_many_hours_straight_are_you_planning_to_play/",
+   "date": "2026-10-31T03:09:19.000Z",
+   "source": "r/GTA6",
+   "summary": "We all know most of us are taking some time off work/school/kids to give us some real quality time with the game. But what I haven’t seen asked as much is just how long your first session will be. For"
+  },
+  {
+   "id": "rd-1n0wcbx",
+   "title": "Guns actually show now",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjxp1v/guns_actually_show_now/",
+   "date": "2026-10-31T01:41:49.000Z",
+   "source": "r/GTA6",
+   "summary": "I can't believe I just noticed this, I'm not sure if its only for NPCs but cool nonetheless. If he's wearing a top will it just be invisible or you can still see the outline of it? submitted by /u/Wei"
+  },
+  {
+   "id": "rd-1p3fpm6",
+   "title": "I love the marketing for this game I actually got to try the GTA 6 beer",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjurvk/i_love_the_marketing_for_this_game_i_actually_got/",
+   "date": "2026-10-30T23:28:53.000Z",
+   "source": "r/GTA6",
+   "summary": "It wasn’t as expensive as I thought it’s $20 per back and way less people than I anticipated submitted by /u/gzg_17 [link] [comments]"
+  },
   {
    "id": "rd-1f4fipw",
    "title": "Article of the Day #59: Morgan Revolver",
@@ -733,6 +765,22 @@
    "date": "2026-10-30T22:49:26.000Z",
    "source": "r/GTA6",
    "summary": "As first revealed in June, the Morgan revolvers that come with the Ultimate Edition notably contain references to the release dates of GTA Vice City (October 29, 2002) and GTA Vice City Stories (Octob"
+  },
+  {
+   "id": "rd-1trftxu",
+   "title": "Lower Saxony, Germany, recognized an educational course that allows employees to play GTA6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjtr5a/lower_saxony_germany_recognized_an_educational/",
+   "date": "2026-10-30T22:44:28.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Extreme-Shopping74 [link] [comments]"
+  },
+  {
+   "id": "rd-1ox34x2",
+   "title": "Living in vice city is amazing",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjtf3w/living_in_vice_city_is_amazing/",
+   "date": "2026-10-30T22:30:05.000Z",
+   "source": "r/GTA6",
+   "summary": "Less than 20 days away and miami transformed 😆 submitted by /u/tremayne0127 [link] [comments]"
   },
   {
    "id": "rd-9o8p1u",
@@ -997,54 +1045,6 @@
    "date": "2026-10-29T18:58:40.000Z",
    "source": "r/GTA6",
    "summary": "Hello everyone! We wanted to let you all know what the plan is for the subreddit on launch day regarding spoilers and bugs. Since this is likely going to be a staggered release by time zone we can't b"
-  },
-  {
-   "id": "rd-vmujf5",
-   "title": "Halloween Greetings from Leonida",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xipamh/halloween_greetings_from_leonida/",
-   "date": "2026-10-29T16:48:14.000Z",
-   "source": "r/GTA6",
-   "summary": "Here is my Pumpkin that I made for this years Halloween 🎃. Hope you like it. submitted by /u/R3dd5 [link] [comments]"
-  },
-  {
-   "id": "rd-6y5wcw",
-   "title": "GTA 6 will feature Gay buildings",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xioro3/gta_6_will_feature_gay_buildings/",
-   "date": "2026-10-29T16:28:56.000Z",
-   "source": "r/GTA6",
-   "summary": "Discovered by our affiliated GTA 6 Mapping Project, the Town of Gay is known for hosting the biannual Cotton Fair in Georgia. In-game, this area seems to be located within Lummox County , GTA 6's vers"
-  },
-  {
-   "id": "rd-1rafak1",
-   "title": "The Goodtime State – Vice City™ Collection is ready for release",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xioo1g/the_goodtime_state_vice_city_collection_is_ready/",
-   "date": "2026-10-29T16:25:16.000Z",
-   "source": "r/GTA6",
-   "summary": "Rockstar Games has begun sending out upcoming charge notices for GTA VI Collector’s Box pre-orders. Payments may be processed within the next few days to few weeks. Ensure your payment details are acc"
-  },
-  {
-   "id": "rd-1wv1yeu",
-   "title": "Yes the marketing is dogshit",
-   "url": "https://www.reddit.com/r/GTA6/comments/1ximoba/yes_the_marketing_is_dogshit/",
-   "date": "2026-10-29T15:12:15.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/transparent_slime [link] [comments]"
-  },
-  {
-   "id": "rd-1cvvy1b",
-   "title": "Rockstar will always deliver",
-   "url": "https://www.reddit.com/r/GTA6/comments/1ximbwl/rockstar_will_always_deliver/",
-   "date": "2026-10-29T14:59:48.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Pistoluislero [link] [comments]"
-  },
-  {
-   "id": "rd-1fzqag6",
-   "title": "Edge Magazine Preview Screengrabs",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xil1k3/edge_magazine_preview_screengrabs/",
-   "date": "2026-10-29T14:09:31.000Z",
-   "source": "r/GTA6",
-   "summary": "For those of you who cannot find Edge Magazine, or don't want to subscribe to Gamesradar, I'm sharing the article here. I hope this gets you all even more hyped for the release. submitted by /u/Intern"
   }
  ]
 }
