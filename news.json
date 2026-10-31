@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-30T20:59:38.278Z",
+ "generated": "2026-10-31T00:37:06.083Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 10,
    "scanned": 40,
-   "checked": "2026-10-30T20:59:38.278Z"
+   "checked": "2026-10-31T00:37:06.083Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-30T20:59:38.278Z"
+   "checked": "2026-10-31T00:37:06.083Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
-   "count": 102,
-   "checked": "2026-10-30T20:59:38.278Z"
+   "count": 100,
+   "checked": "2026-10-31T00:37:06.083Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-30T20:59:38.278Z"
+   "checked": "2026-10-31T00:37:06.083Z"
   }
  },
  "official": [
@@ -244,6 +245,38 @@
  ],
  "press": [
   {
+   "id": "gn-u95e16",
+   "title": "GTA 6: 12 New Screenshots Leave Vice City [2026]",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1JiNmdGVHBuUEU4X1I4Z1ROYXRKUy1NS2JsZWhOQUVnTUdzcGlDZXVRd0pTLTZ5TTRJUmpmb3Y1VWRkS1NCbjdIN05HV3JMa3U2b1B3OXFYeW1Yc0w4QVBnYndPbnZkNHRLRTJrc1FVUjdqM2hNU2YtUVJRRkZfWlZhS1Jfd0lR?oc=5",
+   "date": "2026-10-31T00:32:15.000Z",
+   "source": "tech-insider.org",
+   "summary": "GTA 6: 12 New Screenshots Leave Vice City [2026] tech-insider.org"
+  },
+  {
+   "id": "gn-z7sqlr",
+   "title": "Rockstar announces free GTA Online DLC you can claim right before Grand Theft Auto 6 comes out",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVQxMlMwSzdOOEFvQ1o4V1BOcVFGM2p2MklDVjdxbHdTZDY5V2RYM1hDWUhDTE9tVE9OUThrVzROLXZtblpPZWJoSnJLSDlVdktJZ2Fjb29qMUlfVl9OS0oybWRZWVRINkM2RkF5aHRmcnpDZ1Z5S05XV1licE4ycDdMVGRaUzZfa0d0WXJxQ3Y?oc=5",
+   "date": "2026-10-31T00:00:00.000Z",
+   "source": "GAMINGbible",
+   "summary": "Rockstar announces free GTA Online DLC you can claim right before Grand Theft Auto 6 comes out GAMINGbible"
+  },
+  {
+   "id": "gn-jp1sf",
+   "title": "Justice’s three-hour Grand Theft Auto VI score is up for pre-order ahead of a December 11 release",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGFQUjdfaF93aElJalc5NjkwWE13ZjlxVzhXLTZjNFZmcjFNU2ljWV85VWQ0eS1aaDVnanM1cVBRYndscm9lUlhPYXJlbGkxcUk5REhrem9mdGpQSXJwaHVsYzhpbE90Z2tzbkpkUWdLdEMwX2tub3dRc3dVeHJpY2d1b1NMTVc2ZC04REgyMHVQX1VIdUM1a0xjM0l0bVM3ZkpKWldxeVkxQUtCQmx5czdWQm5tMkU?oc=5",
+   "date": "2026-10-30T23:40:44.000Z",
+   "source": "eGamers.io",
+   "summary": "Justice’s three-hour Grand Theft Auto VI score is up for pre-order ahead of a December 11 release eGamers.io"
+  },
+  {
+   "id": "gn-1htski0",
+   "title": "Miami's Famous E11even Nighclub Will Transform Into GTA VI's Nine1Nine Club For One Night",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcEh1VW52YlMyRG5FYThXN2dTeUhuUHBtTEhrRFJDT2xLNEM0a25Pa2hTQno1ZTRic1RNLWoxMmlERWwxTUtydkwyZ29ZN0lTcHB0VW4zQ0s0UXNLR0lJQ2tLWHlXOGNlMF9Uby1YU2c3b3BjTHJPS2FuRENfZW4yQlJqeVdJS29zVklLN2pVMnpmRy1vajZTei0wN2w4N2ozeE9EQjFiZ3RQT1NwMzQ3bjFEV0x6b2Mwd0hvZm5zVnNVdzA?oc=5",
+   "date": "2026-10-30T23:17:17.000Z",
+   "source": "BroBible",
+   "summary": "Miami's Famous E11even Nighclub Will Transform Into GTA VI's Nine1Nine Club For One Night BroBible"
+  },
+  {
    "id": "gn-1xe7l9w",
    "title": "Grand Theft Auto VI: Original Score by Justice",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwOFFZMWxSWGUwUnRXRUQ1b0hMZnB3Zmw2MWlDSDFvRUI1T29ZWTdtOGxTTkJ6TkN5MG44eTRxZWlJMy16RTdzNUR3UC1xNTZRbktFX2lWVkRPX19ULVJleHFvb05nRnJGMGcwSGw2WHBLS29jazJF?oc=5",
@@ -352,8 +385,8 @@
    "title": "What Happens If You Cancel Your GTA 6 Preorder?",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NSGVUMFJmanEzYzhheVVwc1ptX09PdHBqLVRIVC05Nm1EdlRFU0RSMXpaS0FBYUdYNTljUVAxSHhmX1M2MmpqRmhqS0I2NFRyVFVLMXY5UkhHTDlLbV9JeUk2aVRTVHVBXzVUbkw4akU?oc=5",
    "date": "2026-10-30T16:00:00.000Z",
-   "source": "www.svg.com",
-   "summary": "What Happens If You Cancel Your GTA 6 Preorder? www.svg.com"
+   "source": "SVG",
+   "summary": "What Happens If You Cancel Your GTA 6 Preorder? SVG"
   },
   {
    "id": "gn-v7o7zz",
@@ -389,11 +422,11 @@
   },
   {
    "id": "gn-1u627lo",
-   "title": "Cliff Richard GTA 6: 1976 Hit, No Idea What It Is [2026]",
+   "title": "Cliff Richard Has No Idea What GTA VI Is: 1976 Hit [2026]",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTV9DUVFfR0NJOENSeUs3UnpRcThZMEhhaFQycVNibWU5MHVmZjhRbzJYRFZVZ3FkTWR2elRxd3dNTTM3SEdmTC1mMjM1a2ZGRFpJR2ZwdDJ2dzduT3VHTTJiNU8yVlVtSndxX19PNkRMc0loTnlMY3RyOWlBUXp0OXRR?oc=5",
    "date": "2026-10-30T15:10:24.000Z",
    "source": "https://tech-insider.org/",
-   "summary": "Cliff Richard GTA 6: 1976 Hit, No Idea What It Is [2026] https://tech-insider.org/"
+   "summary": "Cliff Richard Has No Idea What GTA VI Is: 1976 Hit [2026] https://tech-insider.org/"
   },
   {
    "id": "gn-k2e90",
@@ -685,46 +718,62 @@
   },
   {
    "id": "gn-doqo9v",
-   "title": "GTA 6’s Map Is Nearly As Big As GTA 4, GTA 5 And Red Dead 2 Combined, Plus A 201-Mission Rumor",
+   "title": "GTA 6’s Map Size and The 201-Mission Rumor, Explained",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTWhkeWt6V1NsQXVDSjk0UTdOUWRmQ29IZHhEMzF3S1FGQ1RSa082anpET3hFRFk4aHBwMWlNX0NOX0Z2Y3E2c1lfX1BFZWpUeXoyZjJnX1JYUmdvLWVpSmNjSk84SmRRaHQ5ZjFIYkt5bEI3M01oejZ5VmhRTGxsTFdaWVFqZEo1Zkl4blI4eEtGdVFMdXpxNkxjSUxSeEE0VEZtU2lOVURGRHc2QkZWejQtOHhhRzlnNGVwdWJ3dnhQUWgxRVdmdWlnNHF1MnhtN1Nidi1uQVhQb29UNEE?oc=5",
    "date": "2026-10-30T04:13:58.000Z",
    "source": "Forbes",
-   "summary": "GTA 6’s Map Is Nearly As Big As GTA 4, GTA 5 And Red Dead 2 Combined, Plus A 201-Mission Rumor Forbes"
-  },
-  {
-   "id": "gn-1c9tq81",
-   "title": "Vice City Bean Leonida Coffee: $23 GTA VI Blend [2026]",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3VuTDUzeTFWR0RCbUZ6ZERFeWpQOTFRRVpkakxjS2pQNHBub3hwUU5fTmpNSEliUGRzclVJaVZiMWFQMGdUNkNtR3hLRGU4RW1zSjdtaTVYVUlKLUV0enhBZ2RzU3V6X1doU3dmdEpWbERmUmczNWpDVUtCd29YXw?oc=5",
-   "date": "2026-10-30T03:11:19.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "Vice City Bean Leonida Coffee: $23 GTA VI Blend [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-12m78df",
-   "title": "Rockstar Games and Justice Announce Official 'Grand Theft Auto VI' Score Release",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWU5lNW02eXh4T1lqZjhaU181ZnN6eGlnTlpVS0hKel91WG5ZVDJpR1gtQjNTWVpjODByS2dESm1fZ2tleDRMb2ZzSmlabmlYX1JUeDJsZ2VWcFBvS1EtVDhFTzFiMzNZVlFodWJaWkZScXlJQXJuQWJyVVc5cWZmUUQ0TW0zN2pjNC1yTGQ4cmpWaFFHaUNLSS1lTUVnS0NXNEFxTjgxU0tOUnlEREE?oc=5",
-   "date": "2026-10-30T02:30:35.000Z",
-   "source": "Hypebeast",
-   "summary": "Rockstar Games and Justice Announce Official 'Grand Theft Auto VI' Score Release Hypebeast"
-  },
-  {
-   "id": "gn-p8bc0m",
-   "title": "Living Our GTA VI Dream With The eBay Most Wanted Collection",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0NSVzRLY3BLYzkwUXJ1WURTVmxwUjlGckRzc3dBLTM0UFlrYlJwRTBZVU5wZ0xfX0Nqb1dtZ1JJVFMxUlVDc1R2UE9Tam0zYW5lX2tOM0tJWlF5WXN3WFd6dWFyZ09xMkJ0Z21sanRWVGN6SWFvTDZEa2NPaXBKVmNPcnNTenVZYnhQWVY5NkJCUkdHYWJ3?oc=5",
-   "date": "2026-10-30T02:13:09.000Z",
-   "source": "Bleeding Cool News",
-   "summary": "Living Our GTA VI Dream With The eBay Most Wanted Collection Bleeding Cool News"
-  },
-  {
-   "id": "gn-pown1b",
-   "title": "Rockstar Games and Justice Share “Pusher” (feat. Gesaffelstein) off ‘GTAVI Original Score’",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOakg2SXBlNUJDVEh6SVpaeHp4TkJUSEVKUDVvTlkwTjRmd2tkRG9GRXFmNU1jakcwVlBOaW03ampodEpEVF90ZkdXc3dGSjd1WXVJc0RsUU9uYjhsZDVzdElsamNrcnlXNkwtS3pXTUpuaF91eHR6dF9oTFV3YU1ESzA4QjZwVzdYOFN0bm1XX1R4ZGJDWUZHck9mbjQ3MkdrejBxc0lCeGhxNUxO?oc=5",
-   "date": "2026-10-30T02:09:03.000Z",
-   "source": "V13 Media",
-   "summary": "Rockstar Games and Justice Share “Pusher” (feat. Gesaffelstein) off ‘GTAVI Original Score’ V13 Media"
+   "summary": "GTA 6’s Map Size and The 201-Mission Rumor, Explained Forbes"
   }
  ],
  "community": [
+  {
+   "id": "rd-1f4fipw",
+   "title": "Article of the Day #59: Morgan Revolver",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjtv7u/article_of_the_day_59_morgan_revolver/",
+   "date": "2026-10-30T22:49:26.000Z",
+   "source": "r/GTA6",
+   "summary": "As first revealed in June, the Morgan revolvers that come with the Ultimate Edition notably contain references to the release dates of GTA Vice City (October 29, 2002) and GTA Vice City Stories (Octob"
+  },
+  {
+   "id": "rd-9o8p1u",
+   "title": "GTA 6 advertising in Paris",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjtbqm/gta_6_advertising_in_paris/",
+   "date": "2026-10-30T22:26:15.000Z",
+   "source": "r/GTA6",
+   "summary": "I wanted to share some of the GTA 6 advertisements I’ve seen around Paris the last weeks. I haven’t gone out to see the big ad on the tower yet. submitted by /u/stannya [link] [comments]"
+  },
+  {
+   "id": "rd-l5h2j7",
+   "title": "I genuinely feel emotional about GTA 6 coming out. I can't believe its finally nearly here.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjstz4/i_genuinely_feel_emotional_about_gta_6_coming_out/",
+   "date": "2026-10-30T22:04:48.000Z",
+   "source": "r/GTA6",
+   "summary": "I don't think people understand how much GTA 6 actually means to some of us. GTA 5 came out when I was younger and it genuinely shaped these years. The hours spent playing it, exploring Los Santos, me"
+  },
+  {
+   "id": "rd-1pehm2m",
+   "title": "THE GRAND THEFT AUTO BEER IS REAL!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjsp1z/the_grand_theft_auto_beer_is_real/",
+   "date": "2026-10-30T21:59:20.000Z",
+   "source": "r/GTA6",
+   "summary": "This is happening right now in Miami/Doral are in South Florida. Located at the Tripping Animals Brewing! While supplies last! Must be 21+ years or older! submitted by /u/GHUNTERthaFIRST [link] [comme"
+  },
+  {
+   "id": "rd-18g9azb",
+   "title": "Marketing on Madrid",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjsjv2/marketing_on_madrid/",
+   "date": "2026-10-30T21:53:24.000Z",
+   "source": "r/GTA6",
+   "summary": "I came in Madrid to visit, and banngg. There he is, the big onee👀 submitted by /u/Claweer [link] [comments]"
+  },
+  {
+   "id": "rd-1303huu",
+   "title": "A little tip for avoiding spoilers when GTA VI releases",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xjpig4/a_little_tip_for_avoiding_spoilers_when_gta_vi/",
+   "date": "2026-10-30T19:52:46.000Z",
+   "source": "r/GTA6",
+   "summary": "For anyone wanting to avoid spoilers when GTA VI finally releases, I recommend downloading Reddit Enhancement Suite (RES). You can filter out keywords like GTA VI, GTA 6, Grand Theft Auto, Rockstar, e"
+  },
   {
    "id": "rd-1qr73hb",
    "title": "All GTA6 icons CONFIRMED from trailers",
@@ -996,54 +1045,6 @@
    "date": "2026-10-29T14:09:31.000Z",
    "source": "r/GTA6",
    "summary": "For those of you who cannot find Edge Magazine, or don't want to subscribe to Gamesradar, I'm sharing the article here. I hope this gets you all even more hyped for the release. submitted by /u/Intern"
-  },
-  {
-   "id": "rd-56or8c",
-   "title": "3 weeks left...",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xik9e2/3_weeks_left/",
-   "date": "2026-10-29T13:39:52.000Z",
-   "source": "r/GTA6",
-   "summary": "Grand Theft Auto VI .......................... submitted by /u/warmonger147 [link] [comments]"
-  },
-  {
-   "id": "rd-g7bgcx",
-   "title": "GTA 6 Original Score by Justice available to Pre-order on vinly and CD",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xijc94/gta_6_original_score_by_justice_available_to/",
-   "date": "2026-10-29T13:01:37.000Z",
-   "source": "r/GTA6",
-   "summary": "Will arrive on december 11 for pre orderers submitted by /u/Marsi_Zsombor [link] [comments]"
-  },
-  {
-   "id": "rd-14y6266",
-   "title": "It looks like they hid the protagonists from us again in the new screenshot",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xiihe3/it_looks_like_they_hid_the_protagonists_from_us/",
-   "date": "2026-10-29T12:22:36.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Dramatic_Package_372 [link] [comments]"
-  },
-  {
-   "id": "rd-1mhy2ib",
-   "title": "Additional Q&A from the Physical Edition of EDGE Magazine",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xihfb8/additional_qa_from_the_physical_edition_of_edge/",
-   "date": "2026-10-29T11:30:55.000Z",
-   "source": "r/GTA6",
-   "summary": "An additional Q&A with Phil Hooker was provided at the end of the GTA6 write up. What is your personal approach to testing the game, through an engineer’s lens? I either do structured plays where we’r"
-  },
-  {
-   "id": "rd-pfhfh9",
-   "title": "Dyeing our hair?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xihe1t/dyeing_our_hair/",
-   "date": "2026-10-29T11:29:14.000Z",
-   "source": "r/GTA6",
-   "summary": "I don't know if dyeing hair is an already confirmed feature, but this is the first screenshot where I've seen Lucia with different hair color. I know this is a feature already in GTA online, but given"
-  },
-  {
-   "id": "rd-1dw2w6j",
-   "title": "Screenshot to Poster",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xihddd/screenshot_to_poster/",
-   "date": "2026-10-29T11:28:17.000Z",
-   "source": "r/GTA6",
-   "summary": "Trying to turn the screenshot into poster with different design style. It’s already 14 days since I started, making one every day. Here’s my top 3 that I personally like. submitted by /u/Zhomurai [lin"
   }
  ]
 }
