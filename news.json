@@ -1,28 +1,27 @@
 {
- "generated": "2026-10-31T06:34:38.300Z",
+ "generated": "2026-10-31T13:15:47.359Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 10,
    "scanned": 40,
-   "checked": "2026-10-31T06:34:38.300Z"
+   "checked": "2026-10-31T13:15:47.359Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-31T06:34:38.300Z",
-   "error": "HTTP 404"
+   "checked": "2026-10-31T13:15:47.359Z"
   },
   "googlenews": {
    "ok": true,
    "count": 102,
-   "checked": "2026-10-31T06:34:38.300Z"
+   "checked": "2026-10-31T13:15:47.359Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-31T06:34:38.300Z"
+   "checked": "2026-10-31T13:15:47.359Z"
   }
  },
  "official": [
@@ -245,6 +244,102 @@
  ],
  "press": [
   {
+   "id": "gn-kiab97",
+   "title": "I'm 100% here for a more realistic GTA 6, one I believe won't come at the expense of its usual chaos",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPaTlqQnczU25mLTROWFpvU3Nla3RGX0lfajRXYTYwQjJkaVdUbGRBMlpRX1BDTlRNUHp5M2ZjWmMxQWtlMUVPMVI3VjdnVTVVYmpPQXp6UTd4UDJmeHJnWGZXQXY1ckJFOUJRWjc4M1hYc0tTbC1CZExxTGJ6RDI4Skc2TmZNejVTWDMya3dPcXdGRm9CVVI0TVRnSUNKVEJjeEs4WUVXZC1EbkVrd05MTnI4MHVYd3dyQmZFWVowVFpGQURvNEI1Nk5XM1FzMTR6ekFjb01LMmxNM1BwOVMyLTU1ZGtzdVpERnBxZ1J0YWROdUFqU2hnR2x3MmhTRnI5?oc=5",
+   "date": "2026-10-31T13:00:00.000Z",
+   "source": "PC Gamer",
+   "summary": "I'm 100% here for a more realistic GTA 6, one I believe won't come at the expense of its usual chaos PC Gamer"
+  },
+  {
+   "id": "gn-gp6rgh",
+   "title": "3 Unconfirmed GTA 6 Features: Map, Police, Cars [2026]",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVTNnTU1yX2Z1dEJQZjFOOUtOd29OWXpQcGNLYXpHQkE3ZHdYTDFhTE1MVWNvMjRBZWxXbnFpdkt1WXQ0RFpCTjZVbnZlTWllQnZXZWU2Tlg0UGJVb090TkoybUdTRkFBSlBqeUlpbWJZNndVVFhGcVZMNFZoUG9pLXhZNTdPbkpxdTJPcWtuYw?oc=5",
+   "date": "2026-10-31T12:19:53.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "3 Unconfirmed GTA 6 Features: Map, Police, Cars [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-1w0gn88",
+   "title": "Grand Theft Auto VI will change the width of road lanes for more realistic driving physics.",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVnNmVE55ZExQX2hrTmNpQ2ltSV93ZUZ5Wm5mM0lNZmk2dDJSM1lLckZ1bmJVNlNScFNBbUlURnNLTExtemZTeWs3bENmVEE3QkJuWXhwZEV4MGJMVHc0UzFXcWMyY3RyYVd3RmFTVzdKNHk4MFc1ZWRsaTNrVmRqUl9Ga2NHenZtMXc4aFFGTWk2MnZCdWNNallYYUhjYVhoOTNvNnVrZlVSUkp1anV1N3pCNnlWZlpKTFZNMzlYSm1RV0U?oc=5",
+   "date": "2026-10-31T11:53:46.000Z",
+   "source": "GameGPU",
+   "summary": "Grand Theft Auto VI will change the width of road lanes for more realistic driving physics. GameGPU"
+  },
+  {
+   "id": "gn-1qcra4t",
+   "title": "GTA 6 Security Measures: 0 Confirmed Details [2026]",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVIwcHZqTnlnd3JGOG1wWGsxbnJwR2kzQ2I5b2J1emtsdXFlaVlJdFJCS0NpaTAtNWN0NTM1M0J6NmJVUndxQ1dEM29aN2tCNGlmUlB3QlM1SDdtOEc3R05reDFhZ0lDMnhVUDE4azdBbVQwS1lyRGlXN2k4aFU1RHFCMk0xVUVoUTNv?oc=5",
+   "date": "2026-10-31T11:48:50.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Security Measures: 0 Confirmed Details [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-1wize3q",
+   "title": "GTA 6 story goes beyond money, cars, crime",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTFha1plano4R2djUjkxRVY3VUMwTzlCbTFudERkQlRGY1JhbE9acWxoOXlrdXRVRng4c3hkOGd4NjBRNjRENzZOVTNBaVZaTjkzazJUdnZMVU1VVzVOZWRxSVQyTjIyTWpWNFVTWGg3UjFRWW9Kd3VYYVB6LUZ0S0pKSnNqaFBSRUHSAYYBQVVfeXFMTWJtOWJCT1FZQ0hNbVZEa1RVZnA1RlptbS03djF3Q0xaUDFKM19Kd1JNcGlNRjhyODUybElpMDJCcU02d1Y4Y2ZoS1VwSDdpX2Izd0JMYXVBSDg1MkdrUXhzQmVvUHFfQmlIckpyZG9SWUZXOVFsSS1LYW4tX2s5M1RMNkh5RVE?oc=5",
+   "date": "2026-10-31T11:46:27.000Z",
+   "source": "The News International",
+   "summary": "GTA 6 story goes beyond money, cars, crime The News International"
+  },
+  {
+   "id": "gn-1vbmfzt",
+   "title": "Rockstar Games Makes New Official Statement on GTA 6's Story",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVldHLXNkQ2lkQmVjSDdNNFY0Qlp5UXRuZ0lTU08wdzJyUmk4ZmV3cjJaODhZMk9ZelN5WFlzeWpUSVFiSEp2X0NLRmlkWGtSUzc4ajhldUVtRHN6VTdHT3lsN2swV0FpZC1PN3RkcEIwV1BTemtqWkttWGhjeHFQektYYTNvcHIzaGYyQkpkdXUxT0ZmcFhHeQ?oc=5",
+   "date": "2026-10-31T10:47:15.000Z",
+   "source": "OpenCritic",
+   "summary": "Rockstar Games Makes New Official Statement on GTA 6's Story OpenCritic"
+  },
+  {
+   "id": "gn-8kny35",
+   "title": "France has approved a €0,055 tax on every GB of internet traffic, and downloading GTA 6 may become more expensive.",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd3lGZlUyQTBlN0hsSDJpWmlFaWZqU1VvQzRENTJ0bEtxVHlGbzZ0RUNwd3NYVFV3NVZHUG1DX3RublJCTjFaU3FDckVCOWRmVmNCbzVKZngyUFVMbG44eXMxS3Q1NUxISDVPMWVkWWd3UHlwWUtoUmV5bTc5WFNqYW9MSkQxT1BaQ3JuRjdEVm4wMV9UWUY5bWpuekpfNEFUQUdPclE2ZF9QbFE3YnVPcXozNFZjbzUzR0YteFpiSEw4T0ZtSWNTcm5TSm8?oc=5",
+   "date": "2026-10-31T10:45:24.000Z",
+   "source": "GameGPU",
+   "summary": "France has approved a €0,055 tax on every GB of internet traffic, and downloading GTA 6 may become more expensive. GameGPU"
+  },
+  {
+   "id": "gn-1e8s304",
+   "title": "Driving across the entire Grand Theft Auto VI map can take around 35 minutes.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWQ3aS04NzZCejRFTGlZWEM2OXFjQXZnaV9aYmhfZTNIazZ3YW4zVzI4ZkFOdkQ1VE5UOG54ckM1QnlhVHgtTS1Bcm9ZUVlLNzl0cG9SMjU2RkJYN3VWal9jdm5BWG8zZjhXdUZ1QWxIc0RSN2VxZUFUcWdZcWtsdzVkMmhtV0VlSlhzaVZCVkQtbW1LYlVta0xQTWE1RHJVS3BhRGQ3WU9FNW8?oc=5",
+   "date": "2026-10-31T10:16:22.000Z",
+   "source": "GameGPU",
+   "summary": "Driving across the entire Grand Theft Auto VI map can take around 35 minutes. GameGPU"
+  },
+  {
+   "id": "gn-1tayi3p",
+   "title": "The best PS5 and Xbox setup for GTA 6: here are the must-have TVs, controllers, headsets and more",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZmY3ZXI4a0JlQ1lMMlFJdGI3WUdja3ZPa2ZyUGtSdk1hamFIVzNDLXE0ak9LU1pOSUpYX2NIMDE5b0Jfc0FYaVRucWt1THVjamwza0FBaTVRYXdXcnhGQnNWMW1CRGd6Skk2b2xiTEtiWmliSUwwaXJwWDVGMERlcFd3?oc=5",
+   "date": "2026-10-31T10:15:00.000Z",
+   "source": "Tom's Guide",
+   "summary": "The best PS5 and Xbox setup for GTA 6: here are the must-have TVs, controllers, headsets and more Tom's Guide"
+  },
+  {
+   "id": "gn-9xyenl",
+   "title": "GTA VI Nov. 19 Report: Weekly Gaming Recap [Oct 2026]",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVlB5UVZaWGNjVVpsNHN6TU1uOEtjOWpJNURfbXg0a3JTZmFPcVZRMUFDandNUFE3ZHNXa3NqN2VTemZucm56cHFnNE1XaUw5SjR5NDBFNmFJNUFNMUpEeGx1YWRHQTY5UFFhZUpablFvVU1UTWxyTExKS0FDVl9oT0Ricw?oc=5",
+   "date": "2026-10-31T09:35:49.000Z",
+   "source": "shattered.io",
+   "summary": "GTA VI Nov. 19 Report: Weekly Gaming Recap [Oct 2026] shattered.io"
+  },
+  {
+   "id": "gn-18r65du",
+   "title": "10 Groundbreaking Gameplay Features Confirmed For GTA 6 (And 5 We Still Want)",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUxqNUQ4UUk2eElmTDFseU5mQmFVd09uNGpaQUp6ZmJiMkdHSjZuUllobUZzSmxpd1VBRTNTZU83RnlYejd1bkVseHh5ZjA2anVZT2pGSV9xd0ZRUURJci1PRWpJd0R3Z3lqU1Q5WmFGSnI1YjRKdEVhTUpzR0dhSG5OcnczVk04Q1VQVlNUSjZTaXktbkZHcmtiNEQ2V25TZUd1OEEyblZ4SC1OSEw4?oc=5",
+   "date": "2026-10-31T08:27:08.000Z",
+   "source": "The Daily Scrum News",
+   "summary": "10 Groundbreaking Gameplay Features Confirmed For GTA 6 (And 5 We Still Want) The Daily Scrum News"
+  },
+  {
+   "id": "gn-1c1w72p",
+   "title": "Rockstar art-directed 600,000 animations, so that GTA 6’s passers-by feel like real people",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXpxM0dIV2cxdlhVM0d0ZURDNzRMb3hDNm9pTG9nR1NqZko2eFZFTzJWbjVRZ3VlNmN3b1M2OW16Q2hzMW8wZF8xd3Z2bm9tQ1JTeV9mbXllWTl6WXdNODQ1RUs1cUJROTdZUGh1alF2SjdqNlNiUDdoeTV1ZE1YMjB5aXpOeGtDYkNMZV83ZVducm1hMjZBTDBMalFYejVWclliVXZBV1k4M0FnMl91SG1jY2tjd3hfMDNNajVyOA?oc=5",
+   "date": "2026-10-31T08:00:00.000Z",
+   "source": "Creative Bloq",
+   "summary": "Rockstar art-directed 600,000 animations, so that GTA 6’s passers-by feel like real people Creative Bloq"
+  },
+  {
    "id": "gn-1b97rq8",
    "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRUtCTnhoS0hrQk43cjh5dHhfWkpSa3E3cTlCR1ZfNkx1Z2JvMW9nY3JRelpfNWRhQ2RnSVhPbEZ5R3EtT0VCVDYzNTVlQjRtS0JwLTV0NzgxalJVQ2pOLWtnT1B3SDI4Q3JKUHdHTldoMmR0LTd6cFlodnA0dTdEM1R3akV5aDdMbm9IVVRVeFBMSmg3MVFGTTdmaV9NM1VSYjhpT3FRSl9LaHRkY3JGOHA5V0w4cUZBYkhrV0NQSXZ1M2RlRWd2cDl1R1A5Z09nTk93UHhfNE5JMG1MY2N1bnhxVlJ4Qk9Ga2c?oc=5",
@@ -264,7 +359,7 @@
    "id": "gn-11rdanr",
    "title": "GTA 6 to Feature a Red Dead Redemption 2 Style Morality System",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ1ZNYm0yVTZIQk5GVkdMeHF6NUlWNWtobmpsbklyaE80b01MWDFaNTIzckNfYlloZzhtVWhTLUZHcXVwbWdydzRvQkMySm5nYnkwN2Q2c0tYRDM5Z0tXdzJJdmxNTXRUdFpnUVVYYVhyQzVMUDFDS0wtZDN6emFDdHVKQ3IwYVN1bnppRURWSzFibEpCMVlZaThUVW8?oc=5",
-   "date": "2026-10-31T03:47:51.000Z",
+   "date": "2026-10-31T03:57:15.000Z",
    "source": "OpenCritic",
    "summary": "GTA 6 to Feature a Red Dead Redemption 2 Style Morality System OpenCritic"
   },
@@ -397,6 +492,14 @@
    "summary": "GTA 6 launches November 19: platforms, prices, file size and other launch details eGamers.io"
   },
   {
+   "id": "gn-l5ak9t",
+   "title": "GTA 6 is almost here, 13 years after GTA 5. Here’s what you need to know.",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUGtaV21vWG5zZ08wby1OOTF0azhRalJkZ2l6bnQ0cnBSSkN4eDlVWXB0cHBuOW1yY2pQUnhpUGUzR3ROWUpMdmd4c2Ita2N4M21jM2hrMjI0SlptUzN4Z0h6SS10LXZ5dExDZUVwRTZLM2pSOS0yMVVSTzdWdkp4UGtjeGc1aVVwbC1uQVFBTmJMQWlTS1VDeUlnMC1GdXlSRHZJNy1WWWJ0ZXRFMDFlY2JDNzQyM3FqTV9VVHFVZzNSbXhSbDhXX0NsZ0ZhRDh0XzZlclhxMy1KS1E4cWl4WHpPSDc4bWVyRGVJR3RBYm5RUEpvX2Nkb0ZBbnN4YWhEZVhQcw?oc=5",
+   "date": "2026-10-30T17:23:30.000Z",
+   "source": "Yahoo Tech",
+   "summary": "GTA 6 is almost here, 13 years after GTA 5. Here’s what you need to know. Yahoo Tech"
+  },
+  {
    "id": "gn-12eipjw",
    "title": "ustice and Gesaffelstein Release New Collaboration 'Pusher' for GTA VI",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SMl9TcmNSUl96amNEaXJXTTRSWmlSSkpkbldubW51NExWZWhHdUlfN3JYTkstQU1Sclp6ZVk5Mk44MjRKV3NUUG9VckUxN0g3NWg3aFNQRUV1QXFCSzRub3ZMUmYtUWJwWlRkanhsa2NKbmNZ?oc=5",
@@ -475,6 +578,14 @@
    "date": "2026-10-30T15:38:24.000Z",
    "source": "FRVR",
    "summary": "GTA 6 map size is as big as GTA 4 plus GTA 5 plus Red Dead Redemption 2 with “an order of magnitude more interiors”, Rockstar confirms FRVR"
+  },
+  {
+   "id": "gn-1i5t8hy",
+   "title": "'GTA 6' file size reportedly revealed and it's gargantuan",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oRHJjSzNORDJ1cmYzY1dtVVM2NzgwX3hfbDJVa2lJejZrcXhycWY2LXZPWnBvdklSQkwzdG1vTnBOVTZGaXVvVnpVS2x2dGpFTEdmN1FOVDRYLWtGN0JuLUJmdFZyYWNray1rM2EySEhzWlRwN1E?oc=5",
+   "date": "2026-10-30T15:31:55.000Z",
+   "source": "Mashable",
+   "summary": "'GTA 6' file size reportedly revealed and it's gargantuan Mashable"
   },
   {
    "id": "gn-8354pm",
@@ -611,121 +722,49 @@
    "date": "2026-10-30T12:03:59.000Z",
    "source": "Nacionale",
    "summary": "GTA 6 release time, preload and editions: when you can play and what the Ultimate Edition adds Nacionale"
-  },
-  {
-   "id": "gn-1kb3se8",
-   "title": "What GTA VI’s $20 Ultimate Edition Upgrade Actually Buys You",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDBSb1RpazAxT2liR2hwTGlDZU5XY19zMzcwakxrYVBua29WZUg2TU11Nmh6Y1l1cUVWRDRkZkNZa3E4eER3b0lkUU82OGJvbFVYLTk5aHBVa3A0N0hDeWNnQUt1VlRiSnI3ZThpS0RhdjdiWGFEaG16M0QxMi1rSlpHa0RaRW9OMjNWTmVsS2piVHA0eHJzU3NNdGZuUGdDUHYwSGx0X0xfaFBsWk5LNll3?oc=5",
-   "date": "2026-10-30T11:30:00.000Z",
-   "source": "Forbes",
-   "summary": "What GTA VI’s $20 Ultimate Edition Upgrade Actually Buys You Forbes"
-  },
-  {
-   "id": "gn-91td1t",
-   "title": "GTA Online Gets Halloween Weather Ahead Of GTA 6, Here’s How To Turn It Off",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONzAxYzUzZjgtS0dlTXEzVjVhUU5TV2NHRzU4c2pwaFphcV9pakZWMkFITUJLOUFJWDFsQXlwLUFCQnVZTzNQMlI1UVJUOGN2Qzl2X1d4VjdIWkpfS3gzQUxGVm1KQXJ5RDVxZXpJelJlY2Z6c1VwNXZuUzRROXhpSFdxZ3hUWEVYLUZGSUdvZ2NIMHlhUjA4ZExyMER2S2lQemc?oc=5",
-   "date": "2026-10-30T11:12:34.000Z",
-   "source": "RockstarINTEL",
-   "summary": "GTA Online Gets Halloween Weather Ahead Of GTA 6, Here’s How To Turn It Off RockstarINTEL"
-  },
-  {
-   "id": "gn-1ohbakt",
-   "title": "GTA 6 sprint reportedly ends 25 years of button mashing",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNkcwV2pVNHBKLU0yNndnaUxfdmZGOXh0bU5Yd2c4M2dFSnppRC00YUFBU3BkbEJBNzRGYWRjVjl3LXl1bDhwZmJMTm1FSUlmWm9WQjhXSXJxN0J3aVVLN21YRUk4azMyVGZJdUZUNEw0U3pkcGpUeUZyVGc0OHFFMUFXaDBkNkVCOEQtQ1ZWSmRvZGVnS0FtRlo1WGRUQdIBmgFBVV95cUxOXzhwTDZQQ243bXE1X3g3RkVHaFJOdUcwNno1NVdubTBDRTRiMjBVRUhrZzZtVDhjaEZjWUpQemZJY2VNdTdZMC1hOGwxU3BId21yWGNSbXZlUHNYZXlOUnEtbDk0eEt0TmNJNUhBeVo4cjFaX0NfUDhzMElmUm01azZ0ZjZMUDRCWE1mVXBSektJd201MmZjRUhR?oc=5",
-   "date": "2026-10-30T11:11:41.000Z",
-   "source": "The News International",
-   "summary": "GTA 6 sprint reportedly ends 25 years of button mashing The News International"
-  },
-  {
-   "id": "gn-v5fka3",
-   "title": "Rockstar Created about 600,000 Animations for NPCs in GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2RFUWdJVnUzakRubFR3dFd3LWVkb0hSclU4UkRrYXZZQ1loTFVPLVJ3UENpRm1fcEt5WUF6YjJpaWhjLVpaWFdva0N5QjZxOHY0S1ozNWZTSFp1b0VWUU9YbUJCYmZoME5TOW1uSDEtREFENjlfdTJnNzJhQWZpT3Y2dUVYcTdyOXc?oc=5",
-   "date": "2026-10-30T11:07:17.000Z",
-   "source": "80 Level",
-   "summary": "Rockstar Created about 600,000 Animations for NPCs in GTA 6 80 Level"
-  },
-  {
-   "id": "gn-l5f5ni",
-   "title": "GTA 6 musical score by Justice sets release date as pre-orders go live",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbk9NT2syQzk3Z1cwXy1Bd3BkYnVxMUM0MTNsczkwWnlPWVlmV1FtSWdNWkQ1Qy1TdHg4eGpXSVlyeE9FREJ4V2UzWXJjZy1WYTFBZUdhbmVBakxza1ltVHkxNDUyTUhldlBSTzZmYWdNNGFmelptaFZQZmY5NmtUS1ZtUXoxTktnY1hYY1JaRDM5aTQ?oc=5",
-   "date": "2026-10-30T10:59:47.000Z",
-   "source": "Radio Times",
-   "summary": "GTA 6 musical score by Justice sets release date as pre-orders go live Radio Times"
-  },
-  {
-   "id": "gn-1o8345g",
-   "title": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale",
-   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPc2NaQUZsdTJodGNPRGdJRXoybko4cXpISG9RbUF4NENWQVM2NU5pZlRnSkh3QnhEVVRPWF85VHlOSHBlcUVqZzY0VzhLM3lXZDdoTmJLb3VNdXoxekcwZHQ3WTFVbHdPM0xNTGRocDRESTFreFM1NHFObFYwZ3lKdU45X21NLWlpd0VvM1NQelByRFluZjRNZ19JOFg1dVJJUUVDa1hlX1dtX01XcFdzUjdUX0dMTVdpN19URWtVMkJUZUl1WjRDRjVSWnBwb3hya0lJUU9XbEpqcmpraGZ3b3NsQVNyMk81cnN1QVZzQXBiYXRvYlhrekRWTm1DOEVVaWhSc0x0dUNLM2J3RXNNRGZ4QnFwZUlKY0ZOeUU4OA?oc=5",
-   "date": "2026-10-30T10:31:07.000Z",
-   "source": "PC Gamer",
-   "summary": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale PC Gamer"
-  },
-  {
-   "id": "gn-1of37z2",
-   "title": "15 GTA 6 Screenshots From Edge's Rockstar North Preview",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8xUTZZRElvTW9RVDdxMEJBWnZuOE90b19MU1Rad0R5MktpYjZQYkxmblpvYlVwZ2dlSk1hSEVyZFZTN191LXdDa1Z4UkFQUm9BTU0tVHBidkhWQ3BYVEQ1UnhkRnUyMXVZTVNDSzZ6d3dtN3I1b01qS0pleDg?oc=5",
-   "date": "2026-10-30T10:20:29.000Z",
-   "source": "GTA BOOM",
-   "summary": "15 GTA 6 Screenshots From Edge's Rockstar North Preview GTA BOOM"
-  },
-  {
-   "id": "gn-ar7drz",
-   "title": "The GTA 6 Original Score by Justice Arrives on December 11",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSnJMRjVQMU1rUnVxaUpKYXh5Q3BFTWVobGZCNzZLV3c4SWZQUm1sRjcxaHJvS01HZE14SjZvVlFsenA1UEZGOERxWGZySVdyRE14bXluTThrazhvU1FpNWxOZ1JnUXo4eHV1eU5veWFRdlJ4R1BUdTQzZkNVNUc1TzJrS3RZSWJndjI1SVRwczc?oc=5",
-   "date": "2026-10-30T10:19:01.000Z",
-   "source": "GTA BOOM",
-   "summary": "The GTA 6 Original Score by Justice Arrives on December 11 GTA BOOM"
-  },
-  {
-   "id": "gn-wy64qy",
-   "title": "GTA 6 Storage: 210GB Reported, 676.7GB Fake [2026]",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTM1QnkyZFAxR19iWmFVcXZuWEVnbnduZmt2eTBKdXQ5TG1nMkFpOWpyQ21hRHpibmg3WVlhOWRaREdjeWtCVE9nN2I5S1BmeXAxWlVoWTRQd05jeTUyNlVZb0RUZXpJWGhiTlJhUVZkUHlHSzZydGlNbnN3Q1JiLVZjMUxDUzl0Y3c?oc=5",
-   "date": "2026-10-30T09:31:09.000Z",
-   "source": "shattered.io",
-   "summary": "GTA 6 Storage: 210GB Reported, 676.7GB Fake [2026] shattered.io"
-  },
-  {
-   "id": "gn-1hp7x15",
-   "title": "Rockstar drops 12 new GTA 6 screenshots and gameplay details three weeks before launch",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUEgteGdEb01GaDFUVm1Fa3dFa3BMWXZ5SHB1bGtZbW1EbXYybHpHUXlUZ0hJMEpVMkVYMXRFNHE4OGkzMW1Dem1YeHRDVDgtZUpKS19oTlpic2MzX1FWMTNPdWZuUXU1R2hoYllrU0xuZHAyazRJcVdjU3pXa2huOFdWV0VrMjlhRkp6d0JTaG1jVUxaeERTUjZvYldUdw?oc=5",
-   "date": "2026-10-30T09:24:56.000Z",
-   "source": "GamesHub",
-   "summary": "Rockstar drops 12 new GTA 6 screenshots and gameplay details three weeks before launch GamesHub"
-  },
-  {
-   "id": "gn-e2dryf",
-   "title": "Grand Theft Auto VI Original Score Album By Justice Releases This December",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMFBkLWRpQm5WSERwYm4wVmc3UTYtM05HSjJQU0tLbWxFaXA1eWhfcURzeGo0cXE5Z09PV0FPMVE2R1NPcWZZS2M3YmhkNmk2dExxM2JrYlFPYjQ3WWRudXc3aEd4SGlaVGZGUVB4Y3lHRzNiSWV1YWRiZlBTSklUSmFkeTRRaUFrcE1va3JZUnNSUE4xMWE5MXVwZndhMmZVQVE?oc=5",
-   "date": "2026-10-30T09:01:58.000Z",
-   "source": "Gamer Matters",
-   "summary": "Grand Theft Auto VI Original Score Album By Justice Releases This December Gamer Matters"
-  },
-  {
-   "id": "gn-yelhk4",
-   "title": "Does GTA 6 extend into Georgia? Fans discover buildings 900 km from Miami",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdHQ5WE1ZRFJMbFNqdk9EX09UWWZzY3B0ODRnTktQb1pJMjBQQngtci1LNkJXY0hvU002dHVPNHM2aUxad25uWU11TWFGYVpibFE4R1RvYnF4Y2lxOWdVbXRtWE1EdHNEVllXQ2VJODhURHRJLWhlVjlrWEt0d19uTUdqbmZsZGl6STJjSnRaYUZ0Q1dqcG9qa2tqeHp2RXRwODh1Y2RDMEtiVHlhUElfQV9lQ0ZMeEE1?oc=5",
-   "date": "2026-10-30T08:25:00.000Z",
-   "source": "Notebookcheck",
-   "summary": "Does GTA 6 extend into Georgia? Fans discover buildings 900 km from Miami Notebookcheck"
-  },
-  {
-   "id": "gn-1sfw6g5",
-   "title": "Weather and Time of Day in GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VY2xySlFpVWhyTklXM015ZGRqS1Z3alJMNEd3NUZUNU13eHZHVUhwdXMyT1dKUXB3Q2txaHVCTVZHSHhzWndzbFlJSU8yYXhhc3F4RU9Ka180RG1RU254RjFFaEtVdW53M0dnYlhB?oc=5",
-   "date": "2026-10-30T07:34:46.000Z",
-   "source": "GTA BOOM",
-   "summary": "Weather and Time of Day in GTA 6 GTA BOOM"
-  },
-  {
-   "id": "gn-1az406c",
-   "title": "GTA 6 brings players back to Vice City",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTBNVElCSVJoZlUwWW0xTnZXU0UwbmxPTFRldTduNUpldXdONlhQOVQyYzNkbUpuYllvZ3ltV0d0a3gtYWdGS3hDdmJxRzBEUGtWSXNMUlZMNW9Jd2JVeXBZaVd0Qm03WUZlakwwSjRORDVQT1RrUURDMUItdVZvY003SGdRZw?oc=5",
-   "date": "2026-10-30T07:34:10.000Z",
-   "source": "USI | student newspaper",
-   "summary": "GTA 6 brings players back to Vice City USI | student newspaper"
   }
  ],
  "community": [
+  {
+   "id": "rd-6kuvlt",
+   "title": "I made GTA6 in Minecraft before GTA6 🤣",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xk52fc/i_made_gta6_in_minecraft_before_gta6/",
+   "date": "2026-10-31T08:44:21.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/GolliCRAFT [link] [comments]"
+  },
+  {
+   "id": "rd-swfbex",
+   "title": "Grand Theft Auto VI - Welcome to Vice City Neon Sign",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xk34zc/grand_theft_auto_vi_welcome_to_vice_city_neon_sign/",
+   "date": "2026-10-31T06:41:09.000Z",
+   "source": "r/GTA6",
+   "summary": "As far as I know, its only available to purchase in-person at Kaseya Center Miami and it costs $132 submitted by /u/EmbarrassedPen7254 [link] [comments]"
+  },
+  {
+   "id": "rd-xg6j3",
+   "title": "WE’RE NOW CLOSER TO THE PRE-LOAD DATE THAN THE LAUNCH TRAILER",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xk27of/were_now_closer_to_the_preload_date_than_the/",
+   "date": "2026-10-31T05:43:25.000Z",
+   "source": "r/GTA6",
+   "summary": "LAUNCH TRAILER was 16 days ago PRE-LOAD is in 12 days submitted by /u/PerformerHotel [link] [comments]"
+  },
+  {
+   "id": "rd-1lqmh5s",
+   "title": "GTA III to GTA 6: which one still has the best atmosphere?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xk0a91/gta_iii_to_gta_6_which_one_still_has_the_best/",
+   "date": "2026-10-31T03:54:41.000Z",
+   "source": "r/GTA6",
+   "summary": "Put six GTA games side by side across 12 different scenes. Better graphics are one thing, but which world makes you want to jump back in and just drive around? submitted by /u/PIXELBOXD [link] [commen"
+  },
+  {
+   "id": "rd-wj0akz",
+   "title": "Tripping Animals Brewing GTA Beer",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xk098g/tripping_animals_brewing_gta_beer/",
+   "date": "2026-10-31T03:53:14.000Z",
+   "source": "r/GTA6",
+   "summary": "From the official IG for locals interested: It's official, Miami. The full lineup is here. Patriot Beer 4.2% ABV Pißwasser Pils 4.2% ABV No Mames Vice City Lager 6% ABV Available now in cans at our Do"
+  },
   {
    "id": "rd-9z1dfz",
    "title": "Fun Fact - You can now see the giant welcome to VC sign on Kaseya Center on Google Earth",
@@ -1005,46 +1044,6 @@
    "date": "2026-10-29T22:49:45.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/KillSleepShitRepeat [link] [comments]"
-  },
-  {
-   "id": "rd-di8sj8",
-   "title": "House Robberies",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xiy5oj/house_robberies/",
-   "date": "2026-10-29T22:22:47.000Z",
-   "source": "r/GTA6",
-   "summary": "So after the amazing Edge Magazine story that we received the other day, I have ccome into a great realisation about GTA 6 and when it comes to robbing Residences. Before I go into great Detail about "
-  },
-  {
-   "id": "rd-17cx0q9",
-   "title": "@Times Square",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xivw3v/times_square/",
-   "date": "2026-10-29T20:53:10.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Active-Fact920 [link] [comments]"
-  },
-  {
-   "id": "rd-c7ics5",
-   "title": "Vice City Goodyear Zeppelin Over Miami Beach",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xiumzv/vice_city_goodyear_zeppelin_over_miami_beach/",
-   "date": "2026-10-29T20:05:49.000Z",
-   "source": "r/GTA6",
-   "summary": "Photographed from the Miami Beach Boardwalk; Mid-Beach North This is a Semi-rigid Zeppelin NT; Goodyear's last true blimp had it's final flight in 2017. submitted by /u/heiisbeiis00 [link] [comments]"
-  },
-  {
-   "id": "rd-t07l4b",
-   "title": "I think there is going to be an initial wave of hate from a loud minority online once the game releases",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xiu8ne/i_think_there_is_going_to_be_an_initial_wave_of/",
-   "date": "2026-10-29T19:51:39.000Z",
-   "source": "r/GTA6",
-   "summary": "I only say this because the game is going a very different (better) direction from past GTAs by incorporating more elements from RDR2 and some people will feel whiplash by this and react very suddenly"
-  },
-  {
-   "id": "rd-1xnln2f",
-   "title": "Release Day Plan Regarding Spoilers/NSFW",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xisug9/release_day_plan_regarding_spoilersnsfw/",
-   "date": "2026-10-29T18:58:40.000Z",
-   "source": "r/GTA6",
-   "summary": "Hello everyone! We wanted to let you all know what the plan is for the subreddit on launch day regarding spoilers and bugs. Since this is likely going to be a staggered release by time zone we can't b"
   }
  ]
 }
