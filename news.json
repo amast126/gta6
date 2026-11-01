@@ -1,28 +1,27 @@
 {
- "generated": "2026-11-01T04:01:49.125Z",
+ "generated": "2026-11-01T11:25:14.436Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 10,
    "scanned": 40,
-   "checked": "2026-11-01T04:01:49.125Z"
+   "checked": "2026-11-01T11:25:14.436Z"
   },
   "youtube": {
-   "ok": false,
+   "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-11-01T04:01:49.125Z",
-   "error": "HTTP 404"
+   "checked": "2026-11-01T11:25:14.436Z"
   },
   "googlenews": {
    "ok": true,
    "count": 102,
-   "checked": "2026-11-01T04:01:49.125Z"
+   "checked": "2026-11-01T11:25:14.436Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-01T04:01:49.125Z"
+   "checked": "2026-11-01T11:25:14.436Z"
   }
  },
  "official": [
@@ -245,12 +244,52 @@
  ],
  "press": [
   {
+   "id": "gn-10l2eun",
+   "title": "Xbox Series X Digital Edition drops to $599,99 ahead of GTA 6 release",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVAxc3NZQ05zUm16cUdQcjNKZEFXRldqYUc0RWZicktyaG9fZWNIbXl4QzBFUWxRR09VRFZSbXUxSlJxaUlWREYxS1Q1ZmZJTHpOcVRqd0FCb1RzeGNCaUJGTHc4SDM3cWF5OTBMZDhmWEN3azJfZ3BoSEJLdmdIUkl3eWE2Q3ZPbnBWZElqWlZ5RFRCZ21FVGxldktHazU0OEhvSzFkU3hsQQ?oc=5",
+   "date": "2026-11-01T11:04:14.000Z",
+   "source": "GameGPU",
+   "summary": "Xbox Series X Digital Edition drops to $599,99 ahead of GTA 6 release GameGPU"
+  },
+  {
+   "id": "gn-m833lc",
+   "title": "How GTA 6 Can Save You $5,000, According to a ‘Self-Made Millionaire’ in a Viral Video",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11cW9iQk04WV80d1VCR1N1c3k1MUwwTXhMdnEzbDh4RkUzb00tRTBoZWdjcG5EN3pmS0NETi0zSmctaEMwMVg2NEJnNk5YaElIS0t6aF9XUm9rNTk2VjVEdERYWExQc3RtVFh1NElHZkJvb3kxc1BaaE5hVDc?oc=5",
+   "date": "2026-11-01T08:21:10.000Z",
+   "source": "Insider Gaming",
+   "summary": "How GTA 6 Can Save You $5,000, According to a ‘Self-Made Millionaire’ in a Viral Video Insider Gaming"
+  },
+  {
+   "id": "gn-qd7roo",
+   "title": "ITV makes a GTA VI TV custody agreement",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jdW42Vjg3UUdyV3BnbUlwT1J3UjlNdjRyNUhSdENFWlFxX0FBSlZzRXgzNEowXy14QUpVTG5QOXJwRzVzQWtoRmRWU0t6U294Q2N0MzZVbHQ3SGM?oc=5",
+   "date": "2026-11-01T04:46:47.000Z",
+   "source": "ContentGrip",
+   "summary": "ITV makes a GTA VI TV custody agreement ContentGrip"
+  },
+  {
+   "id": "gn-1wtay3z",
+   "title": "Rockstar’s Free GTA 6 Poster: 1 Fan, No Program [2026]",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3o2V3JMQWZPSTdhWnpRZ2pkYjFrbWlrYVgtLUwtTHBqYUNJbDR4Zk1idUZEUmF4VkdHUEN1cFlicFVDa1ZkN0hkNXlyWjQ2LTZMd25ZS1pENkxMWlFXcWNQTVNrc3JJbkNlV3h0ZXlPRUt4eDh1UWFMYzQ2TlFJSmNUeDQwZHVQNkZ4QmlyUDQ?oc=5",
+   "date": "2026-11-01T03:30:17.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "Rockstar’s Free GTA 6 Poster: 1 Fan, No Program [2026] https://tech-insider.org/"
+  },
+  {
    "id": "gn-1p0sjv8",
    "title": "Rockstar reportedly planning GTA 6 Nike sneaker collaboration with Travis Scott",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZMjZhVDVaY2s2YzZDZ2kzX2ItaW1JR2JtUVBpUWF3amRxeXVFWkh5WkxtOHhNSUNKSGZzQXFWc2FTWTNfekVoSXNOWlg4QW5rdWZ3cDhtbVkzeU9VdzZfODRybl9mM2FHMEc2a1pvVkEwY3NMTGJveXp6NmpTbUFtcTFLU1NMRXo0SHN0cGU2aG44RlVqX2JENjhMbWVXRjBfaDFNbnZ1amJyemU1SDBUSlNLbUE?oc=5",
    "date": "2026-11-01T02:06:14.000Z",
    "source": "The Express Tribune",
    "summary": "Rockstar reportedly planning GTA 6 Nike sneaker collaboration with Travis Scott The Express Tribune"
+  },
+  {
+   "id": "gn-s3zgvo",
+   "title": "GTA 6 Is Tipped To Cost A Billion Dollars In Sick Days",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xY3BEQ0hMZ3dWd254ZERURl9ldGwyUGpWQy1MMElTakQzQVB4dU52cUdIb3RBbU1fNHJ5UnVsTm5QdzRKS3BmQ0IzemFyMVVQX0plMkhDclBJQTBhX2NTSHNPMWpXQQ?oc=5",
+   "date": "2026-11-01T00:42:04.000Z",
+   "source": "DMARGE",
+   "summary": "GTA 6 Is Tipped To Cost A Billion Dollars In Sick Days DMARGE"
   },
   {
    "id": "gn-findvx",
@@ -299,6 +338,14 @@
    "date": "2026-10-31T20:14:42.000Z",
    "source": "Athlon Sports",
    "summary": "GTA 6 Has More Sports Activities Than You Might Expect — Here’s What’s Included Athlon Sports"
+  },
+  {
+   "id": "gn-124kiu1",
+   "title": "GTA 6 Sports Activities: Basketball, Racing and More",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV3p5Nm5iNmN6UkdxbURHS0VGYnlFZlVpMnloTk42S0VHNzYwS2lMVU1oX3pKOHdKZ0dZN1JsZ3BtX3VON3VlT190eTJKNXRORjF1anNYQlpOb004Qnh2SV9RRGV0eXl1WlhMZHBmRWg4ZFczYmdfb1hXUVJDVzQ2VjhTaFZUYUZ5N1ROLWJHQ253UQ?oc=5",
+   "date": "2026-10-31T20:14:42.000Z",
+   "source": "Yahoo Tech",
+   "summary": "GTA 6 Sports Activities: Basketball, Racing and More Yahoo Tech"
   },
   {
    "id": "gn-2d4aa9",
@@ -459,14 +506,6 @@
    "date": "2026-10-31T13:31:47.000Z",
    "source": "https://tech-insider.org/",
    "summary": "GTA 6 NPCs Get Around 600,000 Animations [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-s3zgvo",
-   "title": "GTA 6 Is Tipped To Cost A Billion Dollars In Sick Days",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xY3BEQ0hMZ3dWd254ZERURl9ldGwyUGpWQy1MMElTakQzQVB4dU52cUdIb3RBbU1fNHJ5UnVsTm5QdzRKS3BmQ0IzemFyMVVQX0plMkhDclBJQTBhX2NTSHNPMWpXQQ?oc=5",
-   "date": "2026-10-31T13:10:00.000Z",
-   "source": "DMARGE",
-   "summary": "GTA 6 Is Tipped To Cost A Billion Dollars In Sick Days DMARGE"
   },
   {
    "id": "gn-kiab97",
@@ -683,49 +722,89 @@
    "date": "2026-10-30T18:44:00.000Z",
    "source": "HotHardware",
    "summary": "GTA 6 Felt Too Fast For Its Own Detail So Rockstar Slowed It Down HotHardware"
-  },
-  {
-   "id": "gn-h1cubf",
-   "title": "#THAT 10/12/26 | NYC Comic Con Overview, GTA VI Album, The Social Reckoning",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMEVWbnNmdTFoeDJKT29FV1I3NllkYU5IWWxFWV9acGFDSF9WOFRjWDlXQkVyaFhCMU5rTFFIdlFhcDRFQ3QtNVBGUjJDVFdyVThTS2MzUHZ1c1AtZkM3bGwyWUZJWTY5cjNKNkRwbGpmeDMwQXBZOVh4VHQ2Q0lYX1djQzE1YTM1aEMyejlnOUdHLTJ2ajB6WjBFR240ZUp6OWc?oc=5",
-   "date": "2026-10-30T18:07:29.000Z",
-   "source": "Q30 Television",
-   "summary": "#THAT 10/12/26 | NYC Comic Con Overview, GTA VI Album, The Social Reckoning Q30 Television"
-  },
-  {
-   "id": "gn-orprkk",
-   "title": "Nine1Nine nightclub in \"GTA VI\" comes to life at E11even",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc09URFBkNFJBM0NGSzdaTHd4OGtOUHVhV05CVk9TbnJiM2RiTVo5ejBlR2NKdU93SW1jam1ncDRSRkRLLXQ4U2xWaWpXOFo1dVJXOGNNdUJxLW43VFdYaFJvSlJyRENFX1Excjd3QW9hX0lWN3RWYWpfdlkyVE9ycHRjUGt5VFdtRXhnM0dmM0RoNmltbEVoQjlIVXdDTmQyMlE?oc=5",
-   "date": "2026-10-30T17:57:36.000Z",
-   "source": "Miami New Times",
-   "summary": "Nine1Nine nightclub in \"GTA VI\" comes to life at E11even Miami New Times"
-  },
-  {
-   "id": "gn-1xda2t8",
-   "title": "Grand Theft Auto VI's graphics are noticeably more detailed than in 2023.",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQelZsYXBQTEJGMVUxWTZGLVRMdVYybjdDYUJ6ZHlNVEJ2ZjEwZzZlZ0g1cXUzRk5TZ2lsdDQ5UjYtM1dpTG1BMW13TmVwZDlJd0hvMVllZE05bFZ2TnAxaUxXTjd6cjdPNzQwSk4xamtQVElLQ1Q0S21DZ0pJY2JYX2puYmVwU1BsY0lUSW9VU0NZaDM2QlhyUTJqOVNJMUxldlpDSjlwVjlCQVV1WGhN?oc=5",
-   "date": "2026-10-30T17:49:46.000Z",
-   "source": "GameGPU",
-   "summary": "Grand Theft Auto VI's graphics are noticeably more detailed than in 2023. GameGPU"
-  },
-  {
-   "id": "gn-1blz2nm",
-   "title": "GTA 6 launches November 19: platforms, prices, file size and other launch details",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMktMQlBpQmJPcVltbXFxUDhzV3Ntb3VUaE5PajFhX2JUWTJFVWVkbUVtZFhCOHF4SFJ4YXpmV3VtNVNma3luNW8yaURMZm5zVVVnUFNLOEZicjZTakttUHBzb1psRGlLMUlSQnloRnVJZTBydXNwWkVGdEEtNDJ4ZzJiWEpEbGZjUnp1TGhNWTluNlRIMFB2ZFY5NEJPUzQ?oc=5",
-   "date": "2026-10-30T17:40:16.000Z",
-   "source": "eGamers.io",
-   "summary": "GTA 6 launches November 19: platforms, prices, file size and other launch details eGamers.io"
-  },
-  {
-   "id": "gn-l5ak9t",
-   "title": "GTA 6 is almost here, 13 years after GTA 5. Here’s what you need to know.",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPUGtaV21vWG5zZ08wby1OOTF0azhRalJkZ2l6bnQ0cnBSSkN4eDlVWXB0cHBuOW1yY2pQUnhpUGUzR3ROWUpMdmd4c2Ita2N4M21jM2hrMjI0SlptUzN4Z0h6SS10LXZ5dExDZUVwRTZLM2pSOS0yMVVSTzdWdkp4UGtjeGc1aVVwbC1uQVFBTmJMQWlTS1VDeUlnMC1GdXlSRHZJNy1WWWJ0ZXRFMDFlY2JDNzQyM3FqTV9VVHFVZzNSbXhSbDhXX0NsZ0ZhRDh0XzZlclhxMy1KS1E4cWl4WHpPSDc4bWVyRGVJR3RBYm5RUEpvX2Nkb0ZBbnN4YWhEZVhQcw?oc=5",
-   "date": "2026-10-30T17:23:30.000Z",
-   "source": "Yahoo Tech",
-   "summary": "GTA 6 is almost here, 13 years after GTA 5. Here’s what you need to know. Yahoo Tech"
   }
  ],
  "community": [
+  {
+   "id": "rd-1hcnlix",
+   "title": "Liberty City x Vice City 🗽🌴",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xl07zv/liberty_city_x_vice_city/",
+   "date": "2026-11-01T10:57:18.000Z",
+   "source": "r/GTA6",
+   "summary": "Doesn't compare at all to what they're doing in Miami, but it's nice to see them doing some proper adverts here in NY :) submitted by /u/PowerGlove1984 [link] [comments]"
+  },
+  {
+   "id": "rd-1n27r67",
+   "title": "Can‘t wait. 😍",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xl00ng/cant_wait/",
+   "date": "2026-11-01T10:44:53.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/SirMajestic1812 [link] [comments]"
+  },
+  {
+   "id": "rd-1b4z8il",
+   "title": "WAKE UP EVERYBODY ITS GTA 6 RELEASE MONTH",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xkznsy/wake_up_everybody_its_gta_6_release_month/",
+   "date": "2026-11-01T10:22:53.000Z",
+   "source": "r/GTA6",
+   "summary": "We’re about to cross the finish line. GTA 6 is a little less than 3 weeks away. How are we feeling? submitted by /u/SozinMadeit [link] [comments]"
+  },
+  {
+   "id": "rd-vjxvg2",
+   "title": "Little bit emotional about this game",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xky8gw/little_bit_emotional_about_this_game/",
+   "date": "2026-11-01T08:52:17.000Z",
+   "source": "r/GTA6",
+   "summary": "After the 1st trailer came out, my life has been pretty hard, I’m 25 and my dad passed suddenly 2 years ago dropping me into a lot of responsibility way beyond my years but I’m doing it and I’m still "
+  },
+  {
+   "id": "rd-1pgayyn",
+   "title": "HAPPY NOVEMBER, GUYS!!! 🎉",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xkxj08/happy_november_guys/",
+   "date": "2026-11-01T08:06:02.000Z",
+   "source": "r/GTA6",
+   "summary": "WE GET TO PLAY GTA 6 THIS MONTH!!! 😭 Stay safe out there, everyone. It’s finally happening! ❤️ submitted by /u/mankomal3 [link] [comments]"
+  },
+  {
+   "id": "rd-1x6yygc",
+   "title": "I think Bobby Moynihan’s return appearance on SNL tonight has solidified he plays Cal Hampton",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xkwli9/i_think_bobby_moynihans_return_appearance_on_snl/",
+   "date": "2026-11-01T07:06:02.000Z",
+   "source": "r/GTA6",
+   "summary": "Not sure many other people can replicate his tone or cadence to this degree submitted by /u/dbezzy1010 [link] [comments]"
+  },
+  {
+   "id": "rd-1v2d1ya",
+   "title": "Hoping This Gets me Back into Gaming",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xku8a5/hoping_this_gets_me_back_into_gaming/",
+   "date": "2026-11-01T04:39:50.000Z",
+   "source": "r/GTA6",
+   "summary": "I’ve been in a depressive slump, and haven’t really been gaming in over a year now. I keep buying games, play them for a few minutes, stop, and never go back to them. With the help of my doctor, I’ve "
+  },
+  {
+   "id": "rd-4wjux6",
+   "title": "We're so close, team.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xku16y/were_so_close_team/",
+   "date": "2026-11-01T04:27:53.000Z",
+   "source": "r/GTA6",
+   "summary": "We're almost there guys. This November is gonna feel like forever, lmao. submitted by /u/Soggy_Room_8913 [link] [comments]"
+  },
+  {
+   "id": "rd-mpocdp",
+   "title": "How it’s gonna feel deleting your old games to make space for GTA 6",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xktzxn/how_its_gonna_feel_deleting_your_old_games_to/",
+   "date": "2026-11-01T04:25:46.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Spiritual-Cry7953 [link] [comments]"
+  },
+  {
+   "id": "rd-1fu2yqd",
+   "title": "We are so close. Stay safe everyone!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xktnow/we_are_so_close_stay_safe_everyone/",
+   "date": "2026-11-01T04:06:06.000Z",
+   "source": "r/GTA6",
+   "summary": "I’m aware it’s been November in some countries already but I’m in the US. Regardless stay safe everyone and don’t forget to request PTO if you’re employed. submitted by /u/Vexmythoclastt [link] [comme"
+  },
   {
    "id": "rd-5wm8kr",
    "title": "The fact is: we may never again witness, in the history of video games, a level of anticipation and excitement as massive as the one surrounding GTA 6.",
@@ -965,86 +1044,6 @@
    "date": "2026-10-31T12:56:36.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/BreakfastLopsided906 [link] [comments]"
-  },
-  {
-   "id": "rd-6kuvlt",
-   "title": "I made GTA6 in Minecraft before GTA6 🤣",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xk52fc/i_made_gta6_in_minecraft_before_gta6/",
-   "date": "2026-10-31T08:44:21.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/GolliCRAFT [link] [comments]"
-  },
-  {
-   "id": "rd-swfbex",
-   "title": "Grand Theft Auto VI - Welcome to Vice City Neon Sign",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xk34zc/grand_theft_auto_vi_welcome_to_vice_city_neon_sign/",
-   "date": "2026-10-31T06:41:09.000Z",
-   "source": "r/GTA6",
-   "summary": "As far as I know, its only available to purchase in-person at Kaseya Center Miami and it costs $132 submitted by /u/EmbarrassedPen7254 [link] [comments]"
-  },
-  {
-   "id": "rd-xg6j3",
-   "title": "WE’RE NOW CLOSER TO THE PRE-LOAD DATE THAN THE LAUNCH TRAILER",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xk27of/were_now_closer_to_the_preload_date_than_the/",
-   "date": "2026-10-31T05:43:25.000Z",
-   "source": "r/GTA6",
-   "summary": "LAUNCH TRAILER was 16 days ago PRE-LOAD is in 12 days submitted by /u/PerformerHotel [link] [comments]"
-  },
-  {
-   "id": "rd-1lqmh5s",
-   "title": "GTA III to GTA 6: which one still has the best atmosphere?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xk0a91/gta_iii_to_gta_6_which_one_still_has_the_best/",
-   "date": "2026-10-31T03:54:41.000Z",
-   "source": "r/GTA6",
-   "summary": "Put six GTA games side by side across 12 different scenes. Better graphics are one thing, but which world makes you want to jump back in and just drive around? submitted by /u/PIXELBOXD [link] [commen"
-  },
-  {
-   "id": "rd-wj0akz",
-   "title": "Tripping Animals Brewing GTA Beer",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xk098g/tripping_animals_brewing_gta_beer/",
-   "date": "2026-10-31T03:53:14.000Z",
-   "source": "r/GTA6",
-   "summary": "From the official IG for locals interested: It's official, Miami. The full lineup is here. Patriot Beer 4.2% ABV Pißwasser Pils 4.2% ABV No Mames Vice City Lager 6% ABV Available now in cans at our Do"
-  },
-  {
-   "id": "rd-9z1dfz",
-   "title": "Fun Fact - You can now see the giant welcome to VC sign on Kaseya Center on Google Earth",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xjzzb1/fun_fact_you_can_now_see_the_giant_welcome_to_vc/",
-   "date": "2026-10-31T03:38:27.000Z",
-   "source": "r/GTA6",
-   "summary": "I thought this was so cool. Hopefully Google earth gets updated with all the other GTA VI marketing photos too. submitted by /u/Sakya22 [link] [comments]"
-  },
-  {
-   "id": "rd-1cytnqj",
-   "title": "How many hours straight are you planning to play during your first session?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xjzf87/how_many_hours_straight_are_you_planning_to_play/",
-   "date": "2026-10-31T03:09:19.000Z",
-   "source": "r/GTA6",
-   "summary": "We all know most of us are taking some time off work/school/kids to give us some real quality time with the game. But what I haven’t seen asked as much is just how long your first session will be. For"
-  },
-  {
-   "id": "rd-1n0wcbx",
-   "title": "Guns actually show now",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xjxp1v/guns_actually_show_now/",
-   "date": "2026-10-31T01:41:49.000Z",
-   "source": "r/GTA6",
-   "summary": "I can't believe I just noticed this, I'm not sure if its only for NPCs but cool nonetheless. If he's wearing a top will it just be invisible or you can still see the outline of it? submitted by /u/Wei"
-  },
-  {
-   "id": "rd-1p3fpm6",
-   "title": "I love the marketing for this game I actually got to try the GTA 6 beer",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xjurvk/i_love_the_marketing_for_this_game_i_actually_got/",
-   "date": "2026-10-30T23:28:53.000Z",
-   "source": "r/GTA6",
-   "summary": "It wasn’t as expensive as I thought it’s $20 per back and way less people than I anticipated submitted by /u/gzg_17 [link] [comments]"
-  },
-  {
-   "id": "rd-1f4fipw",
-   "title": "Article of the Day #59: Morgan Revolver",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xjtv7u/article_of_the_day_59_morgan_revolver/",
-   "date": "2026-10-30T22:49:26.000Z",
-   "source": "r/GTA6",
-   "summary": "As first revealed in June, the Morgan revolvers that come with the Ultimate Edition notably contain references to the release dates of GTA Vice City (October 29, 2002) and GTA Vice City Stories (Octob"
   }
  ]
 }
