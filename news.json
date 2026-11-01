@@ -1,27 +1,28 @@
 {
- "generated": "2026-10-31T23:55:58.048Z",
+ "generated": "2026-11-01T04:01:49.125Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 10,
    "scanned": 40,
-   "checked": "2026-10-31T23:55:58.048Z"
+   "checked": "2026-11-01T04:01:49.125Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-10-31T23:55:58.048Z"
+   "checked": "2026-11-01T04:01:49.125Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
-   "count": 100,
-   "checked": "2026-10-31T23:55:58.048Z"
+   "count": 102,
+   "checked": "2026-11-01T04:01:49.125Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-10-31T23:55:58.048Z"
+   "checked": "2026-11-01T04:01:49.125Z"
   }
  },
  "official": [
@@ -244,6 +245,30 @@
  ],
  "press": [
   {
+   "id": "gn-1p0sjv8",
+   "title": "Rockstar reportedly planning GTA 6 Nike sneaker collaboration with Travis Scott",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMXRZMjZhVDVaY2s2YzZDZ2kzX2ItaW1JR2JtUVBpUWF3amRxeXVFWkh5WkxtOHhNSUNKSGZzQXFWc2FTWTNfekVoSXNOWlg4QW5rdWZ3cDhtbVkzeU9VdzZfODRybl9mM2FHMEc2a1pvVkEwY3NMTGJveXp6NmpTbUFtcTFLU1NMRXo0SHN0cGU2aG44RlVqX2JENjhMbWVXRjBfaDFNbnZ1amJyemU1SDBUSlNLbUE?oc=5",
+   "date": "2026-11-01T02:06:14.000Z",
+   "source": "The Express Tribune",
+   "summary": "Rockstar reportedly planning GTA 6 Nike sneaker collaboration with Travis Scott The Express Tribune"
+  },
+  {
+   "id": "gn-findvx",
+   "title": "2 of Rockstar's Biggest Games Officially Removed From PlayStation Plus Mere Days Before 'GTA 6'",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2RFRzhJMVVTUDJLWm82d3hqWXdxenpJYnlOSFpNd2FzSHR3ekVlM01pOW1EQ3V6YnVZeV9yTnYtZGpNNVBLazhvazYtQnNvYVhhVkgtaXNpeUhUM1I3S2JwRTV5eW5qa090VVRwMlhQRnVDT2xvRlFIYkFwLTdvR0c5aGVSRGdxT2Z1cUVzalRNZw?oc=5",
+   "date": "2026-11-01T00:30:00.000Z",
+   "source": "Collider",
+   "summary": "2 of Rockstar's Biggest Games Officially Removed From PlayStation Plus Mere Days Before 'GTA 6' Collider"
+  },
+  {
+   "id": "gn-1ryam5c",
+   "title": "Rockstar: GTA 6 Leaks Invasive, Launch Nov. 19 [2026]",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNi16RXN4Y1BUY05RVG9mWFlwV0hsZEQ0MW1RcldTZ05jalhNeDg3TjQ0dXBFRGt5Qnp2aUFyY1VZbkZEOGQ4QjN4dU1hS21ONWhwYldsVjNsOEVYelJSMmxkdmJmTVlyX2JaU0xOMmkwSzN3TW53akppczN0eUlrTEJPMVZRWXQ5OTlsMDNBcTl0d1FVdEl4aUtR?oc=5",
+   "date": "2026-11-01T00:14:01.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "Rockstar: GTA 6 Leaks Invasive, Launch Nov. 19 [2026] https://tech-insider.org/"
+  },
+  {
    "id": "gn-9nrwgf",
    "title": "GTA 6 features 600,000 animations as Rockstar takes NPC realism to another level: Report | Hindustan Times",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMVFISGItVE9QVHpTajMwNzB0Z1MtNXNrd1g5eXhGUVNyQkZiUVhRaEgtV1JkTkV3a0xUeS10dFBqZVZDd0JRblVVV0p0VG9tdzBfMVFqdGFpS0xUbGVnWW15UllHdjJQN0ZUT3AtXzlUSDZkcTVuLXJvQ1p4N3lFdjY3UGJJUlpmdmF4OEZpcDVaZUhCX2MxYUI1c2pKWWp4RkJCRmoyZDlKU3NiaTBPZGJxZEhUeEk0TVpDdVo5ZGNoYkRKanVjclhuVl9CdXVJQXNzaFV4MURIdTJSdy01NC1RdC1iTXV5SFdfeTJfNVBWV2YzRkRMOFRnS1JrT1RnM0ZZ0gGIAkFVX3lxTE9NRVpCaFNEa2M1U0pHRWhkODEyYjJULUI3MnB1TGtYM20xVzd6X1BzOWxjLUpnMGk0U0pCMFQ3b251ZG5WZXhUS2dVQ1daX0g4UnpDbUpoZWJqNU1GbGZMRjFhNEh2aDBwYXlhRVVUV0RIVzVPRGdQVm13NFFGWWduTEczc3FGMmZKa0NEY0xJbmVuZ2NWajB1ZGxuYk1ibDdKQzhldVBMUWNWMEdsWnVUVjdLdi1iRFA1OGdrTm9RN05vbW4wLW1SZzZTSU0xZHg2RmFNMWZSRVJEQURMUmlZZFVnZ1A3VS1HQjJSVi1aTXVKWllNZGZ5RV9JQy14MGtnZ0wwa1RoRg?oc=5",
@@ -434,6 +459,14 @@
    "date": "2026-10-31T13:31:47.000Z",
    "source": "https://tech-insider.org/",
    "summary": "GTA 6 NPCs Get Around 600,000 Animations [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-s3zgvo",
+   "title": "GTA 6 Is Tipped To Cost A Billion Dollars In Sick Days",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xY3BEQ0hMZ3dWd254ZERURl9ldGwyUGpWQy1MMElTakQzQVB4dU52cUdIb3RBbU1fNHJ5UnVsTm5QdzRKS3BmQ0IzemFyMVVQX0plMkhDclBJQTBhX2NTSHNPMWpXQQ?oc=5",
+   "date": "2026-10-31T13:10:00.000Z",
+   "source": "DMARGE",
+   "summary": "GTA 6 Is Tipped To Cost A Billion Dollars In Sick Days DMARGE"
   },
   {
    "id": "gn-kiab97",
@@ -690,41 +723,49 @@
    "date": "2026-10-30T17:23:30.000Z",
    "source": "Yahoo Tech",
    "summary": "GTA 6 is almost here, 13 years after GTA 5. Here’s what you need to know. Yahoo Tech"
-  },
-  {
-   "id": "gn-12eipjw",
-   "title": "ustice and Gesaffelstein Release New Collaboration 'Pusher' for GTA VI",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SMl9TcmNSUl96amNEaXJXTTRSWmlSSkpkbldubW51NExWZWhHdUlfN3JYTkstQU1Sclp6ZVk5Mk44MjRKV3NUUG9VckUxN0g3NWg3aFNQRUV1QXFCSzRub3ZMUmYtUWJwWlRkanhsa2NKbmNZ?oc=5",
-   "date": "2026-10-30T17:19:01.000Z",
-   "source": "Hit Channel",
-   "summary": "ustice and Gesaffelstein Release New Collaboration 'Pusher' for GTA VI Hit Channel"
-  },
-  {
-   "id": "gn-1p6v5vb",
-   "title": "Where to pre-order GTA 6 as Rockstar announces soundtrack on vinyl",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGFIME9kRGVBNDdDZ2xQVnd4NUYwMlJPUVNlamx3cEhjTzI5UXZSdnRITjlaNi13Qll3VXd5QWZxQWM1ZXVycVZ1Y29ZR20waW93OU9DMGxJdXNTUlYtUHZKcHpWZm5xcjFGXzB5Y01pNGZ6UWpiTXAyTzhoeHJzSmtlOU9BWHJVdVh3S1hjbE1TZTR6QUVrN2lFYXdyX2dnekFlazM5eGV2UzYza1g1OHE5MG1rZV9qUDY3cDByMjBrNnA2WDM0?oc=5",
-   "date": "2026-10-30T16:45:00.000Z",
-   "source": "The Independent",
-   "summary": "Where to pre-order GTA 6 as Rockstar announces soundtrack on vinyl The Independent"
-  },
-  {
-   "id": "gn-4l2sm7",
-   "title": "Should you buy a used PS5 for GTA 6?",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFZDFBOVA5Z05acXZ2cHNPUklLS0FtM1pHTUFSY25oYjVwQ1puMTdTT01aUXRXckYtempsZnNVYzljOW1CN29idWZIQ2JlMGY0N2gweFNhTGZsa1pIal9MYkFJdHY2UHFuTUF2VGxn?oc=5",
-   "date": "2026-10-30T16:31:18.000Z",
-   "source": "MakeUseOf",
-   "summary": "Should you buy a used PS5 for GTA 6? MakeUseOf"
-  },
-  {
-   "id": "gn-1imldvk",
-   "title": "What we know about GTA 6 animals so far",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tQlI5T2pBdjVrN2Rub3F6Z2doN2pfSmFrZkhoZmIxLTZSYVZscXp2Z1BiMkI0T1hEU29VTGJTOUtmV2Z0UlRPZmJkQUl1dWE4UmI4TUZsbkpQV1dxd0lPZnBnS3VrU3hlS2FsQVVSQUExdw?oc=5",
-   "date": "2026-10-30T16:31:14.000Z",
-   "source": "GamesRadar+",
-   "summary": "What we know about GTA 6 animals so far GamesRadar+"
   }
  ],
  "community": [
+  {
+   "id": "rd-5wm8kr",
+   "title": "The fact is: we may never again witness, in the history of video games, a level of anticipation and excitement as massive as the one surrounding GTA 6.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xks4a8/the_fact_is_we_may_never_again_witness_in_the/",
+   "date": "2026-11-01T02:39:55.000Z",
+   "source": "r/GTA6",
+   "summary": "GTA 6 is a phenomenon unlike any other. Years of seemingly endless waiting, leaks, theories, delays, and a collective sense of anticipation that has spanned an entire decade. All of this while the wor"
+  },
+  {
+   "id": "rd-c9nbby",
+   "title": "Oh no",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xkqzs1/oh_no/",
+   "date": "2026-11-01T01:38:25.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Dangerous-Pickle5450 [link] [comments]"
+  },
+  {
+   "id": "rd-1xbiobf",
+   "title": "Rocktober was AMAZING (2)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xkqogk/rocktober_was_amazing_2/",
+   "date": "2026-11-01T01:21:37.000Z",
+   "source": "r/GTA6",
+   "summary": "More photos of marketing because reddit limits photos to 20 submitted by /u/nothing533439878 [link] [comments]"
+  },
+  {
+   "id": "rd-pvheds",
+   "title": "Rocktober was AMAZING",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xkq1cd/rocktober_was_amazing/",
+   "date": "2026-11-01T00:47:53.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/nothing533439878 [link] [comments]"
+  },
+  {
+   "id": "rd-15jxo36",
+   "title": "Not sure it this is real or is real but here’s all the police departments we could see in gta 6 (not sure if someone all ready post this but here)",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xkpbcr/not_sure_it_this_is_real_or_is_real_but_heres_all/",
+   "date": "2026-11-01T00:11:05.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/idk_Panic2842 [link] [comments]"
+  },
   {
    "id": "rd-tq2dk9",
    "title": "Scariest Halloween costume",
@@ -755,7 +796,7 @@
    "url": "https://www.reddit.com/r/GTA6/comments/1xkog4p/from_4_years_to_only_a_couple_days_left/",
    "date": "2026-10-31T23:29:13.000Z",
    "source": "r/GTA6",
-   "summary": "We’ve dealt with a lot. From 2022 all the way to 2026, with delays and sometimes months of no info, felt like this game would never come out. submitted by /u/poloheat [link] [comments]"
+   "summary": "We’ve dealt with a lot. From 2022 all the way to 2026, with delays and sometimes months of no info, felt like this game would never come out. edit: there’s some sticklers that didn’t like me saying a "
   },
   {
    "id": "rd-p250iw",
@@ -1004,46 +1045,6 @@
    "date": "2026-10-30T22:49:26.000Z",
    "source": "r/GTA6",
    "summary": "As first revealed in June, the Morgan revolvers that come with the Ultimate Edition notably contain references to the release dates of GTA Vice City (October 29, 2002) and GTA Vice City Stories (Octob"
-  },
-  {
-   "id": "rd-1trftxu",
-   "title": "Lower Saxony, Germany, recognized an educational course that allows employees to play GTA6",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xjtr5a/lower_saxony_germany_recognized_an_educational/",
-   "date": "2026-10-30T22:44:28.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Extreme-Shopping74 [link] [comments]"
-  },
-  {
-   "id": "rd-1ox34x2",
-   "title": "Living in vice city is amazing",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xjtf3w/living_in_vice_city_is_amazing/",
-   "date": "2026-10-30T22:30:05.000Z",
-   "source": "r/GTA6",
-   "summary": "Less than 20 days away and miami transformed 😆 submitted by /u/tremayne0127 [link] [comments]"
-  },
-  {
-   "id": "rd-9o8p1u",
-   "title": "GTA 6 advertising in Paris",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xjtbqm/gta_6_advertising_in_paris/",
-   "date": "2026-10-30T22:26:15.000Z",
-   "source": "r/GTA6",
-   "summary": "I wanted to share some of the GTA 6 advertisements I’ve seen around Paris the last weeks. I haven’t gone out to see the big ad on the tower yet. submitted by /u/stannya [link] [comments]"
-  },
-  {
-   "id": "rd-l5h2j7",
-   "title": "I genuinely feel emotional about GTA 6 coming out. I can't believe its finally nearly here.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xjstz4/i_genuinely_feel_emotional_about_gta_6_coming_out/",
-   "date": "2026-10-30T22:04:48.000Z",
-   "source": "r/GTA6",
-   "summary": "I don't think people understand how much GTA 6 actually means to some of us. GTA 5 came out when I was younger and it genuinely shaped these years. The hours spent playing it, exploring Los Santos, me"
-  },
-  {
-   "id": "rd-1pehm2m",
-   "title": "THE GRAND THEFT AUTO BEER IS REAL!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xjsp1z/the_grand_theft_auto_beer_is_real/",
-   "date": "2026-10-30T21:59:20.000Z",
-   "source": "r/GTA6",
-   "summary": "This is happening right now in Miami/Doral are in South Florida. Located at the Tripping Animals Brewing! While supplies last! Must be 21+ years or older! submitted by /u/GHUNTERthaFIRST [link] [comme"
   }
  ]
 }
