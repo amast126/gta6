@@ -1,27 +1,28 @@
 {
- "generated": "2026-11-03T20:23:19.907Z",
+ "generated": "2026-11-04T00:46:05.991Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 11,
    "scanned": 40,
-   "checked": "2026-11-03T20:23:19.907Z"
+   "checked": "2026-11-04T00:46:05.991Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-11-03T20:23:19.907Z"
+   "checked": "2026-11-04T00:46:05.991Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
-   "count": 102,
-   "checked": "2026-11-03T20:23:19.907Z"
+   "count": 100,
+   "checked": "2026-11-04T00:46:05.991Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-03T20:23:19.907Z"
+   "checked": "2026-11-04T00:46:05.991Z"
   }
  },
  "official": [
@@ -257,12 +258,140 @@
  ],
  "press": [
   {
+   "id": "gn-6ronx5",
+   "title": "GTA 6 Will Need Up to 212 GB of Storage, Pre-Load Now Starts November 10",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmdWUmFzemRQd3otQW44QWwtTnlSMFhVVE1qaDg0OHp2N195RURmSUxWaU4tcGZ5S3BmN2w1UTNQR1RFQjZ5R25UV1F1OWRJcmR1cWk0aTNwcnZiQ2thdkgteEVObWhPeUFQY0tERFlDUnQzV01zWEVoeGYwRXdoUkNlTUdHWTQxWlZEb250S012RUdfbU5SSGxXcWU3SG5iU3ZfNDZsbEJrZ9IBrwFBVV95cUxOckUwaXhpYU9jeU9TcXh3LXZFM3Q0UTZlLXVpdGI3QWlZTXRjSllzVnp3NkhsTmMwSE9vTjZ4NzZfR2xMX2p3dVI0a2ZsUjZDaG0tWXJ5eWtIVEZDQ2VVRXUwU3g4SlBabi1GWFNpLVRHRk9ZTGtYTE5fWms5NlozMFotZFBDb2pEaEtpVXlxV3hNSGdsR0FoQ190ckRYTHB4eHBGQVRHQ2ZoSHlES3BV?oc=5",
+   "date": "2026-11-04T00:05:05.000Z",
+   "source": "TechPowerUp",
+   "summary": "GTA 6 Will Need Up to 212 GB of Storage, Pre-Load Now Starts November 10 TechPowerUp"
+  },
+  {
+   "id": "gn-ve0alj",
+   "title": "Club Space To Turn Into The Vault, Celebrating GTA VI Release With Justice Set",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV3VHUzRVRWFMMGpnUE1SY1pfOW5KMjE0c2VGSFlkcGFEM1huN1VlaUJ3Z20wUllYVWp0RHZWcUNLLVZUZEVJbFVHQ2lOTTBzTDgxQlF5OVpGQUNtUGdkQ0x4MDRZbjRZS2kxc2tNNjRfV3Y4Nl9RbGRna3I0cW8wVy1xNnA4MHZjUEhZWjdfZVczVHJIb2wzc0dUZUgyN0trRDFWbzIxelM?oc=5",
+   "date": "2026-11-03T23:49:44.000Z",
+   "source": "CULTR",
+   "summary": "Club Space To Turn Into The Vault, Celebrating GTA VI Release With Justice Set CULTR"
+  },
+  {
+   "id": "gn-l2x8xw",
+   "title": "How big is the download for GTA 6?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UY3BwbExDdE5TeHRKdlBVaWdvUjRuTm12SDNFYlBNMDY0TzZaQklDU2RROUhVdUdoaTZzSU9CV2lDN2ZkemFuRlBFLWFWNXgzd3hVN0JHX1hzc3ZDX3BNN3FIWm5SM2NWYkJoSkx0dGFMZWRKc21QRlgzZmw4SHc?oc=5",
+   "date": "2026-11-03T23:15:00.000Z",
+   "source": "Shacknews",
+   "summary": "How big is the download for GTA 6? Shacknews"
+  },
+  {
+   "id": "gn-z6hfjv",
+   "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDdtcTRZcUxVMWdOY1JwVnNfbXlnVG5mdGdlQ2NJQmQ3NmtfT0E0clI3c1lJUVdfQzZLdjRHeTBNZS10Um94SDJaUlVUZ1RKQVdXWHV1LVl6ZWUzZnJIWnFteTdzSHlXQURuckFJLTh3Q1E4dlRRQU15bmdhWTRtWDJKblFEQTZkLWhzSkQ2Yno2N3lZa0FRb3doMFR3YXZnTnB2WTNZdTVJdU9kME93WlZMQnFHVXd2c3FKVVNUWHlQVUtCZHlZ?oc=5",
+   "date": "2026-11-03T22:51:15.000Z",
+   "source": "IGN",
+   "summary": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches IGN"
+  },
+  {
+   "id": "gn-15caepy",
+   "title": "GTA 6 Preload, Global Release Times and Install Size Confirmed, Rockstar Announces Physical Cover Art Poster and Map of Leonida",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNczJJRWlYakYwMlRoREIyZlZCV2c4WG9ibzh1OFRTYnVfakNVMDlkZnFxNWYwaFZhTnZBYWxvZDdzc21HMGx1ZndJUWo5OE1oei1jV1BsX1BXOXdMelpZc3NYRVBic2RqTmVRTnpXWklONFJoVDZxeDJmcnpoYWZ1UmpHZWgyY3lpUVhqdUZRcFMzZGdueFZ3akozbEcwN1Vfa3Q4dHdrNV92NEkzTkhDNUZ1NF95RlNadjMzYkk5bnJVLUVxakpPQS1MbnNVM3pkZVNfZnMycHZlZnJncjlNUU93?oc=5",
+   "date": "2026-11-03T22:51:15.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Preload, Global Release Times and Install Size Confirmed, Rockstar Announces Physical Cover Art Poster and Map of Leonida IGN"
+  },
+  {
+   "id": "gn-rcfu15",
+   "title": "'Go Play GTA 6, We Need to Detox,' Wardogs Developer Tells Fans as It Prepares to Take December Off",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTFVzVTB4R25EQnp3VkE2emhpZTZZaV9MRlNvRU1xUFVJVFZGWWhhdUJtYWlzRUEwdzdvNWhCSlBMbS1Wd0kwOW83N3FfM0tJV3dJRjRrMUhNUmE2NnJoeGpiYmpka1VuSlU0N18tWGtDU1EyYS1FQWhESUt0MnQyd2ZMUjRiZVFNTmt0dUpUcnBOS1JUTjFkXzBlM3p3M00yVXgyTmFvbnBqZnRzZFVia0cxc0tQWTM5ZWNzeXhoS0VQcjU2VktqSWt0Ujl1bE1wUnFpcHBGZVR5RmZv?oc=5",
+   "date": "2026-11-03T22:51:15.000Z",
+   "source": "IGN",
+   "summary": "'Go Play GTA 6, We Need to Detox,' Wardogs Developer Tells Fans as It Prepares to Take December Off IGN"
+  },
+  {
+   "id": "gn-s6ouau",
+   "title": "GTA 6 Install Size and Global Preload Times Confirmed - IGN Daily Fix",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0dTZzhHN1BSbnloQWdlajhkZXRsZkdxRHRCdmpzbWdQZUxZNTZHeExaYzBEdW56b0tNdFlnQTVqVWJ6ajFQVHFseDVubzFFUjc2b2ljalZhOFpWcVNqaG9sMU9OLWdDNHBtTGduY0JDZEUzM2JaTllXSWF0Yi14NDBzN3lhcVktWmg1X3hGczhBdlB2UzhXWlNn?oc=5",
+   "date": "2026-11-03T22:16:10.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Install Size and Global Preload Times Confirmed - IGN Daily Fix IGN"
+  },
+  {
+   "id": "gn-1ozzshr",
+   "title": "GTA 6 needs a whopping 212GB of storage, but thankfully you can preload it early",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kSUQxeE1oTmxoRU9XaWFhMFJ4MUdMNGo0Umw4RTU2cG84U1ZxVFAtcHVlbjJ0WDlTOGM1WmhEYzdLS0VUbXB6bGZLMjlUQzhib1lYSjRBXzdNUTJXNzZ1SU0yTG5jajcxSEpDT1JnNTB4V3BVSXhtTTdGVQ?oc=5",
+   "date": "2026-11-03T21:37:58.000Z",
+   "source": "Windows Central",
+   "summary": "GTA 6 needs a whopping 212GB of storage, but thankfully you can preload it early Windows Central"
+  },
+  {
+   "id": "gn-1tpgrfr",
+   "title": "This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUDJFajBHRF9BUjhmMFZqQk90RTFGekFod1pqMjJpUnNTOTB3SnVwTEdyUzJkZUE2clowWm5aWU9kTEQwMnVYZVBqWGwzbWZ4SlA4ckM2bDRYbjZ0OGRkQk9uRTc0UXBmQk8wZl9Zc3pLejEyWnIxOWY3NEtJam5PLXRId3dNZGxQcXhodWNXdVBnZXkwNVRFd2tnNGJ2M3JzeUExd0g4b2VPT0U3ajVhMTRn?oc=5",
+   "date": "2026-11-03T21:24:15.000Z",
+   "source": "GameSpot",
+   "summary": "This Custom Xbox-Inside-An-Alligator Console Is Actually One Big Ad For GTA 6 GameSpot"
+  },
+  {
+   "id": "gn-bwlrzo",
+   "title": "'Grand Theft Auto' community organizing 'last ride' on old game before release of 'GTA VI,' but why?",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeG1Cb014Ykg3SU9BNEk1ZVB4a0JHTjdOWVNsU2xGYzJiNng4SzRCR3ctcHloZjJya01Ta2hTb05zNG54X0ZuX01XTlVNZmtPbWI3ZkowMi1OZElweDBUOXVWVUptOVhBTGNkZVlpVXh1aDBMcklTdmdwOUV4WXZaUk9mcGJfYTNyUjZTdWdwOVlfMGpkS0VtWUhvY25SdGdfUV9rOW9Hb2lFc3VPWWpCQTFlYUFtN3NpS2c4N1pR?oc=5",
+   "date": "2026-11-03T21:18:45.000Z",
+   "source": "Fox News",
+   "summary": "'Grand Theft Auto' community organizing 'last ride' on old game before release of 'GTA VI,' but why? Fox News"
+  },
+  {
+   "id": "gn-qzv3bq",
+   "title": "In GTA VI, I'm Most Excited to Just Walk Around and Explore the World",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcXZTb0k3MHpHY3lTRTZhZ1FacUNfNWpXOS1lNVh1anNfY3NGcVRaYTkxNEhfRmY3S1VGV0pUbVVzSUhxa2NvVFB6eWhYY19DT04wRlhXZnlOdko2S0w0ZVRoNGlxVm94ODAzdEZ2bVRjX0JUeE85S1Z4UFlnLTk1S0U3RXdLTHFQeVpEdDBTMm9tTTRuZ2FZTUlvcw?oc=5",
+   "date": "2026-11-03T21:15:00.000Z",
+   "source": "GameTyrant",
+   "summary": "In GTA VI, I'm Most Excited to Just Walk Around and Explore the World GameTyrant"
+  },
+  {
+   "id": "gn-g0eaoa",
+   "title": "Terminally Ill ‘GTA’ Fan Dies Three Weeks Before Game’s Sixth Installment Releases",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDM0SGU1Wi1zM1VJYmxTQmZoSmR6blNBdzBwLUJReUVjc3lOTmwyREZ1a3dWdFZqYlBYeFZMRkZiZ3F1d1FIZzFSS0RBc0ZKeXNwWUpwVFhLNlUybE15dDctVXZkUm9wZHZ5ME9aN2hGc1NlUFNsREhxWGxXZkozTDNCcEJoTXM?oc=5",
+   "date": "2026-11-03T21:14:12.000Z",
+   "source": "Complex",
+   "summary": "Terminally Ill ‘GTA’ Fan Dies Three Weeks Before Game’s Sixth Installment Releases Complex"
+  },
+  {
+   "id": "gn-1k8q2w3",
+   "title": "Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekRZellZNlBMeDRYd09hSGFRZDZ2MVNPMmkwQTA0NWlOVWxIOWNnQ2dOMzNuUkFNNDZjcDhNNk5QLTdfYWh0SWVLYkxmOS1yQ3kxWnVlTWNWLW51Zks0SFlvMnJMMEtTU2tiV0h3aVk3NGJyTzdfTFJZNS1adFo2UjF6NWMtQXQ0cm5wNTZQdXNyWmpZaG0zaUpETVhzOUJzaHhyOUFSRVlYZGxOYlpHcnZ2TWJHYlk?oc=5",
+   "date": "2026-11-03T21:00:56.000Z",
+   "source": "Kotaku",
+   "summary": "Xbox Isn’t Allowed To Market GTA 6 So It Stuck A Console Inside Of An Alligator Instead Kotaku"
+  },
+  {
+   "id": "gn-1texdxf",
+   "title": "Have the PS5 and Xbox Console Shortages Been Exaggerated Ahead of the GTA 6 Launch?",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmtRaTVfa0otdzJnVEhTNTRSOE12bGFTSHNiVllMME54NWlmQm0wWUZRS3hTYnk0T1BOZnd5MWF3QmFwS0N6SGwtalNDcGV4X0JKTVBEbWp3bVNveE14SEZ6MUNRMHl1MWs1bUJrc0U0dWU4NkVlNDV6cUVod25XNGt6YUtfUG9keXJqSG16WS1ub1JrbnpMbXVubkRGZmdkZUE?oc=5",
+   "date": "2026-11-03T20:59:20.000Z",
+   "source": "IGN",
+   "summary": "Have the PS5 and Xbox Console Shortages Been Exaggerated Ahead of the GTA 6 Launch? IGN"
+  },
+  {
+   "id": "gn-1ess3kp",
+   "title": "It’s official: The GTA 6 map will be free and will also be available in a physical edition for less than a dol",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSi1BQkk0ZUJQd201ZGYtYW1GbG1lTG1nNWtXWjNDT3RXbFQ1WVY5WkpBVlZaT3IwTEV4Z3NBMUczelA4cVpUeHpLS0N6SF9feFBTY1cwUlltTXBRUVFWRFI3WUtfMlpoX1hKcHdhUmNQQ0JZLXI4RTgxcWsyV2ZNUmdaTUZja25oR0dNblQ5dFd5M0lBY2ZpODRaX0c3c0pjWXVfVFFJcEhwTHFCSzM4dUV6T1cxRV90ZGJKSEhIOXZjbU9yQTB2dzRJQmVmZUtMTEpNZDlkUUs2NXg1LV9IMHpuVVRkMEZvdlFNRTd30gGCAkFVX3lxTFAzUnVLUVY0MEZRclRja3ZyOFVZZzZ6UC16dHZLZ0V5QVhFX0lNSDlmVkdQWTkxRlo3alFIUE9oZEpXbTk5THdKdzgwOHFvNURPZ1pnRmR4UDRpTTExTkJCMWFjdENXaEt1ZERGeHRhOEs5NGlwY3YxaW5JUDFNcHBidFZDVlh0QmE4UG9UeF9zRjVvTVlWWTVvd1JudjNCazY2blVhX3ZEX1d4Y0NTWG0tbzEwR3dPMGFibXdiNENqMjZSQ3VkMHVGU29HbWk5bTBid0V0M181b2JXcWpvd2g4bkN6akdQOFBKUTB1WDFFdnl1a3hOaktTSXlYOVd1a1ZpZw?oc=5",
+   "date": "2026-11-03T20:47:31.000Z",
+   "source": "Diario AS",
+   "summary": "It’s official: The GTA 6 map will be free and will also be available in a physical edition for less than a dol Diario AS"
+  },
+  {
    "id": "gn-ed5xi6",
    "title": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaDh6RTdYQ1JLeS1BT2FvOFVydmIyS1JYdzJVY3VNOXZhWFVid3FrUHlvM0VHek5kMVZBM2VUempPUmRrcTZvY3NkTGdZRWs0RENoVWYtSmp6Qy1GcXFxTkcwcWJQd0FwTHhsMk8tb0ZnX1RZTFNkNjdib2xLbkVIbllocGVJSUlDOXgtRHpJdTd5MGFtMldCeDFKa0d4aWtTWXFTYkptVGNYbGJSdWRlUVlUNzhZQThKVU9NMWl0VzdwN3R4cEtFZmF6Vm9RZjBNWGg0Mg?oc=5",
    "date": "2026-11-03T20:12:55.000Z",
    "source": "IGN Pakistan",
    "summary": "Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release IGN Pakistan"
+  },
+  {
+   "id": "gn-vg0rt7",
+   "title": "'Save That Stuff for the Streets of Vice City' — Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzM0VHVmMDM4d0tDWi1DVUFPVHUxYWdCQm5hbkpJVmw5N0pQQTNwSzdabkFQYUV0clUwcnpfNGMwTDE1Yjh1RnFXVFgwdWZpN1UyUHRpSkZDU1AxcjFvN1l3a25wREQ3OUVGY3lqUnA4bEExdEU2cVBYRVQ3VW9ITEhPdDdvbGtxZkJ3djZWZGVYczN3OC03Szk0ZE1DSHUy?oc=5",
+   "date": "2026-11-03T19:56:46.000Z",
+   "source": "IGN",
+   "summary": "'Save That Stuff for the Streets of Vice City' — Police Mock Car Chase Criminal for Getting Arrested Right Before GTA 6 Release IGN"
   },
   {
    "id": "gn-tcn3bo",
@@ -273,12 +402,28 @@
    "summary": "GTA VI Score by Justice set for December release Qazinform"
   },
   {
+   "id": "gn-4hgir7",
+   "title": "For GTA 6, Xbox Put an Xbox Series X in an Alligator",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kQmRKa25KLVQ4Z1d0d21fU1Bnb0JqeUd0X2ZMLXFBczYwa0pMaWQ5MDQxXzNFOVM4X2hvUXZ4a2Z4S0pQTS1sODF0dnpnWGYzc3pZZmdKWVdsZXZkQ3FIMDR1VjZzS0ZFRVptODJoX3ByRUROR2RqLVZR?oc=5",
+   "date": "2026-11-03T19:40:39.000Z",
+   "source": "Polygon.com",
+   "summary": "For GTA 6, Xbox Put an Xbox Series X in an Alligator Polygon.com"
+  },
+  {
    "id": "gn-wdjeld",
    "title": "Gigantic GTA 6 download size and pre-download timings revealed as countdown continues",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamloSU5vV09SQk5UeDdrRVNMTmo3WlVRQlFXV0lHTDdYR0JvT3pURnA5amJBYU8zb3kyY3ZEd3FmNTRvMGNiRFNZQWJjY2JCRkZ5S3dhd3JkTGduRmU1cUVmS01ZckJVc2RBVHJrclNLaXE2YjBFa0tWeVNrbEpUTHI2UjZvc1pHamxGVEpIbnZVV3U3RTBlZW1qc0l3TjVlZ253cFVKd0dxa01vcGIzcVRn?oc=5",
    "date": "2026-11-03T19:36:28.000Z",
    "source": "Stuff",
    "summary": "Gigantic GTA 6 download size and pre-download timings revealed as countdown continues Stuff"
+  },
+  {
+   "id": "gn-1v2l84q",
+   "title": "GTA 6 pre-load times: When you can begin downloading",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSTG1SNGNmdEl6X3BtUWt0aHZzSnZWRmdVUWNXX0JpakpvbUllWWF2a0RqN1loSHZzajhHYW9GQWhqaFBUUkpFdjRFLWxLRDBIMjRmWlhVeXRqSkJy?oc=5",
+   "date": "2026-11-03T19:35:49.000Z",
+   "source": "The Big Lead",
+   "summary": "GTA 6 pre-load times: When you can begin downloading The Big Lead"
   },
   {
    "id": "gn-107pleu",
@@ -297,20 +442,20 @@
    "summary": "GTA 6 Is Getting A Physical Map--Here's How To Get One For Free Or Very Cheap GameSpot"
   },
   {
+   "id": "gn-1d5z45a",
+   "title": "GTA 6 Preload and Global Release Times Confirmed by Rockstar Games",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUzZ5UDEzeFRvWmdWRHJXYzJDMjlOMHlTZ3FVaGl2dndNS2ZXc3RRNnlSSmtZOWxYQnNiUDNLZ2paZ2xaOFZzN3loN204WDVLWksyaktvelBERFJxRnZnNlFCbFpWelk5Ny1hdFloQ3BGakw2TVpBTWZldU5JaGxhXzgwbkRvX1RsalNHOUVZckNGZVV4YmJZS1JGamJ3Z0tCbHRHSVBTYlNaZi02Nk5Yak5EeGJBRktzZkIxczVaYk9nVWJoWDA2dTB1OGZobnd5SXhPUTFR?oc=5",
+   "date": "2026-11-03T19:22:59.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Preload and Global Release Times Confirmed by Rockstar Games IGN"
+  },
+  {
    "id": "gn-16qw5al",
-   "title": "Xbox Announces Sweepstakes for an Alligator-Shaped Series X That You Can Win Before GTA 6 Launches",
+   "title": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNamYxZ1BtVU9lWkljdWZuUVZ6bU5taF9nMW5SeE5FbTViWktNTHFJdUN2MTl2WEJ1WnZEdjMybm1HNlZtdHFVd2VsTjRMM2lvR0M3bEF5MGtFelU3ZDdEeWsweXNnQVliUUd5d1FpMDE2MGkxOHE0SUdMLWNYUnlQeWNJdWFsenlTa3ZVT3hEcmxxb3RVeUtaUlJlTC15ZXB5VW85cEVxeFF0Umlw?oc=5",
    "date": "2026-11-03T19:20:49.000Z",
    "source": "IGN",
-   "summary": "Xbox Announces Sweepstakes for an Alligator-Shaped Series X That You Can Win Before GTA 6 Launches IGN"
-  },
-  {
-   "id": "gn-1v2l84q",
-   "title": "GTA 6 pre-load times: When you can begin downloading",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSTG1SNGNmdEl6X3BtUWt0aHZzSnZWRmdVUWNXX0JpakpvbUllWWF2a0RqN1loSHZzajhHYW9GQWhqaFBUUkpFdjRFLWxLRDBIMjRmWlhVeXRqSkJy?oc=5",
-   "date": "2026-11-03T19:18:43.000Z",
-   "source": "The Big Lead",
-   "summary": "GTA 6 pre-load times: When you can begin downloading The Big Lead"
+   "summary": "Xbox Made an Alligator-Shaped Series X, and You Can Win It Before GTA 6 Launches IGN"
   },
   {
    "id": "gn-wswdk2",
@@ -325,8 +470,8 @@
    "title": "GTA 6 Disc? No: Physical vs Digital, 212 GB [2026]",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMkc4cjRsMXh6V09oTC1zdWh3NkZNMzNxV29pTERmUURfazlSMThUNTZ5NGZEc09CaU5aVTlzYUxtRWIzT2M4T1V5c1NNRkZMaXlzQ2I3YXhVZEFsdWtnOTdaZUZwZDVWUmM5aVoxb0kxTFI0VU5LV0NvM2FGUmlJWlhXSjY?oc=5",
    "date": "2026-11-03T19:00:43.000Z",
-   "source": "tech-insider.org",
-   "summary": "GTA 6 Disc? No: Physical vs Digital, 212 GB [2026] tech-insider.org"
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Disc? No: Physical vs Digital, 212 GB [2026] https://tech-insider.org/"
   },
   {
    "id": "gn-17aw9sp",
@@ -359,14 +504,6 @@
    "date": "2026-11-03T18:26:46.000Z",
    "source": "Thurrott.com",
    "summary": "GTA VI Will Take Up to 212 GB of Storage on PS5 and Xbox Thurrott.com"
-  },
-  {
-   "id": "gn-1d5z45a",
-   "title": "GTA 6 Preload and Global Release Times Confirmed by Rockstar Games",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUzZ5UDEzeFRvWmdWRHJXYzJDMjlOMHlTZ3FVaGl2dndNS2ZXc3RRNnlSSmtZOWxYQnNiUDNLZ2paZ2xaOFZzN3loN204WDVLWksyaktvelBERFJxRnZnNlFCbFpWelk5Ny1hdFloQ3BGakw2TVpBTWZldU5JaGxhXzgwbkRvX1RsalNHOUVZckNGZVV4YmJZS1JGamJ3Z0tCbHRHSVBTYlNaZi02Nk5Yak5EeGJBRktzZkIxczVaYk9nVWJoWDA2dTB1OGZobnd5SXhPUTFR?oc=5",
-   "date": "2026-11-03T18:25:21.000Z",
-   "source": "IGN",
-   "summary": "GTA 6 Preload and Global Release Times Confirmed by Rockstar Games IGN"
   },
   {
    "id": "gn-320pnn",
@@ -441,6 +578,14 @@
    "summary": "Bethesda reveals Elder Scrolls 6 title, likely location, and that there will be life after GTA VI GamesBeat"
   },
   {
+   "id": "gn-14hm8wa",
+   "title": "It’s HUGE! GTA 6’s storage requirements have been revealed",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm9sQnRsM21GeTN0OGV6ekU1V1V5NGNsR3EwRjY5MFBGSno0MmRRVzQ2ODVjQ2M5WHF5MjBvTkhFNUM4d2liLUJmNDlJV1k1cFY2ampYMV96cTFIQ0RrRDl2VEU1SDBNSWE1ektQNEVZdk4yNndYckZTTGZ2WWEzdGw2NHhQNFU0OXZ3b3NwU3hWaTNxWThWcVNB?oc=5",
+   "date": "2026-11-03T17:35:46.000Z",
+   "source": "OC3D",
+   "summary": "It’s HUGE! GTA 6’s storage requirements have been revealed OC3D"
+  },
+  {
    "id": "gn-17gt7ly",
    "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\"",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tVGFRbmpGem0yNVZ0bkswY0pCREVubG4xUDVyOEg2MHl1TGlBQnFvdEoxSl8zQ2xac2lIWUxLX0tHVzJXRFNVTXRaNUhfcEw1Rlg2MVNRUTFBdlUzYmhjN3NQaHhmVy1wM0dhcm9mc1l3QQ?oc=5",
@@ -473,14 +618,6 @@
    "summary": "GTA 6 gamers could save themselves $5,000 as game's huge price tag gets unexpected defence GAMINGbible"
   },
   {
-   "id": "gn-14hm8wa",
-   "title": "It’s HUGE! GTA 6’s storage requirements have been revealed",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVm9sQnRsM21GeTN0OGV6ekU1V1V5NGNsR3EwRjY5MFBGSno0MmRRVzQ2ODVjQ2M5WHF5MjBvTkhFNUM4d2liLUJmNDlJV1k1cFY2ampYMV96cTFIQ0RrRDl2VEU1SDBNSWE1ektQNEVZdk4yNndYckZTTGZ2WWEzdGw2NHhQNFU0OXZ3b3NwU3hWaTNxWThWcVNB?oc=5",
-   "date": "2026-11-03T17:12:11.000Z",
-   "source": "OC3D",
-   "summary": "It’s HUGE! GTA 6’s storage requirements have been revealed OC3D"
-  },
-  {
    "id": "gn-rxzq69",
    "title": "Goodyear is riding the GTA VI wave with a \"Vice City\" blimp that will fly over the Miami NASCAR race",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSkdXTVJSS3lzVVJ5TWRYT0dlM05wVGMtM2llNGZBMVZ3a29GLVhsX2ZWWHA3QUMwTnRZcXFiQ1hvSjdMM2JITkw5XzBkczhlZW5DX2Nia1ZtSjRqcm44SXRfUXdIY3JzOV9acF9qT251NGpMOGw0dVZFUU1YX01vakRZWkszOFliTVpjYzE2cVQxYS1Nel9DWGhkdmxRbHlOSzlvRWREWS1lYmg3V3N1YnZLM0hzcFZhaXZnNERMQlRXTndmd28xbHh5S1V1ckRsamRmOUhkX0dfUV9uQnlUX3I3TkpvYmt1bE5r?oc=5",
@@ -495,6 +632,14 @@
    "date": "2026-11-03T17:04:02.000Z",
    "source": "Kotaku",
    "summary": "GTA 6 Pre-Load Times, Install Size, And Global Release Times Confirmed Kotaku"
+  },
+  {
+   "id": "gn-10gu3of",
+   "title": "As 'GTA 6' release looms, Kai Cenat will stream 5 'GTA' games in one sitting",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjdmlDV2k2UXhfVHRaeFNmYndIUDlqRVZRU0dvVmZkcGwxLW05YlFVaDBDUjRUVEl5c2IyLTZpX0JQLVlTNDRLTEZ6UG5DUENFbDJHeWhJYy1UTlh2Y1dTYXE5UTNoY1oxUjU0VkhNejdiUl9ybEQ4ejNNUlB6VEk?oc=5",
+   "date": "2026-11-03T17:01:00.000Z",
+   "source": "Mashable",
+   "summary": "As 'GTA 6' release looms, Kai Cenat will stream 5 'GTA' games in one sitting Mashable"
   },
   {
    "id": "gn-1y4wy4l",
@@ -529,14 +674,6 @@
    "summary": "Downtown Miami’s E11EVEN nightclub receiving special ‘GTA VI’ makeover for one night WSVN"
   },
   {
-   "id": "gn-k411d4",
-   "title": "GTA 6 pre-load begins next week as Rockstar confirms 212GB install size",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2ZVbmRzSnFrai11RVp2dkU2TFJpU0l0WDNWZzlNLUFNU1ljSGI5eVBGRnFWN2Rnd09XRFgwNVU5Q3pNRUdlYl9uN2xmeFl6MEFhWm8zOHYta3VXVU1LNkFOUUFabFpOVzVmb2JyVlNkZlJKZ1Z0UTVzbzdWNGdka3BLdEk0WnZvOUZ6Zk5XclNNVUhuS2R1b0l6Y3VCRGRGWUd1cjBFbGhmNE9faGlZcElOdUY4V3c2UFE?oc=5",
-   "date": "2026-11-03T16:49:25.000Z",
-   "source": "KitGuru",
-   "summary": "GTA 6 pre-load begins next week as Rockstar confirms 212GB install size KitGuru"
-  },
-  {
    "id": "gn-1nho8a6",
    "title": "As 'GTA 6' release looms, Kai Cenat will stream 5 'GTA' games in one sitting",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUVc3RVRHbE0ydVFEUEFtRm9sWTFaeXloV0ZnU0Z3bW9qV0ZhT29yWEpQaE8xRGJlaHdLalJBa2gzcFROMFdISF9mcjVBNFpWYjVLQkVzdUUyNHVXS0c1RjNsYXdzS2tiRDN2WjMxSmI3NEplOE9zRnFPNXJMRkg1b01qZmpueEdtNVRHR3d4b1ZGSVB6dGxweE0xWG9tQ183clh4cHlxRmVNZGk3?oc=5",
@@ -553,12 +690,28 @@
    "summary": "Grand Theft Auto VI Pre-Load Begins November 10, Requires Up to 212 GB MonsterVine"
   },
   {
+   "id": "gn-k411d4",
+   "title": "GTA 6 pre-load begins next week as Rockstar confirms 212GB install size",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2ZVbmRzSnFrai11RVp2dkU2TFJpU0l0WDNWZzlNLUFNU1ljSGI5eVBGRnFWN2Rnd09XRFgwNVU5Q3pNRUdlYl9uN2xmeFl6MEFhWm8zOHYta3VXVU1LNkFOUUFabFpOVzVmb2JyVlNkZlJKZ1Z0UTVzbzdWNGdka3BLdEk0WnZvOUZ6Zk5XclNNVUhuS2R1b0l6Y3VCRGRGWUd1cjBFbGhmNE9faGlZcElOdUY4V3c2UFE?oc=5",
+   "date": "2026-11-03T16:41:44.000Z",
+   "source": "KitGuru",
+   "summary": "GTA 6 pre-load begins next week as Rockstar confirms 212GB install size KitGuru"
+  },
+  {
    "id": "gn-1m6p84e",
    "title": "GTA 6 Pre-Order: Price, Editions and Bonuses",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONmIySXg5emdaUkJPX0ZXVDZScElYU0swWFR0aDdBRmdHTm9oR1ZLT2xLRXBLcU1jVFhDcjQ1cFY3QkxMU19DZ0xSSENJV1h1UXhFYmxXVmJwWV9STG9iN1p2Z3BVMUlKUEpvZVJJYlVVRXNmcmxDV2FvdHFVb2JON1JLY2RpVFVHcVk5WlJLU2ZodlM3?oc=5",
    "date": "2026-11-03T16:40:23.000Z",
    "source": "EGamersWorld",
    "summary": "GTA 6 Pre-Order: Price, Editions and Bonuses EGamersWorld"
+  },
+  {
+   "id": "gn-1gm76qw",
+   "title": "GTA 6 Pre-Load Timing and Install Size Revealed by Rockstar",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSks2TWRKMkhDNlZzV1pfRnFhbnFESjAwWVJRUFctLTFfOHNYaTY2OGJDYklvcHFkWFp3cnRBWjlRdVV5X1d1TUxWQjFvbjNlVXpDQTVOc25kQzA3VS0tREt4YXVDWjVTR2MyNE5YMmd6SUJBX0VfTkpBdnNuSmdfc1NETjNsN0taMmJVN1k0a0paTDZXSUE?oc=5",
+   "date": "2026-11-03T16:40:17.000Z",
+   "source": "PlayDayOne",
+   "summary": "GTA 6 Pre-Load Timing and Install Size Revealed by Rockstar PlayDayOne"
   },
   {
    "id": "gn-3c4uq",
@@ -569,175 +722,79 @@
    "summary": "GTA 6 Has Made Over $750 Million in Pre-Sales Insider Gaming"
   },
   {
+   "id": "gn-19flhnr",
+   "title": "GTA 6 Pre-Load Date Changes, Release Time & Physical Map Confirmed",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2tCSXJnN1ZCZVhvUUF0QmotbmtYcHFSQ3pQdUVreExNVklManFCYTZZNjE2VmdTRTh4Z2dKUEpJSlJiREZqWnJBZllybkpiSkdqWmdQM1RuRVVZSzFOWWVLMXloNVJCSGs2eVpYR0E4Tkg3d041dFBGLW0yWFRpd0dJR1NpQXJ6bk55N3lnVUpCdmV3?oc=5",
+   "date": "2026-11-03T16:38:00.000Z",
+   "source": "RockstarINTEL",
+   "summary": "GTA 6 Pre-Load Date Changes, Release Time & Physical Map Confirmed RockstarINTEL"
+  },
+  {
    "id": "gn-uj7ceo",
    "title": "Grand Theft Auto VI Preload Set For Nov. 10, Rockstar Confirms 212 GB Download Size",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ1RrUjBoTHdoVEpkN0dkYVBwTmZpRURkbU9hOVJzSlpQRndqNEJzeWlFcWJ1ZmVWaXFza2wwY1IwcjZtdEhkUi1VeGRvSWhTUVN1ZFVKY1VaWjdJbEV0WXJIMHZuNktiUHlrcVgwLVl0YmlyOTBVd3hxeVA2V1RuMnY0UUpONzFtRjU2TFREalZDNUVINXRta1hvV3JyUnBMand0YlFDbVg?oc=5",
    "date": "2026-11-03T16:34:57.000Z",
    "source": "PlayStation Universe",
    "summary": "Grand Theft Auto VI Preload Set For Nov. 10, Rockstar Confirms 212 GB Download Size PlayStation Universe"
-  },
-  {
-   "id": "gn-1xoqujl",
-   "title": "GTA 6 Preloading Starts Nov. 10, Requires Up to 212GB of Space",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQV9LN2kwWlU3OFA1aHN6MXdxOXZmb0FHY1Z4Y1JYTlB5Tk5VcDZqMFJXMnZiXzh5RHJHNmJzS1NTSEZxQ1F2eElsLWpvUU0yR0k5QXlvWmhKTU1uV3lxT2wtVUxVUkFGb19icVFkbTU0U29QN0xqNGktMElGenhEWnM0Yy1NZDNDMkdHNUxYSUc?oc=5",
-   "date": "2026-11-03T16:27:00.000Z",
-   "source": "PCMag",
-   "summary": "GTA 6 Preloading Starts Nov. 10, Requires Up to 212GB of Space PCMag"
-  },
-  {
-   "id": "gn-1rdcbbs",
-   "title": "Rockstar confirms GTA VI pre-load to need over 200 GB space, double that of RDR 2",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd2dnQ3pRd3NwUHV6a1JSYU1jTGtyamFncVp0YS12bFpYcllVZnJEV1JlWFpBRXZ4YjJoWjhrVDZ0emFPc1U5aFBsclJkLTNMN2tFd1ZuUk50NFBOeDJrOVgyaF9ZNGpQbUV1OHBtZlJoZWUxcEhad1l4UzJkVzlzZzYzVmp5b0YtUXptSXJ2cVBaLUJBVENMU3lCa1MyS1dPeGs5U3BBWlhvUDZ2WXc?oc=5",
-   "date": "2026-11-03T16:26:00.000Z",
-   "source": "Neowin",
-   "summary": "Rockstar confirms GTA VI pre-load to need over 200 GB space, double that of RDR 2 Neowin"
-  },
-  {
-   "id": "gn-1hoorq1",
-   "title": "GTA 6 Pre Loading Moves Up to November 10 With a Free Map Bonus Included",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWW1IdHlfZm84bmFxWXktelZwaVdrcDdfMnJfZW5EendUN0lhT2I3WF9sVHl2OGtrY1UyR1lVWERXY3pkOFBjaUl4TWt0d2plWGlzck9xSFl3aURLNmpHazNkcklBbkg4R2NIWUhna0d4b0JFQi1ZM2JINmlKUjVhRjR4T0NJbEhHMFp0TkFUVXc2enpUNnlaMlZmSjZiRVNNdUJXVXhwYnJPdHFldE1EdTRB?oc=5",
-   "date": "2026-11-03T16:23:35.000Z",
-   "source": "GTA BOOM",
-   "summary": "GTA 6 Pre Loading Moves Up to November 10 With a Free Map Bonus Included GTA BOOM"
-  },
-  {
-   "id": "gn-1s7xn8q",
-   "title": "Rockstar Confirms GTA 6 Midnight Release Times and Storage Size",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2Z4WFhmNHRPcEZrNnZJSVpkWGZ0cXJPSjVYQ0lzcC1RM1dMdkVmaTZ1VFdDTHAxd05vT2xxSTVjVGFlOUhtdWV0ZFZrdm1YRmxTNDQ5M1dwRkx1b1lOTGRfZjlfS3dLaG8wT01UbWRLYy1Oc01ESWQ0dl9jNDNqTy14WlMzQQ?oc=5",
-   "date": "2026-11-03T16:22:27.000Z",
-   "source": "VICE",
-   "summary": "Rockstar Confirms GTA 6 Midnight Release Times and Storage Size VICE"
-  },
-  {
-   "id": "gn-1gm76qw",
-   "title": "GTA 6 Pre-Load Timing and Install Size Revealed by Rockstar",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSks2TWRKMkhDNlZzV1pfRnFhbnFESjAwWVJRUFctLTFfOHNYaTY2OGJDYklvcHFkWFp3cnRBWjlRdVV5X1d1TUxWQjFvbjNlVXpDQTVOc25kQzA3VS0tREt4YXVDWjVTR2MyNE5YMmd6SUJBX0VfTkpBdnNuSmdfc1NETjNsN0taMmJVN1k0a0paTDZXSUE?oc=5",
-   "date": "2026-11-03T16:19:40.000Z",
-   "source": "PlayDayOne",
-   "summary": "GTA 6 Pre-Load Timing and Install Size Revealed by Rockstar PlayDayOne"
-  },
-  {
-   "id": "gn-1ffo54t",
-   "title": "GTA 6 Pre-Load: Date and Disk Space Requirements Confirmed for PS5 and Xbox Series X/S",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM0t4eWxTVkN6eWdtdG8tLWdCUERRWF9pUEpiQ3VmendnUFROcmVZeHp2T2s1aUl5blduSWdoTUs2WkM0bHRZbG9yeXdzTzc3RGlZcmFmZHJVRGNqYnc5WUxaLWg5c0NaRnV5eXlhOVJuUFZxWjRjaUlIN1k2dlJsUkVBYWRZZ2dwdjJKWlBPQ0ZjTWFBSEdlaDBDTHZKNmhNbzIzVzhoVWp3Wm0xREdYYXJ2VXN4Y180YWhLYWQxeF9yYUstelA0?oc=5",
-   "date": "2026-11-03T16:15:00.000Z",
-   "source": "Digital Foundry",
-   "summary": "GTA 6 Pre-Load: Date and Disk Space Requirements Confirmed for PS5 and Xbox Series X/S Digital Foundry"
-  },
-  {
-   "id": "gn-105h53h",
-   "title": "Rockstar reveals GTA 6 pre-load times, confirms 212GB install size",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZGpRMXpDNFJuTHp6VzdEWDZzdVpaazhQSWtSWVZvZlNiYTZlWG4xTENqWjVKanZFcllNdXV4TmVFWkQtdTJrcXFQTGZEeHAyWFFkRzFYZG9ldEUzcFpHdHMtbW9oVG5nS3o4QjV0cHdTTXhEM1FSel9COVc3N0MxT3dmak9oLWVfOE9ZVnByTFVkZzNqTDJ5bUZiSm1ObWNNZVZNSWluS0YyZmtJQzdUaHRWT0U?oc=5",
-   "date": "2026-11-03T16:11:15.000Z",
-   "source": "TweakTown",
-   "summary": "Rockstar reveals GTA 6 pre-load times, confirms 212GB install size TweakTown"
-  },
-  {
-   "id": "gn-1pf2znu",
-   "title": "You Can Preload Grand Theft Auto VI On PS5 and Xbox Next Week, And You'll Want To Because It's Massive",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSG1US0dpbkNpQ19nQ0NhX3laeXNoRTFSZUZOclFQZzJaVm1EVjE3VzFPejU2RHdsaDF2TjRNcHFhWnlVbXlfS0ZsVi02TlRjSUpBOHczeGI3M2VlekhiUktwbXdpWHlyVzhzalQyWWFXWkFRQ0lJdTEtTnhEUjN6a0NCVlptQXlwVEpVZGZYR2d1SlctLTVOVVVNXzdrbVFkdlkyMFNkRzhzdFBOc094eEJvUWlFZzBVMjBCaEpoVGY?oc=5",
-   "date": "2026-11-03T16:11:03.000Z",
-   "source": "Game Informer",
-   "summary": "You Can Preload Grand Theft Auto VI On PS5 and Xbox Next Week, And You'll Want To Because It's Massive Game Informer"
-  },
-  {
-   "id": "gn-1lrcakf",
-   "title": "GTA 6 preload date and times confirmed",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOFc0VTM4ak56aUlPdDhGbUpnUlZaMDBJOEx1cjcweW1MZmNYUVVRM2lreHFkSUU0dW14QTRkVFl5cGR4TVNycEprN05fVXNpRFBQMWFPN281NUJGMlZ0QUlRZFNhWUJqdjRuU254Z1dFNDViZHk3UC1ZeExfNlZfRg?oc=5",
-   "date": "2026-11-03T16:10:21.000Z",
-   "source": "GamesRadar+",
-   "summary": "GTA 6 preload date and times confirmed GamesRadar+"
-  },
-  {
-   "id": "gn-f9udqn",
-   "title": "GTA 6 digital pre-loads for PS5 and Xbox will begin 9 days early and require a whopping 212GB of free space",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcWFxQ3ZYV2JfWWJvTHc0aGxYWHZ4dWNlQXF4bkRIRmZzZlQwdTdqdGpxR1ItWlhVNVZ6NGI3ekM3SUR2UHRMQS1EZkJJQ1dnYVZkcFctQ084ckF6VjQ5ZzNzRWFEQjAzcF82TEJVZl9LUmRXM0NiTnREc0Q3eW81VVhCQlBWWWppZnV3Q3E1ZWVzWTFOeXY1U2hCS1ZzZ3Q5dGl3ODBPcDFMa1daWmJrdF9lWHVyZHFWcEh3UGNFZTZRWUFLSThlXzdqZDBlcXhOdW9yY0hNMA?oc=5",
-   "date": "2026-11-03T16:07:35.000Z",
-   "source": "TechRadar",
-   "summary": "GTA 6 digital pre-loads for PS5 and Xbox will begin 9 days early and require a whopping 212GB of free space TechRadar"
-  },
-  {
-   "id": "gn-342vpj",
-   "title": "Grand Theft Auto VI Pre-Load Starts on November 10",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTUtZcF9lS25ISkhkTmdCWGdYemRRX0R1R0d3cGlOQ2Q4elpiNm43dmJnZ3lkV3V3V2VySDg0bDFZN2JmcGRQdXYyRWp1N0R2X0Vlbno0RnNfZVJxcHVyMTR3bkJMQWhfMG5GWmJrcWxfalNaY2N5ZFcxMEZ0dTBCY1FmSDlLdnhnRHpIY0U1ZHAwSldpa1E?oc=5",
-   "date": "2026-11-03T16:07:24.000Z",
-   "source": "VGChartz",
-   "summary": "Grand Theft Auto VI Pre-Load Starts on November 10 VGChartz"
-  },
-  {
-   "id": "gn-tx1udk",
-   "title": "Rockstar Games Reveals Grand Theft Auto VI’s Preload Date and Official File Size: When Can You Download the Game on PS5 and Xbox Series X|S?",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWlFrSllKUlgteUY1SVpabDBFZXdkMEJYaVRYT1BHX1VWa1lVdnd0ZS1CWkczbVktSkFhZFNtbFdxNTV3WDUxZGQtRS1NSXR3ZEd4Q3BqeFFnTDZTelBoM0pTQ004THhjcWpBNU95OGNSOVRXNkFTakNqazl6RGhJT3Zsa1FzMnY5RUk1QnlWYW9jYkFxQjRxRDRHZVdJc2sxb0dhdHhPbmpOTEdTMEFjRWJ4NjBaSWhKQnV1Y2xWTUhKN1QzLTlEaXBQejVCaVdwU0JfVnY1dGFKcEhuY3prQ0ZYZjNQcUpIVmdvX3JQM0RFeHJKUFVFSm9BanpJUQ?oc=5",
-   "date": "2026-11-03T16:05:53.000Z",
-   "source": "www.levelup.com",
-   "summary": "Rockstar Games Reveals Grand Theft Auto VI’s Preload Date and Official File Size: When Can You Download the Game on PS5 and Xbox Series X|S? www.levelup.com"
-  },
-  {
-   "id": "gn-1vxr1lw",
-   "title": "GTA VI preload begins November 10, requires up to 212GB of storage",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0RXUlBSZ2ZHSUh5RlNyZU9rek1XelpzaWl1NVNIdkNpU1dJcms3VVo3bFJQeVNaMXh6c256ZUJtVU5qSXpJYm9XWWp4QnhTOVNIQldYQzBKcExMN2t2SjdOR2xfaWNLNGxDVlFZS3ozTExtSWdxd1E0V3dMcVlFQjl5Z1B6bDJRNGxrWDd1LXJ5T1ViNW9nTA?oc=5",
-   "date": "2026-11-03T16:04:11.000Z",
-   "source": "VideoCardz.com",
-   "summary": "GTA VI preload begins November 10, requires up to 212GB of storage VideoCardz.com"
-  },
-  {
-   "id": "gn-lps96h",
-   "title": "You’ll be able to pre-load all 212GB of Grand Theft Auto VI on 10 November",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHNjS0dYMUFxY252TGw0VTVOeXZ6aWNKcVctVm1US0x4MXBuTDYzVjFlQklzTGowYjdGMFhiUnlfVFVGNWxTVzM5TmtqTm9TWVg3T2xUa1hqSV9BRnZLN08zX21QOUg3cEZJTEl5Rm5la1QwNTFmMkI4R0dtOEpjMVMtbHZSNnhsYVRfVFFwajYwYTVkLTlGSHUta0xlcHJqWkptVEhkN3MzQVE?oc=5",
-   "date": "2026-11-03T16:04:02.000Z",
-   "source": "GameSpew",
-   "summary": "You’ll be able to pre-load all 212GB of Grand Theft Auto VI on 10 November GameSpew"
-  },
-  {
-   "id": "gn-1o3vcoc",
-   "title": "GTA VI Digital Pre-Load Time and File Size Set",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGeFRsMDZTQW1PSERpZmVVZ0VIckZSNWVrMEdKMkxOVFpBRjJuTS1ydHlPY2QtYUt0Q2FCZG1GN3gyZFBHRDdPM25Bc1dpMTdaeGl3SEFSNHRJb2tMZmlxc0hQaHo4cVlTaEVkN2lVbExrdmNoYjlVSlA2TGNYa2c?oc=5",
-   "date": "2026-11-03T16:00:00.000Z",
-   "source": "Siliconera",
-   "summary": "GTA VI Digital Pre-Load Time and File Size Set Siliconera"
-  },
-  {
-   "id": "gn-18dtl6g",
-   "title": "I'll Show You How to Play GTA 6 Early With This Easy Time Zone Trick",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkt3LXVtWnlMY1pyWmdpWFgxbHhqb1EtYzA0dVhPU19JVXZxakt3Ry01cnhNWnNyaWoxcWRNYjVwLUpWTG81Zkw2ZjVOOGh1T3dOS1RPMldmdmFSOEROZDNGTUh2Rll0RkxIQWpzRTlqUlhjeEpfeGEtVGVYZTRJSWpDV1kwX3dCY3FKSUxsZDZpdw?oc=5",
-   "date": "2026-11-03T15:57:31.000Z",
-   "source": "PCMag",
-   "summary": "I'll Show You How to Play GTA 6 Early With This Easy Time Zone Trick PCMag"
-  },
-  {
-   "id": "gn-16ricmk",
-   "title": "Rockstar confirms GTA VI pre-loads begin on 10 November, requires 212GB of space",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUdwU09mVGhRbm5iWW1teFFBN1pza0NpUW1GTnRYVDNYUVItUEhVc20zZXJGemVWX1lVZTVnalA5R19Bdm9lTWtnOHh6aERLZlNEQ3Y3MVhGWWkySmc1OXhhU09INVFJRHZaQ3BScHhLNkRZQlBSdUJnNThDN0hRVDhfNUtZT2JIZGRBb05qVVhnUF9TaXpNX3lxeDlveTYxODlkV2lpRzEzc0FRclF3b0JYWjBpSHYzRlBfbEU2ZlE3WWZhNDFHUUwzTQ?oc=5",
-   "date": "2026-11-03T15:51:57.000Z",
-   "source": "GosuGamers",
-   "summary": "Rockstar confirms GTA VI pre-loads begin on 10 November, requires 212GB of space GosuGamers"
-  },
-  {
-   "id": "gn-ht1er1",
-   "title": "Grand Theft Auto VI File Size, Pre-Load Date, Cover Art & Map Download Info Revealed Before Release",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGFDMXVPOXpkYWxyRzNtc2Q3c09fZGttQ1dxUXY3QWtsMUd1Q0c1TldCcnRSWXdsSXFXcktUYjVTZkVvRTJUTmZtUU5kTFdTUG1xWmJSU3FJRGtmdG9na1hoZE5CZGQ1Q01fN19kbHBjdUlTWnc2UGNWc0x1RWdEbzlDNEs1VmgtSWgwQVpuM2RLWU5TTWVlNzFfM2RNMV9PdFVVYjlDWi1jVXJHUGRITU5rN3pfOFRvb00teVBCaXJTSVhsSktRdXIzUzl1UQ?oc=5",
-   "date": "2026-11-03T15:49:18.000Z",
-   "source": "Bleacher Report",
-   "summary": "Grand Theft Auto VI File Size, Pre-Load Date, Cover Art & Map Download Info Revealed Before Release Bleacher Report"
-  },
-  {
-   "id": "gn-1yq9yvl",
-   "title": "GTA 6 preload dates are official: Here’s when you can download the game and how much space it needs",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNUwtN1NxRHIyLVNNMWdINFFXNUN2c1d6akx1bXFuNmV2bW9SS2JMcUtJWGktUGlqbUxSdGNJdUVXRUtRdk9oUXAxd2gxZkdGVEN3QVd4NVc5LTlQVDNOV08tZ3JOMUlSOUVnWW1EbFpKeE1OMXNUbzVObnlUUjdpMXVxbHRDZml3Wm1qMWk0T0ZmQUM1OWhqWXU4S2pCU2hqYlpud3d0VFJrajZ0MDBlcHZBN0tOemxmWlJuNms1anhscXZjMG85QTd4SXBXRVUwV3ZNX0ltdXNtQUXSAe8BQVVfeXFMUE4xZGlWN2xReThSTDF0bTF1Q0xGU1Q1OHFrMFg0bGZmdEpWNTdpSXY0NXVVRmRtNVBYVmFxdlk3dUJmVHV5M01JUHFSeHFqSnQ1MktEM01LZkJJZkR0Z3pyME5ZNEpJbkgya2JwM2RFdUdPblZNQ2Mtbks1TkVjU0p1Y3Jqcy1VVkl4d0hSQnVLT0lBUW9nVmpNbDcwOU1Lekl2MHJtSHQzUmNCNjhQV1k5R0did0FER3lldlh4ZlRyOUhSekN5YjRqcTBNb0FJSHY4QVZERlN2Y3UyYTQ4S2FCZUZqb0pxNmFFd0U3UkE?oc=5",
-   "date": "2026-11-03T15:44:35.000Z",
-   "source": "Diario AS",
-   "summary": "GTA 6 preload dates are official: Here’s when you can download the game and how much space it needs Diario AS"
-  },
-  {
-   "id": "gn-1iz0p5w",
-   "title": "Jerry Fort, Who Went Viral for His Wish to Play ‘GTA 6,’ Dies at 25",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDhzY1dhbmNUdTRheFFoNkdETFlKM3I3Tk9aV2F2SVpwT3VUWG9OX3p4QnlQYnAyUmNlY2NtMTAtVGdtVFJYSjFuOURaU01oU21idTN1bFVXbTliWlRuWE5ucGtSZUNQS2luSDRERENtNFNQV0M2dGxyQ3Bsa3lVa3dyUFM4eGdLU3RpX3RWamMxNk9TMTJMSUI4MWQ?oc=5",
-   "date": "2026-11-03T15:44:18.000Z",
-   "source": "VICE",
-   "summary": "Jerry Fort, Who Went Viral for His Wish to Play ‘GTA 6,’ Dies at 25 VICE"
   }
  ],
  "community": [
+  {
+   "id": "rd-1jgcs3t",
+   "title": "My boss approved my PTO for GTA 6 and asked if I was going on vacation somewhere nice. I told her I was going to Miami. 😂",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn9quh/my_boss_approved_my_pto_for_gta_6_and_asked_if_i/",
+   "date": "2026-11-04T00:15:38.000Z",
+   "source": "r/GTA6",
+   "summary": "And before the sour Susans come at me in the comments: It's my PTO and I'll do what I want with it. My boss is chill and legitimately does not care what I do as long as my projects are finished before"
+  },
+  {
+   "id": "rd-tyvnt5",
+   "title": "GTA VI vs. IRL of same location",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn9hso/gta_vi_vs_irl_of_same_location/",
+   "date": "2026-11-04T00:04:15.000Z",
+   "source": "r/GTA6",
+   "summary": "Even knowing which one is the screenshot, it still made me second guess if both were screenshots lol. Almost 2 weeks left now! submitted by /u/ohyoudidntknooow [link] [comments]"
+  },
+  {
+   "id": "rd-1aqpqge",
+   "title": "Driving by the huge painted GTA6 ad in LA 🤯",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn8hzv/driving_by_the_huge_painted_gta6_ad_in_la/",
+   "date": "2026-11-03T23:20:36.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/hldnmsk [link] [comments]"
+  },
+  {
+   "id": "rd-122r3u0",
+   "title": "Marketing finally getting started in the Nether",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn7aq5/marketing_finally_getting_started_in_the_nether/",
+   "date": "2026-11-03T22:29:51.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/fembepis [link] [comments]"
+  },
+  {
+   "id": "rd-3flzdw",
+   "title": "Greetings from Hamburg Germany",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn6p17/greetings_from_hamburg_germany/",
+   "date": "2026-11-03T22:05:25.000Z",
+   "source": "r/GTA6",
+   "summary": "Nothing more to say 🥲🥰 #GTA6 we all can't wait submitted by /u/NorthLicht [link] [comments]"
+  },
+  {
+   "id": "rd-1ahwbxm",
+   "title": "Idk if anyone noticed, GTA VI themed PS5 boards - Galatasaray vs VfB Stuttgart Champions League Game",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn4k03/idk_if_anyone_noticed_gta_vi_themed_ps5_boards/",
+   "date": "2026-11-03T20:41:58.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Cool-Internal-1133 [link] [comments]"
+  },
+  {
+   "id": "rd-i60syx",
+   "title": "GTA 6 launch schedules",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xn4c9y/gta_6_launch_schedules/",
+   "date": "2026-11-03T20:33:45.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/iByCris [link] [comments]"
+  },
   {
    "id": "rd-1ign4eh",
    "title": "For those considering a \"Psycho\" criminal profile run....",
@@ -1001,62 +1058,6 @@
    "date": "2026-11-03T02:40:01.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Schbloips [link] [comments]"
-  },
-  {
-   "id": "rd-1txfv81",
-   "title": "Rockstar was at my gym (BOXR) in Miami!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xmgy6x/rockstar_was_at_my_gym_boxr_in_miami/",
-   "date": "2026-11-03T02:24:45.000Z",
-   "source": "r/GTA6",
-   "summary": "Not sure what it is, but the hype is real! My guess is probably a similar collab to NineOneNine or the Miami Heat where they change the name for one day! submitted by /u/arcpavong [link] [comments]"
-  },
-  {
-   "id": "rd-1yxnjb7",
-   "title": "GTA advertisements in Osaka, Japan",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xmgy2n/gta_advertisements_in_osaka_japan/",
-   "date": "2026-11-03T02:24:35.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/jchurchh [link] [comments]"
-  },
-  {
-   "id": "rd-45top9",
-   "title": "I made a GTA VI livery on Microsoft Flight Simulator",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xmf7yt/i_made_a_gta_vi_livery_on_microsoft_flight/",
-   "date": "2026-11-03T01:03:56.000Z",
-   "source": "r/GTA6",
-   "summary": "Bluebird 757 on Microsoft Flight Simulator 2024 submitted by /u/CAPTAIN__BURGER [link] [comments]"
-  },
-  {
-   "id": "rd-j98kn3",
-   "title": "GTA 6 Marketing - Melbourne Australia",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xmetg2/gta_6_marketing_melbourne_australia/",
-   "date": "2026-11-03T00:45:28.000Z",
-   "source": "r/GTA6",
-   "summary": "16 more sleeps! We’re nearly there!!!!!! submitted by /u/ActiveIE [link] [comments]"
-  },
-  {
-   "id": "rd-nq45x9",
-   "title": "I can’t believe ,we went from ”rockstar is so bad at advertising GTA 6”: to this.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xmektz/i_cant_believe_we_went_from_rockstar_is_so_bad_at/",
-   "date": "2026-11-03T00:34:05.000Z",
-   "source": "r/GTA6",
-   "summary": "I can’t believe how rockstar is advertising this game. We went from no advertisement at all, to the whole of Times Square lighted up from GTA 6 posters, GTA 6 on the screens, “I love Vice City… and mu"
-  },
-  {
-   "id": "rd-kg0rsf",
-   "title": "I can’t sleep thinking about November 19th",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xme5pb/i_cant_sleep_thinking_about_november_19th/",
-   "date": "2026-11-03T00:15:02.000Z",
-   "source": "r/GTA6",
-   "summary": "I can't stop thinking about November 19th. Flashes of Jason and Lucia constantly pop into my head. It's almost like I can feel and talk to them. \"We're coming in a couple weeks don't worry buddy\". Nov"
-  },
-  {
-   "id": "rd-1a6nwr5",
-   "title": "Manny Perez seems excited for November 👀",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xmdg16/manny_perez_seems_excited_for_november/",
-   "date": "2026-11-02T23:44:51.000Z",
-   "source": "r/GTA6",
-   "summary": "Via Raven_Claw690 on X He’s HEAVILY speculated to be the actor for Raul Bautista if you didn’t know submitted by /u/nothing533439878 [link] [comments]"
   }
  ]
 }
