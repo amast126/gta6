@@ -1,27 +1,28 @@
 {
- "generated": "2026-11-04T21:41:52.719Z",
+ "generated": "2026-11-05T01:58:01.856Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 11,
    "scanned": 40,
-   "checked": "2026-11-04T21:41:52.719Z"
+   "checked": "2026-11-05T01:58:01.856Z"
   },
   "youtube": {
-   "ok": true,
+   "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-11-04T21:41:52.719Z"
+   "checked": "2026-11-05T01:58:01.856Z",
+   "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 92,
-   "checked": "2026-11-04T21:41:52.719Z"
+   "checked": "2026-11-05T01:58:01.856Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-04T21:41:52.719Z"
+   "checked": "2026-11-05T01:58:01.856Z"
   }
  },
  "official": [
@@ -257,6 +258,94 @@
  ],
  "press": [
   {
+   "id": "gn-uyvc9r",
+   "title": "GTA 6 News: PS5 Pro Teasers, Pre-Order Countdown, New Gameplay Details, and Miami Collaborations",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVJJZ0JrQWtSWWxRM014MVB6TXRvclBCUXRBWm5iME40VE1xTjV1Qm9KY0xXeF9DR3lCelk1aThndE1QQzNkTmdPMXVBeFNtYnpnWU0xTG5EWTgzYnVnR1VCOGhVSExTRU5RdTlMSERQRkNOTUdPM2tuREtmV1cxbU9WdzJxcEZQSlY3NW10TFJhU0xna3ZXUTN4bDlxbEt1ZEJ5RFdRQXBIb0t6VWUxMllJYlJWUGFybnNLT1FVVUUxdXM?oc=5",
+   "date": "2026-11-05T01:12:41.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 News: PS5 Pro Teasers, Pre-Order Countdown, New Gameplay Details, and Miami Collaborations MMOEXP"
+  },
+  {
+   "id": "gn-db7dc",
+   "title": "GTA 6 Skips PC on November 19, but WoW: Forever and Warhammer Survivors Arrive This Month",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdXQ2ckt2UkgxcnloTU80cm9CYVh4ZWtiMXJaVEtvaFRMQk1tSF9IZEJhRGcySG54QjZuT3d3T3R6aldlSDNJT0RIQ3RSVXdZRnp1Q1BFbE5ON1cxOW1GR2c0dW5xWGMtVzd0aVZhdzh6WFZsdHJWYnM3YlA3cTdXdGRQMHlXZzVqZ1IyV244Z2hRdW1DU0xxMW94elFjcC1CdjNSZ2tEZ0ZNZVFBRHFqejdlUkt5LUFZckRXM3ZiMmk?oc=5",
+   "date": "2026-11-05T00:06:48.000Z",
+   "source": "Shane the Gamer",
+   "summary": "GTA 6 Skips PC on November 19, but WoW: Forever and Warhammer Survivors Arrive This Month Shane the Gamer"
+  },
+  {
+   "id": "gn-e1eem0",
+   "title": "No GTA 6 November: Here's what you can play on PC instead",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSSU9TdTlFUUhkNXF5ejI3NkJpLURyV0VOUUxBajEzdmtuVGlKbkJ1anBPOGVmVWtqVExXUlVIbEk0M25obXZ3dEVkMkN2MGFuR3FSdDVURGN6dHc5dnhB?oc=5",
+   "date": "2026-11-04T23:37:01.000Z",
+   "source": "PC Gamer",
+   "summary": "No GTA 6 November: Here's what you can play on PC instead PC Gamer"
+  },
+  {
+   "id": "gn-1d4ribi",
+   "title": "Bulkhead Takes December Off and Tells Wardogs Players to Enjoy GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdGFnMjFIWTlJU0ZpVG5wNGxLak8yR1kxRkNCYWhJMFVnYkFCWnVYZkY2V0FRUldSajQwcjEyZFNZZEs3cE9mQ0dzOHlWaDVUaWdaNnRKVW1rZm9KRnp6RzlyRVlKTWpPYUcyU2x5eVZ6N1pKWUM5YmRxY1EzcDNzN0dnNDVGWnRudkZJ?oc=5",
+   "date": "2026-11-04T23:29:03.000Z",
+   "source": "GTA BOOM",
+   "summary": "Bulkhead Takes December Off and Tells Wardogs Players to Enjoy GTA 6 GTA BOOM"
+  },
+  {
+   "id": "gn-1xqchdl",
+   "title": "GTA 6 Release Time By Region: When You Can Play On November 19",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xRWJudG1TZWxSRHczYnZ2SXliYkl6TU9wdVEwdTZuYWZuNVVLSUV5Y1JXbjA4LW5wNUNNRV9uUlBmaEhJSV9MUkhVT2FrbWdxZUJzbUcyNTMtQkU5MERYdmgtUzRrOWJL?oc=5",
+   "date": "2026-11-04T23:00:00.000Z",
+   "source": "SVG",
+   "summary": "GTA 6 Release Time By Region: When You Can Play On November 19 SVG"
+  },
+  {
+   "id": "gn-1o7sjno",
+   "title": "GTA 6 Has Already Made an Estimated $750 Million in Preorders",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVU1nRXdEVC1idEx0V1FtSVR3RnlCbUgtMHpuZGpzelB1OFhfckMzaXZTUkY5dFM4STl5Q3pPOG9aTi02Zl9XRkFGVGktVkkxYjVXLWpEUHB3RXRzSjJOOVp6Q0Z3dmNWRHF5YzI5dXNiSkdkNFo4akFoS0NpTmVfMW1ZVlZoZFlLcFBfZnNmaWsweGV2UDY3UzFIQmNoZlU4V1NYdC1Xd3hBdw?oc=5",
+   "date": "2026-11-04T22:42:22.000Z",
+   "source": "IGN",
+   "summary": "GTA 6 Has Already Made an Estimated $750 Million in Preorders IGN"
+  },
+  {
+   "id": "gn-1fhi7n0",
+   "title": "Is your setup ready for GTA VI? (what to consider upgrading before Nov 19th)",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONU0xVmtPUUVJWGg3SkJWcW16UEJ4MFZabFQtdWJNQl9vZnFhX0hZQjA1TzBROEhlbTlMbmctNW1FTFRhMjFZa3FjdnFKRlVGdWVXOGcteWRobUM0Zk9wMlZZTWJrMkYwd1lySE1XWWU5eGppTEh5bHdsM3hjUFcwdWVGUHpwS2txQmlSbVhuZVRzVUJhU184RGRrNTJJRkRMOXNRNUhOSkptZw?oc=5",
+   "date": "2026-11-04T22:41:09.000Z",
+   "source": "Poc Network // Tech",
+   "summary": "Is your setup ready for GTA VI? (what to consider upgrading before Nov 19th) Poc Network // Tech"
+  },
+  {
+   "id": "gn-ei0i6j",
+   "title": "GTA 5 Fans Plan The Last Ride for a November 18 Farewell",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2d4VTVVWFJNb1dRQ0RwNXB6R1kxbnlHeTgxbzE5a0YwcFQwd2hERUZyMmM4T0JJWTVqUHdJMjFEdkIyRHdGUHY5dk5Pb1o3UU5DRzRNTmplZzJWWkh6cE5XUmoxMEREWWY5cmxJM0pKM1l5cHN6WEsyY1cyVHBHMktiQXByN2c2VUFzMWpSbnFlcDhtcnBtb1FfLWRpNzgw?oc=5",
+   "date": "2026-11-04T22:36:15.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 5 Fans Plan The Last Ride for a November 18 Farewell GTA BOOM"
+  },
+  {
+   "id": "gn-3wapn2",
+   "title": "Ask Luka #001: Doncic on Sneakers, Golf and GTA 6",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmaTE2WHd6dEoxWF9NTVRBa1ZmREVXNllGUmZ3Zl9qaWtaekRaWWJGaVkwQzhBNU15Q1RuV05DXy1lSmVxeC1VTm1KVlV6cWhEY3JXdnRnTlpNYm9GQnpaeGVkQ1RLakljV2VyNHVyWExYUU9hTXBZeUw3NDlWZw?oc=5",
+   "date": "2026-11-04T22:03:00.000Z",
+   "source": "Lyndy's Sports Annuals",
+   "summary": "Ask Luka #001: Doncic on Sneakers, Golf and GTA 6 Lyndy's Sports Annuals"
+  },
+  {
+   "id": "gn-qcunus",
+   "title": "Why did police make a GTA 6 video about an arrest?",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbVlzcFBQRkFGcU9DLS1vRVZQV3VOSWhualRkYlR3RjVJTGctaUNyVld6dWRjWDhmaXB4UzZlNUpYNHpCV21oaFFtRzFvT3B3VlYxUWZ2NEtrYVdWMHY1dy1JLVhrVjNQejlKRGk3dmdoRVh6akd3QkE3Z1ZVR1lPMjJmUkh3akR5el9PeTQ3bXhhMGdnS21oMjlaQW0xY3VwaDhBUWROMFN0Wi1sVlZVdF9DSmdRRU12b2ZoZFBtTV9NZG1ESFBzMU1WbVEwR1VwQjlMcmNMRjR0SVZYejRreTk0MzROWnJac0pLR0ZsdlJWYmR0cUxSSmRJc0dtcmxGRlNr?oc=5",
+   "date": "2026-11-04T22:00:00.000Z",
+   "source": "The Mary Sue",
+   "summary": "Why did police make a GTA 6 video about an arrest? The Mary Sue"
+  },
+  {
+   "id": "gn-16t8dty",
+   "title": "Sony PSN Freeze Over GTA 6 Leak: 0 Confirmations [2026]",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2dJYXZvTkFjSkFYcE5wNGtZVDBFSDJpVDl2UElFRi1uRVFHZU1xUlgtWXE4SFAtbWJKVnRROGdXV1lBZWdyMWVPa083OGJzZUNSUWh6a3RNN3BiUEdtVC1saVB2MGVBckxPN2FnYTAwX1gyZnZPYzhTOElNOWpMTWVkOHhieVd1enNmWHNR?oc=5",
+   "date": "2026-11-04T21:56:15.000Z",
+   "source": "shattered.io",
+   "summary": "Sony PSN Freeze Over GTA 6 Leak: 0 Confirmations [2026] shattered.io"
+  },
+  {
    "id": "gn-2dyt4k",
    "title": "GTA 6 May Already Be One Of 2026's Best-Selling Games",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeXR0cWV0djFKeWlRN1VJSGdUcUdjVklJYld1NFBxb01CeC14NDNLZEtHYlFaOVc3Q2RFWUtpSnp1d21udlVzcnZSNGV5VW1uQnRfeHFTNF9aRzg4cVluRVRmTGg0YndQWnROMkxtOWM3MUo1ZFR3N3E3MTJtWmdkSHVRSmtzUnJvc3E3YWF3a1N5V1d1U0FwRlhGU2x5dw?oc=5",
@@ -375,6 +464,14 @@
    "date": "2026-11-04T18:00:00.000Z",
    "source": "PR Newswire",
    "summary": "DOWNLOAD GRAND THEFT AUTO VI FASTER AND GET TO LEONIDA SOONER WITH SPECTRUM INTERNET GIG PR Newswire"
+  },
+  {
+   "id": "gn-1azurqf",
+   "title": "God of War Laufey Slips From February 16 to May 20, 2027, Leaving a Q1 Window Crowded by the GTA VI Fallout",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JbWY4Tk9PTUU1ZEtuaXV6R3dsbTNZWUFnT1lDdk5OTkJWNklCZGZmdUpHbEZSOU5wcXZDWXNJb0pEWk9hLWdHSUFrbGVzam1ac1BYMUNtMkxWQjFua1MxQkpHQlZGNDg5SzZSVWttRU0tdXlpNG16ZdIBfkFVX3lxTE9lR21ReHVKYkFnWUpPQWVSV3QxdGEwcGZBd2VVSDI4S2FTZjVmdkpUQUxmQmJhR3lvLTJLT1k1Q05TSEdMaXZHY3lWTEdoLWtDeXNhcDdiV3JNQ3VMN2JGUUJxcERVY2xPR1VOUDhfRVVSNDNPaDk5Z2tNYXNDUQ?oc=5",
+   "date": "2026-11-04T18:00:00.000Z",
+   "source": "Wccftech",
+   "summary": "God of War Laufey Slips From February 16 to May 20, 2027, Leaving a Q1 Window Crowded by the GTA VI Fallout Wccftech"
   },
   {
    "id": "gn-xsw5qe",
@@ -639,105 +736,49 @@
    "date": "2026-11-04T12:30:23.000Z",
    "source": "Insider Gaming",
    "summary": "GTA 6 Standard Edition vs. Ultimate Edition: All Differences, Prices & Content Insider Gaming"
-  },
-  {
-   "id": "gn-6ops80",
-   "title": "How To Safely Pack Your PS5 For A Trip To New Zealand So You Can Play GTA 6 Early",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMl8xaXg0NFg0N2NXdGtWOE5jczV5T0d6TUlFMWc4RHFGeXdQV01ZZ1p5ZzJONE15bjRLZkJSUUFaRlRZejhES1RwZGtKSkFWTkVYcjM4YTR4NTJCT1JFbUlhYzlPSkZjODNCWjhsYThKNHpfVTcwV19VUlB6WmM4SW1NOXc5RE9kUTladmk0c3FOSlBTS1p2Ym8tYVJLbEExUGk5bjNKQVNEUk1DM0x3SVBSU2hSTEk?oc=5",
-   "date": "2026-11-04T12:22:48.000Z",
-   "source": "GameSpot",
-   "summary": "How To Safely Pack Your PS5 For A Trip To New Zealand So You Can Play GTA 6 Early GameSpot"
-  },
-  {
-   "id": "gn-r7gepk",
-   "title": "GTA 6 Preload Date and Download Size Revealed by Rockstar",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zLWxrbURoNEVRV1RaWUcyanFYZ3BqZ05oRFBINGRVeXNEeVg5SnJsUWY3RkpBREFUZlp3dWpCcFUtZ0JzSHk2X2VhVkVibElrRVQ3MmxuLUZVYlXSAWBBVV95cUxNZEo2QTZJMVRIYnVwelYydUNSbXBJVEZkOVVkOGNIVklvZ0JzOUpWWGxDSkNNakJlb2E2NFZwR2l6cWZFZnFjRkJjdlRfbE0zYkxJNERRMnBPUjRXaW1UNGw?oc=5",
-   "date": "2026-11-04T12:15:00.000Z",
-   "source": "Mezha",
-   "summary": "GTA 6 Preload Date and Download Size Revealed by Rockstar Mezha"
-  },
-  {
-   "id": "gn-1i0c4dv",
-   "title": "GTA 6 Time Zone Trick: 1 Report, 0 Confirmations [2026]",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmMzUTNYWTI0R3ZoTHYyVmhGYmY1TzBLUDNlMFZfOVdTUHNzWU53bDQxVUNMb01YYnJVMzNBYWxiWlFlRExFWFZ1Y1lnZ1BXWGxYa19JaUZKV1pmLVJxVWVlSkItTEJSb3lyV0xpYUdSQkluTUJLVWl0cU5oSFczelg1aEZZMFlrMkpsOThR?oc=5",
-   "date": "2026-11-04T12:12:41.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 Time Zone Trick: 1 Report, 0 Confirmations [2026] https://tech-insider.org/"
-  },
-  {
-   "id": "gn-1x2mgtd",
-   "title": "20 Horror Movies To Get You Ready For GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMk1nSURiTUg0d2pSUllUVXEzRzJSN0F4OFdWS2Y1Z0tUWjhnUVlNVDhXVVJUSVAzUm5MdWoxYkJDRDl2R3Nhc2o0TDlsYVVKTXoxTXV0SEk2czlOWUg3U3hXTFBZS1pPN25NdnYxdVBGU2hacjdndENZdjNjaGc?oc=5",
-   "date": "2026-11-04T12:12:28.000Z",
-   "source": "WhatCulture.com",
-   "summary": "20 Horror Movies To Get You Ready For GTA 6 WhatCulture.com"
-  },
-  {
-   "id": "gn-1tqo0hs",
-   "title": "Grand Theft Auto VI Pre-Load Begins On Tuesday, 10 November On PS5",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3p2dlhDN25ZX2VuaXJvZkdORGdEZmk3V0t0eE1FcFNKVzg3S0FnYWpGb3BrY2hQTjBZN0VnTU1mS0MwX2VDQkl2WXpHb1pGaXJuZFk5RG51Vkt5Z1lwWTUwLVVvUzl1WWp5QzBSVnRTN3VtamV2Z1BydkRfbVd4NlVjbnN4cWp1WXk1Ry1uemZhdy1VSm82NQ?oc=5",
-   "date": "2026-11-04T11:59:06.000Z",
-   "source": "MKAU Gaming",
-   "summary": "Grand Theft Auto VI Pre-Load Begins On Tuesday, 10 November On PS5 MKAU Gaming"
-  },
-  {
-   "id": "gn-1nhwmee",
-   "title": "Sony's $400 PS5 trade-in could cut the cost of a PS5 Pro upgrade ahead of GTA 6",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNekNGXzVsWGcxWHMtSDRvcF80M25wSnpRU1dEaXYyLUNkRmQ0a19IVkItdjhPemVkdHQ2TjJibXJ3MG1Vb0gzRXVsWHh4WmRrRmdSNTlwTERqRjNrdUN0UWJaWkJocFE2MXVQLV9oS05WVE9QWHNqSDBMS2wwYXcwRFpSSnNETE5JZWJVNy1CRTVNSXdOVk9WVS12Ykt0NG5MY0MxTkdfci1MU0RqaV9jUzRfajRVc2ZCU1FGX1A5R2pha1gxY0hLTkpWc0I5Zw?oc=5",
-   "date": "2026-11-04T11:53:14.000Z",
-   "source": "TweakTown",
-   "summary": "Sony's $400 PS5 trade-in could cut the cost of a PS5 Pro upgrade ahead of GTA 6 TweakTown"
-  },
-  {
-   "id": "gn-1tmtjsk",
-   "title": "GTA 6 pre-orders have already made over $730m in revenue, analysts estimate, and 74% of them are on PS5",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMkFHb2tZNl9BRzFYbmM5TWY1TGZxbEVKM1RpbFBGR01vTEN4MEx6TzFsRFhWeHRQTWdZRzFscHhTN1JQcjhhRmVQM1ZZNnRPQmZoY0dTWlhhYnR4TDU3M1ZnSXAxZFFhWDZhQ21yVkFIX0pqMHk0V1NrWHR0OWdRU3JJVmkzSXFoMi1GbjVreEZHLTg4aWJJRVBveEViZjF1dHQ2Tm9rSXM3ODAteVF6UTNnbVo5amVCbFFGZklFQ2szd2FqMllrOHJQeDZYZlF0QTRGcTJXVEx4Y1FTTjdUTl9Ea0VXTWFBVGlaU0V0Z1JvN0k?oc=5",
-   "date": "2026-11-04T11:52:09.000Z",
-   "source": "GamesRadar+",
-   "summary": "GTA 6 pre-orders have already made over $730m in revenue, analysts estimate, and 74% of them are on PS5 GamesRadar+"
-  },
-  {
-   "id": "gn-123ojxz",
-   "title": "Should You Buy A PS5 Pro For GTA 6—All PS5 Pro Enhancements",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanRmZmppYWZDMFE1LWIwVVZ5SVpaTlZXNlFJVGduMkpkd3FGS0pVWXZEN1pvVFJCbUs3LV8wRmY4RlJ2U3VNb1plbzdxSGRncTk2engza1VUUkx3ZDRJVmpWRWxFcEJDaVV0U1pzSXFfQjhzWVJ6MXp6M1BiYmRzajVHVFZiRXhvM0hXWF9R?oc=5",
-   "date": "2026-11-04T11:44:18.000Z",
-   "source": "Insider Gaming",
-   "summary": "Should You Buy A PS5 Pro For GTA 6—All PS5 Pro Enhancements Insider Gaming"
-  },
-  {
-   "id": "gn-1lqaf0n",
-   "title": "Man Who Hoped To Live Long Enough To Play GTA 6 Dies 3 Weeks Before Launch",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMGowQUw2a3QtdkpLbWlrTm1yOFJ2QjZJSjFTYmEyUlZ0M3duaXFXa3ZtNHhwQ3B4ZFJfNVVISnRjVy1pbURGYzBIZVVDbFFGTk9WaGdwRWV4X29pcWlpWE8wbEd5MV9xTF9QMTNOWm8wdUpQTlM1MnA5cmxuRkYzeWY2NUtNZG5qNGQwTzkxX01vNzh5TzdzOHYxOVZaVnRMa3E5cW5HY051NUVBNFVWTV9n0gG6AUFVX3lxTE85MnYxMHc4aER0VTZvSUtnYXE5ek9jYndYN25TTXJyZHMxdE82N29WRWUtOVN2aGMwc3BSR0lVN3o3MVJlMDlxSDB4a1VGMkstXzlHa3Y1SzZmTmlKcE1oYkVFQWJ6S2dVUmFxLW1BT3Rtd1VwQWNZQWYxOVZncXNUSE0zenZIbko3ZEVkY1VNX0RNRGFadmVZUzVsdlBlUGQxRFFpeHhRU1FXRUtRSFNBbFo1OXdJTVY4UQ?oc=5",
-   "date": "2026-11-04T11:33:50.000Z",
-   "source": "NDTV",
-   "summary": "Man Who Hoped To Live Long Enough To Play GTA 6 Dies 3 Weeks Before Launch NDTV"
-  },
-  {
-   "id": "gn-wi4kcz",
-   "title": "PSSR for GTA 6 seemingly confirmed as PlayStation accidentally reveals features ahead of launch",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWNsTUxhdGZKSFRlTDN4YXR5TWdnUjhLa01KNmF1Mk5JNTcxU2xEMlpFb09TUUY3ZnJ3UXlfWGl0SFdLclc0c0xFdEVQQlVOTlQwNTdzWC1YUGgteFA1ODNrU1VNTGZoZHVIUVhFVEI4SkVQZ0tlWUFqUks5TnByeWZQNUtrVVZtdjZNdTN6S2tOWnpkUXk1TlY4cS1iQUxzaTNiMnNBZFhmZFk2Zl9pc2VUMlRwMWVldjBRSzE1TVlVN2s?oc=5",
-   "date": "2026-11-04T11:30:04.000Z",
-   "source": "PC Guide",
-   "summary": "PSSR for GTA 6 seemingly confirmed as PlayStation accidentally reveals features ahead of launch PC Guide"
-  },
-  {
-   "id": "gn-1cv6cq9",
-   "title": "GTA 6 Officially Bringing Back Red Dead 2 Gameplay Feature",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3NYNUQ4VkxxS0dGR3E4NWVGeldLa2drZUJtWHlyTVhZazVYYzdseGY5bzBZOUhmakFZQ2VldXd0ejQxV3NZTEpFR09TakhUZ0hyZDZWOHRuV1FReFRVTkd5NzN0ZnFBR3hmWHBsc2NDcG84WVhfREEwT09sZVZ1RXM2TjZvR2VBUHN5ZU11VkRFdXpkejBR?oc=5",
-   "date": "2026-11-04T11:16:57.000Z",
-   "source": "OpenCritic",
-   "summary": "GTA 6 Officially Bringing Back Red Dead 2 Gameplay Feature OpenCritic"
-  },
-  {
-   "id": "gn-m5juec",
-   "title": "GTA 6: Do You Need PlayStation Plus?",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xdGNFRzlWWFd2alJvN1Rab2hsRnZjQzMtNHQ0emdHcWNNOC10akIxUm5vR3dHbWVPWU1DRnZtRjE2ZW9iSVZoeHVGLTAwOW9kVWh6MC1sNUFxRVdHMEFfQjFjSTFPbHFkbXJmM2VybXRuZw?oc=5",
-   "date": "2026-11-04T11:08:05.000Z",
-   "source": "Cultured Vultures",
-   "summary": "GTA 6: Do You Need PlayStation Plus? Cultured Vultures"
   }
  ],
  "community": [
+  {
+   "id": "rd-16trbod",
+   "title": "GTA 6 Tram in Melbourne, Australia",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xo5sse/gta_6_tram_in_melbourne_australia/",
+   "date": "2026-11-05T01:20:09.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/justbrowsingcunt [link] [comments]"
+  },
+  {
+   "id": "rd-1pbeoys",
+   "title": "GTA 6 in Real Life — Almost Identical! 🤯",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xo3b31/gta_6_in_real_life_almost_identical/",
+   "date": "2026-11-04T23:26:25.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/New_Individual4750 [link] [comments]"
+  },
+  {
+   "id": "rd-14e1wa9",
+   "title": "Lisbon looking good",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xo1t6e/lisbon_looking_good/",
+   "date": "2026-11-04T22:22:06.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Milo_Mio [link] [comments]"
+  },
+  {
+   "id": "rd-fxep2y",
+   "title": "Club Nine1Nine Grand Opening",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xo1js9/club_nine1nine_grand_opening/",
+   "date": "2026-11-04T22:11:30.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/MShogunH [link] [comments]"
+  },
+  {
+   "id": "rd-5w7mpn",
+   "title": "GTA VI makes the news here in Miami 🥳🌴",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xo0lh6/gta_vi_makes_the_news_here_in_miami/",
+   "date": "2026-11-04T21:32:57.000Z",
+   "source": "r/GTA6",
+   "summary": "When the history of GTA leading to VI makes the news here in Miami you know it’s a BIG deal!! (Sorry for background noise, it’s been pouring here for days😩) 15 days left!!! submitted by /u/John_E_Roc"
+  },
   {
    "id": "rd-ihjy1p",
    "title": "PlayStation has its own dedicated GTA conference room",
@@ -760,7 +801,7 @@
    "url": "https://www.reddit.com/r/GTA6/comments/1xnxnv0/my_gf_surprised_me_with_a_fan_made_collector/",
    "date": "2026-11-04T19:38:20.000Z",
    "source": "r/GTA6",
-   "summary": "For our 7th anniversary my girlfriend gifted me some gta 6 goodies :)) The best part is that she actually made the 3d model of Macca alligator and also colored by herself! Stay safe everyone and see y"
+   "summary": "For our 7th anniversary my girlfriend gifted me some gta 6 goodies :)) The best part is that she actually made the 3d model of Macca alligator and also colored by herself! Edit: my gf pointed out that"
   },
   {
    "id": "rd-y6ihy2",
@@ -1017,46 +1058,6 @@
    "date": "2026-11-04T01:36:12.000Z",
    "source": "r/GTA6",
    "summary": "Out of all the games I've played throughout my life, I've always felt that the worlds, no matter how beautiful or detailed, eventually felt empty and soulless. The buildings were there, the streets we"
-  },
-  {
-   "id": "rd-1jgcs3t",
-   "title": "My boss approved my PTO for GTA 6 and asked if I was going on vacation somewhere nice. I told her I was going to Miami. 😂",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xn9quh/my_boss_approved_my_pto_for_gta_6_and_asked_if_i/",
-   "date": "2026-11-04T00:15:38.000Z",
-   "source": "r/GTA6",
-   "summary": "And before the sour Susans come at me in the comments: It's my PTO and I'll do what I want with it. My boss is chill and legitimately does not care what I do as long as my projects are finished before"
-  },
-  {
-   "id": "rd-tyvnt5",
-   "title": "GTA VI vs. IRL of same location",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xn9hso/gta_vi_vs_irl_of_same_location/",
-   "date": "2026-11-04T00:04:15.000Z",
-   "source": "r/GTA6",
-   "summary": "Even knowing which one is the screenshot, it still made me second guess if both were screenshots lol. Almost 2 weeks left now! submitted by /u/ohyoudidntknooow [link] [comments]"
-  },
-  {
-   "id": "rd-1pjs3ml",
-   "title": "Anybody else gonna experience gta 6 alone?",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xn8vre/anybody_else_gonna_experience_gta_6_alone/",
-   "date": "2026-11-03T23:37:44.000Z",
-   "source": "r/GTA6",
-   "summary": "This game took so long the one person I could bond with over video games turned his entire life around and moved out (my brother) and like doesn’t care about them anymore. I remember how much fun me a"
-  },
-  {
-   "id": "rd-1aqpqge",
-   "title": "Driving by the huge painted GTA6 ad in LA 🤯",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xn8hzv/driving_by_the_huge_painted_gta6_ad_in_la/",
-   "date": "2026-11-03T23:20:36.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/hldnmsk [link] [comments]"
-  },
-  {
-   "id": "rd-122r3u0",
-   "title": "Marketing finally getting started in the Nether",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xn7aq5/marketing_finally_getting_started_in_the_nether/",
-   "date": "2026-11-03T22:29:51.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/fembepis [link] [comments]"
   }
  ]
 }
