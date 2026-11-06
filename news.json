@@ -1,28 +1,28 @@
 {
- "generated": "2026-11-05T23:12:49.772Z",
+ "generated": "2026-11-06T03:31:13.617Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 12,
    "scanned": 40,
-   "checked": "2026-11-05T23:12:49.772Z"
+   "checked": "2026-11-06T03:31:13.617Z"
   },
   "youtube": {
    "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-11-05T23:12:49.772Z",
+   "checked": "2026-11-06T03:31:13.617Z",
    "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
-   "count": 102,
-   "checked": "2026-11-05T23:12:49.772Z"
+   "count": 92,
+   "checked": "2026-11-06T03:31:13.617Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-05T23:12:49.772Z"
+   "checked": "2026-11-06T03:31:13.617Z"
   }
  },
  "official": [
@@ -271,6 +271,86 @@
  ],
  "press": [
   {
+   "id": "gn-14epwh6",
+   "title": "\"Grand Theft Auto VI\": What we know",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFRIcy0ybEtSTDU2XzZRYzlJQVhEX3BleFYtZUwtRmp2ZnpQR1pOZ3Z2YlZLZVFuNk1jR2U2a3c0UzhwNkdBdnhMM3MzMlV4aGQ3THNxVElHdUlQbXQ4cU43OE5GdE85cTlVVDlNSzI5djFoLVF2bW52bW5SaVhsaUdjUW0?oc=5",
+   "date": "2026-11-06T03:07:00.000Z",
+   "source": "Yahoo Tech",
+   "summary": "\"Grand Theft Auto VI\": What we know Yahoo Tech"
+  },
+  {
+   "id": "gn-14s0yo5",
+   "title": "GTA 6 New Screenshots Breakdown: 39 Images Reveal Gameplay, Map & Hidden Details",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXV0aTBMUUFiZ2gxVEt3VnlFX1NNX1hENXNyN1ctU2FaT3Q1RV95aFZpT0VwS3EyOHJLMGotbkRMSTBTemRMcnRKUXV5QUlLMGJxbEI5N1BvTlE2NDBBMmxBbW5rY3ljaEh4TXpEWVZDMGhRSUtXZjRndW1YUEFTOUludXV3ODJSc0FmQTQxbXg0NW1DelZCaXFrMGUzQmNodmQ3ekRfT0wtQ3JsbUE?oc=5",
+   "date": "2026-11-06T03:01:03.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 New Screenshots Breakdown: 39 Images Reveal Gameplay, Map & Hidden Details MMOEXP"
+  },
+  {
+   "id": "gn-b1ixk2",
+   "title": "Acclaim Releases Its Own \"GTA VI\" Pack Of Games This Week",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVkpCUDBjTkhRNkpPNzV1VHdsRlNZOUV5aTZOX1NYbU1BbTZYa1RzT0hNNHI4cHVMam5UV2dZRGRnd3YyVzdqRHdiLThwNUh2Nm1FMGNSYk4xOGdYWkt1SGwzN3dxSXQ2VkFwdjVJT1RGd1ZkNXBKU0h4aDlrT2FzQi1MSzFnbGYwclFHQ2J3S2Q?oc=5",
+   "date": "2026-11-06T02:48:09.000Z",
+   "source": "Bleeding Cool News",
+   "summary": "Acclaim Releases Its Own \"GTA VI\" Pack Of Games This Week Bleeding Cool News"
+  },
+  {
+   "id": "gn-13yn8w2",
+   "title": "GTA 6 piracy \"a fact of life,\" says Take-Two CEO Strauss Zelnick",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYy1lN1UzU1pvcnpwR2h5MDFpX0gyZVBNaGFNczZvX3NoTWtiMlZMQkc4aDhHSzZxaGdvZHpndzVTVnl1ZkdSVl9OLW53M2FBWmE1MlJSUVlCSWotalBPR1lGSEdQQ1JwTXdGT0dqdmpYSkF2aDVlM1Y1cnlMUkE4SUVsOGtKT0pab21MV0FVVUk2cXNlUG9wZHU0RTJ4WTByZVBLUHRuT3JuQQ?oc=5",
+   "date": "2026-11-06T02:09:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "GTA 6 piracy \"a fact of life,\" says Take-Two CEO Strauss Zelnick Notebookcheck"
+  },
+  {
+   "id": "gn-v2wc",
+   "title": "GTA 6's 39 New Screenshots: 10 Details Explained",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXRIUDc2QTVOZW9fcUh2NGpnWHpXTXZpbmI3aEE3MEFNd29raVJSakU2RVhZcVRmMlFDb3lreE1CeVNyRFJQNXN4M3c1MW9YYTUxaGZ2U0VFUDRlMXg2MHhFRlhRbVBwVGxBLTJWdkxWUkh4bUxiTTVwZWxzZTBzbFJzSkt5SWs?oc=5",
+   "date": "2026-11-06T01:48:42.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6's 39 New Screenshots: 10 Details Explained MMOEXP"
+  },
+  {
+   "id": "gn-kjs3qp",
+   "title": "GTA 6 Reveals 39 New Screenshots Show Vice City, Jason and Lucia, and More Gameplay Details",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWJpRWoxOWdwMkFKeGVGdzRVM2pmRlIxNEFPcGZ0aWlNaTN1NDA1M1JlemJUMTFxV0FFNzktdC0taWlfX2wwV2p3WHh5Z0RHUGRVdVZnT1ZHRG9xOFgtZVRaa2FhWVJuN0VrZk5tMTB0VzFSeElMOFNVcW95bGF3RmpTempLSV9ZRm5hdkVSQnJaZFBzSXdhOVUzanFFUHQwd3ZCcWdUNUNTRVZwNEpWbUxmV1cyclJwRFVyak0wZw?oc=5",
+   "date": "2026-11-06T01:30:39.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 Reveals 39 New Screenshots Show Vice City, Jason and Lucia, and More Gameplay Details MMOEXP"
+  },
+  {
+   "id": "gn-1v7ur7e",
+   "title": "'Grand Theft Auto VI' Shows Off Main Characters Jason And Lucia, Various Locations And Dozens Of Other Screens",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaG5IbjNiclJoczluU00xcnkwcVpUY0RMYUdkRjZHanQ4N21KSjdCZ0Vhc281WlBBcThlSmlueG9rWnZiTDVnbTBYM3FTNm5kYV9mSGRoX09PNzItVG9hZ2xzSzh2RnlyUjV6VEYzSF85RlAwaEw3T0F6enZWN3F6RmRqRHprYkNwdmxLRG1uZ2pyakllSmlWWEFtcHk1U0RvS216V2VuandoSDNXbHF6cV9PSEJuNG9ZcmZqZVdpZHdaQ1luZzlyOGdoM2hSdGFJcUd6U0sycmcwVEtzMVE0TlJ6S0pvWGdKWVVLVVNNamVPUlRyekE?oc=5",
+   "date": "2026-11-06T00:58:00.000Z",
+   "source": "Worthplaying",
+   "summary": "'Grand Theft Auto VI' Shows Off Main Characters Jason And Lucia, Various Locations And Dozens Of Other Screens Worthplaying"
+  },
+  {
+   "id": "gn-1megwy7",
+   "title": "GTA 6’s weather system will affect the environment and vehicles",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQNHE2bzhpZ3FBbkU0SDA5OUQ0SnlGTnRNVS1nUVR1dFFRVXI2eUZFOFQ4SWdabmdFQnZKSHFOX2VCWHl6NVRDRkFqZ3ZTU0VaMUpsbE0tb2c5bGs4eUw4NWdxWTdDX2Q2V2lxc2JKUC02RF9NWnZhdlVwRGFaS0U?oc=5",
+   "date": "2026-11-06T00:02:52.000Z",
+   "source": "Mezha.net",
+   "summary": "GTA 6’s weather system will affect the environment and vehicles Mezha.net"
+  },
+  {
+   "id": "gn-16dmjw2",
+   "title": "Nearly 100 Gamers Say They’d Give Up Their Pets to Play ‘GTA 6’ a Week Early",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYXY2dGhCY1JhN0FYWE0xM3gydFpvaGFlMnp3Y2hWMWhyQi1vT3F2YkFPV1RrNUQ0LUlxWUgwWlZ0YUhaNkc0R01xYV9XcjdBUnBSdDUzXzhOR1djSTNKOTN4R3R2d2VacFM5b3luQW9XVFg1d0F3VkduQ0JveThMaDNFTGVjell5UGNaNnltcnc?oc=5",
+   "date": "2026-11-05T23:31:38.000Z",
+   "source": "ParadePets",
+   "summary": "Nearly 100 Gamers Say They’d Give Up Their Pets to Play ‘GTA 6’ a Week Early ParadePets"
+  },
+  {
+   "id": "gn-1smqtb",
+   "title": "We Analyzed Every Official GTA 6 Screenshot Continued",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVG03c2Q3RUEyTXVydFdweElRdWNyOEJKX2JFM3FReWJmM05aVjE3RWYzb1ROWTlUdnMzNmR2bF9tMUJEVWxPak11a1U4ZHB2TFZPRU5ZVVZ4S05UQ0tEVi1LY1VrN3I5WE9wb3hJNDh3MDN0T1M4aFBaTWZnZVQ2Y25WN1lCbFNfZ2lQYXpySQ?oc=5",
+   "date": "2026-11-05T23:07:32.000Z",
+   "source": "GameSpot",
+   "summary": "We Analyzed Every Official GTA 6 Screenshot Continued GameSpot"
+  },
+  {
    "id": "gn-duz72b",
    "title": "Before GTA VI comes out, I'm playing the entirety of GTA V completely in my web browser",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ0JGZFpXWHJveFM5bmx4a2R3RHpjd1NXeld5MzVnSG5Ec0NGNG5JSHhJVnZvOVdSYVBNUnZDdWViZVdPMEhvWk8wYy1leDBrWEZVZ3dhRFNOS2xOVWhhcHFvcXR1azhQUXYtb1hjUjRRV29lVlJhWEU4TTNsYWExMGxvd0lZc0hCb1A5SW9pdFNrQ1FXVFUzOFhLVV9fbW14T29ZRw?oc=5",
@@ -291,8 +371,8 @@
    "title": "Can You Upgrade GTA 6 From Standard To Ultimate Edition?",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UUGIwRzR2bjV5bUJtLW51UmtfSnBZNFJmcmo4aXZ1dm5OYmZOSG9JU0NmNFhZbVRsbVNzREpkUzh4cnhCMEZLbXlYckxuX0l0Wi11dHhBazJIVFVhdzdUa2VkWkxSdWJwMUlqMjIzSmJZbTNQVnhv?oc=5",
    "date": "2026-11-05T23:00:00.000Z",
-   "source": "www.svg.com",
-   "summary": "Can You Upgrade GTA 6 From Standard To Ultimate Edition? www.svg.com"
+   "source": "SVG",
+   "summary": "Can You Upgrade GTA 6 From Standard To Ultimate Edition? SVG"
   },
   {
    "id": "gn-1ktf65",
@@ -327,6 +407,14 @@
    "summary": "New ‘GTA 6’ Launch Photos Confirms Kodak Black Is in The Game https://103weup.com/"
   },
   {
+   "id": "gn-szh8nb",
+   "title": "The Elder Scrolls 6: Sentinel won't fill the shoes of GTA 6 as the industry's next white whale, says analyst – \"No shade to them\"",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPajNvUWZSNWRmbDlZZnhZaTZrRVhVQk9FYlpZU0liSDJPcjRieHI3UnRneFo5Y3ZvTlRnaEtyYWRXVTU5cjA4WHZJLWlpTVVJX3MzYUJ4bXAwMWxyVUZvQUZCMGhhcVpaUnAtVzBZUF9ua0VNWFFhSXBZejNOaG4wYkRNTWtqSk9qZ2xIRGp0VnVJZnN6azZTM2NIWlpkRWY5cnJFWHBKYng4cWFqd21QcDJ3d2JDRTRnSzl1aUUwY2I5eVlJZjJmSFZXNWlOOTNFcnVSVFJFNTJmcnV0cDE5ZmpTbFlCOGVYQkdFZ3cyM0NYaUIzMi11dG5UTHVhTFBUY0E?oc=5",
+   "date": "2026-11-05T22:07:10.000Z",
+   "source": "GamesRadar+",
+   "summary": "The Elder Scrolls 6: Sentinel won't fill the shoes of GTA 6 as the industry's next white whale, says analyst – \"No shade to them\" GamesRadar+"
+  },
+  {
    "id": "gn-3jgurt",
    "title": "GTA 6 confirms regional unlock times as Xbox and PS5 users plan for early hands-on",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1A5ZHNnTHN2R0VXVkJnM2RsNjVGWEVPT0V1dFd2ek00VF9rZU94YXRKdTBnS1JzQTVmRDc2N0dBTWNHZGg0ZnFUR0txVUlZbEdJTXY2NVNjdDA1ZUNkWlVHTERITy01QzlOc0VKbjQ4Z01fUDJYeFZzYjBlbXJNcy01Q01yaUtFUDlEcS1xVFpZaFgyNl9Pc2NFUQ?oc=5",
@@ -341,6 +429,14 @@
    "date": "2026-11-05T21:48:43.000Z",
    "source": "Heavy.com",
    "summary": "NASCAR’s Championship Weekend Is Getting an Unexpected Grand Theft Auto VI Surprise Heavy.com"
+  },
+  {
+   "id": "gn-lih5ya",
+   "title": "New ‘GTA 6’ Launch Photos Confirms Kodak Black Is in The Game",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rYVVKYzVkRkxZNW9YSFpzdlkwZ1hJU0hRbk1MSmhCQkxMbW1lY2txY3A4SDdTZWhiZ0h4ODBxTi0xcGVXejl2bGtIZjVQZFZUaGpmck9xQ1AxeTdfcU9WajQ4cEtDNU5kN014ME9OaWwtQQ?oc=5",
+   "date": "2026-11-05T21:24:28.000Z",
+   "source": "Hip-Hop Wired",
+   "summary": "New ‘GTA 6’ Launch Photos Confirms Kodak Black Is in The Game Hip-Hop Wired"
   },
   {
    "id": "gn-evebyy",
@@ -367,6 +463,14 @@
    "summary": "VISION QUEST EPISODE 7 BREAKDOWN! 🤖 + BIGGEST HOLIDAY VIDEO GAMES & GTA 6 HYPE! 🎮 | Geek Culture Congress foxy99.com"
   },
   {
+   "id": "gn-17trx76",
+   "title": "Miami’s 24/7 ultraclub E11EVEN is transforming into GTA VI’s neon-lit NINE1NINE for an epic month-long takeover",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zUE9XOWlEVDk5YzZRREVIWmxCX3FyQWZOWXQySl9ING9xVUI1NjVGaTVDTEh6WFIwZWloY1JLb3ZDSk9fODVNTi1qbW9mOEswM1FES3JJWlNNRjlQRUI5b2JydExxYnFvd2NYanFUVGktdWstV2xUcjBGOG0?oc=5",
+   "date": "2026-11-05T21:06:37.000Z",
+   "source": "Secret Miami",
+   "summary": "Miami’s 24/7 ultraclub E11EVEN is transforming into GTA VI’s neon-lit NINE1NINE for an epic month-long takeover Secret Miami"
+  },
+  {
    "id": "gn-wdr11j",
    "title": "Explore the Grand Theft Auto VI Launch Gallery",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQenlYTHJOV2JxUkx1TEZnblBxSzdYdnhJQlQ0RUEybnNON0pKS3RxUnlueXNkTGVUbmt5MnpBR1JzMkttUi1Qb3ZQNXp6NWpZbl9EX1dqUVhaWjNBU3ROWkFySlhBbUJwOVJESHNoZ0N0WXRVdGprZ1RGWWY2U2l4TjNtQm4zNDNpQkoxQnN1NmNVZUdqNTBhSGVYeFBsZUZFZWxHZ3RWLW5LSjFT?oc=5",
@@ -375,20 +479,12 @@
    "summary": "Explore the Grand Theft Auto VI Launch Gallery Rockstar Games"
   },
   {
-   "id": "gn-17trx76",
-   "title": "Miami’s 24/7 ultraclub E11EVEN is transforming into GTA VI’s neon-lit NINE1NINE for an epic month-long takeover",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zUE9XOWlEVDk5YzZRREVIWmxCX3FyQWZOWXQySl9ING9xVUI1NjVGaTVDTEh6WFIwZWloY1JLb3ZDSk9fODVNTi1qbW9mOEswM1FES3JJWlNNRjlQRUI5b2JydExxYnFvd2NYanFUVGktdWstV2xUcjBGOG0?oc=5",
-   "date": "2026-11-05T21:00:08.000Z",
-   "source": "Secret Miami",
-   "summary": "Miami’s 24/7 ultraclub E11EVEN is transforming into GTA VI’s neon-lit NINE1NINE for an epic month-long takeover Secret Miami"
-  },
-  {
    "id": "gn-6spxk9",
-   "title": "GTA 6 Album Features: Artists, Tracklist and Release Date",
+   "title": "Kalshi GTA 6 Album Odds Reveal Artists, Tracklist and Release Date",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWRkZ2RkTVprNHRwaDlWYmt2cDd5OUVBbDJJYXZJd3B0LUtPMXMybXdWUXpGMDN0QVNmX0RfVFFqbWF4QzNla3hLR21nbG5IVlpaODdvUUVyUjBpcUVjbzRrS2VlQTRUY3RKcTktTm5TTUVmemFLYlZuUldZRGw0em01YjRLT2hJOU5qTWJMR29QaG8?oc=5",
    "date": "2026-11-05T20:59:00.000Z",
    "source": "Action Network",
-   "summary": "GTA 6 Album Features: Artists, Tracklist and Release Date Action Network"
+   "summary": "Kalshi GTA 6 Album Odds Reveal Artists, Tracklist and Release Date Action Network"
   },
   {
    "id": "gn-1go0m1n",
@@ -479,6 +575,14 @@
    "summary": "'GTA 6' Preorder Sales Hit $751 Million 2 Weeks Ahead of Release. Are Investors Ignoring Take-Two Stock Opportunity? Benzinga"
   },
   {
+   "id": "gn-zdknpn",
+   "title": "GTA VI releases soon. New marketing you may see in Miami-Dade",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdjdtYlQ3TXRsOWNoWFNQQ3RaMzNmRDMyWjFFMEFTeFY3ZGhUVHI5WlpLbkE2NzhkS3ZEWllyRmpqZDhDOS10eWc5NFBOLWlLNXR2OXc3UmZIV0Z4X0JLNEdiNFJZb29xelA3VnVETzA4YkExRi1wTmI5VlBhLVU5b081LXJ1YUhMNEdvU2lTRnRsenJDNV9vcV83U25SYmpHMVk5a1lEWEVhd1JsMmRuVm9qQlREZ1pEQzlpenNoX2k4aXl6eWo3VWQ3OEV4QQ?oc=5",
+   "date": "2026-11-05T19:00:00.000Z",
+   "source": "USA Today",
+   "summary": "GTA VI releases soon. New marketing you may see in Miami-Dade USA Today"
+  },
+  {
    "id": "gn-1q1z82o",
    "title": "GTA VI releases soon. New marketing you may see in Miami-Dade",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2cwdE1mRkdNX2FvY3FrSVhpR3VDWmZoOWJvR18xT3kwQWdod3BIVDJCMU9ya2FoVEpGalJlWWl0RzZMTTNkVl9aZS0xMklVOXlkZGhiYUhuWDJzTGlXQmNNZXZVVjVweVRDQkhKQ2VzY1pKZXZTR2JxRDlPOUxGUDlUOVBvOGNT?oc=5",
@@ -515,8 +619,8 @@
    "title": "GTA 6 release date: Is there early access? The soonest anyone can play.",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ1dKaUM1ZTV3T1BfdGxVUnZEc1lPWTBXRU5JR2dVNTRSaEhKSzhCTmxCWlZCci13VWdoMEpZZXFKOWNaNjVEU3NjM1hGWDZHNU4wZW8xdWMyNEh4RFk1VzVCRFlKOHVNLW9fOXNBUG5SQVhLamNkcDY3dUowc3pLejRvYjFRa1UwZHAwT2JzMDljQTd1dmlJZVc0SUpDUEE3YlFrNzVSWng?oc=5",
    "date": "2026-11-05T18:27:11.000Z",
-   "source": "Mashable SEA",
-   "summary": "GTA 6 release date: Is there early access? The soonest anyone can play. Mashable SEA"
+   "source": "Mashable",
+   "summary": "GTA 6 release date: Is there early access? The soonest anyone can play. Mashable"
   },
   {
    "id": "gn-1guiqci",
@@ -591,6 +695,14 @@
    "summary": "GTA 6 Receives Over 30 New Screenshots Ahead of Launch MP1st"
   },
   {
+   "id": "gn-1mn7nrn",
+   "title": "It's not just GTA 6 – Take-Two boss argues \"we have the best collection\" of IP in the business thanks to Red Dead Redemption, Borderlands, and more",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPV0k4U1JmcUtKUkFMb0VMbGZpRWtBM1FCM1J3U2ZCYWRJd19WNzBiS1RFNnJRNXg5bW5zMGx4b1hHU1owVktTWm9NZjRiRlBGbEJQTUpsNkZoV1o3MlFxX2hqQVNqbnkzZzgtcGwyZzZuVnk0WUFBbVl2TmNjMHFrblYwWUlFaVFnMjBQVEUyRDFObzNsdWdfR3pjMGQyWWN5em9KT1F6RmVlSUdGb3NtSjQxMW5uNUY1algzT09DVEJncHYwanNQMG9XYk0xNl9wcXN0SlE1amU3RkRBOEVLUmZKYXctR3ROVFNKT2RnT2Y5SnNFUlByeURWN3RZWkZ4dks0a196ckJqNjdJN05weEltNXNLNWJuWmZF?oc=5",
+   "date": "2026-11-05T17:31:34.000Z",
+   "source": "GamesRadar+",
+   "summary": "It's not just GTA 6 – Take-Two boss argues \"we have the best collection\" of IP in the business thanks to Red Dead Redemption, Borderlands, and more GamesRadar+"
+  },
+  {
    "id": "gn-unvn6r",
    "title": "90% of teenagers want to play GTA VI Online, but Rockstar has not yet announced multiplayer",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNEhoQVN2SFMzN1pTR3pZeG9IaGcxOHMwZnV2eEhNMWdiZm5pYlVYVlQ1dDExYXppNklNbFcxSzRQV2tnUGFXbklvaDBhczl0UU42QXNzZG50dzB1bjF3ODk3U3EzY3FZUS1qelR6aWw1SDZuMGhPUHVHY0hZbk9zZ0JHSko1engtWVdjeEhXaE5HTzJVdllkUGdFWm80THZ5SkJSWlV5U3ViQ0xOc0xxM01OS0JuVEZkX3RvUlY1a0xQN0FWYTZOalRFQdIB0AFBVV95cUxQd282cXVPZXJfVFd6N0lZdnZ6Z2plaV9zWFIzNXBGOU8xYjQ1QjhadklaOW10WkZVa0JoZjZ2bGNDQWR1X0pPNTBOaFNwMFBzYjhibnp4c0YwbTBLMXdscVQ1UHJzVVd4V3dmSkNpSlhZWmNhMmMxYUY4eFpXdmdlLWY5OXlSaWIzaFFiRGh5OTZESzNFZ3R1eXowY1VBVnB5QTduQ0RZOWl4TmI1WEd6VmpjdmJ6ZEl0d1ZFdDVneGstOG5GSTI3T0ItUEwxTTJI?oc=5",
@@ -637,121 +749,41 @@
    "date": "2026-11-05T16:47:41.000Z",
    "source": "GameSpot",
    "summary": "GTA 6 Looks Pretty Realistic, Until It Comes To Gym Etiquette GameSpot"
-  },
-  {
-   "id": "gn-co6g61",
-   "title": "GTA 6 being pirated is just \"a fact of life,\" says CEO of Rockstar owner, and lawyers are ready if it becomes a problem",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY2NrLUFuV0RrY29YamVEMEM2OWt1Z3pYTmRFdUN5ZmpfMTNVOFVmeG82NkJpTlB5cmNmd0wyQl92STIxeGJNb25SbmpMNXhoLWEzcEtQSW5zdGswZ2ZxU2ZTMEFLMXZZRENQUmhrY2xUXzlLZUhuRUtwTHZ2M2syWjhZREsxRDYtQS1qajk3dFFNUFNVNm9xbVRUT0g0UmRXYkVjT1RXMHRSclp5MV85d0FYc1p1eXM2OFhwSnFndS0zTWFYVW91YVE5MEtmdDJna3I0UV9EUi1MLWpzSklzdTFNekRneHBPdFZ2ZU9FUE5UUWNnX0JkMHJR?oc=5",
-   "date": "2026-11-05T16:47:41.000Z",
-   "source": "GamesRadar+",
-   "summary": "GTA 6 being pirated is just \"a fact of life,\" says CEO of Rockstar owner, and lawyers are ready if it becomes a problem GamesRadar+"
-  },
-  {
-   "id": "gn-15ujviu",
-   "title": "Slideshow: GTA 6 Launch Screenshots",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzd4YnlIbDNMTzVodmVGaGhLY1JPMXIyV3VtWVh0QnRNYkZPTTRtVE9fRFhNTU90SGtmbEN0YVNyYU9RcVphWURzSFJRN3BqRXZoWk43cmVXdjQ0OWM4alNrckV6RnJlVnlidHFycW1ROTEzYkJoYVRJM0c3T19RY0lfMDA4bTZkY0pTUg?oc=5",
-   "date": "2026-11-05T16:37:01.000Z",
-   "source": "IGN Pakistan",
-   "summary": "Slideshow: GTA 6 Launch Screenshots IGN Pakistan"
-  },
-  {
-   "id": "gn-1onkaiv",
-   "title": "Rockstar Release New GTA 6 Screenshots",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaZk0xbnhkd1BEVXh6UGJ2QTlZc0VZLW1vTlN4c201R05US3U3UklBMUJVWm92MVM4R3JwemhxMnpiYlFGajFmU1dOY1pFdUtOaTBONmNuMzRQVWdhbVRkRTJ5cWpJQjNibElnbzZodWtWZTFoN2FJalFn?oc=5",
-   "date": "2026-11-05T16:34:04.000Z",
-   "source": "PlayDayOne",
-   "summary": "Rockstar Release New GTA 6 Screenshots PlayDayOne"
-  },
-  {
-   "id": "gn-g72iag",
-   "title": "Massive GTA 6 Mural Tagged By Graffiti Artist Overnight And People Aren't Happy: 'As A Graffiti Artist Myself, I Honestly Think This Is Pretty Disrespectful'",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNcDJfS0JpZ25VMFlSWFVUZE0tZkJNakFXQ0o0UlpGbEVRNGoyUjJSa19TbnF4X2FaeWxvMW1Na05WblotTVpkcmpRNVg3UWI5ZGcwak1BbWVGa2JKUlRhd01saEtFdE9vX0k2TzdYb2tJLWQzRnZJTG9ZalhyU2JDU2ZRNk1mQ0JEUzM4VWI4TnVmNmJ6UzFZcm9CTHRnVXVPR2RfcmpBM3RhVWVmMkQ5YzQySnkxM2owbHZLVzdkVE5HUWY0TU1FUERxbFZxUzZpZDhtR0J5NHJ5RG90U3VoNUVwZk82aWhJcFBaRy1ocC05NlVZSE9hXzh2cGlMbEFDZ2xuR1R0SFZwVVZTTmlJ?oc=5",
-   "date": "2026-11-05T16:32:30.000Z",
-   "source": "Kotaku",
-   "summary": "Massive GTA 6 Mural Tagged By Graffiti Artist Overnight And People Aren't Happy: 'As A Graffiti Artist Myself, I Honestly Think This Is Pretty Disrespectful' Kotaku"
-  },
-  {
-   "id": "gn-194p0y6",
-   "title": "Selfridges Is Opening a Grand Theft Auto VI Experience in London on November 9",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ21hU2dCdHNKUDlIbXZpVHRrOU1XX2htTWJZd0NLTjVCLTA1dEV2dXpxWk1wWXRnMU1mX0E1aVpJOFRla1ZwcDA0eEVvUUJqakNVZkU2b1N2MEViV2JoX01Yc0Q5M2NhdTIwd1pwLWJQaVZ6YzRWZzVwOHFVUF9LcmxjZER2d3J6Wk5YaE1pTmN2T2twV2RNS1BlcXgwcXdneGxrS2U2QkhMWDA?oc=5",
-   "date": "2026-11-05T16:31:31.000Z",
-   "source": "GTA BOOM",
-   "summary": "Selfridges Is Opening a Grand Theft Auto VI Experience in London on November 9 GTA BOOM"
-  },
-  {
-   "id": "gn-lvubyq",
-   "title": "Miami catches GTA 6 fever ahead of highly anticipated release",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcjQ3a2pXNXpvQ0c3Tm1ramdpZ19UakQ0Q3BZU211bFpWMUhoYnNOTmFwS2R5bkV3UzlaTVlBLTJMdGZuZ2ZGVklnaDhLS1VCYkQ3ZGRmN2lpeV9RX0laTS00cFRUSTRoN2dNNmVyVlY2YnhoTkNnb1dXR0J6UVlXQS0zZGRPX0w5NkZpMF9fU2JPUWV2cEFVdEhsVy1qOE4zX2ZueEgwS3pJVzItbmdz?oc=5",
-   "date": "2026-11-05T16:30:12.000Z",
-   "source": "USA Today",
-   "summary": "Miami catches GTA 6 fever ahead of highly anticipated release USA Today"
-  },
-  {
-   "id": "gn-1jmww7r",
-   "title": "The Road to GTA 6 Begins With Snow in GTA 5",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpaEVyODVmdzRpU205a2hvZE9FU19lUjRieUQwdWZ0NjNSR2h4UUV5bk51SjBVdnlVRklTUVFyRTBWYmxNbk4wQ18xOU9HRlVBTDFZWGZWUV9GWTFfTU1QZ3VJWUtjd2hWaFFhN2Jrblh2b2VmMnc?oc=5",
-   "date": "2026-11-05T16:30:00.000Z",
-   "source": "Yahoo Tech",
-   "summary": "The Road to GTA 6 Begins With Snow in GTA 5 Yahoo Tech"
-  },
-  {
-   "id": "gn-1ifakz0",
-   "title": "Rockstar Adds Launch Gallery of New Screenshots Two Weeks Before Grand Theft Auto VI Release",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSS1rZFdzM05ZZWtaVDBhbTBhQUpwNEdQTFZJT0xpVHFHLVZXblNxUDNWeTR3TUw3WUlKQ09YTF82RGxwWlJkQkRMS1NnVk54RTZkUEJzUmRlMEdJNktzOUQyX1Z4RXNTc1kxLWtBY0NjT0lMUG51dVhuVVE3ZW12cjAxSDc3aHhTeF9EQ1hNZ0VZUzNRQlRCQlJHM21pT0FjUWpqeEk3ZkYwOG5za0dQVWZOWHgyUQ?oc=5",
-   "date": "2026-11-05T16:22:37.000Z",
-   "source": "Northeast Times",
-   "summary": "Rockstar Adds Launch Gallery of New Screenshots Two Weeks Before Grand Theft Auto VI Release Northeast Times"
-  },
-  {
-   "id": "gn-bu5h1l",
-   "title": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxanZXNnlHLTZWQmtqREw3Wl9ZWkpCN1ozc1p1bk5XN0JHQWgtcU1Yd1c5NTJvTFBuNl9tRldiTVFtTE5DWjY4ZU8yTmIxSVpLcndsSHFBT3RTR1BuT0VYdURTQVIzZ0wzNldsWnJoTXM?oc=5",
-   "date": "2026-11-05T16:18:40.000Z",
-   "source": "Eurogamer.net",
-   "summary": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more Eurogamer.net"
-  },
-  {
-   "id": "gn-xe9bsk",
-   "title": "Slideshow: GTA 6 Launch Screenshots",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MUnZvR3c1SXVRNDBNcVZoVlF6QXFKTk9kNXFMVGdFWGpOaGRFNHdtMTdUMDJQVjBxVWgxTm9XWjYxNHptenBLaDB5bW91SEFzbjcya2toaXlBY1FQZzRWclIybmZWcTJkWFJTWFRfWWM2UFpjRXZfd1V1R0JQbEk?oc=5",
-   "date": "2026-11-05T16:18:19.000Z",
-   "source": "IGN Nordic",
-   "summary": "Slideshow: GTA 6 Launch Screenshots IGN Nordic"
-  },
-  {
-   "id": "gn-1x10gu",
-   "title": "Rockstar Games Flexes Its Technical Prowess With GTA 6’s 39 Launch Screenshots, As Stunning Attention to Detail Completely Steals the Show",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaWJSUUY0WWtfS3NXZWIwNmxKUmlYQnJXa3cwSFF6aEJPWDB4WHVwUFBCMW0zaENqZWgyZ29ZZzJWbkhDOE83ZGgyMmRFZWxDd2xzdUdWSmlMeGVMbDJlRnJyeE9OaWYySmM3M3hNdFM4cE5SVXNFNk9qNW1TWm9FVNIBhgFBVV95cUxOQjBGUlg3YUY0Y0JLZUl5cjNiQ2duRFlKeXhWMkNheklOTXV4MHk2UGZLcWhQNm9yQmZTcnFpUE9TRndFMVBXeWFfYmt3M2RBRThrNnhOQ1I1SmhYeTRieUtBOG42NlV3bU82dkl6MzR3cGU1QWVuVUZ3ZVFHdGR2dnpjakc1QQ?oc=5",
-   "date": "2026-11-05T16:16:35.000Z",
-   "source": "Wccftech",
-   "summary": "Rockstar Games Flexes Its Technical Prowess With GTA 6’s 39 Launch Screenshots, As Stunning Attention to Detail Completely Steals the Show Wccftech"
-  },
-  {
-   "id": "gn-u3kc64",
-   "title": "Slideshow: GTA 6 Launch Screenshots",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVDZVT01xa3lFdnBiLTZwTVFRakQtU2pXZDFQWHpockVZeUdSTGxlUklHaW93VHJUeUFLWFh5YmZhSXpMVXVEampya01XM2lWM1JlQVBlMGVaV1BNVmw0SG9PUF9jMWd3cjZQOEZJa0dLeklwbU1uUFF0WUl3a1lkN2FjNktrSkpsTlJ5cUZR?oc=5",
-   "date": "2026-11-05T16:14:25.000Z",
-   "source": "IGN Southeast Asia",
-   "summary": "Slideshow: GTA 6 Launch Screenshots IGN Southeast Asia"
-  },
-  {
-   "id": "gn-1a2qdfb",
-   "title": "GTA 6 pre-load starts next week. Here’s what to do before then",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTjRJamlsVTNzUEdxSFBPT0g0R1FiaTBKT01FalZqNzVLYzdvMmdOdUVoQUVwYUYzb2I0dktRSk8tSGpuRkZMVUhkNjFqSTdzYS1jYXdvbHA5WUw5aWRzZlhidE9rUFBDNVpXaFpWbzB1TmNpdWhJanRFMnpQYlV4WDN1czM4dWloRnZPOG1nbWhoV2NxRzQ3NVMzQ0FYMVNWNzdxcWRqMXU?oc=5",
-   "date": "2026-11-05T16:13:38.000Z",
-   "source": "PCWorld",
-   "summary": "GTA 6 pre-load starts next week. Here’s what to do before then PCWorld"
-  },
-  {
-   "id": "gn-17cezov",
-   "title": "Rockstar Games Will Take Measures to Prevent Grand Theft Auto VI Spoilers, and Players Will Have to Follow the Rules",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcllMbHhzb0VqUDZWdTNpTFY4UGlOT0N4ZXhXdXBsRmJEelpJUnhxY01hSEdqbVJCbDQ2eFBoUVh3dkVrdzBpSFZpMHNta3B0ZXJhYXZpSVEyWDBxUGtrOXpQODdmbkZ3YUx4NjR6c1M5clV0YmxRb0ZUMEczc3VzUzdaNWtrVkVPcHJqcUJULXpzWFc4Nnk3eVNsTVNhWlo3NGhibFVGMThvajFUWndrSFVudlFjVHZZOFFGMl9Rd3hxSEJ2OUgtUWlqTmJfV0puMHA5ZEVCQmZJTE5GWC1pMENn?oc=5",
-   "date": "2026-11-05T16:02:15.000Z",
-   "source": "LevelUp",
-   "summary": "Rockstar Games Will Take Measures to Prevent Grand Theft Auto VI Spoilers, and Players Will Have to Follow the Rules LevelUp"
   }
  ],
  "community": [
+  {
+   "id": "rd-1tjaz9t",
+   "title": "This was one of the most impressive screenshot from the collection",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xp0y6x/this_was_one_of_the_most_impressive_screenshot/",
+   "date": "2026-11-06T02:03:03.000Z",
+   "source": "r/GTA6",
+   "summary": "Looks to be a resort of some sort. Very well done submitted by /u/Zestyclose_Pain_4986 [link] [comments]"
+  },
+  {
+   "id": "rd-95ilot",
+   "title": "On this day, 1 year ago, GTA 6 was delayed to November 19th 2026. Now we're less than 2 weeks away from the game, Surreal.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xp0mxf/on_this_day_1_year_ago_gta_6_was_delayed_to/",
+   "date": "2026-11-06T01:47:45.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/panner1234 [link] [comments]"
+  },
+  {
+   "id": "rd-10soxuk",
+   "title": "N1810R Complete Flight Path",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xp06kc/n1810r_complete_flight_path/",
+   "date": "2026-11-06T01:25:28.000Z",
+   "source": "r/GTA6",
+   "summary": "I mean he's on his way to land right now so not the absolute complete path, but the full design. submitted by /u/brisot [link] [comments]"
+  },
+  {
+   "id": "rd-3qgpbv",
+   "title": "A Cessna is currently creating artwork in the air",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xoxes2/a_cessna_is_currently_creating_artwork_in_the_air/",
+   "date": "2026-11-05T23:17:09.000Z",
+   "source": "r/GTA6",
+   "summary": "You can see it on any flight radar, N1810R submitted by /u/Snak3D0ct0r [link] [comments]"
+  },
   {
    "id": "rd-d95xxi",
    "title": "I'm excited we're getting a limited weapon carry limit this time",
@@ -1039,38 +1071,6 @@
    "date": "2026-11-05T01:20:09.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/justbrowsingcunt [link] [comments]"
-  },
-  {
-   "id": "rd-ertzdr",
-   "title": "Melbourne, Australia - GTA 6 St Kilda advert during the day",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xo5f8g/melbourne_australia_gta_6_st_kilda_advert_during/",
-   "date": "2026-11-05T01:02:00.000Z",
-   "source": "r/GTA6",
-   "summary": "Looks fantastic at day time. For context, St Kilda is a beachy suburb in Melbourne, Australia. Couldn’t think of a better spot for it! Address: 14/16 Punt Rd, St Kilda VIC 3182 u/krshmo posted a photo"
-  },
-  {
-   "id": "rd-157v3h2",
-   "title": "Just 15 days",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xo54i1/just_15_days/",
-   "date": "2026-11-05T00:48:25.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Vanze_ [link] [comments]"
-  },
-  {
-   "id": "rd-1pbeoys",
-   "title": "GTA 6 in Real Life — Almost Identical! 🤯",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xo3b31/gta_6_in_real_life_almost_identical/",
-   "date": "2026-11-04T23:26:25.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/New_Individual4750 [link] [comments]"
-  },
-  {
-   "id": "rd-14e1wa9",
-   "title": "Lisbon looking good",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xo1t6e/lisbon_looking_good/",
-   "date": "2026-11-04T22:22:06.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Milo_Mio [link] [comments]"
   }
  ]
 }
