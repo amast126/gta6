@@ -1,28 +1,28 @@
 {
- "generated": "2026-11-06T23:43:45.959Z",
+ "generated": "2026-11-07T04:22:33.285Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 12,
    "scanned": 40,
-   "checked": "2026-11-06T23:43:45.959Z"
+   "checked": "2026-11-07T04:22:33.285Z"
   },
   "youtube": {
    "ok": false,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-11-06T23:43:45.959Z",
+   "checked": "2026-11-07T04:22:33.285Z",
    "error": "HTTP 404"
   },
   "googlenews": {
    "ok": true,
    "count": 102,
-   "checked": "2026-11-06T23:43:45.959Z"
+   "checked": "2026-11-07T04:22:33.285Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-06T23:43:45.959Z"
+   "checked": "2026-11-07T04:22:33.285Z"
   }
  },
  "official": [
@@ -271,12 +271,132 @@
  ],
  "press": [
   {
+   "id": "gn-22xek2",
+   "title": "Physical GTA 6 pre-orders may include poster instead of map after retail leak",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPam1Odk5wZXZyanN5cVNmSVQtY1h5ejVtMGRyckRnZzVmTFgtV1ZGV2lhbVNGM2FEemNxek44bXFyWVRzejFBQU5EaUQtMUJkdGZ0RldKb3htWnZhNTNKeXE1Q25EOEpRcTBqVTRjbGo2NmZVdzNHdG1QNkNRbkVzczFNSGpCUkVYcy0yeWloNk56cFNuMmRuTGc2WHprRjNPdXRKdy1KVjNLajVXbVAzY0ZlckpEOWVTeWMycE5ucw?oc=5",
+   "date": "2026-11-07T03:59:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "Physical GTA 6 pre-orders may include poster instead of map after retail leak Notebookcheck"
+  },
+  {
+   "id": "gn-1uj5pl6",
+   "title": "GTA 6 Map Discovery Reveals New Georgia-Inspired Town and Expanding Final Chapter MC Influence",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT1g1cFZyeDhMMzlra0xJSFBySDY5Z1IzcmtCVWg3b1BaZHEtVmd5V1pnSU1TMUlwVERBaWxQSkF5VVBPWTZ0RW1Bb2VFN3VtZFdfOG1xMkJ3Qi1sOENuM2Uzb2tqRzI0TXdFMG1rdDJCNnRwYUxQdi1DUkdoci1NdWdkNDN0UUJIbldEODZQLVlLU3AybzY1cURpR05yR3hldEZyYnRlWFlsMFhCanFseFVJTVo5SWZUd0U3WTRSdkliRW1iMWc?oc=5",
+   "date": "2026-11-07T03:18:08.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 Map Discovery Reveals New Georgia-Inspired Town and Expanding Final Chapter MC Influence MMOEXP"
+  },
+  {
+   "id": "gn-1upom6k",
+   "title": "GTA VI could arrive on PC sooner than players expect — Rockstar veteran shared his outlook and estimated the cost of an unofficial port",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOURZWUhfMjk2cnRXVXJ6V3JZQlI1VElGN2pxcEVHS1dTS21BYnlmVTFJazFWV0ZocnVfcThfeFlhRi1FcDF5cXV2S0x2amd3czAtSWVzbzNEOUpxQ2VfVjNyZkJLSmVCb2JpaEp3SFdkc1lIOGFsaFZQNjI5X1NwdmhrcEQwRUF2aG5KcDVUVDJ3Z2dqZDl1cjdFaTBTanNXNGlSMjUzV0QwSWpva0Y3ZGoxcHRpODBhb2o3SW1UdC1xNVNvVjZIbHNOS3lTcVgzdDEtRERaMzdac3BjclJxUmE1b3cyNFVJbWQ5cmh4UnZGNGZ1UWdwT0hzZUZFTDDSAYQCQVVfeXFMTlpYYjZGbFlrMzAtZ0hrNWhxOWNhOXBwc182Q3ItSFgxZzhkeXk1R2NTeUlnS3lRQktNZlZmRFE3VlpGYmd6THFRYmU3U2oxV3RCX2hzOVZxMlNHTm8tcDB1THJQYjhkRG9STHVZakdhMmJFWVhwVkdQVmU0NWtSR09jWWZQR0E3clcwWjY2VVY3U3VIMWh0WVd4cngwMUctZnZPSHBsODFiZ2xRbVl4cWFKN1ZzQ3BVNFQ2dEdDeEljVGlGQkJSdjRndlIzUE1MRE5WU3RxOG50UFF6ZUhsMm1TaW1VWHUtY2gtYmdZcXFNaHRzVWk4SlRZSW9nNDdtSXBhU18?oc=5",
+   "date": "2026-11-07T02:55:00.000Z",
+   "source": "iXBT.games",
+   "summary": "GTA VI could arrive on PC sooner than players expect — Rockstar veteran shared his outlook and estimated the cost of an unofficial port iXBT.games"
+  },
+  {
+   "id": "gn-71y4rj",
+   "title": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeFdxQXJNRTkyQzB1S0hqMWNTQ0Z6YmluT0tGdWl3bTgxbDN1dy1vRjVPUWxVY295RndTLVFzUVVFVWJjN3NfOUduZzlzZC1Kb0w5SVJzb3FNZk9vWUc1dm91eXdZa3E0bUo1N0N5ZkZlR3dZZWZIWF9haVRLRHhJdWk2YnVHRTRsbTBPRVd5RVJ0OEx1QTJWM2drLVdjbW53NWQ3Zk5QbDdxQXRkRVNKanJTM1A?oc=5",
+   "date": "2026-11-07T02:48:03.000Z",
+   "source": "WKRC",
+   "summary": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path WKRC"
+  },
+  {
+   "id": "gn-6wfr3p",
+   "title": "GTA 6's biggest competition officially arrives in 2027",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0hyRnB5YXNFUHdvMUZyS19pZzlXazNUblpzTWFRcmY1cXdPd09fM0VQeHZjbG5iVmF2YjdERU9Kb1JSMWEyMUprc3BPVG9kMDM4ZGdXTk52LTJfOHB1eTVCamJVVnBWMWFpMWV1WEJGMm1xYm9sS0FMTjVjeXRHazRjVnZ5aTA?oc=5",
+   "date": "2026-11-07T02:43:00.000Z",
+   "source": "Polygon.com",
+   "summary": "GTA 6's biggest competition officially arrives in 2027 Polygon.com"
+  },
+  {
+   "id": "gn-1g52wj",
+   "title": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHMzZlI4eVlfeUNPYkxzd3RjVnhrYWpVUXUtUEtjRDBqTmVEWWgwcEhBU2xZVWR2ZnBzTmJtR0wtTG1nM0huUEN2SEpoT3VhNURveWRuenVuaHRERFJ4VVp5dF9MaDVMMkFjNXZKai1VV0N6c2xtX0kxUmVtU0NHNGpod3Y2eVdwUEpXd3lVZ25sbkx1Q3o4ZUI3dEdWMmdPVXdmZU9zMkgtRkI0cWRZRg?oc=5",
+   "date": "2026-11-07T02:40:34.000Z",
+   "source": "KATU",
+   "summary": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path KATU"
+  },
+  {
+   "id": "gn-ttt0xj",
+   "title": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZmVBT2loN01PRHQ3THlYejhqTkpRUzVNb1RNOGVvRm80ckcyQ2VVYjdOcnl5OEZoREZScGlmWUNUTHpwdm9pVDlpOTZWX0YzTENKTzJNcENKYzJfUTNzaXd4Z195alJSSHAyLV93N2VxemVOTk1zZ3BCTk52R3h6WHZJTDl4ZHowNnlBWENaVk5VODMxQURycXRoVy1tcUdPMElubnAteERlVVQ4clhvZQ?oc=5",
+   "date": "2026-11-07T01:55:04.000Z",
+   "source": "KTUL",
+   "summary": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path KTUL"
+  },
+  {
+   "id": "gn-fdpoov",
+   "title": "GTA 6 Map: New Town Discovery & Final Chapter MC Clues",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV2RfV1JzWno3YU5lbDQ4VDVrLXdPUXVJT0lIZkh1anZoZWpFamlOZ2pWbzZwV0NvbDd3OHpwZVEzai1IZUQ0YUdOejVoOHdzQXpVQzhETFdULTRkeWt6eU83cThId3VDX012blhiTnZRemJXOEdBTEJzbFJrSnlGdUZjcDZQSHFETnY2eg?oc=5",
+   "date": "2026-11-07T01:37:41.000Z",
+   "source": "MMOEXP",
+   "summary": "GTA 6 Map: New Town Discovery & Final Chapter MC Clues MMOEXP"
+  },
+  {
+   "id": "gn-hwvwkf",
+   "title": "GTA 6 Xbox File Size Leak: 209.86 GB vs 225.34 GB [2026]",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEJrQko1OC1maHdUVi1DMWlYNnE0a1Y3d1NteTMzb0tlSUo2MnZzQkhDR19IZzR2Ni1HajYzbG1uTXVraGNhOWZGVklMVk5QM3VkUTlkOVhYQ2Z1RGRZVGNXOHBidEF4TF85YTRiM2VOYUpGQ2s2MlVrUzVyQXNmVDlyQzZ0NWs0VkE?oc=5",
+   "date": "2026-11-07T00:53:43.000Z",
+   "source": "shattered.io",
+   "summary": "GTA 6 Xbox File Size Leak: 209.86 GB vs 225.34 GB [2026] shattered.io"
+  },
+  {
+   "id": "gn-1of6dw1",
+   "title": "Rockstar and West Coast Customs Build Six Real 'GTA VI' Cars, From Lowriders to Donks",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUQ0ZmlUckNlanpLZEVVdDROVVNZTnpKODFkWU9MTS1yZ2FTajYxeHhuSTVVRU42NmdVRnZCdWh4SXhDR2plRkNPNnk5TFNoRjhYRHZidW4wV29pZ1ZWRTdNTGNXYXNXd2Y3X0V5aDkwTmk4bFQ0VFdVb1pFeWV4ZzVucDlJOVhscG1KMg?oc=5",
+   "date": "2026-11-07T00:33:45.000Z",
+   "source": "Complex",
+   "summary": "Rockstar and West Coast Customs Build Six Real 'GTA VI' Cars, From Lowriders to Donks Complex"
+  },
+  {
+   "id": "gn-13270mc",
+   "title": "Miami Heat Unveil Grand Theft Auto VI-Inspired Uniforms Ahead Of Video Game’s Release",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFA1c2RIYnBJbzRTc29SZ1haY2hSb0RPTi1fVGZpRHNzTzBvLTVuc3RLODZMOUZZRkNhNlRxQzhFUjFnSjhkRXV6ck0yM0VzdDZJOGlBQXpBcXdGUU0xbTBaZVRDOFJqNUlQRVNuWllDZk5IUktHeEx0aklrQkJadGQxbGUta3ozMXpibVRWUFZTYWVXV2sxaGpxQmZXTjZsWFhkcXliXzBXX0RMRlA1SHJKX0lXSmNMVHUwX0VHODczSGlHTXR3ZDkyVF84Rm5LMWc?oc=5",
+   "date": "2026-11-07T00:24:57.000Z",
+   "source": "SportsLogos.Net News",
+   "summary": "Miami Heat Unveil Grand Theft Auto VI-Inspired Uniforms Ahead Of Video Game’s Release SportsLogos.Net News"
+  },
+  {
+   "id": "gn-b57rnn",
+   "title": "Miami Heat finally unveil ‘Grand Theft Auto VI’ themed jerseys and social media is loving them",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcGV5eHBxbVdtSVpBYzg0aXdYc2l2NkZ5YWEtWlppUzM4bDJQdkdBcDNEaWgwWFBhUWRCY291ZGpGeDVuOExUM0pSUmdzejJfLThncXhPNnVnZ1p5Y01udHBzRTFYRXpab3NXNmo0R00xU1p0Si1UQ2cxNW00NF92VGMyTXdlLVhHSUdkRDBxU3JZbi1xLWdweVppU0xRdDVMY2cwUzNMS3ZfYUVYLTd0eHdFai1BTU4xaUJDb1RuNjNPMkk?oc=5",
+   "date": "2026-11-07T00:21:21.000Z",
+   "source": "930 WFMD Free Talk",
+   "summary": "Miami Heat finally unveil ‘Grand Theft Auto VI’ themed jerseys and social media is loving them 930 WFMD Free Talk"
+  },
+  {
+   "id": "gn-13hnsjy",
+   "title": "GTA 6 File Size: Xbox Leak vs PS5, 212 GB Preload [2026]",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkNyTkFXeVdXU1ZGY1VKaXRfX25oVk1ZSjI1c2ZxNUlHbE9HMWN1SmowOGwtTWFRTE9LdWl5TllVZHcxMVdFWUZQQkZlWlRYLXNGaEtOQjJDZU9xcjFsYmpWbjF1RG1QQVY1RGt6R1JSWk4zQXZndGpiNENJQkQ1N1ZtaVpZVm5hNlQ2ejhCaw?oc=5",
+   "date": "2026-11-07T00:16:43.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 File Size: Xbox Leak vs PS5, 212 GB Preload [2026] https://tech-insider.org/"
+  },
+  {
+   "id": "gn-1prhgj2",
+   "title": "GTA 6 Xbox file size leak differs from PS5, with release day patch possible",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXVGZURucjFSZnFTSGFfb2NmWFRFTnJjcnZnenR0X0dRdm5GNXVzOS1SNnNxVkwtRV9zMGg0cjQweTBoNmlUcXljNGpIX1pwS3l0Z2wxMWhNRFVpbU1fVUFMXzgzdFdrV3pwbDZiVVktZDk1QjBOQ0QzaHRDbWdVNjcwcGlvVXhQZGpTMFM5N3J3SDNVeEM2aWh5clVRSnNLUXRndDlOZ3ZJMllRbDBMS2E2MVJpbGNQN3Rr?oc=5",
+   "date": "2026-11-06T23:59:00.000Z",
+   "source": "Notebookcheck",
+   "summary": "GTA 6 Xbox file size leak differs from PS5, with release day patch possible Notebookcheck"
+  },
+  {
    "id": "gn-1ck3tla",
    "title": "Rockstar Issues New Official Statement on GTA 6 Physical Edition",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONUdjWS1qcFZzdTd1dGRodUFHUndzRDFsUS03M2FWX3cycXZqU3Q1QlhRSjNBNHVHeU5hc01fTXV4eFdGdGJuX2JReDREeVdrdjFPYlUzQmRzZFEyQTR0WlpmcXpZQmt4U213c1d2Y3gzWHBhNjFhWExWcUxpZGhCZk42ODdPcHBSRnZNb3h1Ym40NnRGd29uTjhmQVpHbDA?oc=5",
    "date": "2026-11-06T23:34:18.000Z",
    "source": "OpenCritic",
    "summary": "Rockstar Issues New Official Statement on GTA 6 Physical Edition OpenCritic"
+  },
+  {
+   "id": "gn-13u9wyq",
+   "title": "GTA 6 Physical Edition Poster Revealed By Retailer",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb2FDLXRFQjlxNVRWWVhEbDQ5ZERBQTVpNEhSMWNNcWpST1RwaEFmaURsTDdWd0ZiVzJneDN3MU43ZTBSX29TTHJDRnlWNGxnX19qNV8wXzQ2ODh1TXhZUDVVNnFNM1BUODhmZW9aMXVqV0FXM25CY2NuS0w5QTMxdy1Pdw?oc=5",
+   "date": "2026-11-06T23:21:23.000Z",
+   "source": "RockstarINTEL",
+   "summary": "GTA 6 Physical Edition Poster Revealed By Retailer RockstarINTEL"
   },
   {
    "id": "gn-dodup8",
@@ -319,14 +439,6 @@
    "summary": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path wtvcfox"
   },
   {
-   "id": "gn-1g52wj",
-   "title": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeHMzZlI4eVlfeUNPYkxzd3RjVnhrYWpVUXUtUEtjRDBqTmVEWWgwcEhBU2xZVWR2ZnBzTmJtR0wtTG1nM0huUEN2SEpoT3VhNURveWRuenVuaHRERFJ4VVp5dF9MaDVMMkFjNXZKai1VV0N6c2xtX0kxUmVtU0NHNGpod3Y2eVdwUEpXd3lVZ25sbkx1Q3o4ZUI3dEdWMmdPVXdmZU9zMkgtRkI0cWRZRg?oc=5",
-   "date": "2026-11-06T21:45:00.000Z",
-   "source": "KATU",
-   "summary": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path KATU"
-  },
-  {
    "id": "gn-1qcyp77",
    "title": "Slideshow: GTA 6 Launch Screenshots",
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wczN2NjMwM0hDa1NVeUVKVEk5dHBOSXYzMlhETmtESERqcTdLdGxyX2NtZUVLY3JpWUh2QTE1bEhKVC1IVHZnVVFLb045TGVGSkhJa2JZTG9jRVhmTl9EMDRGWlBtWlI3bVA5YktmcVNEeF9OYTF4d0F3?oc=5",
@@ -359,6 +471,14 @@
    "summary": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path WPBN"
   },
   {
+   "id": "gn-prvbcs",
+   "title": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmQ0M0xqUU1Qb0hQV21IQVFpSGkzRlVtY3JlVmNVbUl5ZHk5RUtab2ZncUlpczlRdDJNSW00Tk9scWNyUDhYWXI3N2dPT1pDcTJhc01GeG52SFozQmpadFFIWlAyNjY1ZjZDR1doX2JndGtQZ0lJU2VLbHllU201VmxhQm1sZVEtWlBkaWRpa3pMMUZvdFFtTVp1al90ZTlrYVJWQmFSXzYxMVI2ZGc1eQ?oc=5",
+   "date": "2026-11-06T21:22:30.000Z",
+   "source": "WSBT",
+   "summary": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path WSBT"
+  },
+  {
    "id": "gn-1m8uhl6",
    "title": "Arkansas pilot draws GTA VI mural in Northwest Arkansas with his flight path",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXlqc1IzVlJtbURyX195b0ZxbTJzMjdJN0pnWWJKTzdxdmNiTnk2YmRxaUFCcWw3MVVocW95Qmt2c1ZEYzUteW5CbHpnWV96OUtPOVJEVTEtN3FVZmJsZmJSakNtZ19vWmg2YVBOaXpSTEcwM3hqb3R0a3k2QjJJdXRoRlQycnlsN0J0LTlmckk0Z19yTEEyNnpPeThkVmNFRHJKeXQtV1JSY0NocHdKMw?oc=5",
@@ -373,6 +493,14 @@
    "date": "2026-11-06T21:01:50.000Z",
    "source": "IGN Southeast Asia",
    "summary": "GTA 6 Players in Germany Can Legally Take Time Off Work to Play the Game on Launch, But There's a Catch IGN Southeast Asia"
+  },
+  {
+   "id": "gn-2h1d6d",
+   "title": "A bunch of Grand Theft Auto games will be cheap on Steam until GTA 6 comes out, and only one of them sucks",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRTBGSjhxa25iRUFrVTY5dzJ6eGZoRFBMMFRUZjFPeGwzQjgxWHBTR0FlaTN2UkpaZGMzX3RBUnZTcGRYNk5SQkpqYVpBemZYWVdhUmFKWXRacHRDeV9tUHVqUDdQWGpubXQxdmMzRGt1NHBETUZFdVpsRnRrU2hPdktNTWFZcHlJNXJpQ0VXc3Z2c0JtaUFVNWVDMXZieV95QndmTG1ZSlhBZ05JSWVVOF9xUTduZFFMel9PY0JKeThBLXk5REU0MTNvN3ZVcVMwNW1aTUxiTXdDTUhnSVQ4WjlzLU15REotQ3g3RQ?oc=5",
+   "date": "2026-11-06T20:53:16.000Z",
+   "source": "GamesRadar+",
+   "summary": "A bunch of Grand Theft Auto games will be cheap on Steam until GTA 6 comes out, and only one of them sucks GamesRadar+"
   },
   {
    "id": "gn-1fniqa6",
@@ -405,6 +533,14 @@
    "date": "2026-11-06T20:21:26.000Z",
    "source": "RockstarINTEL",
    "summary": "New GTA6 Screenshots have released comparing real life cars to in Game Cars RockstarINTEL"
+  },
+  {
+   "id": "gn-l09iz8",
+   "title": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbW5JaUdhSDBPWDM4TGl4VjNvWDVpaWdFT0ExMjZldE9ZcWp5RkpJMkYtR3U2b3c5dGdXZDJVSVJBa1Z0UXMyb2E2aW5sajV3NXhWUzZzTTZVQm9WTVpZR0ZkZGpXY1BLRzFvS0NRT05wZjZOSGlKbi1jc1M3SFVzckg0bE1kOERqN1lJZHg4RWZaZzBIUE9BWUx0ZmhGNHloQlYwV1VNWTdoUWVRNi16S3FTYkRmYldyejVuNzRKNTdhNmhLYlAtZVVB?oc=5",
+   "date": "2026-11-06T20:18:08.000Z",
+   "source": "IGN",
+   "summary": "German GTA 6 Players Can Legally Take Time Off to Play the Game on Launch, But Spots Are Limited IGN"
   },
   {
    "id": "gn-11vklbm",
@@ -445,6 +581,14 @@
    "date": "2026-11-06T19:00:33.000Z",
    "source": "Hypebeast",
    "summary": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life Hypebeast"
+  },
+  {
+   "id": "gn-6yvls5",
+   "title": "A character featured in new launch photos for GTA 6 has similar face tattoos as rapper Kodak Black, along with his signature hairstyle and personalized jewelry.",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNUNSbFUtc3QtTHZTS2x1UDBpOXk0NWxQNFEycm80Y0pnZVRpY0hyTEVmalQ1bFVMbzNHc3ZEVEtaOWQ3MW9sNi1IN1RxOFlXaGFkVlY5NkFGTVVHZ0VMSHpvdEtDWkFQY3VVRjdkalNmTTA0ZXp6R3JDVDJLYm45YlczbVVoVXcwVWFCWm5HTk9oNmM0UURaU05UQnZ2YWUycjNZOWxNM3haLXBBeGkyREtVSzhxLUwzRkc0RjBpZzJBdnBqTUNDaEl3YXliNDl4b3NWdGhqUW0ydnU2MUhv?oc=5",
+   "date": "2026-11-06T18:49:40.000Z",
+   "source": "Facebook",
+   "summary": "A character featured in new launch photos for GTA 6 has similar face tattoos as rapper Kodak Black, along with his signature hairstyle and personalized jewelry. Facebook"
   },
   {
    "id": "gn-uzgu3j",
@@ -605,153 +749,57 @@
    "date": "2026-11-06T17:08:43.000Z",
    "source": "GamesRadar+",
    "summary": "Rockstar could release GTA 6 on PC sooner to head off AI ports, former Grand Theft Auto lead suggests: \"I think I would be concerned\" GamesRadar+"
-  },
-  {
-   "id": "gn-70vh0q",
-   "title": "The Miami Heat GTA 6 Uniforms Are Fucking Awesome",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRHNuWDlfOFBzanVFc1VZNWJ6R3U0eGhUSHlVdHBqdGphWWF0YnVCUVBybzdQSldHcWlhc3Z3RWZOejBEdFNOWklYd2JRZ3JsYnU2S2dsLXRsbzRkcUxuZzlaUkJVSjZpelpPQTRqRW1HNlA3a0llT0R1bGxkZnQwWVpoVzluNW5mc0pHNFBEWkdtZTN1aHoxMA?oc=5",
-   "date": "2026-11-06T17:05:19.000Z",
-   "source": "Barstool Sports",
-   "summary": "The Miami Heat GTA 6 Uniforms Are Fucking Awesome Barstool Sports"
-  },
-  {
-   "id": "gn-1i41kjq",
-   "title": "Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVE4tZm1uWVBSc2pQOEcyN0RzWUVzVmR3YTZxRklxUkh4aGhRQ2I1NGNxMURnNngySjhwVy04dVNnSkZVMFFxSjhoLUVCNElJdjkwM291Sko0M01lODhwNE1sU0NhNTRYN252TVJnME1BMXo0bVZOczhORHpTUnJwRmUzUF9hMDNnMXdmTEtIU2lxdmVnLXFRcnlCckNERm1YNEJnSTRxMjd6STBVZERnWl81UkszZVcyN2p6RnlZQlNTZUQxbk1xYzU2OG0xekxjbkM2OUU1QTdGaF9adndSNlJLbw?oc=5",
-   "date": "2026-11-06T16:56:58.000Z",
-   "source": "IGN",
-   "summary": "Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says IGN"
-  },
-  {
-   "id": "gn-o6r17r",
-   "title": "Travis Scott GTA 6 Nike Sneakers—Can You Buy The Air Force 1s?",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81SWFfUlV6dUdYOEppclZnam4zR0RveFJXNmxxUF93VGMxdUtUNXhZc296UXBMUlB5ZDBDZm5aajV0U1VtZ1d2c01CbzM3UE1WT1plRUhZUHl2RTdjNzNkeXpkYjM0MjMyd0xfYjI0OC1iTkJ2WmtHNzMyaVA?oc=5",
-   "date": "2026-11-06T16:49:03.000Z",
-   "source": "Insider Gaming",
-   "summary": "Travis Scott GTA 6 Nike Sneakers—Can You Buy The Air Force 1s? Insider Gaming"
-  },
-  {
-   "id": "gn-1xkg1sq",
-   "title": "Take-Two CEO Says Piracy Is a “Fact of Life” Ahead of GTA 6 Release; Will Tackle It With Legal & Technical Work",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMTNCM3d0OHlXT3lEaF9hUk93ejRJMnhuYl9YaUtGUmExa2NlS0VTS3FTeElSUWx1c0RRU3cwbG85NTNheXRIQUtfR2U5LWNZaW5GbEwtMzdOTFRDQ2VJOExBUmlZSVhaNi0zc3prcV8tZnlrdFc4VzlMZWc3cjltUGUwdFZpWmVFaUJlWUhnQjBMYlU2SEI2djlCWXhBNDllTUx1RlY5TVpjV204OFhzWkt3NGVNdw?oc=5",
-   "date": "2026-11-06T16:46:44.000Z",
-   "source": "MP1st",
-   "summary": "Take-Two CEO Says Piracy Is a “Fact of Life” Ahead of GTA 6 Release; Will Tackle It With Legal & Technical Work MP1st"
-  },
-  {
-   "id": "gn-fis133",
-   "title": "GTA VI release day could cost Florida $17.5 million in lost wages",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNX2w3dk5BbmN0NW1lYW5yRXQ5V0NFUVZNZE1QOGg1ZENmeXFxdk54RFFwQmJVUGFjbEVIZmZGWi1EcExQS3c1d2s3VDhJOGlERUktODNOYjdrMmhla0hESW4xcXdvZzFPZll1S3NuZHRlekN3TTlJY3owQjNHSDlKZkxILTJiOXZYYkVzZExxajlkbTRhdkp3QVlHRlpwNktuSDBfeXdJZVl0SHEwcGxlVWhTRmpZZkQ3THV0YVBJaUdGTHY2WFNPdXpXOUxCS2MwaXh2bDBaWjh1aEJORjlCaXdiZkdwaXBQYktnNlpWOVYyT09FSzZR?oc=5",
-   "date": "2026-11-06T16:41:00.000Z",
-   "source": "IslanderNews.com",
-   "summary": "GTA VI release day could cost Florida $17.5 million in lost wages IslanderNews.com"
-  },
-  {
-   "id": "gn-1igcfc4",
-   "title": "GTA 6's massive 212GB download can be finished in under 30 minutes with Spectrum's free Gig Speed Lift — eligible customers get upgraded to 1 Gbps through Thanksgiving",
-   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPQVpndWJ1aGxZdjV5ZVhLVjhTYUd3TmJQOUxEM3B5SGk0cE9VakJCNkZTOWxnZTFzbnlUSUZnSjFLRjFUb2dHM2ozTUJiZWFfX044WjdiXzYtT1E1XzMzVHJNRHJmZXZkaHZKakFvM0pOdVZ5WGRZN25VWWRwUlkxRG5oMHIzVm5uVktfQVJWMjRmRjZoaWpHdUhBM3RFUlNyYTBPOFE0ekZZNy1IQkFvUTlrWTdDdUc4QmloQzdfZzFiQ1FZNDZoYUdJZ2h6Rzh2NDFodVVPV1FjUVhZYkxpQnJGRFJoY2cwZnZ3TndwM2JTcE5xV3VQU192VDMxemJESUx5ZThxeHE2emt3QWdiTTJmZXNyeDlucDVPWmZQVzNLRFVIYmIzc0dnVVNBMGU5eFE?oc=5",
-   "date": "2026-11-06T16:36:05.000Z",
-   "source": "Tom's Guide",
-   "summary": "GTA 6's massive 212GB download can be finished in under 30 minutes with Spectrum's free Gig Speed Lift — eligible customers get upgraded to 1 Gbps through Thanksgiving Tom's Guide"
-  },
-  {
-   "id": "gn-1wufju7",
-   "title": "GTA 6 screenshots show Jason, Lucia in Vice City",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU1lPQ3hnRmVIc2IyeGFkZWszREt3ek9MMm5FdkVkaHdtRnhOVjVfRkNPNnJIV3A4ajJKTncxb3lBWkIzREo2Sk5yblNuU19BSE9Fa2JWMHRYMkF3bzFsNGl3aEpra3UwZGxNMFczY0F0bTFJdVBRTlZ0dVpobEE5R21FWjMxcmE3?oc=5",
-   "date": "2026-11-06T16:35:24.000Z",
-   "source": "Yahoo",
-   "summary": "GTA 6 screenshots show Jason, Lucia in Vice City Yahoo"
-  },
-  {
-   "id": "gn-1mgl8fk",
-   "title": "GTA 6 screenshots show Jason, Lucia in Vice City",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY19nWUFwRGIxb1IzYlFKRmRoQmxSLWxfM2VubWhYLUhpb2FsZk9DSi13UjhvTUJvRGZDMGdZME5VNFVtSXJBRnl2b1FQREVYX2p1c1dERjFtR3hTaUpsWjBLR25ONGItUDI5bnlqS2k1cnk1NEJBdWpZMk03Z3FNLURhZzEtX1dVNDVZNllTLVhfSV9PZVp1MC16ck85eWQ0S0Y4Tng0WQ?oc=5",
-   "date": "2026-11-06T16:35:00.000Z",
-   "source": "USA Today",
-   "summary": "GTA 6 screenshots show Jason, Lucia in Vice City USA Today"
-  },
-  {
-   "id": "gn-1a1tcsd",
-   "title": "Ex-Rockstar Director: AI Ports Could Push GTA VI to PC Sooner Than Planned",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iRE9zbXhKNERJQ3ltNFdTeTJjcEpZZU4yT2NBYmxiVjZFdXY2Sm10dFRlRFNOX2Q0czFqVmxJUC1zMkhpdy03ejhmMnR3TFEzZXR3WXN2YkpOLW1hbU1MMXRkN2JUbjV3WXU4b3RucVZhV0pUVHc?oc=5",
-   "date": "2026-11-06T16:35:00.000Z",
-   "source": "BigGo Finance",
-   "summary": "Ex-Rockstar Director: AI Ports Could Push GTA VI to PC Sooner Than Planned BigGo Finance"
-  },
-  {
-   "id": "gn-1yfz5rt",
-   "title": "How many GTA 6 pre-orders are there? About 7.7 million digital, by one estimate",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblFIdFRXd2wyZTloOHJiWkFzdzVtWVBMZGhVR3JvWXRzaEMxT1dBOTJoSGtGYjRLbXROTkZxZkxlc2NKS1R1NnFGLXYzNm1yajZVeTdBMFJ0QkFibS1NSDlmVk95S0FjVkJfWm8yeWFVd2xXZEVKOTY4ZVd0TksyR3VKMUREZE9hbjJZOC14WER6RGN5N2RBbWJ0TUhyQ1Zxd095M2hXU0FKQ1lf?oc=5",
-   "date": "2026-11-06T16:33:25.000Z",
-   "source": "Nacionale",
-   "summary": "How many GTA 6 pre-orders are there? About 7.7 million digital, by one estimate Nacionale"
-  },
-  {
-   "id": "gn-139xhy5",
-   "title": "Is Kodak Black in GTA 6? Rapper’s Grand Theft Auto Cameo, Explained",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56clVkZzlSYktfMUlhT2NwZ05NRkdRdm1UbjAtSUJhcER2WXBvaWJnYUFVaVVkbHAtUkxGQ2V6X0dubVR3VzVRT2MxamNyWEU2TFNyblVTakZTdS1LX204aQ?oc=5",
-   "date": "2026-11-06T16:32:22.000Z",
-   "source": "Insider Gaming",
-   "summary": "Is Kodak Black in GTA 6? Rapper’s Grand Theft Auto Cameo, Explained Insider Gaming"
-  },
-  {
-   "id": "gn-1krj1u7",
-   "title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjVqU3JtRmpUOGdnY2tKR0dwcUIzaktiTXFPdVFvRU1HcTBrMmNCbFRGUE1YMXRGM2RJN1RXajVsU3NrMkhyQXJMNTRvWFVTaG1WMzRHVHFNZC03TnhEMlQyVlVGUlp5QjI5UlpqUEtKOElEUFNFQUpRQWdreE9JZDBDQ1FxMDVyYjFQUVZ5Q2JZU0hEMzZJV1J0dk0?oc=5",
-   "date": "2026-11-06T16:27:45.000Z",
-   "source": "GameSpot",
-   "summary": "GTA 6 Is Going All Out On Details You Might Never Even Notice GameSpot"
-  },
-  {
-   "id": "gn-r5icjc",
-   "title": "Could potential AI clones of GTA VI force a quicker official port?",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR25GYW1yUTFpdUdFMWhRWllFRFcwbE94cjZ4U3F0bWp1TllnUWdfSkhSMWtXUkRvOFRkeGlqbkpTTEE0Mlc1YTA2c0ZLQkFrbm5LZzFRNzRWQThBMFJ5LThHUEEzZjNsTXpyekI4S3FvYjdpMGluSDNMaGFsakhMZHhjaXE2UjNZM3o3cXF5SDF6RWp4Qzh1Wnh6R0I4UWs1UUI5a3VVa0w?oc=5",
-   "date": "2026-11-06T16:19:12.000Z",
-   "source": "Ars Technica",
-   "summary": "Could potential AI clones of GTA VI force a quicker official port? Ars Technica"
-  },
-  {
-   "id": "gn-1x00z1y",
-   "title": "GTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ2R3U0hJZ0tLNnZHbGxMbVJqclF3Umd0Z2t4N2ktM1Raa0VJbUprWDhJdHFZV21XTkl5Qzl3T1NUbkNJS3M2MnhuU0dISlY4QW8ycTZ0QllGazI5TFhUR0F1LUVEQzBQTjR6TnZ0OWZyOW5RakhBYWkxbjllYWZHbE15Zk1SUdIBiwFBVV95cUxQbTBxNzZVa3ctbWpnVng3VEZLc0JSSmV0WlptS3NKT2xURTdqM2xYLUQ2c3d2Rm5WYUZ0UThSaFlDUXFNbFBoTUJQcUJkWkEwZ1FENTBkSHhLeVMxd255c0U5QlZVSThfQ1NBMFBZbWlTOENteXJDUER4V2RHRzFra0pGM2hteklVUWpR?oc=5",
-   "date": "2026-11-06T16:18:11.000Z",
-   "source": "Wccftech",
-   "summary": "GTA 6 Could Cost “Tens of Thousands Of Dollars” in Tokens To Develop Unofficial PC Port, Yet Former Rockstar Tech Director Believes It Will Be Attempted Wccftech"
-  },
-  {
-   "id": "gn-1lewmrd",
-   "title": "Travis Scott’s Most Colorful ‘GTA 6’ x Nike Air Force 1 Will Also Be the Hardest to Get [PHOTOS]",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0tMLXZOVkhKb0RpTXh4aVNDeWMxZHNYaW1hbENnZHJjZG9nZUREdlo3ak9GRXBTX2pMeEQtWHpCNGo5VnNnWHBGTFVvaWtYRHh3UnVVeUNkdE1MOXVKM3hUUFBMcGNxRVRCczVHeXk0ZkZOYl9zWDFIUWQxeTAxdFloeFphbDRJS0ZLbnRMaFlUcnBIblRpMEFlbHJmOExWdGdsR25GNjJ0WGRqTEhPdnQ0Q2cwcGc?oc=5",
-   "date": "2026-11-06T16:15:46.000Z",
-   "source": "WWD",
-   "summary": "Travis Scott’s Most Colorful ‘GTA 6’ x Nike Air Force 1 Will Also Be the Hardest to Get [PHOTOS] WWD"
-  },
-  {
-   "id": "gn-ec7k29",
-   "title": "Travis Scott, the Miami Heat, Nike, and Rockstar Games are Dropping GTA 6 Miami Heat Uniforms",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWkpLbk5ObGZBdGVhQ3BQTU9xdmUzQkRKdW10QXBaSmFwR1ZLQWQwakZGcjdYd0NZcFpoTUNCTlpTUGtEeGVyR3VVektGcDJ1cGREdVAzYkxtcVAtZ2hCaEM2MmpyTnRJWWNidGFXUUg0YnlScm1lRnFEVjl4Z1pZY1k4NEpNOTJkLTNadm9FM1FMMy1Dcm81cGlzMXRyVms4MHhmNll1Umt0aXFYU05PMWVB?oc=5",
-   "date": "2026-11-06T16:15:39.000Z",
-   "source": "Sole Retriever",
-   "summary": "Travis Scott, the Miami Heat, Nike, and Rockstar Games are Dropping GTA 6 Miami Heat Uniforms Sole Retriever"
-  },
-  {
-   "id": "gn-1aomqsg",
-   "title": "How To Play GTA 6 Early And Before Release Day",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nUFY4dGVkb3ZtUU5TTjdKVUkzVTdtY3pGLVZfaWVnTHlfdUpOZ2E1N1JJS2VId25Vb3U5LXpyZE80VDdiZmhKVWRQeVZraGxWTTllYzNzMGRDZVJVYUZBN2R1WUdvdWdaS0xWX1UzaVFweTZfUks5OGhBNkJYZw?oc=5",
-   "date": "2026-11-06T16:13:46.000Z",
-   "source": "RockstarINTEL",
-   "summary": "How To Play GTA 6 Early And Before Release Day RockstarINTEL"
-  },
-  {
-   "id": "gn-11no63d",
-   "title": "Travis Scott’s Most Colorful ‘GTA 6’ x Nike Air Force 1 Will Also Be the Hardest to Get",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQXpZbTc5VHlXRXdxOGk5VG42ZmtwYlNtSFo5NEQyaDNWNmZBWHp2NXVjVEFhVzZGbTFac2xaWmJvNUJYa2VzWUk1bkxhcU5ScGdCVDVzc1BIUEU0LWtieEc4dGI1T01xbkRSRVhWZjlhX3ZiS0NMT1U0V0JpcVZUY0pNaHg4UVh5eGxMR3RFeVA5ZHVrN2NGTWRmY09BNFU5TC1XZDdwQ1A0MGdlRmc?oc=5",
-   "date": "2026-11-06T16:11:53.000Z",
-   "source": "WWD",
-   "summary": "Travis Scott’s Most Colorful ‘GTA 6’ x Nike Air Force 1 Will Also Be the Hardest to Get WWD"
   }
  ],
  "community": [
+  {
+   "id": "rd-15jftoi",
+   "title": "I’m at NINE1NINE IRL",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xpwoqw/im_at_nine1nine_irl/",
+   "date": "2026-11-07T03:47:44.000Z",
+   "source": "r/GTA6",
+   "summary": "Club E11EVEN in Miami is hosting an opening night to kick off a month-long rebranding to NINE1NINE submitted by /u/officialjoelf [link] [comments]"
+  },
+  {
+   "id": "rd-1g92ye0",
+   "title": "My setup for GTA 6 is finally complete!",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xptvkk/my_setup_for_gta_6_is_finally_complete/",
+   "date": "2026-11-07T01:22:39.000Z",
+   "source": "r/GTA6",
+   "summary": "PS5 Pro + 4K Oled 77 Inch Samsung S90F! submitted by /u/G6atlker21 [link] [comments]"
+  },
+  {
+   "id": "rd-1v55sv8",
+   "title": "Grandpa, it's not a movie. It's gameplay",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xpscpb/grandpa_its_not_a_movie_its_gameplay/",
+   "date": "2026-11-07T00:09:32.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/transparent_slime [link] [comments]"
+  },
+  {
+   "id": "rd-f4tndg",
+   "title": "Have we seen enough?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xps85r/have_we_seen_enough/",
+   "date": "2026-11-07T00:03:55.000Z",
+   "source": "r/GTA6",
+   "summary": "Honestly, I think we've seen enough of GTA 6 to hold us over until launch. I'm satisfied with what Rockstar has shown us so far, and I'd rather discover the rest for myself when the game releases. But"
+  },
+  {
+   "id": "rd-135rphh",
+   "title": "So, are we getting cake or fake? But this time, in GTA?\" (IRL vs. in-game footage) Tbh couldn't tell which one is gta vi",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xprhmf/so_are_we_getting_cake_or_fake_but_this_time_in/",
+   "date": "2026-11-06T23:29:38.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/transparent_slime [link] [comments]"
+  },
+  {
+   "id": "rd-10341k3",
+   "title": "Real life commercial for the Vice City vs Bucks game on 11/18.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xpr7o9/real_life_commercial_for_the_vice_city_vs_bucks/",
+   "date": "2026-11-06T23:16:42.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Electronic-Craft4918 [link] [comments]"
+  },
   {
    "id": "rd-1mpwb0a",
    "title": "It is crazy that GTA VI will be the first game to \"dethrone\" the best sunsets and sunrises in gaming that is RDR2",
@@ -1023,54 +1071,6 @@
    "date": "2026-11-05T22:12:15.000Z",
    "source": "r/GTA6",
    "summary": "I've been replaying GTA 5 in the lead up to 6 and my biggest issue with it is how little I have to worry about my weapon loadout considering how generous the game is with ammo and your unlimited weapo"
-  },
-  {
-   "id": "rd-11x59us",
-   "title": "It’s happening!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xotrgl/its_happening/",
-   "date": "2026-11-05T20:44:47.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/AdzSenior [link] [comments]"
-  },
-  {
-   "id": "rd-ui8z5h",
-   "title": "These are so tea!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xot3ny/these_are_so_tea/",
-   "date": "2026-11-05T20:18:13.000Z",
-   "source": "r/GTA6",
-   "summary": "These are faves out of all of the new screenshots. I can’t wait to dress up with with my friends and do girly tings! Online character customization is about to be crazy! 🔥 submitted by /u/EquipmentTo"
-  },
-  {
-   "id": "rd-15vdq94",
-   "title": "GTA 6 Ad in Poland, Warsaw",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xot241/gta_6_ad_in_poland_warsaw/",
-   "date": "2026-11-05T20:16:32.000Z",
-   "source": "r/GTA6",
-   "summary": "Soo beautiful amongst the neon city lights. submitted by /u/Wonderer2K [link] [comments]"
-  },
-  {
-   "id": "rd-1jqizga",
-   "title": "Leonida is a Fish",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xopjor/leonida_is_a_fish/",
-   "date": "2026-11-05T18:01:04.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Hkrlje [link] [comments]"
-  },
-  {
-   "id": "rd-1i6ukfi",
-   "title": "The technical upgrade we are witnessing in our lifetime",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xop96r/the_technical_upgrade_we_are_witnessing_in_our/",
-   "date": "2026-11-05T17:50:27.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/MrAlexWolf [link] [comments]"
-  },
-  {
-   "id": "rd-yt63bl",
-   "title": "I just saw this screenshot and Jason and Lucia look so cute!😭❤️",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xoor2e/i_just_saw_this_screenshot_and_jason_and_lucia/",
-   "date": "2026-11-05T17:31:38.000Z",
-   "source": "r/GTA6",
-   "summary": "I think this is one of the few screenshots where they aren't in a gun fight or something like that lol and its refreshing to see a photo of them having a moment of leisure together. I'm so excited how"
   }
  ]
 }
