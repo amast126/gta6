@@ -1,27 +1,27 @@
 {
- "generated": "2026-11-07T20:40:33.291Z",
+ "generated": "2026-11-08T00:09:23.508Z",
  "sources": {
   "newswire": {
    "ok": true,
    "count": 12,
    "scanned": 40,
-   "checked": "2026-11-07T20:40:33.291Z"
+   "checked": "2026-11-08T00:09:23.508Z"
   },
   "youtube": {
    "ok": true,
    "count": 4,
    "scanned": 15,
-   "checked": "2026-11-07T20:40:33.291Z"
+   "checked": "2026-11-08T00:09:23.508Z"
   },
   "googlenews": {
    "ok": true,
-   "count": 100,
-   "checked": "2026-11-07T20:40:33.291Z"
+   "count": 102,
+   "checked": "2026-11-08T00:09:23.508Z"
   },
   "reddit": {
    "ok": true,
    "count": 25,
-   "checked": "2026-11-07T20:40:33.291Z"
+   "checked": "2026-11-08T00:09:23.508Z"
   }
  },
  "official": [
@@ -270,12 +270,28 @@
  ],
  "press": [
   {
+   "id": "gn-fcsr8n",
+   "title": "Travis Scott Unveils Limited-Edition Nike Air Force 1 Low ‘GTA 6’",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVRxOG1SZzVnRmZXb0NYc085cXJORkdxRGZlekNFU04xVUdQdHRqTEMwQ2lsSmdBa3Jud0duUkFHb0k2a0FUMGFpN0tOSTdfNDNZcE9wRmJyUnJMYXFtZm9PTXhQWW5QNmFWbDFlc2E1OXUzRHRuSVludWpMQms0NGg2N1lhaTJvQlRJMG9xenhwamlycEFnazFieUpXNXYzSHc?oc=5",
+   "date": "2026-11-07T20:41:23.000Z",
+   "source": "Cassius Life",
+   "summary": "Travis Scott Unveils Limited-Edition Nike Air Force 1 Low ‘GTA 6’ Cassius Life"
+  },
+  {
+   "id": "gn-eodqhg",
+   "title": "GTA 6 Public Transport and Fast Travel",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBILUNDbVYwUy0xVHFxWXh0bjNHQndsTEdrNk5Mc0xJUkxGenloQzl3QURjbDBZQjRKalZ6RjU5d19SU2xCZGJHSjhtUURySnZwWF9oSXdRbi1ZcGp6akotZDNCWWhObHIxVU5oZHItSWREelV1SkE?oc=5",
+   "date": "2026-11-07T20:34:04.000Z",
+   "source": "GTA BOOM",
+   "summary": "GTA 6 Public Transport and Fast Travel GTA BOOM"
+  },
+  {
    "id": "gn-13q1qmb",
-   "title": "GTA PS5 Physical Boxes Have Started Appearing In The Wild",
+   "title": "GTA 6 PS5 Physical Boxes Have Hit The Wild, A Harbinger Of Our Disc-Less Future",
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOVgwN05XUWx1TnZpUUs4NmRtRlRaZmpFdHVnTUtGbVRqMDJXMkZwY0lMZkd6S3hVOTBJMVRQMm16Y21GcVkwMXFJREViTHJfZWpRS2x6SU1KZGRjSmZCTExmUkdYcHROUmdKcVZEdWNYY1AtRXZBMlVYQnQxQkRxTUo0bjVDbFd0UndUbFZjbjB1T1FVSlJRbE54ZlZxNUVPMktLSE1RTWNlVS1D?oc=5",
    "date": "2026-11-07T20:21:25.000Z",
    "source": "Kotaku",
-   "summary": "GTA PS5 Physical Boxes Have Started Appearing In The Wild Kotaku"
+   "summary": "GTA 6 PS5 Physical Boxes Have Hit The Wild, A Harbinger Of Our Disc-Less Future Kotaku"
   },
   {
    "id": "gn-11uv4we",
@@ -294,6 +310,14 @@
    "summary": "Kodak Black Will Appear in GTA 6 as an NPC in Vice City Men's Journal"
   },
   {
+   "id": "gn-18glz3y",
+   "title": "Kodak Black Confirmed as an In-Game Character for Grand Theft Auto VI",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeEFPSDFiZk5rNHNqWjFHYWhwcmFYYVYyTnFReS1yNHlFUDlQNkh3cmJFWFJUR0VZYlBMMWkydEhNSUZmYk9FcEtoTExudmJiZi1HRWJqdDVCbktBTXdIclJpWnlsRmdIV1RBS0pOTXl3eVdCUHl2UTlobnFuZDl0WS01cXRZZlE?oc=5",
+   "date": "2026-11-07T19:56:24.000Z",
+   "source": "AOL.com",
+   "summary": "Kodak Black Confirmed as an In-Game Character for Grand Theft Auto VI AOL.com"
+  },
+  {
    "id": "gn-1n2a30y",
    "title": "Report: GTA 6 First \"Physical\" Copy Out in the Wild",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XUmF5UVNvU1pLQUtZQ1l3U0otbDVNS1pmS3R3cDZXajEzYWtkb1JWcy1rMEhfb25MTUFFeE55SkRRaTNXSGE0cnBVX0dsZWNRMHFRQ2ltY19KVkh5a3h5cF9iRWhpejJEYmNUMzV3Ujc5dFQ4YmthRWpDbw?oc=5",
@@ -303,11 +327,11 @@
   },
   {
    "id": "gn-1hwbnx9",
-   "title": "Former Staff Says Rockstar Should Worry About AI GTA 6 Clones",
+   "title": "Former Rockstar Developer Says They Should Hurry Up On GTA 6’s PC Version Before AI Gets There First",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZVNWanVUeGNwY3cxWVFfMzZPM3cxNzMwLVJYVmJxOUx2TlpKMFM2SmZESzE1V1hNc09mN0RnVy1ZZ3VJa2xmSHMzejBmQ1BuOU5kTU90OU9xenk3ZnphcWtPR2ItZGpDVHVISG1FVTJRZ1RrOWNMajhEUzBpbS1SbWpyNEEtc1JDNlRMeTlUOUtiMFZWUWQybWpHTUcweURLSHpIZ3VTRXA2M1daY1ZYZG1pMEhmX0F2NkxlSUF6WVo4NUtwOVVXRA?oc=5",
    "date": "2026-11-07T19:23:59.000Z",
    "source": "Kotaku",
-   "summary": "Former Staff Says Rockstar Should Worry About AI GTA 6 Clones Kotaku"
+   "summary": "Former Rockstar Developer Says They Should Hurry Up On GTA 6’s PC Version Before AI Gets There First Kotaku"
   },
   {
    "id": "gn-ta54up",
@@ -358,6 +382,14 @@
    "summary": "Grand Theft Auto VI Could Save Gamers Thousands of Dollars. How? Content Creator Claims Rockstar’s $100 Price Tag Will Deliver Massive Returns LevelUp"
   },
   {
+   "id": "gn-qq6qly",
+   "title": "Internet Provider Is Giving GTA 6 Fans Faster Downloads for Free",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd19jTzUxX0ZxVGlTSVhvblhwTDgtMU1PNjRZbndvSmxEZFhjU0E2UG5BXzFLWjFRSFJlMnRYN0RiLW4zcXk3Umtsb3hnS0lTV0Jtd3YxdEliNFNUT2dWQnBJNVB0LVdiRGwxR0xWYW0tREhQaDdTR0laQWdmZEkzVnhhU1plSEdMTWVPV2hjcHVFQXdGbHFCZEpHb0I1ZTQ?oc=5",
+   "date": "2026-11-07T18:04:12.000Z",
+   "source": "OpenCritic",
+   "summary": "Internet Provider Is Giving GTA 6 Fans Faster Downloads for Free OpenCritic"
+  },
+  {
    "id": "gn-ruote1",
    "title": "Life Invader: Modding GTA 5 Into GTA 6",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZREZLUkVOTjNxajB4TXFJMFhhYlNWZXJqa0hjelVsNkJNakUyZmxuSWtQMWV1aXFBVzF0WTNjVF8wQ3NSUEFLQ1pGTHVLUldKeWlDVG1xSklPeFk2aGQ0RFEyWlJQVTNSSThGSzg0ZDhJUFE2Sk1GeE5LUQ?oc=5",
@@ -372,14 +404,6 @@
    "date": "2026-11-07T17:48:13.000Z",
    "source": "Men's Journal",
    "summary": "Greensboro Police Are Begging Rockstar to Release ‘GTA 6’ for One Unexpected Reason Men's Journal"
-  },
-  {
-   "id": "gn-fcsr8n",
-   "title": "Travis Scott Unveils Limited-Edition Nike Air Force 1 Low ‘GTA 6’",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVRxOG1SZzVnRmZXb0NYc085cXJORkdxRGZlekNFU04xVUdQdHRqTEMwQ2lsSmdBa3Jud0duUkFHb0k2a0FUMGFpN0tOSTdfNDNZcE9wRmJyUnJMYXFtZm9PTXhQWW5QNmFWbDFlc2E1OXUzRHRuSVludWpMQms0NGg2N1lhaTJvQlRJMG9xenhwamlycEFnazFieUpXNXYzSHc?oc=5",
-   "date": "2026-11-07T17:33:46.000Z",
-   "source": "Cassius Life",
-   "summary": "Travis Scott Unveils Limited-Edition Nike Air Force 1 Low ‘GTA 6’ Cassius Life"
   },
   {
    "id": "gn-cvpush",
@@ -452,6 +476,14 @@
    "date": "2026-11-07T15:17:00.000Z",
    "source": "TheStreet",
    "summary": "GTA 6 sneakers will reportedly cost more than the game TheStreet"
+  },
+  {
+   "id": "gn-1g5qt8f",
+   "title": "GTA 6 Size: 212GB Preload Beats 230GB Leak [2026]",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEZoaDJfcGJlSHhMczc3MnNkNUxnalJWR2Z0YlNjR1FKcWpOTm1KbXdKc2dRSjFNVk5EYXltRGtPOWJqNVRLenFaRnVsVDVLRDNNV2JJSmM0dVQwNkVEeW1HelhKSjRLczBEY2dTQ0ZScXpWbHVRRWxNSXF5TlpDQkNudVJuSnNyQXo4Vg?oc=5",
+   "date": "2026-11-07T15:10:48.000Z",
+   "source": "https://tech-insider.org/",
+   "summary": "GTA 6 Size: 212GB Preload Beats 230GB Leak [2026] https://tech-insider.org/"
   },
   {
    "id": "gn-1zqpe6",
@@ -716,41 +748,57 @@
    "date": "2026-11-07T01:13:33.000Z",
    "source": "shattered.io",
    "summary": "GTA 6 Xbox File Size Leak: 209.86 GB vs 225.34 GB [2026] shattered.io"
-  },
-  {
-   "id": "gn-1of6dw1",
-   "title": "Rockstar and West Coast Customs Build Six Real 'GTA VI' Cars, From Lowriders to Donks",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUQ0ZmlUckNlanpLZEVVdDROVVNZTnpKODFkWU9MTS1yZ2FTajYxeHhuSTVVRU42NmdVRnZCdWh4SXhDR2plRkNPNnk5TFNoRjhYRHZidW4wV29pZ1ZWRTdNTGNXYXNXd2Y3X0V5aDkwTmk4bFQ0VFdVb1pFeWV4ZzVucDlJOVhscG1KMg?oc=5",
-   "date": "2026-11-07T00:33:45.000Z",
-   "source": "Complex",
-   "summary": "Rockstar and West Coast Customs Build Six Real 'GTA VI' Cars, From Lowriders to Donks Complex"
-  },
-  {
-   "id": "gn-13270mc",
-   "title": "Miami Heat Unveil Grand Theft Auto VI-Inspired Uniforms Ahead Of Video Game’s Release",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVFA1c2RIYnBJbzRTc29SZ1haY2hSb0RPTi1fVGZpRHNzTzBvLTVuc3RLODZMOUZZRkNhNlRxQzhFUjFnSjhkRXV6ck0yM0VzdDZJOGlBQXpBcXdGUU0xbTBaZVRDOFJqNUlQRVNuWllDZk5IUktHeEx0aklrQkJadGQxbGUta3ozMXpibVRWUFZTYWVXV2sxaGpxQmZXTjZsWFhkcXliXzBXX0RMRlA1SHJKX0lXSmNMVHUwX0VHODczSGlHTXR3ZDkyVF84Rm5LMWc?oc=5",
-   "date": "2026-11-07T00:24:57.000Z",
-   "source": "SportsLogos.Net News",
-   "summary": "Miami Heat Unveil Grand Theft Auto VI-Inspired Uniforms Ahead Of Video Game’s Release SportsLogos.Net News"
-  },
-  {
-   "id": "gn-b57rnn",
-   "title": "Miami Heat finally unveil ‘Grand Theft Auto VI’-themed jerseys and social media is loving them",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcGV5eHBxbVdtSVpBYzg0aXdYc2l2NkZ5YWEtWlppUzM4bDJQdkdBcDNEaWgwWFBhUWRCY291ZGpGeDVuOExUM0pSUmdzejJfLThncXhPNnVnZ1p5Y01udHBzRTFYRXpab3NXNmo0R00xU1p0Si1UQ2cxNW00NF92VGMyTXdlLVhHSUdkRDBxU3JZbi1xLWdweVppU0xRdDVMY2cwUzNMS3ZfYUVYLTd0eHdFai1BTU4xaUJDb1RuNjNPMkk?oc=5",
-   "date": "2026-11-07T00:21:21.000Z",
-   "source": "930 WFMD Free Talk",
-   "summary": "Miami Heat finally unveil ‘Grand Theft Auto VI’-themed jerseys and social media is loving them 930 WFMD Free Talk"
-  },
-  {
-   "id": "gn-13hnsjy",
-   "title": "GTA 6 File Size: Xbox Leak vs PS5, 212 GB Preload [2026]",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkNyTkFXeVdXU1ZGY1VKaXRfX25oVk1ZSjI1c2ZxNUlHbE9HMWN1SmowOGwtTWFRTE9LdWl5TllVZHcxMVdFWUZQQkZlWlRYLXNGaEtOQjJDZU9xcjFsYmpWbjF1RG1QQVY1RGt6R1JSWk4zQXZndGpiNENJQkQ1N1ZtaVpZVm5hNlQ2ejhCaw?oc=5",
-   "date": "2026-11-07T00:16:43.000Z",
-   "source": "https://tech-insider.org/",
-   "summary": "GTA 6 File Size: Xbox Leak vs PS5, 212 GB Preload [2026] https://tech-insider.org/"
   }
  ],
  "community": [
+  {
+   "id": "rd-1b0yeef",
+   "title": "On this day November 8 marks the 3rd anniversary of GTA 6 trailer being announced",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xqjzio/on_this_day_november_8_marks_the_3rd_anniversary/",
+   "date": "2026-11-07T23:27:55.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/Ok-Sail-6950 [link] [comments]"
+  },
+  {
+   "id": "rd-16i8rhr",
+   "title": "Don’t forget where we started",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xqjdu9/dont_forget_where_we_started/",
+   "date": "2026-11-07T22:59:18.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/gulagsurvivor2019 [link] [comments]"
+  },
+  {
+   "id": "rd-j84rbr",
+   "title": "Anyone else think GTA 5 makes GTA 6 look like a PS5 game, or is it just me?",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xqiuz0/anyone_else_think_gta_5_makes_gta_6_look_like_a/",
+   "date": "2026-11-07T22:34:07.000Z",
+   "source": "r/GTA6",
+   "summary": "submitted by /u/RogerRoger63358 [link] [comments]"
+  },
+  {
+   "id": "rd-2osgpy",
+   "title": "Spotted in the wild",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xqgvka/spotted_in_the_wild/",
+   "date": "2026-11-07T21:03:41.000Z",
+   "source": "r/GTA6",
+   "summary": "Only 12 more days buddy. Don’t die submitted by /u/Dr_Zoidberg003 [link] [comments]"
+  },
+  {
+   "id": "rd-1y67nuz",
+   "title": "Jumping the Bascule Bridge",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xqg1s1/jumping_the_bascule_bridge/",
+   "date": "2026-11-07T20:26:45.000Z",
+   "source": "r/GTA6",
+   "summary": "Hope there's an achievement for it but it'll be fun, none the less. submitted by /u/Rex_Digsdale [link] [comments]"
+  },
+  {
+   "id": "rd-8mo2no",
+   "title": "UK retailer Smyths Toys lists an “A3 Double Sided Poster” as being included in the case under the key features on its GTA VI product page.",
+   "url": "https://www.reddit.com/r/GTA6/comments/1xqfatr/uk_retailer_smyths_toys_lists_an_a3_double_sided/",
+   "date": "2026-11-07T19:54:27.000Z",
+   "source": "r/GTA6",
+   "summary": "Found by martinw93 on GTAForums submitted by /u/YYY31 [link] [comments]"
+  },
   {
    "id": "rd-1c5ikvj",
    "title": "Rockstar Games has responded to the pilot who spent 8 hours drawing GTA 6 artwork in the sky using his flight path.",
@@ -1022,54 +1070,6 @@
    "date": "2026-11-06T21:10:07.000Z",
    "source": "r/GTA6",
    "summary": "submitted by /u/Wonderer2K [link] [comments]"
-  },
-  {
-   "id": "rd-1onq1vv",
-   "title": "All in-game car pictures",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xpnvaj/all_ingame_car_pictures/",
-   "date": "2026-11-06T20:53:38.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Snak3D0ct0r [link] [comments]"
-  },
-  {
-   "id": "rd-16r57x3",
-   "title": "Could easily be mistaken as a real life picture but nope it's GTA 6!",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xpmupk/could_easily_be_mistaken_as_a_real_life_picture/",
-   "date": "2026-11-06T20:11:19.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/Wonderer2K [link] [comments]"
-  },
-  {
-   "id": "rd-o9re7j",
-   "title": "Hypebeast has just posted new in-game looks at GTA 6 cars! They’ve posted real life vs in-game comparison shots. The cars were customized by West Coast Customs",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xpmbvz/hypebeast_has_just_posted_new_ingame_looks_at_gta/",
-   "date": "2026-11-06T19:50:23.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/yourfavchoom [link] [comments]"
-  },
-  {
-   "id": "rd-1y9b3jd",
-   "title": "New car screenshots",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xpm66x/new_car_screenshots/",
-   "date": "2026-11-06T19:43:47.000Z",
-   "source": "r/GTA6",
-   "summary": "You can find more via the Hypebeast instagram page submitted by /u/Awesomeguy215 [link] [comments]"
-  },
-  {
-   "id": "rd-2lznkm",
-   "title": "Rockstar provided Hypedrive with new Grand Theft Auto VI screenshots (to compare real-life cars from West Coast Customs).",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xplymp/rockstar_provided_hypedrive_with_new_grand_theft/",
-   "date": "2026-11-06T19:35:12.000Z",
-   "source": "r/GTA6",
-   "summary": "submitted by /u/ResponsibleRatio6569 [link] [comments]"
-  },
-  {
-   "id": "rd-w80aue",
-   "title": "This new screenshot shows us a potential heist taking place in a shopping mall. Seems to be directly inspired by the 2012 Brent Cross Robbery, they were never caught.",
-   "url": "https://www.reddit.com/r/GTA6/comments/1xpjr2t/this_new_screenshot_shows_us_a_potential_heist/",
-   "date": "2026-11-06T18:09:08.000Z",
-   "source": "r/GTA6",
-   "summary": "Credits to @.GatorKeys_ on X, discovered the Inspiration. submitted by /u/YYY31 [link] [comments]"
   }
  ]
 }
